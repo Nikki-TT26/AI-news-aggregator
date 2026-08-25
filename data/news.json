@@ -1,7 +1,600 @@
 {
-  "updatedAt": "",
-  "latest": [],
-  "today": [],
-  "week": [],
-  "month": []
+  "updatedAt": "2026-08-25T13:06:05Z",
+  "latest": [
+    {
+      "id": "3f1f875dd11e",
+      "title": "Anthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞",
+      "summary": "作为首轮50家机构中，唯一已知获得访问权限的非美国实体，英国人工智能安全研究所（AISI）评估“神话”大模型后表示，该模型能够实施“需要人类专业人员数天工作”的复杂网络攻击。AISI也在上个月的一篇博客文章中指出，现在尚不清楚“神话”大模型是“与既有进展速度脱节的个别突破”，还是“更快发展趋势的一部分”。\n\nAnthropic预计，在未来6到12个月内，许多其他人工智能公司将拥有类似“神话”的模型...",
+      "highlights": [
+        "作为首轮50家机构中，唯一已知获得访问权限的非美国实体，英国人工智能安全研究所（AISI）评估“神话”大模型后表示，该模型能够实施“需要人类专业人员数天工作”的复杂网络攻击",
+        "AISI也在上个月的一篇博客文章中指出，现在尚不清楚“神话”大模型是“与既有进展速度脱节的个别突破”，还是“更快发展趋势的一部分”",
+        "Anthropic预计，在未来6到12个月内，许多其他人工智能公司将拥有类似“神话”的模型"
+      ],
+      "url": "https://www.cls.cn/detail/2388865",
+      "source": "cls.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-08-25T04:00:00Z"
+    },
+    {
+      "id": "f94e19edbdbe",
+      "title": "融资周报 | Stripe以逾70亿美元价格收购AI公司OpenRouter；AI芯片公司Etched筹集7亿美元 | PANews",
+      "summary": "AI数据中心运营商DataVita宣布完成3亿英镑（约4.06亿美元）融资，ING、ABN AMRO、西班牙桑坦德银行、苏格兰国家投资银行以及西门子金融服务参投，新资金将用于人工智能数据中心园区，并与AI云计算服务商CoreWeave达成15年数据中心租约。\n\nAI芯片初创公司Groq融资3.5亿美元，估值降至35亿美元\n\nAI芯片初创公司Groq完成3.5亿美元融资，但公司估值降至35亿美元，约...",
+      "highlights": [
+        "AI数据中心运营商DataVita宣布完成3亿英镑（约4.06亿美元）融资，ING、ABN AMRO、西班牙桑坦德银行、苏格兰国家投资银行以及西门子金融服务参投，新资金将用于人工智能数据中心园区，并与AI云计算服务商CoreWeave达成15年数据中心租约",
+        "AI芯片初创公司Groq融资3.5亿美元，估值降至35亿美元",
+        "AI芯片初创公司Groq完成3.5亿美元融资，但公司估值降至35亿美元，约为近一年之前估值的一半"
+      ],
+      "url": "https://www.panewslab.com/zh/articles/01a031ca-aacf-717b-a27a-d85e134d9ed7",
+      "source": "panewslab.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-08-24T12:00:00Z"
+    },
+    {
+      "id": "c365512aa37f",
+      "title": "AI早报 | 小米发布大模型专用AI加速芯片玄戒O100；小鹏机器人业务首轮融资超9亿美元",
+      "summary": "字节跳动对旗下的办公AI产品完成了一轮团队整合，TRAE、扣子（Coze）团队将整体并入豆包体系，其中TRAE Work、扣子将与豆包在工作场景的产品能力进行整合；TRAE IDE及CLI将作为豆包品牌下的编程产品线持续发展。此次调整后，字节也进一步明确了豆包的AI主干业务定位，将AI办公类产品的重心集中到豆包。此外，豆包最快将于本周内推出独立的AI办公产品“豆包工作”，作为字节面向AI办公场景的...",
+      "highlights": [
+        "字节跳动对旗下的办公AI产品完成了一轮团队整合，TRAE、扣子（Coze）团队将整体并入豆包体系，其中TRAE Work、扣子将与豆包在工作场景的产品能力进行整合；TRAE IDE及CLI将作为豆包品牌下的编程产品线持续发展",
+        "此次调整后，字节也进一步明确了豆包的AI主干业务定位，将AI办公类产品的重心集中到豆包",
+        "此外，豆包最快将于本周内推出独立的AI办公产品“豆包工作”，作为字节面向AI办公场景的统一产品及品牌"
+      ],
+      "url": "https://m.jiemian.com/article/14977970.html",
+      "source": "m.jiemian.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-08-25T00:00:00Z"
+    },
+    {
+      "id": "38083228cf6b",
+      "title": "文娱投资告别“赌爆款” 五类资产成新一轮投资主线",
+      "summary": "清华五道口的报告显示，2024年私募股权市场中，“人工智能+文化”项目数量占比已经超过30%；到2025年上半年，这一比例超过40%。按照烯牛数据统计，近一年的文化产业融资中，“文化×AI”相关项目达到138起，占比约41%。\n\n这轮投资并不仅仅指AI生成图片或者AI写作，而是覆盖剧本开发、分镜制作、角色设计、视频生成、动画生产、数字人、配音翻译、广告素材、游戏资产和智能玩具等多个环节。\n\n国务院...",
+      "highlights": [
+        "清华五道口的报告显示，2024年私募股权市场中，“人工智能+文化”项目数量占比已经超过30%；到2025年上半年，这一比例超过40%",
+        "按照烯牛数据统计，近一年的文化产业融资中，“文化×AI”相关项目达到138起，占比约41%",
+        "这轮投资并不仅仅指AI生成图片或者AI写作，而是覆盖剧本开发、分镜制作、角色设计、视频生成、动画生产、数字人、配音翻译、广告素材、游戏资产和智能玩具等多个环节"
+      ],
+      "url": "https://eu.36kr.com/zh/p/3953003256397191",
+      "source": "eu.36kr.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-08-24T12:00:00Z"
+    },
+    {
+      "id": "b77b3a89fa58",
+      "title": "Alibaba launches Wan3.0 AI video model after $10 billion ...",
+      "summary": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Alibaba (9988.HK), opens new tab officially rolled out its ...",
+      "highlights": [
+        "Skip to main content",
+        "Report AdImage 2",
+        "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv"
+      ],
+      "url": "https://www.reuters.com/business/retail-consumer/alibaba-launches-wan30-ai-video-model-after-10-billion-share-sale-2026-08-24",
+      "source": "reuters.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-08-24T08:15:19Z"
+    },
+    {
+      "id": "2984fe5e45cb",
+      "title": "IFOC 2026演讲预告｜阿里云资深技术专家王安斌：《AI数据中心光互连技术需求演进趋势探讨》 - 讯石光通讯网",
+      "summary": "目前，大会重磅演讲嘉宾阵容持续解锁！！！\n\n       在主论坛《AI智算光互联技术与架构演进》专题环节，阿里云资深技术专家王安斌将带来《AI数据中心光互连技术需求演进趋势探讨》主题分享，深度拆解AI算力驱动下光互连技术的迭代逻辑、产品升级路径及产业发展挑战，为行业超高速光互联技术落地应用提供参考。\n\n  据悉，当前AI算力集群规模化扩张，推动光互连技术从1.6T、3.2T快速向6.4T、12....",
+      "highlights": [
+        "目前，大会重磅演讲嘉宾阵容持续解锁",
+        "在主论坛《AI智算光互联技术与架构演进》专题环节，阿里云资深技术专家王安斌将带来《AI数据中心光互连技术需求演进趋势探讨》主题分享，深度拆解AI算力驱动下光互连技术的迭代逻辑、产品升级路径及产业发展挑战，为行业超高速光互联技术落地应用提供参考",
+        "据悉，当前AI算力集群规模化扩张，推动光互连技术从1.6T、3.2T快速向6.4T、12.8T超高速世代演进，对核心光芯片、高速光模块的性能、功耗、集成度提出全新严苛要求"
+      ],
+      "url": "http://www.iccsz.com/site/cn/News/2026/08/24/20260824034720008544.htm",
+      "source": "iccsz.com",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-08-24T12:00:00Z"
+    },
+    {
+      "id": "5b507cb520ce",
+      "title": "视觉中国：上半年实现营收3.7亿元 持续推进AI战略",
+      "summary": "中证报中证网讯（记者孟培嘉）视觉中国8月24日发布的2026年半年报显示，公司上半年实现营业收入3.7亿元，归母净利润为1.01亿元。报告期内，公司持续推进“AI智能+内容",
+      "highlights": [
+        "中证报中证网讯（记者孟培嘉）视觉中国8月24日发布的2026年半年报显示，公司上半年实现营业收入3.7亿元，归母净利润为1.01亿元",
+        "报告期内，公司持续推进“AI智能+内容"
+      ],
+      "url": "https://wap.eastmoney.com/a/202608243851627568.html",
+      "source": "wap.eastmoney.com",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-08-25T09:00:00Z"
+    },
+    {
+      "id": "0269d937d745",
+      "title": "烟台科技学院体育与健康学院教师团队在SSCI一区期刊发表高水平论文_龙口市_烟台大众网",
+      "summary": "针对这一空白，高菁教授团队创新性地整合了自我决定理论（SDT）、计划行为理论（TPB）和 Uses and Gratifications 理论（UGT）三大经典框架，构建并检验了一个链式中介模型。研究通过对数千名大学生的调研，运用结构方程模型和Bootstrap中介分析，揭示了心理需求如何通过社交媒体使用和参与动机的链式传导，最终影响大学生匹克球参与意向。这一发现为理解数字时代大学生参与新兴休闲运...",
+      "highlights": [
+        "针对这一空白，高菁教授团队创新性地整合了自我决定理论（SDT）、计划行为理论（TPB）和 Uses and Gratifications 理论（UGT）三大经典框架，构建并检验了一个链式中介模型",
+        "研究通过对数千名大学生的调研，运用结构方程模型和Bootstrap中介分析，揭示了心理需求如何通过社交媒体使用和参与动机的链式传导，最终影响大学生匹克球参与意向",
+        "这一发现为理解数字时代大学生参与新兴休闲运动的心理机制提供了全新理论视角"
+      ],
+      "url": "https://yantai.dzwww.com/ytxw/lks/202608/t20260824_18047625.htm",
+      "source": "yantai.dzcom",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-08-24T00:00:00Z"
+    },
+    {
+      "id": "990d6ea53a8d",
+      "title": "Meta to launch Hatch AI agent platform in coming weeks",
+      "summary": "Meta to launch Hatch AI agent platform in coming weeks- The Information\n\nInvesting.com -- Meta Platforms plans to release its consumer AI agent platform called Hatch within the next several weeks, The...",
+      "highlights": [
+        "Meta to launch Hatch AI agent platform in coming weeks- The Information",
+        "Investing.com -- Meta Platforms plans to release its consumer AI agent platform called Hatch within the next several weeks, The Information reported on Monday, citing internal documents.",
+        "The company is also working toward an October release for its newest AI model, named Watermelon, the reports said. [...] This article was generated with the support of AI and reviewed by an editor. For more information see our T&C."
+      ],
+      "url": "https://www.investing.com/news/stock-market-news/meta-to-launch-hatch-ai-agent-platform-in-coming-weeks-the-information-93CH-4874295",
+      "source": "investing.com",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-08-24T23:25:05Z"
+    },
+    {
+      "id": "26a1fa453551",
+      "title": "中信百信银行发布《迈向AI原生时代：大模型驱动的智能研发白皮书》",
+      "summary": "8月24日，中信百信银行发布《迈向AI原生时代：大模型驱动的智能研发白皮书》（以下简称“白皮书”）。该白皮书由中信百信银行组织撰写，百度作为技术合作伙伴之一，",
+      "highlights": [
+        "8月24日，中信百信银行发布《迈向AI原生时代：大模型驱动的智能研发白皮书》（以下简称“白皮书”）",
+        "该白皮书由中信百信银行组织撰写，百度作为技术合作伙伴之一，"
+      ],
+      "url": "http://www.cb.com.cn/index/show/gszx/cv/cv135325391339",
+      "source": "cb.com.cn",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-08-25T07:00:00Z"
+    },
+    {
+      "id": "d712d60a61e2",
+      "title": "超大规模智算集群互连进展：CPO进入商用阶段",
+      "summary": "中经记者 李玉洋 上海报道. 作为光电互连终极形态的CPO（Co-Packaged Optics，共封装光学）正从实验室走向规模商用。 近日，英伟达(NVDA.US)NVIDIA AI Infrastructure",
+      "highlights": [
+        "中经记者 李玉洋 上海报道. 作为光电互连终极形态的CPO（Co-Packaged Optics，共封装光学）正从实验室走向规模商用",
+        "近日，英伟达(NVDA.US)NVIDIA AI Infrastructure"
+      ],
+      "url": "http://www.cb.com.cn/index/show/gs1/cv/cv12548873133",
+      "source": "cb.com.cn",
+      "category": "行业话题",
+      "importance": 2,
+      "publishedAt": "2026-08-24T12:00:00Z"
+    },
+    {
+      "id": "8b64896900b5",
+      "title": "IDC - WRC 2026今日开幕：买家进场，Physical AI迎来“验收时刻”",
+      "summary": "IDC观点：机器人产业进入能力与商业化并重阶段\n\nWRC 2026释放的信号表明，机器人产业正从技术能力竞争转向产业化能力竞争。随着本体、模型和核心零部件持续成熟，稳定运行、规模交付、数据积累和软硬件协同能力将成为下一阶段竞争关键。\n\n未来2-3年将是具身智能机器人从技术验证走向规模化应用的重要窗口期，不同场景将呈现分层落地特征：服务场景率先开展探索应用，工业场景将成为具身智能机器人规模化落地的重...",
+      "highlights": [
+        "IDC观点：机器人产业进入能力与商业化并重阶段",
+        "WRC 2026释放的信号表明，机器人产业正从技术能力竞争转向产业化能力竞争",
+        "随着本体、模型和核心零部件持续成熟，稳定运行、规模交付、数据积累和软硬件协同能力将成为下一阶段竞争关键"
+      ],
+      "url": "https://www.idc.com/resource-center/blog/wrc-2026%E4%BB%8A%E6%97%A5%E5%BC%80%E5%B9%95%EF%BC%9A%E4%B9%B0%E5%AE%B6%E8%BF%9B%E5%9C%BA%EF%BC%8Cphysical-ai%E8%BF%8E%E6%9D%A5%E9%AA%8C%E6%94%B6%E6%97%B6%E5%88%BB",
+      "source": "idc.com",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-08-24T05:00:14Z"
+    },
+    {
+      "id": "79e8dfd70c8c",
+      "title": "Startups Are Still Acquiring Startups, Led By Ultra-High-Valuation Unicorns",
+      "summary": "Overall, the pace of dealmaking in 2026 looks relatively flat 1Reported deal counts are down slightly this year from the comparable period, but are likely to even out more over time as some acquisitio...",
+      "highlights": [
+        "Overall, the pace of dealmaking in 2026 looks relatively flat 1Reported deal counts are down slightly this year from the comparable period, but are likely to even out more over time as some acquisitions, particularly smaller deals, are added to the dataset weeks or months after they close.2 compared to last year. That’s not entirely surprising given that overall market conditions haven’t changed dramatically. The number of tech startup IPOs remains below normal. Hot venture-backed AI companies [...] Artificial intelligence • Crypto • Fintech • Health, Wellness & Biotech • M&A • Seed funding • Startups",
+        "# Startups Are Still Acquiring Startups, Led By Ultra-High-Valuation Unicorns",
+        "Joanna Glasner"
+      ],
+      "url": "https://news.crunchbase.com/ma/startup-unicorns-acquisitions-ai-fintech-biotech",
+      "source": "news.crunchbase.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-08-24T11:00:12Z"
+    }
+  ],
+  "today": [
+    {
+      "id": "3f1f875dd11e",
+      "title": "Anthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞",
+      "summary": "作为首轮50家机构中，唯一已知获得访问权限的非美国实体，英国人工智能安全研究所（AISI）评估“神话”大模型后表示，该模型能够实施“需要人类专业人员数天工作”的复杂网络攻击。AISI也在上个月的一篇博客文章中指出，现在尚不清楚“神话”大模型是“与既有进展速度脱节的个别突破”，还是“更快发展趋势的一部分”。\n\nAnthropic预计，在未来6到12个月内，许多其他人工智能公司将拥有类似“神话”的模型...",
+      "highlights": [
+        "作为首轮50家机构中，唯一已知获得访问权限的非美国实体，英国人工智能安全研究所（AISI）评估“神话”大模型后表示，该模型能够实施“需要人类专业人员数天工作”的复杂网络攻击",
+        "AISI也在上个月的一篇博客文章中指出，现在尚不清楚“神话”大模型是“与既有进展速度脱节的个别突破”，还是“更快发展趋势的一部分”",
+        "Anthropic预计，在未来6到12个月内，许多其他人工智能公司将拥有类似“神话”的模型"
+      ],
+      "url": "https://www.cls.cn/detail/2388865",
+      "source": "cls.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-08-25T04:00:00Z"
+    },
+    {
+      "id": "c365512aa37f",
+      "title": "AI早报 | 小米发布大模型专用AI加速芯片玄戒O100；小鹏机器人业务首轮融资超9亿美元",
+      "summary": "字节跳动对旗下的办公AI产品完成了一轮团队整合，TRAE、扣子（Coze）团队将整体并入豆包体系，其中TRAE Work、扣子将与豆包在工作场景的产品能力进行整合；TRAE IDE及CLI将作为豆包品牌下的编程产品线持续发展。此次调整后，字节也进一步明确了豆包的AI主干业务定位，将AI办公类产品的重心集中到豆包。此外，豆包最快将于本周内推出独立的AI办公产品“豆包工作”，作为字节面向AI办公场景的...",
+      "highlights": [
+        "字节跳动对旗下的办公AI产品完成了一轮团队整合，TRAE、扣子（Coze）团队将整体并入豆包体系，其中TRAE Work、扣子将与豆包在工作场景的产品能力进行整合；TRAE IDE及CLI将作为豆包品牌下的编程产品线持续发展",
+        "此次调整后，字节也进一步明确了豆包的AI主干业务定位，将AI办公类产品的重心集中到豆包",
+        "此外，豆包最快将于本周内推出独立的AI办公产品“豆包工作”，作为字节面向AI办公场景的统一产品及品牌"
+      ],
+      "url": "https://m.jiemian.com/article/14977970.html",
+      "source": "m.jiemian.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-08-25T00:00:00Z"
+    },
+    {
+      "id": "5b507cb520ce",
+      "title": "视觉中国：上半年实现营收3.7亿元 持续推进AI战略",
+      "summary": "中证报中证网讯（记者孟培嘉）视觉中国8月24日发布的2026年半年报显示，公司上半年实现营业收入3.7亿元，归母净利润为1.01亿元。报告期内，公司持续推进“AI智能+内容",
+      "highlights": [
+        "中证报中证网讯（记者孟培嘉）视觉中国8月24日发布的2026年半年报显示，公司上半年实现营业收入3.7亿元，归母净利润为1.01亿元",
+        "报告期内，公司持续推进“AI智能+内容"
+      ],
+      "url": "https://wap.eastmoney.com/a/202608243851627568.html",
+      "source": "wap.eastmoney.com",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-08-25T09:00:00Z"
+    },
+    {
+      "id": "26a1fa453551",
+      "title": "中信百信银行发布《迈向AI原生时代：大模型驱动的智能研发白皮书》",
+      "summary": "8月24日，中信百信银行发布《迈向AI原生时代：大模型驱动的智能研发白皮书》（以下简称“白皮书”）。该白皮书由中信百信银行组织撰写，百度作为技术合作伙伴之一，",
+      "highlights": [
+        "8月24日，中信百信银行发布《迈向AI原生时代：大模型驱动的智能研发白皮书》（以下简称“白皮书”）",
+        "该白皮书由中信百信银行组织撰写，百度作为技术合作伙伴之一，"
+      ],
+      "url": "http://www.cb.com.cn/index/show/gszx/cv/cv135325391339",
+      "source": "cb.com.cn",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-08-25T07:00:00Z"
+    }
+  ],
+  "week": [
+    {
+      "id": "3f1f875dd11e",
+      "title": "Anthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞",
+      "summary": "作为首轮50家机构中，唯一已知获得访问权限的非美国实体，英国人工智能安全研究所（AISI）评估“神话”大模型后表示，该模型能够实施“需要人类专业人员数天工作”的复杂网络攻击。AISI也在上个月的一篇博客文章中指出，现在尚不清楚“神话”大模型是“与既有进展速度脱节的个别突破”，还是“更快发展趋势的一部分”。\n\nAnthropic预计，在未来6到12个月内，许多其他人工智能公司将拥有类似“神话”的模型...",
+      "highlights": [
+        "作为首轮50家机构中，唯一已知获得访问权限的非美国实体，英国人工智能安全研究所（AISI）评估“神话”大模型后表示，该模型能够实施“需要人类专业人员数天工作”的复杂网络攻击",
+        "AISI也在上个月的一篇博客文章中指出，现在尚不清楚“神话”大模型是“与既有进展速度脱节的个别突破”，还是“更快发展趋势的一部分”",
+        "Anthropic预计，在未来6到12个月内，许多其他人工智能公司将拥有类似“神话”的模型"
+      ],
+      "url": "https://www.cls.cn/detail/2388865",
+      "source": "cls.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-08-25T04:00:00Z"
+    },
+    {
+      "id": "f94e19edbdbe",
+      "title": "融资周报 | Stripe以逾70亿美元价格收购AI公司OpenRouter；AI芯片公司Etched筹集7亿美元 | PANews",
+      "summary": "AI数据中心运营商DataVita宣布完成3亿英镑（约4.06亿美元）融资，ING、ABN AMRO、西班牙桑坦德银行、苏格兰国家投资银行以及西门子金融服务参投，新资金将用于人工智能数据中心园区，并与AI云计算服务商CoreWeave达成15年数据中心租约。\n\nAI芯片初创公司Groq融资3.5亿美元，估值降至35亿美元\n\nAI芯片初创公司Groq完成3.5亿美元融资，但公司估值降至35亿美元，约...",
+      "highlights": [
+        "AI数据中心运营商DataVita宣布完成3亿英镑（约4.06亿美元）融资，ING、ABN AMRO、西班牙桑坦德银行、苏格兰国家投资银行以及西门子金融服务参投，新资金将用于人工智能数据中心园区，并与AI云计算服务商CoreWeave达成15年数据中心租约",
+        "AI芯片初创公司Groq融资3.5亿美元，估值降至35亿美元",
+        "AI芯片初创公司Groq完成3.5亿美元融资，但公司估值降至35亿美元，约为近一年之前估值的一半"
+      ],
+      "url": "https://www.panewslab.com/zh/articles/01a031ca-aacf-717b-a27a-d85e134d9ed7",
+      "source": "panewslab.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-08-24T12:00:00Z"
+    },
+    {
+      "id": "c365512aa37f",
+      "title": "AI早报 | 小米发布大模型专用AI加速芯片玄戒O100；小鹏机器人业务首轮融资超9亿美元",
+      "summary": "字节跳动对旗下的办公AI产品完成了一轮团队整合，TRAE、扣子（Coze）团队将整体并入豆包体系，其中TRAE Work、扣子将与豆包在工作场景的产品能力进行整合；TRAE IDE及CLI将作为豆包品牌下的编程产品线持续发展。此次调整后，字节也进一步明确了豆包的AI主干业务定位，将AI办公类产品的重心集中到豆包。此外，豆包最快将于本周内推出独立的AI办公产品“豆包工作”，作为字节面向AI办公场景的...",
+      "highlights": [
+        "字节跳动对旗下的办公AI产品完成了一轮团队整合，TRAE、扣子（Coze）团队将整体并入豆包体系，其中TRAE Work、扣子将与豆包在工作场景的产品能力进行整合；TRAE IDE及CLI将作为豆包品牌下的编程产品线持续发展",
+        "此次调整后，字节也进一步明确了豆包的AI主干业务定位，将AI办公类产品的重心集中到豆包",
+        "此外，豆包最快将于本周内推出独立的AI办公产品“豆包工作”，作为字节面向AI办公场景的统一产品及品牌"
+      ],
+      "url": "https://m.jiemian.com/article/14977970.html",
+      "source": "m.jiemian.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-08-25T00:00:00Z"
+    },
+    {
+      "id": "38083228cf6b",
+      "title": "文娱投资告别“赌爆款” 五类资产成新一轮投资主线",
+      "summary": "清华五道口的报告显示，2024年私募股权市场中，“人工智能+文化”项目数量占比已经超过30%；到2025年上半年，这一比例超过40%。按照烯牛数据统计，近一年的文化产业融资中，“文化×AI”相关项目达到138起，占比约41%。\n\n这轮投资并不仅仅指AI生成图片或者AI写作，而是覆盖剧本开发、分镜制作、角色设计、视频生成、动画生产、数字人、配音翻译、广告素材、游戏资产和智能玩具等多个环节。\n\n国务院...",
+      "highlights": [
+        "清华五道口的报告显示，2024年私募股权市场中，“人工智能+文化”项目数量占比已经超过30%；到2025年上半年，这一比例超过40%",
+        "按照烯牛数据统计，近一年的文化产业融资中，“文化×AI”相关项目达到138起，占比约41%",
+        "这轮投资并不仅仅指AI生成图片或者AI写作，而是覆盖剧本开发、分镜制作、角色设计、视频生成、动画生产、数字人、配音翻译、广告素材、游戏资产和智能玩具等多个环节"
+      ],
+      "url": "https://eu.36kr.com/zh/p/3953003256397191",
+      "source": "eu.36kr.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-08-24T12:00:00Z"
+    },
+    {
+      "id": "b77b3a89fa58",
+      "title": "Alibaba launches Wan3.0 AI video model after $10 billion ...",
+      "summary": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Alibaba (9988.HK), opens new tab officially rolled out its ...",
+      "highlights": [
+        "Skip to main content",
+        "Report AdImage 2",
+        "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv"
+      ],
+      "url": "https://www.reuters.com/business/retail-consumer/alibaba-launches-wan30-ai-video-model-after-10-billion-share-sale-2026-08-24",
+      "source": "reuters.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-08-24T08:15:19Z"
+    },
+    {
+      "id": "2984fe5e45cb",
+      "title": "IFOC 2026演讲预告｜阿里云资深技术专家王安斌：《AI数据中心光互连技术需求演进趋势探讨》 - 讯石光通讯网",
+      "summary": "目前，大会重磅演讲嘉宾阵容持续解锁！！！\n\n       在主论坛《AI智算光互联技术与架构演进》专题环节，阿里云资深技术专家王安斌将带来《AI数据中心光互连技术需求演进趋势探讨》主题分享，深度拆解AI算力驱动下光互连技术的迭代逻辑、产品升级路径及产业发展挑战，为行业超高速光互联技术落地应用提供参考。\n\n  据悉，当前AI算力集群规模化扩张，推动光互连技术从1.6T、3.2T快速向6.4T、12....",
+      "highlights": [
+        "目前，大会重磅演讲嘉宾阵容持续解锁",
+        "在主论坛《AI智算光互联技术与架构演进》专题环节，阿里云资深技术专家王安斌将带来《AI数据中心光互连技术需求演进趋势探讨》主题分享，深度拆解AI算力驱动下光互连技术的迭代逻辑、产品升级路径及产业发展挑战，为行业超高速光互联技术落地应用提供参考",
+        "据悉，当前AI算力集群规模化扩张，推动光互连技术从1.6T、3.2T快速向6.4T、12.8T超高速世代演进，对核心光芯片、高速光模块的性能、功耗、集成度提出全新严苛要求"
+      ],
+      "url": "http://www.iccsz.com/site/cn/News/2026/08/24/20260824034720008544.htm",
+      "source": "iccsz.com",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-08-24T12:00:00Z"
+    },
+    {
+      "id": "5b507cb520ce",
+      "title": "视觉中国：上半年实现营收3.7亿元 持续推进AI战略",
+      "summary": "中证报中证网讯（记者孟培嘉）视觉中国8月24日发布的2026年半年报显示，公司上半年实现营业收入3.7亿元，归母净利润为1.01亿元。报告期内，公司持续推进“AI智能+内容",
+      "highlights": [
+        "中证报中证网讯（记者孟培嘉）视觉中国8月24日发布的2026年半年报显示，公司上半年实现营业收入3.7亿元，归母净利润为1.01亿元",
+        "报告期内，公司持续推进“AI智能+内容"
+      ],
+      "url": "https://wap.eastmoney.com/a/202608243851627568.html",
+      "source": "wap.eastmoney.com",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-08-25T09:00:00Z"
+    },
+    {
+      "id": "0269d937d745",
+      "title": "烟台科技学院体育与健康学院教师团队在SSCI一区期刊发表高水平论文_龙口市_烟台大众网",
+      "summary": "针对这一空白，高菁教授团队创新性地整合了自我决定理论（SDT）、计划行为理论（TPB）和 Uses and Gratifications 理论（UGT）三大经典框架，构建并检验了一个链式中介模型。研究通过对数千名大学生的调研，运用结构方程模型和Bootstrap中介分析，揭示了心理需求如何通过社交媒体使用和参与动机的链式传导，最终影响大学生匹克球参与意向。这一发现为理解数字时代大学生参与新兴休闲运...",
+      "highlights": [
+        "针对这一空白，高菁教授团队创新性地整合了自我决定理论（SDT）、计划行为理论（TPB）和 Uses and Gratifications 理论（UGT）三大经典框架，构建并检验了一个链式中介模型",
+        "研究通过对数千名大学生的调研，运用结构方程模型和Bootstrap中介分析，揭示了心理需求如何通过社交媒体使用和参与动机的链式传导，最终影响大学生匹克球参与意向",
+        "这一发现为理解数字时代大学生参与新兴休闲运动的心理机制提供了全新理论视角"
+      ],
+      "url": "https://yantai.dzwww.com/ytxw/lks/202608/t20260824_18047625.htm",
+      "source": "yantai.dzcom",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-08-24T00:00:00Z"
+    },
+    {
+      "id": "990d6ea53a8d",
+      "title": "Meta to launch Hatch AI agent platform in coming weeks",
+      "summary": "Meta to launch Hatch AI agent platform in coming weeks- The Information\n\nInvesting.com -- Meta Platforms plans to release its consumer AI agent platform called Hatch within the next several weeks, The...",
+      "highlights": [
+        "Meta to launch Hatch AI agent platform in coming weeks- The Information",
+        "Investing.com -- Meta Platforms plans to release its consumer AI agent platform called Hatch within the next several weeks, The Information reported on Monday, citing internal documents.",
+        "The company is also working toward an October release for its newest AI model, named Watermelon, the reports said. [...] This article was generated with the support of AI and reviewed by an editor. For more information see our T&C."
+      ],
+      "url": "https://www.investing.com/news/stock-market-news/meta-to-launch-hatch-ai-agent-platform-in-coming-weeks-the-information-93CH-4874295",
+      "source": "investing.com",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-08-24T23:25:05Z"
+    },
+    {
+      "id": "26a1fa453551",
+      "title": "中信百信银行发布《迈向AI原生时代：大模型驱动的智能研发白皮书》",
+      "summary": "8月24日，中信百信银行发布《迈向AI原生时代：大模型驱动的智能研发白皮书》（以下简称“白皮书”）。该白皮书由中信百信银行组织撰写，百度作为技术合作伙伴之一，",
+      "highlights": [
+        "8月24日，中信百信银行发布《迈向AI原生时代：大模型驱动的智能研发白皮书》（以下简称“白皮书”）",
+        "该白皮书由中信百信银行组织撰写，百度作为技术合作伙伴之一，"
+      ],
+      "url": "http://www.cb.com.cn/index/show/gszx/cv/cv135325391339",
+      "source": "cb.com.cn",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-08-25T07:00:00Z"
+    },
+    {
+      "id": "d712d60a61e2",
+      "title": "超大规模智算集群互连进展：CPO进入商用阶段",
+      "summary": "中经记者 李玉洋 上海报道. 作为光电互连终极形态的CPO（Co-Packaged Optics，共封装光学）正从实验室走向规模商用。 近日，英伟达(NVDA.US)NVIDIA AI Infrastructure",
+      "highlights": [
+        "中经记者 李玉洋 上海报道. 作为光电互连终极形态的CPO（Co-Packaged Optics，共封装光学）正从实验室走向规模商用",
+        "近日，英伟达(NVDA.US)NVIDIA AI Infrastructure"
+      ],
+      "url": "http://www.cb.com.cn/index/show/gs1/cv/cv12548873133",
+      "source": "cb.com.cn",
+      "category": "行业话题",
+      "importance": 2,
+      "publishedAt": "2026-08-24T12:00:00Z"
+    },
+    {
+      "id": "8b64896900b5",
+      "title": "IDC - WRC 2026今日开幕：买家进场，Physical AI迎来“验收时刻”",
+      "summary": "IDC观点：机器人产业进入能力与商业化并重阶段\n\nWRC 2026释放的信号表明，机器人产业正从技术能力竞争转向产业化能力竞争。随着本体、模型和核心零部件持续成熟，稳定运行、规模交付、数据积累和软硬件协同能力将成为下一阶段竞争关键。\n\n未来2-3年将是具身智能机器人从技术验证走向规模化应用的重要窗口期，不同场景将呈现分层落地特征：服务场景率先开展探索应用，工业场景将成为具身智能机器人规模化落地的重...",
+      "highlights": [
+        "IDC观点：机器人产业进入能力与商业化并重阶段",
+        "WRC 2026释放的信号表明，机器人产业正从技术能力竞争转向产业化能力竞争",
+        "随着本体、模型和核心零部件持续成熟，稳定运行、规模交付、数据积累和软硬件协同能力将成为下一阶段竞争关键"
+      ],
+      "url": "https://www.idc.com/resource-center/blog/wrc-2026%E4%BB%8A%E6%97%A5%E5%BC%80%E5%B9%95%EF%BC%9A%E4%B9%B0%E5%AE%B6%E8%BF%9B%E5%9C%BA%EF%BC%8Cphysical-ai%E8%BF%8E%E6%9D%A5%E9%AA%8C%E6%94%B6%E6%97%B6%E5%88%BB",
+      "source": "idc.com",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-08-24T05:00:14Z"
+    },
+    {
+      "id": "79e8dfd70c8c",
+      "title": "Startups Are Still Acquiring Startups, Led By Ultra-High-Valuation Unicorns",
+      "summary": "Overall, the pace of dealmaking in 2026 looks relatively flat 1Reported deal counts are down slightly this year from the comparable period, but are likely to even out more over time as some acquisitio...",
+      "highlights": [
+        "Overall, the pace of dealmaking in 2026 looks relatively flat 1Reported deal counts are down slightly this year from the comparable period, but are likely to even out more over time as some acquisitions, particularly smaller deals, are added to the dataset weeks or months after they close.2 compared to last year. That’s not entirely surprising given that overall market conditions haven’t changed dramatically. The number of tech startup IPOs remains below normal. Hot venture-backed AI companies [...] Artificial intelligence • Crypto • Fintech • Health, Wellness & Biotech • M&A • Seed funding • Startups",
+        "# Startups Are Still Acquiring Startups, Led By Ultra-High-Valuation Unicorns",
+        "Joanna Glasner"
+      ],
+      "url": "https://news.crunchbase.com/ma/startup-unicorns-acquisitions-ai-fintech-biotech",
+      "source": "news.crunchbase.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-08-24T11:00:12Z"
+    }
+  ],
+  "month": [
+    {
+      "id": "3f1f875dd11e",
+      "title": "Anthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞",
+      "summary": "作为首轮50家机构中，唯一已知获得访问权限的非美国实体，英国人工智能安全研究所（AISI）评估“神话”大模型后表示，该模型能够实施“需要人类专业人员数天工作”的复杂网络攻击。AISI也在上个月的一篇博客文章中指出，现在尚不清楚“神话”大模型是“与既有进展速度脱节的个别突破”，还是“更快发展趋势的一部分”。\n\nAnthropic预计，在未来6到12个月内，许多其他人工智能公司将拥有类似“神话”的模型...",
+      "highlights": [
+        "作为首轮50家机构中，唯一已知获得访问权限的非美国实体，英国人工智能安全研究所（AISI）评估“神话”大模型后表示，该模型能够实施“需要人类专业人员数天工作”的复杂网络攻击",
+        "AISI也在上个月的一篇博客文章中指出，现在尚不清楚“神话”大模型是“与既有进展速度脱节的个别突破”，还是“更快发展趋势的一部分”",
+        "Anthropic预计，在未来6到12个月内，许多其他人工智能公司将拥有类似“神话”的模型"
+      ],
+      "url": "https://www.cls.cn/detail/2388865",
+      "source": "cls.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-08-25T04:00:00Z"
+    },
+    {
+      "id": "d6a7fa800385",
+      "title": "OpenAI又宣布“暂缓前沿模型训练”？这是怎么一回事",
+      "summary": "《准备框架》（Preparedness Framework）是OpenAI早在2023年底提出的一套评估标准。其中网络安全能力的“关键”阈值，指的是AI模型无需人工干预，便能在许多经过强化的现实关键系统中识别并开发出各种严重级别的有效“零日漏洞”；或仅根据一个宏观的预期目标，便能针对经过强化的目标构思并执行端到端的新型网络攻击策略。\n\nOpenAI的最新公告，也引发网友们对另一个问题的争吵：Ast...",
+      "highlights": [
+        "《准备框架》（Preparedness Framework）是OpenAI早在2023年底提出的一套评估标准",
+        "其中网络安全能力的“关键”阈值，指的是AI模型无需人工干预，便能在许多经过强化的现实关键系统中识别并开发出各种严重级别的有效“零日漏洞”；或仅根据一个宏观的预期目标，便能针对经过强化的目标构思并执行端到端的新型网络攻击策略",
+        "OpenAI的最新公告，也引发网友们对另一个问题的争吵：Astra模型到底什么时候公开发布"
+      ],
+      "url": "https://www.cls.cn/detail/2457662",
+      "source": "cls.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-08-19T12:00:00Z"
+    },
+    {
+      "id": "4534b58f4683",
+      "title": "强大！神秘模型“牛来”引发网络热议，猜测是智谱还是另有其 ...",
+      "summary": "[](\n   首页\n   资讯\n   快讯\n   行情\n   日历\n   APP\n   VIP会员\n   大师课\n   生活家\n\n登录 / 注册\n\n   237 \n   收藏 \n\n   Image 1: qrcode\n   [](\n\n# 免费、强大！神秘模型“牛来”引发网络热议，猜测是智谱还是另有其人？\n\nImage 2: 龙玥龙玥 08-23 08:40 \n\n匿名模型Ox Alpha“牛来”免费...",
+      "highlights": [
+        "Image 1: qrcode",
+        "神秘模型“牛来”引发网络热议，猜测是智谱还是另有其人",
+        "Image 2: 龙玥龙玥 08-23 08:40"
+      ],
+      "url": "https://wallstreetcn.com/articles/3780081",
+      "source": "wallstreetcn.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-08-23T08:40:11Z"
+    },
+    {
+      "id": "f94e19edbdbe",
+      "title": "融资周报 | Stripe以逾70亿美元价格收购AI公司OpenRouter；AI芯片公司Etched筹集7亿美元 | PANews",
+      "summary": "AI数据中心运营商DataVita宣布完成3亿英镑（约4.06亿美元）融资，ING、ABN AMRO、西班牙桑坦德银行、苏格兰国家投资银行以及西门子金融服务参投，新资金将用于人工智能数据中心园区，并与AI云计算服务商CoreWeave达成15年数据中心租约。\n\nAI芯片初创公司Groq融资3.5亿美元，估值降至35亿美元\n\nAI芯片初创公司Groq完成3.5亿美元融资，但公司估值降至35亿美元，约...",
+      "highlights": [
+        "AI数据中心运营商DataVita宣布完成3亿英镑（约4.06亿美元）融资，ING、ABN AMRO、西班牙桑坦德银行、苏格兰国家投资银行以及西门子金融服务参投，新资金将用于人工智能数据中心园区，并与AI云计算服务商CoreWeave达成15年数据中心租约",
+        "AI芯片初创公司Groq融资3.5亿美元，估值降至35亿美元",
+        "AI芯片初创公司Groq完成3.5亿美元融资，但公司估值降至35亿美元，约为近一年之前估值的一半"
+      ],
+      "url": "https://www.panewslab.com/zh/articles/01a031ca-aacf-717b-a27a-d85e134d9ed7",
+      "source": "panewslab.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-08-24T12:00:00Z"
+    },
+    {
+      "id": "832a37f43666",
+      "title": "【立方基金通】大疆“卖飞”宇树科技/人形机器人龙头秘密递表/灵巧手赛道融资暴涨1500％",
+      "summary": "尔瑞鑫悦完成数千万元A+轮融资\n\n近日，北京尔瑞鑫悦科技有限公司宣布完成数千万元A+轮融资，本轮融资将主要用于加速尔瑞鑫悦全栈技术平台的AI智能化迭代升级、已获证诊断产品的商业化放量，以及健康管理板块多场景应用管线的临床与市场化进程。\n\n北极雄芯完成新一轮融资\n\n近日，北极雄芯宣布完成新一轮融资。本轮融资新引入京能基金、北创投、无锡市集成电路产业基金等政府及产业背景投资方，以及长江证券创新投、慕华...",
+      "highlights": [
+        "尔瑞鑫悦完成数千万元A+轮融资",
+        "近日，北京尔瑞鑫悦科技有限公司宣布完成数千万元A+轮融资，本轮融资将主要用于加速尔瑞鑫悦全栈技术平台的AI智能化迭代升级、已获证诊断产品的商业化放量，以及健康管理板块多场景应用管线的临床与市场化进程",
+        "北极雄芯完成新一轮融资"
+      ],
+      "url": "https://app.dahecube.com/article.html?artid=283940%3Frecid%3D1",
+      "source": "app.dahecube.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-08-19T12:00:00Z"
+    },
+    {
+      "id": "dd501abe27ee",
+      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "summary": "San Francisco\n\nScale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you.  \n  \nSave up to $300 today!\n\nREGISTER NOW\n\n## Most Popular\n\n Stripe will repor...",
+      "highlights": [
+        "San Francisco",
+        "Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you.",
+        "Save up to $300 today!"
+      ],
+      "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup",
+      "source": "techcrunch.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-08-19T21:51:23Z"
+    },
+    {
+      "id": "c365512aa37f",
+      "title": "AI早报 | 小米发布大模型专用AI加速芯片玄戒O100；小鹏机器人业务首轮融资超9亿美元",
+      "summary": "字节跳动对旗下的办公AI产品完成了一轮团队整合，TRAE、扣子（Coze）团队将整体并入豆包体系，其中TRAE Work、扣子将与豆包在工作场景的产品能力进行整合；TRAE IDE及CLI将作为豆包品牌下的编程产品线持续发展。此次调整后，字节也进一步明确了豆包的AI主干业务定位，将AI办公类产品的重心集中到豆包。此外，豆包最快将于本周内推出独立的AI办公产品“豆包工作”，作为字节面向AI办公场景的...",
+      "highlights": [
+        "字节跳动对旗下的办公AI产品完成了一轮团队整合，TRAE、扣子（Coze）团队将整体并入豆包体系，其中TRAE Work、扣子将与豆包在工作场景的产品能力进行整合；TRAE IDE及CLI将作为豆包品牌下的编程产品线持续发展",
+        "此次调整后，字节也进一步明确了豆包的AI主干业务定位，将AI办公类产品的重心集中到豆包",
+        "此外，豆包最快将于本周内推出独立的AI办公产品“豆包工作”，作为字节面向AI办公场景的统一产品及品牌"
+      ],
+      "url": "https://m.jiemian.com/article/14977970.html",
+      "source": "m.jiemian.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-08-25T00:00:00Z"
+    },
+    {
+      "id": "67950b898d9a",
+      "title": "昨夜今晨：AI大模型竞速 芯片政策加码 新能源汽车出海 华体育app官网下载关注科技前沿",
+      "summary": "昨夜今晨科技要闻：OpenAI发布GPT-5，我国芯片新规出台，比亚迪海外工厂投产，华体育app官网下载持续关注行业动态。",
+      "highlights": [
+        "昨夜今晨科技要闻：OpenAI发布GPT-5，我国芯片新规出台，比亚迪海外工厂投产，华体育app官网下载持续关注行业动态"
+      ],
+      "url": "http://www.womenofchina.com/news/wiki/522494569.html",
+      "source": "womenofchina.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-08-21T12:00:00Z"
+    },
+    {
+      "id": "e8e1c1303629",
+      "title": "三千亿热钱涌入AI江湖，一级市场谁在定规矩？",
+      "summary": "公元二零二六年八月十九日，中国人工智能一级市场正上演一幕资本大戏。 据IT桔子、清科及投中数据统计，二零二六年上半年，国内一级市场股权融资（不含IPO、并购）规模",
+      "highlights": [
+        "公元二零二六年八月十九日，中国人工智能一级市场正上演一幕资本大戏",
+        "据IT桔子、清科及投中数据统计，二零二六年上半年，国内一级市场股权融资（不含IPO、并购）规模"
+      ],
+      "url": "https://www.or100.cc?p=701588",
+      "source": "or100.cc",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-08-19T12:00:00Z"
+    },
+    {
+      "id": "38083228cf6b",
+      "title": "文娱投资告别“赌爆款” 五类资产成新一轮投资主线",
+      "summary": "清华五道口的报告显示，2024年私募股权市场中，“人工智能+文化”项目数量占比已经超过30%；到2025年上半年，这一比例超过40%。按照烯牛数据统计，近一年的文化产业融资中，“文化×AI”相关项目达到138起，占比约41%。\n\n这轮投资并不仅仅指AI生成图片或者AI写作，而是覆盖剧本开发、分镜制作、角色设计、视频生成、动画生产、数字人、配音翻译、广告素材、游戏资产和智能玩具等多个环节。\n\n国务院...",
+      "highlights": [
+        "清华五道口的报告显示，2024年私募股权市场中，“人工智能+文化”项目数量占比已经超过30%；到2025年上半年，这一比例超过40%",
+        "按照烯牛数据统计，近一年的文化产业融资中，“文化×AI”相关项目达到138起，占比约41%",
+        "这轮投资并不仅仅指AI生成图片或者AI写作，而是覆盖剧本开发、分镜制作、角色设计、视频生成、动画生产、数字人、配音翻译、广告素材、游戏资产和智能玩具等多个环节"
+      ],
+      "url": "https://eu.36kr.com/zh/p/3953003256397191",
+      "source": "eu.36kr.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-08-24T12:00:00Z"
+    }
+  ]
 }
