@@ -1,4 +1,5 @@
 import os
+import sys
 import json
 import hashlib
 import urllib.request
@@ -260,13 +261,13 @@ def main():
 
     raw_results = collect_all_news(days=2)
     if not raw_results:
-        print("未搜索到任何结果，退出。")
-        return
+        print("[ERROR] 未搜索到任何结果，请检查 Tavily API Key 和网络连接。")
+        sys.exit(1)
 
     new_items = process_with_llm(raw_results)
     if not new_items:
-        print("LLM 未提炼出有效新闻，退出。")
-        return
+        print("[ERROR] LLM 未提炼出有效新闻，请检查 Volcengine API Key 和 Endpoint ID。")
+        sys.exit(1)
 
     print("[3/4] 合并历史数据并去重...")
     existing = load_existing()
