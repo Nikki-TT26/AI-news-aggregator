@@ -1,10 +1,12 @@
 import os
 import sys
 import json
+import re
 import hashlib
 import urllib.request
 import urllib.error
 from datetime import datetime, timedelta, timezone
+from urllib.parse import urlparse
 
 TAVILY_API_KEY = os.environ.get("TAVILY_API_KEY")
 VOLC_API_KEY = os.environ.get("VOLC_API_KEY")
@@ -22,6 +24,14 @@ SEARCH_QUERIES = [
 ]
 
 CATEGORIES = ["模型发布", "产品进展", "投并购", "前沿理论", "创业动态", "行业话题", "其他"]
+
+CATEGORY_KEYWORDS = {
+    "模型发布": ["发布", "推出", "release", "launch", "model", "大模型", "gpt", "claude", "gemini", "llama", "豆包", "deepseek", "开源"],
+    "投并购": ["融资", "并购", "收购", "投资", "funding", "acquisition", "investment", "raise", "估值", "上市", "ipo", "轮"],
+    "前沿理论": ["研究", "论文", "paper", "research", "突破", "理论", "theory", "arxiv", "科学家", "发现"],
+    "产品进展": ["产品", "上线", "功能", "更新", "product", "feature", "上新", "app", "应用", "工具"],
+    "创业动态": ["创业", "初创", "startup", "founder", "创始人", "团队", "离职", "加入"],
+}
 
 
 def tavily_search(query, days=2, max_results=10):
@@ -48,10 +58,10 @@ def tavily_search(query, days=2, max_results=10):
             return result.get("results", [])
     except urllib.error.HTTPError as e:
         body = e.read().decode("utf-8", errors="replace")[:500]
-        print(f"  [WARN] 搜索失败 ({query}): HTTP {e.code} - {body}")
+        print(f"  [WARN] Tavily 搜索失败 ({query}): HTTP {e.code} - {body}")
         return []
     except Exception as e:
-        print(f"  [WARN] 搜索失败 ({query}): {e}")
+        print(f"  [WARN] Tavily 搜索失败 ({query}): {e}")
         return []
 
 
@@ -68,6 +78,71 @@ def collect_all_news(days=2):
                 all_results.append(r)
         print(f"  完成 query: {q} -> 累计 {len(all_results)} 条去重结果")
     return all_results
+
+
+def guess_category(title, content):
+    text = (title + " " + content).lower()
+    best_cat = "行业话题"
+    best_score = 0
+    for cat, keywords in CATEGORY_KEYWORDS.items():
+        score = sum(1 for kw in keywords if kw in text)
+        if score > best_score:
+            best_score = score
+            best_cat = cat
+    return best_cat
+
+
+def guess_importance(title, content):
+    text = (title + " " + content).lower()
+    high_signals = ["重大", "突破", "首次", "发布", "融资", "收购", "ipo", "上市", "billion", "亿", "launch", "release", "gpt", "claude", "openai", "anthropic", "google", "nvidia"]
+    score = sum(1 for s in high_signals if s in text)
+    if score >= 4:
+        return 5
+    if score >= 3:
+        return 4
+    if score >= 2:
+        return 3
+    return 2
+
+
+def process_raw_fallback(raw_results):
+    print("  [FALLBACK] LLM 不可用，使用规则化方式处理搜索结果...")
+    processed = []
+    for r in raw_results:
+        url = r.get("url", "")
+        if not url or "example.com" in url:
+            continue
+        title = r.get("title", "").strip()
+        content = (r.get("content", "") or "").strip()
+        if not title:
+            continue
+        summary = content[:200] + ("..." if len(content) > 200 else "")
+        sentences = re.split(r'[。！？\n]', content)
+        highlights = [s.strip() for s in sentences if len(s.strip()) > 10][:3]
+        if not highlights:
+            highlights = [summary[:80]]
+        pub_date = r.get("published_date", "")
+        if not pub_date:
+            pub_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+        else:
+            try:
+                dt = datetime.strptime(pub_date, "%a, %d %b %Y %H:%M:%S %Z")
+                pub_date = dt.strftime("%Y-%m-%dT%H:%M:%SZ")
+            except Exception:
+                pass
+        processed.append({
+            "id": hashlib.md5(url.encode()).hexdigest()[:12],
+            "title": title,
+            "summary": summary,
+            "highlights": highlights,
+            "url": url,
+            "source": extract_source(url),
+            "category": guess_category(title, content),
+            "importance": guess_importance(title, content),
+            "publishedAt": pub_date,
+        })
+    print(f"  [FALLBACK] 规则化处理完成，有效新闻 {len(processed)} 条")
+    return processed
 
 
 def call_llm(prompt):
@@ -88,16 +163,24 @@ def call_llm(prompt):
             "Authorization": f"Bearer {VOLC_API_KEY}",
         },
     )
-    with urllib.request.urlopen(req, timeout=60) as response:
-        result = json.loads(response.read().decode("utf-8"))
-        content = result["choices"][0]["message"]["content"].strip()
-        if content.startswith("```json"):
-            content = content[7:]
-        if content.startswith("```"):
-            content = content[3:]
-        if content.endswith("```"):
-            content = content[:-3]
-        return content.strip()
+    try:
+        with urllib.request.urlopen(req, timeout=60) as response:
+            result = json.loads(response.read().decode("utf-8"))
+            content = result["choices"][0]["message"]["content"].strip()
+            if content.startswith("```json"):
+                content = content[7:]
+            if content.startswith("```"):
+                content = content[3:]
+            if content.endswith("```"):
+                content = content[:-3]
+            return content.strip()
+    except urllib.error.HTTPError as e:
+        body = e.read().decode("utf-8", errors="replace")[:800]
+        print(f"  [ERROR] 火山 API HTTP {e.code}: {body}")
+        raise
+    except Exception as e:
+        print(f"  [ERROR] 火山 API 调用失败: {type(e).__name__}: {e}")
+        raise
 
 
 def process_with_llm(raw_results):
@@ -145,8 +228,8 @@ def process_with_llm(raw_results):
         content = call_llm(prompt)
         items = json.loads(content)
     except Exception as e:
-        print(f"  [ERROR] LLM 调用或解析失败: {e}")
-        return []
+        print(f"  [WARN] LLM 调用或解析失败，将使用降级方案: {e}")
+        return None
 
     processed = []
     for item in items:
@@ -160,6 +243,12 @@ def process_with_llm(raw_results):
         pub_date = date_map.get(idx, "")
         if not pub_date:
             pub_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+        else:
+            try:
+                dt = datetime.strptime(pub_date, "%a, %d %b %Y %H:%M:%S %Z")
+                pub_date = dt.strftime("%Y-%m-%dT%H:%M:%SZ")
+            except Exception:
+                pass
         processed.append({
             "id": hashlib.md5(real_url.encode()).hexdigest()[:12],
             "title": item.get("title", ""),
@@ -177,7 +266,6 @@ def process_with_llm(raw_results):
 
 def extract_source(url):
     try:
-        from urllib.parse import urlparse
         host = urlparse(url).netloc
         return host.replace("www.", "")
     except Exception:
@@ -219,7 +307,7 @@ def classify_by_time(items):
         pub = parse_date(item.get("publishedAt", ""))
         if pub.tzinfo is None:
             pub = pub.replace(tzinfo=timezone.utc)
-        if pub >= now - timedelta(hours=24):
+        if pub >= now - timedelta(hours=48):
             latest.append(item)
         if pub >= today_start:
             today.append(item)
@@ -253,20 +341,25 @@ def deduplicate(items):
 def main():
     print("=== 开始更新 AI 资讯 ===")
     if not TAVILY_API_KEY:
-        raise ValueError("缺少 TAVILY_API_KEY")
-    if not VOLC_API_KEY:
-        raise ValueError("缺少 VOLC_API_KEY")
-    if not VOLC_ENDPOINT_ID:
-        raise ValueError("缺少 VOLC_ENDPOINT_ID")
+        print("[ERROR] 缺少 TAVILY_API_KEY")
+        sys.exit(1)
 
     raw_results = collect_all_news(days=2)
     if not raw_results:
         print("[ERROR] 未搜索到任何结果，请检查 Tavily API Key 和网络连接。")
         sys.exit(1)
 
-    new_items = process_with_llm(raw_results)
+    if VOLC_API_KEY and VOLC_ENDPOINT_ID:
+        new_items = process_with_llm(raw_results)
+        if new_items is None or len(new_items) == 0:
+            print("  [WARN] LLM 处理失败或无结果，降级到规则化处理...")
+            new_items = process_raw_fallback(raw_results)
+    else:
+        print("[WARN] 未配置 VOLC_API_KEY 或 VOLC_ENDPOINT_ID，使用规则化处理...")
+        new_items = process_raw_fallback(raw_results)
+
     if not new_items:
-        print("[ERROR] LLM 未提炼出有效新闻，请检查 Volcengine API Key 和 Endpoint ID。")
+        print("[ERROR] 未能生成任何新闻数据。")
         sys.exit(1)
 
     print("[3/4] 合并历史数据并去重...")
@@ -288,7 +381,12 @@ def main():
     if len(week) < 5 or len(month) < 5:
         print("  [BACKFILL] 周/月数据不足，执行历史回溯搜索...")
         backfill_results = collect_all_news(days=30)
-        backfill_items = process_with_llm(backfill_results)
+        if VOLC_API_KEY and VOLC_ENDPOINT_ID:
+            backfill_items = process_with_llm(backfill_results)
+            if backfill_items is None or len(backfill_items) == 0:
+                backfill_items = process_raw_fallback(backfill_results)
+        else:
+            backfill_items = process_raw_fallback(backfill_results)
         all_items = deduplicate(all_items + backfill_items)
         all_items = [
             item for item in all_items
