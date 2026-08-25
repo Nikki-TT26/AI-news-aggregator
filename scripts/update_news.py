@@ -28,6 +28,7 @@ def tavily_search(query, days=2, max_results=10):
     data = {
         "api_key": TAVILY_API_KEY,
         "query": query,
+        "topic": "news",
         "search_depth": "basic",
         "include_answer": False,
         "include_images": False,
@@ -44,6 +45,10 @@ def tavily_search(query, days=2, max_results=10):
         with urllib.request.urlopen(req, timeout=30) as response:
             result = json.loads(response.read().decode("utf-8"))
             return result.get("results", [])
+    except urllib.error.HTTPError as e:
+        body = e.read().decode("utf-8", errors="replace")[:500]
+        print(f"  [WARN] 搜索失败 ({query}): HTTP {e.code} - {body}")
+        return []
     except Exception as e:
         print(f"  [WARN] 搜索失败 ({query}): {e}")
         return []
