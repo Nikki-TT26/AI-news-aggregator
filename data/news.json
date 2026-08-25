@@ -1,52 +1,7 @@
 {
-  "updatedAt": "2026-08-25T11:00:00Z",
-  "latest": [
-    {
-      "id": "1",
-      "title": "字节跳动发布豆包大模型新版本",
-      "summary": "字节跳动在今日发布了豆包大模型的新版本，大幅降低了推理成本，提升了复杂逻辑的处理能力。",
-      "highlights": [
-        "推理成本下降80%",
-        "支持长达256k的上下文",
-        "内部全线产品已完成接入"
-      ],
-      "url": "https://example.com/news/1",
-      "source": "36氪",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-08-25T10:30:00Z"
-    },
-    {
-      "id": "2",
-      "title": "知名AI初创公司完成数亿美元融资",
-      "summary": "国内AI独角兽公司完成新一轮融资，将用于算力基础设施建设及前沿技术探索。",
-      "highlights": [
-        "投后估值达到20亿美元",
-        "领投方为知名美元基金"
-      ],
-      "url": "https://example.com/news/2",
-      "source": "TechCrunch",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-08-25T09:15:00Z"
-    }
-  ],
-  "today": [
-    {
-      "id": "1",
-      "title": "字节跳动发布豆包大模型新版本",
-      "summary": "字节跳动在今日发布了豆包大模型的新版本，大幅降低了推理成本，提升了复杂逻辑的处理能力。",
-      "highlights": [
-        "推理成本下降80%",
-        "支持长达256k的上下文"
-      ],
-      "url": "https://example.com/news/1",
-      "source": "36氪",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-08-25T10:30:00Z"
-    }
-  ],
+  "updatedAt": "",
+  "latest": [],
+  "today": [],
   "week": [],
   "month": []
 }
