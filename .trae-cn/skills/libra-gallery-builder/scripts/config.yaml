@@ -1,0 +1,75 @@
+# Libra Gallery Builder 用户配置文件
+# 大部分配置支持自动探测，无需手动配置即可使用
+# 优先级: 调用时显式传入参数 > config.yaml > API 自动探测 > 代码默认值
+# 说明: 标注 [可自动探测] 的配置项可以留空或删除，脚本会通过 API 自动获取
+#       运行 `python scripts/libra_gallery_api.py detect` 可查看当前自动探测到的值
+
+# ========== 环境预设 ==========
+# 选择 cn 或 i18n 预设，对应字段会自动注入到 ticket/group/data_source 等配置中
+profiles:
+  cn:
+    base_url: "https://libra-gallery.bytedance.net"
+    cookie_domain: "https://libra-gallery.bytedance.net"
+    ticket_region: "cn"
+    apps_region: "cn"
+    data_source_region: "cn"
+    data_source_dorado_region: "cn"
+    group_dorado_regions: "cn"
+    group_business_tag_id: 2
+    ablog_business_id: 261
+    ablog_business_key: "basic"
+    apps: ["1190"]
+  i18n:
+    base_url: "https://libra-gallery-us.tiktok-row.net"
+    cookie_domain: "https://libra-gallery-us.tiktok-row.net"
+    ticket_region: "va"
+    apps_region: "i18n"
+    data_source_dorado_region: "sg"
+    group_dorado_regions: "sg"
+    group_business_tag_id: 1
+    ablog_business_id: 122
+    ablog_business_key: "basic"
+    apps: ["532"]
+
+# ========== 用户信息（可自动探测，留空则从 Cookie 获取） ==========
+user:
+  owner: ""                          # [可自动探测] 你的用户名（留空则自动从 Cookie 的 username 字段获取），支持逗号分隔多人如 "user1,user2"
+  meego_id: 0                        # Meego 工单 ID，0=待分配（可后续在 Gallery 页面关联）
+
+# ========== 业务相关（大部分可自动探测） ==========
+# 以下配置与你的业务/产品绑定，留空时脚本会通过用户关联的 Business 自动获取
+ticket:
+  description: ""                  # 默认需求描述
+  business: ""                     # [可自动探测] Meego 业务线 ID（留空则自动从用户关联业务获取）
+
+group:
+  apps: []                         # [可自动探测] 应用 ID（留空则自动从关联 Business 的 app_ids 获取）
+  # --- 以下为通用默认值，一般无需修改 ---
+  group_type: "action_cuped"       # 指标组类型
+  cum_type: "ENTER_ONCE_ALWAYS_COUNT"  # 累计类型
+  cum_start_time: ""               # 累计开始时间，必须使用 yyyy-MM-dd 格式 (如 "2026-04-01")，不能用 yyyyMMdd，空则不设置
+  is_cum: 1                        # 是否累计
+  support_flexible_dim: 1          # 支持灵活维度
+  support_flexible_range: 1        # 支持灵活范围
+  visibility: 3                    # 可见性: 1=私有 2=组内 3=公开
+  user_id_type: ["USER_UNIQUE_ID"] # 用户 ID 类型（统计粒度）。可选值: ["USER_UNIQUE_ID"]（设备维度，默认）或 ["USER"]（UID 维度，以登录用户为单位统计）
+  id_type_scope: "all"             # ID 类型范围
+
+ablog:
+  use_type: "custom"               # AB 日志使用类型: custom / default
+  business_id:                     # [可自动探测] AB 日志业务 ID（留空则自动从关联 Business 获取）
+  business_key:                    # [可自动探测] AB 日志业务 key（留空则自动从 Business 配置获取）
+  # --- 以下一般无需修改 ---
+  remove_app: "true"               # 是否移除 app 过滤
+
+# ========== 通用默认值（一般无需修改） ==========
+data_source:
+  source_type: "customize"         # 数据源类型
+
+metric:
+  days_range: "1,7,14"             # 默认天数范围
+
+dimension:
+  use_types: "RPT"                 # 默认使用类型
+  update_type: "first"             # 更新类型
+  enums_update_type: "merge"       # 枚举更新类型: merge=合并 / force=强制同步最新

@@ -1,0 +1,38 @@
+schema: "1.0"
+extensions:
+  - identifier: skills:code.byted.org/byteapi/bytedcli/bytedance-aeolus:1.0.116
+    agents:
+      - trae-cn
+    link: copy
+  - identifier: skills:code.byted.org/byteapi/bytedcli/bytedance-auth:1.0.116
+    agents:
+      - trae-cn
+    link: copy
+  - identifier: skills:code.byted.org/byteapi/bytedcli/bytedance-hive:1.0.116
+    agents:
+      - trae-cn
+    link: copy
+  - identifier: skills:code.byted.org/byteapi/bytedcli/bytedance-libra:1.0.110
+    agents:
+      - trae-cn
+    link: copy
+  - identifier: skills:code.byted.org/byteapi/bytedcli/bytedance-tqs:1.0.97
+    agents:
+      - trae-cn
+    link: copy
+  - identifier: skills:skills.byted.org/caijing_front/cf_operating_platform_mono/lark-doc:1.0.0
+    agents:
+      - trae-cn
+    link: copy
+  - identifier: skills:skills.byted.org/trae_strategy_agent/skills_public/aeolus-dataset-manager:1.0.1
+    agents:
+      - trae-cn
+    link: copy
+  - identifier: skills:skills.byted.org/trae_strategy_agent/skills_public/libra-gallery-builder:1.0.2
+    agents:
+      - trae-cn
+    link: copy
+  - identifier: skills:skills.byted.org/trae_strategy_agent/skills_public/trae-offline-analysis:1.0.7
+    agents:
+      - trae-cn
+    link: copy

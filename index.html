@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 实时资讯</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="header-inner">
+            <h1>AI 实时资讯</h1>
+            <div class="header-meta">
+                <span id="last-update">最后更新: --</span>
+                <button id="refresh-btn">手动刷新</button>
+            </div>
+        </div>
+    </header>
+    <main>
+        <nav class="tabs">
+            <button class="tab active" data-range="latest">最新</button>
+            <button class="tab" data-range="today">今日重大</button>
+            <button class="tab" data-range="week">本周重大</button>
+            <button class="tab" data-range="month">当月重大</button>
+        </nav>
+        <div id="news-container" class="news-container">
+            <!-- JS will inject news here -->
+        </div>
+    </main>
+    <script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,4 @@
+interface:
+  display_name: "ByteDance Auth"
+  short_description: "SSO login/status/logout for bytedcli"
+  default_prompt: "Use $bytedance-auth to login, check status, or fetch user info."

@@ -1,0 +1,65 @@
+lockfileVersion: "1.0"
+extensions:
+  - identifier: skills:code.byted.org/byteapi/bytedcli/bytedance-aeolus:1.0.116
+    agents:
+      - trae-cn
+    link: copy
+    source:
+      kind: zip
+      blob_digest: sha256:c39b4b431d6b40aa6a1f7f2e9a4242623ca99b6a2f552f633043fc9a74db679b
+  - identifier: skills:code.byted.org/byteapi/bytedcli/bytedance-auth:1.0.116
+    agents:
+      - trae-cn
+    link: copy
+    source:
+      kind: zip
+      blob_digest: sha256:4346520ad4e4bf1ff21f1d0f775faf22e8ba69252eb46f4546e55e2473b93ea8
+  - identifier: skills:code.byted.org/byteapi/bytedcli/bytedance-hive:1.0.116
+    agents:
+      - trae-cn
+    link: copy
+    source:
+      kind: zip
+      blob_digest: sha256:e7404d436d60f95e883e112ac3048927b7f4c62a9f4f82cf8490f53ac29d8b92
+  - identifier: skills:code.byted.org/byteapi/bytedcli/bytedance-libra:1.0.110
+    agents:
+      - trae-cn
+    link: copy
+    source:
+      kind: zip
+      blob_digest: sha256:8d287446a6eecc4a4c02904ded77dfeee1f8b394c13812cc54dda8f97fe10545
+  - identifier: skills:code.byted.org/byteapi/bytedcli/bytedance-tqs:1.0.97
+    agents:
+      - trae-cn
+    link: copy
+    source:
+      kind: zip
+      blob_digest: sha256:d8e22549be25dd1d47caa7738a525fa0a0da6c38e4d76b9b5d13c18a3c55bb30
+  - identifier: skills:skills.byted.org/caijing_front/cf_operating_platform_mono/lark-doc:1.0.0
+    agents:
+      - trae-cn
+    link: copy
+    source:
+      kind: zip
+      blob_digest: sha256:825e0f6a4ace2d9376612543820d91622cd00d1084c7fd08d72d31bc65c30fa2
+  - identifier: skills:skills.byted.org/trae_strategy_agent/skills_public/aeolus-dataset-manager:1.0.1
+    agents:
+      - trae-cn
+    link: copy
+    source:
+      kind: zip
+      blob_digest: sha256:34b2bdcbe4195193eb0e38773978182c16daa93e5b70f11c89ee083a0418c577
+  - identifier: skills:skills.byted.org/trae_strategy_agent/skills_public/libra-gallery-builder:1.0.2
+    agents:
+      - trae-cn
+    link: copy
+    source:
+      kind: zip
+      blob_digest: sha256:057a766e4c8101c66f118f7b2b2edcb23fcad7d17db8fbce94a75676e3f2e3eb
+  - identifier: skills:skills.byted.org/trae_strategy_agent/skills_public/trae-offline-analysis:1.0.7
+    agents:
+      - trae-cn
+    link: copy
+    source:
+      kind: zip
+      blob_digest: sha256:f41c477a16d0c38c7e2dbf6e2320d7f3b2d9c8ab3e25b70363d2fd225f604374

@@ -1,0 +1,53 @@
+# Aeolus Dataset Manager 用户配置文件
+# 优先级: 调用时显式传入参数 > config.yaml > API 自动探测 > 代码默认值
+# 说明: 大部分配置可以留空或删除，脚本会通过 API 自动探测。
+#       用户也可以直接给 Aeolus 链接，脚本会自动从 URL 中提取 appId 和 region。
+#       国内: https://data.bytedance.net/aeolus/pages/dataManage/?appId=1006036
+#       海外: https://aeolus-sg.tiktok-row.net/pages/dataManage/?appId=802699
+
+# ========== 默认区域 ==========
+default_region: "cn"               # 默认区域: cn（国内）/ sg（海外新加坡）
+
+# ========== 用户信息（通用，不区分 region） ==========
+user:
+  owner: "zhanfurong"              # ← 改为你的邮箱前缀（留空则自动从 current_user API 获取）
+
+# ========== 按区域分组的配置 ==========
+# 每个区域可以独立配置 app_id、parent_id、yarn_name、cluster、group_id、group_name。
+# 留空的项会通过 API 自动探测。
+regions:
+  cn:
+    app_id: 1006036                # Aeolus 应用 ID
+    parent_id: 81004               # 数据集存放的文件夹 ID
+    yarn_name: "root.millipede4_stone_ai_application_coding"
+    cluster: "cn"                  # nodeConf.clusterName
+    group_id: 8817                 # 应用分组 ID
+    group_name: "default"          # 应用分组名称
+  sg:
+    app_id: 802699
+    parent_id: 36573               # Trae看板文件夹
+    yarn_name: "root.byodel_stone_ai_application_coding"
+    cluster: "sg"
+    group_id: 3331
+    group_name: "TRAE-Code AI"
+
+# ========== 同步配置（通用默认值，不区分 region） ==========
+sync:
+  frequency: "daily"               # 调度频率: daily / hourly
+  schedule_time: "00:00"           # 调度时间
+  ttl: 7                           # 数据保留天数
+  retry_num: 1                     # 重试次数
+  retry_interval: 5                # 重试间隔(分钟)
+
+# ========== 数据源配置（通用默认值） ==========
+datasource:
+  type: "hive"                     # 数据源类型: hive / click_house 等
+
+# ========== 数据集默认值（通用，一般无需修改） ==========
+dataset:
+  dc: "cn"                         # 数据中心标识（baseConf.dc），海外也通常为 "cn"
+  connection_mode: 0
+  sync_mode: 0
+  version: "v2"
+  model_type: 1
+  confidentiality: "L3"

@@ -1,0 +1,35 @@
+name: Update AI News
+
+on:
+  schedule:
+    # 每天 UTC 时间 0:00, 6:00, 12:00, 18:00 运行 (北京时间 8点, 14点, 20点, 凌晨2点)
+    - cron: '0 0,6,12,18 * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          
+      - name: Run update script
+        env:
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          VOLC_API_KEY: ${{ secrets.VOLC_API_KEY }}
+          VOLC_ENDPOINT_ID: ${{ secrets.VOLC_ENDPOINT_ID }}
+        run: |
+          python scripts/update_news.py
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/news.json
+          git commit -m "Auto-update AI news [skip ci]" || echo "No changes to commit"
+          git push
