@@ -2,11 +2,12 @@ import os
 import sys
 import json
 import re
+import html as html_module
 import hashlib
 import urllib.request
 import urllib.error
 from datetime import datetime, timedelta, timezone
-from urllib.parse import urlparse
+from urllib.parse import urlparse, quote
 
 TAVILY_API_KEY = os.environ.get("TAVILY_API_KEY")
 VOLC_API_KEY = os.environ.get("VOLC_API_KEY")
@@ -25,6 +26,20 @@ SEARCH_QUERIES = [
     "AI startup funding acquisition 2026",
 ]
 
+WECHAT_QUERIES = [
+    "AI 大模型 最新消息",
+    "AI 芯片 英伟达 OpenAI",
+    "AI Agent 智能体 产品",
+    "人工智能 融资 并购",
+    "具身智能 机器人 自动驾驶",
+]
+
+SOGOU_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+}
+
 CATEGORIES = ["模型发布", "芯片硬件", "产品进展", "投并购", "具身智能", "前沿理论", "行业话题", "其他"]
 
 CATEGORY_KEYWORDS = {
@@ -33,7 +48,8 @@ CATEGORY_KEYWORDS = {
     "模型发布": ["发布", "推出", "release", "launch", "model", "大模型", "gpt", "claude", "gemini", "llama", "豆包", "deepseek", "开源模型", "nemotron", "ssi", "ilya", "kimi", "通义", "文心"],
     "投并购": ["融资", "并购", "收购", "投资", "funding", "acquisition", "investment", "raise", "估值", "上市", "ipo", "轮", "招股", "基石"],
     "前沿理论": ["研究", "论文", "paper", "research", "突破", "理论", "theory", "arxiv", "科学家", "发现", "agi", "对齐", "scaling"],
-    "产品进展": ["产品", "上线", "功能", "更新", "product", "feature", "上新", "app", "应用", "工具", "agent", "智能体", "飞书", "扣子", "coze", "工作"],
+    "产品进展": ["产品", "上线", "功能", "更新", "product", "feature", "上新", "app", "应用", "工具", "agent", "智能体", "飞书", "扣子", "coze", "工作", "公众号", "小程序"],
+    "行业话题": ["政策", "法规", "监管", "伦理", "安全", "争议", "趋势", "报告", "白皮书", "标准", "合作", "联盟", "开源社区"],
 }
 
 
@@ -68,10 +84,76 @@ def tavily_search(query, days=2, max_results=10):
         return []
 
 
+def sogou_wechat_search(query, max_results=8):
+    search_url = f"https://weixin.sogou.com/weixin?type=2&query={quote(query)}&ie=utf8"
+    req = urllib.request.Request(search_url, headers=SOGOU_HEADERS)
+    try:
+        with urllib.request.urlopen(req, timeout=15) as response:
+            html = response.read().decode("utf-8", errors="replace")
+    except Exception as e:
+        print(f"  [WARN] 搜狗微信请求失败 ({query}): {e}")
+        return []
+
+    if "antispider" in html or "请输入验证码" in html or "验证码" in html:
+        print(f"  [WARN] 搜狗微信触发验证码，跳过 ({query})")
+        return []
+
+    results = []
+    blocks = re.findall(r'<div class="txt-box">(.*?)</div>\s*(?:</div>|<div class="s-pd")', html, re.DOTALL)
+    if not blocks:
+        blocks = re.findall(r'<div class="txt-box">(.*?)(?=<div class="txt-box">|<div id="pagebar")', html, re.DOTALL)
+
+    for block in blocks[:max_results]:
+        title_match = re.search(r'<h3>.*?<a[^>]*href="([^"]+)"[^>]*>(.*?)</a>', block, re.DOTALL)
+        if not title_match:
+            continue
+        raw_url = title_match.group(1)
+        title = html_module.unescape(re.sub(r"<[^>]+>", "", title_match.group(2)).strip())
+
+        if raw_url.startswith("/link?"):
+            article_url = "https://weixin.sogou.com" + raw_url
+        elif raw_url.startswith("http"):
+            article_url = raw_url
+        else:
+            continue
+
+        summary_match = re.search(r'<p class="txt-info"[^>]*>(.*?)</p>', block, re.DOTALL)
+        summary = ""
+        if summary_match:
+            summary = html_module.unescape(re.sub(r"<[^>]+>", "", summary_match.group(1)).strip())
+
+        account_match = re.search(r'class="account"[^>]*>(.*?)</a>', block, re.DOTALL)
+        account = ""
+        if account_match:
+            account = html_module.unescape(re.sub(r"<[^>]+>", "", account_match.group(1)).strip())
+
+        date_match = re.search(r"timeConvert\('(\d+)'\)", block)
+        pub_date = ""
+        if date_match:
+            try:
+                ts = int(date_match.group(1))
+                pub_date = datetime.fromtimestamp(ts, tz=timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
+            except Exception:
+                pass
+
+        source_name = f"微信公众号·{account}" if account else "微信公众号"
+        results.append({
+            "title": title,
+            "url": article_url,
+            "content": summary,
+            "published_date": pub_date,
+            "source": source_name,
+            "_is_wechat": True,
+        })
+    return results
+
+
 def collect_all_news(days=2):
-    print(f"[1/4] 正在搜索最近 {days} 天的 AI 资讯 ({len(SEARCH_QUERIES)} 个 query)...")
+    print(f"[1/4] 正在搜索最近 {days} 天的 AI 资讯...")
     all_results = []
     seen_urls = set()
+
+    print(f"  --- Tavily 搜索 ({len(SEARCH_QUERIES)} 个 query) ---")
     for q in SEARCH_QUERIES:
         results = tavily_search(q, days=days, max_results=10)
         for r in results:
@@ -79,7 +161,19 @@ def collect_all_news(days=2):
             if u and u not in seen_urls:
                 seen_urls.add(u)
                 all_results.append(r)
-        print(f"  完成 query: {q} -> 累计 {len(all_results)} 条去重结果")
+        print(f"  完成 Tavily query: {q} -> 累计 {len(all_results)} 条")
+
+    print(f"  --- 搜狗微信搜索 ({len(WECHAT_QUERIES)} 个 query) ---")
+    for q in WECHAT_QUERIES:
+        results = sogou_wechat_search(q, max_results=8)
+        for r in results:
+            u = r.get("url", "")
+            if u and u not in seen_urls:
+                seen_urls.add(u)
+                all_results.append(r)
+        print(f"  完成微信 query: {q} -> 累计 {len(all_results)} 条")
+
+    print(f"  搜索完成，共 {len(all_results)} 条去重结果")
     return all_results
 
 
@@ -139,13 +233,14 @@ def process_raw_fallback(raw_results):
                 pub_date = dt.strftime("%Y-%m-%dT%H:%M:%SZ")
             except Exception:
                 pass
+        source = r.get("source", "") or extract_source(url)
         processed.append({
             "id": hashlib.md5(url.encode()).hexdigest()[:12],
             "title": title,
             "summary": summary,
             "highlights": highlights,
             "url": url,
-            "source": extract_source(url),
+            "source": source,
             "category": guess_category(title, content),
             "importance": guess_importance(title, content),
             "publishedAt": pub_date,
@@ -205,7 +300,7 @@ def process_with_llm(raw_results):
         })
 
     url_map = {i: r.get("url", "") for i, r in enumerate(raw_results)}
-    source_map = {i: extract_source(r.get("url", "")) for i, r in enumerate(raw_results)}
+    source_map = {i: (r.get("source", "") or extract_source(r.get("url", ""))) for i, r in enumerate(raw_results)}
     date_map = {i: r.get("published_date", "") for i, r in enumerate(raw_results)}
 
     prompt = f"""
