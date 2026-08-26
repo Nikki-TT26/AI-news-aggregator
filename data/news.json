@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T06:11:24Z",
+  "updatedAt": "2026-08-26T08:08:34Z",
   "latest": [
     {
       "id": "3f1f875dd11e",
@@ -197,21 +197,6 @@
       "publishedAt": "2026-08-25T10:00:00Z"
     },
     {
-      "id": "368acbad58b4",
-      "title": "美智库: “我们摸底了中美1181家企业, 发现中国AI在物理世界的布局让人担忧”",
-      "summary": "这个差异在战略上很关键。具身智能被普遍看作通往通用人工智能的一块重要拼图，它要求智能体在真实物理环境中感知、推理与行动。中国企业在这方面的规模化布局，正在转化为数据、场景与工程经验的积累。反观美国，软件优先的路径虽然在语言与知识领域领先，但在“智能体落地”这个可能决定下个十年竞争格局的方向上，生态厚度相对薄弱。\n\n中国在机器人、自动驾驶和工业自动化领域形成了数量较多的企业样本，背后涉及制造体系、零...",
-      "highlights": [
-        "这个差异在战略上很关键",
-        "具身智能被普遍看作通往通用人工智能的一块重要拼图，它要求智能体在真实物理环境中感知、推理与行动",
-        "中国企业在这方面的规模化布局，正在转化为数据、场景与工程经验的积累"
-      ],
-      "url": "https://m.marsbit.co/newsdetail/20260824152216298859.html",
-      "source": "m.marsbit.co",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-08-24T07:22:16Z"
-    },
-    {
       "id": "01cc66fcde7b",
       "title": "Anthropic Hires Former Google TPU Chief Amir Salek as AI Startup Eyes In-House Chips | citybiz",
       "summary": "The move would also put Anthropic more directly into the growing race among AI companies and hyperscalers to develop custom silicon rather than relying exclusively on off-the-shelf processors.\n\nOpenAI...",
@@ -290,6 +275,19 @@
         "AI 早报 | 2026.08.26:OpenAI 自研芯片首秀跑赢英伟达OpenAI 自研推理芯片 Jalapeño 首测超越英伟达 GB300OpenAI 芯片负责人 ..."
       ],
       "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0Ca11akT5F2pmSQyZ0Fx4tb5Y_b0ThBD1qXa8Fplpd9EoIKs7hUOCtSgj7YBcVE8h8ciq6Y3oLXtG29gaggWS_mDEZrQSXQbZJajCkviQpSaK79I-VMz4NVDsNd8KhJb0xDNh5qNXAmeOVD8Zggeot-G-FVxKv5D4mMYZAkbZoJUBtW-JgGjd6jpUDSyp2JPlgxVpkJFh4X8jICz4DpVHirCDCayYmfpA..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=9285E1751D186A13BEB8E753A8E2A0D7BF1CD06B6A8E8385",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-26T02:41:24Z"
+    },
+    {
+      "id": "1f2deb5e4a78",
+      "title": "AI 早报 | 2026.08.26:OpenAI 自研芯片首秀跑赢英伟达",
+      "summary": "AI 早报 | 2026.08.26:OpenAI 自研芯片首秀跑赢英伟达OpenAI 自研推理芯片 Jalapeño 首测超越英伟达 GB300OpenAI 芯片负责人 ...",
+      "highlights": [
+        "AI 早报 | 2026.08.26:OpenAI 自研芯片首秀跑赢英伟达OpenAI 自研推理芯片 Jalapeño 首测超越英伟达 GB300OpenAI 芯片负责人 ..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0Ca11akT5F2aqdV1NjUuzpb5Y_b0ThBD1qXa8Fplpd9EoIKs7hUOCtSgj7YBcVE8h8ciq6Y3oLXtG29gaggWS_mDEZrQSXQbdfMFdDivNpX1eYNaw7fPTqaAMt9NnumcYYupbA_1Dj4kRy_vxllh3HyqzKR1g-jux6u2oHEZBkjfhT4mHo06VL4SUyus6_KwZRl7KIpaJmgGac_sau_-5YNGbbB75bUeA..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=9309E3B5A458867774752A9DCDF115B374C668096A8E9EFD",
       "source": "微信公众号",
       "category": "芯片硬件",
       "importance": 5,
@@ -491,6 +489,19 @@
       "publishedAt": "2026-08-26T02:41:24Z"
     },
     {
+      "id": "1f2deb5e4a78",
+      "title": "AI 早报 | 2026.08.26:OpenAI 自研芯片首秀跑赢英伟达",
+      "summary": "AI 早报 | 2026.08.26:OpenAI 自研芯片首秀跑赢英伟达OpenAI 自研推理芯片 Jalapeño 首测超越英伟达 GB300OpenAI 芯片负责人 ...",
+      "highlights": [
+        "AI 早报 | 2026.08.26:OpenAI 自研芯片首秀跑赢英伟达OpenAI 自研推理芯片 Jalapeño 首测超越英伟达 GB300OpenAI 芯片负责人 ..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0Ca11akT5F2aqdV1NjUuzpb5Y_b0ThBD1qXa8Fplpd9EoIKs7hUOCtSgj7YBcVE8h8ciq6Y3oLXtG29gaggWS_mDEZrQSXQbdfMFdDivNpX1eYNaw7fPTqaAMt9NnumcYYupbA_1Dj4kRy_vxllh3HyqzKR1g-jux6u2oHEZBkjfhT4mHo06VL4SUyus6_KwZRl7KIpaJmgGac_sau_-5YNGbbB75bUeA..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=9309E3B5A458867774752A9DCDF115B374C668096A8E9EFD",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-26T02:41:24Z"
+    },
+    {
       "id": "2cb5a7e806d9",
       "title": "AI芯片＂诸神之战＂:OpenAI反杀英伟达,小米苹果各亮底牌",
       "summary": "风夕8月25日到26日,短短48小时内,全球AI芯片领域发生了一场＂连环地震＂.OpenAI亮出自研推理芯片,实测能效击败英伟达GB...",
@@ -511,6 +522,45 @@
         "而是一条完整的OpenAI计算平台路线.英伟达真正需要担心的,不是少卖几块GPU长期来看,AI芯片市场可能出现一个非常有意思的..."
       ],
       "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0Ca11akT5F2pmSQyZ0Fx4tb5Y_b0ThBD1qXa8Fplpd9MAJ6ox-1_JzNs5eZ6Dewbpt8HK7uNVxjCk4Mvmu19dq1Sk8abB-3vqZ2-95E31l4W4VotA5IPvxUkvzRlJNWGZBkvJp6a_cOwINplmXceXVKaLEtfishe9q9JncugHRJCOIQYNxLlnT5hvgWrffr-Hu9ziwRJvRdr-V_8AgX13B5LU3lqtPw9g..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=9285E1751D186A13BEB8E753A8E2A0D7BF1CD06B6A8E8385",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-08-26T03:50:39Z"
+    },
+    {
+      "id": "9aa01b6ad137",
+      "title": "FlowX.AI Brings Mission-Critical Industry AI Agents to Gemini Enterprise - The Next Web",
+      "summary": "FlowX.AI has launched specialized AI agents on Google Cloud Marketplace and as part of Gemini Enterprise, with its agents featured in the Gemini Enterprise for Financial Services launch. FlowX.AI is a...",
+      "highlights": [
+        "FlowX.AI has launched specialized AI agents on Google Cloud Marketplace and as part of Gemini Enterprise, with its agents featured in the Gemini Enterprise for Financial Services launch. FlowX.AI is among the first partners bringing specialized industry agents to Gemini Enterprise, with enterprise-grade AI built for complex, high-stakes work where making a mistake is not an option. FlowX.AI today announced that specialized FlowX.AI agents are available through Google Cloud Marketplace and as part of Gemini Enterprise, enabling Gemini Enterprise customers to bring AI into complex, mission-critical workflows. FlowX.AI is bringing specialized industry agents to market as part of Google’s Gemini Enterprise industry experiences, with FlowX.AI agents featured in the Gemini Enterprise for Financial Services launch. Financial Services represent one part of a much broader portfolio: FlowX.AI has been building specialized AI agents for mission-critical processes across financial services, insurance, logistics, telecommunications, retail and other complex enterprise environments."
+      ],
+      "url": "https://thenextweb.com/news/flowx-ai-agents-gemini-enterprise-google-cloud-marketplace",
+      "source": "thenextweb.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-08-26T06:47:28Z"
+    },
+    {
+      "id": "3231b27f9791",
+      "title": "【立方基金通】工信部谈未来产业方向/两家睡眠健康公司获融资/10亿元集成电路基金落地",
+      "summary": "8月26日，在国新办举行的新闻发布会上，工业和信息化部相关负责人介绍，“十五五”时期，我们将着力优化产业结构，统筹推进传统产业改造升级、新兴产业培育壮大、未来",
+      "highlights": [
+        "8月26日，在国新办举行的新闻发布会上，工业和信息化部相关负责人介绍，“十五五”时期，我们将着力优化产业结构，统筹推进传统产业改造升级、新兴产业培育壮大、未来"
+      ],
+      "url": "https://app.dahecube.com/article.html?artid=284678%3Frecid%3D1",
+      "source": "app.dahecube.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-08-26T08:00:00Z"
+    },
+    {
+      "id": "a719c5c56d08",
+      "title": "OpenAI首颗定制AI芯片跑分亮相:部分指标压过英伟达,算力战争开始换规则",
+      "summary": "而是一条完整的OpenAI计算平台路线.英伟达真正需要担心的,不是少卖几块GPU长期来看,AI芯片市场可能出现一个非常有意思的...",
+      "highlights": [
+        "而是一条完整的OpenAI计算平台路线.英伟达真正需要担心的,不是少卖几块GPU长期来看,AI芯片市场可能出现一个非常有意思的..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0Ca11akT5F2aqdV1NjUuzpb5Y_b0ThBD1qXa8Fplpd9MAJ6ox-1_JzNs5eZ6Dewbpt8HK7uNVxjCk4Mvmu19dq1Sk8abB-3vsT8-dKVN0wqSQ3X_mn4blditLSpllUwn3FSf_nVjjRb-PG00ZKru4WxbcdpLypnWU9F-bdfyz_Kmmnsz_OctTU4Zu8FLnue578lf6i2KWf0fTuLfyd4Z7Zj3x9Nw6p-Fg..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=9309E3B5A458867774752A9DCDF115B374C668096A8E9EFD",
       "source": "微信公众号",
       "category": "芯片硬件",
       "importance": 4,
@@ -556,6 +606,19 @@
       "category": "产品进展",
       "importance": 2,
       "publishedAt": "2026-08-26T00:47:38Z"
+    },
+    {
+      "id": "45e83409970d",
+      "title": "拆解 MoE 混合专家模型在具身中的应用：感知、决策、控制、世界模型",
+      "summary": "文章浏览阅读91次。全新环境仅新增少量专家，无需全模型重训，小样本自适应能力提升38.6%，低显存硬件可预测未来10–20帧环境画面，机器人提前规避碰撞，MoE依靠专家",
+      "highlights": [
+        "全新环境仅新增少量专家，无需全模型重训，小样本自适应能力提升38.6%，低显存硬件可预测未来10–20帧环境画面，机器人提前规避碰撞，MoE依靠专家"
+      ],
+      "url": "https://blog.csdn.net/soaring_casia/article/details/164065042",
+      "source": "blog.csdn.net",
+      "category": "具身智能",
+      "importance": 2,
+      "publishedAt": "2026-08-26T02:00:00Z"
     }
   ],
   "week": [
