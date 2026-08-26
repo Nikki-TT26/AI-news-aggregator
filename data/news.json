@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T05:28:30Z",
+  "updatedAt": "2026-08-26T06:11:24Z",
   "latest": [
     {
       "id": "3f1f875dd11e",
@@ -240,6 +240,62 @@
       "publishedAt": "2026-08-25T14:00:38Z"
     },
     {
+      "id": "3e72340975d9",
+      "title": "刚刚！小米正式发布最新AI芯片！",
+      "summary": "O3还有两个容易忽略的地方。一个是全球第一个支持LPDDR6的移动处理器，内存带宽113.8GB/s，比O1高了48%。\n\n另一个是NPU整个重构了，张量算力200TOPS，向量算力3.13TFLOPS，端侧AI性能涨了45%，专门给MiMo端侧大模型用的。整颗芯片还做了全模块AI化，CPU加了双SME2加速单元，GPU塞了8颗NX神经网络加速器，ISP、DPU、ADSP各自挂了AI引擎。这么多模...",
+      "highlights": [
+        "O3还有两个容易忽略的地方",
+        "一个是全球第一个支持LPDDR6的移动处理器，内存带宽113.8GB/s，比O1高了48%",
+        "另一个是NPU整个重构了，张量算力200TOPS，向量算力3.13TFLOPS，端侧AI性能涨了45%，专门给MiMo端侧大模型用的"
+      ],
+      "url": "https://m.ofweek.com/ai/2026-08/ART-201714-8120-30700033.html",
+      "source": "m.ofweek.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-25T06:00:00Z"
+    },
+    {
+      "id": "2996a3e466f0",
+      "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs - VentureBeat",
+      "summary": "# Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs. Perplexity is launching Portable Computer today, a version of its agentic \"Computer\" platfo...",
+      "highlights": [
+        "# Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs. Perplexity is launching Portable Computer today, a version of its agentic \"Computer\" platform that runs entirely on hardware users already own — starting with Nvidia's DGX Spark desktop supercomputer and Linux machines equipped with Nvidia RTX GPUs. The launch, developed in close partnership with Nvidia, is one of the most aggressive attempts yet to move serious AI agent workloads off the cloud and onto local devices. Work completed locally consumes no billing credits, and the company says every task starts on the device by default — with the system asking permission before sending any individual step to a more powerful frontier model in the cloud. Portable Computer replicates that experience locally: the local models, agent harness, inference engine, tools, app connectors, and a security sandbox come packaged together in a single system. \"With Portable Computer, we really focused on just making this a really straightforward experience where you can get up and running very quickly.\"."
+      ],
+      "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
+      "source": "venturebeat.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-08-25T13:00:00Z"
+    },
+    {
+      "id": "13673ef23a8b",
+      "title": "博伦智汇完成千万级天使轮融资，加速AI算力市场拓展与业务落地_投资界",
+      "summary": "目前公司正在积极开发入口级智能硬件，将成为云、端、家的平滑连接，真正让Token成为像水电一样不可或缺的智能底座。\n\n文章来源：投资界  \n原文地址：\n\n【本文根据公开消息发布，不构成任何投资建议。市场有风险，投资需谨慎。】  \n如有异议，请联系（editor@zero2ipo.com.cn）投资界处理。\n\nAI算力博伦智汇\n\n### 本文涉及\n\n 企业:   趋动科技\n  :   天数智芯\n\n#...",
+      "highlights": [
+        "目前公司正在积极开发入口级智能硬件，将成为云、端、家的平滑连接，真正让Token成为像水电一样不可或缺的智能底座",
+        "【本文根据公开消息发布，不构成任何投资建议",
+        "市场有风险，投资需谨慎"
+      ],
+      "url": "https://news.pedaily.cn/202608/568134.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-08-26T05:46:00Z"
+    },
+    {
+      "id": "030e891799e9",
+      "title": "AI 早报 | 2026.08.26:OpenAI 自研芯片首秀跑赢英伟达",
+      "summary": "AI 早报 | 2026.08.26:OpenAI 自研芯片首秀跑赢英伟达OpenAI 自研推理芯片 Jalapeño 首测超越英伟达 GB300OpenAI 芯片负责人 ...",
+      "highlights": [
+        "AI 早报 | 2026.08.26:OpenAI 自研芯片首秀跑赢英伟达OpenAI 自研推理芯片 Jalapeño 首测超越英伟达 GB300OpenAI 芯片负责人 ..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0Ca11akT5F2pmSQyZ0Fx4tb5Y_b0ThBD1qXa8Fplpd9EoIKs7hUOCtSgj7YBcVE8h8ciq6Y3oLXtG29gaggWS_mDEZrQSXQbZJajCkviQpSaK79I-VMz4NVDsNd8KhJb0xDNh5qNXAmeOVD8Zggeot-G-FVxKv5D4mMYZAkbZoJUBtW-JgGjd6jpUDSyp2JPlgxVpkJFh4X8jICz4DpVHirCDCayYmfpA..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=9285E1751D186A13BEB8E753A8E2A0D7BF1CD06B6A8E8385",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-26T02:41:24Z"
+    },
+    {
       "id": "c365512aa37f",
       "title": "AI早报 | 小米发布大模型专用AI加速芯片玄戒O100；小鹏机器人业务首轮融资超9亿美元",
       "summary": "字节跳动对旗下的办公AI产品完成了一轮团队整合，TRAE、扣子（Coze）团队将整体并入豆包体系，其中TRAE Work、扣子将与豆包在工作场景的产品能力进行整合；TRAE IDE及CLI将作为豆包品牌下的编程产品线持续发展。此次调整后，字节也进一步明确了豆包的AI主干业务定位，将AI办公类产品的重心集中到豆包。此外，豆包最快将于本周内推出独立的AI办公产品“豆包工作”，作为字节面向AI办公场景的...",
@@ -388,65 +444,6 @@
       "category": "具身智能",
       "importance": 4,
       "publishedAt": "2026-08-25T05:00:00Z"
-    },
-    {
-      "id": "0963b5534ec6",
-      "title": "Google's AI Chip Business Is Booming. Why Gemini 4 ...",
-      "summary": "Alphabet's (GOOGL) business of selling artificial intelligence accelerator chips is booming, says a Morgan Stanley report. But that's not enough to \"re-rate\" Google stock, the brokerage maintains. Tha...",
-      "highlights": [
-        "Alphabet's (GOOGL) business of selling artificial intelligence accelerator chips is booming, says a Morgan Stanley report. But that's not enough to \"re-rate\" Google stock, the brokerage maintains. That will have to wait until Google rolls out a new AI model, Gemini 4. On Wall Street, re-rating usually refers to the valuation multiple investors are willing to pay for a company's…",
-        "Copyright ©2026 Investor's Business Daily, LLC. All rights reserved. 87990cbe856818d5eddac44c7b1cdeb8 [...] ## IBD Digital Labor Day Sale",
-        "## IBD Live Summer Sale"
-      ],
-      "url": "https://www.investors.com/news/technology/googles-ai-chip-business-is-booming-why-gemini-4-matters-more-for-google-stock",
-      "source": "investors.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-08-25T14:40:50Z"
-    },
-    {
-      "id": "2984fe5e45cb",
-      "title": "IFOC 2026演讲预告｜阿里云资深技术专家王安斌：《AI数据中心光互连技术需求演进趋势探讨》 - 讯石光通讯网",
-      "summary": "目前，大会重磅演讲嘉宾阵容持续解锁！！！\n\n       在主论坛《AI智算光互联技术与架构演进》专题环节，阿里云资深技术专家王安斌将带来《AI数据中心光互连技术需求演进趋势探讨》主题分享，深度拆解AI算力驱动下光互连技术的迭代逻辑、产品升级路径及产业发展挑战，为行业超高速光互联技术落地应用提供参考。\n\n  据悉，当前AI算力集群规模化扩张，推动光互连技术从1.6T、3.2T快速向6.4T、12....",
-      "highlights": [
-        "目前，大会重磅演讲嘉宾阵容持续解锁",
-        "在主论坛《AI智算光互联技术与架构演进》专题环节，阿里云资深技术专家王安斌将带来《AI数据中心光互连技术需求演进趋势探讨》主题分享，深度拆解AI算力驱动下光互连技术的迭代逻辑、产品升级路径及产业发展挑战，为行业超高速光互联技术落地应用提供参考",
-        "据悉，当前AI算力集群规模化扩张，推动光互连技术从1.6T、3.2T快速向6.4T、12.8T超高速世代演进，对核心光芯片、高速光模块的性能、功耗、集成度提出全新严苛要求"
-      ],
-      "url": "http://www.iccsz.com/site/cn/News/2026/08/24/20260824034720008544.htm",
-      "source": "iccsz.com",
-      "category": "前沿理论",
-      "importance": 3,
-      "publishedAt": "2026-08-24T12:00:00Z"
-    },
-    {
-      "id": "5b507cb520ce",
-      "title": "视觉中国：上半年实现营收3.7亿元 持续推进AI战略",
-      "summary": "中证报中证网讯（记者孟培嘉）视觉中国8月24日发布的2026年半年报显示，公司上半年实现营业收入3.7亿元，归母净利润为1.01亿元。报告期内，公司持续推进“AI智能+内容",
-      "highlights": [
-        "中证报中证网讯（记者孟培嘉）视觉中国8月24日发布的2026年半年报显示，公司上半年实现营业收入3.7亿元，归母净利润为1.01亿元",
-        "报告期内，公司持续推进“AI智能+内容"
-      ],
-      "url": "https://wap.eastmoney.com/a/202608243851627568.html",
-      "source": "wap.eastmoney.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-08-25T09:00:00Z"
-    },
-    {
-      "id": "990d6ea53a8d",
-      "title": "Meta to launch Hatch AI agent platform in coming weeks",
-      "summary": "Meta to launch Hatch AI agent platform in coming weeks- The Information\n\nInvesting.com -- Meta Platforms plans to release its consumer AI agent platform called Hatch within the next several weeks, The...",
-      "highlights": [
-        "Meta to launch Hatch AI agent platform in coming weeks- The Information",
-        "Investing.com -- Meta Platforms plans to release its consumer AI agent platform called Hatch within the next several weeks, The Information reported on Monday, citing internal documents.",
-        "The company is also working toward an October release for its newest AI model, named Watermelon, the reports said. [...] This article was generated with the support of AI and reviewed by an editor. For more information see our T&C."
-      ],
-      "url": "https://www.investing.com/news/stock-market-news/meta-to-launch-hatch-ai-agent-platform-in-coming-weeks-the-information-93CH-4874295",
-      "source": "investing.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-08-24T23:25:05Z"
     }
   ],
   "today": [
@@ -464,6 +461,60 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-08-26T02:00:00Z"
+    },
+    {
+      "id": "13673ef23a8b",
+      "title": "博伦智汇完成千万级天使轮融资，加速AI算力市场拓展与业务落地_投资界",
+      "summary": "目前公司正在积极开发入口级智能硬件，将成为云、端、家的平滑连接，真正让Token成为像水电一样不可或缺的智能底座。\n\n文章来源：投资界  \n原文地址：\n\n【本文根据公开消息发布，不构成任何投资建议。市场有风险，投资需谨慎。】  \n如有异议，请联系（editor@zero2ipo.com.cn）投资界处理。\n\nAI算力博伦智汇\n\n### 本文涉及\n\n 企业:   趋动科技\n  :   天数智芯\n\n#...",
+      "highlights": [
+        "目前公司正在积极开发入口级智能硬件，将成为云、端、家的平滑连接，真正让Token成为像水电一样不可或缺的智能底座",
+        "【本文根据公开消息发布，不构成任何投资建议",
+        "市场有风险，投资需谨慎"
+      ],
+      "url": "https://news.pedaily.cn/202608/568134.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-08-26T05:46:00Z"
+    },
+    {
+      "id": "030e891799e9",
+      "title": "AI 早报 | 2026.08.26:OpenAI 自研芯片首秀跑赢英伟达",
+      "summary": "AI 早报 | 2026.08.26:OpenAI 自研芯片首秀跑赢英伟达OpenAI 自研推理芯片 Jalapeño 首测超越英伟达 GB300OpenAI 芯片负责人 ...",
+      "highlights": [
+        "AI 早报 | 2026.08.26:OpenAI 自研芯片首秀跑赢英伟达OpenAI 自研推理芯片 Jalapeño 首测超越英伟达 GB300OpenAI 芯片负责人 ..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0Ca11akT5F2pmSQyZ0Fx4tb5Y_b0ThBD1qXa8Fplpd9EoIKs7hUOCtSgj7YBcVE8h8ciq6Y3oLXtG29gaggWS_mDEZrQSXQbZJajCkviQpSaK79I-VMz4NVDsNd8KhJb0xDNh5qNXAmeOVD8Zggeot-G-FVxKv5D4mMYZAkbZoJUBtW-JgGjd6jpUDSyp2JPlgxVpkJFh4X8jICz4DpVHirCDCayYmfpA..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=9285E1751D186A13BEB8E753A8E2A0D7BF1CD06B6A8E8385",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-26T02:41:24Z"
+    },
+    {
+      "id": "2cb5a7e806d9",
+      "title": "AI芯片＂诸神之战＂:OpenAI反杀英伟达,小米苹果各亮底牌",
+      "summary": "风夕8月25日到26日,短短48小时内,全球AI芯片领域发生了一场＂连环地震＂.OpenAI亮出自研推理芯片,实测能效击败英伟达GB...",
+      "highlights": [
+        "风夕8月25日到26日,短短48小时内,全球AI芯片领域发生了一场＂连环地震＂.OpenAI亮出自研推理芯片,实测能效击败英伟达GB..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0Ca11akT5F2pmSQyZ0Fx4tb5Y_b0ThBD1qXa8Fplpd9yhBxZnpbmX1TqnEolERsHguek1uksgMAafYk9pn6_l_E--DgwzRIvGcN9jEa_44_q3JxXF0QPNjVFLlC5P1wjKI36v44xNK1_SJL-kBnO0_xxqrUf6tLjF52nWLU6raShQXvGVvdlWh1UbPnLX8mRMCi01fhUdbAz2RuAScO_Q3m0CtGSSkZQQ..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=9285E1751D186A13BEB8E753A8E2A0D7BF1CD06B6A8E8385",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-08-26T01:08:15Z"
+    },
+    {
+      "id": "69f718dc8f61",
+      "title": "OpenAI首颗定制AI芯片跑分亮相:部分指标压过英伟达,算力战争开始换规则",
+      "summary": "而是一条完整的OpenAI计算平台路线.英伟达真正需要担心的,不是少卖几块GPU长期来看,AI芯片市场可能出现一个非常有意思的...",
+      "highlights": [
+        "而是一条完整的OpenAI计算平台路线.英伟达真正需要担心的,不是少卖几块GPU长期来看,AI芯片市场可能出现一个非常有意思的..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0Ca11akT5F2pmSQyZ0Fx4tb5Y_b0ThBD1qXa8Fplpd9MAJ6ox-1_JzNs5eZ6Dewbpt8HK7uNVxjCk4Mvmu19dq1Sk8abB-3vqZ2-95E31l4W4VotA5IPvxUkvzRlJNWGZBkvJp6a_cOwINplmXceXVKaLEtfishe9q9JncugHRJCOIQYNxLlnT5hvgWrffr-Hu9ziwRJvRdr-V_8AgX13B5LU3lqtPw9g..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=9285E1751D186A13BEB8E753A8E2A0D7BF1CD06B6A8E8385",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-08-26T03:50:39Z"
     },
     {
       "id": "012af71d538d",
@@ -492,6 +543,19 @@
       "category": "具身智能",
       "importance": 3,
       "publishedAt": "2026-08-26T01:00:00Z"
+    },
+    {
+      "id": "01de40b0f326",
+      "title": "In China, talking to AI is normal. Now the government fears it might replace human intimacy - The Guardian",
+      "summary": "# In China, talking to AI is normal. Zhao, who describes herself as sensitive and introverted, had become accustomed to sharing details of her daily life – such as being scolded by a teacher – with he...",
+      "highlights": [
+        "# In China, talking to AI is normal. Zhao, who describes herself as sensitive and introverted, had become accustomed to sharing details of her daily life – such as being scolded by a teacher – with her AI. “I don’t usually talk to my real-life friends about these things because I feel like everyone has their own stuff to deal with,” she says. “But with the AI ​​agent, I don’t have to worry about what it’s thinking. Zhao created her AI companion on Doubao, a chatbot owned by the tech company ByteDance. While many countries are grappling with how to limit the potential harm of AI chatbots, particularly for young people, China’s rules are the most sweeping to be implemented on a national scale. But talking to AI is now so commonplace that it would be hard for the government to end the practice entirely, and the new rules include large loopholes for AI services that are deemed educational or “which do not involve continuous emotional interaction”."
+      ],
+      "url": "https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern",
+      "source": "theguardian.com",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-08-26T00:47:38Z"
     }
   ],
   "week": [
@@ -646,21 +710,6 @@
       "publishedAt": "2026-08-25T00:38:00Z"
     },
     {
-      "id": "c7751b467d90",
-      "title": "国金计算机刘高畅丨国产大模型迎来新一轮投资期 - 财富号",
-      "summary": "月之暗面（Moonshot AI）在2026年7月29日完成一轮规模显著超出原计划的融资。多家媒体援引知情人士称，该轮融资原定目标10–20亿美元，最终募资超过35 亿美元，投后估值约350亿美元，远高于年初约100亿美元的估值水平，领投方为中国国家人工智能产业投资基金，部分互联网和产业资本亦参与其中。 这轮融资普遍被市场视为公司的Series F轮，并与Kimi K3的发布节奏相呼应，形成“模型...",
-      "highlights": [
-        "月之暗面（Moonshot AI）在2026年7月29日完成一轮规模显著超出原计划的融资",
-        "多家媒体援引知情人士称，该轮融资原定目标10–20亿美元，最终募资超过35 亿美元，投后估值约350亿美元，远高于年初约100亿美元的估值水平，领投方为中国国家人工智能产业投资基金，部分互联网和产业资本亦参与其中",
-        "这轮融资普遍被市场视为公司的Series F轮，并与Kimi K3的发布节奏相呼应，形成“模型迭代拉动估值再评级”的典型案例"
-      ],
-      "url": "https://caifuhao.eastmoney.com/news/20260824073650052032450",
-      "source": "caifuhao.eastmoney.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-08-24T05:00:00Z"
-    },
-    {
       "id": "22101ff17f2e",
       "title": "刚刚，销量第一的机器狗，长出了人形！ - 智源社区",
       "summary": "在他的框架里，自动驾驶和具身智能考的根本就是同一张卷子，换掉的只是身体。\n\n汽车是一种身体，四足机器狗是另一种身体，人形又是第三种。既然底层逻辑相通，四足上已经跑通的感知、规划和运动控制，就不必推倒重来，可以直接继承给人形。\n\n这套能够跨身体继承智能的方法，就是「具身基因组」。\n\n整个体系由三条闭环撑起来——\n\nOmniDuplex负责让系统持续交互与思考，WorldModel负责让策略在行动前推...",
@@ -719,6 +768,21 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-08-24T07:22:16Z"
+    },
+    {
+      "id": "01cc66fcde7b",
+      "title": "Anthropic Hires Former Google TPU Chief Amir Salek as AI Startup Eyes In-House Chips | citybiz",
+      "summary": "The move would also put Anthropic more directly into the growing race among AI companies and hyperscalers to develop custom silicon rather than relying exclusively on off-the-shelf processors.\n\nOpenAI...",
+      "highlights": [
+        "The move would also put Anthropic more directly into the growing race among AI companies and hyperscalers to develop custom silicon rather than relying exclusively on off-the-shelf processors.",
+        "OpenAI has taken a similar approach with its recently disclosed Jalapeño chip, designed specifically for large-language-model inference. OpenAI partnered with Broadcom and Celestica on the project. [...] Anthropic currently relies on chips and computing infrastructure from several major technology partners, including Nvidia, Google and Amazon. Developing a proprietary processor could help the company diversify its chip supply, potentially lower costs and optimize hardware specifically for its Claude AI models. [...] # Anthropic Hires Former Google TPU Chief Amir Salek as AI Startup Eyes In-House Chips",
+        "Anthropichas hired veteran chip executive Amir Salek, the former leader of Google’s tensor processing unit program, as the artificial intelligence company explores developing its own custom chips, according to Bloomberg."
+      ],
+      "url": "https://www.citybiz.co/article/892925/anthropic-hires-former-google-tpu-chief-amir-salek-as-ai-startup-eyes-in-house-chips",
+      "source": "citybiz.co",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-24T09:41:35Z"
     }
   ],
   "month": [
@@ -813,64 +877,64 @@
       "publishedAt": "2026-08-24T17:45:37Z"
     },
     {
-      "id": "d6a7fa800385",
-      "title": "OpenAI又宣布“暂缓前沿模型训练”？这是怎么一回事",
-      "summary": "《准备框架》（Preparedness Framework）是OpenAI早在2023年底提出的一套评估标准。其中网络安全能力的“关键”阈值，指的是AI模型无需人工干预，便能在许多经过强化的现实关键系统中识别并开发出各种严重级别的有效“零日漏洞”；或仅根据一个宏观的预期目标，便能针对经过强化的目标构思并执行端到端的新型网络攻击策略。\n\nOpenAI的最新公告，也引发网友们对另一个问题的争吵：Ast...",
+      "id": "c68eba031ec3",
+      "title": "OpenAI自研芯片跑赢英伟达GPU：一场蓄谋已久的芯片独立战争_TOM科技",
+      "summary": "公司计划从2026年底开始将Jalapeno部署到自己的计算基础设施中，以吉瓦级规模在微软等数据中心合作伙伴处部署。这是OpenAI与博通10GW定制AI加速器合作计划的第一代产品，整个项目预计持续至2029年底。\n\nOpenAI的野心远不止一颗芯片。第二代芯片已进入较为深入的研发阶段，预计'未来几个月'完成流片；第三代芯片也已启动概念设计。OpenAI正试图通过多代自研芯片，持续压低正在全球范围...",
       "highlights": [
-        "《准备框架》（Preparedness Framework）是OpenAI早在2023年底提出的一套评估标准",
-        "其中网络安全能力的“关键”阈值，指的是AI模型无需人工干预，便能在许多经过强化的现实关键系统中识别并开发出各种严重级别的有效“零日漏洞”；或仅根据一个宏观的预期目标，便能针对经过强化的目标构思并执行端到端的新型网络攻击策略",
-        "OpenAI的最新公告，也引发网友们对另一个问题的争吵：Astra模型到底什么时候公开发布"
+        "公司计划从2026年底开始将Jalapeno部署到自己的计算基础设施中，以吉瓦级规模在微软等数据中心合作伙伴处部署",
+        "这是OpenAI与博通10GW定制AI加速器合作计划的第一代产品，整个项目预计持续至2029年底",
+        "OpenAI的野心远不止一颗芯片"
       ],
-      "url": "https://www.cls.cn/detail/2457662",
-      "source": "cls.cn",
-      "category": "模型发布",
+      "url": "https://tech.tom.com/202608/1448212702.html",
+      "source": "tech.tom.com",
+      "category": "芯片硬件",
       "importance": 5,
-      "publishedAt": "2026-08-19T12:00:00Z"
+      "publishedAt": "2026-08-26T02:00:00Z"
     },
     {
-      "id": "4534b58f4683",
-      "title": "强大！神秘模型“牛来”引发网络热议，猜测是智谱还是另有其 ...",
-      "summary": "[](\n   首页\n   资讯\n   快讯\n   行情\n   日历\n   APP\n   VIP会员\n   大师课\n   生活家\n\n登录 / 注册\n\n   237 \n   收藏 \n\n   Image 1: qrcode\n   [](\n\n# 免费、强大！神秘模型“牛来”引发网络热议，猜测是智谱还是另有其人？\n\nImage 2: 龙玥龙玥 08-23 08:40 \n\n匿名模型Ox Alpha“牛来”免费...",
+      "id": "93b9a171a764",
+      "title": "小米连发三个芯片大招！首秀3nm智驾芯片，玄戒O3搭折叠旗舰9月开卖 - 智东西",
+      "summary": "Image 16\n\n芯东西（公众号：aichip001）\n\n作者 | 陈骏达\n\n编辑 | 漠影\n\n芯东西8月24日报道，就在刚刚，小米一口气发布了三颗玄戒自研芯片：最新一代AI旗舰SoC玄戒O3、首颗专为端侧大模型打造的高带宽AI加速芯片 玄戒O100，以及国内首款3nm智驾高算力AI芯片玄戒D100。\n\n其中，玄戒O3将在今年9月首发搭载于小米18 Fold以及小米平板9 Pro Max两款产品...",
       "highlights": [
-        "Image 1: qrcode",
-        "神秘模型“牛来”引发网络热议，猜测是智谱还是另有其人",
-        "Image 2: 龙玥龙玥 08-23 08:40"
+        "芯东西（公众号：aichip001）",
+        "芯东西8月24日报道，就在刚刚，小米一口气发布了三颗玄戒自研芯片：最新一代AI旗舰SoC玄戒O3、首颗专为端侧大模型打造的高带宽AI加速芯片 玄戒O100，以及国内首款3nm智驾高算力AI芯片玄戒D100",
+        "其中，玄戒O3将在今年9月首发搭载于小米18 Fold以及小米平板9 Pro Max两款产品，玄戒D100、玄戒O100已完成回片验证，将于明年正式商用，并且现场提供了原型机进行功能和性能演示"
       ],
-      "url": "https://wallstreetcn.com/articles/3780081",
-      "source": "wallstreetcn.com",
-      "category": "模型发布",
+      "url": "https://zhidx.com/p/587490.html",
+      "source": "zhidx.com",
+      "category": "芯片硬件",
       "importance": 5,
-      "publishedAt": "2026-08-23T08:40:11Z"
+      "publishedAt": "2026-08-24T10:09:22Z"
     },
     {
-      "id": "832a37f43666",
-      "title": "【立方基金通】大疆“卖飞”宇树科技/人形机器人龙头秘密递表/灵巧手赛道融资暴涨1500％",
-      "summary": "尔瑞鑫悦完成数千万元A+轮融资\n\n近日，北京尔瑞鑫悦科技有限公司宣布完成数千万元A+轮融资，本轮融资将主要用于加速尔瑞鑫悦全栈技术平台的AI智能化迭代升级、已获证诊断产品的商业化放量，以及健康管理板块多场景应用管线的临床与市场化进程。\n\n北极雄芯完成新一轮融资\n\n近日，北极雄芯宣布完成新一轮融资。本轮融资新引入京能基金、北创投、无锡市集成电路产业基金等政府及产业背景投资方，以及长江证券创新投、慕华...",
+      "id": "801b82d9518a",
+      "title": "马云与管理层继续出手增持阿里巴巴；字节跳动发布豆包工作｜未来商业早参",
+      "summary": "NO.2 字节跳动发布豆包工作\n\n据字节跳动官微，8月25日，豆包工作正式发布。作为豆包面向生产力场景推出的全新 Agent（智能体）产品与品牌，豆包工作能围绕用户目标自主拆解任务、调用工具、持续推进复杂工作流程。豆包工作还与飞书深度打通，让Agent基于企业上下文更准确地完成工作。目前，豆包工作电脑版已可通过官网下载，用户可在最新豆包电脑版中直接使用。\n\n点评：字节跳动正式推出豆包工作，标志着其...",
       "highlights": [
-        "尔瑞鑫悦完成数千万元A+轮融资",
-        "近日，北京尔瑞鑫悦科技有限公司宣布完成数千万元A+轮融资，本轮融资将主要用于加速尔瑞鑫悦全栈技术平台的AI智能化迭代升级、已获证诊断产品的商业化放量，以及健康管理板块多场景应用管线的临床与市场化进程",
-        "北极雄芯完成新一轮融资"
+        "NO.2 字节跳动发布豆包工作",
+        "据字节跳动官微，8月25日，豆包工作正式发布",
+        "作为豆包面向生产力场景推出的全新 Agent（智能体）产品与品牌，豆包工作能围绕用户目标自主拆解任务、调用工具、持续推进复杂工作流程"
       ],
-      "url": "https://app.dahecube.com/article.html?artid=283940%3Frecid%3D1",
-      "source": "app.dahecube.com",
+      "url": "https://www.mrjjxw.com/articles/2026-08-25/4555752.html",
+      "source": "mrjjxw.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-08-25T23:00:00Z"
+    },
+    {
+      "id": "6ef5596543a4",
+      "title": "投资界24h|燧原科技9月2日申购；小鹏机器人业务完成首轮融资超9亿美元；美元募资回来了_投资界",
+      "summary": "### 兆易创新做云锋基金LP了\n\n  2026/08/24\n 英伟达AI服务器将涨价15%，1GW数据中心成本激增50亿美元\n\n  ### 英伟达AI服务器将涨价15%，1GW数据中心成本激增50亿美元\n\n  2026/08/24\n AI算力紧缺时代，大学生买不起电脑了\n\n  ### AI算力紧缺时代，大学生买不起电脑了\n\n  2026/08/24\n\n清科控股（01945.HK）旗下 创业与投资...",
+      "highlights": [
+        "### 兆易创新做云锋基金LP了",
+        "英伟达AI服务器将涨价15%，1GW数据中心成本激增50亿美元",
+        "### 英伟达AI服务器将涨价15%，1GW数据中心成本激增50亿美元"
+      ],
+      "url": "https://news.pedaily.cn/202608/568056.shtml",
+      "source": "news.pedaily.cn",
       "category": "投并购",
       "importance": 5,
-      "publishedAt": "2026-08-19T12:00:00Z"
-    },
-    {
-      "id": "dd501abe27ee",
-      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-      "summary": "San Francisco\n\nScale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you.  \n  \nSave up to $300 today!\n\nREGISTER NOW\n\n## Most Popular\n\n Stripe will repor...",
-      "highlights": [
-        "San Francisco",
-        "Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you.",
-        "Save up to $300 today!"
-      ],
-      "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup",
-      "source": "techcrunch.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-08-19T21:51:23Z"
+      "publishedAt": "2026-08-25T00:38:00Z"
     }
   ]
 }
