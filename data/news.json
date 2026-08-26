@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T08:08:34Z",
+  "updatedAt": "2026-08-26T14:25:50Z",
   "latest": [
     {
       "id": "3f1f875dd11e",
@@ -15,21 +15,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-08-25T04:00:00Z"
-    },
-    {
-      "id": "f94e19edbdbe",
-      "title": "融资周报 | Stripe以逾70亿美元价格收购AI公司OpenRouter；AI芯片公司Etched筹集7亿美元 | PANews",
-      "summary": "AI数据中心运营商DataVita宣布完成3亿英镑（约4.06亿美元）融资，ING、ABN AMRO、西班牙桑坦德银行、苏格兰国家投资银行以及西门子金融服务参投，新资金将用于人工智能数据中心园区，并与AI云计算服务商CoreWeave达成15年数据中心租约。\n\nAI芯片初创公司Groq融资3.5亿美元，估值降至35亿美元\n\nAI芯片初创公司Groq完成3.5亿美元融资，但公司估值降至35亿美元，约...",
-      "highlights": [
-        "AI数据中心运营商DataVita宣布完成3亿英镑（约4.06亿美元）融资，ING、ABN AMRO、西班牙桑坦德银行、苏格兰国家投资银行以及西门子金融服务参投，新资金将用于人工智能数据中心园区，并与AI云计算服务商CoreWeave达成15年数据中心租约",
-        "AI芯片初创公司Groq融资3.5亿美元，估值降至35亿美元",
-        "AI芯片初创公司Groq完成3.5亿美元融资，但公司估值降至35亿美元，约为近一年之前估值的一半"
-      ],
-      "url": "https://www.panewslab.com/zh/articles/01a031ca-aacf-717b-a27a-d85e134d9ed7",
-      "source": "panewslab.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-08-24T12:00:00Z"
     },
     {
       "id": "046f2d695b78",
@@ -107,21 +92,6 @@
       "publishedAt": "2026-08-26T02:00:00Z"
     },
     {
-      "id": "93b9a171a764",
-      "title": "小米连发三个芯片大招！首秀3nm智驾芯片，玄戒O3搭折叠旗舰9月开卖 - 智东西",
-      "summary": "Image 16\n\n芯东西（公众号：aichip001）\n\n作者 | 陈骏达\n\n编辑 | 漠影\n\n芯东西8月24日报道，就在刚刚，小米一口气发布了三颗玄戒自研芯片：最新一代AI旗舰SoC玄戒O3、首颗专为端侧大模型打造的高带宽AI加速芯片 玄戒O100，以及国内首款3nm智驾高算力AI芯片玄戒D100。\n\n其中，玄戒O3将在今年9月首发搭载于小米18 Fold以及小米平板9 Pro Max两款产品...",
-      "highlights": [
-        "芯东西（公众号：aichip001）",
-        "芯东西8月24日报道，就在刚刚，小米一口气发布了三颗玄戒自研芯片：最新一代AI旗舰SoC玄戒O3、首颗专为端侧大模型打造的高带宽AI加速芯片 玄戒O100，以及国内首款3nm智驾高算力AI芯片玄戒D100",
-        "其中，玄戒O3将在今年9月首发搭载于小米18 Fold以及小米平板9 Pro Max两款产品，玄戒D100、玄戒O100已完成回片验证，将于明年正式商用，并且现场提供了原型机进行功能和性能演示"
-      ],
-      "url": "https://zhidx.com/p/587490.html",
-      "source": "zhidx.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-24T10:09:22Z"
-    },
-    {
       "id": "801b82d9518a",
       "title": "马云与管理层继续出手增持阿里巴巴；字节跳动发布豆包工作｜未来商业早参",
       "summary": "NO.2 字节跳动发布豆包工作\n\n据字节跳动官微，8月25日，豆包工作正式发布。作为豆包面向生产力场景推出的全新 Agent（智能体）产品与品牌，豆包工作能围绕用户目标自主拆解任务、调用工具、持续推进复杂工作流程。豆包工作还与飞书深度打通，让Agent基于企业上下文更准确地完成工作。目前，豆包工作电脑版已可通过官网下载，用户可在最新豆包电脑版中直接使用。\n\n点评：字节跳动正式推出豆包工作，标志着其...",
@@ -195,21 +165,6 @@
       "category": "具身智能",
       "importance": 5,
       "publishedAt": "2026-08-25T10:00:00Z"
-    },
-    {
-      "id": "01cc66fcde7b",
-      "title": "Anthropic Hires Former Google TPU Chief Amir Salek as AI Startup Eyes In-House Chips | citybiz",
-      "summary": "The move would also put Anthropic more directly into the growing race among AI companies and hyperscalers to develop custom silicon rather than relying exclusively on off-the-shelf processors.\n\nOpenAI...",
-      "highlights": [
-        "The move would also put Anthropic more directly into the growing race among AI companies and hyperscalers to develop custom silicon rather than relying exclusively on off-the-shelf processors.",
-        "OpenAI has taken a similar approach with its recently disclosed Jalapeño chip, designed specifically for large-language-model inference. OpenAI partnered with Broadcom and Celestica on the project. [...] Anthropic currently relies on chips and computing infrastructure from several major technology partners, including Nvidia, Google and Amazon. Developing a proprietary processor could help the company diversify its chip supply, potentially lower costs and optimize hardware specifically for its Claude AI models. [...] # Anthropic Hires Former Google TPU Chief Amir Salek as AI Startup Eyes In-House Chips",
-        "Anthropichas hired veteran chip executive Amir Salek, the former leader of Google’s tensor processing unit program, as the artificial intelligence company explores developing its own custom chips, according to Bloomberg."
-      ],
-      "url": "https://www.citybiz.co/article/892925/anthropic-hires-former-google-tpu-chief-amir-salek-as-ai-startup-eyes-in-house-chips",
-      "source": "citybiz.co",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-24T09:41:35Z"
     },
     {
       "id": "6456d0ae7e6d",
@@ -294,6 +249,92 @@
       "publishedAt": "2026-08-26T02:41:24Z"
     },
     {
+      "id": "f9fa3eeceaba",
+      "title": "AI推理时代，TPU需求炸裂式扩张! 大摩：谷歌百万颗TPU撬动2000亿美元云计算收入",
+      "summary": "美国科技巨头之一的微软(MSFT.US)计划很快推出其最新自研AI加速器Maia，加之谷歌与Fabless芯片公司Marvell(迈威尔科技)的新协议覆盖AI加速器、存储和内存控制器等多款定制芯片，凸显出AI应用领军者以及超大规模云计算厂商们主导的AI算力基础设施建设进程正在从“集体采购英伟达GPU”全面升级为英伟达GPU+AMD GPU+自研AI专用集成电路(AI ASIC)/XPU+CPU/D...",
+      "highlights": [
+        "美国科技巨头之一的微软(MSFT.US)计划很快推出其最新自研AI加速器Maia，加之谷歌与Fabless芯片公司Marvell(迈威尔科技)的新协议覆盖AI加速器、存储和内存控制器等多款定制芯片，凸显出AI应用领军者以及超大规模云计算厂商们主导的AI算力基础设施建设进程正在从“集体采购英伟达GPU”全面升级为英伟达GPU+AMD GPU+自研AI专用集成电路(AI ASIC)/XPU+CPU/DPU大规模协同运行的异构计算体系",
+        "当AI大模型架构逐步稳定且全球各行业Token调用量呈现出指数级增长后，高并发AI推理工作负载越来越适合通过定制芯片降低单位Token成本",
+        "谷歌与Marvell(即迈威尔科技)的新协议，全面覆盖AI加速器、存储和内存控制器等定制芯片，潜在采购对应Marvell截至2033财年的最高约1200亿美元收入，实质是分散对谷歌TPU长期以来的技术端合作伙伴博通这一单一fabless设计伙伴的依赖"
+      ],
+      "url": "https://news.futunn.com/post/78222582/in-the-era-of-ai-inference-demand-for-tpus-is",
+      "source": "news.futunn.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-25T14:16:29Z"
+    },
+    {
+      "id": "2c08b87adc69",
+      "title": "小鹏IRON机器人融资9亿美元估值63亿，从2016年自动驾驶到2026年具身智能的十年轮回_网通社号",
+      "summary": "历史总是惊人地相似。从2016年造车到2026年造机器人，十年过去了，玩家还是那些玩家，资本还是那些资本，连剧本都差不多——先讲一个宏大的故事，拿一笔巨额的融资，然后开始漫长的量产爬坡。\n\n回看2018年，小鹏汽车首款车型G3上市，当年交付量仅为数百台。何小鹏当时在内部信中说“规模交付是更大的挑战”，这句话放到今天的人形机器人上同样适用。IRON规划2026年底启动量产，2027年正式上市，月产能...",
+      "highlights": [
+        "从2016年造车到2026年造机器人，十年过去了，玩家还是那些玩家，资本还是那些资本，连剧本都差不多——先讲一个宏大的故事，拿一笔巨额的融资，然后开始漫长的量产爬坡",
+        "回看2018年，小鹏汽车首款车型G3上市，当年交付量仅为数百台",
+        "何小鹏当时在内部信中说“规模交付是更大的挑战”，这句话放到今天的人形机器人上同样适用"
+      ],
+      "url": "http://auto.news18a.com/news/storys_290204.html",
+      "source": "auto.news18a.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-08-25T14:38:03Z"
+    },
+    {
+      "id": "3de93104c6f2",
+      "title": "😺 Anthropic's $30 Trillion Market Claim",
+      "summary": "It's part of a bigger shift. Every major AI lab, including Google, Amazon, Microsoft, and now Anthropic, is racing to build its own chips instead of depending entirely on NVIDIA. OpenAI plans a small ...",
+      "highlights": [
+        "It's part of a bigger shift. Every major AI lab, including Google, Amazon, Microsoft, and now Anthropic, is racing to build its own chips instead of depending entirely on NVIDIA. OpenAI plans a small batch of Jalapeño-powered systems this year, with more next year, plus two newer chip generations already in the works.",
+        "Only catch: Jalapeño can't train new models from scratch, so OpenAI still needs NVIDIA's chips for that part. Even the spiciest pepper still needs someone else's kitchen. [...] The Neuron",
+        "😺 Anthropic's $30 Trillion Market Claim"
+      ],
+      "url": "https://www.theneurondaily.com/p/anthropic-s-30-trillion-market-claim",
+      "source": "theneurondaily.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-08-26T11:00:00Z"
+    },
+    {
+      "id": "106df46dd898",
+      "title": "Brain Drain Hits OpenAI and Google, But the Impact Isn't ...",
+      "summary": "### Even Claude Is in the Dark About Dario Amodei’s Wife—and Her Influence at Anthropic\n\n### Outback Steakhouse Owner Sees Diners Buying Pricier Steaks; Google’s AI Leadership Shuffle\n\n### Michigan Se...",
+      "highlights": [
+        "### Even Claude Is in the Dark About Dario Amodei’s Wife—and Her Influence at Anthropic",
+        "### Outback Steakhouse Owner Sees Diners Buying Pricier Steaks; Google’s AI Leadership Shuffle",
+        "### Michigan Senate Primary Shows Democrats’ Fight for Party Control Is Far From Over"
+      ],
+      "url": "https://www.wsj.com/tech/ai/brain-drain-hits-openai-and-google-but-the-impact-isnt-equal-dedea586",
+      "source": "wsj.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-08-25T16:00:00Z"
+    },
+    {
+      "id": "e9a2c4f7c928",
+      "title": "恒智易说AI丨英伟达押注物理AI,OpenAI称自研芯片超越英伟达,AMD推出AI成本计算器",
+      "summary": "OpenAI加入了自研AI芯片企业的行列,目前这一市场由英伟达主导.OpenAI与博通合作开发了Jalapeno.两家公司去年宣布合作,并...",
+      "highlights": [
+        "OpenAI加入了自研AI芯片企业的行列,目前这一市场由英伟达主导.OpenAI与博通合作开发了Jalapeno.两家公司去年宣布合作,并..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0Ca11akT5F2eW6An1k3ARYiW3odaILf7FqXa8Fplpd9y03KolUQY3r5JNFRo0PdtTNuUJH5pqlqxed_WwfwYJ3rHycf39AAYzyMqxKGGSP_PiT5rRg9Zbe5cHxe_G4lagmvPcKt4zxQpv2NJAG8bMrrvxv3apZSsF3uNtl_U-z_Oh4e7qsSJtoLyPEgV09pjEYEj9hRynf9H1RHjhXH9KfFcvUoAZZH7Q..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=94AFC95F18B6EEA3AFA9F65D5010B867AF574EFC6A8EF76A",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-26T09:59:33Z"
+    },
+    {
+      "id": "d613cfbb616e",
+      "title": "OpenAI称自研AI芯片测试表现超越英伟达GB300",
+      "summary": "OpenAI表示,其全新Jalapeno芯片在测试中的表现优于英伟达的现有产品线,凸显该公司在自主研发AI处理器方面取得进展.  在测试...",
+      "highlights": [
+        "OpenAI表示,其全新Jalapeno芯片在测试中的表现优于英伟达的现有产品线,凸显该公司在自主研发AI处理器方面取得进展.  在测试..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0Ca11akT5F2eW6An1k3ARYiW3odaILf7FqXa8Fplpd9wLZkvBMyyV6CrvXs55Vlbs6_Q5dmZG5RuJQAI1WHRt-xScde132VkvlH8ATzVTVHXqIkCUfPkACmLIfOht8KFRmmJt8P8J-L_WuW3nCa5rGjGih8fJ34xIaUx_fvmL0eZJFORtGGnUSQG3oRmuj0woLeJgwPRtZBcIV9FjyLZhZf_71bqkOtiw..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=94AFC95F18B6EEA3AFA9F65D5010B867AF574EFC6A8EF76A",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-26T03:47:37Z"
+    },
+    {
       "id": "c365512aa37f",
       "title": "AI早报 | 小米发布大模型专用AI加速芯片玄戒O100；小鹏机器人业务首轮融资超9亿美元",
       "summary": "字节跳动对旗下的办公AI产品完成了一轮团队整合，TRAE、扣子（Coze）团队将整体并入豆包体系，其中TRAE Work、扣子将与豆包在工作场景的产品能力进行整合；TRAE IDE及CLI将作为豆包品牌下的编程产品线持续发展。此次调整后，字节也进一步明确了豆包的AI主干业务定位，将AI办公类产品的重心集中到豆包。此外，豆包最快将于本周内推出独立的AI办公产品“豆包工作”，作为字节面向AI办公场景的...",
@@ -307,36 +348,6 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-08-25T00:00:00Z"
-    },
-    {
-      "id": "38083228cf6b",
-      "title": "文娱投资告别“赌爆款” 五类资产成新一轮投资主线",
-      "summary": "清华五道口的报告显示，2024年私募股权市场中，“人工智能+文化”项目数量占比已经超过30%；到2025年上半年，这一比例超过40%。按照烯牛数据统计，近一年的文化产业融资中，“文化×AI”相关项目达到138起，占比约41%。\n\n这轮投资并不仅仅指AI生成图片或者AI写作，而是覆盖剧本开发、分镜制作、角色设计、视频生成、动画生产、数字人、配音翻译、广告素材、游戏资产和智能玩具等多个环节。\n\n国务院...",
-      "highlights": [
-        "清华五道口的报告显示，2024年私募股权市场中，“人工智能+文化”项目数量占比已经超过30%；到2025年上半年，这一比例超过40%",
-        "按照烯牛数据统计，近一年的文化产业融资中，“文化×AI”相关项目达到138起，占比约41%",
-        "这轮投资并不仅仅指AI生成图片或者AI写作，而是覆盖剧本开发、分镜制作、角色设计、视频生成、动画生产、数字人、配音翻译、广告素材、游戏资产和智能玩具等多个环节"
-      ],
-      "url": "https://eu.36kr.com/zh/p/3953003256397191",
-      "source": "eu.36kr.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-08-24T12:00:00Z"
-    },
-    {
-      "id": "b77b3a89fa58",
-      "title": "Alibaba launches Wan3.0 AI video model after $10 billion ...",
-      "summary": "Skip to main content\n\nReport AdImage 2\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n - Alibaba (9988.HK), opens new tab officially rolled out its ...",
-      "highlights": [
-        "Skip to main content",
-        "Report AdImage 2",
-        "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv"
-      ],
-      "url": "https://www.reuters.com/business/retail-consumer/alibaba-launches-wan30-ai-video-model-after-10-billion-share-sale-2026-08-24",
-      "source": "reuters.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-08-24T08:15:19Z"
     },
     {
       "id": "a7b7fa8fc311",
@@ -427,21 +438,6 @@
       "category": "产品进展",
       "importance": 4,
       "publishedAt": "2026-08-25T03:00:20Z"
-    },
-    {
-      "id": "40afdefa56ba",
-      "title": "无人物流车成为具身智能首个规模化落地赛道",
-      "summary": "[](\n\n 时政\n 热点\n 政务\n 深瞳\n 访谈\n 视频\n 国际\n 地方\n 专题\n English\n 滚动\n\n[](  登录 -\n\n所在位置： 中国科技网首页 > 滚动 > 正文\n\n# 无人物流车成为具身智能首个规模化落地赛道\n\n2026-08-24 14:10:02 来源:  科技日报  点击数：\n\n科普时报记者 陈杰\n\n当人形机器人、通用具身智能仍处于技术迭代与场景验证阶段时，无人物流车已成为...",
-      "highlights": [
-        "所在位置： 中国科技网首页 > 滚动 > 正文",
-        "# 无人物流车成为具身智能首个规模化落地赛道",
-        "2026-08-24 14:10:02 来源:  科技日报  点击数："
-      ],
-      "url": "https://www.stdaily.com/web/gdxw/2026-08/24/content_568787.html",
-      "source": "stdaily.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-08-25T05:00:00Z"
     }
   ],
   "today": [
@@ -500,6 +496,47 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-08-26T02:41:24Z"
+    },
+    {
+      "id": "3de93104c6f2",
+      "title": "😺 Anthropic's $30 Trillion Market Claim",
+      "summary": "It's part of a bigger shift. Every major AI lab, including Google, Amazon, Microsoft, and now Anthropic, is racing to build its own chips instead of depending entirely on NVIDIA. OpenAI plans a small ...",
+      "highlights": [
+        "It's part of a bigger shift. Every major AI lab, including Google, Amazon, Microsoft, and now Anthropic, is racing to build its own chips instead of depending entirely on NVIDIA. OpenAI plans a small batch of Jalapeño-powered systems this year, with more next year, plus two newer chip generations already in the works.",
+        "Only catch: Jalapeño can't train new models from scratch, so OpenAI still needs NVIDIA's chips for that part. Even the spiciest pepper still needs someone else's kitchen. [...] The Neuron",
+        "😺 Anthropic's $30 Trillion Market Claim"
+      ],
+      "url": "https://www.theneurondaily.com/p/anthropic-s-30-trillion-market-claim",
+      "source": "theneurondaily.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-08-26T11:00:00Z"
+    },
+    {
+      "id": "e9a2c4f7c928",
+      "title": "恒智易说AI丨英伟达押注物理AI,OpenAI称自研芯片超越英伟达,AMD推出AI成本计算器",
+      "summary": "OpenAI加入了自研AI芯片企业的行列,目前这一市场由英伟达主导.OpenAI与博通合作开发了Jalapeno.两家公司去年宣布合作,并...",
+      "highlights": [
+        "OpenAI加入了自研AI芯片企业的行列,目前这一市场由英伟达主导.OpenAI与博通合作开发了Jalapeno.两家公司去年宣布合作,并..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0Ca11akT5F2eW6An1k3ARYiW3odaILf7FqXa8Fplpd9y03KolUQY3r5JNFRo0PdtTNuUJH5pqlqxed_WwfwYJ3rHycf39AAYzyMqxKGGSP_PiT5rRg9Zbe5cHxe_G4lagmvPcKt4zxQpv2NJAG8bMrrvxv3apZSsF3uNtl_U-z_Oh4e7qsSJtoLyPEgV09pjEYEj9hRynf9H1RHjhXH9KfFcvUoAZZH7Q..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=94AFC95F18B6EEA3AFA9F65D5010B867AF574EFC6A8EF76A",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-26T09:59:33Z"
+    },
+    {
+      "id": "d613cfbb616e",
+      "title": "OpenAI称自研AI芯片测试表现超越英伟达GB300",
+      "summary": "OpenAI表示,其全新Jalapeno芯片在测试中的表现优于英伟达的现有产品线,凸显该公司在自主研发AI处理器方面取得进展.  在测试...",
+      "highlights": [
+        "OpenAI表示,其全新Jalapeno芯片在测试中的表现优于英伟达的现有产品线,凸显该公司在自主研发AI处理器方面取得进展.  在测试..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0Ca11akT5F2eW6An1k3ARYiW3odaILf7FqXa8Fplpd9wLZkvBMyyV6CrvXs55Vlbs6_Q5dmZG5RuJQAI1WHRt-xScde132VkvlH8ATzVTVHXqIkCUfPkACmLIfOht8KFRmmJt8P8J-L_WuW3nCa5rGjGih8fJ34xIaUx_fvmL0eZJFORtGGnUSQG3oRmuj0woLeJgwPRtZBcIV9FjyLZhZf_71bqkOtiw..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=94AFC95F18B6EEA3AFA9F65D5010B867AF574EFC6A8EF76A",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-26T03:47:37Z"
     },
     {
       "id": "2cb5a7e806d9",
@@ -818,21 +855,6 @@
       "publishedAt": "2026-08-25T10:00:00Z"
     },
     {
-      "id": "368acbad58b4",
-      "title": "美智库: “我们摸底了中美1181家企业, 发现中国AI在物理世界的布局让人担忧”",
-      "summary": "这个差异在战略上很关键。具身智能被普遍看作通往通用人工智能的一块重要拼图，它要求智能体在真实物理环境中感知、推理与行动。中国企业在这方面的规模化布局，正在转化为数据、场景与工程经验的积累。反观美国，软件优先的路径虽然在语言与知识领域领先，但在“智能体落地”这个可能决定下个十年竞争格局的方向上，生态厚度相对薄弱。\n\n中国在机器人、自动驾驶和工业自动化领域形成了数量较多的企业样本，背后涉及制造体系、零...",
-      "highlights": [
-        "这个差异在战略上很关键",
-        "具身智能被普遍看作通往通用人工智能的一块重要拼图，它要求智能体在真实物理环境中感知、推理与行动",
-        "中国企业在这方面的规模化布局，正在转化为数据、场景与工程经验的积累"
-      ],
-      "url": "https://m.marsbit.co/newsdetail/20260824152216298859.html",
-      "source": "m.marsbit.co",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-08-24T07:22:16Z"
-    },
-    {
       "id": "01cc66fcde7b",
       "title": "Anthropic Hires Former Google TPU Chief Amir Salek as AI Startup Eyes In-House Chips | citybiz",
       "summary": "The move would also put Anthropic more directly into the growing race among AI companies and hyperscalers to develop custom silicon rather than relying exclusively on off-the-shelf processors.\n\nOpenAI...",
@@ -846,6 +868,19 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-08-24T09:41:35Z"
+    },
+    {
+      "id": "6456d0ae7e6d",
+      "title": "OpenAI Jalapeño: Better Than Nvidia Blackwell",
+      "summary": "In general first generation chips are not competitive, but OpenAI bucks the trend by being industry leading and beating every Nvidia, AMD, and Google chip we have been able to test on multiple top ope...",
+      "highlights": [
+        "In general first generation chips are not competitive, but OpenAI bucks the trend by being industry leading and beating every Nvidia, AMD, and Google chip we have been able to test on multiple top open source models. OpenAI does this with extreme hardware software codesign. Surprisingly, OpenAI is not over specialization on any specific part of model inference, but instead by focusing on being a general chip that delivers high performance in all scenarios. [...] In June, OpenAI unveiled the chip program in partnership with Broadcom, built from a blank slate exclusively for LLM inference. Design work began in the middle of 2024, going from initial team hiring to manufacturing tape-out in ~16 months, an extremely fast ASIC development cycle. [...] Architecturally, OpenAI chose not to disaggregate prefill and decode (PD) across separate chip pools. The draft model and main model share the same chips and fabric, a design philosophy that trades some theoretical efficiency for practical operations. The motivation is that the workload mix changes over time, for example the ratio of input to cache write to cache read to output tokens has changed significantly as we have moved through the three eras of models (knowledge, reasoning, and agentic,"
+      ],
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "source": "newsletter.semianalysis.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-25T14:00:38Z"
     }
   ],
   "month": [
