@@ -16,21 +16,24 @@ DATA_FILE = "data/news.json"
 
 SEARCH_QUERIES = [
     "AI 大模型 发布 最新",
-    "人工智能 融资 并购 创业 投资",
-    "AI 产品 技术进展 上新",
-    "AI 前沿研究 论文 突破 理论",
-    "AI model release launch latest",
+    "AI 芯片 GPU 自研 算力 最新",
+    "AI Agent 智能体 产品 发布 上线",
+    "人工智能 融资 并购 IPO 投资",
+    "具身智能 人形机器人 自动驾驶 最新",
+    "AI 前沿研究 突破 论文",
+    "OpenAI Anthropic Google AI chip model latest",
     "AI startup funding acquisition 2026",
 ]
 
-CATEGORIES = ["模型发布", "产品进展", "投并购", "前沿理论", "创业动态", "行业话题", "其他"]
+CATEGORIES = ["模型发布", "芯片硬件", "产品进展", "投并购", "具身智能", "前沿理论", "行业话题", "其他"]
 
 CATEGORY_KEYWORDS = {
-    "模型发布": ["发布", "推出", "release", "launch", "model", "大模型", "gpt", "claude", "gemini", "llama", "豆包", "deepseek", "开源"],
-    "投并购": ["融资", "并购", "收购", "投资", "funding", "acquisition", "investment", "raise", "估值", "上市", "ipo", "轮"],
-    "前沿理论": ["研究", "论文", "paper", "research", "突破", "理论", "theory", "arxiv", "科学家", "发现"],
-    "产品进展": ["产品", "上线", "功能", "更新", "product", "feature", "上新", "app", "应用", "工具"],
-    "创业动态": ["创业", "初创", "startup", "founder", "创始人", "团队", "离职", "加入"],
+    "芯片硬件": ["芯片", "gpu", "cpu", "npu", "tpu", "算力", "自研芯片", "chip", "nvidia", "英伟达", "半导体", "晶圆", "台积电", "sambanova", "groq", "cerebras", "jalapeño", "blackwell", "gb200", "gb300", "光互连", "光模块"],
+    "具身智能": ["具身", "机器人", "robot", "humanoid", "人形", "自动驾驶", "autonomous", "无人车", "机械臂", "宇树", "梅卡曼德", "figure", "tesla optimus", "灵巧手"],
+    "模型发布": ["发布", "推出", "release", "launch", "model", "大模型", "gpt", "claude", "gemini", "llama", "豆包", "deepseek", "开源模型", "nemotron", "ssi", "ilya", "kimi", "通义", "文心"],
+    "投并购": ["融资", "并购", "收购", "投资", "funding", "acquisition", "investment", "raise", "估值", "上市", "ipo", "轮", "招股", "基石"],
+    "前沿理论": ["研究", "论文", "paper", "research", "突破", "理论", "theory", "arxiv", "科学家", "发现", "agi", "对齐", "scaling"],
+    "产品进展": ["产品", "上线", "功能", "更新", "product", "feature", "上新", "app", "应用", "工具", "agent", "智能体", "飞书", "扣子", "coze", "工作"],
 }
 
 
@@ -70,7 +73,7 @@ def collect_all_news(days=2):
     all_results = []
     seen_urls = set()
     for q in SEARCH_QUERIES:
-        results = tavily_search(q, days=days, max_results=8)
+        results = tavily_search(q, days=days, max_results=10)
         for r in results:
             u = r.get("url", "")
             if u and u not in seen_urls:
@@ -94,9 +97,15 @@ def guess_category(title, content):
 
 def guess_importance(title, content):
     text = (title + " " + content).lower()
-    high_signals = ["重大", "突破", "首次", "发布", "融资", "收购", "ipo", "上市", "billion", "亿", "launch", "release", "gpt", "claude", "openai", "anthropic", "google", "nvidia"]
+    high_signals = [
+        "重大", "突破", "首次", "发布", "融资", "收购", "ipo", "上市", "billion", "亿",
+        "launch", "release", "gpt", "claude", "openai", "anthropic", "google", "nvidia",
+        "英伟达", "芯片", "chip", "gpu", "自研", "104倍", "超越", "beat", "outperform",
+        "机器人", "humanoid", "自动驾驶", "agent", "智能体", "开源", "open source",
+        "ilya", "sutskever", "ssi", "jalapeño", "nemotron",
+    ]
     score = sum(1 for s in high_signals if s in text)
-    if score >= 4:
+    if score >= 5:
         return 5
     if score >= 3:
         return 4
