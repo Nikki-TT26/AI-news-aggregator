@@ -1,6 +1,432 @@
 {
-  "updatedAt": "2026-08-28T21:56:30Z",
+  "updatedAt": "2026-08-29T00:01:16Z",
   "latest": [
+    {
+      "id": "0150d58a8ab0",
+      "title": "Google Employees Are Already Testing the Next Gemini Flash AI Model - Business Insider",
+      "summary": "# Google employees are already testing the next Gemini Flash AI model. Google just released a new AI model this month. Its employees are already testing the next one. Some staff have begun using a pre...",
+      "highlights": [
+        "# Google employees are already testing the next Gemini Flash AI model. Google just released a new AI model this month. Its employees are already testing the next one. Some staff have begun using a preview version of Gemini 3.8 Flash, highlighting the breakneck pace of the AI race as Google pushes out new models just weeks apart to keep up with OpenAI and Anthropic. The new model — dubbed \"Gemini 3.8 Flash Preview\" — was made available to staff on Google's internal coding platform, Jetski, according to images Business Insider obtained. One employee testing the new model said it already felt noticeably better than 3.7 Flash, but emphasized it was too early for a full review. With 3.5 Pro still missing and Anthropic and OpenAI sprinting ahead in the AI race, Google no longer has a frontier model. Instead, it has doubled down on its \"Flash\" models, which offer greater speed and lower costs for users, at a time when customers are keeping a closer eye on their AI bill."
+      ],
+      "url": "https://www.businessinsider.com/google-employees-testing-next-gemini-flash-3-8-model-2026-8",
+      "source": "businessinsider.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-08-27T21:30:06Z"
+    },
+    {
+      "id": "3c75e284d829",
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 - TechCrunch",
+      "summary": "# Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026. AI hasn’t just changed how startups build; it’s broken how they sell, secure their data and customers, and scale it more rap...",
+      "highlights": [
+        "# Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026. AI hasn’t just changed how startups build; it’s broken how they sell, secure their data and customers, and scale it more rapidly than ever before. At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups. This time around, we’re exploring the business models AI is rewriting, the wealth of unsolved security gaps, and the entirely new job categories AI has created from scratch. We’re talking about the matter of how to price AI products when models become commoditized, why agent security has to be rebuilt from the infrastructure up, and what it actually means to have a go-to-market plan in an AI-native world. This session pulls back the curtain on what applied AI actually looks like inside the world’s most closely watched AI company — and what it reveals about where enterprise AI is really headed."
+      ],
+      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "source": "techcrunch.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-08-27T23:16:45Z"
+    },
+    {
+      "id": "a384db2d3665",
+      "title": "OpenAI, 100+ companies warn of coming surge in AI-powered cyberattacks, call for global defense push - Fox Business",
+      "summary": "* #### Nvidia CEO predicts AI will be a ‘net job creator,’ but warns of disruption. # OpenAI, 100+ companies warn of coming surge in AI-powered cyberattacks, call for global defense push. OpenAI relea...",
+      "highlights": [
+        "* #### Nvidia CEO predicts AI will be a ‘net job creator,’ but warns of disruption. # OpenAI, 100+ companies warn of coming surge in AI-powered cyberattacks, call for global defense push. OpenAI released a letter Thursday warning that within months, artifical intelligence (AI) models could become powerful enough to allow bad actors to launch increasingly sophisticated cyberattacks on hospitals, water treatment plants and other critical infrastructure. In a portion of the letter addressed to \"frontier AI companies,\" OpenAI said it should give critical-infrastructure operators access to powerful models, funding, training and technical help. Anthropic said one of its frontier models, Claude Mythos, has reached \"a level of coding capability where they can surpass all but the most skilled humans at finding and exploiting software vulnerabilities.\" (Imen Ben Youssef/Hans Lucas/AFP via Getty Images, File). In the announcement, Anthropic said that one of its frontier models, Claude Mythos, had reached \"a level of coding capability where they can surpass all but the most skilled humans at finding and exploiting software vulnerabilities.\"."
+      ],
+      "url": "https://www.foxbusiness.com/technology/openai-100-companies-warn-coming-surge-ai-powered-cyberattacks-call-global-defense-push",
+      "source": "foxbusiness.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-08-27T18:29:47Z"
+    },
+    {
+      "id": "8f7394b549cf",
+      "title": "Anthropic pushes into physical world with new standard to help AI agents operate machines - CNBC",
+      "summary": "# Anthropic pushes into physical world with new standard to help AI agents operate machines. * Anthropic announced the Model Hardware Standard, or MHS, a new interface that will make it simpler for AI...",
+      "highlights": [
+        "# Anthropic pushes into physical world with new standard to help AI agents operate machines. * Anthropic announced the Model Hardware Standard, or MHS, a new interface that will make it simpler for AI agents to operate and communicate with physical machinery. * MHS is initially available in a research preview, but Anthropic plans to open source it in the future. Anthropic on Thursday announced a new interface that will make it simpler for AI agents to operate and communicate with machinery, as the artificial intelligence giant pushes into the physical world. The Model Hardware Standard, or MHS, is designed to work with any device that has a programmable interface, including those used in scientific research and advanced manufacturing, Anthropic said. Anthropic is building out a silicon team to design custom chips for its models and recently hired Caitlin Kalinowski, a hardware executive who previously worked at OpenAI, Meta and Apple, according to LinkedIn. Anthropic said MHS aims to help companies reduce the amount of time it takes to set up and integrate their hardware."
+      ],
+      "url": "https://www.cnbc.com/2026/08/27/anthropic-pushes-into-physical-world-with-new-standard-to-help-ai-agents-operate-machines.html",
+      "source": "cnbc.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-08-27T18:00:13Z"
+    },
+    {
+      "id": "ca384408298b",
+      "title": "EXCLUSIVE: Anthropic planned, then abandoned $7 billion purchase of MatX, sources say - Reuters",
+      "summary": "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. ## Browse Business. *   Anthropic planned and abandoned an acquisition of chip startu...",
+      "highlights": [
+        "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. ## Browse Business. *   Anthropic planned and abandoned an acquisition of chip startup MatX for $7 billion, sources say. SAN FRANCISCO, Aug 27 (Reuters) - Anthropic discussed buying artificial intelligence chip startup MatX for roughly $7 billion, seeking to accelerate efforts to ​develop custom hardware for its fast-growing AI business, two people briefed on the matter told Reuters. MatX, founded by former Google tensor processing unit (TPU) engineers, is now seeking to raise new capital at a valuation of about $4 billion, one of ​the people said, requesting anonymity to discuss private matters. As Anthropic scales its Claude family of AI models, the company is looking to produce hardware that can fulfill its voracious appetite for ⁠data crunching and reduce its reliance on chips produced by Nvidia (NVDA.O), opens new tab. *   Reuters and AI, opens new tab."
+      ],
+      "url": "https://www.reuters.com/business/finance/anthropic-planned-then-abandoned-7-billion-purchase-matx-sources-say-2026-08-27/",
+      "source": "reuters.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-27T21:22:30Z"
+    },
+    {
+      "id": "41bcb0eef42f",
+      "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion - Ars Technica",
+      "summary": "# Report: Nvidia to acquire AI model repository Hugging Face for $13 billion. Hugging Face is like an ever-evolving warehouse of open AI models. Among other things, Hugging Face is a cloud repository ...",
+      "highlights": [
+        "# Report: Nvidia to acquire AI model repository Hugging Face for $13 billion. Hugging Face is like an ever-evolving warehouse of open AI models. Among other things, Hugging Face is a cloud repository for AI models, similar in some respects to what GitHub is for conventional computer software. Nvidia had invested in Hugging Face in the past, but it wasn’t the only one—Google and Microsoft had also invested. Nvidia and several other tech companies have publicly supported the role of open-weight models as alternatives to the proprietary closed-frontier models trained by companies like OpenAI and Anthropic. The acquisition is particularly important for Nvidia, as OpenAI, Anthropic, and other frontier labs have begun investing in their own specialized hardware on which to train and run those models, seeking vertical integration and freedom from Nvidia’s leverage. Hugging Face is best known for hosting large language models, but it has increasingly invested in the types of models used in robotics and other physical AI applications."
+      ],
+      "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "source": "arstechnica.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-27T19:55:22Z"
+    },
+    {
+      "id": "2eac10a1e7fa",
+      "title": "AI快报|英伟达财报创纪录当天,OpenAI自研芯片叫板,盖茨罕见发声.",
+      "summary": "热闹之外还有阴影:OpenAI发了37页报告,复盘AI代理如何自己... 美方还指控其＂蒸馏＂Anthropic技术、非法获取英伟达芯片,月之...",
+      "highlights": [
+        "热闹之外还有阴影:OpenAI发了37页报告,复盘AI代理如何自己... 美方还指控其＂蒸馏＂Anthropic技术、非法获取英伟达芯片,月之..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS03g8H18tE08vtElrf7WAIFv-y5vpk8s3lqXa8Fplpd9uFotfo0nPDeFA2VZZ5vdgYAgbPYnzzj5BPax3jdzCmpuRpFVfc0FXwwuYI4Wp7tuPxdl7fWchzNPunI-VFM0guMFshCOkIGu4krRf8n7KOMcFtDWmMZ833gwP3pBcRKJJxCubeNGE71Fwy9WaFTswdMoViUYXtH9SVPDQ_KMzkJflztgI7RZ1g..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=9FE64AF5A254CCADBABCE3A8C59BD412BAD3EC306A90E65E",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-27T09:46:38Z"
+    },
+    {
+      "id": "da7a69b4739f",
+      "title": "港股“AI大模型双雄”获资金追捧 智谱认领“牛来”大模型盘中涨超8% _ 东方财富网",
+      "summary": "# 港股“AI大模型双雄”获资金追捧 智谱认领“牛来”大模型盘中涨超8%\n\n财联社 昨天 10:27 评论\n\n财联社8月27日讯（编辑胡家荣）受大模型发布及部分个股亮眼财报驱动，港股大模型双雄集体上涨，其中智谱早盘一度涨超8%。\n\n截至发稿，智谱(02513.HK)涨5.34%，MINIMAX-W(00100.HK)涨3.23%。\n\n消息方面，8月26日，智谱宣布上线并开源GLM-5.3-Flas...",
+      "highlights": [
+        "# 港股“AI大模型双雄”获资金追捧 智谱认领“牛来”大模型盘中涨超8%",
+        "财联社 昨天 10:27 评论",
+        "财联社8月27日讯（编辑胡家荣）受大模型发布及部分个股亮眼财报驱动，港股大模型双雄集体上涨，其中智谱早盘一度涨超8%"
+      ],
+      "url": "https://wap.eastmoney.com/a/202608273856056688.html",
+      "source": "wap.eastmoney.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-08-27T21:00:00Z"
+    },
+    {
+      "id": "9050afdc9158",
+      "title": "分析师评OpenAI自研芯片影响：英伟达利润率或迎来新挑战 - 财联社",
+      "summary": "Yole Group技术分析师Adrien Sanchez表示，Jalapeno是一款专为推理设计的芯片，这表明“超大规模云服务商（hyperscaler）设计的芯片已经能够在推理能效方面媲美甚至超过英伟达Blackwell级GPU”。\n\nSanchez称，尽管英伟达目前仍掌握着“绝大多数”AI算力市场，并凭借CUDA软件平台形成了强大的生态锁定，但OpenAI的新芯片“对英伟达的推理业务利润率构...",
+      "highlights": [
+        "Yole Group技术分析师Adrien Sanchez表示，Jalapeno是一款专为推理设计的芯片，这表明“超大规模云服务商（hyperscaler）设计的芯片已经能够在推理能效方面媲美甚至超过英伟达Blackwell级GPU”",
+        "Sanchez称，尽管英伟达目前仍掌握着“绝大多数”AI算力市场，并凭借CUDA软件平台形成了强大的生态锁定，但OpenAI的新芯片“对英伟达的推理业务利润率构成了威胁，而推理恰恰是目前增长最快的领域”",
+        "Jalapeno由OpenAI与博通共同开发"
+      ],
+      "url": "https://www.cls.cn/detail/2465530",
+      "source": "cls.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-28T01:00:00Z"
+    },
+    {
+      "id": "9a0dd65ea423",
+      "title": "AI芯片创业，又开始疯狂了_投资界",
+      "summary": "第 一波AI芯片创业公司们已经发生明显分化。Cerebras最终走到IPO，并越来越多地把芯片变成Cloud Service出售；Groq的核心技术在2025年底被NVIDIA大额授权并吸收部分核心管理层；Tenstorrent今年被曝正在与Qualcomm讨论80亿—100亿美元的收购；很多早期公司则退出、转型或被并购。\n\n所以如果只是重新造另一颗通用AI训练芯片，今天创业空间其实已经相当小。但...",
+      "highlights": [
+        "第 一波AI芯片创业公司们已经发生明显分化",
+        "Cerebras最终走到IPO，并越来越多地把芯片变成Cloud Service出售；Groq的核心技术在2025年底被NVIDIA大额授权并吸收部分核心管理层；Tenstorrent今年被曝正在与Qualcomm讨论80亿—100亿美元的收购；很多早期公司则退出、转型或被并购",
+        "所以如果只是重新造另一颗通用AI训练芯片，今天创业空间其实已经相当小"
+      ],
+      "url": "https://news.pedaily.cn/202608/568256.shtml",
+      "source": "news.pedaily.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-28T05:42:00Z"
+    },
+    {
+      "id": "ac3754d7ee41",
+      "title": "【老王看产业】AI驱动下ASIC厂商的机遇与挑战|VLA|Token|智能驾驶|SoC|特斯拉_新浪新闻",
+      "summary": "作者：老王\n\n　　摘要与核心判断\n\n　　全球AI算力产业正在从“以通用GPU为中心的单一路径”，逐步转向GPU、云厂自研加速器、第三方定制ASIC和边缘AI SoC并存的异构计算体系。ASIC的核心价值不是追求对所有任务都适用，而是在模型、算子和部署规模相对稳定后，通过软硬件协同降低每瓦算力成本、每Token推理成本以及整套系统的总体拥有成本。这一趋势已经从数据中心延伸到汽车。智能汽车正在由分布式...",
+      "highlights": [
+        "全球AI算力产业正在从“以通用GPU为中心的单一路径”，逐步转向GPU、云厂自研加速器、第三方定制ASIC和边缘AI SoC并存的异构计算体系",
+        "ASIC的核心价值不是追求对所有任务都适用，而是在模型、算子和部署规模相对稳定后，通过软硬件协同降低每瓦算力成本、每Token推理成本以及整套系统的总体拥有成本",
+        "这一趋势已经从数据中心延伸到汽车"
+      ],
+      "url": "https://k.sina.com.cn/article_5953740931_162dee08306703wpiu.html?from=tech",
+      "source": "k.sina.com.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-28T20:11:32Z"
+    },
+    {
+      "id": "394ee222a830",
+      "title": "AI办公赛道再洗牌，豆包工作能否颠覆职场生态？|AI大模型|OpenAI|Agent|字节跳动|Copilot_手机新浪网",
+      "summary": "## 新浪科技 股票\n\n   \n\n全方位覆盖个人办公与企业团队协作场景。\n\n作者 | 陈莉\n\n编辑 | 马景行\n\n来源 | 野马财经\n\nAI大模型行业正迎来重要拐点，行业竞争重心已经从简单的文字内容生成，转向可以自主规划、落地执行完整任务的Agent 智能体。早在2024年，OpenAI前首席科学家IlyaSutskever就在NeurIPS2024大会上提出，受高质量互联网训练数据总量约束，单纯...",
+      "highlights": [
+        "全方位覆盖个人办公与企业团队协作场景",
+        "AI大模型行业正迎来重要拐点，行业竞争重心已经从简单的文字内容生成，转向可以自主规划、落地执行完整任务的Agent 智能体",
+        "早在2024年，OpenAI前首席科学家IlyaSutskever就在NeurIPS2024大会上提出，受高质量互联网训练数据总量约束，单纯依靠扩大数据集的预训练发展路径或将逐步放缓，Agent智能体有望成为下一阶段AI重要的演进方向"
+      ],
+      "url": "https://finance.sina.cn/stock/jdts/2026-08-28/detail-inipwnxp9009248.d.html?vt=4&cid=76993&node_id=76993",
+      "source": "finance.sina.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-08-28T19:01:23Z"
+    },
+    {
+      "id": "a2aa6d40ec8f",
+      "title": "投资界24h|爆DeepSeek开启IPO；湖北国资，迎来史上最大回报；神秘「牛来」模型果然是智谱_投资界",
+      "summary": "文章来源：投资界  \n原文地址：\n\n【本文为投资界原创，网页转载须在文首注明来源投资界（微信公众号ID：PEdaily2012）及作者。微信转载请在原文评论区联系授权，违者必究。免责声明：本文不构成任何投资建议。市场有风险，投资需谨慎。】\n\n贝索斯融资AI折叠手机DeepSeek长存控股\n\n### 相关资讯\n\n 硅谷AI大逃杀：Anthropic如何吸干OpenAI的「超级大脑」？\n\n  ### ...",
+      "highlights": [
+        "【本文为投资界原创，网页转载须在文首注明来源投资界（微信公众号ID：PEdaily2012）及作者",
+        "微信转载请在原文评论区联系授权，违者必究",
+        "免责声明：本文不构成任何投资建议"
+      ],
+      "url": "https://news.pedaily.cn/202608/568165.shtml",
+      "source": "news.pedaily.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-08-27T00:44:00Z"
+    },
+    {
+      "id": "3eeee9df01c3",
+      "title": "Anthropic瞄准2万亿美元估值 或刷新全球史上最大IPO纪录 | Yellow",
+      "summary": "Aug 05, 2026\n\nPolymarket拟以200亿美元估值融资10亿美元， 与世界杯期间200亿美元预测盘成交相呼应， 预示链上信息市场步入主流，同时监管与竞争风险加速抬头。\n\n相关学习文章\n\n去中心化人工智能：谁来掌控为 Web3 提供算力的模型\n\nAug 24, 2026\n\n去中心化 AI 用区块链确权模型收益，将训练与推理拆分成两层市场， 以加密证明和治理代币重塑 AI 行业权力格...",
+      "highlights": [
+        "Aug 05, 2026",
+        "Polymarket拟以200亿美元估值融资10亿美元， 与世界杯期间200亿美元预测盘成交相呼应， 预示链上信息市场步入主流，同时监管与竞争风险加速抬头",
+        "去中心化人工智能：谁来掌控为 Web3 提供算力的模型"
+      ],
+      "url": "https://yellow.com/zh/news/anthropic%E5%89%91%E6%8C%872%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BC%B0%E5%80%BC-%E6%88%96%E5%88%9B%E4%B8%8B%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7ipo%E7%BA%AA%E5%BD%95",
+      "source": "yellow.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-08-28T11:12:16Z"
+    },
+    {
+      "id": "7be63a51359c",
+      "title": "据称英伟达斥资129亿美元收购 Hugging Face",
+      "summary": "Cardano 去中心化交易量暴跌 98%，ADA 靠拢 0.20 美元关口\n\n3小时前\n\nCardano DEX 交易量自 8 月 22 日高点暴跌 98%，回落至约 100 万美元，ADA 暂稳 0.21 美元上方，0.20 美元成关键支撑考验。\n\n相关新闻\n\n英伟达以200亿美元剔除竞争对手，强化去中心化 AI 叙事\n\nDec 25, 2025\n\n英伟达以授权交易方式获得 Groq 资产和团...",
+      "highlights": [
+        "Cardano 去中心化交易量暴跌 98%，ADA 靠拢 0.20 美元关口",
+        "Cardano DEX 交易量自 8 月 22 日高点暴跌 98%，回落至约 100 万美元，ADA 暂稳 0.21 美元上方，0.20 美元成关键支撑考验",
+        "英伟达以200亿美元剔除竞争对手，强化去中心化 AI 叙事"
+      ],
+      "url": "https://yellow.com/zh/news/%E6%8D%AE%E7%A7%B0%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%96%A5%E8%B5%84129%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD-hugging-face",
+      "source": "yellow.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-08-28T10:07:25Z"
+    },
+    {
+      "id": "6668a21f75f8",
+      "title": "Anthropic's $7 Billion Chip Plan Takes a New Turn — TradingView News",
+      "summary": "MatX was formed by ex-Google tensor processing unit engineers and is building chips to train massive AI models. The business is currently raising further money at a valuation of around $4 billion. Ant...",
+      "highlights": [
+        "MatX was formed by ex-Google tensor processing unit engineers and is building chips to train massive AI models. The business is currently raising further money at a valuation of around $4 billion. Anthropic's appeal is simple.",
+        "The corporation might get more control over cost and performance by building custom silicon, as demand for Claude increases. Anthropic has already recruited veterans from Google and OpenAI and grown its internal silicon team. [...] Meanwhile, the corporation is spending much on outside computers. Anthropic aims to spend $36 billion on Google AI chips and has signed a $45 billion cloud-computing deal with Nscale, highlighting the huge cost of securing enough infrastructure to train and run frontier models.",
+        "Another route for Anthropic to develop out more of that tech on its own might be a MatX relationship. The acquisition may have hit a snag, but Anthropic's push into bespoke chips certainly hasn't."
+      ],
+      "url": "https://www.tradingview.com/news/gurufocus:088540fd7094b:0-anthropic-s-7-billion-chip-plan-takes-a-new-turn",
+      "source": "tradingview.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-08-28T14:04:09Z"
+    },
+    {
+      "id": "45631311ac8b",
+      "title": "Anthropic planned, then abandoned $7 billion purchase of ...",
+      "summary": "​This week, Anthropic ⁠hired Google chip veteran Amir Salek as part of the company’s push into hardware. In June, the AI lab hired former OpenAI chip engineer Clive ​Chan who worked on the OpenAI chip...",
+      "highlights": [
+        "​This week, Anthropic ⁠hired Google chip veteran Amir Salek as part of the company’s push into hardware. In June, the AI lab hired former OpenAI chip engineer Clive ​Chan who worked on the OpenAI chip unveiled earlier this year.",
+        "The ​leading AI ⁠labs such as Anthropic and OpenAI have become increasingly focused on custom chips, which can be tailored to their models and workloads. Through this, they hope to create significant performance and economic advantages. [...] ‌In recent ⁠weeks, Anthropic held meetings with a range of AI chip startups as the company seeks to hone its efforts to produce a specialized AI chip. It has not yet elected to make an acquisition. The meetings are an attempt by Anthropic’s engineers and executives to understand the current ​range of chip design approaches. [...] At ⁠a ​conference this week OpenAI boasted that its first custom chip ​called Jalapeno outperformed a similar processor made by Nvidia. OpenAI executives noted that the chip was more energy efficient in ​performing inference calculations.",
+        "Reporting by Max A. Cherney and Krystal Hu in San Francisco; Editing by David Gregorio"
+      ],
+      "url": "https://www.reuters.com/business/finance/anthropic-planned-then-abandoned-7-billion-purchase-matx-sources-say-2026-08-27",
+      "source": "reuters.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-27T21:22:30Z"
+    },
+    {
+      "id": "8dcc74d32a62",
+      "title": "Nvidia Reportedly Buys Hugging Face for $12.9B [2026]",
+      "summary": "Every major AI lab that can afford to is now building its own silicon. Google has its TPU line. Amazon has Trainium. OpenAI has been working with Broadcom on custom accelerators. Anthropic has leaned ...",
+      "highlights": [
+        "Every major AI lab that can afford to is now building its own silicon. Google has its TPU line. Amazon has Trainium. OpenAI has been working with Broadcom on custom accelerators. Anthropic has leaned on Google’s TPUs and Amazon’s Trainium chips for large training runs. None of that spells doom for Nvidia’s GPU business overnight, but it does chip away at the assumption that every serious AI workload runs on Nvidia hardware by default. [...] Defending chip share. OpenAI, Google, Amazon and Anthropic are each developing custom silicon to cut their dependence on Nvidia GPUs. A thriving open-source ecosystem, tuned and optimized around Nvidia’s CUDA stack, keeps smaller developers and enterprises locked into Nvidia hardware even as the biggest labs diversify. [...] Put together, this reads less like a typical tech acquisition and more like Nvidia buying insurance against two different threats at once: custom-chip competitors chipping away at GPU demand, and cloud hyperscalers controlling too much of the distribution layer for AI models.",
+        "## The Chip Independence Problem: OpenAI, Anthropic, Google and Amazon"
+      ],
+      "url": "https://tech-insider.org/nvidia-hugging-face-acquisition-12-9-billion-2026",
+      "source": "tech-insider.org",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-28T01:23:49Z"
+    },
+    {
+      "id": "d814ba2616d9",
+      "title": "Andrew Feldman: The 100 Most Influential People in AI 2026",
+      "summary": "“People told us we were crazy, it would never work, it couldn’t be done,” Feldman says of the task of designing a chip to rival Nvidia’s. “And then once it was done, they said you could never go to pr...",
+      "highlights": [
+        "“People told us we were crazy, it would never work, it couldn’t be done,” Feldman says of the task of designing a chip to rival Nvidia’s. “And then once it was done, they said you could never go to production. It’s too hard to make. And then we went to production, and they said you could never run big models. And then we signed OpenAI to a more than $20 billion deal. And then they were quiet.”",
+        "Advertisement",
+        "## Sections"
+      ],
+      "url": "https://time.com/collection/time100-ai/2026/andrew-feldman",
+      "source": "time.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-27T12:02:25Z"
+    },
+    {
+      "id": "9958fd465299",
+      "title": "AI快报|英伟达财报创纪录当天,OpenAI自研芯片叫板,盖茨罕见发声.",
+      "summary": "热闹之外还有阴影:OpenAI发了37页报告,复盘AI代理如何自己... 美方还指控其＂蒸馏＂Anthropic技术、非法获取英伟达芯片,月之...",
+      "highlights": [
+        "热闹之外还有阴影:OpenAI发了37页报告,复盘AI代理如何自己... 美方还指控其＂蒸馏＂Anthropic技术、非法获取英伟达芯片,月之..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7WL2b9YgFqvFtgy3j9qtDF_BFQSdGzaZ1qXa8Fplpd9m-uvEwb9i1BSeOhWIE8HWQECcGBwbKyRzmNJl0_2ns-_2eq7Tx7Q3U10Tp8qctJuOF60Ywc1UOo70Xfn9BAQFYJCsyrbueAauJyYMvGyAXHJoqTFNkZK_L4lPzJTJ72IpASDX8mr_j5NXK0ZCNfh6AU1eOKdXz5b9hNlNFugkilflztgI7RZ1g..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=A6457FF5752365818583DFA40086FEFD8681A1676A920408",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-27T09:46:38Z"
+    },
+    {
+      "id": "788da95ddb36",
+      "title": "华兴资本投行业务 2026 年上半年经营利润转正：深耕科技创新，持续深化产业连接与交易能力 | 极客公园",
+      "summary": "具体来看，华兴在丹诺医药港股 IPO 中担任联席账簿管理人、联席牵头经办人和资本市场中介人，在嘉楠科技美股 ATM 发售中担任销售代理，并在德祥地产港股增发中担任联席账簿管理人。三个项目分别覆盖 IPO、ATM 及 follow-on 等不同产品场景，进一步体现华兴跨境资本市场的多产品服务能力。\n\n　　伴随更多中国科技企业寻求全球资本市场定价，华兴在私募融资、并购与港美股之间形成的业务协同，有望进...",
+      "highlights": [
+        "具体来看，华兴在丹诺医药港股 IPO 中担任联席账簿管理人、联席牵头经办人和资本市场中介人，在嘉楠科技美股 ATM 发售中担任销售代理，并在德祥地产港股增发中担任联席账簿管理人",
+        "三个项目分别覆盖 IPO、ATM 及 follow-on 等不同产品场景，进一步体现华兴跨境资本市场的多产品服务能力",
+        "伴随更多中国科技企业寻求全球资本市场定价，华兴在私募融资、并购与港美股之间形成的业务协同，有望进一步放大长期服务客户的能力"
+      ],
+      "url": "https://www.geekpark.net/news/369475",
+      "source": "geekpark.net",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-08-28T00:00:00Z"
+    },
+    {
+      "id": "c8d42c7d51eb",
+      "title": "Anthropic 2万亿美元代币交易来了",
+      "summary": "logo\n\n# Anthropic的IPO还没定价，代币已经炒到2万亿\n\nAnthropic尚未为首次公开募股设定价格，甚至没有披露基本发行条款，但一个基于加密货币的永续合约已经把这家私人AI公司短暂推上2万亿美元估值。上周，Hyperliquid平台开始交易与Anthropic挂钩的永续合约，价格一度突破2万亿美元，周五上午回落至约1.968万亿美元。这笔交易量只有约2000万美元，流动性极薄，...",
+      "highlights": [
+        "# Anthropic的IPO还没定价，代币已经炒到2万亿",
+        "Anthropic尚未为首次公开募股设定价格，甚至没有披露基本发行条款，但一个基于加密货币的永续合约已经把这家私人AI公司短暂推上2万亿美元估值",
+        "上周，Hyperliquid平台开始交易与Anthropic挂钩的永续合约，价格一度突破2万亿美元，周五上午回落至约1.968万亿美元"
+      ],
+      "url": "https://nai500.com/zh-hans/blog/2026/08/anthropic-2",
+      "source": "nai500.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-08-28T11:22:26Z"
+    },
+    {
+      "id": "2690b537cc7e",
+      "title": "具身产业迎来数据革命 标品数据助推具身智能规模化落地_搜狐网",
+      "summary": "## 具身产业迎来数据革命 标品数据助推具身智能规模化落地\n\n北京日报\n\n随着人形机器人逐渐从实验室演示走向真实产业场景，如何让机器人成长、学习，促进具身智能真正大规模落地，成为产业内的关注焦点。光轮智能（北京）科技股份有限公司联合创始人兼总裁杨海波日前接受北京日报客户端专访时表示，当下具身智能大规模落地的卡点在于数据供给不足，光轮智能希望通过推广标准化数据构建大规模供给，满足具身智能对数据的庞大...",
+      "highlights": [
+        "## 具身产业迎来数据革命 标品数据助推具身智能规模化落地",
+        "随着人形机器人逐渐从实验室演示走向真实产业场景，如何让机器人成长、学习，促进具身智能真正大规模落地，成为产业内的关注焦点",
+        "光轮智能（北京）科技股份有限公司联合创始人兼总裁杨海波日前接受北京日报客户端专访时表示，当下具身智能大规模落地的卡点在于数据供给不足，光轮智能希望通过推广标准化数据构建大规模供给，满足具身智能对数据的庞大需求"
+      ],
+      "url": "https://m.sohu.com/a/1068431965_163278?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-08-27T18:35:00Z"
+    },
+    {
+      "id": "7cb6024621a6",
+      "title": "蔚来智驾负责人任少卿下场创业具身智能，获蔚来入股 - 机器人大讲堂",
+      "summary": "## 蔚来智驾负责人任少卿下场创业具身智能，获蔚来入股\n\n2026-08-2610000具身智能\n\nImage\n\n8月24日，蔚来CEO李斌在智驾全员会上宣布了一个重磅消息：智能驾驶负责人任少卿已创立物理AI基础模型和具身智能独立公司，蔚来将战略投资并与之开展合作。\n\n消息称，任少卿的新公司已经完成注册，估值达到独角兽级别，即超10亿美元量级。与此同时，任少卿将继续担任蔚来智能驾驶业务负责人。\n\n...",
+      "highlights": [
+        "## 蔚来智驾负责人任少卿下场创业具身智能，获蔚来入股",
+        "2026-08-2610000具身智能",
+        "8月24日，蔚来CEO李斌在智驾全员会上宣布了一个重磅消息：智能驾驶负责人任少卿已创立物理AI基础模型和具身智能独立公司，蔚来将战略投资并与之开展合作"
+      ],
+      "url": "https://www.leaderobot.com/news/9332",
+      "source": "leaderobot.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-08-28T00:00:00Z"
+    },
+    {
+      "id": "d796514cbc00",
+      "title": "AI快报|英伟达财报创纪录当天,OpenAI自研芯片叫板,盖茨罕见发声.",
+      "summary": "热闹之外还有阴影:OpenAI发了37页报告,复盘AI代理如何自己... 美方还指控其＂蒸馏＂Anthropic技术、非法获取英伟达芯片,月之...",
+      "highlights": [
+        "热闹之外还有阴影:OpenAI发了37页报告,复盘AI代理如何自己... 美方还指控其＂蒸馏＂Anthropic技术、非法获取英伟达芯片,月之..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7WL2b9YgFqvbiPfE1pSmeZ_BFQSdGzaZ1qXa8Fplpd9m-uvEwb9i1BSeOhWIE8HWQECcGBwbKyRzmNJl0_2ns-_2eq7Tx7Q3WY0PhazQXxsqhlZ_hGWAZ5gL4v8OisjucYpZbyKZAlrVsu9PpaFxrp16ATZv1sJehLF0mAJnxztNFDtGq9cMkda7S71hQTeSeOQB7oRtT2NtswotK7-g-RCy6umSSPEsg..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=A6FE9B03674C0E74D8D18DF39CE0E7A7D88E38C36A922146",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-27T09:46:38Z"
+    },
+    {
+      "id": "0725e721ea8d",
+      "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips - CNBC",
+      "summary": "# Z.ai shares surge 8% after releasing new AI model running only on Chinese chips. * Z.ai's shares rose after the company launched a new AI model that it claimed runs only on Chinese chips. BEIJING — ...",
+      "highlights": [
+        "# Z.ai shares surge 8% after releasing new AI model running only on Chinese chips. * Z.ai's shares rose after the company launched a new AI model that it claimed runs only on Chinese chips. BEIJING — Chinese artificial intelligence company Z.ai released a new model Wednesday that the company claims uses entirely homegrown semiconductors to operate. Called GLM-5.3-Flash, the low-cost version of Z.ai's flagship model ranks 10th on the Artificial Analysis Intelligence Index, ahead of DeepSeek V4 Pro Max. Z.ai's Hong Kong-listed shares climbed more than 8% in Thursday trading. China has ramped up domestic semiconductor and AI capabilities in an effort to gain tech self-sufficiency in the wake of U.S. restrictions on sales of advanced chips to China. Z.ai rival MiniMax's shares climbed by around 3% in Hong Kong trading after reporting a 283% surge in revenue in the first half of the year versus a year ago."
+      ],
+      "url": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
+      "source": "cnbc.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-08-27T03:20:14Z"
+    },
+    {
+      "id": "50c047bf9d1d",
+      "title": "Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown - CNBC",
+      "summary": "# Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown. * Nvidia has said it is optimizing its hardware for Chinese open AI models, including those made by Deep...",
+      "highlights": [
+        "# Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown. * Nvidia has said it is optimizing its hardware for Chinese open AI models, including those made by DeepSeek and Alibaba. * U.S. lawmakers have grown increasingly anxious about growing adoption of Chinese models, which have made leaps in capability this year. * The chip giant warned of business risks from potential Trump administration restrictions on AI developed by China in an SEC filing related to its second-quarter earnings. The chip giant on Wednesday highlighted a \"local AI initiative with optimizations for top open models,\" including DeepSeek's V4 Flash and Alibaba's Qwen 3.8, alongside systems developed by Google and Nvidia itself. But an SEC filing linked to the company's second-quarter earnings also warned of business risks from potential White House restrictions on AI developed in China. Chinese AI models have made leaps in capability in 2026 and their increasing adoption by developers across the globe — including in the U.S."
+      ],
+      "url": "https://www.cnbc.com/2026/08/27/nvidia-chinese-ai-models.html",
+      "source": "cnbc.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-08-27T14:31:25Z"
+    },
+    {
+      "id": "9482975a6048",
+      "title": "The cow comes home: China’s Internet celebrates Z.ai claiming ownership of Ox Alpha - Business Insider",
+      "summary": "# The cow comes home: China’s Internet celebrates Z.ai claiming ownership of Ox Alpha. One of China's leading AI labs has claimed the cow — aka the mysterious Ox Alpha model — and Chinese fans couldn'...",
+      "highlights": [
+        "# The cow comes home: China’s Internet celebrates Z.ai claiming ownership of Ox Alpha. One of China's leading AI labs has claimed the cow — aka the mysterious Ox Alpha model — and Chinese fans couldn't be happier. In a Wednesday blog post, Z.ai said Ox Alpha had been a free-to-use preview of its new GLM-5.3-Flash model. \"Before release, we tested GLM-5.3-Flash anonymously as ox-alpha on OpenCode and OpenRouter to gather user feedback,\" the company wrote in its blog post. As of noon on Thursday, a hashtag about Z.ai claiming ownership of Ox Alpha had thousands of posts under it, and was ranked among the top 20 hot topics on the platform. Chinese internet users have been laser-focused on Ox Alpha since the model debuted last week — and all the mystery has come with a touch of humor, too. Another recent example is Chinese AI lab Moonshot AI, which launched Kimi K3 in July, an open-weight model that rivals the capabilities of models from OpenAI and Anthropic at a lower cost."
+      ],
+      "url": "https://www.businessinsider.com/ox-alpha-zai-chinese-internet-celebrate-weibo-glm53-flash-2026-8",
+      "source": "businessinsider.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-08-27T04:36:34Z"
+    },
+    {
+      "id": "04e7446f2460",
+      "title": "How DeepSeek founder's quant empire is taking on China's choppy IPO boom - CNBC",
+      "summary": "* DeepSeek founder Liang Wenfeng is best known for the AI model that gave China its \"ChatGPT moment.\" Less visible is the quant empire that bankrolled the AI lab. * As DeepSeek's funding needs grow, t...",
+      "highlights": [
+        "* DeepSeek founder Liang Wenfeng is best known for the AI model that gave China its \"ChatGPT moment.\" Less visible is the quant empire that bankrolled the AI lab. * As DeepSeek's funding needs grow, the AI lab is seeking fresh outside capital and won't be able to rely on High-Flyer Quant, the hedge fund Liang co-founded. DeepSeek, the lab that put Chinese artificial intelligence on the map last January, has long been financed by High-Flyer Quant, its founder Liang Wenfeng's hedge fund. Now, DeepSeek has turned to outside investors to fund its growing ambitions, while High-Flyer has secured allocations across some of China's hottest hard-tech IPOs, from chips to robotics. The quant fund's affiliates, Zhejiang High-Flyer Asset Management and Ningbo High-Flyer Quantitative Investment Management, have secured private placements in China's leading memory chipmaker CXMT and robot maker Unitree Robotics, as well as companies spanning chip packaging, electronic components and renewable energy, according to CNBC's analysis of IPO data."
+      ],
+      "url": "https://www.cnbc.com/2026/08/28/deepseek-founder-liang-wenfeng-high-flyer-china-tech-ipos-funding.html",
+      "source": "cnbc.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-08-28T01:02:48Z"
+    },
+    {
+      "id": "36e3108eb160",
+      "title": "阿里发布千问最新模型 可显著降低AI训练和推理成本",
+      "summary": "Zaobao\n\n订阅\n\n# 阿里发布千问新模型 可显著降低AI训练和推理成本\n\n中国科技巨企阿里巴巴集团旗下人工智能（AI）应用通义千问星期三（8月26日）发布最新大模型Qwen3.8-Flash，并同时发布了Qwen3.8-Flash-Next的开源权重。 （ 千问大模型微信公众号）\n\n中国科技巨企阿里巴巴集团旗下人工智能（AI）应用通义千问星期三（8月26日）发布最新大模型Qwen3.8-Fl...",
+      "highlights": [
+        "# 阿里发布千问新模型 可显著降低AI训练和推理成本",
+        "中国科技巨企阿里巴巴集团旗下人工智能（AI）应用通义千问星期三（8月26日）发布最新大模型Qwen3.8-Flash，并同时发布了Qwen3.8-Flash-Next的开源权重",
+        "（ 千问大模型微信公众号）"
+      ],
+      "url": "https://www.zaobao.com.sg/news/china/story20260827-9581670",
+      "source": "zaobao.com.sg",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-08-27T21:00:00Z"
+    }
+  ],
+  "today": [],
+  "week": [
     {
       "id": "0150d58a8ab0",
       "title": "Google Employees Are Already Testing the Next Gemini Flash AI Model - Business Insider",
@@ -205,519 +631,9 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-08-28T19:01:23Z"
-    },
-    {
-      "id": "a2aa6d40ec8f",
-      "title": "投资界24h|爆DeepSeek开启IPO；湖北国资，迎来史上最大回报；神秘「牛来」模型果然是智谱_投资界",
-      "summary": "文章来源：投资界  \n原文地址：\n\n【本文为投资界原创，网页转载须在文首注明来源投资界（微信公众号ID：PEdaily2012）及作者。微信转载请在原文评论区联系授权，违者必究。免责声明：本文不构成任何投资建议。市场有风险，投资需谨慎。】\n\n贝索斯融资AI折叠手机DeepSeek长存控股\n\n### 相关资讯\n\n 硅谷AI大逃杀：Anthropic如何吸干OpenAI的「超级大脑」？\n\n  ### ...",
-      "highlights": [
-        "【本文为投资界原创，网页转载须在文首注明来源投资界（微信公众号ID：PEdaily2012）及作者",
-        "微信转载请在原文评论区联系授权，违者必究",
-        "免责声明：本文不构成任何投资建议"
-      ],
-      "url": "https://news.pedaily.cn/202608/568165.shtml",
-      "source": "news.pedaily.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-08-27T00:44:00Z"
-    },
-    {
-      "id": "3eeee9df01c3",
-      "title": "Anthropic瞄准2万亿美元估值 或刷新全球史上最大IPO纪录 | Yellow",
-      "summary": "Aug 05, 2026\n\nPolymarket拟以200亿美元估值融资10亿美元， 与世界杯期间200亿美元预测盘成交相呼应， 预示链上信息市场步入主流，同时监管与竞争风险加速抬头。\n\n相关学习文章\n\n去中心化人工智能：谁来掌控为 Web3 提供算力的模型\n\nAug 24, 2026\n\n去中心化 AI 用区块链确权模型收益，将训练与推理拆分成两层市场， 以加密证明和治理代币重塑 AI 行业权力格...",
-      "highlights": [
-        "Aug 05, 2026",
-        "Polymarket拟以200亿美元估值融资10亿美元， 与世界杯期间200亿美元预测盘成交相呼应， 预示链上信息市场步入主流，同时监管与竞争风险加速抬头",
-        "去中心化人工智能：谁来掌控为 Web3 提供算力的模型"
-      ],
-      "url": "https://yellow.com/zh/news/anthropic%E5%89%91%E6%8C%872%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BC%B0%E5%80%BC-%E6%88%96%E5%88%9B%E4%B8%8B%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7ipo%E7%BA%AA%E5%BD%95",
-      "source": "yellow.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-08-28T11:12:16Z"
-    },
-    {
-      "id": "7be63a51359c",
-      "title": "据称英伟达斥资129亿美元收购 Hugging Face",
-      "summary": "Cardano 去中心化交易量暴跌 98%，ADA 靠拢 0.20 美元关口\n\n3小时前\n\nCardano DEX 交易量自 8 月 22 日高点暴跌 98%，回落至约 100 万美元，ADA 暂稳 0.21 美元上方，0.20 美元成关键支撑考验。\n\n相关新闻\n\n英伟达以200亿美元剔除竞争对手，强化去中心化 AI 叙事\n\nDec 25, 2025\n\n英伟达以授权交易方式获得 Groq 资产和团...",
-      "highlights": [
-        "Cardano 去中心化交易量暴跌 98%，ADA 靠拢 0.20 美元关口",
-        "Cardano DEX 交易量自 8 月 22 日高点暴跌 98%，回落至约 100 万美元，ADA 暂稳 0.21 美元上方，0.20 美元成关键支撑考验",
-        "英伟达以200亿美元剔除竞争对手，强化去中心化 AI 叙事"
-      ],
-      "url": "https://yellow.com/zh/news/%E6%8D%AE%E7%A7%B0%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%96%A5%E8%B5%84129%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD-hugging-face",
-      "source": "yellow.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-08-28T10:07:25Z"
-    },
-    {
-      "id": "6668a21f75f8",
-      "title": "Anthropic's $7 Billion Chip Plan Takes a New Turn — TradingView News",
-      "summary": "MatX was formed by ex-Google tensor processing unit engineers and is building chips to train massive AI models. The business is currently raising further money at a valuation of around $4 billion. Ant...",
-      "highlights": [
-        "MatX was formed by ex-Google tensor processing unit engineers and is building chips to train massive AI models. The business is currently raising further money at a valuation of around $4 billion. Anthropic's appeal is simple.",
-        "The corporation might get more control over cost and performance by building custom silicon, as demand for Claude increases. Anthropic has already recruited veterans from Google and OpenAI and grown its internal silicon team. [...] Meanwhile, the corporation is spending much on outside computers. Anthropic aims to spend $36 billion on Google AI chips and has signed a $45 billion cloud-computing deal with Nscale, highlighting the huge cost of securing enough infrastructure to train and run frontier models.",
-        "Another route for Anthropic to develop out more of that tech on its own might be a MatX relationship. The acquisition may have hit a snag, but Anthropic's push into bespoke chips certainly hasn't."
-      ],
-      "url": "https://www.tradingview.com/news/gurufocus:088540fd7094b:0-anthropic-s-7-billion-chip-plan-takes-a-new-turn",
-      "source": "tradingview.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-08-28T14:04:09Z"
-    },
-    {
-      "id": "45631311ac8b",
-      "title": "Anthropic planned, then abandoned $7 billion purchase of ...",
-      "summary": "​This week, Anthropic ⁠hired Google chip veteran Amir Salek as part of the company’s push into hardware. In June, the AI lab hired former OpenAI chip engineer Clive ​Chan who worked on the OpenAI chip...",
-      "highlights": [
-        "​This week, Anthropic ⁠hired Google chip veteran Amir Salek as part of the company’s push into hardware. In June, the AI lab hired former OpenAI chip engineer Clive ​Chan who worked on the OpenAI chip unveiled earlier this year.",
-        "The ​leading AI ⁠labs such as Anthropic and OpenAI have become increasingly focused on custom chips, which can be tailored to their models and workloads. Through this, they hope to create significant performance and economic advantages. [...] ‌In recent ⁠weeks, Anthropic held meetings with a range of AI chip startups as the company seeks to hone its efforts to produce a specialized AI chip. It has not yet elected to make an acquisition. The meetings are an attempt by Anthropic’s engineers and executives to understand the current ​range of chip design approaches. [...] At ⁠a ​conference this week OpenAI boasted that its first custom chip ​called Jalapeno outperformed a similar processor made by Nvidia. OpenAI executives noted that the chip was more energy efficient in ​performing inference calculations.",
-        "Reporting by Max A. Cherney and Krystal Hu in San Francisco; Editing by David Gregorio"
-      ],
-      "url": "https://www.reuters.com/business/finance/anthropic-planned-then-abandoned-7-billion-purchase-matx-sources-say-2026-08-27",
-      "source": "reuters.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-27T21:22:30Z"
-    },
-    {
-      "id": "8dcc74d32a62",
-      "title": "Nvidia Reportedly Buys Hugging Face for $12.9B [2026]",
-      "summary": "Every major AI lab that can afford to is now building its own silicon. Google has its TPU line. Amazon has Trainium. OpenAI has been working with Broadcom on custom accelerators. Anthropic has leaned ...",
-      "highlights": [
-        "Every major AI lab that can afford to is now building its own silicon. Google has its TPU line. Amazon has Trainium. OpenAI has been working with Broadcom on custom accelerators. Anthropic has leaned on Google’s TPUs and Amazon’s Trainium chips for large training runs. None of that spells doom for Nvidia’s GPU business overnight, but it does chip away at the assumption that every serious AI workload runs on Nvidia hardware by default. [...] Defending chip share. OpenAI, Google, Amazon and Anthropic are each developing custom silicon to cut their dependence on Nvidia GPUs. A thriving open-source ecosystem, tuned and optimized around Nvidia’s CUDA stack, keeps smaller developers and enterprises locked into Nvidia hardware even as the biggest labs diversify. [...] Put together, this reads less like a typical tech acquisition and more like Nvidia buying insurance against two different threats at once: custom-chip competitors chipping away at GPU demand, and cloud hyperscalers controlling too much of the distribution layer for AI models.",
-        "## The Chip Independence Problem: OpenAI, Anthropic, Google and Amazon"
-      ],
-      "url": "https://tech-insider.org/nvidia-hugging-face-acquisition-12-9-billion-2026",
-      "source": "tech-insider.org",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-28T01:23:49Z"
-    },
-    {
-      "id": "d814ba2616d9",
-      "title": "Andrew Feldman: The 100 Most Influential People in AI 2026",
-      "summary": "“People told us we were crazy, it would never work, it couldn’t be done,” Feldman says of the task of designing a chip to rival Nvidia’s. “And then once it was done, they said you could never go to pr...",
-      "highlights": [
-        "“People told us we were crazy, it would never work, it couldn’t be done,” Feldman says of the task of designing a chip to rival Nvidia’s. “And then once it was done, they said you could never go to production. It’s too hard to make. And then we went to production, and they said you could never run big models. And then we signed OpenAI to a more than $20 billion deal. And then they were quiet.”",
-        "Advertisement",
-        "## Sections"
-      ],
-      "url": "https://time.com/collection/time100-ai/2026/andrew-feldman",
-      "source": "time.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-27T12:02:25Z"
-    },
-    {
-      "id": "9958fd465299",
-      "title": "AI快报|英伟达财报创纪录当天,OpenAI自研芯片叫板,盖茨罕见发声.",
-      "summary": "热闹之外还有阴影:OpenAI发了37页报告,复盘AI代理如何自己... 美方还指控其＂蒸馏＂Anthropic技术、非法获取英伟达芯片,月之...",
-      "highlights": [
-        "热闹之外还有阴影:OpenAI发了37页报告,复盘AI代理如何自己... 美方还指控其＂蒸馏＂Anthropic技术、非法获取英伟达芯片,月之..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7WL2b9YgFqvFtgy3j9qtDF_BFQSdGzaZ1qXa8Fplpd9m-uvEwb9i1BSeOhWIE8HWQECcGBwbKyRzmNJl0_2ns-_2eq7Tx7Q3U10Tp8qctJuOF60Ywc1UOo70Xfn9BAQFYJCsyrbueAauJyYMvGyAXHJoqTFNkZK_L4lPzJTJ72IpASDX8mr_j5NXK0ZCNfh6AU1eOKdXz5b9hNlNFugkilflztgI7RZ1g..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=A6457FF5752365818583DFA40086FEFD8681A1676A920408",
-      "source": "微信公众号",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-27T09:46:38Z"
-    },
-    {
-      "id": "54d3b8cb83b0",
-      "title": "AI每日新闻——OpenAI自研芯片暴打英伟达!阿里开源秒杀Claude,今天AI圈彻底炸了",
-      "summary": "不过OpenAI刚说自己的芯片比英伟达猛,英伟达马上秀肌肉,这波芯片大战越演越烈了.最终受益的还是我们这些用AI的人. 苹果M6...",
-      "highlights": [
-        "不过OpenAI刚说自己的芯片比英伟达猛,英伟达马上秀肌肉,这波芯片大战越演越烈了.最终受益的还是我们这些用AI的人. 苹果M6..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7WL2b9YgFqvFtgy3j9qtDF_BFQSdGzaZ1qXa8Fplpd95U6dJjQhp68NbCtrql4-dQ6d8BLF-0lAiYwuL0gg-LQeSaRmjsYMNCMptYyt4W0UT6H5tyXJxXds13YpinoiZk_v7YFpxlYEt7DSN7uGOF4_sAVM7H3BFRAUOjn__qDRpjLYu-Yb6adLZ_ale1hOOZ4iVgXJwFqomR1Z08vfCphFkDr8IT4KYw..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=A6457FF5752365818583DFA40086FEFD8681A1676A920408",
-      "source": "微信公众号",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-26T23:20:23Z"
-    },
-    {
-      "id": "66b6175f13b5",
-      "title": "OpenAI发布自研AI推理芯片“Jalapeno”:称效能优于英伟达GB300",
-      "summary": "OpenAI“Jalapeno”测试表现与功耗优于英伟达GB300根据彭博社报道,Jalapeno芯片在单位功耗的AI工作量与回复速度上均优于英...",
-      "highlights": [
-        "OpenAI“Jalapeno”测试表现与功耗优于英伟达GB300根据彭博社报道,Jalapeno芯片在单位功耗的AI工作量与回复速度上均优于英..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7WL2b9YgFqvFtgy3j9qtDF_BFQSdGzaZ1qXa8Fplpd9Qt3wpiTBrekcoE7qYVaOLCeY_ko4xPypmQ8zYzjdU-ekmoJlu-lIJA85OpHWKjVhAsK3IBv5KFaXPRVAUTzyhu4pPvmY-hk1eao7zuFS9zMPKPU8RSx2vOfKz-6hx0EImkUzM-o1n4na2MlvCuEzUwKgTbS8bfY14axTCfSuROvdrgozfSg6bw..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=A6457FF5752365818583DFA40086FEFD8681A1676A920408",
-      "source": "微信公众号",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-26T22:35:55Z"
-    },
-    {
-      "id": "0725e721ea8d",
-      "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips - CNBC",
-      "summary": "# Z.ai shares surge 8% after releasing new AI model running only on Chinese chips. * Z.ai's shares rose after the company launched a new AI model that it claimed runs only on Chinese chips. BEIJING — ...",
-      "highlights": [
-        "# Z.ai shares surge 8% after releasing new AI model running only on Chinese chips. * Z.ai's shares rose after the company launched a new AI model that it claimed runs only on Chinese chips. BEIJING — Chinese artificial intelligence company Z.ai released a new model Wednesday that the company claims uses entirely homegrown semiconductors to operate. Called GLM-5.3-Flash, the low-cost version of Z.ai's flagship model ranks 10th on the Artificial Analysis Intelligence Index, ahead of DeepSeek V4 Pro Max. Z.ai's Hong Kong-listed shares climbed more than 8% in Thursday trading. China has ramped up domestic semiconductor and AI capabilities in an effort to gain tech self-sufficiency in the wake of U.S. restrictions on sales of advanced chips to China. Z.ai rival MiniMax's shares climbed by around 3% in Hong Kong trading after reporting a 283% surge in revenue in the first half of the year versus a year ago."
-      ],
-      "url": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
-      "source": "cnbc.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-08-27T03:20:14Z"
-    },
-    {
-      "id": "50c047bf9d1d",
-      "title": "Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown - CNBC",
-      "summary": "# Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown. * Nvidia has said it is optimizing its hardware for Chinese open AI models, including those made by Deep...",
-      "highlights": [
-        "# Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown. * Nvidia has said it is optimizing its hardware for Chinese open AI models, including those made by DeepSeek and Alibaba. * U.S. lawmakers have grown increasingly anxious about growing adoption of Chinese models, which have made leaps in capability this year. * The chip giant warned of business risks from potential Trump administration restrictions on AI developed by China in an SEC filing related to its second-quarter earnings. The chip giant on Wednesday highlighted a \"local AI initiative with optimizations for top open models,\" including DeepSeek's V4 Flash and Alibaba's Qwen 3.8, alongside systems developed by Google and Nvidia itself. But an SEC filing linked to the company's second-quarter earnings also warned of business risks from potential White House restrictions on AI developed in China. Chinese AI models have made leaps in capability in 2026 and their increasing adoption by developers across the globe — including in the U.S."
-      ],
-      "url": "https://www.cnbc.com/2026/08/27/nvidia-chinese-ai-models.html",
-      "source": "cnbc.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-08-27T14:31:25Z"
-    },
-    {
-      "id": "9482975a6048",
-      "title": "The cow comes home: China’s Internet celebrates Z.ai claiming ownership of Ox Alpha - Business Insider",
-      "summary": "# The cow comes home: China’s Internet celebrates Z.ai claiming ownership of Ox Alpha. One of China's leading AI labs has claimed the cow — aka the mysterious Ox Alpha model — and Chinese fans couldn'...",
-      "highlights": [
-        "# The cow comes home: China’s Internet celebrates Z.ai claiming ownership of Ox Alpha. One of China's leading AI labs has claimed the cow — aka the mysterious Ox Alpha model — and Chinese fans couldn't be happier. In a Wednesday blog post, Z.ai said Ox Alpha had been a free-to-use preview of its new GLM-5.3-Flash model. \"Before release, we tested GLM-5.3-Flash anonymously as ox-alpha on OpenCode and OpenRouter to gather user feedback,\" the company wrote in its blog post. As of noon on Thursday, a hashtag about Z.ai claiming ownership of Ox Alpha had thousands of posts under it, and was ranked among the top 20 hot topics on the platform. Chinese internet users have been laser-focused on Ox Alpha since the model debuted last week — and all the mystery has come with a touch of humor, too. Another recent example is Chinese AI lab Moonshot AI, which launched Kimi K3 in July, an open-weight model that rivals the capabilities of models from OpenAI and Anthropic at a lower cost."
-      ],
-      "url": "https://www.businessinsider.com/ox-alpha-zai-chinese-internet-celebrate-weibo-glm53-flash-2026-8",
-      "source": "businessinsider.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-08-27T04:36:34Z"
-    },
-    {
-      "id": "04e7446f2460",
-      "title": "How DeepSeek founder's quant empire is taking on China's choppy IPO boom - CNBC",
-      "summary": "* DeepSeek founder Liang Wenfeng is best known for the AI model that gave China its \"ChatGPT moment.\" Less visible is the quant empire that bankrolled the AI lab. * As DeepSeek's funding needs grow, t...",
-      "highlights": [
-        "* DeepSeek founder Liang Wenfeng is best known for the AI model that gave China its \"ChatGPT moment.\" Less visible is the quant empire that bankrolled the AI lab. * As DeepSeek's funding needs grow, the AI lab is seeking fresh outside capital and won't be able to rely on High-Flyer Quant, the hedge fund Liang co-founded. DeepSeek, the lab that put Chinese artificial intelligence on the map last January, has long been financed by High-Flyer Quant, its founder Liang Wenfeng's hedge fund. Now, DeepSeek has turned to outside investors to fund its growing ambitions, while High-Flyer has secured allocations across some of China's hottest hard-tech IPOs, from chips to robotics. The quant fund's affiliates, Zhejiang High-Flyer Asset Management and Ningbo High-Flyer Quantitative Investment Management, have secured private placements in China's leading memory chipmaker CXMT and robot maker Unitree Robotics, as well as companies spanning chip packaging, electronic components and renewable energy, according to CNBC's analysis of IPO data."
-      ],
-      "url": "https://www.cnbc.com/2026/08/28/deepseek-founder-liang-wenfeng-high-flyer-china-tech-ipos-funding.html",
-      "source": "cnbc.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-08-28T01:02:48Z"
-    },
-    {
-      "id": "36e3108eb160",
-      "title": "阿里发布千问最新模型 可显著降低AI训练和推理成本",
-      "summary": "Zaobao\n\n订阅\n\n# 阿里发布千问新模型 可显著降低AI训练和推理成本\n\n中国科技巨企阿里巴巴集团旗下人工智能（AI）应用通义千问星期三（8月26日）发布最新大模型Qwen3.8-Flash，并同时发布了Qwen3.8-Flash-Next的开源权重。 （ 千问大模型微信公众号）\n\n中国科技巨企阿里巴巴集团旗下人工智能（AI）应用通义千问星期三（8月26日）发布最新大模型Qwen3.8-Fl...",
-      "highlights": [
-        "# 阿里发布千问新模型 可显著降低AI训练和推理成本",
-        "中国科技巨企阿里巴巴集团旗下人工智能（AI）应用通义千问星期三（8月26日）发布最新大模型Qwen3.8-Flash，并同时发布了Qwen3.8-Flash-Next的开源权重",
-        "（ 千问大模型微信公众号）"
-      ],
-      "url": "https://www.zaobao.com.sg/news/china/story20260827-9581670",
-      "source": "zaobao.com.sg",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-08-27T21:00:00Z"
     }
   ],
-  "today": [
-    {
-      "id": "9050afdc9158",
-      "title": "分析师评OpenAI自研芯片影响：英伟达利润率或迎来新挑战 - 财联社",
-      "summary": "Yole Group技术分析师Adrien Sanchez表示，Jalapeno是一款专为推理设计的芯片，这表明“超大规模云服务商（hyperscaler）设计的芯片已经能够在推理能效方面媲美甚至超过英伟达Blackwell级GPU”。\n\nSanchez称，尽管英伟达目前仍掌握着“绝大多数”AI算力市场，并凭借CUDA软件平台形成了强大的生态锁定，但OpenAI的新芯片“对英伟达的推理业务利润率构...",
-      "highlights": [
-        "Yole Group技术分析师Adrien Sanchez表示，Jalapeno是一款专为推理设计的芯片，这表明“超大规模云服务商（hyperscaler）设计的芯片已经能够在推理能效方面媲美甚至超过英伟达Blackwell级GPU”",
-        "Sanchez称，尽管英伟达目前仍掌握着“绝大多数”AI算力市场，并凭借CUDA软件平台形成了强大的生态锁定，但OpenAI的新芯片“对英伟达的推理业务利润率构成了威胁，而推理恰恰是目前增长最快的领域”",
-        "Jalapeno由OpenAI与博通共同开发"
-      ],
-      "url": "https://www.cls.cn/detail/2465530",
-      "source": "cls.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-28T01:00:00Z"
-    },
-    {
-      "id": "9a0dd65ea423",
-      "title": "AI芯片创业，又开始疯狂了_投资界",
-      "summary": "第 一波AI芯片创业公司们已经发生明显分化。Cerebras最终走到IPO，并越来越多地把芯片变成Cloud Service出售；Groq的核心技术在2025年底被NVIDIA大额授权并吸收部分核心管理层；Tenstorrent今年被曝正在与Qualcomm讨论80亿—100亿美元的收购；很多早期公司则退出、转型或被并购。\n\n所以如果只是重新造另一颗通用AI训练芯片，今天创业空间其实已经相当小。但...",
-      "highlights": [
-        "第 一波AI芯片创业公司们已经发生明显分化",
-        "Cerebras最终走到IPO，并越来越多地把芯片变成Cloud Service出售；Groq的核心技术在2025年底被NVIDIA大额授权并吸收部分核心管理层；Tenstorrent今年被曝正在与Qualcomm讨论80亿—100亿美元的收购；很多早期公司则退出、转型或被并购",
-        "所以如果只是重新造另一颗通用AI训练芯片，今天创业空间其实已经相当小"
-      ],
-      "url": "https://news.pedaily.cn/202608/568256.shtml",
-      "source": "news.pedaily.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-28T05:42:00Z"
-    },
-    {
-      "id": "ac3754d7ee41",
-      "title": "【老王看产业】AI驱动下ASIC厂商的机遇与挑战|VLA|Token|智能驾驶|SoC|特斯拉_新浪新闻",
-      "summary": "作者：老王\n\n　　摘要与核心判断\n\n　　全球AI算力产业正在从“以通用GPU为中心的单一路径”，逐步转向GPU、云厂自研加速器、第三方定制ASIC和边缘AI SoC并存的异构计算体系。ASIC的核心价值不是追求对所有任务都适用，而是在模型、算子和部署规模相对稳定后，通过软硬件协同降低每瓦算力成本、每Token推理成本以及整套系统的总体拥有成本。这一趋势已经从数据中心延伸到汽车。智能汽车正在由分布式...",
-      "highlights": [
-        "全球AI算力产业正在从“以通用GPU为中心的单一路径”，逐步转向GPU、云厂自研加速器、第三方定制ASIC和边缘AI SoC并存的异构计算体系",
-        "ASIC的核心价值不是追求对所有任务都适用，而是在模型、算子和部署规模相对稳定后，通过软硬件协同降低每瓦算力成本、每Token推理成本以及整套系统的总体拥有成本",
-        "这一趋势已经从数据中心延伸到汽车"
-      ],
-      "url": "https://k.sina.com.cn/article_5953740931_162dee08306703wpiu.html?from=tech",
-      "source": "k.sina.com.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-28T20:11:32Z"
-    },
-    {
-      "id": "394ee222a830",
-      "title": "AI办公赛道再洗牌，豆包工作能否颠覆职场生态？|AI大模型|OpenAI|Agent|字节跳动|Copilot_手机新浪网",
-      "summary": "## 新浪科技 股票\n\n   \n\n全方位覆盖个人办公与企业团队协作场景。\n\n作者 | 陈莉\n\n编辑 | 马景行\n\n来源 | 野马财经\n\nAI大模型行业正迎来重要拐点，行业竞争重心已经从简单的文字内容生成，转向可以自主规划、落地执行完整任务的Agent 智能体。早在2024年，OpenAI前首席科学家IlyaSutskever就在NeurIPS2024大会上提出，受高质量互联网训练数据总量约束，单纯...",
-      "highlights": [
-        "全方位覆盖个人办公与企业团队协作场景",
-        "AI大模型行业正迎来重要拐点，行业竞争重心已经从简单的文字内容生成，转向可以自主规划、落地执行完整任务的Agent 智能体",
-        "早在2024年，OpenAI前首席科学家IlyaSutskever就在NeurIPS2024大会上提出，受高质量互联网训练数据总量约束，单纯依靠扩大数据集的预训练发展路径或将逐步放缓，Agent智能体有望成为下一阶段AI重要的演进方向"
-      ],
-      "url": "https://finance.sina.cn/stock/jdts/2026-08-28/detail-inipwnxp9009248.d.html?vt=4&cid=76993&node_id=76993",
-      "source": "finance.sina.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-08-28T19:01:23Z"
-    },
-    {
-      "id": "3eeee9df01c3",
-      "title": "Anthropic瞄准2万亿美元估值 或刷新全球史上最大IPO纪录 | Yellow",
-      "summary": "Aug 05, 2026\n\nPolymarket拟以200亿美元估值融资10亿美元， 与世界杯期间200亿美元预测盘成交相呼应， 预示链上信息市场步入主流，同时监管与竞争风险加速抬头。\n\n相关学习文章\n\n去中心化人工智能：谁来掌控为 Web3 提供算力的模型\n\nAug 24, 2026\n\n去中心化 AI 用区块链确权模型收益，将训练与推理拆分成两层市场， 以加密证明和治理代币重塑 AI 行业权力格...",
-      "highlights": [
-        "Aug 05, 2026",
-        "Polymarket拟以200亿美元估值融资10亿美元， 与世界杯期间200亿美元预测盘成交相呼应， 预示链上信息市场步入主流，同时监管与竞争风险加速抬头",
-        "去中心化人工智能：谁来掌控为 Web3 提供算力的模型"
-      ],
-      "url": "https://yellow.com/zh/news/anthropic%E5%89%91%E6%8C%872%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BC%B0%E5%80%BC-%E6%88%96%E5%88%9B%E4%B8%8B%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7ipo%E7%BA%AA%E5%BD%95",
-      "source": "yellow.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-08-28T11:12:16Z"
-    },
-    {
-      "id": "7be63a51359c",
-      "title": "据称英伟达斥资129亿美元收购 Hugging Face",
-      "summary": "Cardano 去中心化交易量暴跌 98%，ADA 靠拢 0.20 美元关口\n\n3小时前\n\nCardano DEX 交易量自 8 月 22 日高点暴跌 98%，回落至约 100 万美元，ADA 暂稳 0.21 美元上方，0.20 美元成关键支撑考验。\n\n相关新闻\n\n英伟达以200亿美元剔除竞争对手，强化去中心化 AI 叙事\n\nDec 25, 2025\n\n英伟达以授权交易方式获得 Groq 资产和团...",
-      "highlights": [
-        "Cardano 去中心化交易量暴跌 98%，ADA 靠拢 0.20 美元关口",
-        "Cardano DEX 交易量自 8 月 22 日高点暴跌 98%，回落至约 100 万美元，ADA 暂稳 0.21 美元上方，0.20 美元成关键支撑考验",
-        "英伟达以200亿美元剔除竞争对手，强化去中心化 AI 叙事"
-      ],
-      "url": "https://yellow.com/zh/news/%E6%8D%AE%E7%A7%B0%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%96%A5%E8%B5%84129%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD-hugging-face",
-      "source": "yellow.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-08-28T10:07:25Z"
-    },
-    {
-      "id": "6668a21f75f8",
-      "title": "Anthropic's $7 Billion Chip Plan Takes a New Turn — TradingView News",
-      "summary": "MatX was formed by ex-Google tensor processing unit engineers and is building chips to train massive AI models. The business is currently raising further money at a valuation of around $4 billion. Ant...",
-      "highlights": [
-        "MatX was formed by ex-Google tensor processing unit engineers and is building chips to train massive AI models. The business is currently raising further money at a valuation of around $4 billion. Anthropic's appeal is simple.",
-        "The corporation might get more control over cost and performance by building custom silicon, as demand for Claude increases. Anthropic has already recruited veterans from Google and OpenAI and grown its internal silicon team. [...] Meanwhile, the corporation is spending much on outside computers. Anthropic aims to spend $36 billion on Google AI chips and has signed a $45 billion cloud-computing deal with Nscale, highlighting the huge cost of securing enough infrastructure to train and run frontier models.",
-        "Another route for Anthropic to develop out more of that tech on its own might be a MatX relationship. The acquisition may have hit a snag, but Anthropic's push into bespoke chips certainly hasn't."
-      ],
-      "url": "https://www.tradingview.com/news/gurufocus:088540fd7094b:0-anthropic-s-7-billion-chip-plan-takes-a-new-turn",
-      "source": "tradingview.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-08-28T14:04:09Z"
-    },
-    {
-      "id": "8dcc74d32a62",
-      "title": "Nvidia Reportedly Buys Hugging Face for $12.9B [2026]",
-      "summary": "Every major AI lab that can afford to is now building its own silicon. Google has its TPU line. Amazon has Trainium. OpenAI has been working with Broadcom on custom accelerators. Anthropic has leaned ...",
-      "highlights": [
-        "Every major AI lab that can afford to is now building its own silicon. Google has its TPU line. Amazon has Trainium. OpenAI has been working with Broadcom on custom accelerators. Anthropic has leaned on Google’s TPUs and Amazon’s Trainium chips for large training runs. None of that spells doom for Nvidia’s GPU business overnight, but it does chip away at the assumption that every serious AI workload runs on Nvidia hardware by default. [...] Defending chip share. OpenAI, Google, Amazon and Anthropic are each developing custom silicon to cut their dependence on Nvidia GPUs. A thriving open-source ecosystem, tuned and optimized around Nvidia’s CUDA stack, keeps smaller developers and enterprises locked into Nvidia hardware even as the biggest labs diversify. [...] Put together, this reads less like a typical tech acquisition and more like Nvidia buying insurance against two different threats at once: custom-chip competitors chipping away at GPU demand, and cloud hyperscalers controlling too much of the distribution layer for AI models.",
-        "## The Chip Independence Problem: OpenAI, Anthropic, Google and Amazon"
-      ],
-      "url": "https://tech-insider.org/nvidia-hugging-face-acquisition-12-9-billion-2026",
-      "source": "tech-insider.org",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-28T01:23:49Z"
-    },
-    {
-      "id": "04e7446f2460",
-      "title": "How DeepSeek founder's quant empire is taking on China's choppy IPO boom - CNBC",
-      "summary": "* DeepSeek founder Liang Wenfeng is best known for the AI model that gave China its \"ChatGPT moment.\" Less visible is the quant empire that bankrolled the AI lab. * As DeepSeek's funding needs grow, t...",
-      "highlights": [
-        "* DeepSeek founder Liang Wenfeng is best known for the AI model that gave China its \"ChatGPT moment.\" Less visible is the quant empire that bankrolled the AI lab. * As DeepSeek's funding needs grow, the AI lab is seeking fresh outside capital and won't be able to rely on High-Flyer Quant, the hedge fund Liang co-founded. DeepSeek, the lab that put Chinese artificial intelligence on the map last January, has long been financed by High-Flyer Quant, its founder Liang Wenfeng's hedge fund. Now, DeepSeek has turned to outside investors to fund its growing ambitions, while High-Flyer has secured allocations across some of China's hottest hard-tech IPOs, from chips to robotics. The quant fund's affiliates, Zhejiang High-Flyer Asset Management and Ningbo High-Flyer Quantitative Investment Management, have secured private placements in China's leading memory chipmaker CXMT and robot maker Unitree Robotics, as well as companies spanning chip packaging, electronic components and renewable energy, according to CNBC's analysis of IPO data."
-      ],
-      "url": "https://www.cnbc.com/2026/08/28/deepseek-founder-liang-wenfeng-high-flyer-china-tech-ipos-funding.html",
-      "source": "cnbc.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-08-28T01:02:48Z"
-    },
-    {
-      "id": "476d2a837ff6",
-      "title": "Robotaxi龙头造芯！算力仅160TOPS，放话比1000TOPS还强",
-      "summary": "车东西（公众号：chedongxi） 作者｜ 张睿 编辑｜ 志豪. 美国自动驾驶公司自研的芯片，算力只有160TOPS？ 车东西8月28日消息，日前，Alphabet（谷歌母公司）旗下自动",
-      "highlights": [
-        "车东西（公众号：chedongxi） 作者｜ 张睿 编辑｜ 志豪. 美国自动驾驶公司自研的芯片，算力只有160TOPS",
-        "车东西8月28日消息，日前，Alphabet（谷歌母公司）旗下自动"
-      ],
-      "url": "https://chedongxi.com/p/375097.html",
-      "source": "chedongxi.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-08-28T12:00:00Z"
-    },
-    {
-      "id": "a19564b38eed",
-      "title": "英伟达发布NVHBM技术，并获亚马逊追加200万颗GPU订单",
-      "summary": "当地时间8月26日，英伟达宣布推出新一代定制高带宽内存技术NVHBM，并将其纳入NVLink Fusion生态。这项技术的核心设计颠覆了传统HBM架构——将英伟达自研的定制化内存控制",
-      "highlights": [
-        "当地时间8月26日，英伟达宣布推出新一代定制高带宽内存技术NVHBM，并将其纳入NVLink Fusion生态",
-        "这项技术的核心设计颠覆了传统HBM架构——将英伟达自研的定制化内存控制"
-      ],
-      "url": "https://www.eet-china.com/mp/a520820.html",
-      "source": "eet-china.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-08-28T01:00:00Z"
-    },
-    {
-      "id": "afa02608ac3d",
-      "title": "360 AI安全研究成果获ICML收录，探索APT检测新路径_搜狐网",
-      "summary": "## 360 AI安全研究成果获ICML收录，探索APT检测新路径\n\n上游新闻\n\n日前，360安全能力中心研究团队发表的论文《WatchLog：基于多模态大语言模型的高效可解释EDR日志事件推理框架》被国际机器学习顶级会议ICML 2026正式收录。该研究创新性地将超长EDR日志转化为“视频”进行理解和推理，突破APT（高级持续性威胁）攻击检测中百万Token日志难以分析的行业难题，为AI时代终端...",
-      "highlights": [
-        "## 360 AI安全研究成果获ICML收录，探索APT检测新路径",
-        "日前，360安全能力中心研究团队发表的论文《WatchLog：基于多模态大语言模型的高效可解释EDR日志事件推理框架》被国际机器学习顶级会议ICML 2026正式收录",
-        "该研究创新性地将超长EDR日志转化为“视频”进行理解和推理，突破APT（高级持续性威胁）攻击检测中百万Token日志难以分析的行业难题，为AI时代终端安全检测提供了一条新的技术路径"
-      ],
-      "url": "https://m.sohu.com/a/1069013109_120388781?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "前沿理论",
-      "importance": 4,
-      "publishedAt": "2026-08-28T21:03:02Z"
-    },
-    {
-      "id": "a9b92d5b6714",
-      "title": "【今日AI产品】:OpenAI自研芯片反超英伟达,苹果首颗2nm芯片登场",
-      "summary": "AI生活圈 · 每周新品速览2026年8月28日 星期五OpenAI自研芯片反超英伟达,苹果首颗2nm芯片登场——本周8款AI新品盘点本周AI新...",
-      "highlights": [
-        "AI生活圈 · 每周新品速览2026年8月28日 星期五OpenAI自研芯片反超英伟达,苹果首颗2nm芯片登场——本周8款AI新品盘点本周AI新..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7WL2b9YgFqvFtgy3j9qtDF_BFQSdGzaZ1qXa8Fplpd9LMUhxK4oWo8T0Kblg8zQo8JJFoSh4IFCP99LrcTqqXiWNzqYC0s31QFpUzHwIUM520qeTZHUKyBHuazHPbU1zBtLRXPcUFJyD7gt0fC7wcvWsHHmrrEcWNEDO5_lLB7s9uaHPiNxqqC9_mBkFbl_2tr2bbvlNdvVOuJnKuUgmcajotuuiAmOIg..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=A6457FF5752365818583DFA40086FEFD8681A1676A920408",
-      "source": "微信公众号",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-08-28T04:37:36Z"
-    },
-    {
-      "id": "d8386bc92f35",
-      "title": "优秀AI Agent慢病管理智能体产品解读",
-      "summary": "优秀的AI Agent慢病管理智能体代表了医疗AI的下一代范式.从产品经理视角看,这类产品需要平衡专业性与易用性、准确性与安全性...",
-      "highlights": [
-        "优秀的AI Agent慢病管理智能体代表了医疗AI的下一代范式.从产品经理视角看,这类产品需要平衡专业性与易用性、准确性与安全性..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7WL2b9YgFqvL5AaUkxQaut_BFQSdGzaZ1qXa8Fplpd9nD2CY7wivaEq1YEJE894ZXo8s1E6OYYDtweTTMb1NvmuRhRHfo-8sjXnmzKZJ4WtYdq1gD8aneHVkmMb1p6b1bGxMGo3nQ1BOChkE0lylIgmDz9Lb6FsNV00AgInhmoKHTmS76UaBeA7IcrT6rWIMtinaE83WqiXleuk1Hpc92g89kyxDwoXvg..&amp;type=2&amp;query=AI Agent %E6%99%BA%E8%83%BD%E4%BD%93 %E4%BA%A7%E5%93%81&amp;token=A6458E103F6D2FCFCCCA91E94AD440DCCC96AC566A920409",
-      "source": "微信公众号",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-08-28T00:07:25Z"
-    }
-  ],
-  "week": [
-    {
-      "id": "c68eba031ec3",
-      "title": "OpenAI自研芯片跑赢英伟达GPU：一场蓄谋已久的芯片独立战争_TOM科技",
-      "summary": "公司计划从2026年底开始将Jalapeno部署到自己的计算基础设施中，以吉瓦级规模在微软等数据中心合作伙伴处部署。这是OpenAI与博通10GW定制AI加速器合作计划的第一代产品，整个项目预计持续至2029年底。\n\nOpenAI的野心远不止一颗芯片。第二代芯片已进入较为深入的研发阶段，预计'未来几个月'完成流片；第三代芯片也已启动概念设计。OpenAI正试图通过多代自研芯片，持续压低正在全球范围...",
-      "highlights": [
-        "公司计划从2026年底开始将Jalapeno部署到自己的计算基础设施中，以吉瓦级规模在微软等数据中心合作伙伴处部署",
-        "这是OpenAI与博通10GW定制AI加速器合作计划的第一代产品，整个项目预计持续至2029年底",
-        "OpenAI的野心远不止一颗芯片"
-      ],
-      "url": "https://tech.tom.com/202608/1448212702.html",
-      "source": "tech.tom.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-26T02:00:00Z"
-    },
-    {
-      "id": "13673ef23a8b",
-      "title": "博伦智汇完成千万级天使轮融资，加速AI算力市场拓展与业务落地_投资界",
-      "summary": "目前公司正在积极开发入口级智能硬件，将成为云、端、家的平滑连接，真正让Token成为像水电一样不可或缺的智能底座。\n\n文章来源：投资界  \n原文地址：\n\n【本文根据公开消息发布，不构成任何投资建议。市场有风险，投资需谨慎。】  \n如有异议，请联系（editor@zero2ipo.com.cn）投资界处理。\n\nAI算力博伦智汇\n\n### 本文涉及\n\n 企业:   趋动科技\n  :   天数智芯\n\n#...",
-      "highlights": [
-        "目前公司正在积极开发入口级智能硬件，将成为云、端、家的平滑连接，真正让Token成为像水电一样不可或缺的智能底座",
-        "【本文根据公开消息发布，不构成任何投资建议",
-        "市场有风险，投资需谨慎"
-      ],
-      "url": "https://news.pedaily.cn/202608/568134.shtml",
-      "source": "news.pedaily.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-08-26T05:46:00Z"
-    },
-    {
-      "id": "030e891799e9",
-      "title": "AI 早报 | 2026.08.26:OpenAI 自研芯片首秀跑赢英伟达",
-      "summary": "AI 早报 | 2026.08.26:OpenAI 自研芯片首秀跑赢英伟达OpenAI 自研推理芯片 Jalapeño 首测超越英伟达 GB300OpenAI 芯片负责人 ...",
-      "highlights": [
-        "AI 早报 | 2026.08.26:OpenAI 自研芯片首秀跑赢英伟达OpenAI 自研推理芯片 Jalapeño 首测超越英伟达 GB300OpenAI 芯片负责人 ..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0Ca11akT5F2pmSQyZ0Fx4tb5Y_b0ThBD1qXa8Fplpd9EoIKs7hUOCtSgj7YBcVE8h8ciq6Y3oLXtG29gaggWS_mDEZrQSXQbZJajCkviQpSaK79I-VMz4NVDsNd8KhJb0xDNh5qNXAmeOVD8Zggeot-G-FVxKv5D4mMYZAkbZoJUBtW-JgGjd6jpUDSyp2JPlgxVpkJFh4X8jICz4DpVHirCDCayYmfpA..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=9285E1751D186A13BEB8E753A8E2A0D7BF1CD06B6A8E8385",
-      "source": "微信公众号",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-26T02:41:24Z"
-    },
-    {
-      "id": "1f2deb5e4a78",
-      "title": "AI 早报 | 2026.08.26:OpenAI 自研芯片首秀跑赢英伟达",
-      "summary": "AI 早报 | 2026.08.26:OpenAI 自研芯片首秀跑赢英伟达OpenAI 自研推理芯片 Jalapeño 首测超越英伟达 GB300OpenAI 芯片负责人 ...",
-      "highlights": [
-        "AI 早报 | 2026.08.26:OpenAI 自研芯片首秀跑赢英伟达OpenAI 自研推理芯片 Jalapeño 首测超越英伟达 GB300OpenAI 芯片负责人 ..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0Ca11akT5F2aqdV1NjUuzpb5Y_b0ThBD1qXa8Fplpd9EoIKs7hUOCtSgj7YBcVE8h8ciq6Y3oLXtG29gaggWS_mDEZrQSXQbdfMFdDivNpX1eYNaw7fPTqaAMt9NnumcYYupbA_1Dj4kRy_vxllh3HyqzKR1g-jux6u2oHEZBkjfhT4mHo06VL4SUyus6_KwZRl7KIpaJmgGac_sau_-5YNGbbB75bUeA..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=9309E3B5A458867774752A9DCDF115B374C668096A8E9EFD",
-      "source": "微信公众号",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-26T02:41:24Z"
-    },
-    {
-      "id": "3de93104c6f2",
-      "title": "😺 Anthropic's $30 Trillion Market Claim",
-      "summary": "It's part of a bigger shift. Every major AI lab, including Google, Amazon, Microsoft, and now Anthropic, is racing to build its own chips instead of depending entirely on NVIDIA. OpenAI plans a small ...",
-      "highlights": [
-        "It's part of a bigger shift. Every major AI lab, including Google, Amazon, Microsoft, and now Anthropic, is racing to build its own chips instead of depending entirely on NVIDIA. OpenAI plans a small batch of Jalapeño-powered systems this year, with more next year, plus two newer chip generations already in the works.",
-        "Only catch: Jalapeño can't train new models from scratch, so OpenAI still needs NVIDIA's chips for that part. Even the spiciest pepper still needs someone else's kitchen. [...] The Neuron",
-        "😺 Anthropic's $30 Trillion Market Claim"
-      ],
-      "url": "https://www.theneurondaily.com/p/anthropic-s-30-trillion-market-claim",
-      "source": "theneurondaily.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-08-26T11:00:00Z"
-    },
-    {
-      "id": "e9a2c4f7c928",
-      "title": "恒智易说AI丨英伟达押注物理AI,OpenAI称自研芯片超越英伟达,AMD推出AI成本计算器",
-      "summary": "OpenAI加入了自研AI芯片企业的行列,目前这一市场由英伟达主导.OpenAI与博通合作开发了Jalapeno.两家公司去年宣布合作,并...",
-      "highlights": [
-        "OpenAI加入了自研AI芯片企业的行列,目前这一市场由英伟达主导.OpenAI与博通合作开发了Jalapeno.两家公司去年宣布合作,并..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0Ca11akT5F2eW6An1k3ARYiW3odaILf7FqXa8Fplpd9y03KolUQY3r5JNFRo0PdtTNuUJH5pqlqxed_WwfwYJ3rHycf39AAYzyMqxKGGSP_PiT5rRg9Zbe5cHxe_G4lagmvPcKt4zxQpv2NJAG8bMrrvxv3apZSsF3uNtl_U-z_Oh4e7qsSJtoLyPEgV09pjEYEj9hRynf9H1RHjhXH9KfFcvUoAZZH7Q..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=94AFC95F18B6EEA3AFA9F65D5010B867AF574EFC6A8EF76A",
-      "source": "微信公众号",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-26T09:59:33Z"
-    },
-    {
-      "id": "d613cfbb616e",
-      "title": "OpenAI称自研AI芯片测试表现超越英伟达GB300",
-      "summary": "OpenAI表示,其全新Jalapeno芯片在测试中的表现优于英伟达的现有产品线,凸显该公司在自主研发AI处理器方面取得进展.  在测试...",
-      "highlights": [
-        "OpenAI表示,其全新Jalapeno芯片在测试中的表现优于英伟达的现有产品线,凸显该公司在自主研发AI处理器方面取得进展.  在测试..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0Ca11akT5F2eW6An1k3ARYiW3odaILf7FqXa8Fplpd9wLZkvBMyyV6CrvXs55Vlbs6_Q5dmZG5RuJQAI1WHRt-xScde132VkvlH8ATzVTVHXqIkCUfPkACmLIfOht8KFRmmJt8P8J-L_WuW3nCa5rGjGih8fJ34xIaUx_fvmL0eZJFORtGGnUSQG3oRmuj0woLeJgwPRtZBcIV9FjyLZhZf_71bqkOtiw..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=94AFC95F18B6EEA3AFA9F65D5010B867AF574EFC6A8EF76A",
-      "source": "微信公众号",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-26T03:47:37Z"
-    },
+  "month": [
     {
       "id": "0150d58a8ab0",
       "title": "Google Employees Are Already Testing the Next Gemini Flash AI Model - Business Insider",
@@ -732,19 +648,6 @@
       "publishedAt": "2026-08-27T21:30:06Z"
     },
     {
-      "id": "f3d6254f8558",
-      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model - TechCrunch",
-      "summary": "# Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model. Over the weekend, the nerds were buzzing with speculation over which AI lab was behind Ox Alpha, the mysterious new open-weight AI ...",
-      "highlights": [
-        "# Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model. Over the weekend, the nerds were buzzing with speculation over which AI lab was behind Ox Alpha, the mysterious new open-weight AI model launched onto OpenRouter anonymously and already topping benchmarks and leaderboards against the best models. As many had expected, Ox Alpha was spawned by GLM-maker Z.ai, according to Bloomberg. Z.ai confirmed that Ox Alpha is the newest iteration of its GLM series, which Hugging Face famously used recently to defend itself against an attack from OpenAI agents. The company said it will release the weights for Ox Alpha on Wednesday, after which developers can build on top of it. The release of Ox Alpha adds to the burgeoning threat of cheap, capable models from China that could take real market share away from expensive frontier model companies like OpenAI and Anthropic. TechCrunch has reached out to Z.ai for comment. AI, GLM, open weight, Z.ai."
-      ],
-      "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-      "source": "techcrunch.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-08-26T14:19:29Z"
-    },
-    {
       "id": "3c75e284d829",
       "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 - TechCrunch",
       "summary": "# Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026. AI hasn’t just changed how startups build; it’s broken how they sell, secure their data and customers, and scale it more rap...",
@@ -756,45 +659,6 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-08-27T23:16:45Z"
-    },
-    {
-      "id": "dfb9cefa1ee8",
-      "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground - CNBC",
-      "summary": "# OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground. * OpenAI’s first custom AI chip, Jalapeño, is expected to begin deployment in the company’s computing ...",
-      "highlights": [
-        "# OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground. * OpenAI’s first custom AI chip, Jalapeño, is expected to begin deployment in the company’s computing infrastructure by the end of the year. * Analysts told CNBC that it could put pressure on Nvidia in the fast-growing inference market and reduce OpenAI’s reliance on Nvidia for some workloads. * Jalapeño beat Nvidia’s Blackwell systems on performance per watt in nearly all tested scenarios, according to OpenAI, but analysts said Nvidia’s newer platform is a more like-for-like comparison. OpenAI announced that its first AI chip, the Jalapeño, had \"industry-leading speed and efficiency,\" as it unveiled the semiconductor on Tuesday. He added that, while Nvidia still owns the \"vast majority\" of AI compute and has ecosystem lock-in to its software platform CUDA, OpenAI's new chip is a \"threat to Nvidia's inference margins, which is the field growing the most at the moment.\"."
-      ],
-      "url": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
-      "source": "cnbc.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-26T13:27:35Z"
-    },
-    {
-      "id": "9781d9bc4d3a",
-      "title": "AWS and NVIDIA expand partnership for next-gen AI infrastructure - About Amazon",
-      "summary": "AWS and NVIDIA will deploy 2 million additional GPUs and deepen collaboration across CPUs, networking, and robotics. * AWS will deploy 2 million additional NVIDIA GPUs across its global infrastructure...",
-      "highlights": [
-        "AWS and NVIDIA will deploy 2 million additional GPUs and deepen collaboration across CPUs, networking, and robotics. * AWS will deploy 2 million additional NVIDIA GPUs across its global infrastructure in 2027–2028. * The companies will build AI factories for the U.S. government, including 100,000 GPUs on secure AWS infrastructure. Building on 16 years of joint innovation, the companies plan to deploy 2 million additional NVIDIA GPUs across AWS’s global infrastructure and deepen their work together across AI factories, CPUs, networking, open models, data processing, and robotics—delivering co-engineered solutions that help customers accelerate AI development at unprecedented scale. The expansion complements Amazon’s own custom silicon, giving customers the freedom to choose the best compute for their specific workloads—whether that’s NVIDIA GPUs, AWS Trainium chips, or both working together. Now we are expanding our partnership across the full stack—GPUs, CPUs, networking, open models and software—to make agentic and physical AI real at an unprecedented pace and scale that only AWS and NVIDIA can deliver."
-      ],
-      "url": "https://www.aboutamazon.com/news/aws/aws-nvidia-2-million-gpus-ai",
-      "source": "aboutamazon.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-26T21:12:41Z"
-    },
-    {
-      "id": "230eb93c2aaa",
-      "title": "Perplexity launches a local AI agent with zero token costs - Android Authority",
-      "summary": "# Perplexity launches a local AI agent with zero token costs. * Perplexity has launched a new agentic AI tool called “Portable Computer” that runs locally on users’ devices. * It uses small, efficient...",
-      "highlights": [
-        "# Perplexity launches a local AI agent with zero token costs. * Perplexity has launched a new agentic AI tool called “Portable Computer” that runs locally on users’ devices. * It uses small, efficient models such as Qwen 3.8 and NVIDIA Nemotron 3.5 Lightning. Months after launching its agentic AI tool, “Personal Computer,” Perplexity is introducing a new option for users who prefer to run their AI agents locally. The agent, along with the models and other tools, lives locally on the user’s device. Portable Computer will use very small models such as Qwen 3.8 and NVIDIA Nemotron 3.5 Lightning. Perplexity’s Portable Computer currently supports NVIDIA’s DGX Spark platform and can run Qwen 3.8 or PPLX 27B — a post-trained version of the Qwen 3.8 model. The company also says that support for the NVIDIA Nemotron 3.5 Lightning model, as well as NVIDIA RTX GPUs, is coming soon."
-      ],
-      "url": "https://www.androidauthority.com/perplexity-portable-computer-local-ai-agent-3703083/",
-      "source": "androidauthority.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-08-26T06:40:55Z"
     },
     {
       "id": "0ff1c41ef24e",
@@ -821,144 +685,84 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-08-27T18:29:47Z"
-    }
-  ],
-  "month": [
-    {
-      "id": "c68eba031ec3",
-      "title": "OpenAI自研芯片跑赢英伟达GPU：一场蓄谋已久的芯片独立战争_TOM科技",
-      "summary": "公司计划从2026年底开始将Jalapeno部署到自己的计算基础设施中，以吉瓦级规模在微软等数据中心合作伙伴处部署。这是OpenAI与博通10GW定制AI加速器合作计划的第一代产品，整个项目预计持续至2029年底。\n\nOpenAI的野心远不止一颗芯片。第二代芯片已进入较为深入的研发阶段，预计'未来几个月'完成流片；第三代芯片也已启动概念设计。OpenAI正试图通过多代自研芯片，持续压低正在全球范围...",
-      "highlights": [
-        "公司计划从2026年底开始将Jalapeno部署到自己的计算基础设施中，以吉瓦级规模在微软等数据中心合作伙伴处部署",
-        "这是OpenAI与博通10GW定制AI加速器合作计划的第一代产品，整个项目预计持续至2029年底",
-        "OpenAI的野心远不止一颗芯片"
-      ],
-      "url": "https://tech.tom.com/202608/1448212702.html",
-      "source": "tech.tom.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-26T02:00:00Z"
     },
     {
-      "id": "13673ef23a8b",
-      "title": "博伦智汇完成千万级天使轮融资，加速AI算力市场拓展与业务落地_投资界",
-      "summary": "目前公司正在积极开发入口级智能硬件，将成为云、端、家的平滑连接，真正让Token成为像水电一样不可或缺的智能底座。\n\n文章来源：投资界  \n原文地址：\n\n【本文根据公开消息发布，不构成任何投资建议。市场有风险，投资需谨慎。】  \n如有异议，请联系（editor@zero2ipo.com.cn）投资界处理。\n\nAI算力博伦智汇\n\n### 本文涉及\n\n 企业:   趋动科技\n  :   天数智芯\n\n#...",
+      "id": "8f7394b549cf",
+      "title": "Anthropic pushes into physical world with new standard to help AI agents operate machines - CNBC",
+      "summary": "# Anthropic pushes into physical world with new standard to help AI agents operate machines. * Anthropic announced the Model Hardware Standard, or MHS, a new interface that will make it simpler for AI...",
       "highlights": [
-        "目前公司正在积极开发入口级智能硬件，将成为云、端、家的平滑连接，真正让Token成为像水电一样不可或缺的智能底座",
-        "【本文根据公开消息发布，不构成任何投资建议",
-        "市场有风险，投资需谨慎"
+        "# Anthropic pushes into physical world with new standard to help AI agents operate machines. * Anthropic announced the Model Hardware Standard, or MHS, a new interface that will make it simpler for AI agents to operate and communicate with physical machinery. * MHS is initially available in a research preview, but Anthropic plans to open source it in the future. Anthropic on Thursday announced a new interface that will make it simpler for AI agents to operate and communicate with machinery, as the artificial intelligence giant pushes into the physical world. The Model Hardware Standard, or MHS, is designed to work with any device that has a programmable interface, including those used in scientific research and advanced manufacturing, Anthropic said. Anthropic is building out a silicon team to design custom chips for its models and recently hired Caitlin Kalinowski, a hardware executive who previously worked at OpenAI, Meta and Apple, according to LinkedIn. Anthropic said MHS aims to help companies reduce the amount of time it takes to set up and integrate their hardware."
       ],
-      "url": "https://news.pedaily.cn/202608/568134.shtml",
-      "source": "news.pedaily.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-08-26T05:46:00Z"
-    },
-    {
-      "id": "030e891799e9",
-      "title": "AI 早报 | 2026.08.26:OpenAI 自研芯片首秀跑赢英伟达",
-      "summary": "AI 早报 | 2026.08.26:OpenAI 自研芯片首秀跑赢英伟达OpenAI 自研推理芯片 Jalapeño 首测超越英伟达 GB300OpenAI 芯片负责人 ...",
-      "highlights": [
-        "AI 早报 | 2026.08.26:OpenAI 自研芯片首秀跑赢英伟达OpenAI 自研推理芯片 Jalapeño 首测超越英伟达 GB300OpenAI 芯片负责人 ..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0Ca11akT5F2pmSQyZ0Fx4tb5Y_b0ThBD1qXa8Fplpd9EoIKs7hUOCtSgj7YBcVE8h8ciq6Y3oLXtG29gaggWS_mDEZrQSXQbZJajCkviQpSaK79I-VMz4NVDsNd8KhJb0xDNh5qNXAmeOVD8Zggeot-G-FVxKv5D4mMYZAkbZoJUBtW-JgGjd6jpUDSyp2JPlgxVpkJFh4X8jICz4DpVHirCDCayYmfpA..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=9285E1751D186A13BEB8E753A8E2A0D7BF1CD06B6A8E8385",
-      "source": "微信公众号",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-26T02:41:24Z"
-    },
-    {
-      "id": "1f2deb5e4a78",
-      "title": "AI 早报 | 2026.08.26:OpenAI 自研芯片首秀跑赢英伟达",
-      "summary": "AI 早报 | 2026.08.26:OpenAI 自研芯片首秀跑赢英伟达OpenAI 自研推理芯片 Jalapeño 首测超越英伟达 GB300OpenAI 芯片负责人 ...",
-      "highlights": [
-        "AI 早报 | 2026.08.26:OpenAI 自研芯片首秀跑赢英伟达OpenAI 自研推理芯片 Jalapeño 首测超越英伟达 GB300OpenAI 芯片负责人 ..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0Ca11akT5F2aqdV1NjUuzpb5Y_b0ThBD1qXa8Fplpd9EoIKs7hUOCtSgj7YBcVE8h8ciq6Y3oLXtG29gaggWS_mDEZrQSXQbdfMFdDivNpX1eYNaw7fPTqaAMt9NnumcYYupbA_1Dj4kRy_vxllh3HyqzKR1g-jux6u2oHEZBkjfhT4mHo06VL4SUyus6_KwZRl7KIpaJmgGac_sau_-5YNGbbB75bUeA..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=9309E3B5A458867774752A9DCDF115B374C668096A8E9EFD",
-      "source": "微信公众号",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-26T02:41:24Z"
-    },
-    {
-      "id": "3de93104c6f2",
-      "title": "😺 Anthropic's $30 Trillion Market Claim",
-      "summary": "It's part of a bigger shift. Every major AI lab, including Google, Amazon, Microsoft, and now Anthropic, is racing to build its own chips instead of depending entirely on NVIDIA. OpenAI plans a small ...",
-      "highlights": [
-        "It's part of a bigger shift. Every major AI lab, including Google, Amazon, Microsoft, and now Anthropic, is racing to build its own chips instead of depending entirely on NVIDIA. OpenAI plans a small batch of Jalapeño-powered systems this year, with more next year, plus two newer chip generations already in the works.",
-        "Only catch: Jalapeño can't train new models from scratch, so OpenAI still needs NVIDIA's chips for that part. Even the spiciest pepper still needs someone else's kitchen. [...] The Neuron",
-        "😺 Anthropic's $30 Trillion Market Claim"
-      ],
-      "url": "https://www.theneurondaily.com/p/anthropic-s-30-trillion-market-claim",
-      "source": "theneurondaily.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-08-26T11:00:00Z"
-    },
-    {
-      "id": "e9a2c4f7c928",
-      "title": "恒智易说AI丨英伟达押注物理AI,OpenAI称自研芯片超越英伟达,AMD推出AI成本计算器",
-      "summary": "OpenAI加入了自研AI芯片企业的行列,目前这一市场由英伟达主导.OpenAI与博通合作开发了Jalapeno.两家公司去年宣布合作,并...",
-      "highlights": [
-        "OpenAI加入了自研AI芯片企业的行列,目前这一市场由英伟达主导.OpenAI与博通合作开发了Jalapeno.两家公司去年宣布合作,并..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0Ca11akT5F2eW6An1k3ARYiW3odaILf7FqXa8Fplpd9y03KolUQY3r5JNFRo0PdtTNuUJH5pqlqxed_WwfwYJ3rHycf39AAYzyMqxKGGSP_PiT5rRg9Zbe5cHxe_G4lagmvPcKt4zxQpv2NJAG8bMrrvxv3apZSsF3uNtl_U-z_Oh4e7qsSJtoLyPEgV09pjEYEj9hRynf9H1RHjhXH9KfFcvUoAZZH7Q..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=94AFC95F18B6EEA3AFA9F65D5010B867AF574EFC6A8EF76A",
-      "source": "微信公众号",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-26T09:59:33Z"
-    },
-    {
-      "id": "d613cfbb616e",
-      "title": "OpenAI称自研AI芯片测试表现超越英伟达GB300",
-      "summary": "OpenAI表示,其全新Jalapeno芯片在测试中的表现优于英伟达的现有产品线,凸显该公司在自主研发AI处理器方面取得进展.  在测试...",
-      "highlights": [
-        "OpenAI表示,其全新Jalapeno芯片在测试中的表现优于英伟达的现有产品线,凸显该公司在自主研发AI处理器方面取得进展.  在测试..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0Ca11akT5F2eW6An1k3ARYiW3odaILf7FqXa8Fplpd9wLZkvBMyyV6CrvXs55Vlbs6_Q5dmZG5RuJQAI1WHRt-xScde132VkvlH8ATzVTVHXqIkCUfPkACmLIfOht8KFRmmJt8P8J-L_WuW3nCa5rGjGih8fJ34xIaUx_fvmL0eZJFORtGGnUSQG3oRmuj0woLeJgwPRtZBcIV9FjyLZhZf_71bqkOtiw..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=94AFC95F18B6EEA3AFA9F65D5010B867AF574EFC6A8EF76A",
-      "source": "微信公众号",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-26T03:47:37Z"
-    },
-    {
-      "id": "0150d58a8ab0",
-      "title": "Google Employees Are Already Testing the Next Gemini Flash AI Model - Business Insider",
-      "summary": "# Google employees are already testing the next Gemini Flash AI model. Google just released a new AI model this month. Its employees are already testing the next one. Some staff have begun using a pre...",
-      "highlights": [
-        "# Google employees are already testing the next Gemini Flash AI model. Google just released a new AI model this month. Its employees are already testing the next one. Some staff have begun using a preview version of Gemini 3.8 Flash, highlighting the breakneck pace of the AI race as Google pushes out new models just weeks apart to keep up with OpenAI and Anthropic. The new model — dubbed \"Gemini 3.8 Flash Preview\" — was made available to staff on Google's internal coding platform, Jetski, according to images Business Insider obtained. One employee testing the new model said it already felt noticeably better than 3.7 Flash, but emphasized it was too early for a full review. With 3.5 Pro still missing and Anthropic and OpenAI sprinting ahead in the AI race, Google no longer has a frontier model. Instead, it has doubled down on its \"Flash\" models, which offer greater speed and lower costs for users, at a time when customers are keeping a closer eye on their AI bill."
-      ],
-      "url": "https://www.businessinsider.com/google-employees-testing-next-gemini-flash-3-8-model-2026-8",
-      "source": "businessinsider.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-08-27T21:30:06Z"
-    },
-    {
-      "id": "f3d6254f8558",
-      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model - TechCrunch",
-      "summary": "# Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model. Over the weekend, the nerds were buzzing with speculation over which AI lab was behind Ox Alpha, the mysterious new open-weight AI ...",
-      "highlights": [
-        "# Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model. Over the weekend, the nerds were buzzing with speculation over which AI lab was behind Ox Alpha, the mysterious new open-weight AI model launched onto OpenRouter anonymously and already topping benchmarks and leaderboards against the best models. As many had expected, Ox Alpha was spawned by GLM-maker Z.ai, according to Bloomberg. Z.ai confirmed that Ox Alpha is the newest iteration of its GLM series, which Hugging Face famously used recently to defend itself against an attack from OpenAI agents. The company said it will release the weights for Ox Alpha on Wednesday, after which developers can build on top of it. The release of Ox Alpha adds to the burgeoning threat of cheap, capable models from China that could take real market share away from expensive frontier model companies like OpenAI and Anthropic. TechCrunch has reached out to Z.ai for comment. AI, GLM, open weight, Z.ai."
-      ],
-      "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-      "source": "techcrunch.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-08-26T14:19:29Z"
-    },
-    {
-      "id": "3c75e284d829",
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 - TechCrunch",
-      "summary": "# Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026. AI hasn’t just changed how startups build; it’s broken how they sell, secure their data and customers, and scale it more rap...",
-      "highlights": [
-        "# Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026. AI hasn’t just changed how startups build; it’s broken how they sell, secure their data and customers, and scale it more rapidly than ever before. At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups. This time around, we’re exploring the business models AI is rewriting, the wealth of unsolved security gaps, and the entirely new job categories AI has created from scratch. We’re talking about the matter of how to price AI products when models become commoditized, why agent security has to be rebuilt from the infrastructure up, and what it actually means to have a go-to-market plan in an AI-native world. This session pulls back the curtain on what applied AI actually looks like inside the world’s most closely watched AI company — and what it reveals about where enterprise AI is really headed."
-      ],
-      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "source": "techcrunch.com",
+      "url": "https://www.cnbc.com/2026/08/27/anthropic-pushes-into-physical-world-with-new-standard-to-help-ai-agents-operate-machines.html",
+      "source": "cnbc.com",
       "category": "产品进展",
       "importance": 5,
-      "publishedAt": "2026-08-27T23:16:45Z"
+      "publishedAt": "2026-08-27T18:00:13Z"
+    },
+    {
+      "id": "ca384408298b",
+      "title": "EXCLUSIVE: Anthropic planned, then abandoned $7 billion purchase of MatX, sources say - Reuters",
+      "summary": "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. ## Browse Business. *   Anthropic planned and abandoned an acquisition of chip startu...",
+      "highlights": [
+        "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. ## Browse Business. *   Anthropic planned and abandoned an acquisition of chip startup MatX for $7 billion, sources say. SAN FRANCISCO, Aug 27 (Reuters) - Anthropic discussed buying artificial intelligence chip startup MatX for roughly $7 billion, seeking to accelerate efforts to ​develop custom hardware for its fast-growing AI business, two people briefed on the matter told Reuters. MatX, founded by former Google tensor processing unit (TPU) engineers, is now seeking to raise new capital at a valuation of about $4 billion, one of ​the people said, requesting anonymity to discuss private matters. As Anthropic scales its Claude family of AI models, the company is looking to produce hardware that can fulfill its voracious appetite for ⁠data crunching and reduce its reliance on chips produced by Nvidia (NVDA.O), opens new tab. *   Reuters and AI, opens new tab."
+      ],
+      "url": "https://www.reuters.com/business/finance/anthropic-planned-then-abandoned-7-billion-purchase-matx-sources-say-2026-08-27/",
+      "source": "reuters.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-27T21:22:30Z"
+    },
+    {
+      "id": "41bcb0eef42f",
+      "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion - Ars Technica",
+      "summary": "# Report: Nvidia to acquire AI model repository Hugging Face for $13 billion. Hugging Face is like an ever-evolving warehouse of open AI models. Among other things, Hugging Face is a cloud repository ...",
+      "highlights": [
+        "# Report: Nvidia to acquire AI model repository Hugging Face for $13 billion. Hugging Face is like an ever-evolving warehouse of open AI models. Among other things, Hugging Face is a cloud repository for AI models, similar in some respects to what GitHub is for conventional computer software. Nvidia had invested in Hugging Face in the past, but it wasn’t the only one—Google and Microsoft had also invested. Nvidia and several other tech companies have publicly supported the role of open-weight models as alternatives to the proprietary closed-frontier models trained by companies like OpenAI and Anthropic. The acquisition is particularly important for Nvidia, as OpenAI, Anthropic, and other frontier labs have begun investing in their own specialized hardware on which to train and run those models, seeking vertical integration and freedom from Nvidia’s leverage. Hugging Face is best known for hosting large language models, but it has increasingly invested in the types of models used in robotics and other physical AI applications."
+      ],
+      "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "source": "arstechnica.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-27T19:55:22Z"
+    },
+    {
+      "id": "2eac10a1e7fa",
+      "title": "AI快报|英伟达财报创纪录当天,OpenAI自研芯片叫板,盖茨罕见发声.",
+      "summary": "热闹之外还有阴影:OpenAI发了37页报告,复盘AI代理如何自己... 美方还指控其＂蒸馏＂Anthropic技术、非法获取英伟达芯片,月之...",
+      "highlights": [
+        "热闹之外还有阴影:OpenAI发了37页报告,复盘AI代理如何自己... 美方还指控其＂蒸馏＂Anthropic技术、非法获取英伟达芯片,月之..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS03g8H18tE08vtElrf7WAIFv-y5vpk8s3lqXa8Fplpd9uFotfo0nPDeFA2VZZ5vdgYAgbPYnzzj5BPax3jdzCmpuRpFVfc0FXwwuYI4Wp7tuPxdl7fWchzNPunI-VFM0guMFshCOkIGu4krRf8n7KOMcFtDWmMZ833gwP3pBcRKJJxCubeNGE71Fwy9WaFTswdMoViUYXtH9SVPDQ_KMzkJflztgI7RZ1g..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=9FE64AF5A254CCADBABCE3A8C59BD412BAD3EC306A90E65E",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-27T09:46:38Z"
+    },
+    {
+      "id": "688f6325d6e7",
+      "title": "AI每日新闻——OpenAI自研芯片暴打英伟达!阿里开源秒杀Claude,今天AI圈彻底炸了",
+      "summary": "不过OpenAI刚说自己的芯片比英伟达猛,英伟达马上秀肌肉,这波芯片大战越演越烈了.最终受益的还是我们这些用AI的人. 苹果M6...",
+      "highlights": [
+        "不过OpenAI刚说自己的芯片比英伟达猛,英伟达马上秀肌肉,这波芯片大战越演越烈了.最终受益的还是我们这些用AI的人. 苹果M6..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS03g8H18tE08vtElrf7WAIFv-y5vpk8s3lqXa8Fplpd9ztwcMgdE2bZ9Id-3F3O3kFtTZ0Eb0Foym1xRxp_6rzuZZjYBfAJLKjrMLW6CGzo3QMHknKGZoAukXrApd8-1SD0i0Zz8GZXgJgV9_ykZWgjHTqoRXFX4gaQY5i5MwXP5Hj90a2prJPsl-ZAdAc025rK3ucP1HoYCh_e7AWIHIkf1AfaFW2DefQ..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=9FE64AF5A254CCADBABCE3A8C59BD412BAD3EC306A90E65E",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-26T23:20:23Z"
+    },
+    {
+      "id": "fe891b979b2a",
+      "title": "OpenAI发布自研AI推理芯片“Jalapeno”:称效能优于英伟达GB300",
+      "summary": "OpenAI“Jalapeno”测试表现与功耗优于英伟达GB300根据彭博社报道,Jalapeno芯片在单位功耗的AI工作量与回复速度上均优于英...",
+      "highlights": [
+        "OpenAI“Jalapeno”测试表现与功耗优于英伟达GB300根据彭博社报道,Jalapeno芯片在单位功耗的AI工作量与回复速度上均优于英..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS03g8H18tE08vtElrf7WAIFv-y5vpk8s3lqXa8Fplpd9cf6FT04JrYyRuImwghEgiy0P2Ro8YNeB4j2Ndk3M-AFc_g0JZa76e4nR8CqsnPsd6kGhuNShrc_eUTRScwEds6AFgonwJXCv_G6qMyFiEBW9DLEcu9Ir5VxKtuqlBHGHeREb6XqXGZj1vPbmscSpQfSvbuEDeCNTbpa-sqJg4d-q3X8EKMKOIA..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=9FE64AF5A254CCADBABCE3A8C59BD412BAD3EC306A90E65E",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-26T22:35:55Z"
     }
   ]
 }
