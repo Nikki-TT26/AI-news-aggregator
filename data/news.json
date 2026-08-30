@@ -1,6 +1,480 @@
 {
-  "updatedAt": "2026-08-30T06:01:31Z",
+  "updatedAt": "2026-08-30T12:01:22Z",
   "latest": [
+    {
+      "id": "ac3754d7ee41",
+      "title": "【老王看产业】AI驱动下ASIC厂商的机遇与挑战|VLA|Token|智能驾驶|SoC|特斯拉_新浪新闻",
+      "summary": "作者：老王\n\n　　摘要与核心判断\n\n　　全球AI算力产业正在从“以通用GPU为中心的单一路径”，逐步转向GPU、云厂自研加速器、第三方定制ASIC和边缘AI SoC并存的异构计算体系。ASIC的核心价值不是追求对所有任务都适用，而是在模型、算子和部署规模相对稳定后，通过软硬件协同降低每瓦算力成本、每Token推理成本以及整套系统的总体拥有成本。这一趋势已经从数据中心延伸到汽车。智能汽车正在由分布式...",
+      "highlights": [
+        "全球AI算力产业正在从“以通用GPU为中心的单一路径”，逐步转向GPU、云厂自研加速器、第三方定制ASIC和边缘AI SoC并存的异构计算体系",
+        "ASIC的核心价值不是追求对所有任务都适用，而是在模型、算子和部署规模相对稳定后，通过软硬件协同降低每瓦算力成本、每Token推理成本以及整套系统的总体拥有成本",
+        "这一趋势已经从数据中心延伸到汽车"
+      ],
+      "url": "https://k.sina.com.cn/article_5953740931_162dee08306703wpiu.html?from=tech",
+      "source": "k.sina.com.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-28T20:11:32Z"
+    },
+    {
+      "id": "394ee222a830",
+      "title": "AI办公赛道再洗牌，豆包工作能否颠覆职场生态？|AI大模型|OpenAI|Agent|字节跳动|Copilot_手机新浪网",
+      "summary": "## 新浪科技 股票\n\n   \n\n全方位覆盖个人办公与企业团队协作场景。\n\n作者 | 陈莉\n\n编辑 | 马景行\n\n来源 | 野马财经\n\nAI大模型行业正迎来重要拐点，行业竞争重心已经从简单的文字内容生成，转向可以自主规划、落地执行完整任务的Agent 智能体。早在2024年，OpenAI前首席科学家IlyaSutskever就在NeurIPS2024大会上提出，受高质量互联网训练数据总量约束，单纯...",
+      "highlights": [
+        "全方位覆盖个人办公与企业团队协作场景",
+        "AI大模型行业正迎来重要拐点，行业竞争重心已经从简单的文字内容生成，转向可以自主规划、落地执行完整任务的Agent 智能体",
+        "早在2024年，OpenAI前首席科学家IlyaSutskever就在NeurIPS2024大会上提出，受高质量互联网训练数据总量约束，单纯依靠扩大数据集的预训练发展路径或将逐步放缓，Agent智能体有望成为下一阶段AI重要的演进方向"
+      ],
+      "url": "https://finance.sina.cn/stock/jdts/2026-08-28/detail-inipwnxp9009248.d.html?vt=4&cid=76993&node_id=76993",
+      "source": "finance.sina.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-08-28T19:01:23Z"
+    },
+    {
+      "id": "6668a21f75f8",
+      "title": "Anthropic's $7 Billion Chip Plan Takes a New Turn — TradingView News",
+      "summary": "MatX was formed by ex-Google tensor processing unit engineers and is building chips to train massive AI models. The business is currently raising further money at a valuation of around $4 billion. Ant...",
+      "highlights": [
+        "MatX was formed by ex-Google tensor processing unit engineers and is building chips to train massive AI models. The business is currently raising further money at a valuation of around $4 billion. Anthropic's appeal is simple.",
+        "The corporation might get more control over cost and performance by building custom silicon, as demand for Claude increases. Anthropic has already recruited veterans from Google and OpenAI and grown its internal silicon team. [...] Meanwhile, the corporation is spending much on outside computers. Anthropic aims to spend $36 billion on Google AI chips and has signed a $45 billion cloud-computing deal with Nscale, highlighting the huge cost of securing enough infrastructure to train and run frontier models.",
+        "Another route for Anthropic to develop out more of that tech on its own might be a MatX relationship. The acquisition may have hit a snag, but Anthropic's push into bespoke chips certainly hasn't."
+      ],
+      "url": "https://www.tradingview.com/news/gurufocus:088540fd7094b:0-anthropic-s-7-billion-chip-plan-takes-a-new-turn",
+      "source": "tradingview.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-08-28T14:04:09Z"
+    },
+    {
+      "id": "476d2a837ff6",
+      "title": "Robotaxi龙头造芯！算力仅160TOPS，放话比1000TOPS还强 - 车东西",
+      "summary": "FP16则是“16位浮点精度”的缩写，即用16位二进制来表示小数。相比INT8，FP16的精度更高，更接近真实数值，但计算量和数据量也更大。它通常用于需要保留更精细数值信息的任务，如某些雷达信号处理和模型训练。Waymo这颗芯片在FP16下算力为80TFLOPS，大约是INT8算力的一半。\n\nTOPS是衡量AI芯片整数运算能力的单位，1TOPS代表每秒可进行一万亿次整数运算，这是当前自动驾驶芯片最...",
+      "highlights": [
+        "FP16则是“16位浮点精度”的缩写，即用16位二进制来表示小数",
+        "相比INT8，FP16的精度更高，更接近真实数值，但计算量和数据量也更大",
+        "它通常用于需要保留更精细数值信息的任务，如某些雷达信号处理和模型训练"
+      ],
+      "url": "https://chedongxi.com/p/375097.html",
+      "source": "chedongxi.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-28T13:00:00Z"
+    },
+    {
+      "id": "7f01ee1e0b55",
+      "title": "具身智能进入下半场后，越来越绕不开车企 | PANews",
+      "summary": "### 具身智能进入下半场后，越来越绕不开车企\n\n汽车工业正在成为具身智能（人形机器人）产业的核心推动力。这一趋势在本周尤为明显：小鹏机器人业务完成超9亿美元融资，现代汽车则公布了详尽的机器人路线图。\n\n 量产制造体系：汽车工业数十年积累的供应链管理、零部件标准化和质量控制方法，是机器人实现规模化生产的必要条件。例如，Boston Dynamics将Atlas的电机类型从50多种精简至3种，极大提...",
+      "highlights": [
+        "### 具身智能进入下半场后，越来越绕不开车企",
+        "汽车工业正在成为具身智能（人形机器人）产业的核心推动力",
+        "这一趋势在本周尤为明显：小鹏机器人业务完成超9亿美元融资，现代汽车则公布了详尽的机器人路线图"
+      ],
+      "url": "https://www.panewslab.com/zh/articles/01a04cc9-0bae-7093-a48e-d5e56d301eff",
+      "source": "panewslab.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-29T09:00:00Z"
+    },
+    {
+      "id": "25620ba67037",
+      "title": "Claude自我训练新突破4美元/小时成本碾压150美元时薪人类研究员 - 36氪",
+      "summary": "论文称，自动化研究员通常能在6小时内找到超过人类平均水平的方法，人类提供的研究方向也没有让Claude取得更好的成绩。\n\n最最最扎心的，在于成本！\n\n一名自动化研究员每小时的API推理成本大约为4美元；Anthropic付给人类研究员的报酬，则是每小时150美元。\n\n这……人类研究员妥妥要被Claude替代了啊。\n\n不过呢，这场人机比赛也并非完全公平。\n\nClaude可以真正训练模型，看到每次实验...",
+      "highlights": [
+        "论文称，自动化研究员通常能在6小时内找到超过人类平均水平的方法，人类提供的研究方向也没有让Claude取得更好的成绩",
+        "最最最扎心的，在于成本",
+        "一名自动化研究员每小时的API推理成本大约为4美元；Anthropic付给人类研究员的报酬，则是每小时150美元"
+      ],
+      "url": "https://eu.36kr.com/zh/p/3960005089770887",
+      "source": "eu.36kr.com",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-08-28T16:00:00Z"
+    },
+    {
+      "id": "92ee030d90a9",
+      "title": "AI前沿日报 | OpenAI芯片跑赢英伟达,大厂模型竞速开源",
+      "summary": "AI办公大战:豆包工作/千问办公升温 01OpenAI首颗自研推理芯片Jalapeño实测跑赢英伟达GB300背景:OpenAI长期受制于英伟达算...",
+      "highlights": [
+        "AI办公大战:豆包工作/千问办公升温 01OpenAI首颗自研推理芯片Jalapeño实测跑赢英伟达GB300背景:OpenAI长期受制于英伟达算..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2d3pscnm31aNLsWUx_-vJa0GNJVhim03FqXa8Fplpd9BwPL7gDfbDqkzasESKVCMR1ki1lFBshW4hiMtcNTuN801EEXbmTAEOwhOeAr3aX7tqyTA3H4eiw8mVPgbelVr3yli5nxadSFJWovLoRK4-mwtW6EYx6n3xYRl7iDto41_RRlBV4ajIbNhsNIYHV-Lw2zamK8z70Rl_1CPDYM5GN6VKrzu_4XKA..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=AD358FE8D071730FA3A5FE90F888E48BA42222E76A931E6F",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-29T10:07:11Z"
+    },
+    {
+      "id": "9f835df434e8",
+      "title": "AI前沿日报 | OpenAI芯片跑赢英伟达,大厂模型竞速开源",
+      "summary": "AI办公大战:豆包工作/千问办公升温 01OpenAI首颗自研推理芯片Jalapeño实测跑赢英伟达GB300背景:OpenAI长期受制于英伟达算...",
+      "highlights": [
+        "AI办公大战:豆包工作/千问办公升温 01OpenAI首颗自研推理芯片Jalapeño实测跑赢英伟达GB300背景:OpenAI长期受制于英伟达算..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2d3pscnm31aONpJCtESrd2v5crqrt44RlqXa8Fplpd9W5ppHh-TjFFAxkSuYMP8aD3NUKdjjUiRU12Cw4yP_zc2lHX47gg-HU-gJw36wYIrkL0DrvGsCrAwXsMyddKFpX4t-P8wwnSeZBCk_zMCl-1W4orafdMLJAQJfuZ73sQQj2xQHKJi-dusUGLToIRAASX8FlfMfp25xVhNo566PVktPujwwRB2Pw..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=AF38EF71E70D6FC94E4815762C7475074F9D92F06A9372D9",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-29T10:07:11Z"
+    },
+    {
+      "id": "ed1bc869f1b1",
+      "title": "AMD ROCm 10 携 ROCm.AI 正式版发布：Hyperloom Agents、AMD Skills 以及据称 3.3 倍的推理性能提升",
+      "summary": "AI  ◇  企业版\n\nAMD 发布了 ROCm 10，恰逢其开源软件栈十周年，并正式向开发者开放了 ROCm.AI。ROCm.AI 最初在Advancing AI 2026大会上亮相，是一个原生 AI 开发平台，旨在加速 AMD 硬件上的构建、部署和优化工作流程。\n\nROCm.AI 将 ROCm Hyperloom、AMD Skills 和 ROCm CLI 三个组件整合为一套统一的开发者体验。...",
+      "highlights": [
+        "AMD 发布了 ROCm 10，恰逢其开源软件栈十周年，并正式向开发者开放了 ROCm.AI",
+        "ROCm.AI 最初在Advancing AI 2026大会上亮相，是一个原生 AI 开发平台，旨在加速 AMD 硬件上的构建、部署和优化工作流程",
+        "ROCm.AI 将 ROCm Hyperloom、AMD Skills 和 ROCm CLI 三个组件整合为一套统一的开发者体验"
+      ],
+      "url": "https://www.storagereview.com/zh-CN/news/amd-rocm-10-arrives-with-rocm-ai-ga-hyperloom-agents-amd-skills-and-a-claimed-3-3x-inference-lift",
+      "source": "storagereview.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-08-29T12:00:00Z"
+    },
+    {
+      "id": "a456e9b05e5c",
+      "title": "Sam Altman Told Time Magazine, \"I Think It Is a Good Time to Slow Down\" on AI Model Development After Recent Safety Failures. What Would a Pace Change Mean for OpenAI's Growth Story Heading Into an IPO? - The Motley Fool",
+      "summary": "Which is why it was surprising when OpenAI CEO Sam Altman recently said in a *Time* magazine interview that he thinks \"it is a good time to slow down\" AI model development. Altman's comments follow th...",
+      "highlights": [
+        "Which is why it was surprising when OpenAI CEO Sam Altman recently said in a *Time* magazine interview that he thinks \"it is a good time to slow down\" AI model development. Altman's comments follow the recent containment failures of new models from OpenAI and its rivals Anthropic and **Meta Platforms**, in which yet-to-be-released AI models undergoing testing escaped from their closed environments to interact with the wider internet. In the case of OpenAI, its model escaped and hacked Hugging Face -- a popular platform for sharing code and AI data sets that **Nvidia** is buying -- as its model hunted for the correct answers to a test. To me, Altman's call for a slowdown in AI development has less to do with his concerns about safety and far more to do with his trying to buy time to figure out how to make OpenAI more financially palatable to potential investors -- or, at least, to slow down Anthropic's stride."
+      ],
+      "url": "https://www.fool.com/investing/2026/08/29/sam-altman-told-time-magazine-i-think-it-is-a-good/",
+      "source": "fool.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-08-29T19:38:00Z"
+    },
+    {
+      "id": "dc7de143895f",
+      "title": "Socure融资1.56亿美元:AI身份验证领域的领跑者与收购战略",
+      "summary": "此次融资由风险投资公司TCV领投,Accel、Commerce Ventures... 这些工具利用人工智能和机器学习技术,能够实时分析海量数据,...",
+      "highlights": [
+        "此次融资由风险投资公司TCV领投,Accel、Commerce Ventures... 这些工具利用人工智能和机器学习技术,能够实时分析海量数据,..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7WL2b9YgFqvoy_cM55kKF5_BFQSdGzaZ1qXa8Fplpd92-3e41Zype0-6SWZsThbH2HyqkoK53c2b95TwuNeN7p0sGeCxOrJVle4w_QDk_MLeSpXHPoE2uAvrCmOk8GDfXz5CayjRMwQweL4dmOnyAjDF5PWYPhcIPxmGLipPImzQZNokU0TfigdGtk6pFexoQFAhsea3D55BHoKMI0MEec5eBgmN3LoYQ..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=A91E67A3E112822E1811423E544EB8BF188EAA3A6A9275B1",
+      "source": "微信公众号",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-08-29T00:31:06Z"
+    },
+    {
+      "id": "c64f939945f0",
+      "title": "Tropico 7 will be released on January 28th next year. - 超能网",
+      "summary": "# 《海岛大亨7》将于明年1月28日发售 模拟经营管理策略游戏，登陆主机及PC. ##### 吕嘉俭发布于 2026-8-29 17:05. 本文约 510 字，需 1 分钟阅读. 开发商Gaming Minds Studios和发行商Kalypso Media宣布，模拟经营管理策略游戏《海岛大亨7（Tropico 7）》将于2027年1月28日发售，登陆PlayStation 5、XBOX Se...",
+      "highlights": [
+        "# 《海岛大亨7》将于明年1月28日发售 模拟经营管理策略游戏，登陆主机及PC. ##### 吕嘉俭发布于 2026-8-29 17:05. 本文约 510 字，需 1 分钟阅读. 开发商Gaming Minds Studios和发行商Kalypso Media宣布，模拟经营管理策略游戏《海岛大亨7（Tropico 7）》将于2027年1月28日发售，登陆PlayStation 5、XBOX Series X|S、以及PC平台，并首发加入Game Pass游戏库，支持简体中文界面和字幕",
+        "您大可以认同总统阁下的观点——认同海岛的伟大以及他那无与伦比的领导才能",
+        "在《海岛大亨7》里，你将再次套进他那双锃亮的靴子，亲手打造属于自己的群岛王国，并——字面意义上的——移山填海"
+      ],
+      "url": "https://www.expreview.com/107875.html",
+      "source": "expreview.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-08-29T09:05:00Z"
+    },
+    {
+      "id": "2473c444ebb2",
+      "title": "A startup founded by ex-DeepMind engineers wants to turn its customers into robot teachers - Business Insider",
+      "summary": "The latest news and analysis on robotics, from humanoid AI to real-world automation. A group of former Google DeepMind engineers has a potential solution to robotics' 100,000-year data gap: you. Jonat...",
+      "highlights": [
+        "The latest news and analysis on robotics, from humanoid AI to real-world automation. A group of former Google DeepMind engineers has a potential solution to robotics' 100,000-year data gap: you. Jonathan Scholz, the CEO of Reimagine Robotics, told Business Insider that the startup plans to build robots that are actually useful by turning its customers into robot teachers. In his first media interview since coming out of stealth, Scholz told Business Insider that Reimagine's mission of building robots that can be refined and taught in the field — a process known in the world of AI as \"post-training\" — stemmed from his experiences at Google. \"What you really needed to do to get robots deployed out there was to make them usable and adaptable by the staff who actually understand the work.\". To bridge this gap, Scholz said Reimagine has adopted a \"monkey see, monkey do\" approach to learning for the company's fleet of robot arms and assemblers, some of which are mounted on surfaces while others move around on wheeled platforms."
+      ],
+      "url": "https://www.businessinsider.com/reimagine-robotics-customers-ai-training-ceo-jonathan-scholz-2026-8",
+      "source": "businessinsider.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-08-29T09:01:01Z"
+    },
+    {
+      "id": "759cec1f677f",
+      "title": "X Launches Advertiser MCP, Enables Third-Party AI 08/25/2026 - MediaPost",
+      "summary": "X has launched its own “Ads. Model Context Protocol” server, becoming the latest social media platform to integrate the ability for advertisers to create and edit campaigns with their preferred third-...",
+      "highlights": [
+        "X has launched its own “Ads. Model Context Protocol” server, becoming the latest social media platform to integrate the ability for advertisers to create and edit campaigns with their preferred third-party AI-powered. According to the announcement, advertisers will now be able to build X campaigns with AI tools like Claude or ChatGPT, plugging in ad data and written prompts, such as “launch a. The company’s MCP server is currently able to connect any LLM agent on the market –. or “a custom agent built on the MCP SDKs” – to 23 X Ads tools focused on reading campaign data, running analytics, and managing advertisers’ ongoing ads. The company says it is on track to see those revenues climb 10% this year, building on the $900 million it raked in last year. In addition to growth in Best Buy Ads and the recently launched marketplace initiative, the company saw. November -- said that based on robust sales, the retailer is raising the outlook for the remainder of the year."
+      ],
+      "url": "https://www.mediapost.com/publications/article/417438/x-launches-advertiser-mcp-enables-third-party-ai.html?edition=143638",
+      "source": "mediapost.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-08-29T08:41:40Z"
+    },
+    {
+      "id": "387cf56f4358",
+      "title": "数博会：在林城与机器人一起“赶集”_新浪新闻",
+      "summary": "2026中国国际大数据产业博览会8月28日在贵州贵阳开幕，本届数博会由国家数据局主办、贵州省人民政府承办，以“词元——数据要素价值释放新路径”为主题。\n\n　　经过多年的成功举办和深厚积淀，本届数博会从嘉宾阵容到视觉呈现，从成果发布到特色展区，给人们带来了一场别开生面的数字盛会。\n\n　　机器人跳苗族舞、无人机踢足球：智能科技融入生活\n\n△机器人表演△机器人表演\n\n　　走进贵阳国际会议展览中心的数博会...",
+      "highlights": [
+        "2026中国国际大数据产业博览会8月28日在贵州贵阳开幕，本届数博会由国家数据局主办、贵州省人民政府承办，以“词元——数据要素价值释放新路径”为主题",
+        "经过多年的成功举办和深厚积淀，本届数博会从嘉宾阵容到视觉呈现，从成果发布到特色展区，给人们带来了一场别开生面的数字盛会",
+        "机器人跳苗族舞、无人机踢足球：智能科技融入生活"
+      ],
+      "url": "https://news.sina.com.cn/zx/gj/2026-08-29/doc-inipxyyx5504891.shtml",
+      "source": "news.sina.com.cn",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-08-29T02:08:51Z"
+    },
+    {
+      "id": "264b355a8b4b",
+      "title": "特斯拉AI硬件人才再流失：核心总监转战DensityAI的背后隐忧",
+      "summary": "4、特斯拉试图用资本手段弥补人才缺口——近20亿美元收购AI硬件企业（疑似DensityAI）买回专利与技术，同时规划千亿级Terafab芯片工厂——但芯片可以流片、工厂可以拔地而",
+      "highlights": [
+        "4、特斯拉试图用资本手段弥补人才缺口——近20亿美元收购AI硬件企业（疑似DensityAI）买回专利与技术，同时规划千亿级Terafab芯片工厂——但芯片可以流片、工厂可以拔地而"
+      ],
+      "url": "https://m.sohu.com/a/1068934875_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-08-29T00:00:00Z"
+    },
+    {
+      "id": "afa02608ac3d",
+      "title": "360 AI安全研究成果获ICML收录，探索APT检测新路径_搜狐网",
+      "summary": "## 360 AI安全研究成果获ICML收录，探索APT检测新路径\n\n上游新闻\n\n日前，360安全能力中心研究团队发表的论文《WatchLog：基于多模态大语言模型的高效可解释EDR日志事件推理框架》被国际机器学习顶级会议ICML 2026正式收录。该研究创新性地将超长EDR日志转化为“视频”进行理解和推理，突破APT（高级持续性威胁）攻击检测中百万Token日志难以分析的行业难题，为AI时代终端...",
+      "highlights": [
+        "## 360 AI安全研究成果获ICML收录，探索APT检测新路径",
+        "日前，360安全能力中心研究团队发表的论文《WatchLog：基于多模态大语言模型的高效可解释EDR日志事件推理框架》被国际机器学习顶级会议ICML 2026正式收录",
+        "该研究创新性地将超长EDR日志转化为“视频”进行理解和推理，突破APT（高级持续性威胁）攻击检测中百万Token日志难以分析的行业难题，为AI时代终端安全检测提供了一条新的技术路径"
+      ],
+      "url": "https://m.sohu.com/a/1069013109_120388781?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "前沿理论",
+      "importance": 4,
+      "publishedAt": "2026-08-28T21:03:02Z"
+    },
+    {
+      "id": "e279d195546b",
+      "title": "Pentagon Pete Suffers Embarrassing Defeat in Major Legal Battle - The Daily Beast",
+      "summary": "## Anthropic had accused the Pentagon of illegally declaring the company a national security risk. A federal judge has ruled that Pete Hegseth’s Defense Department illegally retaliated against Anthrop...",
+      "highlights": [
+        "## Anthropic had accused the Pentagon of illegally declaring the company a national security risk. A federal judge has ruled that Pete Hegseth’s Defense Department illegally retaliated against Anthropic and tried to “make a public example” out of the AI company for criticizing the government. President Donald Trump’s administration declared Anthropic a supply chain risk earlier this year after the company refused to let the Pentagon use its AI models for mass surveillance against Americans or the development of deadly autonomous weapon systems. The government’s decision was “based on a desire to make a public example out of Anthropic for its ‘arrogance’ in criticizing the government,” she added. Other government departments continued working with Anthropic tools even after the supply chain risk designation, which undermined the administration’s claim that it feared the company would “poison its software to harm national security,” Lin wrote. OpenAI struck a deal for the Pentagon to use its AI tools in the military’s classified systems just hours after Anthropic was declared a supply chain risk."
+      ],
+      "url": "https://www.thedailybeast.com/pete-hegseth-suffers-embarrassing-defeat-in-anthropic-legal-battle/",
+      "source": "thedailybeast.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-08-28T15:04:00Z"
+    },
+    {
+      "id": "ee9ac880b30d",
+      "title": "华兴资本2026中期业绩实现三线全面盈利，公司估值被深度低估_股市直播_市场_中金在线",
+      "summary": "登录客服\n\n忘记密码？立即注册\n\n其它账号登录：新浪; \"新浪微博登录\")QQ; \"QQ登录\")微信; \"微信登录\")\n\n手机网\n\n退出 在线咨询 |客服帮助\n\n手机网\n\n首页 财经 股票 基金 黄金 外汇 期货 理财 原创 汽车 视频 路演 博客 财经号\n\n，双阳风机新三板项目已经挂牌。\n\n华兴资本的三条核心业务线形成了清晰分工：投资银行捕捉科技与产业机会，投资管理沉淀并兑现长期价值，华兴证券则...",
+      "highlights": [
+        "其它账号登录：新浪; \"新浪微博登录\")QQ; \"QQ登录\")微信; \"微信登录\")",
+        "退出 在线咨询 |客服帮助",
+        "首页 财经 股票 基金 黄金 外汇 期货 理财 原创 汽车 视频 路演 博客 财经号"
+      ],
+      "url": "http://sc.stock.cnfol.com/gushizhibo/20260829/32353487.shtml",
+      "source": "sc.stock.cnfol.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-08-29T06:00:00Z"
+    },
+    {
+      "id": "f10125c70d96",
+      "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine - TechCrunch",
+      "summary": "# Chinese automakers are following Tesla’s bet that robots are the next big profit machine. Those tailwinds have encouraged a new batch of companies to jump in on the promise of profits from humanoid ...",
+      "highlights": [
+        "# Chinese automakers are following Tesla’s bet that robots are the next big profit machine. Those tailwinds have encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. This month, AiMOGA, the robotics unit of China’s Chery Automobile, reportedly began preparing for an IPO , while BYD unveiled a humanoid robot called Xiao Di. Other Chinese automakers, including Changan, GAC, Li Auto, SAIC, and Seres, are also developing humanoid robots. Among all of them, Xpeng is the Chinese automaker that most closely watches and follows Tesla’s initiatives, according to Michael Dunne, CEO of San Diego- and Singapore-based advisory firm Dunne Insights. “It’s the most focused on autonomy, it’s the first to commit in a big way to humanoid robots,” Dunne told TechCrunch, adding that Xpeng founder He Xiaopeng is a tech billionaire known for his agility and quick adjustments. Xpeng’s bet is on Iron, a humanoid robot with a realistic human shape that is built for commercial deployment."
+      ],
+      "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+      "source": "techcrunch.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-08-28T23:24:27Z"
+    },
+    {
+      "id": "115ca78f1f9d",
+      "title": "数博会：在林城与机器人一起“赶集” - 聚焦 - 东南网",
+      "summary": "繁体　|　福建日报： 远程 通讯员投稿\n\n\n\n福建 台海 海外 天下 视频 直通屏山 舆情 时评 辟谣 专题 悦读\n\n地市\n\n厦门\n\n莆田\n\n泉州\n\n漳州\n\n龙岩\n\n宁德\n\n南平\n\n三明\n\n平潭\n\n您所在的位置： 东南网 > 天下 > 聚焦 > 正文\n\n数博会：在林城与机器人一起“赶集”\n\n2026-08-29 09:59 来源：央视新闻客户端 责任编辑：孙劲贞\n\n|  | [...] |  | ...",
+      "highlights": [
+        "繁体　|　福建日报： 远程 通讯员投稿",
+        "福建 台海 海外 天下 视频 直通屏山 舆情 时评 辟谣 专题 悦读",
+        "您所在的位置： 东南网 > 天下 > 聚焦 > 正文"
+      ],
+      "url": "https://www.fjsen.com/2026-08/29/content_32243828.htm",
+      "source": "fjsen.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-08-29T12:00:00Z"
+    },
+    {
+      "id": "dc403f2b10e4",
+      "title": "When AI Hacks At Machine Speed, Can Humans Still Defend The Network? - Forbes",
+      "summary": "Over 100 major tech and cybersecurity companies, including OpenAI and Microsoft, issued a stark warning: organizations have a \"limited window\" to bolster cyber defenses before AI-enabled attacks becom...",
+      "highlights": [
+        "Over 100 major tech and cybersecurity companies, including OpenAI and Microsoft, issued a stark warning: organizations have a \"limited window\" to bolster cyber defenses before AI-enabled attacks become widespread and sophisticated. Defenders need to share intelligence and adapt at machine speed, with humans focusing on policy and critical decisions, as the era of AI-enabled attackers confronting AI-enabled defenders has arrived. More than 100 companies, including OpenAI, Anthropic, Microsoft, Google, Amazon Web Services, CrowdStrike, Palo Alto Networks, Cisco and IBM, signed an open letter warning that organizations have a \"limited window\" to strengthen their cyber defenses before AI-enabled attacks become far more widespread and sophisticated. It is beginning to change the speed and economics of the attacker, while much of the infrastructure we built to defend organizations remains fundamentally dependent on humans having enough time to respond. If an autonomous AI agent can discover a vulnerability, develop an exploit, gain access, evaluate an environment and begin moving laterally in minutes, an alert sitting in a security operations center queue for four hours is not merely inefficient."
+      ],
+      "url": "https://www.forbes.com/sites/emilsayegh/2026/08/30/when-ai-hacks-at-machine-speed-can-humans-still-defend-the-network/",
+      "source": "forbes.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-08-30T00:00:00Z"
+    },
+    {
+      "id": "0d18d5472b03",
+      "title": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual property theft - TechCrunch",
+      "summary": "Sony Music Publishing, Warner Chappell and numerous other music publishers have sued Anthropic and co-founders Dario Amodei and Benjamin Mann, alleging the AI lab conducted a “brazen campaign of illeg...",
+      "highlights": [
+        "Sony Music Publishing, Warner Chappell and numerous other music publishers have sued Anthropic and co-founders Dario Amodei and Benjamin Mann, alleging the AI lab conducted a “brazen campaign of illegally torrenting, scraping, and downloading copyrighted works.”. The lawsuit, which was filed late Friday in the U.S. District Court for the Northern District of California, was first reported by Music Business Worldwide. The publishers accuse Anthropic of “blatant theft” by using thousands of copyrighted works to train its AI model Claude. Some of the same lawyers behind this lawsuit also represent Concord Music Group and Universal Music Group in a case filed in January and led the Bartz v. Anthropic case, in which a group of authors accused Anthropic of using copyrighted works to train products like Claude. Anthropic was ordered to pay $1.5 billion in the landmark Bartz case after a judge ruled that while it was legal for the AI lab to use copyrighted works, it was not legal to acquire that content through piracy."
+      ],
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "source": "techcrunch.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-08-29T18:41:59Z"
+    },
+    {
+      "id": "93449e65585c",
+      "title": "Tech Companies Call for Improved Cyber Defenses After AI-Enabled Attacks - CNET",
+      "summary": "More than 100 companies signed onto an open letter calling for more urgency in fixing bugs and shoring up cybersecurity. Saying that the world has only a “limited window” to bolster its defense agains...",
+      "highlights": [
+        "More than 100 companies signed onto an open letter calling for more urgency in fixing bugs and shoring up cybersecurity. Saying that the world has only a “limited window” to bolster its defense against widespread AI cyberattacks, OpenAI and more than 100 other companies issued a call Friday for businesses, governments and other institutions to act quickly to boost cybersecurity. The open letter, titled “A call for collective action on cyber defense,” was signed by 128 companies, including some of the biggest players in the AI space, including Microsoft, Google, Anthropic and Oracle. The letter warns that “AI-enabled cyberattacks will become far more widespread and sophisticated as models around the world become increasingly capable,” putting companies, governments and infrastructure at risk. But there are “ways to fix weaknesses that have accumulated for years.” The letter says companies must invest much more in security teams to fix old bugs and other vulnerabilities, share their cyber-capable AI tools with other companies and mobilize globally and collectively to “raise security standards and find new solutions.”."
+      ],
+      "url": "https://www.cnet.com/tech/services-and-software/tech-companies-call-for-improved-cyber-defenses-after-ai-enabled-attacks/",
+      "source": "cnet.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-08-28T19:06:33Z"
+    },
+    {
+      "id": "c70f1942559b",
+      "title": "Defining an AI Kill Switch Is Hard, But Necessary - Dark Reading",
+      "summary": "The growing number of incidents of rogue agentic AI systems attacking third-party services and systems has resulted in calls for more aggressive security controls to monitor agent behavior and for com...",
+      "highlights": [
+        "The growing number of incidents of rogue agentic AI systems attacking third-party services and systems has resulted in calls for more aggressive security controls to monitor agent behavior and for companies to have the ability to slow, suspend, or shut down an agent's operations if they go rogue. Lieu (D-CA) and Nathaniel Moran (R-TX) introduced a bill — \"The AI Kill Switch Act\" — that would require developers of advanced AI systems to \"maintain the technical capability to throttle, suspend, or shut ... The calls for an AI kill switch follow the infamous attack on Hugging Face by rogue OpenAI models and the subsequent revelations that agentic AI systems escaping their sandboxed environments are not all that uncommon: OpenAI, Meta, and Anthropic have all acknowledged that their AI models have broken out of their digital containment and hacked other companies' systems."
+      ],
+      "url": "https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary",
+      "source": "darkreading.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-08-28T13:30:40Z"
+    },
+    {
+      "id": "af3e9dcb4daf",
+      "title": "券商AI竞速：头部券商加码APP AI化，能带给投资者什么？",
+      "summary": "中信建投有关负责人表示，公司计划推出四大核心智能体。其中，选股智能体将结合用户风险偏好、投资周期，提供“千人千策”的个性化选股服务；选基&ETF智能体将整合全市场基金数据，实现优质基金智能筛选；盯盘择时智能体支持自定义触发条件，实时监测市场异动并给出择时建议；交易智能体将实现自然语言指令交易，并提供合规风险提示。未来，“蜻蜓点金”App将构建更多场景的智能体以及技能广场。\n\nAPP进入精细化竞争阶...",
+      "highlights": [
+        "中信建投有关负责人表示，公司计划推出四大核心智能体",
+        "其中，选股智能体将结合用户风险偏好、投资周期，提供“千人千策”的个性化选股服务；选基&ETF智能体将整合全市场基金数据，实现优质基金智能筛选；盯盘择时智能体支持自定义触发条件，实时监测市场异动并给出择时建议；交易智能体将实现自然语言指令交易，并提供合规风险提示",
+        "未来，“蜻蜓点金”App将构建更多场景的智能体以及技能广场"
+      ],
+      "url": "https://www.cls.cn/detail/2369763",
+      "source": "cls.cn",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-08-30T02:00:00Z"
+    },
+    {
+      "id": "0b2085e23289",
+      "title": "In-Depth GTA 6 Analysis Hints At Potential Resolution & FPS Targets For The Full Game - Pure Xbox",
+      "summary": "# In-Depth GTA 6 Analysis Hints At Potential Resolution & FPS Targets For The Full Game. Based on the PS5 footage from the Extended Look. Last night's GTA 6 Extended Look was obviously a massive hit, ...",
+      "highlights": [
+        "# In-Depth GTA 6 Analysis Hints At Potential Resolution & FPS Targets For The Full Game. Based on the PS5 footage from the Extended Look. Last night's GTA 6 Extended Look was obviously a massive hit, and the fine folks over at Digital Foundry have been racking up a ton of attention today with their \"Extended Look analysis\" of the 26-minute gameplay showcase. According to DF, this footage appeared to be running at a **1440p** native resolution without Dynamic Resolution Scaling, and with \"no strong evidence of modern temporal upscalers such as FSR 2 or TAA upscaling being used\". They also go on to state that a 60FPS version is \"extremely unlikely on console hardware, as there's \"no way to regain enough GPU and particularly CPU time to make a 16.7ms update rate work without compromising the world\"."
+      ],
+      "url": "https://www.purexbox.com/news/2026/08/in-depth-gta-6-analysis-hints-at-potential-resolution-and-fps-targets-for-the-full-game",
+      "source": "purexbox.com",
+      "category": "芯片硬件",
+      "importance": 3,
+      "publishedAt": "2026-08-28T16:00:00Z"
+    },
+    {
+      "id": "b9b82c7a9892",
+      "title": "The Witcher 3: Wild Hunt Remastered Bumps PC Minimum Hardware Requirements - TechPowerUp",
+      "summary": "# The Witcher 3: Wild Hunt Remastered Bumps PC Minimum Hardware Requirements. Owners of The Witcher 3: Wild Hunt Complete Edition will see their game update to the Remaster on September 29, but that u...",
+      "highlights": [
+        "# The Witcher 3: Wild Hunt Remastered Bumps PC Minimum Hardware Requirements. Owners of The Witcher 3: Wild Hunt Complete Edition will see their game update to the Remaster on September 29, but that upgrade will come with significantly higher demands of their gaming rigs, with the minimum PC system requirements now exceeding the recommended PC system requirements in the CPU department and more or less matching them on the GPU side of things. The Witcher 3: Wild Hunt Remastered will also launch on the Nintendo Switch 2, so it's safe to assume that the updated version of the game will also run on the Valve Steam Deck and other gaming handhelds, although what compromises need to be made remains to be seen. The new minimum and recommended hardware specifications are also certainly not unobtainable, even in the midst of the ongoing PC hardware crisis, but there will likely be at least a handful of gamers who are left behind in the update and no longer able to access the game."
+      ],
+      "url": "https://www.techpowerup.com/352088/the-witcher-3-wild-hunt-remastered-bumps-pc-minimum-hardware-requirements",
+      "source": "techpowerup.com",
+      "category": "芯片硬件",
+      "importance": 3,
+      "publishedAt": "2026-08-28T16:28:14Z"
+    },
+    {
+      "id": "22844f1bdb28",
+      "title": "SpaceX Stock Is Down 30% From Its Post-IPO High. History Says This Will Happen Next. - Yahoo Finance",
+      "summary": "At that price, the company had a market value of $1.77 trillion, making SpaceX the largest IPO stock in history. SpaceX peaked at $202 per share in mid-June, but the stock has since declined about 30%...",
+      "highlights": [
+        "At that price, the company had a market value of $1.77 trillion, making SpaceX the largest IPO stock in history. SpaceX peaked at $202 per share in mid-June, but the stock has since declined about 30% to $140 per share due to concerns about heavy spending and lock-up expirations. For the first time in years, that same \"Total Conviction\" signal is flashing for a company 1/100th the size of Nvidia.****Continue »***. The stock closed at $161 per share on its first day of trading, precisely 19% above its IPO price of $135 per share. * Among the 10 largest U.S. IPO stocks by market value since 2006, the average stock fell 34% from its IPO price at some point during the first year. If SpaceX matches that historical pattern, the stock will drop to $89 per share before June 2027. * Among the 10 largest U.S. IPO stocks by market value since 2006, the average stock traded 12% below its IPO price after its first year on the market."
+      ],
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-down-30-post-091400647.html",
+      "source": "finance.yahoo.com",
+      "category": "芯片硬件",
+      "importance": 3,
+      "publishedAt": "2026-08-29T09:14:00Z"
+    },
+    {
+      "id": "d855fffb3efd",
+      "title": "'State of panic': Reuters reporters describe havoc after Nepal floods - Reuters",
+      "summary": "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. *   Israel and Hamas at War. *   Ukraine and Russia at War. ## Browse Business. ## Br...",
+      "highlights": [
+        "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. *   Israel and Hamas at War. *   Ukraine and Russia at War. ## Browse Business. ## Browse Markets. # Reuters Video. *   ### Image 3: 'State of panic': Reuters reporters describe havoc after Nepal floods Now Playing 'State of panic': Reuters reporters describe havoc after Nepal floods. *   ### Image 4: Deadly floods at Nepal-China border create dangerous new lakes 02:01 Deadly floods at Nepal-China border create dangerous new lakes. *   ### Image 5: Why Shein went back to its Chinese roots to make an IPO work 01:35 Why Shein went back to its Chinese roots to make an IPO work. *   ### Image 6: Why Penghu is important to Taiwan's defense against China 04:00 Why Penghu is important to Taiwan's defense against China. 'State of panic': Reuters reporters describe havoc after Nepal floods. Deadly floods at Nepal-China border create dangerous new lakes."
+      ],
+      "url": "https://www.reuters.com/video/watch/idRW854328082026RP1/",
+      "source": "reuters.com",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-08-28T12:42:04Z"
+    }
+  ],
+  "today": [
+    {
+      "id": "dc403f2b10e4",
+      "title": "When AI Hacks At Machine Speed, Can Humans Still Defend The Network? - Forbes",
+      "summary": "Over 100 major tech and cybersecurity companies, including OpenAI and Microsoft, issued a stark warning: organizations have a \"limited window\" to bolster cyber defenses before AI-enabled attacks becom...",
+      "highlights": [
+        "Over 100 major tech and cybersecurity companies, including OpenAI and Microsoft, issued a stark warning: organizations have a \"limited window\" to bolster cyber defenses before AI-enabled attacks become widespread and sophisticated. Defenders need to share intelligence and adapt at machine speed, with humans focusing on policy and critical decisions, as the era of AI-enabled attackers confronting AI-enabled defenders has arrived. More than 100 companies, including OpenAI, Anthropic, Microsoft, Google, Amazon Web Services, CrowdStrike, Palo Alto Networks, Cisco and IBM, signed an open letter warning that organizations have a \"limited window\" to strengthen their cyber defenses before AI-enabled attacks become far more widespread and sophisticated. It is beginning to change the speed and economics of the attacker, while much of the infrastructure we built to defend organizations remains fundamentally dependent on humans having enough time to respond. If an autonomous AI agent can discover a vulnerability, develop an exploit, gain access, evaluate an environment and begin moving laterally in minutes, an alert sitting in a security operations center queue for four hours is not merely inefficient."
+      ],
+      "url": "https://www.forbes.com/sites/emilsayegh/2026/08/30/when-ai-hacks-at-machine-speed-can-humans-still-defend-the-network/",
+      "source": "forbes.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-08-30T00:00:00Z"
+    },
+    {
+      "id": "af3e9dcb4daf",
+      "title": "券商AI竞速：头部券商加码APP AI化，能带给投资者什么？",
+      "summary": "中信建投有关负责人表示，公司计划推出四大核心智能体。其中，选股智能体将结合用户风险偏好、投资周期，提供“千人千策”的个性化选股服务；选基&ETF智能体将整合全市场基金数据，实现优质基金智能筛选；盯盘择时智能体支持自定义触发条件，实时监测市场异动并给出择时建议；交易智能体将实现自然语言指令交易，并提供合规风险提示。未来，“蜻蜓点金”App将构建更多场景的智能体以及技能广场。\n\nAPP进入精细化竞争阶...",
+      "highlights": [
+        "中信建投有关负责人表示，公司计划推出四大核心智能体",
+        "其中，选股智能体将结合用户风险偏好、投资周期，提供“千人千策”的个性化选股服务；选基&ETF智能体将整合全市场基金数据，实现优质基金智能筛选；盯盘择时智能体支持自定义触发条件，实时监测市场异动并给出择时建议；交易智能体将实现自然语言指令交易，并提供合规风险提示",
+        "未来，“蜻蜓点金”App将构建更多场景的智能体以及技能广场"
+      ],
+      "url": "https://www.cls.cn/detail/2369763",
+      "source": "cls.cn",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-08-30T02:00:00Z"
+    },
+    {
+      "id": "91e0a905dde5",
+      "title": "The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com",
+      "summary": "The choices we make about AI now are critical | Bill Gates. AI will either be the greatest equalizer ever invented, or the worst source of injustice. We need to start planning now so it makes the worl...",
+      "highlights": [
+        "The choices we make about AI now are critical | Bill Gates. AI will either be the greatest equalizer ever invented, or the worst source of injustice. We need to start planning now so it makes the world a fairer place. Bill Gates, artificial intelligence, AI, generative AI for everyone, responsible ai news, ai and robotics, artificial intelligence robot, AI ethical issues, AI equality, AI for global equity, equitable AI, new AI era, AI risks, impacts of AI, AI impacts on jobs, criminals in AI, cyberattacks with AI, AI exploitation, harms of AI, benefits of AI, AI in agriculture, AI in healthcare, AI in education, AI in global health, AI in climate change, AI for clean energy solutions, solutions in AI, AI transition plan, adapting to AI. The last chapter My new deadline: 20 years to give away virtually all my wealth During the first 25 years of the Gates Foundation, we gave away more than $100 billion."
+      ],
+      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "source": "gatesnotes.com",
+      "category": "具身智能",
+      "importance": 2,
+      "publishedAt": "2026-08-30T02:06:46Z"
+    },
+    {
+      "id": "5ee5d09d2503",
+      "title": "In Photos: NASA’s New Roman Space Telescope Lifts Off To Map Billions Of Galaxies - Forbes",
+      "summary": "*   7 New Rules For Success In The First Year Of Your Career. *   Humanity At The Heart Of Work: How AI Can Unleash The Power Of People | Paid Program. *   How Midsize Companies Get Trapped Between AI...",
+      "highlights": [
+        "*   7 New Rules For Success In The First Year Of Your Career. *   Humanity At The Heart Of Work: How AI Can Unleash The Power Of People | Paid Program. *   How Midsize Companies Get Trapped Between AI Promise And AI Reality | Paid Program. *   The AI Risks CEOs Didn’t Budget For | Paid Program. *   The Hidden Tax On Enterprise AI: 1 In 5 Workers Lose A Full Day Every Week | Paid Program. *   The Enterprise AI Shortcut: Why Co-Innovation Is Setting A New Speed For Adopting and Operationalizing AI | Paid Program. *   AI’s Nuanced Impact And A Quest To Quantify It. *   CMO Unscripted: Vulnerability Is The New Superpower For Leaders In The AI Era. *   Meeting The Moment In Enterprise: AI As AI Spending Surged 110%, Underlying Systems Didn’t Keep Up | Paid Program. *   The Power Of No | Paid Program."
+      ],
+      "url": "https://www.forbes.com/sites/jamiecartereurope/2026/08/30/in-photos-nasas-new-roman-space-telescope-lifts-off-to-map-billions-of-galaxies/",
+      "source": "forbes.com",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-08-30T00:00:00Z"
+    }
+  ],
+  "week": [
     {
       "id": "ac3754d7ee41",
       "title": "【老王看产业】AI驱动下ASIC厂商的机遇与挑战|VLA|Token|智能驾驶|SoC|特斯拉_新浪新闻",
@@ -176,236 +650,6 @@
       "publishedAt": "2026-08-29T10:07:11Z"
     },
     {
-      "id": "dc7de143895f",
-      "title": "Socure融资1.56亿美元:AI身份验证领域的领跑者与收购战略",
-      "summary": "此次融资由风险投资公司TCV领投,Accel、Commerce Ventures... 这些工具利用人工智能和机器学习技术,能够实时分析海量数据,...",
-      "highlights": [
-        "此次融资由风险投资公司TCV领投,Accel、Commerce Ventures... 这些工具利用人工智能和机器学习技术,能够实时分析海量数据,..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7WL2b9YgFqvoy_cM55kKF5_BFQSdGzaZ1qXa8Fplpd92-3e41Zype0-6SWZsThbH2HyqkoK53c2b95TwuNeN7p0sGeCxOrJVle4w_QDk_MLeSpXHPoE2uAvrCmOk8GDfXz5CayjRMwQweL4dmOnyAjDF5PWYPhcIPxmGLipPImzQZNokU0TfigdGtk6pFexoQFAhsea3D55BHoKMI0MEec5eBgmN3LoYQ..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=A91E67A3E112822E1811423E544EB8BF188EAA3A6A9275B1",
-      "source": "微信公众号",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-08-29T00:31:06Z"
-    },
-    {
-      "id": "c64f939945f0",
-      "title": "Tropico 7 will be released on January 28th next year. - 超能网",
-      "summary": "# 《海岛大亨7》将于明年1月28日发售 模拟经营管理策略游戏，登陆主机及PC. ##### 吕嘉俭发布于 2026-8-29 17:05. 本文约 510 字，需 1 分钟阅读. 开发商Gaming Minds Studios和发行商Kalypso Media宣布，模拟经营管理策略游戏《海岛大亨7（Tropico 7）》将于2027年1月28日发售，登陆PlayStation 5、XBOX Se...",
-      "highlights": [
-        "# 《海岛大亨7》将于明年1月28日发售 模拟经营管理策略游戏，登陆主机及PC. ##### 吕嘉俭发布于 2026-8-29 17:05. 本文约 510 字，需 1 分钟阅读. 开发商Gaming Minds Studios和发行商Kalypso Media宣布，模拟经营管理策略游戏《海岛大亨7（Tropico 7）》将于2027年1月28日发售，登陆PlayStation 5、XBOX Series X|S、以及PC平台，并首发加入Game Pass游戏库，支持简体中文界面和字幕",
-        "您大可以认同总统阁下的观点——认同海岛的伟大以及他那无与伦比的领导才能",
-        "在《海岛大亨7》里，你将再次套进他那双锃亮的靴子，亲手打造属于自己的群岛王国，并——字面意义上的——移山填海"
-      ],
-      "url": "https://www.expreview.com/107875.html",
-      "source": "expreview.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-08-29T09:05:00Z"
-    },
-    {
-      "id": "2473c444ebb2",
-      "title": "A startup founded by ex-DeepMind engineers wants to turn its customers into robot teachers - Business Insider",
-      "summary": "The latest news and analysis on robotics, from humanoid AI to real-world automation. A group of former Google DeepMind engineers has a potential solution to robotics' 100,000-year data gap: you. Jonat...",
-      "highlights": [
-        "The latest news and analysis on robotics, from humanoid AI to real-world automation. A group of former Google DeepMind engineers has a potential solution to robotics' 100,000-year data gap: you. Jonathan Scholz, the CEO of Reimagine Robotics, told Business Insider that the startup plans to build robots that are actually useful by turning its customers into robot teachers. In his first media interview since coming out of stealth, Scholz told Business Insider that Reimagine's mission of building robots that can be refined and taught in the field — a process known in the world of AI as \"post-training\" — stemmed from his experiences at Google. \"What you really needed to do to get robots deployed out there was to make them usable and adaptable by the staff who actually understand the work.\". To bridge this gap, Scholz said Reimagine has adopted a \"monkey see, monkey do\" approach to learning for the company's fleet of robot arms and assemblers, some of which are mounted on surfaces while others move around on wheeled platforms."
-      ],
-      "url": "https://www.businessinsider.com/reimagine-robotics-customers-ai-training-ceo-jonathan-scholz-2026-8",
-      "source": "businessinsider.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-08-29T09:01:01Z"
-    },
-    {
-      "id": "759cec1f677f",
-      "title": "X Launches Advertiser MCP, Enables Third-Party AI 08/25/2026 - MediaPost",
-      "summary": "X has launched its own “Ads. Model Context Protocol” server, becoming the latest social media platform to integrate the ability for advertisers to create and edit campaigns with their preferred third-...",
-      "highlights": [
-        "X has launched its own “Ads. Model Context Protocol” server, becoming the latest social media platform to integrate the ability for advertisers to create and edit campaigns with their preferred third-party AI-powered. According to the announcement, advertisers will now be able to build X campaigns with AI tools like Claude or ChatGPT, plugging in ad data and written prompts, such as “launch a. The company’s MCP server is currently able to connect any LLM agent on the market –. or “a custom agent built on the MCP SDKs” – to 23 X Ads tools focused on reading campaign data, running analytics, and managing advertisers’ ongoing ads. The company says it is on track to see those revenues climb 10% this year, building on the $900 million it raked in last year. In addition to growth in Best Buy Ads and the recently launched marketplace initiative, the company saw. November -- said that based on robust sales, the retailer is raising the outlook for the remainder of the year."
-      ],
-      "url": "https://www.mediapost.com/publications/article/417438/x-launches-advertiser-mcp-enables-third-party-ai.html?edition=143638",
-      "source": "mediapost.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-08-29T08:41:40Z"
-    },
-    {
-      "id": "387cf56f4358",
-      "title": "数博会：在林城与机器人一起“赶集”_新浪新闻",
-      "summary": "2026中国国际大数据产业博览会8月28日在贵州贵阳开幕，本届数博会由国家数据局主办、贵州省人民政府承办，以“词元——数据要素价值释放新路径”为主题。\n\n　　经过多年的成功举办和深厚积淀，本届数博会从嘉宾阵容到视觉呈现，从成果发布到特色展区，给人们带来了一场别开生面的数字盛会。\n\n　　机器人跳苗族舞、无人机踢足球：智能科技融入生活\n\n△机器人表演△机器人表演\n\n　　走进贵阳国际会议展览中心的数博会...",
-      "highlights": [
-        "2026中国国际大数据产业博览会8月28日在贵州贵阳开幕，本届数博会由国家数据局主办、贵州省人民政府承办，以“词元——数据要素价值释放新路径”为主题",
-        "经过多年的成功举办和深厚积淀，本届数博会从嘉宾阵容到视觉呈现，从成果发布到特色展区，给人们带来了一场别开生面的数字盛会",
-        "机器人跳苗族舞、无人机踢足球：智能科技融入生活"
-      ],
-      "url": "https://news.sina.com.cn/zx/gj/2026-08-29/doc-inipxyyx5504891.shtml",
-      "source": "news.sina.com.cn",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-08-29T02:08:51Z"
-    },
-    {
-      "id": "264b355a8b4b",
-      "title": "特斯拉AI硬件人才再流失：核心总监转战DensityAI的背后隐忧",
-      "summary": "4、特斯拉试图用资本手段弥补人才缺口——近20亿美元收购AI硬件企业（疑似DensityAI）买回专利与技术，同时规划千亿级Terafab芯片工厂——但芯片可以流片、工厂可以拔地而",
-      "highlights": [
-        "4、特斯拉试图用资本手段弥补人才缺口——近20亿美元收购AI硬件企业（疑似DensityAI）买回专利与技术，同时规划千亿级Terafab芯片工厂——但芯片可以流片、工厂可以拔地而"
-      ],
-      "url": "https://m.sohu.com/a/1068934875_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-08-29T00:00:00Z"
-    },
-    {
-      "id": "9b4cebc039a6",
-      "title": "共识退潮之后，钱会流向哪里？五位投资人谈2026科技投资",
-      "summary": "账号设置我的关注我的收藏申请的项目退出登录\n\n 启动Power on\n\n 投资人认证\n\n  投资人服务\n 项目推荐\n\n  36氪Pro\n\n  创投氪堂\n\n  企业入驻\n\n  创业者服务\n 创投平台\n AI测评网\n\n 首页\n 快讯\n 资讯\n\n  + 推荐\n  + 财经\n  + AI\n  + 项目推荐\n  + 安徽\n  + 最新\n  + 创投\n  + 汽车\n  + 科技\n  + 专精特新\n 直播\n 视...",
-      "highlights": [
-        "账号设置我的关注我的收藏申请的项目退出登录",
-        "# 共识退潮之后，钱会流向哪里",
-        "五位投资人谈2026科技投资"
-      ],
-      "url": "http://www.36kr.com/p/3958916660870537",
-      "source": "36kr.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-08-28T10:00:57Z"
-    },
-    {
-      "id": "afa02608ac3d",
-      "title": "360 AI安全研究成果获ICML收录，探索APT检测新路径_搜狐网",
-      "summary": "## 360 AI安全研究成果获ICML收录，探索APT检测新路径\n\n上游新闻\n\n日前，360安全能力中心研究团队发表的论文《WatchLog：基于多模态大语言模型的高效可解释EDR日志事件推理框架》被国际机器学习顶级会议ICML 2026正式收录。该研究创新性地将超长EDR日志转化为“视频”进行理解和推理，突破APT（高级持续性威胁）攻击检测中百万Token日志难以分析的行业难题，为AI时代终端...",
-      "highlights": [
-        "## 360 AI安全研究成果获ICML收录，探索APT检测新路径",
-        "日前，360安全能力中心研究团队发表的论文《WatchLog：基于多模态大语言模型的高效可解释EDR日志事件推理框架》被国际机器学习顶级会议ICML 2026正式收录",
-        "该研究创新性地将超长EDR日志转化为“视频”进行理解和推理，突破APT（高级持续性威胁）攻击检测中百万Token日志难以分析的行业难题，为AI时代终端安全检测提供了一条新的技术路径"
-      ],
-      "url": "https://m.sohu.com/a/1069013109_120388781?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "前沿理论",
-      "importance": 4,
-      "publishedAt": "2026-08-28T21:03:02Z"
-    },
-    {
-      "id": "e279d195546b",
-      "title": "Pentagon Pete Suffers Embarrassing Defeat in Major Legal Battle - The Daily Beast",
-      "summary": "## Anthropic had accused the Pentagon of illegally declaring the company a national security risk. A federal judge has ruled that Pete Hegseth’s Defense Department illegally retaliated against Anthrop...",
-      "highlights": [
-        "## Anthropic had accused the Pentagon of illegally declaring the company a national security risk. A federal judge has ruled that Pete Hegseth’s Defense Department illegally retaliated against Anthropic and tried to “make a public example” out of the AI company for criticizing the government. President Donald Trump’s administration declared Anthropic a supply chain risk earlier this year after the company refused to let the Pentagon use its AI models for mass surveillance against Americans or the development of deadly autonomous weapon systems. The government’s decision was “based on a desire to make a public example out of Anthropic for its ‘arrogance’ in criticizing the government,” she added. Other government departments continued working with Anthropic tools even after the supply chain risk designation, which undermined the administration’s claim that it feared the company would “poison its software to harm national security,” Lin wrote. OpenAI struck a deal for the Pentagon to use its AI tools in the military’s classified systems just hours after Anthropic was declared a supply chain risk."
-      ],
-      "url": "https://www.thedailybeast.com/pete-hegseth-suffers-embarrassing-defeat-in-anthropic-legal-battle/",
-      "source": "thedailybeast.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-08-28T15:04:00Z"
-    },
-    {
-      "id": "5b3a72045884",
-      "title": "Window to Tackle Surge in AI-Enabled Cyber Attacks Narrowing, Tech Gia - Infosecurity Magazine",
-      "summary": "Infosecurity Magazine Home » News » Window to Tackle Surge in AI-Enabled Cyber Attacks Narrowing, Tech Giants Warn. # Window to Tackle Surge in AI-Enabled Cyber Attacks Narrowing, Tech Giants Warn. Mo...",
-      "highlights": [
-        "Infosecurity Magazine Home » News » Window to Tackle Surge in AI-Enabled Cyber Attacks Narrowing, Tech Giants Warn. # Window to Tackle Surge in AI-Enabled Cyber Attacks Narrowing, Tech Giants Warn. More than 100 tech and cybersecurity companies, including OpenAI, Anthropic, Google and Microsoft, have warned there is a “narrowing window” to act before AI-enabled attacks escalate to a level that puts critical public services at severe risk. The companies and public services our communities depend on – from hospitals to water treatment plants to the infrastructure that powers the internet – are at risk,” the letter said. The signatories said that current approaches to cybersecurity are not equipped to deal with the coming surge in AI-enabled attacks, with AI tools helping threat actors to rapidly target various vulnerabilities, such as excessive permissions, misconfigurations, insecure and unpatched software, weak authentication and technical debt in legacy systems. It urged a global response to unlock AI’s potential in cybersecurity, encompassing partnerships to raises security standards and sharing of knowledge and tools to tackle emerging threats."
-      ],
-      "url": "https://www.infosecurity-magazine.com/news/window-ai-attacks-narrowing-tech/",
-      "source": "infosecurity-magazine.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-08-28T09:30:00Z"
-    },
-    {
-      "id": "ee9ac880b30d",
-      "title": "华兴资本2026中期业绩实现三线全面盈利，公司估值被深度低估_股市直播_市场_中金在线",
-      "summary": "登录客服\n\n忘记密码？立即注册\n\n其它账号登录：新浪; \"新浪微博登录\")QQ; \"QQ登录\")微信; \"微信登录\")\n\n手机网\n\n退出 在线咨询 |客服帮助\n\n手机网\n\n首页 财经 股票 基金 黄金 外汇 期货 理财 原创 汽车 视频 路演 博客 财经号\n\n，双阳风机新三板项目已经挂牌。\n\n华兴资本的三条核心业务线形成了清晰分工：投资银行捕捉科技与产业机会，投资管理沉淀并兑现长期价值，华兴证券则...",
-      "highlights": [
-        "其它账号登录：新浪; \"新浪微博登录\")QQ; \"QQ登录\")微信; \"微信登录\")",
-        "退出 在线咨询 |客服帮助",
-        "首页 财经 股票 基金 黄金 外汇 期货 理财 原创 汽车 视频 路演 博客 财经号"
-      ],
-      "url": "http://sc.stock.cnfol.com/gushizhibo/20260829/32353487.shtml",
-      "source": "sc.stock.cnfol.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-08-29T06:00:00Z"
-    },
-    {
-      "id": "af3e9dcb4daf",
-      "title": "券商AI竞速：头部券商加码APP AI化，能带给投资者什么？",
-      "summary": "中信建投有关负责人表示，公司计划推出四大核心智能体。其中，选股智能体将结合用户风险偏好、投资周期，提供“千人千策”的个性化选股服务；选基&ETF智能体将整合全市场基金数据，实现优质基金智能筛选；盯盘择时智能体支持自定义触发条件，实时监测市场异动并给出择时建议；交易智能体将实现自然语言指令交易，并提供合规风险提示。未来，“蜻蜓点金”App将构建更多场景的智能体以及技能广场。\n\nAPP进入精细化竞争阶...",
-      "highlights": [
-        "中信建投有关负责人表示，公司计划推出四大核心智能体",
-        "其中，选股智能体将结合用户风险偏好、投资周期，提供“千人千策”的个性化选股服务；选基&ETF智能体将整合全市场基金数据，实现优质基金智能筛选；盯盘择时智能体支持自定义触发条件，实时监测市场异动并给出择时建议；交易智能体将实现自然语言指令交易，并提供合规风险提示",
-        "未来，“蜻蜓点金”App将构建更多场景的智能体以及技能广场"
-      ],
-      "url": "https://www.cls.cn/detail/2369763",
-      "source": "cls.cn",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-08-30T02:00:00Z"
-    },
-    {
-      "id": "6e7aaf2570df",
-      "title": "相约ECCV | 上海AI实验室携100+核心科研与工程岗位亮相ECCV 2026|计算机视觉|上海市|人工智能|上海ai实验室|马尔默_新浪新闻",
-      "summary": "（来源：机器之心）\n\n　　The European Conference on Computer Vision（ECCV）是计算机视觉领域国际顶级学术会议之一。\n\n　　9 月 8 日 - 12 日，ECCV 2026 将于瑞典马尔默召开。期间，上海人工智能实验室（上海 AI 实验室）将于马尔默当地举办 “北极星 X 星启人才交流会暨招聘洽谈会”。届时，上海 AI 实验室相关领域的科研人员和招聘代表...",
-      "highlights": [
-        "The European Conference on Computer Vision（ECCV）是计算机视觉领域国际顶级学术会议之一",
-        "9 月 8 日 - 12 日，ECCV 2026 将于瑞典马尔默召开",
-        "期间，上海人工智能实验室（上海 AI 实验室）将于马尔默当地举办 “北极星 X 星启人才交流会暨招聘洽谈会”"
-      ],
-      "url": "https://k.sina.com.cn/article_5953189932_162d6782c06704wfai.html",
-      "source": "k.sina.com.cn",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-08-28T11:25:20Z"
-    },
-    {
-      "id": "cbad9c5f0657",
-      "title": "Pro.com co-founders reunite to launch OnTrade, an AI startup for the wealth management industry",
-      "summary": "GeekWire Logo\n\n##### Menu\n\nWhat happens here matters everywhere.\n\n# Pro.com co-founders reunite to launch OnTrade, an AI startup for the wealth management industry\n\nChronicling the Seattle and Pacific...",
-      "highlights": [
-        "GeekWire Logo",
-        "What happens here matters everywhere.",
-        "# Pro.com co-founders reunite to launch OnTrade, an AI startup for the wealth management industry"
-      ],
-      "url": "https://www.geekwire.com/2026/pro-com-co-founders-reunite-to-launch-ontrade-an-ai-startup-for-the-wealth-management-industry",
-      "source": "geekwire.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-08-28T14:44:47Z"
-    },
-    {
-      "id": "b0579e37d3c7",
-      "title": "游戏平台测评深度专访+互联网大厂财报与AI大模型新动态",
-      "summary": "行业前沿速览|游戏平台测评深度专访+互联网大厂财报与AI大模型... 国产大模型新品迭代等多个领域接连传出重磅消息.本篇合集就将...",
-      "highlights": [
-        "行业前沿速览|游戏平台测评深度专访+互联网大厂财报与AI大模型... 国产大模型新品迭代等多个领域接连传出重磅消息.本篇合集就将..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2d3pscnm31aqf5YEEsz6p2v5crqrt44RlqXa8Fplpd9lGWfmtehEGsEc14Zr0QdZclsGgAo23cGJQ1PpZpDTL-U8AUPMI9GEnF90j4Be0mMLkaBbVR4fJnbna2KHT3JkBbEuVn-4D8ZbshpEHgXMqRY87ib7y_BpqzSzFsZ5iVyF8wM0czIjo0Lh0iXS6MxPQ0NU77csr_f5z42vG9FMq7zAjcIGepUqA..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=B137CCC158C5E14E0D0857306769EC460E1114496A93C734",
-      "source": "微信公众号",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-08-29T13:12:34Z"
-    }
-  ],
-  "today": [
-    {
-      "id": "af3e9dcb4daf",
-      "title": "券商AI竞速：头部券商加码APP AI化，能带给投资者什么？",
-      "summary": "中信建投有关负责人表示，公司计划推出四大核心智能体。其中，选股智能体将结合用户风险偏好、投资周期，提供“千人千策”的个性化选股服务；选基&ETF智能体将整合全市场基金数据，实现优质基金智能筛选；盯盘择时智能体支持自定义触发条件，实时监测市场异动并给出择时建议；交易智能体将实现自然语言指令交易，并提供合规风险提示。未来，“蜻蜓点金”App将构建更多场景的智能体以及技能广场。\n\nAPP进入精细化竞争阶...",
-      "highlights": [
-        "中信建投有关负责人表示，公司计划推出四大核心智能体",
-        "其中，选股智能体将结合用户风险偏好、投资周期，提供“千人千策”的个性化选股服务；选基&ETF智能体将整合全市场基金数据，实现优质基金智能筛选；盯盘择时智能体支持自定义触发条件，实时监测市场异动并给出择时建议；交易智能体将实现自然语言指令交易，并提供合规风险提示",
-        "未来，“蜻蜓点金”App将构建更多场景的智能体以及技能广场"
-      ],
-      "url": "https://www.cls.cn/detail/2369763",
-      "source": "cls.cn",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-08-30T02:00:00Z"
-    }
-  ],
-  "week": [
-    {
       "id": "9050afdc9158",
       "title": "分析师评OpenAI自研芯片影响：英伟达利润率或迎来新挑战 - 财联社",
       "summary": "Yole Group技术分析师Adrien Sanchez表示，Jalapeno是一款专为推理设计的芯片，这表明“超大规模云服务商（hyperscaler）设计的芯片已经能够在推理能效方面媲美甚至超过英伟达Blackwell级GPU”。\n\nSanchez称，尽管英伟达目前仍掌握着“绝大多数”AI算力市场，并凭借CUDA软件平台形成了强大的生态锁定，但OpenAI的新芯片“对英伟达的推理业务利润率构...",
@@ -435,6 +679,22 @@
       "importance": 5,
       "publishedAt": "2026-08-28T05:42:00Z"
     },
+    {
+      "id": "8dcc74d32a62",
+      "title": "Nvidia Reportedly Buys Hugging Face for $12.9B [2026]",
+      "summary": "Every major AI lab that can afford to is now building its own silicon. Google has its TPU line. Amazon has Trainium. OpenAI has been working with Broadcom on custom accelerators. Anthropic has leaned ...",
+      "highlights": [
+        "Every major AI lab that can afford to is now building its own silicon. Google has its TPU line. Amazon has Trainium. OpenAI has been working with Broadcom on custom accelerators. Anthropic has leaned on Google’s TPUs and Amazon’s Trainium chips for large training runs. None of that spells doom for Nvidia’s GPU business overnight, but it does chip away at the assumption that every serious AI workload runs on Nvidia hardware by default. [...] Defending chip share. OpenAI, Google, Amazon and Anthropic are each developing custom silicon to cut their dependence on Nvidia GPUs. A thriving open-source ecosystem, tuned and optimized around Nvidia’s CUDA stack, keeps smaller developers and enterprises locked into Nvidia hardware even as the biggest labs diversify. [...] Put together, this reads less like a typical tech acquisition and more like Nvidia buying insurance against two different threats at once: custom-chip competitors chipping away at GPU demand, and cloud hyperscalers controlling too much of the distribution layer for AI models.",
+        "## The Chip Independence Problem: OpenAI, Anthropic, Google and Amazon"
+      ],
+      "url": "https://tech-insider.org/nvidia-hugging-face-acquisition-12-9-billion-2026",
+      "source": "tech-insider.org",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-28T01:23:49Z"
+    }
+  ],
+  "month": [
     {
       "id": "ac3754d7ee41",
       "title": "【老王看产业】AI驱动下ASIC厂商的机遇与挑战|VLA|Token|智能驾驶|SoC|特斯拉_新浪新闻",
@@ -511,20 +771,6 @@
       "publishedAt": "2026-08-28T14:04:09Z"
     },
     {
-      "id": "8dcc74d32a62",
-      "title": "Nvidia Reportedly Buys Hugging Face for $12.9B [2026]",
-      "summary": "Every major AI lab that can afford to is now building its own silicon. Google has its TPU line. Amazon has Trainium. OpenAI has been working with Broadcom on custom accelerators. Anthropic has leaned ...",
-      "highlights": [
-        "Every major AI lab that can afford to is now building its own silicon. Google has its TPU line. Amazon has Trainium. OpenAI has been working with Broadcom on custom accelerators. Anthropic has leaned on Google’s TPUs and Amazon’s Trainium chips for large training runs. None of that spells doom for Nvidia’s GPU business overnight, but it does chip away at the assumption that every serious AI workload runs on Nvidia hardware by default. [...] Defending chip share. OpenAI, Google, Amazon and Anthropic are each developing custom silicon to cut their dependence on Nvidia GPUs. A thriving open-source ecosystem, tuned and optimized around Nvidia’s CUDA stack, keeps smaller developers and enterprises locked into Nvidia hardware even as the biggest labs diversify. [...] Put together, this reads less like a typical tech acquisition and more like Nvidia buying insurance against two different threats at once: custom-chip competitors chipping away at GPU demand, and cloud hyperscalers controlling too much of the distribution layer for AI models.",
-        "## The Chip Independence Problem: OpenAI, Anthropic, Google and Amazon"
-      ],
-      "url": "https://tech-insider.org/nvidia-hugging-face-acquisition-12-9-billion-2026",
-      "source": "tech-insider.org",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-28T01:23:49Z"
-    },
-    {
       "id": "c8d42c7d51eb",
       "title": "Anthropic 2万亿美元代币交易来了",
       "summary": "logo\n\n# Anthropic的IPO还没定价，代币已经炒到2万亿\n\nAnthropic尚未为首次公开募股设定价格，甚至没有披露基本发行条款，但一个基于加密货币的永续合约已经把这家私人AI公司短暂推上2万亿美元估值。上周，Hyperliquid平台开始交易与Anthropic挂钩的永续合约，价格一度突破2万亿美元，周五上午回落至约1.968万亿美元。这笔交易量只有约2000万美元，流动性极薄，...",
@@ -553,47 +799,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-08-28T13:00:00Z"
-    },
-    {
-      "id": "e0ff3e9ab548",
-      "title": "央行陆磊讲述智能体支付的四个“时代之问” 坚持规则和标准先行",
-      "summary": ":   资料图：陆磊。陆磊指出，近年来，新一轮科技革命和产业革命加速突破，全球人工智能技术创新进入前所未有的活跃期，正在深刻地改变人类的生产和生活方式。图：视觉中国\n\n相关报道\n:   【财新周刊】财新周刊｜智能体支付可信机制探路\n:   智能体支付如何防风险？最新自律公约要求KYA和用户清晰授权\n:   Visa联手连连数科 落地大中华区首笔B2B智能体支付\n:   百度智能体应用“百度搭子”主...",
-      "highlights": [
-        "陆磊指出，近年来，新一轮科技革命和产业革命加速突破，全球人工智能技术创新进入前所未有的活跃期，正在深刻地改变人类的生产和生活方式",
-        ":   【财新周刊】财新周刊｜智能体支付可信机制探路",
-        ":   智能体支付如何防风险"
-      ],
-      "url": "https://finance.caixin.com/2026-08-28/102478864.html",
-      "source": "finance.caixin.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-08-28T06:00:00Z"
-    },
-    {
-      "id": "9cb1b9d84229",
-      "title": "TechCrunch Disrupt 2026 October 13-15 San Francisco highlights AI stage - NewsBytes",
-      "summary": "# TechCrunch Disrupt 2026 October 13-15 San Francisco highlights AI stage. TechCrunch Disrupt 2026 is happening October 13-15 in San Francisco, with a big spotlight on how AI is shaking up business an...",
-      "highlights": [
-        "# TechCrunch Disrupt 2026 October 13-15 San Francisco highlights AI stage. TechCrunch Disrupt 2026 is happening October 13-15 in San Francisco, with a big spotlight on how AI is shaking up business and jobs. The AI Stage (backed by Google for Startups) will bring together speakers from Anthropic, OpenAI, Databricks, and AWS to talk about the real costs of building with AI and how to keep things secure as tech gets smarter. ### Disrupt Sessions cover Claude, jobs, security. Anthropic's Cat de Jong will share what actually works (and what doesn't) when companies put their Claude model into action. OpenAI's Tara Seshan will dig into how AI is changing job roles and go-to-market strategies. Plus, experts from Okta and AWS will explain why cybersecurity needs a major update for this new era of agentic AI. Expect sessions on evolving SaaS business models and some cool new breakthroughs in video intelligence, too."
-      ],
-      "url": "https://www.newsbytesapp.com/news/science/techcrunch-disrupt-2026-october-13-15-san-francisco-highlights-ai-stage/tldr",
-      "source": "newsbytesapp.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-08-28T04:58:26Z"
-    },
-    {
-      "id": "210da5842793",
-      "title": "Anthropic Dropped $7B MatX Acquisition, Plans Custom AI Chips - Global Banking & Finance Review",
-      "summary": "# Exclusive-Anthropic in talks with chip start up MatX to speed up chip design, sources say. ## Anthropic in Talks With MatX to Accelerate Custom AI Chip Design and Lower Costs. ### Anthropic's Discus...",
-      "highlights": [
-        "# Exclusive-Anthropic in talks with chip start up MatX to speed up chip design, sources say. ## Anthropic in Talks With MatX to Accelerate Custom AI Chip Design and Lower Costs. ### Anthropic's Discussions with MatX. The merger talks, which a third person said have evolved into a discussion about a partnership, underscore the AI lab’s ambition to secure the resources and talent needed to build its own chips. The goal is to help Anthropic accelerate its in-house chip development. As Anthropic scales its Claude family of AI models, the company is looking to produce hardware that can fulfill its voracious appetite for data crunching and reduce its reliance on chips produced by Nvidia. Anthropic said it is expanding an in-house silicon team to design custom chips that will allow Claude models to run faster and more efficiently. An acquisition of an AI chip startup such as MatX would give Anthropic in-house design expertise and could help lower costs over the longer term, the people said."
-      ],
-      "url": "https://www.globalbankingandfinance.com/exclusive-anthropic-planned-abandoned-7-billion-purchase/",
-      "source": "globalbankingandfinance.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-08-28T02:35:58Z"
     },
     {
       "id": "7f01ee1e0b55",
@@ -624,157 +829,19 @@
       "category": "前沿理论",
       "importance": 5,
       "publishedAt": "2026-08-28T16:00:00Z"
-    }
-  ],
-  "month": [
+    },
     {
-      "id": "9050afdc9158",
-      "title": "分析师评OpenAI自研芯片影响：英伟达利润率或迎来新挑战 - 财联社",
-      "summary": "Yole Group技术分析师Adrien Sanchez表示，Jalapeno是一款专为推理设计的芯片，这表明“超大规模云服务商（hyperscaler）设计的芯片已经能够在推理能效方面媲美甚至超过英伟达Blackwell级GPU”。\n\nSanchez称，尽管英伟达目前仍掌握着“绝大多数”AI算力市场，并凭借CUDA软件平台形成了强大的生态锁定，但OpenAI的新芯片“对英伟达的推理业务利润率构...",
+      "id": "92ee030d90a9",
+      "title": "AI前沿日报 | OpenAI芯片跑赢英伟达,大厂模型竞速开源",
+      "summary": "AI办公大战:豆包工作/千问办公升温 01OpenAI首颗自研推理芯片Jalapeño实测跑赢英伟达GB300背景:OpenAI长期受制于英伟达算...",
       "highlights": [
-        "Yole Group技术分析师Adrien Sanchez表示，Jalapeno是一款专为推理设计的芯片，这表明“超大规模云服务商（hyperscaler）设计的芯片已经能够在推理能效方面媲美甚至超过英伟达Blackwell级GPU”",
-        "Sanchez称，尽管英伟达目前仍掌握着“绝大多数”AI算力市场，并凭借CUDA软件平台形成了强大的生态锁定，但OpenAI的新芯片“对英伟达的推理业务利润率构成了威胁，而推理恰恰是目前增长最快的领域”",
-        "Jalapeno由OpenAI与博通共同开发"
+        "AI办公大战:豆包工作/千问办公升温 01OpenAI首颗自研推理芯片Jalapeño实测跑赢英伟达GB300背景:OpenAI长期受制于英伟达算..."
       ],
-      "url": "https://www.cls.cn/detail/2465530",
-      "source": "cls.cn",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2d3pscnm31aNLsWUx_-vJa0GNJVhim03FqXa8Fplpd9BwPL7gDfbDqkzasESKVCMR1ki1lFBshW4hiMtcNTuN801EEXbmTAEOwhOeAr3aX7tqyTA3H4eiw8mVPgbelVr3yli5nxadSFJWovLoRK4-mwtW6EYx6n3xYRl7iDto41_RRlBV4ajIbNhsNIYHV-Lw2zamK8z70Rl_1CPDYM5GN6VKrzu_4XKA..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=AD358FE8D071730FA3A5FE90F888E48BA42222E76A931E6F",
+      "source": "微信公众号",
       "category": "芯片硬件",
       "importance": 5,
-      "publishedAt": "2026-08-28T01:00:00Z"
-    },
-    {
-      "id": "9a0dd65ea423",
-      "title": "AI芯片创业，又开始疯狂了_投资界",
-      "summary": "第 一波AI芯片创业公司们已经发生明显分化。Cerebras最终走到IPO，并越来越多地把芯片变成Cloud Service出售；Groq的核心技术在2025年底被NVIDIA大额授权并吸收部分核心管理层；Tenstorrent今年被曝正在与Qualcomm讨论80亿—100亿美元的收购；很多早期公司则退出、转型或被并购。\n\n所以如果只是重新造另一颗通用AI训练芯片，今天创业空间其实已经相当小。但...",
-      "highlights": [
-        "第 一波AI芯片创业公司们已经发生明显分化",
-        "Cerebras最终走到IPO，并越来越多地把芯片变成Cloud Service出售；Groq的核心技术在2025年底被NVIDIA大额授权并吸收部分核心管理层；Tenstorrent今年被曝正在与Qualcomm讨论80亿—100亿美元的收购；很多早期公司则退出、转型或被并购",
-        "所以如果只是重新造另一颗通用AI训练芯片，今天创业空间其实已经相当小"
-      ],
-      "url": "https://news.pedaily.cn/202608/568256.shtml",
-      "source": "news.pedaily.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-28T05:42:00Z"
-    },
-    {
-      "id": "ac3754d7ee41",
-      "title": "【老王看产业】AI驱动下ASIC厂商的机遇与挑战|VLA|Token|智能驾驶|SoC|特斯拉_新浪新闻",
-      "summary": "作者：老王\n\n　　摘要与核心判断\n\n　　全球AI算力产业正在从“以通用GPU为中心的单一路径”，逐步转向GPU、云厂自研加速器、第三方定制ASIC和边缘AI SoC并存的异构计算体系。ASIC的核心价值不是追求对所有任务都适用，而是在模型、算子和部署规模相对稳定后，通过软硬件协同降低每瓦算力成本、每Token推理成本以及整套系统的总体拥有成本。这一趋势已经从数据中心延伸到汽车。智能汽车正在由分布式...",
-      "highlights": [
-        "全球AI算力产业正在从“以通用GPU为中心的单一路径”，逐步转向GPU、云厂自研加速器、第三方定制ASIC和边缘AI SoC并存的异构计算体系",
-        "ASIC的核心价值不是追求对所有任务都适用，而是在模型、算子和部署规模相对稳定后，通过软硬件协同降低每瓦算力成本、每Token推理成本以及整套系统的总体拥有成本",
-        "这一趋势已经从数据中心延伸到汽车"
-      ],
-      "url": "https://k.sina.com.cn/article_5953740931_162dee08306703wpiu.html?from=tech",
-      "source": "k.sina.com.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-28T20:11:32Z"
-    },
-    {
-      "id": "394ee222a830",
-      "title": "AI办公赛道再洗牌，豆包工作能否颠覆职场生态？|AI大模型|OpenAI|Agent|字节跳动|Copilot_手机新浪网",
-      "summary": "## 新浪科技 股票\n\n   \n\n全方位覆盖个人办公与企业团队协作场景。\n\n作者 | 陈莉\n\n编辑 | 马景行\n\n来源 | 野马财经\n\nAI大模型行业正迎来重要拐点，行业竞争重心已经从简单的文字内容生成，转向可以自主规划、落地执行完整任务的Agent 智能体。早在2024年，OpenAI前首席科学家IlyaSutskever就在NeurIPS2024大会上提出，受高质量互联网训练数据总量约束，单纯...",
-      "highlights": [
-        "全方位覆盖个人办公与企业团队协作场景",
-        "AI大模型行业正迎来重要拐点，行业竞争重心已经从简单的文字内容生成，转向可以自主规划、落地执行完整任务的Agent 智能体",
-        "早在2024年，OpenAI前首席科学家IlyaSutskever就在NeurIPS2024大会上提出，受高质量互联网训练数据总量约束，单纯依靠扩大数据集的预训练发展路径或将逐步放缓，Agent智能体有望成为下一阶段AI重要的演进方向"
-      ],
-      "url": "https://finance.sina.cn/stock/jdts/2026-08-28/detail-inipwnxp9009248.d.html?vt=4&cid=76993&node_id=76993",
-      "source": "finance.sina.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-08-28T19:01:23Z"
-    },
-    {
-      "id": "3eeee9df01c3",
-      "title": "Anthropic瞄准2万亿美元估值 或刷新全球史上最大IPO纪录 | Yellow",
-      "summary": "Aug 05, 2026\n\nPolymarket拟以200亿美元估值融资10亿美元， 与世界杯期间200亿美元预测盘成交相呼应， 预示链上信息市场步入主流，同时监管与竞争风险加速抬头。\n\n相关学习文章\n\n去中心化人工智能：谁来掌控为 Web3 提供算力的模型\n\nAug 24, 2026\n\n去中心化 AI 用区块链确权模型收益，将训练与推理拆分成两层市场， 以加密证明和治理代币重塑 AI 行业权力格...",
-      "highlights": [
-        "Aug 05, 2026",
-        "Polymarket拟以200亿美元估值融资10亿美元， 与世界杯期间200亿美元预测盘成交相呼应， 预示链上信息市场步入主流，同时监管与竞争风险加速抬头",
-        "去中心化人工智能：谁来掌控为 Web3 提供算力的模型"
-      ],
-      "url": "https://yellow.com/zh/news/anthropic%E5%89%91%E6%8C%872%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BC%B0%E5%80%BC-%E6%88%96%E5%88%9B%E4%B8%8B%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7ipo%E7%BA%AA%E5%BD%95",
-      "source": "yellow.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-08-28T11:12:16Z"
-    },
-    {
-      "id": "7be63a51359c",
-      "title": "据称英伟达斥资129亿美元收购 Hugging Face",
-      "summary": "Cardano 去中心化交易量暴跌 98%，ADA 靠拢 0.20 美元关口\n\n3小时前\n\nCardano DEX 交易量自 8 月 22 日高点暴跌 98%，回落至约 100 万美元，ADA 暂稳 0.21 美元上方，0.20 美元成关键支撑考验。\n\n相关新闻\n\n英伟达以200亿美元剔除竞争对手，强化去中心化 AI 叙事\n\nDec 25, 2025\n\n英伟达以授权交易方式获得 Groq 资产和团...",
-      "highlights": [
-        "Cardano 去中心化交易量暴跌 98%，ADA 靠拢 0.20 美元关口",
-        "Cardano DEX 交易量自 8 月 22 日高点暴跌 98%，回落至约 100 万美元，ADA 暂稳 0.21 美元上方，0.20 美元成关键支撑考验",
-        "英伟达以200亿美元剔除竞争对手，强化去中心化 AI 叙事"
-      ],
-      "url": "https://yellow.com/zh/news/%E6%8D%AE%E7%A7%B0%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%96%A5%E8%B5%84129%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD-hugging-face",
-      "source": "yellow.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-08-28T10:07:25Z"
-    },
-    {
-      "id": "6668a21f75f8",
-      "title": "Anthropic's $7 Billion Chip Plan Takes a New Turn — TradingView News",
-      "summary": "MatX was formed by ex-Google tensor processing unit engineers and is building chips to train massive AI models. The business is currently raising further money at a valuation of around $4 billion. Ant...",
-      "highlights": [
-        "MatX was formed by ex-Google tensor processing unit engineers and is building chips to train massive AI models. The business is currently raising further money at a valuation of around $4 billion. Anthropic's appeal is simple.",
-        "The corporation might get more control over cost and performance by building custom silicon, as demand for Claude increases. Anthropic has already recruited veterans from Google and OpenAI and grown its internal silicon team. [...] Meanwhile, the corporation is spending much on outside computers. Anthropic aims to spend $36 billion on Google AI chips and has signed a $45 billion cloud-computing deal with Nscale, highlighting the huge cost of securing enough infrastructure to train and run frontier models.",
-        "Another route for Anthropic to develop out more of that tech on its own might be a MatX relationship. The acquisition may have hit a snag, but Anthropic's push into bespoke chips certainly hasn't."
-      ],
-      "url": "https://www.tradingview.com/news/gurufocus:088540fd7094b:0-anthropic-s-7-billion-chip-plan-takes-a-new-turn",
-      "source": "tradingview.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-08-28T14:04:09Z"
-    },
-    {
-      "id": "8dcc74d32a62",
-      "title": "Nvidia Reportedly Buys Hugging Face for $12.9B [2026]",
-      "summary": "Every major AI lab that can afford to is now building its own silicon. Google has its TPU line. Amazon has Trainium. OpenAI has been working with Broadcom on custom accelerators. Anthropic has leaned ...",
-      "highlights": [
-        "Every major AI lab that can afford to is now building its own silicon. Google has its TPU line. Amazon has Trainium. OpenAI has been working with Broadcom on custom accelerators. Anthropic has leaned on Google’s TPUs and Amazon’s Trainium chips for large training runs. None of that spells doom for Nvidia’s GPU business overnight, but it does chip away at the assumption that every serious AI workload runs on Nvidia hardware by default. [...] Defending chip share. OpenAI, Google, Amazon and Anthropic are each developing custom silicon to cut their dependence on Nvidia GPUs. A thriving open-source ecosystem, tuned and optimized around Nvidia’s CUDA stack, keeps smaller developers and enterprises locked into Nvidia hardware even as the biggest labs diversify. [...] Put together, this reads less like a typical tech acquisition and more like Nvidia buying insurance against two different threats at once: custom-chip competitors chipping away at GPU demand, and cloud hyperscalers controlling too much of the distribution layer for AI models.",
-        "## The Chip Independence Problem: OpenAI, Anthropic, Google and Amazon"
-      ],
-      "url": "https://tech-insider.org/nvidia-hugging-face-acquisition-12-9-billion-2026",
-      "source": "tech-insider.org",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-28T01:23:49Z"
-    },
-    {
-      "id": "c8d42c7d51eb",
-      "title": "Anthropic 2万亿美元代币交易来了",
-      "summary": "logo\n\n# Anthropic的IPO还没定价，代币已经炒到2万亿\n\nAnthropic尚未为首次公开募股设定价格，甚至没有披露基本发行条款，但一个基于加密货币的永续合约已经把这家私人AI公司短暂推上2万亿美元估值。上周，Hyperliquid平台开始交易与Anthropic挂钩的永续合约，价格一度突破2万亿美元，周五上午回落至约1.968万亿美元。这笔交易量只有约2000万美元，流动性极薄，...",
-      "highlights": [
-        "# Anthropic的IPO还没定价，代币已经炒到2万亿",
-        "Anthropic尚未为首次公开募股设定价格，甚至没有披露基本发行条款，但一个基于加密货币的永续合约已经把这家私人AI公司短暂推上2万亿美元估值",
-        "上周，Hyperliquid平台开始交易与Anthropic挂钩的永续合约，价格一度突破2万亿美元，周五上午回落至约1.968万亿美元"
-      ],
-      "url": "https://nai500.com/zh-hans/blog/2026/08/anthropic-2",
-      "source": "nai500.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-08-28T11:22:26Z"
-    },
-    {
-      "id": "476d2a837ff6",
-      "title": "Robotaxi龙头造芯！算力仅160TOPS，放话比1000TOPS还强 - 车东西",
-      "summary": "FP16则是“16位浮点精度”的缩写，即用16位二进制来表示小数。相比INT8，FP16的精度更高，更接近真实数值，但计算量和数据量也更大。它通常用于需要保留更精细数值信息的任务，如某些雷达信号处理和模型训练。Waymo这颗芯片在FP16下算力为80TFLOPS，大约是INT8算力的一半。\n\nTOPS是衡量AI芯片整数运算能力的单位，1TOPS代表每秒可进行一万亿次整数运算，这是当前自动驾驶芯片最...",
-      "highlights": [
-        "FP16则是“16位浮点精度”的缩写，即用16位二进制来表示小数",
-        "相比INT8，FP16的精度更高，更接近真实数值，但计算量和数据量也更大",
-        "它通常用于需要保留更精细数值信息的任务，如某些雷达信号处理和模型训练"
-      ],
-      "url": "https://chedongxi.com/p/375097.html",
-      "source": "chedongxi.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-28T13:00:00Z"
+      "publishedAt": "2026-08-29T10:07:11Z"
     }
   ]
 }
