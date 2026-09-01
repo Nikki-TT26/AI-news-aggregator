@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-09-01T12:01:27Z",
+  "updatedAt": "2026-09-01T18:01:48Z",
   "latest": [
-    {
-      "id": "24a55a7744f5",
-      "title": "美股科技行业周报：AI应用财报拐点兑现，看好应用软件迎估值修复 - 国联民生证券 ｜ 发现报告",
-      "summary": "glmszqdatemark2026年08月30日 AI应用财报拐点兑现，看好应用软件迎估值修复 ➢海外科技行业动态 Hot Chips 2026：机架级平台与自研推理芯片集中亮相。英伟达围绕Vera Rubin构建由Rubin GPU、Vera CPU、Groq 3 LPX及网络芯片协同的AI平台，其中Rubin负责大规模上下文处理，Groq 3 LPX加速Token生成；AMD围绕MI400推...",
-      "highlights": [
-        "glmszqdatemark2026年08月30日 AI应用财报拐点兑现，看好应用软件迎估值修复 ➢海外科技行业动态 Hot Chips 2026：机架级平台与自研推理芯片集中亮相",
-        "英伟达围绕Vera Rubin构建由Rubin GPU、Vera CPU、Groq 3 LPX及网络芯片协同的AI平台，其中Rubin负责大规模上下文处理，Groq 3 LPX加速Token生成；AMD围绕MI400推出CPU、GPU和网络一体化的Helios机架；Intel发布采用350W风冷及LPDDR5X内存的CrescentIsland GPU，主攻低功耗推理",
-        "OpenAI同时披露与博通联合开发的自研推理芯片Jalapeño，运行三款公开模型时，峰值吞吐下单位功耗完成的AI工作量为对比系统的1.5—1.9倍"
-      ],
-      "url": "https://www.fxbaogao.com/detail/5654202",
-      "source": "fxbaogao.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-30T16:00:00Z"
-    },
     {
       "id": "6847e3bebe99",
       "title": "WorkBuddy的“湾擎时刻”，看这款AI办公智能体如何成为政务创新的“广东名片”__新快网",
@@ -30,21 +15,6 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-08-31T00:00:00Z"
-    },
-    {
-      "id": "d354da05c8a8",
-      "title": "半导体设备行业深度研究：下游需求倒灌叠加国产替代共同驱动设备景气度提升- 国泰海通证券",
-      "summary": "海外大厂资本开支大幅增长，已经较强地预示着半导体行业进入新一轮需求大周期。而目前AI需求已经从少数大模型的集中训练，扩展到训练、推理、智能体、搜索、广告推荐、办公软件和传统云服务共同消耗算力的阶段。训练需求通常表现为少数超大规模集群，而推理需求则随着用户数量、调用频率、上下文长度和AI功能渗透率持续增长。以Google各平台月度Token处理量为例，Google各平台月度Token处理量由2024...",
-      "highlights": [
-        "海外大厂资本开支大幅增长，已经较强地预示着半导体行业进入新一轮需求大周期",
-        "而目前AI需求已经从少数大模型的集中训练，扩展到训练、推理、智能体、搜索、广告推荐、办公软件和传统云服务共同消耗算力的阶段",
-        "训练需求通常表现为少数超大规模集群，而推理需求则随着用户数量、调用频率、上下文长度和AI功能渗透率持续增长"
-      ],
-      "url": "https://www.fxbaogao.com/detail/5655976",
-      "source": "fxbaogao.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-30T16:00:00Z"
     },
     {
       "id": "c01248b7f33d",
@@ -129,21 +99,6 @@
       "publishedAt": "2026-08-31T15:15:25Z"
     },
     {
-      "id": "d192cacab28e",
-      "title": "大型挂机现场：马斯克的55万英伟达GPU，利用率才11%-36氪",
-      "summary": "虽然 11% 是一个显然偏低的数字，但 The Information 的报道也揭示了 AI 领域的一些行业潜规则：算力浪费是普遍的现象，有些大厂的研究人员为了避免被管理层批评，或者害怕闲置的 GPU 配额被其他团队抢走，甚至会故意重复运行一些无意义的训练任务来 “刷高” 利用率数据。\n\n该说不说，这么做也是为了保住团队自己的 GPU 配额。\n\n当然，这并非 xAI 独有的难题，它实际上是整个 A...",
-      "highlights": [
-        "虽然 11% 是一个显然偏低的数字，但 The Information 的报道也揭示了 AI 领域的一些行业潜规则：算力浪费是普遍的现象，有些大厂的研究人员为了避免被管理层批评，或者害怕闲置的 GPU 配额被其他团队抢走，甚至会故意重复运行一些无意义的训练任务来 “刷高” 利用率数据",
-        "该说不说，这么做也是为了保住团队自己的 GPU 配额",
-        "当然，这并非 xAI 独有的难题，它实际上是整个 AI 行业普遍存在的一种结构性问题 ——AI 基础设施要在如此庞大的规模下实现高效运行，是一项极其艰巨的挑战"
-      ],
-      "url": "https://m.36kr.com/p/3795874564250627",
-      "source": "m.36kr.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-30T17:21:12Z"
-    },
-    {
       "id": "912ce750de1c",
       "title": "利好突袭！英伟达宣布史上最大海外直接投资，黄仁勋最新发声！被投公司股价暴涨",
       "summary": "在此次合作中，联发科将采用英伟达NVLink Fusion平台，为客户开发定制化XPU。与传统芯片设计模式不同，客户无需从零开始开发XPU与英伟达计算系统之间的连接和相关系统组件，而是可以借助NVLink Fusion完成芯片与英伟达AI基础设施之间的衔接。同时，英伟达近期推出的NVHBM，又进一步将这一能力延伸至高带宽内存领域。也就是说，英伟达正在试图把芯片互联、内存以及系统级能力整合到同一套技...",
@@ -174,19 +129,49 @@
       "publishedAt": "2026-09-01T09:01:54Z"
     },
     {
-      "id": "e51fc12a116d",
-      "title": "大厂AI变阵",
-      "summary": "### 大厂AI变阵\n\n打开微信，点击底部的“发现”，\n\n使用“扫一扫”即可将网页分享至朋友圈。\n\n“百度智能云近日完成一轮产研组织调整。”这则8月29日曝光的新闻至今未获百度官方回应，但有接近百度的人士向北京商报记者确认了相关信息。百度智能云将Agent（智能体）业务设立为与基础设施、行业应用平级的事业部。\n\n过去一个月，国内大厂围绕Agent的组织架构调整进入密集期。拆分、聚合、并线，方式各不...",
+      "id": "e2f4fbb7992d",
+      "title": "黑石启动60亿英镑地产平台退出计划 私募股权撤退窗口渐启？",
+      "summary": "公开数据显示，2023年，全球私募股权退出交易额同比下降44%，2024年交易数量小幅回升但仍处五年低位。\n\n2025年被贝恩公司称为是私募股权终于“站稳脚跟”的一年，同时强调这是一场“K型复苏”——退出和交易金额明显回升，但复苏面较窄，分销水平依然低迷。\n\n来到2026年，市场普遍认为IPO窗口存在阶段性回暖，退出活动有所改善，但市场依然波动性较大，今年来的私募退出活动集中在优质资产和定制化的交...",
       "highlights": [
-        "打开微信，点击底部的“发现”，",
-        "使用“扫一扫”即可将网页分享至朋友圈",
-        "“百度智能云近日完成一轮产研组织调整"
+        "公开数据显示，2023年，全球私募股权退出交易额同比下降44%，2024年交易数量小幅回升但仍处五年低位",
+        "2025年被贝恩公司称为是私募股权终于“站稳脚跟”的一年，同时强调这是一场“K型复苏”——退出和交易金额明显回升，但复苏面较窄，分销水平依然低迷",
+        "来到2026年，市场普遍认为IPO窗口存在阶段性回暖，退出活动有所改善，但市场依然波动性较大，今年来的私募退出活动集中在优质资产和定制化的交易流程"
       ],
-      "url": "http://www.bbtnews.com.cn/2026/0830/604267.shtml",
-      "source": "bbtnews.com.cn",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-08-30T16:00:00Z"
+      "url": "https://www.cls.cn/detail/2419195",
+      "source": "cls.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-08-31T18:00:00Z"
+    },
+    {
+      "id": "0b7b5734b2b5",
+      "title": "投资界24h|燧原科技IPO发行价142.18元/股；16个月，核聚变百亿独角兽诞生；殷拓EQT已完成对科勒资本合并_投资界",
+      "summary": "据报道，OpenAI等一些人工智能实验室已经购买了数万台Mac mini和Mac Studio，用于人工智能强化学习。OpenAI正在使用这些Mac来训练AI智能体，并且急需更多此类设备。另据知情人士透露，Anthropic也从亚马逊AWS租用Mac mini，一些初创公司甚至正在构建仅限Mac的云服务，以应对未来苹果硬件需求激增的情况。（财联社）\n\n#### 小红书内测“朋友圈”：取名“发日常”...",
+      "highlights": [
+        "据报道，OpenAI等一些人工智能实验室已经购买了数万台Mac mini和Mac Studio，用于人工智能强化学习",
+        "OpenAI正在使用这些Mac来训练AI智能体，并且急需更多此类设备",
+        "另据知情人士透露，Anthropic也从亚马逊AWS租用Mac mini，一些初创公司甚至正在构建仅限Mac的云服务，以应对未来苹果硬件需求激增的情况"
+      ],
+      "url": "https://news.pedaily.cn/202609/568369.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-01T01:03:00Z"
+    },
+    {
+      "id": "7cfbe5873466",
+      "title": "【立方基金通】国家大基金14亿注资可灵/VAST半年融50亿/320亿产业基金遴选子基金GP",
+      "summary": "推荐\n\n\n\n政经\n\n豫股\n\n中原股交\n\n金融\n\n债市\n\n豫商\n\n城市\n\n安阳\n\n科创\n\n招采\n\n投教\n\n 更多\n\n## 【立方基金通】国家大基金14亿注资可灵/VAST半年融50亿/320亿产业基金遴选子基金GP\n\n大河财立方\n2026-09-01 16:00:00\n\n第 070 期\n\n8月31日，快手科技发布公告，旗下AI视频生成大模型主体北京可灵引入国家级战略投资。国家人工智能产业投资基金合伙...",
+      "highlights": [
+        "## 【立方基金通】国家大基金14亿注资可灵/VAST半年融50亿/320亿产业基金遴选子基金GP",
+        "2026-09-01 16:00:00",
+        "8月31日，快手科技发布公告，旗下AI视频生成大模型主体北京可灵引入国家级战略投资"
+      ],
+      "url": "https://app.dahecube.com/article.html?artid=285385%3Frecid%3D1",
+      "source": "app.dahecube.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-01T08:00:00Z"
     },
     {
       "id": "a35466ce7ce4",
@@ -325,6 +310,34 @@
       "publishedAt": "2026-09-01T02:57:50Z"
     },
     {
+      "id": "af2307c1e0be",
+      "title": "合见工软发布下一代EDA创新矩阵，Agent智能体战略正式落地，3DIC设计前沿成果亮相",
+      "summary": "2026年9月1日，中国数字EDA/IP龙头企业上海合见工业软件集团股份有限公司（简称“合见工软”）在由EDA<sup>2</sup>主办的2026 IDAS设计自动化产业峰会期间，隆重召开了“2026合见工软",
+      "highlights": [
+        "2026年9月1日，中国数字EDA/IP龙头企业上海合见工业软件集团股份有限公司（简称“合见工软”）在由EDA<sup>2</sup>主办的2026 IDAS设计自动化产业峰会期间，隆重召开了“2026合见工软"
+      ],
+      "url": "https://time-weekly.com/post/332545",
+      "source": "time-weekly.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-01T15:00:00Z"
+    },
+    {
+      "id": "1720496bd337",
+      "title": "突发，阿里AI产线大整合，92年陈宇森统管三大Agent-36氪",
+      "summary": "Image 1: 36氪\n\n[](\n\n登录\n\n搜索\n\n   36氪Auto 数字时氪 未来消费 智能涌现 未来城市 启动Power on 36氪出海 36氪研究院 潮生TIDE 36氪企服点评 36氪财经 职场bonus 36碳 后浪研究所 暗涌Waves 硬氪 氪睿研究院  媒体品牌 \n   企业号 企服点评 36Kr研究院 36Kr创新咨询  企业服务 \n   核心服务 城市之窗  政府服务 ...",
+      "highlights": [
+        "Image 1: 36氪",
+        "36氪Auto 数字时氪 未来消费 智能涌现 未来城市 启动Power on 36氪出海 36氪研究院 潮生TIDE 36氪企服点评 36氪财经 职场bonus 36碳 后浪研究所 暗涌Waves 硬氪 氪睿研究院  媒体品牌",
+        "企业号 企服点评 36Kr研究院 36Kr创新咨询  企业服务"
+      ],
+      "url": "https://m.36kr.com/p/3878491297296388",
+      "source": "m.36kr.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-08-31T16:35:03Z"
+    },
+    {
       "id": "0349ee6a73dc",
       "title": "AI基础设施建设或将推动AI算力规模增长_中华网",
       "summary": "（素材来源：安徽医科大学临床医学院“淮医红行”暑期社会实践团队）8日上午，实践团全体成员有序走进大通万人坑教育馆，开展沉浸式党史与抗战史研学活动。馆内陈列的遇难矿工遗物、历史档案以及影像史料，真实还原了当年日军掠夺煤炭资源、压迫屠戮矿工的血泪史实。跟随讲解员的讲述，实践队员驻足白骨坑、史料展区仔细研...\n\n2026-08-31 10:08:16\n\n### 火山引擎与贵广集团签署协议 将布局智能体...",
@@ -354,19 +367,6 @@
       "publishedAt": "2026-08-30T22:00:00Z"
     },
     {
-      "id": "2963406b1c92",
-      "title": "Top tech firms call for defensive measures against looming wave of AI-driven hacks - The Times of Israel",
-      "summary": "Image 1: The Times of Israel. *       *   About The Times of Israel. *   Advertise on The Times of Israel. *   © 2020 The Times of Israel , All Rights Reserved Terms and conditionsPrivacy policy. # To...",
-      "highlights": [
-        "Image 1: The Times of Israel. *       *   About The Times of Israel. *   Advertise on The Times of Israel. *   © 2020 The Times of Israel , All Rights Reserved Terms and conditionsPrivacy policy. # Top tech firms call for defensive measures against looming wave of AI-driven hacks. Image 2: Top tech firms call for defensive measures against looming wave of AI-driven hacks. Major tech companies including OpenAI, Anthropic, Microsoft, Alphabet, and Amazon are calling for a society-wide defensive surge to defeat what they describe as an impending wave of hacks driven by artificial intelligence. Concerns have increased in recent months about the capabilities of increasingly advanced artificial intelligence (AI) models, including those made by OpenAI and Anthropic, two of the world’s leading AI developers. Get The Times of Israel's Daily Edition by email and never miss our top stories. © 2026 The Times of Israel, all rights reserved."
-      ],
-      "url": "https://www.timesofisrael.com/top-tech-firms-call-for-defensive-measures-against-looming-wave-of-ai-driven-hacks/amp/",
-      "source": "timesofisrael.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-08-30T15:22:51Z"
-    },
-    {
       "id": "f8388d6cbbd5",
       "title": "大厂混战AI办公，百度搭子加速抢身位",
       "summary": "大厂混战AI办公，百度搭子加速抢身位,智能体,智能云,QoderWork,MuleRun,WorkBuddy,阿里悟空,飞书,豆包,字节跳动,MaaS,工具,发布会,数据,模型,记忆,系统,财务.",
@@ -380,17 +380,19 @@
       "publishedAt": "2026-09-01T03:00:00Z"
     },
     {
-      "id": "9d82fdb75533",
-      "title": "中外资机构研判全球及中国资产配置策略：长端美债收益率难降科技及成长股仍为中国投资主线中国基金报",
-      "summary": "【导读】中外资机构研判全球及中国资产配置策略：长端美债收益率难降科技及成长股仍为中国投资主线中国基金报记者郭玟君中国基金报“环球视点”第四十期围绕全球长端债券",
+      "id": "af3e9dcb4daf",
+      "title": "券商AI竞速：头部券商加码APP AI化，能带给投资者什么？",
+      "summary": "2025年是券商AI应用爆发的元年，国泰海通“灵犀”、华泰证券“AI涨乐”、长江证券“长小牛”等三款独立AI APP陆续出炉，给投资者、行业带来了新的体验与模式。彼时有一种观点预测，认为券商会掀起一波独立AI APP推出潮，但时隔一年，这一预测并没有上演，证券业对于APP AI的打造反而更趋审慎，寻找适配自身的改造方式成了主流。\n\n财联社在近期《最新调查：券商推出独立AI APP的动力有多强？》报...",
       "highlights": [
-        "【导读】中外资机构研判全球及中国资产配置策略：长端美债收益率难降科技及成长股仍为中国投资主线中国基金报记者郭玟君中国基金报“环球视点”第四十期围绕全球长端债券"
+        "2025年是券商AI应用爆发的元年，国泰海通“灵犀”、华泰证券“AI涨乐”、长江证券“长小牛”等三款独立AI APP陆续出炉，给投资者、行业带来了新的体验与模式",
+        "彼时有一种观点预测，认为券商会掀起一波独立AI APP推出潮，但时隔一年，这一预测并没有上演，证券业对于APP AI的打造反而更趋审慎，寻找适配自身的改造方式成了主流",
+        "财联社在近期《最新调查：券商推出独立AI APP的动力有多强"
       ],
-      "url": "https://www.chnfund.com/article/AR3365f0d4-b7e0-b360-00ef-3a23650f32cb",
-      "source": "chnfund.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-08-30T13:00:00Z"
+      "url": "https://www.cls.cn/detail/2369763",
+      "source": "cls.cn",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-08-31T21:00:00Z"
     },
     {
       "id": "1d4c83d32447",
@@ -451,6 +453,36 @@
       "publishedAt": "2026-09-01T09:01:54Z"
     },
     {
+      "id": "0b7b5734b2b5",
+      "title": "投资界24h|燧原科技IPO发行价142.18元/股；16个月，核聚变百亿独角兽诞生；殷拓EQT已完成对科勒资本合并_投资界",
+      "summary": "据报道，OpenAI等一些人工智能实验室已经购买了数万台Mac mini和Mac Studio，用于人工智能强化学习。OpenAI正在使用这些Mac来训练AI智能体，并且急需更多此类设备。另据知情人士透露，Anthropic也从亚马逊AWS租用Mac mini，一些初创公司甚至正在构建仅限Mac的云服务，以应对未来苹果硬件需求激增的情况。（财联社）\n\n#### 小红书内测“朋友圈”：取名“发日常”...",
+      "highlights": [
+        "据报道，OpenAI等一些人工智能实验室已经购买了数万台Mac mini和Mac Studio，用于人工智能强化学习",
+        "OpenAI正在使用这些Mac来训练AI智能体，并且急需更多此类设备",
+        "另据知情人士透露，Anthropic也从亚马逊AWS租用Mac mini，一些初创公司甚至正在构建仅限Mac的云服务，以应对未来苹果硬件需求激增的情况"
+      ],
+      "url": "https://news.pedaily.cn/202609/568369.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-01T01:03:00Z"
+    },
+    {
+      "id": "7cfbe5873466",
+      "title": "【立方基金通】国家大基金14亿注资可灵/VAST半年融50亿/320亿产业基金遴选子基金GP",
+      "summary": "推荐\n\n\n\n政经\n\n豫股\n\n中原股交\n\n金融\n\n债市\n\n豫商\n\n城市\n\n安阳\n\n科创\n\n招采\n\n投教\n\n 更多\n\n## 【立方基金通】国家大基金14亿注资可灵/VAST半年融50亿/320亿产业基金遴选子基金GP\n\n大河财立方\n2026-09-01 16:00:00\n\n第 070 期\n\n8月31日，快手科技发布公告，旗下AI视频生成大模型主体北京可灵引入国家级战略投资。国家人工智能产业投资基金合伙...",
+      "highlights": [
+        "## 【立方基金通】国家大基金14亿注资可灵/VAST半年融50亿/320亿产业基金遴选子基金GP",
+        "2026-09-01 16:00:00",
+        "8月31日，快手科技发布公告，旗下AI视频生成大模型主体北京可灵引入国家级战略投资"
+      ],
+      "url": "https://app.dahecube.com/article.html?artid=285385%3Frecid%3D1",
+      "source": "app.dahecube.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-01T08:00:00Z"
+    },
+    {
       "id": "5afadbd6ad23",
       "title": "中国AI模型监测：升级加速、用量猛增，云端进入新一轮上行周期",
       "summary": "AI云市场份额预计将从2025年的17%提升至2030年的66%。其中，AI MaaS（模型即服务）被视为增速最快的细分赛道——预计从2025年的人民币210亿元增长至2030年的6760亿元，年复合增长率高达81%。AI基础设施云（含GPU算力、训练与推理系统）预计从2025年的450亿元增长至2030年的4700亿元，年复合增长率为51%。\n\n在市场格局方面，美银美林预计阿里巴巴、腾讯、字节跳...",
@@ -464,6 +496,19 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-09-01T02:57:50Z"
+    },
+    {
+      "id": "af2307c1e0be",
+      "title": "合见工软发布下一代EDA创新矩阵，Agent智能体战略正式落地，3DIC设计前沿成果亮相",
+      "summary": "2026年9月1日，中国数字EDA/IP龙头企业上海合见工业软件集团股份有限公司（简称“合见工软”）在由EDA<sup>2</sup>主办的2026 IDAS设计自动化产业峰会期间，隆重召开了“2026合见工软",
+      "highlights": [
+        "2026年9月1日，中国数字EDA/IP龙头企业上海合见工业软件集团股份有限公司（简称“合见工软”）在由EDA<sup>2</sup>主办的2026 IDAS设计自动化产业峰会期间，隆重召开了“2026合见工软"
+      ],
+      "url": "https://time-weekly.com/post/332545",
+      "source": "time-weekly.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-01T15:00:00Z"
     },
     {
       "id": "f8388d6cbbd5",
@@ -518,6 +563,19 @@
       "category": "前沿理论",
       "importance": 2,
       "publishedAt": "2026-09-01T03:00:00Z"
+    },
+    {
+      "id": "4ab51c95f61b",
+      "title": "中通云仓科技发布“云知AI大模型平台” 开启物流AI应用新篇章- 跨境电商",
+      "summary": "2026年8月28日，中通云仓科技在“2026品牌供应链创新私董会暨'中通云仓之夜'品牌沙龙”上正式发布“云知AI大模型平台”，并同步推出基于该平台训练的重要成果——“玖云智能工",
+      "highlights": [
+        "2026年8月28日，中通云仓科技在“2026品牌供应链创新私董会暨'中通云仓之夜'品牌沙龙”上正式发布“云知AI大模型平台”，并同步推出基于该平台训练的重要成果——“玖云智能工"
+      ],
+      "url": "https://www.ebrun.com/20260901/703983.shtml",
+      "source": "ebrun.com",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-09-01T02:00:00Z"
     }
   ],
   "week": [
@@ -636,6 +694,51 @@
       "publishedAt": "2026-09-01T09:01:54Z"
     },
     {
+      "id": "e2f4fbb7992d",
+      "title": "黑石启动60亿英镑地产平台退出计划 私募股权撤退窗口渐启？",
+      "summary": "公开数据显示，2023年，全球私募股权退出交易额同比下降44%，2024年交易数量小幅回升但仍处五年低位。\n\n2025年被贝恩公司称为是私募股权终于“站稳脚跟”的一年，同时强调这是一场“K型复苏”——退出和交易金额明显回升，但复苏面较窄，分销水平依然低迷。\n\n来到2026年，市场普遍认为IPO窗口存在阶段性回暖，退出活动有所改善，但市场依然波动性较大，今年来的私募退出活动集中在优质资产和定制化的交...",
+      "highlights": [
+        "公开数据显示，2023年，全球私募股权退出交易额同比下降44%，2024年交易数量小幅回升但仍处五年低位",
+        "2025年被贝恩公司称为是私募股权终于“站稳脚跟”的一年，同时强调这是一场“K型复苏”——退出和交易金额明显回升，但复苏面较窄，分销水平依然低迷",
+        "来到2026年，市场普遍认为IPO窗口存在阶段性回暖，退出活动有所改善，但市场依然波动性较大，今年来的私募退出活动集中在优质资产和定制化的交易流程"
+      ],
+      "url": "https://www.cls.cn/detail/2419195",
+      "source": "cls.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-08-31T18:00:00Z"
+    },
+    {
+      "id": "0b7b5734b2b5",
+      "title": "投资界24h|燧原科技IPO发行价142.18元/股；16个月，核聚变百亿独角兽诞生；殷拓EQT已完成对科勒资本合并_投资界",
+      "summary": "据报道，OpenAI等一些人工智能实验室已经购买了数万台Mac mini和Mac Studio，用于人工智能强化学习。OpenAI正在使用这些Mac来训练AI智能体，并且急需更多此类设备。另据知情人士透露，Anthropic也从亚马逊AWS租用Mac mini，一些初创公司甚至正在构建仅限Mac的云服务，以应对未来苹果硬件需求激增的情况。（财联社）\n\n#### 小红书内测“朋友圈”：取名“发日常”...",
+      "highlights": [
+        "据报道，OpenAI等一些人工智能实验室已经购买了数万台Mac mini和Mac Studio，用于人工智能强化学习",
+        "OpenAI正在使用这些Mac来训练AI智能体，并且急需更多此类设备",
+        "另据知情人士透露，Anthropic也从亚马逊AWS租用Mac mini，一些初创公司甚至正在构建仅限Mac的云服务，以应对未来苹果硬件需求激增的情况"
+      ],
+      "url": "https://news.pedaily.cn/202609/568369.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-01T01:03:00Z"
+    },
+    {
+      "id": "7cfbe5873466",
+      "title": "【立方基金通】国家大基金14亿注资可灵/VAST半年融50亿/320亿产业基金遴选子基金GP",
+      "summary": "推荐\n\n\n\n政经\n\n豫股\n\n中原股交\n\n金融\n\n债市\n\n豫商\n\n城市\n\n安阳\n\n科创\n\n招采\n\n投教\n\n 更多\n\n## 【立方基金通】国家大基金14亿注资可灵/VAST半年融50亿/320亿产业基金遴选子基金GP\n\n大河财立方\n2026-09-01 16:00:00\n\n第 070 期\n\n8月31日，快手科技发布公告，旗下AI视频生成大模型主体北京可灵引入国家级战略投资。国家人工智能产业投资基金合伙...",
+      "highlights": [
+        "## 【立方基金通】国家大基金14亿注资可灵/VAST半年融50亿/320亿产业基金遴选子基金GP",
+        "2026-09-01 16:00:00",
+        "8月31日，快手科技发布公告，旗下AI视频生成大模型主体北京可灵引入国家级战略投资"
+      ],
+      "url": "https://app.dahecube.com/article.html?artid=285385%3Frecid%3D1",
+      "source": "app.dahecube.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-01T08:00:00Z"
+    },
+    {
       "id": "a35466ce7ce4",
       "title": "知名上市辅导专家李亚受邀授课｜厦门市企业资本运作专题培训顺利举办",
       "summary": "为助力厦门本土企业打通资本发展路径，提升企业家股权融资、并购重组、IPO上市全链条实操能力，由厦门市工业和信息化局、厦门市财政局主办，厦门市中小企业服务中心",
@@ -690,45 +793,6 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-08-31T14:14:05Z"
-    },
-    {
-      "id": "66c3f4ec26d7",
-      "title": "Google takes aim at Anthropic, Microsoft with budget-friendly AI pricing - CNBC",
-      "summary": "Monday - Friday: 12:00 - 13:00 SIN/HK | 0600 - 07:00 CET. # Google takes aim at Anthropic, Microsoft with budget-friendly AI pricing. CNBC’s MacKenzie Sigalos joins “Access Middle East” to report on G...",
-      "highlights": [
-        "Monday - Friday: 12:00 - 13:00 SIN/HK | 0600 - 07:00 CET. # Google takes aim at Anthropic, Microsoft with budget-friendly AI pricing. CNBC’s MacKenzie Sigalos joins “Access Middle East” to report on Google’s push to undercut Microsoft and Anthropic on AI agent pricing as enterprise spending soars."
-      ],
-      "url": "https://www.cnbc.com/video/2026/08/31/google-takes-aim-at-anthropic-microsoft-with-budget-friendly-ai-pricing.html",
-      "source": "cnbc.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-08-31T04:40:01Z"
-    },
-    {
-      "id": "90764ffff793",
-      "title": "Study: Chatbots are getting better at identifying suicide risk - Axios",
-      "summary": "**Yes, but:** The study also found most models too willing toassist with suicide-related creative writing, farewell notes and other task-based requests even when a user's distress should have been app...",
-      "highlights": [
-        "**Yes, but:** The study also found most models too willing toassist with suicide-related creative writing, farewell notes and other task-based requests even when a user's distress should have been apparent. * \"Models aren't great at detecting that, and they'll still help with the task,\" Transluce chief scientist Sarah Schwettmann told Axios. * The organization also worked directly with OpenAI, Anthropic and Google to more deeply understand how people were interacting with their models and to make their simulations more similar to real-world conversations. **What they did:** Transluce handed each lab the same set of classifiers that they ran over one week of user data, and returned only anonymized features of those conversations to Transluce. * Transluce then used this data to improve their simulated users to better resemble how real people talk to AI models. * \"Google has, for years, helped people find high-quality information and crisis support in the moments they need it most, and we are applying this same research-backed approach to our AI tools,\" Google senior director Megan Jones Bell said in a statement to Axios."
-      ],
-      "url": "https://www.axios.com/2026/08/31/chatbots-suicide-risks-identification",
-      "source": "axios.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-08-31T10:00:06Z"
-    },
-    {
-      "id": "407ae49bf84b",
-      "title": "OpenAI-led coalition warns AI will compress cyberattack timelines, expose enterprise weaknesses - csoonline.com",
-      "summary": "A coalition led by OpenAI is warning that AI will sharply accelerate the speed and scale of cyberattacks, leaving enterprises with a narrowing window to fix long-standing security weaknesses before th...",
-      "highlights": [
-        "A coalition led by OpenAI is warning that AI will sharply accelerate the speed and scale of cyberattacks, leaving enterprises with a narrowing window to fix long-standing security weaknesses before they are exploited. “In the coming months, AI-enabled cyber attacks will become far more widespread and sophisticated as models around the world become increasingly capable,” the group said in an open letter signed by more than 100 technology and cybersecurity firms, including Microsoft, Google, Amazon Web Services, and Anthropic. The coalition called on “leaders across industry and government to bring the full weight of their technology, resources, and expertise” to the effort, including putting “cyber-capable AI in the hands of defenders” and prioritizing fixes for high-risk weaknesses. The coalition said the shift is not about new vulnerabilities, but about scale, which is about AI systems accelerating the discovery and exploitation of weaknesses that enterprises have struggled to fix for years. The letter attributes the risk to the ability of AI systems to accelerate the discovery and exploitation of existing vulnerabilities."
-      ],
-      "url": "https://www.csoonline.com/article/4215838/openai-led-coalition-warns-ai-will-compress-cyberattack-timelines-expose-enterprise-weaknesses.html",
-      "source": "csoonline.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-08-31T00:00:00Z"
     }
   ],
   "month": [
@@ -763,6 +827,36 @@
       "publishedAt": "2026-09-01T09:01:54Z"
     },
     {
+      "id": "0b7b5734b2b5",
+      "title": "投资界24h|燧原科技IPO发行价142.18元/股；16个月，核聚变百亿独角兽诞生；殷拓EQT已完成对科勒资本合并_投资界",
+      "summary": "据报道，OpenAI等一些人工智能实验室已经购买了数万台Mac mini和Mac Studio，用于人工智能强化学习。OpenAI正在使用这些Mac来训练AI智能体，并且急需更多此类设备。另据知情人士透露，Anthropic也从亚马逊AWS租用Mac mini，一些初创公司甚至正在构建仅限Mac的云服务，以应对未来苹果硬件需求激增的情况。（财联社）\n\n#### 小红书内测“朋友圈”：取名“发日常”...",
+      "highlights": [
+        "据报道，OpenAI等一些人工智能实验室已经购买了数万台Mac mini和Mac Studio，用于人工智能强化学习",
+        "OpenAI正在使用这些Mac来训练AI智能体，并且急需更多此类设备",
+        "另据知情人士透露，Anthropic也从亚马逊AWS租用Mac mini，一些初创公司甚至正在构建仅限Mac的云服务，以应对未来苹果硬件需求激增的情况"
+      ],
+      "url": "https://news.pedaily.cn/202609/568369.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-01T01:03:00Z"
+    },
+    {
+      "id": "7cfbe5873466",
+      "title": "【立方基金通】国家大基金14亿注资可灵/VAST半年融50亿/320亿产业基金遴选子基金GP",
+      "summary": "推荐\n\n\n\n政经\n\n豫股\n\n中原股交\n\n金融\n\n债市\n\n豫商\n\n城市\n\n安阳\n\n科创\n\n招采\n\n投教\n\n 更多\n\n## 【立方基金通】国家大基金14亿注资可灵/VAST半年融50亿/320亿产业基金遴选子基金GP\n\n大河财立方\n2026-09-01 16:00:00\n\n第 070 期\n\n8月31日，快手科技发布公告，旗下AI视频生成大模型主体北京可灵引入国家级战略投资。国家人工智能产业投资基金合伙...",
+      "highlights": [
+        "## 【立方基金通】国家大基金14亿注资可灵/VAST半年融50亿/320亿产业基金遴选子基金GP",
+        "2026-09-01 16:00:00",
+        "8月31日，快手科技发布公告，旗下AI视频生成大模型主体北京可灵引入国家级战略投资"
+      ],
+      "url": "https://app.dahecube.com/article.html?artid=285385%3Frecid%3D1",
+      "source": "app.dahecube.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-01T08:00:00Z"
+    },
+    {
       "id": "5afadbd6ad23",
       "title": "中国AI模型监测：升级加速、用量猛增，云端进入新一轮上行周期",
       "summary": "AI云市场份额预计将从2025年的17%提升至2030年的66%。其中，AI MaaS（模型即服务）被视为增速最快的细分赛道——预计从2025年的人民币210亿元增长至2030年的6760亿元，年复合增长率高达81%。AI基础设施云（含GPU算力、训练与推理系统）预计从2025年的450亿元增长至2030年的4700亿元，年复合增长率为51%。\n\n在市场格局方面，美银美林预计阿里巴巴、腾讯、字节跳...",
@@ -776,6 +870,19 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-09-01T02:57:50Z"
+    },
+    {
+      "id": "af2307c1e0be",
+      "title": "合见工软发布下一代EDA创新矩阵，Agent智能体战略正式落地，3DIC设计前沿成果亮相",
+      "summary": "2026年9月1日，中国数字EDA/IP龙头企业上海合见工业软件集团股份有限公司（简称“合见工软”）在由EDA<sup>2</sup>主办的2026 IDAS设计自动化产业峰会期间，隆重召开了“2026合见工软",
+      "highlights": [
+        "2026年9月1日，中国数字EDA/IP龙头企业上海合见工业软件集团股份有限公司（简称“合见工软”）在由EDA<sup>2</sup>主办的2026 IDAS设计自动化产业峰会期间，隆重召开了“2026合见工软"
+      ],
+      "url": "https://time-weekly.com/post/332545",
+      "source": "time-weekly.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-01T15:00:00Z"
     },
     {
       "id": "f8388d6cbbd5",
