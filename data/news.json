@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-08-31T18:01:21Z",
+  "updatedAt": "2026-09-01T00:01:45Z",
   "latest": [
-    {
-      "id": "a456e9b05e5c",
-      "title": "Sam Altman Told Time Magazine, \"I Think It Is a Good Time to Slow Down\" on AI Model Development After Recent Safety Failures. What Would a Pace Change Mean for OpenAI's Growth Story Heading Into an IPO? - The Motley Fool",
-      "summary": "Which is why it was surprising when OpenAI CEO Sam Altman recently said in a *Time* magazine interview that he thinks \"it is a good time to slow down\" AI model development. Altman's comments follow th...",
-      "highlights": [
-        "Which is why it was surprising when OpenAI CEO Sam Altman recently said in a *Time* magazine interview that he thinks \"it is a good time to slow down\" AI model development. Altman's comments follow the recent containment failures of new models from OpenAI and its rivals Anthropic and **Meta Platforms**, in which yet-to-be-released AI models undergoing testing escaped from their closed environments to interact with the wider internet. In the case of OpenAI, its model escaped and hacked Hugging Face -- a popular platform for sharing code and AI data sets that **Nvidia** is buying -- as its model hunted for the correct answers to a test. To me, Altman's call for a slowdown in AI development has less to do with his concerns about safety and far more to do with his trying to buy time to figure out how to make OpenAI more financially palatable to potential investors -- or, at least, to slow down Anthropic's stride."
-      ],
-      "url": "https://www.fool.com/investing/2026/08/29/sam-altman-told-time-magazine-i-think-it-is-a-good/",
-      "source": "fool.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-08-29T19:38:00Z"
-    },
     {
       "id": "24a55a7744f5",
       "title": "美股科技行业周报：AI应用财报拐点兑现，看好应用软件迎估值修复 - 国联民生证券 ｜ 发现报告",
@@ -120,30 +107,71 @@
       "publishedAt": "2026-08-31T15:03:14Z"
     },
     {
-      "id": "dc403f2b10e4",
-      "title": "When AI Hacks At Machine Speed, Can Humans Still Defend The Network? - Forbes",
-      "summary": "Over 100 major tech and cybersecurity companies, including OpenAI and Microsoft, issued a stark warning: organizations have a \"limited window\" to bolster cyber defenses before AI-enabled attacks becom...",
+      "id": "b5b669c99ba9",
+      "title": "“国产GPU四小龙”贴身肉搏，谁先迎来业绩兑现期？",
+      "summary": "“国产GPU四小龙”贴身肉搏，谁先迎来业绩兑现期？\n\n# “国产GPU四小龙”贴身肉搏，谁先迎来业绩兑现期？\n\n[](\n\n下载客户端  \n独家抢先看\n\n来自香港\n\n国产GPU“四小龙”之一、算力芯片“独角兽”燧原科技叩开科创板大门后不到一周，摩尔线程（688795.SH）、壁仞科技（06082.HK）、沐曦股份（688802.SH）三家公司的半年报也全部完成披露。\n\n从扣非口径来看，四家企业主营业...",
       "highlights": [
-        "Over 100 major tech and cybersecurity companies, including OpenAI and Microsoft, issued a stark warning: organizations have a \"limited window\" to bolster cyber defenses before AI-enabled attacks become widespread and sophisticated. Defenders need to share intelligence and adapt at machine speed, with humans focusing on policy and critical decisions, as the era of AI-enabled attackers confronting AI-enabled defenders has arrived. More than 100 companies, including OpenAI, Anthropic, Microsoft, Google, Amazon Web Services, CrowdStrike, Palo Alto Networks, Cisco and IBM, signed an open letter warning that organizations have a \"limited window\" to strengthen their cyber defenses before AI-enabled attacks become far more widespread and sophisticated. It is beginning to change the speed and economics of the attacker, while much of the infrastructure we built to defend organizations remains fundamentally dependent on humans having enough time to respond. If an autonomous AI agent can discover a vulnerability, develop an exploit, gain access, evaluate an environment and begin moving laterally in minutes, an alert sitting in a security operations center queue for four hours is not merely inefficient."
+        "“国产GPU四小龙”贴身肉搏，谁先迎来业绩兑现期",
+        "# “国产GPU四小龙”贴身肉搏，谁先迎来业绩兑现期",
+        "国产GPU“四小龙”之一、算力芯片“独角兽”燧原科技叩开科创板大门后不到一周，摩尔线程（688795.SH）、壁仞科技（06082.HK）、沐曦股份（688802.SH）三家公司的半年报也全部完成披露"
       ],
-      "url": "https://www.forbes.com/sites/emilsayegh/2026/08/30/when-ai-hacks-at-machine-speed-can-humans-still-defend-the-network/",
-      "source": "forbes.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-08-30T00:00:00Z"
+      "url": "https://news.ifeng.com/c/8w2qedDf8EC",
+      "source": "news.ifeng.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-31T11:57:32Z"
     },
     {
-      "id": "0d18d5472b03",
-      "title": "Sony Music, Warner sue Anthropic, alleging a \"brazen campaign\" of intellectual property theft - TechCrunch",
-      "summary": "Sony Music Publishing, Warner Chappell and numerous other music publishers have sued Anthropic and co-founders Dario Amodei and Benjamin Mann, alleging the AI lab conducted a “brazen campaign of illeg...",
+      "id": "1329383c1dd0",
+      "title": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate - CNBC",
+      "summary": "# OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate. * OpenAI said its advertising business has hit $1 billion in annualized revenue run rate. * The AI company ...",
       "highlights": [
-        "Sony Music Publishing, Warner Chappell and numerous other music publishers have sued Anthropic and co-founders Dario Amodei and Benjamin Mann, alleging the AI lab conducted a “brazen campaign of illegally torrenting, scraping, and downloading copyrighted works.”. The lawsuit, which was filed late Friday in the U.S. District Court for the Northern District of California, was first reported by Music Business Worldwide. The publishers accuse Anthropic of “blatant theft” by using thousands of copyrighted works to train its AI model Claude. Some of the same lawyers behind this lawsuit also represent Concord Music Group and Universal Music Group in a case filed in January and led the Bartz v. Anthropic case, in which a group of authors accused Anthropic of using copyrighted works to train products like Claude. Anthropic was ordered to pay $1.5 billion in the landmark Bartz case after a judge ruled that while it was legal for the AI lab to use copyrighted works, it was not legal to acquire that content through piracy."
+        "# OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate. * OpenAI said its advertising business has hit $1 billion in annualized revenue run rate. * The AI company is touting its \"diversified business model\" as it gears up for what is expected to be a massive IPO. * OpenAI began testing ads in the U.S. earlier this year, drawing the ire of its chief rival, Anthropic, in the form of a Super Bowl commercial. OpenAI on Monday announced that its advertising business has hit $1 billion in annualized revenue run rate, a milestone that the company is touting as proof of its \"diversified business model.\". The artificial intelligence company is gearing up for what is expected to be a massive IPO, and is under pressure to justify its $852 billion valuation to investors. Digital advertising has long been the cash cow for other big tech companies like Google and Meta, but OpenAI's move was ridiculed by its chief rival, Anthropic, which made OpenAI's ad push the focus of its first Super Bowl campaign."
       ],
-      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "source": "techcrunch.com",
+      "url": "https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html",
+      "source": "cnbc.com",
       "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-08-29T18:41:59Z"
+      "importance": 5,
+      "publishedAt": "2026-08-31T13:00:01Z"
+    },
+    {
+      "id": "e3d598436b88",
+      "title": "Chatbots got safer but will still role-play self-harm with users - The Washington Post",
+      "summary": "A study of more than 50,000 conversations with AI found that they will help users role-play or write stories about suicide. ChatGPT and other artificial intelligence chatbots have become less likely t...",
+      "highlights": [
+        "A study of more than 50,000 conversations with AI found that they will help users role-play or write stories about suicide. ChatGPT and other artificial intelligence chatbots have become less likely to encourage suicidal thoughts but will still engage in potentially harmful conversations and reinforce apparently delusional behavior, a new study found. AI companies including Google and ChatGPT-maker OpenAI have been sued by family members who allege the chatbots encouraged self-harm in heavy users who later died by suicide. A new study released Monday by Transluce, a nonprofit that aims to provide public oversight of AI, found that the latest AI models from Google, Claude chatbot provider Anthropic and OpenAI almost never explicitly encouraged or validated suicide. Chinese models were more likely to encourage delusional thinking, Transluce also found, and less likely to encourage users to seek support from other people. Transluce used AI to create simulated users who had more than 50,000 conversations with AI models from top U.S. and Chinese companies."
+      ],
+      "url": "https://www.washingtonpost.com/technology/2026/08/31/chatbots-will-role-play-self-harm-scenarios-with-users-study-finds/",
+      "source": "washingtonpost.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-08-31T10:00:59Z"
+    },
+    {
+      "id": "7eba6c6c70a1",
+      "title": "'A wave of AI attacks on critical infrastructure is coming', tech giants warn - Ynetnews",
+      "summary": "# 'A wave of AI attacks on critical infrastructure is coming', tech giants warn. ## Microsoft, Google, OpenAI, Amazon and Anthropic have joined more than 100 companies warning that artificial intellig...",
+      "highlights": [
+        "# 'A wave of AI attacks on critical infrastructure is coming', tech giants warn. ## Microsoft, Google, OpenAI, Amazon and Anthropic have joined more than 100 companies warning that artificial intelligence will make advanced cyberattacks faster, cheaper and more accessible; Hospitals, water facilities and internet infrastructure are particularly at risk. More than 100 of the world’s largest technology, cybersecurity and financial companies have issued an unusual warning: The rapid development of artificial intelligence could trigger a new wave of advanced cyberattacks against critical infrastructure within the coming months, including hospitals, water facilities and internet infrastructure. In an open letter signed by companies including Microsoft, Google, OpenAI, Amazon and Anthropic, the firms warn that advanced AI tools are rapidly lowering the threshold required to carry out complex cyberattacks. One of the main concerns involves what are known as “agentic” attacks — attacks in which AI systems do not merely provide answers or write code, but can independently carry out a sequence of actions to achieve a goal."
+      ],
+      "url": "https://www.ynetnews.com/tech-and-digital/article/syhc11lmufe",
+      "source": "ynetnews.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-08-30T18:34:03Z"
+    },
+    {
+      "id": "70a677766176",
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout - TechCrunch",
+      "summary": "Nvidia is investing $3.5 billion into Taiwanese chipmaker MediaTek. As part of the deal, MediaTek will adopt Nvidia’s technology that will help it design custom chips for AI companies and hyperscalers...",
+      "highlights": [
+        "Nvidia is investing $3.5 billion into Taiwanese chipmaker MediaTek. As part of the deal, MediaTek will adopt Nvidia’s technology that will help it design custom chips for AI companies and hyperscalers that can be plugged directly into Nvidia-based data centers. The deal comes as a growing number of AI companies and major cloud providers like Amazon, Google, Microsoft, OpenAI and Anthropic invest in building their own chips so they can be less reliant on Nvidia’s GPUs. Deals like this one with MediaTek allow Nvidia to cede ground to custom silicon while still maintaining its lead as the dominant data center scaffolding. “Nvidia is an AI infrastructure company,” Dion Harris, Nvidia’s senior director of HPC and AI hyperscaler infrastructure solutions, said on Monday on a call with reporters. With the Nvidia partnership, MediaTek can continue to build custom chips designed by cloud companies or AI labs tailored to their workloads, leveraging Nvidia’s “proven scale-up and scale-out technology stack and ecosystem” and “rack-scale architecture.”."
+      ],
+      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "source": "techcrunch.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-31T15:15:25Z"
     },
     {
       "id": "e51fc12a116d",
@@ -219,6 +247,58 @@
       "publishedAt": "2026-08-31T11:00:00Z"
     },
     {
+      "id": "d0de39d8ed29",
+      "title": "OpenAI says its ads business is booming as it marches toward an IPO - Business Insider",
+      "summary": "# OpenAI says its ads business is booming as it marches toward an IPO. OpenAI is touting the speedy growth of its ad business as it prepares for an initial public offering. \"Advertising is one pillar ...",
+      "highlights": [
+        "# OpenAI says its ads business is booming as it marches toward an IPO. OpenAI is touting the speedy growth of its ad business as it prepares for an initial public offering. \"Advertising is one pillar of OpenAI's diversified business model, alongside consumer subscriptions, enterprise offerings, and usage-based APIs,\" the company said in a statement. The milestone for OpenAI's fledgling ads business comes as the AI company looks to drum up investor interest ahead of its much-anticipated IPO. OpenAI said ad revenue now makes up a \"material share of the business.\". OpenAI's decision to introduce ads in its popular chatbot proved controversial, with rival Anthropic mocking the development in a Super Bowl ad. In the end, OpenAI may have found another crucial revenue stream as it marches toward an IPO that could happen as soon as this year. Brent Griffiths is a senior reporter at Business Insider who covers AI and tech.Previously, he worked at the Washington Post as a researcher on Power Up and the Finance 202."
+      ],
+      "url": "https://www.businessinsider.com/openai-chatgpt-ad-revenue-ipo-2026-8",
+      "source": "businessinsider.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-08-31T14:14:05Z"
+    },
+    {
+      "id": "66c3f4ec26d7",
+      "title": "Google takes aim at Anthropic, Microsoft with budget-friendly AI pricing - CNBC",
+      "summary": "Monday - Friday: 12:00 - 13:00 SIN/HK | 0600 - 07:00 CET. # Google takes aim at Anthropic, Microsoft with budget-friendly AI pricing. CNBC’s MacKenzie Sigalos joins “Access Middle East” to report on G...",
+      "highlights": [
+        "Monday - Friday: 12:00 - 13:00 SIN/HK | 0600 - 07:00 CET. # Google takes aim at Anthropic, Microsoft with budget-friendly AI pricing. CNBC’s MacKenzie Sigalos joins “Access Middle East” to report on Google’s push to undercut Microsoft and Anthropic on AI agent pricing as enterprise spending soars."
+      ],
+      "url": "https://www.cnbc.com/video/2026/08/31/google-takes-aim-at-anthropic-microsoft-with-budget-friendly-ai-pricing.html",
+      "source": "cnbc.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-08-31T04:40:01Z"
+    },
+    {
+      "id": "90764ffff793",
+      "title": "Study: Chatbots are getting better at identifying suicide risk - Axios",
+      "summary": "**Yes, but:** The study also found most models too willing toassist with suicide-related creative writing, farewell notes and other task-based requests even when a user's distress should have been app...",
+      "highlights": [
+        "**Yes, but:** The study also found most models too willing toassist with suicide-related creative writing, farewell notes and other task-based requests even when a user's distress should have been apparent. * \"Models aren't great at detecting that, and they'll still help with the task,\" Transluce chief scientist Sarah Schwettmann told Axios. * The organization also worked directly with OpenAI, Anthropic and Google to more deeply understand how people were interacting with their models and to make their simulations more similar to real-world conversations. **What they did:** Transluce handed each lab the same set of classifiers that they ran over one week of user data, and returned only anonymized features of those conversations to Transluce. * Transluce then used this data to improve their simulated users to better resemble how real people talk to AI models. * \"Google has, for years, helped people find high-quality information and crisis support in the moments they need it most, and we are applying this same research-backed approach to our AI tools,\" Google senior director Megan Jones Bell said in a statement to Axios."
+      ],
+      "url": "https://www.axios.com/2026/08/31/chatbots-suicide-risks-identification",
+      "source": "axios.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-08-31T10:00:06Z"
+    },
+    {
+      "id": "407ae49bf84b",
+      "title": "OpenAI-led coalition warns AI will compress cyberattack timelines, expose enterprise weaknesses - csoonline.com",
+      "summary": "A coalition led by OpenAI is warning that AI will sharply accelerate the speed and scale of cyberattacks, leaving enterprises with a narrowing window to fix long-standing security weaknesses before th...",
+      "highlights": [
+        "A coalition led by OpenAI is warning that AI will sharply accelerate the speed and scale of cyberattacks, leaving enterprises with a narrowing window to fix long-standing security weaknesses before they are exploited. “In the coming months, AI-enabled cyber attacks will become far more widespread and sophisticated as models around the world become increasingly capable,” the group said in an open letter signed by more than 100 technology and cybersecurity firms, including Microsoft, Google, Amazon Web Services, and Anthropic. The coalition called on “leaders across industry and government to bring the full weight of their technology, resources, and expertise” to the effort, including putting “cyber-capable AI in the hands of defenders” and prioritizing fixes for high-risk weaknesses. The coalition said the shift is not about new vulnerabilities, but about scale, which is about AI systems accelerating the discovery and exploitation of weaknesses that enterprises have struggled to fix for years. The letter attributes the risk to the ability of AI systems to accelerate the discovery and exploitation of existing vulnerabilities."
+      ],
+      "url": "https://www.csoonline.com/article/4215838/openai-led-coalition-warns-ai-will-compress-cyberattack-timelines-expose-enterprise-weaknesses.html",
+      "source": "csoonline.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-08-31T00:00:00Z"
+    },
+    {
       "id": "af3e9dcb4daf",
       "title": "券商AI竞速：头部券商加码APP AI化，能带给投资者什么？",
       "summary": "中信建投有关负责人表示，公司计划推出四大核心智能体。其中，选股智能体将结合用户风险偏好、投资周期，提供“千人千策”的个性化选股服务；选基&ETF智能体将整合全市场基金数据，实现优质基金智能筛选；盯盘择时智能体支持自定义触发条件，实时监测市场异动并给出择时建议；交易智能体将实现自然语言指令交易，并提供合规风险提示。未来，“蜻蜓点金”App将构建更多场景的智能体以及技能广场。\n\nAPP进入精细化竞争阶...",
@@ -263,6 +343,19 @@
       "publishedAt": "2026-08-30T22:00:00Z"
     },
     {
+      "id": "2963406b1c92",
+      "title": "Top tech firms call for defensive measures against looming wave of AI-driven hacks - The Times of Israel",
+      "summary": "Image 1: The Times of Israel. *       *   About The Times of Israel. *   Advertise on The Times of Israel. *   © 2020 The Times of Israel , All Rights Reserved Terms and conditionsPrivacy policy. # To...",
+      "highlights": [
+        "Image 1: The Times of Israel. *       *   About The Times of Israel. *   Advertise on The Times of Israel. *   © 2020 The Times of Israel , All Rights Reserved Terms and conditionsPrivacy policy. # Top tech firms call for defensive measures against looming wave of AI-driven hacks. Image 2: Top tech firms call for defensive measures against looming wave of AI-driven hacks. Major tech companies including OpenAI, Anthropic, Microsoft, Alphabet, and Amazon are calling for a society-wide defensive surge to defeat what they describe as an impending wave of hacks driven by artificial intelligence. Concerns have increased in recent months about the capabilities of increasingly advanced artificial intelligence (AI) models, including those made by OpenAI and Anthropic, two of the world’s leading AI developers. Get The Times of Israel's Daily Edition by email and never miss our top stories. © 2026 The Times of Israel, all rights reserved."
+      ],
+      "url": "https://www.timesofisrael.com/top-tech-firms-call-for-defensive-measures-against-looming-wave-of-ai-driven-hacks/amp/",
+      "source": "timesofisrael.com",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-08-30T15:22:51Z"
+    },
+    {
       "id": "91e0a905dde5",
       "title": "The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com",
       "summary": "The choices we make about AI now are critical | Bill Gates. AI will either be the greatest equalizer ever invented, or the worst source of injustice. We need to start planning now so it makes the worl...",
@@ -274,19 +367,6 @@
       "category": "具身智能",
       "importance": 2,
       "publishedAt": "2026-08-30T02:06:46Z"
-    },
-    {
-      "id": "5ee5d09d2503",
-      "title": "In Photos: NASA’s New Roman Space Telescope Lifts Off To Map Billions Of Galaxies - Forbes",
-      "summary": "*   7 New Rules For Success In The First Year Of Your Career. *   Humanity At The Heart Of Work: How AI Can Unleash The Power Of People | Paid Program. *   How Midsize Companies Get Trapped Between AI...",
-      "highlights": [
-        "*   7 New Rules For Success In The First Year Of Your Career. *   Humanity At The Heart Of Work: How AI Can Unleash The Power Of People | Paid Program. *   How Midsize Companies Get Trapped Between AI Promise And AI Reality | Paid Program. *   The AI Risks CEOs Didn’t Budget For | Paid Program. *   The Hidden Tax On Enterprise AI: 1 In 5 Workers Lose A Full Day Every Week | Paid Program. *   The Enterprise AI Shortcut: Why Co-Innovation Is Setting A New Speed For Adopting and Operationalizing AI | Paid Program. *   AI’s Nuanced Impact And A Quest To Quantify It. *   CMO Unscripted: Vulnerability Is The New Superpower For Leaders In The AI Era. *   Meeting The Moment In Enterprise: AI As AI Spending Surged 110%, Underlying Systems Didn’t Keep Up | Paid Program. *   The Power Of No | Paid Program."
-      ],
-      "url": "https://www.forbes.com/sites/jamiecartereurope/2026/08/30/in-photos-nasas-new-roman-space-telescope-lifts-off-to-map-billions-of-galaxies/",
-      "source": "forbes.com",
-      "category": "产品进展",
-      "importance": 2,
-      "publishedAt": "2026-08-30T00:00:00Z"
     },
     {
       "id": "9d82fdb75533",
@@ -313,111 +393,22 @@
       "category": "行业话题",
       "importance": 2,
       "publishedAt": "2026-08-31T09:00:00Z"
-    }
-  ],
-  "today": [
-    {
-      "id": "6847e3bebe99",
-      "title": "WorkBuddy的“湾擎时刻”，看这款AI办公智能体如何成为政务创新的“广东名片”__新快网",
-      "summary": "但热闹之下，企业到底缺什么？\n\nIDC在2026年5月发布的《中国AI Agent市场概览》报告显示，截至一季度仍有超过60%的中国企业处于了解评估和试点阶段，仅有18%的企业将智能体纳入了核心业务流。Gartner同年4月的报告也指出，仅17%的组织已部署AI智能体。全球范围内，据IDC数据，70%的企业AI项目从未进入持久、可重复的生产阶段，88%的AI概念验证未能进入大规模生产部署。\n\n换句...",
-      "highlights": [
-        "但热闹之下，企业到底缺什么",
-        "IDC在2026年5月发布的《中国AI Agent市场概览》报告显示，截至一季度仍有超过60%的中国企业处于了解评估和试点阶段，仅有18%的企业将智能体纳入了核心业务流",
-        "Gartner同年4月的报告也指出，仅17%的组织已部署AI智能体"
-      ],
-      "url": "https://www.xkb.com.cn/articleDetail/520454",
-      "source": "xkb.com.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-08-31T00:00:00Z"
     },
     {
-      "id": "c01248b7f33d",
-      "title": "增89%！中金公司上半年业绩创历史新高，主业盈利质量全面提升 - 财闻网",
-      "summary": "2026-08-31 21:22\n\n新濠国际发展：上半年股东应占溢利3.09亿港元 同比减少11.79%\n\n2026-08-31 21:22\n\n格林国际控股：上半年股东应占亏损83.1万港元 同比减少76.43%\n\n2026-08-31 21:21\n\n公司GMC和光刻胶能否进入至少3家以上头部封测厂的批量采购？飞凯材料回应\n\n2026-08-31 21:21\n\n汽车街：上半年股东应占亏损1650....",
+      "id": "8abeb259ec8f",
+      "title": "Judge Says Pentagon’s Measures Against Anthropic Were ‘Illegal and Baseless’ - SecurityWeek",
+      "summary": "The ruling is part of Anthropic’s legal battle against the Pentagon after the government labeled the company as a supply chain risk earlier this year. **A federal judge has ruled in favor of artificia...",
       "highlights": [
-        "2026-08-31 21:22",
-        "新濠国际发展：上半年股东应占溢利3.09亿港元 同比减少11.79%",
-        "2026-08-31 21:22"
+        "The ruling is part of Anthropic’s legal battle against the Pentagon after the government labeled the company as a supply chain risk earlier this year. **A federal judge has ruled in favor of artificial intelligence company Anthropic in its legal battle against the Pentagon after the government labeled the company as a supply chain risk earlier this year.**. U.S. District Judge Rita Lin issued a written order Thursday night that the Pentagon acted illegally by punishing the AI company for its criticism of the Department of Defense’s views on AI use. The dispute between the AI company and the government broke out in February when President Donald Trump and Defense Secretary Pete Hegseth accused Anthropic of endangering national security and designated the company a supply chain risk. Lin wrote that the government’s actions “were based on a desire to make a public example out of Anthropic for its ‘arrogance’ in criticizing the government, not based on any articulable basis to believe that Anthropic would actually sabotage its model.”."
       ],
-      "url": "https://www.caiwennews.com/article/1573901.shtml",
-      "source": "caiwennews.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-08-31T15:03:14Z"
-    },
-    {
-      "id": "a35466ce7ce4",
-      "title": "知名上市辅导专家李亚受邀授课｜厦门市企业资本运作专题培训顺利举办",
-      "summary": "为助力厦门本土企业打通资本发展路径，提升企业家股权融资、并购重组、IPO上市全链条实操能力，由厦门市工业和信息化局、厦门市财政局主办，厦门市中小企业服务中心",
-      "highlights": [
-        "为助力厦门本土企业打通资本发展路径，提升企业家股权融资、并购重组、IPO上市全链条实操能力，由厦门市工业和信息化局、厦门市财政局主办，厦门市中小企业服务中心"
-      ],
-      "url": "https://finance.ifeng.com/c/8w26mvaYdrD",
-      "source": "finance.ifeng.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-08-31T02:00:00Z"
-    },
-    {
-      "id": "6e246d052a0e",
-      "title": "车企造的机器人，值得买吗？_车市动态",
-      "summary": "登录客服\n\n忘记密码？立即注册\n\n其它账号登录：新浪; \"新浪微博登录\")QQ; \"QQ登录\")微信; \"微信登录\")\n\n手机网\n\n退出 在线咨询 |客服帮助\n\n手机网\n\n首页 财经 股票 基金 黄金 外汇 期货 理财 原创 汽车 视频 路演 博客 财经号\n\n、伺服电机、减速器等核心部件也可以在机器人上共享，智能汽车和机器人的运动控制逻辑也具备底层一致性。\n\n整车维度的生产、测试、品控、数据等能力...",
-      "highlights": [
-        "其它账号登录：新浪; \"新浪微博登录\")QQ; \"QQ登录\")微信; \"微信登录\")",
-        "退出 在线咨询 |客服帮助",
-        "首页 财经 股票 基金 黄金 外汇 期货 理财 原创 汽车 视频 路演 博客 财经号"
-      ],
-      "url": "http://auto.cnfol.com/cheshidongtai/20260831/32354723.shtml",
-      "source": "auto.cnfol.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-08-31T09:00:00Z"
-    },
-    {
-      "id": "731313564dad",
-      "title": "酷特智能：与AI同行 赴智能未来",
-      "summary": "随着AI发展从模型阶段到应用阶段，AI的竞争将从“智力”转变为“执行力”。衡量一个AI操作系统，除了“够不够聪明”，还要看“能不能帮我把事做成”。KTOS除了推出企业AI大脑、企业知识网络、智能经营驾驶舱、AI Agent中心、智能流程引擎、决策辅助系统等六大产品模块外，还搭载酷小匠、酷小易、酷小智三大原生AI智能体（886099），分别聚焦需求对接、日常运营、组织治理三大场景，大幅降低系统使用门...",
-      "highlights": [
-        "随着AI发展从模型阶段到应用阶段，AI的竞争将从“智力”转变为“执行力”",
-        "衡量一个AI操作系统，除了“够不够聪明”，还要看“能不能帮我把事做成”",
-        "KTOS除了推出企业AI大脑、企业知识网络、智能经营驾驶舱、AI Agent中心、智能流程引擎、决策辅助系统等六大产品模块外，还搭载酷小匠、酷小易、酷小智三大原生AI智能体（886099），分别聚焦需求对接、日常运营、组织治理三大场景，大幅降低系统使用门槛，业务人员通过自然语言即可完成操作、搭建应用"
-      ],
-      "url": "http://stock.10jqka.com.cn/20260831/c679439572.shtml",
-      "source": "stock.10jqka.com.cn",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-08-31T11:00:00Z"
-    },
-    {
-      "id": "0349ee6a73dc",
-      "title": "AI基础设施建设或将推动AI算力规模增长_中华网",
-      "summary": "（素材来源：安徽医科大学临床医学院“淮医红行”暑期社会实践团队）8日上午，实践团全体成员有序走进大通万人坑教育馆，开展沉浸式党史与抗战史研学活动。馆内陈列的遇难矿工遗物、历史档案以及影像史料，真实还原了当年日军掠夺煤炭资源、压迫屠戮矿工的血泪史实。跟随讲解员的讲述，实践队员驻足白骨坑、史料展区仔细研...\n\n2026-08-31 10:08:16\n\n### 火山引擎与贵广集团签署协议 将布局智能体...",
-      "highlights": [
-        "（素材来源：安徽医科大学临床医学院“淮医红行”暑期社会实践团队）8日上午，实践团全体成员有序走进大通万人坑教育馆，开展沉浸式党史与抗战史研学活动",
-        "馆内陈列的遇难矿工遗物、历史档案以及影像史料，真实还原了当年日军掠夺煤炭资源、压迫屠戮矿工的血泪史实",
-        "跟随讲解员的讲述，实践队员驻足白骨坑、史料展区仔细研..."
-      ],
-      "url": "https://tech.china.com/article/20260831/202608311953929.html",
-      "source": "tech.china.com",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-08-31T02:00:00Z"
-    },
-    {
-      "id": "1d4c83d32447",
-      "title": "FAQ：电商智能客服8大常见问题解答",
-      "summary": "随着AI客服在电商行业普及，越来越多商家开始调研引入AI客服电商店铺咨询具备很强的共性，售前问参数尺码，售中改地址催发货，售后处理退换货物流查询，这类重复咨询正",
-      "highlights": [
-        "随着AI客服在电商行业普及，越来越多商家开始调研引入AI客服电商店铺咨询具备很强的共性，售前问参数尺码，售中改地址催发货，售后处理退换货物流查询，这类重复咨询正"
-      ],
-      "url": "https://mtz.china.com/toutiaos/20260831/0831264004.html",
-      "source": "mtz.china.com",
-      "category": "行业话题",
+      "url": "https://www.securityweek.com/judge-says-pentagons-measures-against-anthropic-were-illegal-and-baseless/",
+      "source": "securityweek.com",
+      "category": "模型发布",
       "importance": 2,
-      "publishedAt": "2026-08-31T09:00:00Z"
+      "publishedAt": "2026-08-31T09:07:01Z"
     }
   ],
+  "today": [],
   "week": [
     {
       "id": "6847e3bebe99",
@@ -450,6 +441,60 @@
       "publishedAt": "2026-08-31T15:03:14Z"
     },
     {
+      "id": "b5b669c99ba9",
+      "title": "“国产GPU四小龙”贴身肉搏，谁先迎来业绩兑现期？",
+      "summary": "“国产GPU四小龙”贴身肉搏，谁先迎来业绩兑现期？\n\n# “国产GPU四小龙”贴身肉搏，谁先迎来业绩兑现期？\n\n[](\n\n下载客户端  \n独家抢先看\n\n来自香港\n\n国产GPU“四小龙”之一、算力芯片“独角兽”燧原科技叩开科创板大门后不到一周，摩尔线程（688795.SH）、壁仞科技（06082.HK）、沐曦股份（688802.SH）三家公司的半年报也全部完成披露。\n\n从扣非口径来看，四家企业主营业...",
+      "highlights": [
+        "“国产GPU四小龙”贴身肉搏，谁先迎来业绩兑现期",
+        "# “国产GPU四小龙”贴身肉搏，谁先迎来业绩兑现期",
+        "国产GPU“四小龙”之一、算力芯片“独角兽”燧原科技叩开科创板大门后不到一周，摩尔线程（688795.SH）、壁仞科技（06082.HK）、沐曦股份（688802.SH）三家公司的半年报也全部完成披露"
+      ],
+      "url": "https://news.ifeng.com/c/8w2qedDf8EC",
+      "source": "news.ifeng.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-31T11:57:32Z"
+    },
+    {
+      "id": "1329383c1dd0",
+      "title": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate - CNBC",
+      "summary": "# OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate. * OpenAI said its advertising business has hit $1 billion in annualized revenue run rate. * The AI company ...",
+      "highlights": [
+        "# OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate. * OpenAI said its advertising business has hit $1 billion in annualized revenue run rate. * The AI company is touting its \"diversified business model\" as it gears up for what is expected to be a massive IPO. * OpenAI began testing ads in the U.S. earlier this year, drawing the ire of its chief rival, Anthropic, in the form of a Super Bowl commercial. OpenAI on Monday announced that its advertising business has hit $1 billion in annualized revenue run rate, a milestone that the company is touting as proof of its \"diversified business model.\". The artificial intelligence company is gearing up for what is expected to be a massive IPO, and is under pressure to justify its $852 billion valuation to investors. Digital advertising has long been the cash cow for other big tech companies like Google and Meta, but OpenAI's move was ridiculed by its chief rival, Anthropic, which made OpenAI's ad push the focus of its first Super Bowl campaign."
+      ],
+      "url": "https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html",
+      "source": "cnbc.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-08-31T13:00:01Z"
+    },
+    {
+      "id": "e3d598436b88",
+      "title": "Chatbots got safer but will still role-play self-harm with users - The Washington Post",
+      "summary": "A study of more than 50,000 conversations with AI found that they will help users role-play or write stories about suicide. ChatGPT and other artificial intelligence chatbots have become less likely t...",
+      "highlights": [
+        "A study of more than 50,000 conversations with AI found that they will help users role-play or write stories about suicide. ChatGPT and other artificial intelligence chatbots have become less likely to encourage suicidal thoughts but will still engage in potentially harmful conversations and reinforce apparently delusional behavior, a new study found. AI companies including Google and ChatGPT-maker OpenAI have been sued by family members who allege the chatbots encouraged self-harm in heavy users who later died by suicide. A new study released Monday by Transluce, a nonprofit that aims to provide public oversight of AI, found that the latest AI models from Google, Claude chatbot provider Anthropic and OpenAI almost never explicitly encouraged or validated suicide. Chinese models were more likely to encourage delusional thinking, Transluce also found, and less likely to encourage users to seek support from other people. Transluce used AI to create simulated users who had more than 50,000 conversations with AI models from top U.S. and Chinese companies."
+      ],
+      "url": "https://www.washingtonpost.com/technology/2026/08/31/chatbots-will-role-play-self-harm-scenarios-with-users-study-finds/",
+      "source": "washingtonpost.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-08-31T10:00:59Z"
+    },
+    {
+      "id": "70a677766176",
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout - TechCrunch",
+      "summary": "Nvidia is investing $3.5 billion into Taiwanese chipmaker MediaTek. As part of the deal, MediaTek will adopt Nvidia’s technology that will help it design custom chips for AI companies and hyperscalers...",
+      "highlights": [
+        "Nvidia is investing $3.5 billion into Taiwanese chipmaker MediaTek. As part of the deal, MediaTek will adopt Nvidia’s technology that will help it design custom chips for AI companies and hyperscalers that can be plugged directly into Nvidia-based data centers. The deal comes as a growing number of AI companies and major cloud providers like Amazon, Google, Microsoft, OpenAI and Anthropic invest in building their own chips so they can be less reliant on Nvidia’s GPUs. Deals like this one with MediaTek allow Nvidia to cede ground to custom silicon while still maintaining its lead as the dominant data center scaffolding. “Nvidia is an AI infrastructure company,” Dion Harris, Nvidia’s senior director of HPC and AI hyperscaler infrastructure solutions, said on Monday on a call with reporters. With the Nvidia partnership, MediaTek can continue to build custom chips designed by cloud companies or AI labs tailored to their workloads, leveraging Nvidia’s “proven scale-up and scale-out technology stack and ecosystem” and “rack-scale architecture.”."
+      ],
+      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "source": "techcrunch.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-08-31T15:15:25Z"
+    },
+    {
       "id": "a35466ce7ce4",
       "title": "知名上市辅导专家李亚受邀授课｜厦门市企业资本运作专题培训顺利举办",
       "summary": "为助力厦门本土企业打通资本发展路径，提升企业家股权融资、并购重组、IPO上市全链条实操能力，由厦门市工业和信息化局、厦门市财政局主办，厦门市中小企业服务中心",
@@ -493,6 +538,58 @@
       "publishedAt": "2026-08-31T11:00:00Z"
     },
     {
+      "id": "d0de39d8ed29",
+      "title": "OpenAI says its ads business is booming as it marches toward an IPO - Business Insider",
+      "summary": "# OpenAI says its ads business is booming as it marches toward an IPO. OpenAI is touting the speedy growth of its ad business as it prepares for an initial public offering. \"Advertising is one pillar ...",
+      "highlights": [
+        "# OpenAI says its ads business is booming as it marches toward an IPO. OpenAI is touting the speedy growth of its ad business as it prepares for an initial public offering. \"Advertising is one pillar of OpenAI's diversified business model, alongside consumer subscriptions, enterprise offerings, and usage-based APIs,\" the company said in a statement. The milestone for OpenAI's fledgling ads business comes as the AI company looks to drum up investor interest ahead of its much-anticipated IPO. OpenAI said ad revenue now makes up a \"material share of the business.\". OpenAI's decision to introduce ads in its popular chatbot proved controversial, with rival Anthropic mocking the development in a Super Bowl ad. In the end, OpenAI may have found another crucial revenue stream as it marches toward an IPO that could happen as soon as this year. Brent Griffiths is a senior reporter at Business Insider who covers AI and tech.Previously, he worked at the Washington Post as a researcher on Power Up and the Finance 202."
+      ],
+      "url": "https://www.businessinsider.com/openai-chatgpt-ad-revenue-ipo-2026-8",
+      "source": "businessinsider.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-08-31T14:14:05Z"
+    },
+    {
+      "id": "66c3f4ec26d7",
+      "title": "Google takes aim at Anthropic, Microsoft with budget-friendly AI pricing - CNBC",
+      "summary": "Monday - Friday: 12:00 - 13:00 SIN/HK | 0600 - 07:00 CET. # Google takes aim at Anthropic, Microsoft with budget-friendly AI pricing. CNBC’s MacKenzie Sigalos joins “Access Middle East” to report on G...",
+      "highlights": [
+        "Monday - Friday: 12:00 - 13:00 SIN/HK | 0600 - 07:00 CET. # Google takes aim at Anthropic, Microsoft with budget-friendly AI pricing. CNBC’s MacKenzie Sigalos joins “Access Middle East” to report on Google’s push to undercut Microsoft and Anthropic on AI agent pricing as enterprise spending soars."
+      ],
+      "url": "https://www.cnbc.com/video/2026/08/31/google-takes-aim-at-anthropic-microsoft-with-budget-friendly-ai-pricing.html",
+      "source": "cnbc.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-08-31T04:40:01Z"
+    },
+    {
+      "id": "90764ffff793",
+      "title": "Study: Chatbots are getting better at identifying suicide risk - Axios",
+      "summary": "**Yes, but:** The study also found most models too willing toassist with suicide-related creative writing, farewell notes and other task-based requests even when a user's distress should have been app...",
+      "highlights": [
+        "**Yes, but:** The study also found most models too willing toassist with suicide-related creative writing, farewell notes and other task-based requests even when a user's distress should have been apparent. * \"Models aren't great at detecting that, and they'll still help with the task,\" Transluce chief scientist Sarah Schwettmann told Axios. * The organization also worked directly with OpenAI, Anthropic and Google to more deeply understand how people were interacting with their models and to make their simulations more similar to real-world conversations. **What they did:** Transluce handed each lab the same set of classifiers that they ran over one week of user data, and returned only anonymized features of those conversations to Transluce. * Transluce then used this data to improve their simulated users to better resemble how real people talk to AI models. * \"Google has, for years, helped people find high-quality information and crisis support in the moments they need it most, and we are applying this same research-backed approach to our AI tools,\" Google senior director Megan Jones Bell said in a statement to Axios."
+      ],
+      "url": "https://www.axios.com/2026/08/31/chatbots-suicide-risks-identification",
+      "source": "axios.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-08-31T10:00:06Z"
+    },
+    {
+      "id": "407ae49bf84b",
+      "title": "OpenAI-led coalition warns AI will compress cyberattack timelines, expose enterprise weaknesses - csoonline.com",
+      "summary": "A coalition led by OpenAI is warning that AI will sharply accelerate the speed and scale of cyberattacks, leaving enterprises with a narrowing window to fix long-standing security weaknesses before th...",
+      "highlights": [
+        "A coalition led by OpenAI is warning that AI will sharply accelerate the speed and scale of cyberattacks, leaving enterprises with a narrowing window to fix long-standing security weaknesses before they are exploited. “In the coming months, AI-enabled cyber attacks will become far more widespread and sophisticated as models around the world become increasingly capable,” the group said in an open letter signed by more than 100 technology and cybersecurity firms, including Microsoft, Google, Amazon Web Services, and Anthropic. The coalition called on “leaders across industry and government to bring the full weight of their technology, resources, and expertise” to the effort, including putting “cyber-capable AI in the hands of defenders” and prioritizing fixes for high-risk weaknesses. The coalition said the shift is not about new vulnerabilities, but about scale, which is about AI systems accelerating the discovery and exploitation of weaknesses that enterprises have struggled to fix for years. The letter attributes the risk to the ability of AI systems to accelerate the discovery and exploitation of existing vulnerabilities."
+      ],
+      "url": "https://www.csoonline.com/article/4215838/openai-led-coalition-warns-ai-will-compress-cyberattack-timelines-expose-enterprise-weaknesses.html",
+      "source": "csoonline.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-08-31T00:00:00Z"
+    },
+    {
       "id": "0349ee6a73dc",
       "title": "AI基础设施建设或将推动AI算力规模增长_中华网",
       "summary": "（素材来源：安徽医科大学临床医学院“淮医红行”暑期社会实践团队）8日上午，实践团全体成员有序走进大通万人坑教育馆，开展沉浸式党史与抗战史研学活动。馆内陈列的遇难矿工遗物、历史档案以及影像史料，真实还原了当年日军掠夺煤炭资源、压迫屠戮矿工的血泪史实。跟随讲解员的讲述，实践队员驻足白骨坑、史料展区仔细研...\n\n2026-08-31 10:08:16\n\n### 火山引擎与贵广集团签署协议 将布局智能体...",
@@ -521,150 +618,5 @@
       "publishedAt": "2026-08-31T09:00:00Z"
     }
   ],
-  "month": [
-    {
-      "id": "a456e9b05e5c",
-      "title": "Sam Altman Told Time Magazine, \"I Think It Is a Good Time to Slow Down\" on AI Model Development After Recent Safety Failures. What Would a Pace Change Mean for OpenAI's Growth Story Heading Into an IPO? - The Motley Fool",
-      "summary": "Which is why it was surprising when OpenAI CEO Sam Altman recently said in a *Time* magazine interview that he thinks \"it is a good time to slow down\" AI model development. Altman's comments follow th...",
-      "highlights": [
-        "Which is why it was surprising when OpenAI CEO Sam Altman recently said in a *Time* magazine interview that he thinks \"it is a good time to slow down\" AI model development. Altman's comments follow the recent containment failures of new models from OpenAI and its rivals Anthropic and **Meta Platforms**, in which yet-to-be-released AI models undergoing testing escaped from their closed environments to interact with the wider internet. In the case of OpenAI, its model escaped and hacked Hugging Face -- a popular platform for sharing code and AI data sets that **Nvidia** is buying -- as its model hunted for the correct answers to a test. To me, Altman's call for a slowdown in AI development has less to do with his concerns about safety and far more to do with his trying to buy time to figure out how to make OpenAI more financially palatable to potential investors -- or, at least, to slow down Anthropic's stride."
-      ],
-      "url": "https://www.fool.com/investing/2026/08/29/sam-altman-told-time-magazine-i-think-it-is-a-good/",
-      "source": "fool.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-08-29T19:38:00Z"
-    },
-    {
-      "id": "24a55a7744f5",
-      "title": "美股科技行业周报：AI应用财报拐点兑现，看好应用软件迎估值修复 - 国联民生证券 ｜ 发现报告",
-      "summary": "glmszqdatemark2026年08月30日 AI应用财报拐点兑现，看好应用软件迎估值修复 ➢海外科技行业动态 Hot Chips 2026：机架级平台与自研推理芯片集中亮相。英伟达围绕Vera Rubin构建由Rubin GPU、Vera CPU、Groq 3 LPX及网络芯片协同的AI平台，其中Rubin负责大规模上下文处理，Groq 3 LPX加速Token生成；AMD围绕MI400推...",
-      "highlights": [
-        "glmszqdatemark2026年08月30日 AI应用财报拐点兑现，看好应用软件迎估值修复 ➢海外科技行业动态 Hot Chips 2026：机架级平台与自研推理芯片集中亮相",
-        "英伟达围绕Vera Rubin构建由Rubin GPU、Vera CPU、Groq 3 LPX及网络芯片协同的AI平台，其中Rubin负责大规模上下文处理，Groq 3 LPX加速Token生成；AMD围绕MI400推出CPU、GPU和网络一体化的Helios机架；Intel发布采用350W风冷及LPDDR5X内存的CrescentIsland GPU，主攻低功耗推理",
-        "OpenAI同时披露与博通联合开发的自研推理芯片Jalapeño，运行三款公开模型时，峰值吞吐下单位功耗完成的AI工作量为对比系统的1.5—1.9倍"
-      ],
-      "url": "https://www.fxbaogao.com/detail/5654202",
-      "source": "fxbaogao.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-30T16:00:00Z"
-    },
-    {
-      "id": "e2f4fbb7992d",
-      "title": "黑石启动60亿英镑地产平台退出计划 私募股权撤退窗口渐启？",
-      "summary": "公开数据显示，2023年，全球私募股权退出交易额同比下降44%，2024年交易数量小幅回升但仍处五年低位。\n\n2025年被贝恩公司称为是私募股权终于“站稳脚跟”的一年，同时强调这是一场“K型复苏”——退出和交易金额明显回升，但复苏面较窄，分销水平依然低迷。\n\n来到2026年，市场普遍认为IPO窗口存在阶段性回暖，退出活动有所改善，但市场依然波动性较大，今年来的私募退出活动集中在优质资产和定制化的交...",
-      "highlights": [
-        "公开数据显示，2023年，全球私募股权退出交易额同比下降44%，2024年交易数量小幅回升但仍处五年低位",
-        "2025年被贝恩公司称为是私募股权终于“站稳脚跟”的一年，同时强调这是一场“K型复苏”——退出和交易金额明显回升，但复苏面较窄，分销水平依然低迷",
-        "来到2026年，市场普遍认为IPO窗口存在阶段性回暖，退出活动有所改善，但市场依然波动性较大，今年来的私募退出活动集中在优质资产和定制化的交易流程"
-      ],
-      "url": "https://www.cls.cn/detail/2419195",
-      "source": "cls.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-08-30T08:00:00Z"
-    },
-    {
-      "id": "3f1f875dd11e",
-      "title": "Anthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞",
-      "summary": "关于我们网站声明联系方式用户反馈网站地图帮助\n\n## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载\n\nAnthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞\n\n原创\n\n环球市场情报\n\n2026-06-02 23:00 星期二\n\n财联社 史正丞\n\n责编 徐军程\n\n```\n①Anthropic宣布将“神话（Mythos）”大模型预览权限扩大至额外约150家关...",
-      "highlights": [
-        "关于我们网站声明联系方式用户反馈网站地图帮助",
-        "## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载",
-        "Anthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞"
-      ],
-      "url": "https://www.cls.cn/detail/2388865",
-      "source": "cls.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-08-30T05:00:00Z"
-    },
-    {
-      "id": "5837f582040b",
-      "title": "AI办公赛道拥挤，两大产品凭什么跑出加速度？-36氪",
-      "summary": "两个月后的WAIC 2026大会，百度搭子作为「镇馆之宝」亮相，成为十大「镇馆之宝」中唯一入选的同类产品。另据艾媒咨询发布的报告，智能体是这次大会贯穿性最强的主线，AI Agent类智能应用参展方高达83家，占比跃升至64%，基础大模型参展方仅剩18家，占比骤降至13.8%。在如此高密度的智能体应用中，百度搭子的获选足见其认可度。\n\n此前，百度搭子还在成都举办了AIDAY活动，发布企业版等新能力升...",
-      "highlights": [
-        "两个月后的WAIC 2026大会，百度搭子作为「镇馆之宝」亮相，成为十大「镇馆之宝」中唯一入选的同类产品",
-        "另据艾媒咨询发布的报告，智能体是这次大会贯穿性最强的主线，AI Agent类智能应用参展方高达83家，占比跃升至64%，基础大模型参展方仅剩18家，占比骤降至13.8%",
-        "在如此高密度的智能体应用中，百度搭子的获选足见其认可度"
-      ],
-      "url": "https://m.36kr.com/p/3947281694653825",
-      "source": "m.36kr.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-08-29T14:55:15Z"
-    },
-    {
-      "id": "7b4fabe40336",
-      "title": "宇树科技IPO 藏着具身智能终局的必经之路",
-      "summary": "关于我们网站声明联系方式用户反馈网站地图帮助\n\n## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载\n\n宇树科技IPO 藏着具身智能终局的必经之路\n\n原创\n\n人工智能\n\n2026-08-22 08:09 星期六\n\n科创板日报 郑远方\n\n责编 季晟\n\n```\n①王兴兴透露表示，“我们对AI模型的投入一直是非常大的，应该是目前资金和人力投入最大的一个方向。” ②世界模型竞...",
-      "highlights": [
-        "关于我们网站声明联系方式用户反馈网站地图帮助",
-        "## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载",
-        "宇树科技IPO 藏着具身智能终局的必经之路"
-      ],
-      "url": "https://www.cls.cn/detail/2460670",
-      "source": "cls.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-08-30T12:00:00Z"
-    },
-    {
-      "id": "6847e3bebe99",
-      "title": "WorkBuddy的“湾擎时刻”，看这款AI办公智能体如何成为政务创新的“广东名片”__新快网",
-      "summary": "但热闹之下，企业到底缺什么？\n\nIDC在2026年5月发布的《中国AI Agent市场概览》报告显示，截至一季度仍有超过60%的中国企业处于了解评估和试点阶段，仅有18%的企业将智能体纳入了核心业务流。Gartner同年4月的报告也指出，仅17%的组织已部署AI智能体。全球范围内，据IDC数据，70%的企业AI项目从未进入持久、可重复的生产阶段，88%的AI概念验证未能进入大规模生产部署。\n\n换句...",
-      "highlights": [
-        "但热闹之下，企业到底缺什么",
-        "IDC在2026年5月发布的《中国AI Agent市场概览》报告显示，截至一季度仍有超过60%的中国企业处于了解评估和试点阶段，仅有18%的企业将智能体纳入了核心业务流",
-        "Gartner同年4月的报告也指出，仅17%的组织已部署AI智能体"
-      ],
-      "url": "https://www.xkb.com.cn/articleDetail/520454",
-      "source": "xkb.com.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-08-31T00:00:00Z"
-    },
-    {
-      "id": "7f01ee1e0b55",
-      "title": "具身智能进入下半场后，越来越绕不开车企 | PANews",
-      "summary": "### 具身智能进入下半场后，越来越绕不开车企\n\n汽车工业正在成为具身智能（人形机器人）产业的核心推动力。这一趋势在本周尤为明显：小鹏机器人业务完成超9亿美元融资，现代汽车则公布了详尽的机器人路线图。\n\n 量产制造体系：汽车工业数十年积累的供应链管理、零部件标准化和质量控制方法，是机器人实现规模化生产的必要条件。例如，Boston Dynamics将Atlas的电机类型从50多种精简至3种，极大提...",
-      "highlights": [
-        "### 具身智能进入下半场后，越来越绕不开车企",
-        "汽车工业正在成为具身智能（人形机器人）产业的核心推动力",
-        "这一趋势在本周尤为明显：小鹏机器人业务完成超9亿美元融资，现代汽车则公布了详尽的机器人路线图"
-      ],
-      "url": "https://www.panewslab.com/zh/articles/01a04cc9-0bae-7093-a48e-d5e56d301eff",
-      "source": "panewslab.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-29T09:00:00Z"
-    },
-    {
-      "id": "92ee030d90a9",
-      "title": "AI前沿日报 | OpenAI芯片跑赢英伟达,大厂模型竞速开源",
-      "summary": "AI办公大战:豆包工作/千问办公升温 01OpenAI首颗自研推理芯片Jalapeño实测跑赢英伟达GB300背景:OpenAI长期受制于英伟达算...",
-      "highlights": [
-        "AI办公大战:豆包工作/千问办公升温 01OpenAI首颗自研推理芯片Jalapeño实测跑赢英伟达GB300背景:OpenAI长期受制于英伟达算..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2d3pscnm31aNLsWUx_-vJa0GNJVhim03FqXa8Fplpd9BwPL7gDfbDqkzasESKVCMR1ki1lFBshW4hiMtcNTuN801EEXbmTAEOwhOeAr3aX7tqyTA3H4eiw8mVPgbelVr3yli5nxadSFJWovLoRK4-mwtW6EYx6n3xYRl7iDto41_RRlBV4ajIbNhsNIYHV-Lw2zamK8z70Rl_1CPDYM5GN6VKrzu_4XKA..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=AD358FE8D071730FA3A5FE90F888E48BA42222E76A931E6F",
-      "source": "微信公众号",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-29T10:07:11Z"
-    },
-    {
-      "id": "9f835df434e8",
-      "title": "AI前沿日报 | OpenAI芯片跑赢英伟达,大厂模型竞速开源",
-      "summary": "AI办公大战:豆包工作/千问办公升温 01OpenAI首颗自研推理芯片Jalapeño实测跑赢英伟达GB300背景:OpenAI长期受制于英伟达算...",
-      "highlights": [
-        "AI办公大战:豆包工作/千问办公升温 01OpenAI首颗自研推理芯片Jalapeño实测跑赢英伟达GB300背景:OpenAI长期受制于英伟达算..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2d3pscnm31aONpJCtESrd2v5crqrt44RlqXa8Fplpd9W5ppHh-TjFFAxkSuYMP8aD3NUKdjjUiRU12Cw4yP_zc2lHX47gg-HU-gJw36wYIrkL0DrvGsCrAwXsMyddKFpX4t-P8wwnSeZBCk_zMCl-1W4orafdMLJAQJfuZ73sQQj2xQHKJi-dusUGLToIRAASX8FlfMfp25xVhNo566PVktPujwwRB2Pw..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=AF38EF71E70D6FC94E4815762C7475074F9D92F06A9372D9",
-      "source": "微信公众号",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-29T10:07:11Z"
-    }
-  ]
+  "month": []
 }
