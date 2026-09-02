@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T06:01:59Z",
+  "updatedAt": "2026-09-02T12:01:30Z",
   "latest": [
     {
       "id": "c01248b7f33d",
@@ -17,21 +17,6 @@
       "publishedAt": "2026-08-31T15:03:14Z"
     },
     {
-      "id": "b5b669c99ba9",
-      "title": "“国产GPU四小龙”贴身肉搏，谁先迎来业绩兑现期？",
-      "summary": "“国产GPU四小龙”贴身肉搏，谁先迎来业绩兑现期？\n\n# “国产GPU四小龙”贴身肉搏，谁先迎来业绩兑现期？\n\n[](\n\n下载客户端  \n独家抢先看\n\n来自香港\n\n国产GPU“四小龙”之一、算力芯片“独角兽”燧原科技叩开科创板大门后不到一周，摩尔线程（688795.SH）、壁仞科技（06082.HK）、沐曦股份（688802.SH）三家公司的半年报也全部完成披露。\n\n从扣非口径来看，四家企业主营业...",
-      "highlights": [
-        "“国产GPU四小龙”贴身肉搏，谁先迎来业绩兑现期",
-        "# “国产GPU四小龙”贴身肉搏，谁先迎来业绩兑现期",
-        "国产GPU“四小龙”之一、算力芯片“独角兽”燧原科技叩开科创板大门后不到一周，摩尔线程（688795.SH）、壁仞科技（06082.HK）、沐曦股份（688802.SH）三家公司的半年报也全部完成披露"
-      ],
-      "url": "https://news.ifeng.com/c/8w2qedDf8EC",
-      "source": "news.ifeng.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-08-31T11:57:32Z"
-    },
-    {
       "id": "1329383c1dd0",
       "title": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate - CNBC",
       "summary": "# OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate. * OpenAI said its advertising business has hit $1 billion in annualized revenue run rate. * The AI company ...",
@@ -43,19 +28,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-08-31T13:00:01Z"
-    },
-    {
-      "id": "e3d598436b88",
-      "title": "Chatbots got safer but will still role-play self-harm with users - The Washington Post",
-      "summary": "A study of more than 50,000 conversations with AI found that they will help users role-play or write stories about suicide. ChatGPT and other artificial intelligence chatbots have become less likely t...",
-      "highlights": [
-        "A study of more than 50,000 conversations with AI found that they will help users role-play or write stories about suicide. ChatGPT and other artificial intelligence chatbots have become less likely to encourage suicidal thoughts but will still engage in potentially harmful conversations and reinforce apparently delusional behavior, a new study found. AI companies including Google and ChatGPT-maker OpenAI have been sued by family members who allege the chatbots encouraged self-harm in heavy users who later died by suicide. A new study released Monday by Transluce, a nonprofit that aims to provide public oversight of AI, found that the latest AI models from Google, Claude chatbot provider Anthropic and OpenAI almost never explicitly encouraged or validated suicide. Chinese models were more likely to encourage delusional thinking, Transluce also found, and less likely to encourage users to seek support from other people. Transluce used AI to create simulated users who had more than 50,000 conversations with AI models from top U.S. and Chinese companies."
-      ],
-      "url": "https://www.washingtonpost.com/technology/2026/08/31/chatbots-will-role-play-self-harm-scenarios-with-users-study-finds/",
-      "source": "washingtonpost.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-08-31T10:00:59Z"
     },
     {
       "id": "70a677766176",
@@ -326,34 +298,79 @@
       "publishedAt": "2026-08-31T18:01:11Z"
     },
     {
-      "id": "6e246d052a0e",
-      "title": "车企造的机器人，值得买吗？_车市动态",
-      "summary": "登录客服\n\n忘记密码？立即注册\n\n其它账号登录：新浪; \"新浪微博登录\")QQ; \"QQ登录\")微信; \"微信登录\")\n\n手机网\n\n退出 在线咨询 |客服帮助\n\n手机网\n\n首页 财经 股票 基金 黄金 外汇 期货 理财 原创 汽车 视频 路演 博客 财经号\n\n、伺服电机、减速器等核心部件也可以在机器人上共享，智能汽车和机器人的运动控制逻辑也具备底层一致性。\n\n整车维度的生产、测试、品控、数据等能力...",
+      "id": "a1da18b9d482",
+      "title": "黄仁勋的阳谋",
+      "summary": "今年3月，黄仁勋曾发表一篇长文，将AI产业比作一块由能源、芯片、基础设施、模型与应用组成的“五层蛋糕”。其中，强大的模型层会加速应用层的普及，从而进一步增加对底层训练、基础设施、芯片和能源的需求。按照这一理论，抱抱脸、Poolside与Perplexity所在的模型层与应用层，都是英伟达的需求方。\n\n不过，相较于通过收并购让更多公司使用自己的芯片，加速开源大模型生态的发展，才是黄仁勋的终极目标。\n...",
       "highlights": [
-        "其它账号登录：新浪; \"新浪微博登录\")QQ; \"QQ登录\")微信; \"微信登录\")",
-        "退出 在线咨询 |客服帮助",
-        "首页 财经 股票 基金 黄金 外汇 期货 理财 原创 汽车 视频 路演 博客 财经号"
+        "今年3月，黄仁勋曾发表一篇长文，将AI产业比作一块由能源、芯片、基础设施、模型与应用组成的“五层蛋糕”",
+        "其中，强大的模型层会加速应用层的普及，从而进一步增加对底层训练、基础设施、芯片和能源的需求",
+        "按照这一理论，抱抱脸、Poolside与Perplexity所在的模型层与应用层，都是英伟达的需求方"
       ],
-      "url": "http://auto.cnfol.com/cheshidongtai/20260831/32354723.shtml",
-      "source": "auto.cnfol.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-08-31T09:00:00Z"
+      "url": "https://www.36kr.com/p/3965654574128384",
+      "source": "36kr.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-02T06:02:15Z"
     },
     {
-      "id": "731313564dad",
-      "title": "酷特智能：与AI同行 赴智能未来",
-      "summary": "随着AI发展从模型阶段到应用阶段，AI的竞争将从“智力”转变为“执行力”。衡量一个AI操作系统，除了“够不够聪明”，还要看“能不能帮我把事做成”。KTOS除了推出企业AI大脑、企业知识网络、智能经营驾驶舱、AI Agent中心、智能流程引擎、决策辅助系统等六大产品模块外，还搭载酷小匠、酷小易、酷小智三大原生AI智能体（886099），分别聚焦需求对接、日常运营、组织治理三大场景，大幅降低系统使用门...",
+      "id": "bf7318a60ae4",
+      "title": "号称“全球最强”还降价75%！Anthropic发布最新大模型Fable ...",
+      "summary": "界面新闻logo\n\n登录\n\n\n\n旧版搜索\n\n 新版搜索\n 旧版搜索\n\n#### 历史搜索 全部删除;)\n\n#### 热门搜索\n\n\n\n扫一扫下载界面新闻APP\n\n其他途径关注界面…\n\n# 号称“全球最强”还降价75%！Anthropic发布最新大模型Fable 5.1\n\nFable 5.1以52.6%的得分将Open AI的GPT-5.6Sol甩在身后。\n\n李科峰 · 来源：界面新闻\n\n号称“全球最...",
       "highlights": [
-        "随着AI发展从模型阶段到应用阶段，AI的竞争将从“智力”转变为“执行力”",
-        "衡量一个AI操作系统，除了“够不够聪明”，还要看“能不能帮我把事做成”",
-        "KTOS除了推出企业AI大脑、企业知识网络、智能经营驾驶舱、AI Agent中心、智能流程引擎、决策辅助系统等六大产品模块外，还搭载酷小匠、酷小易、酷小智三大原生AI智能体（886099），分别聚焦需求对接、日常运营、组织治理三大场景，大幅降低系统使用门槛，业务人员通过自然语言即可完成操作、搭建应用"
+        "#### 历史搜索 全部删除;)",
+        "扫一扫下载界面新闻APP",
+        "# 号称“全球最强”还降价75%"
       ],
-      "url": "http://stock.10jqka.com.cn/20260831/c679439572.shtml",
-      "source": "stock.10jqka.com.cn",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-08-31T11:00:00Z"
+      "url": "https://www.jiemian.com/article/15044768.html",
+      "source": "jiemian.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-02T04:00:00Z"
+    },
+    {
+      "id": "9fe1e5e11e10",
+      "title": "国产GPU四小龙之一燧原科技今日开启申购",
+      "summary": "首页\n 资讯\n 军事\n 财经\n 娱乐\n 汽车\n 游戏\n 文化\n 援藏\n 插画\n 健康\n 公益\n 优选\n 法制\n 守艺中华\n 应急中国\n 更多\n\n  佛学文史古诗词人物解梦生活商业成长\n 地方频道\n\n  湖北山东山西丝路\n\n 注册登录\n\n中华网 china.com\n\n推荐 TMT 金融 地产 消费 医药 酒业 IPO观察\n\n当前位置：首页 > IPO观察 > 正文\n\n# 国产GPU四小龙之一燧原科技...",
+      "highlights": [
+        "佛学文史古诗词人物解梦生活商业成长",
+        "中华网 china.com",
+        "推荐 TMT 金融 地产 消费 医药 酒业 IPO观察"
+      ],
+      "url": "https://finance.china.com/IPO/13004694/20260902/49714401.html",
+      "source": "finance.china.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-02T02:00:00Z"
+    },
+    {
+      "id": "fa155c3362a2",
+      "title": "燧原科技本周打新，腾讯既是最大外部股东也是最大客户",
+      "summary": "界面新闻logo\n\n登录\n\n\n\n旧版搜索\n\n 新版搜索\n 旧版搜索\n\n#### 历史搜索 全部删除;)\n\n#### 热门搜索\n\n\n\n扫一扫下载界面新闻APP\n\n其他途径关注界面…\n\n腾讯\n\n# 燧原科技本周打新，腾讯既是最大外部股东也是最大客户\n\n过去一年，燧原科技超过八成收入来自于腾讯。\n\n宋佳楠 · 来源：界面新闻\n\n燧原科技;本周打新;腾讯;最大外部股东;最大客户\n\n图片来源：视觉中国\n\n>...",
+      "highlights": [
+        "#### 历史搜索 全部删除;)",
+        "扫一扫下载界面新闻APP",
+        "# 燧原科技本周打新，腾讯既是最大外部股东也是最大客户"
+      ],
+      "url": "https://www.jiemian.com/article/15031363.html",
+      "source": "jiemian.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-01T12:00:00Z"
+    },
+    {
+      "id": "fc652c3ce9cb",
+      "title": "燧原科技即将上市，腾讯赚翻了_投资界",
+      "summary": "首   页\n 资   讯\n 投资圈\n 活   动\n 研   究\n 创投号\n\n 深度\n 热门\n 天天IPO\n AI先锋\n 机器人\n 医疗健康\n 大消费\n 视频\n 99个发现\n\n APP\n\n  投资界APP 微信扫码订阅\n 创投号\n 登录\n 清科集团 清科控股 清科研究中心 清科母基金 新芽\n\n首页产业芯片半导体正文\n\n# 燧原科技即将上市，腾讯赚翻了\n\n9月2日燧原科技开启科创板网上网下申购，腾讯重...",
+      "highlights": [
+        "投资界APP 微信扫码订阅",
+        "清科集团 清科控股 清科研究中心 清科母基金 新芽",
+        "首页产业芯片半导体正文"
+      ],
+      "url": "https://news.pedaily.cn/202609/568448.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-02T07:41:00Z"
     },
     {
       "id": "d0de39d8ed29",
@@ -367,19 +384,6 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-08-31T14:14:05Z"
-    },
-    {
-      "id": "90764ffff793",
-      "title": "Study: Chatbots are getting better at identifying suicide risk - Axios",
-      "summary": "**Yes, but:** The study also found most models too willing toassist with suicide-related creative writing, farewell notes and other task-based requests even when a user's distress should have been app...",
-      "highlights": [
-        "**Yes, but:** The study also found most models too willing toassist with suicide-related creative writing, farewell notes and other task-based requests even when a user's distress should have been apparent. * \"Models aren't great at detecting that, and they'll still help with the task,\" Transluce chief scientist Sarah Schwettmann told Axios. * The organization also worked directly with OpenAI, Anthropic and Google to more deeply understand how people were interacting with their models and to make their simulations more similar to real-world conversations. **What they did:** Transluce handed each lab the same set of classifiers that they ran over one week of user data, and returned only anonymized features of those conversations to Transluce. * Transluce then used this data to improve their simulated users to better resemble how real people talk to AI models. * \"Google has, for years, helped people find high-quality information and crisis support in the moments they need it most, and we are applying this same research-backed approach to our AI tools,\" Google senior director Megan Jones Bell said in a statement to Axios."
-      ],
-      "url": "https://www.axios.com/2026/08/31/chatbots-suicide-risks-identification",
-      "source": "axios.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-08-31T10:00:06Z"
     },
     {
       "id": "5afadbd6ad23",
@@ -472,6 +476,66 @@
       "publishedAt": "2026-09-02T03:06:25Z"
     },
     {
+      "id": "a1da18b9d482",
+      "title": "黄仁勋的阳谋",
+      "summary": "今年3月，黄仁勋曾发表一篇长文，将AI产业比作一块由能源、芯片、基础设施、模型与应用组成的“五层蛋糕”。其中，强大的模型层会加速应用层的普及，从而进一步增加对底层训练、基础设施、芯片和能源的需求。按照这一理论，抱抱脸、Poolside与Perplexity所在的模型层与应用层，都是英伟达的需求方。\n\n不过，相较于通过收并购让更多公司使用自己的芯片，加速开源大模型生态的发展，才是黄仁勋的终极目标。\n...",
+      "highlights": [
+        "今年3月，黄仁勋曾发表一篇长文，将AI产业比作一块由能源、芯片、基础设施、模型与应用组成的“五层蛋糕”",
+        "其中，强大的模型层会加速应用层的普及，从而进一步增加对底层训练、基础设施、芯片和能源的需求",
+        "按照这一理论，抱抱脸、Poolside与Perplexity所在的模型层与应用层，都是英伟达的需求方"
+      ],
+      "url": "https://www.36kr.com/p/3965654574128384",
+      "source": "36kr.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-02T06:02:15Z"
+    },
+    {
+      "id": "bf7318a60ae4",
+      "title": "号称“全球最强”还降价75%！Anthropic发布最新大模型Fable ...",
+      "summary": "界面新闻logo\n\n登录\n\n\n\n旧版搜索\n\n 新版搜索\n 旧版搜索\n\n#### 历史搜索 全部删除;)\n\n#### 热门搜索\n\n\n\n扫一扫下载界面新闻APP\n\n其他途径关注界面…\n\n# 号称“全球最强”还降价75%！Anthropic发布最新大模型Fable 5.1\n\nFable 5.1以52.6%的得分将Open AI的GPT-5.6Sol甩在身后。\n\n李科峰 · 来源：界面新闻\n\n号称“全球最...",
+      "highlights": [
+        "#### 历史搜索 全部删除;)",
+        "扫一扫下载界面新闻APP",
+        "# 号称“全球最强”还降价75%"
+      ],
+      "url": "https://www.jiemian.com/article/15044768.html",
+      "source": "jiemian.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-02T04:00:00Z"
+    },
+    {
+      "id": "9fe1e5e11e10",
+      "title": "国产GPU四小龙之一燧原科技今日开启申购",
+      "summary": "首页\n 资讯\n 军事\n 财经\n 娱乐\n 汽车\n 游戏\n 文化\n 援藏\n 插画\n 健康\n 公益\n 优选\n 法制\n 守艺中华\n 应急中国\n 更多\n\n  佛学文史古诗词人物解梦生活商业成长\n 地方频道\n\n  湖北山东山西丝路\n\n 注册登录\n\n中华网 china.com\n\n推荐 TMT 金融 地产 消费 医药 酒业 IPO观察\n\n当前位置：首页 > IPO观察 > 正文\n\n# 国产GPU四小龙之一燧原科技...",
+      "highlights": [
+        "佛学文史古诗词人物解梦生活商业成长",
+        "中华网 china.com",
+        "推荐 TMT 金融 地产 消费 医药 酒业 IPO观察"
+      ],
+      "url": "https://finance.china.com/IPO/13004694/20260902/49714401.html",
+      "source": "finance.china.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-02T02:00:00Z"
+    },
+    {
+      "id": "fc652c3ce9cb",
+      "title": "燧原科技即将上市，腾讯赚翻了_投资界",
+      "summary": "首   页\n 资   讯\n 投资圈\n 活   动\n 研   究\n 创投号\n\n 深度\n 热门\n 天天IPO\n AI先锋\n 机器人\n 医疗健康\n 大消费\n 视频\n 99个发现\n\n APP\n\n  投资界APP 微信扫码订阅\n 创投号\n 登录\n 清科集团 清科控股 清科研究中心 清科母基金 新芽\n\n首页产业芯片半导体正文\n\n# 燧原科技即将上市，腾讯赚翻了\n\n9月2日燧原科技开启科创板网上网下申购，腾讯重...",
+      "highlights": [
+        "投资界APP 微信扫码订阅",
+        "清科集团 清科控股 清科研究中心 清科母基金 新芽",
+        "首页产业芯片半导体正文"
+      ],
+      "url": "https://news.pedaily.cn/202609/568448.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-02T07:41:00Z"
+    },
+    {
       "id": "76dc7da2d43b",
       "title": "129亿美元并购背后:英伟达与中国AI的资本变局",
       "summary": "AI领域的融资与并购消息密集到让人应接不暇——英伟达要花129... 国内这边,可灵AI拿到国家人工智能基金14亿元注资,估值直逼母...",
@@ -483,6 +547,62 @@
       "category": "投并购",
       "importance": 4,
       "publishedAt": "2026-09-02T03:32:43Z"
+    },
+    {
+      "id": "8adeafd3b1bb",
+      "title": "Google almost ready to launch new Gemini AI model, may ...",
+      "summary": "Google has fallen behind OpenAI and Anthropic in the AI race in recent months. But now, the company is planning to make a comeback, particularly when it comes to coding with a new Gemini model. This n...",
+      "highlights": [
+        "Google has fallen behind OpenAI and Anthropic in the AI race in recent months. But now, the company is planning to make a comeback, particularly when it comes to coding with a new Gemini model. This new Gemini model may bring the company back on track in the AI race, as per a new report. [...] Google has fallen behind OpenAI and Anthropic in the AI race in recent months. But now, the company is planning to make a comeback, particularly when it comes to coding with a new Gemini model. This new Gemini model may bring the company back on track in the AI race, as per a new report. [...] Google has fallen behind OpenAI and Anthropic in the AI race in recent months. But now, the company is planning to make a comeback, particularly when it comes to coding with a new Gemini model. This new Gemini model may bring the company back on track in the AI race, as per a new report."
+      ],
+      "url": "https://www.indiatoday.in/amp/technology/news/story/google-almost-ready-to-launch-new-gemini-ai-model-may-beat-anthropic-and-openai-in-coding-this-time-2985094-2026-09-02",
+      "source": "indiatoday.in",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-02T04:54:01Z"
+    },
+    {
+      "id": "899d067cea41",
+      "title": "129亿美元并购背后:英伟达与中国AI的资本变局",
+      "summary": "AI领域的融资与并购消息密集到让人应接不暇——英伟达要花129... 国内这边,可灵AI拿到国家人工智能基金14亿元注资,估值直逼母...",
+      "highlights": [
+        "AI领域的融资与并购消息密集到让人应接不暇——英伟达要花129... 国内这边,可灵AI拿到国家人工智能基金14亿元注资,估值直逼母..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwjkFw5D-fMyjdw3AZ9vqSUOkVGNK8HPGFqXa8Fplpd9-SMqhIUiB3UoICel6lVlGYLUsvMSz8HZWIsM0Mrd6vOdaDNbG-cQrNncef7Qzr6ZnAqWiStF_HlCl8rQK56M3I6rw2BrJR9-Q81zqIrSETq35I4ojvxRZgfpqUcHdcdOPJJ-qKpQYuXvp7tUOwLkh4WAgCjuutJXPDni2jVba-9hWLv6O878UA..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=CA38C82B71F1421B16104C6BDE8B31A61611DE216A981018",
+      "source": "微信公众号",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-02T03:32:43Z"
+    },
+    {
+      "id": "2f95ce97f38f",
+      "title": "2026上半年波场TRON AI生态矩阵加速成型 ：B.AI、Bank of AI、BTTInferGrid等创新AI应用集中落地，锁定新一轮增长引擎",
+      "summary": "在中层核心基建层，AINFT与Bank of AI分别覆盖 AI Agent 的金融能力接入与交易策略生态验证两大核心场景中心：其中Bank of AI聚焦AI Agent专属金融赛道，依托x402支付标准、8004身份协议、MCP Server及Skill等原生组件，为AI智能体提供一站式Web3链上金融服务接入能力，支持AI Agent无需额外开发，即可一键调用交易、借贷等成熟DeFi功能，成...",
+      "highlights": [
+        "在中层核心基建层，AINFT与Bank of AI分别覆盖 AI Agent 的金融能力接入与交易策略生态验证两大核心场景中心：其中Bank of AI聚焦AI Agent专属金融赛道，依托x402支付标准、8004身份协议、MCP Server及Skill等原生组件，为AI智能体提供一站式Web3链上金融服务接入能力，支持AI Agent无需额外开发，即可一键调用交易、借贷等成熟DeFi功能，成为连接AI智能体与波场DeFi生态的核心枢纽；而AINFT则计划构建AI Agent金融交易生态中心，将推出标准化的 AI 交易策略评测基础设施，提供AI交易策略验证、基准测试等能力，为 AI Agent 交易生态构建信任与价值流转的基础",
+        "[...] ### Space回顾｜B.AI正式上线：AI Agent 时代的金融基础设施，如何加速 AGI 到来",
+        "当AI行业焦点从“比拼智力”转向“较量执行力”，构建专属金融基础设施成为破局关键"
+      ],
+      "url": "https://www.techflowpost.com/article/33689",
+      "source": "techflowpost.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-09-02T07:19:50Z"
+    },
+    {
+      "id": "0f0e4aa0ec74",
+      "title": "豆包工作功能更新，支持多智能体并行 — 新京报",
+      "summary": "北交所频道 新京号 电子报 千龙网 贝壳财经 北京BEIJING 新京雅集 专题 商务合作 爱心模式;) 线索报料\n\n微博\n\n首页  视频  深读  公益  第一看点  时事  北京  国际  政事儿  观点  消费  娱乐  文化  体育  京彩教育  浪花资本  藻知科技  鲲纶智库  潮流智造局  城市好望角  海星生活社  图说  智库  数据  乡村\n\n# 豆包工作功能更新，支持多智能体...",
+      "highlights": [
+        "北交所频道 新京号 电子报 千龙网 贝壳财经 北京BEIJING 新京雅集 专题 商务合作 爱心模式;) 线索报料",
+        "首页  视频  深读  公益  第一看点  时事  北京  国际  政事儿  观点  消费  娱乐  文化  体育  京彩教育  浪花资本  藻知科技  鲲纶智库  潮流智造局  城市好望角  海星生活社  图说  智库  数据  乡村",
+        "# 豆包工作功能更新，支持多智能体并行"
+      ],
+      "url": "https://www.bjnews.com.cn/detail/1788337533129803.html",
+      "source": "bjnews.com.cn",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-09-02T09:00:00Z"
     }
   ],
   "week": [
@@ -691,19 +811,19 @@
       "publishedAt": "2026-09-01T01:16:00Z"
     },
     {
-      "id": "5fcf5695ce15",
-      "title": "【汽车人】车企扎堆具身智能，远水解不了近渴 - 时间线- 搜狐",
-      "summary": "据不完全统计，截至2026年8月，全球已有近20家车企正式布局人形机器人与物理AI赛道，累计规划投入规模超千亿元，中国车企更是本轮入局的主力阵营。\n\n海外市场，特斯拉是最激进的押注者。2026年特斯拉将资本支出上调至250亿美元，重点投向AI芯片、Optimus人形机器人与自动驾驶三大领域。其弗里蒙特工厂已启动产线改造，目标2026年底实现Optimus年产能10万台，长期成本下探至2万美元以内。...",
+      "id": "acf897ee747d",
+      "title": "具身智能真正需要的「一把火」，会在哪里点燃？",
+      "summary": "Image 1)\n\nImage 2: ZhiHu logo\n\n[](\n\n关注推荐热榜专栏圈子AI Works Beta故事\n\n​ \n\n直答\n\n切换模式\n\n登录/注册\n\n具身智能真正需要的「一把火」，会在哪里点燃？\n\n切换模式\n\n# 具身智能真正需要的「一把火」，会在哪里点燃？\n\nImage 3: 星河频率\n\n星河频率\n\n关注人形机器人、具身智能与自动驾驶。\n\n1 人赞同了该文章\n\nImage 4\n...",
       "highlights": [
-        "据不完全统计，截至2026年8月，全球已有近20家车企正式布局人形机器人与物理AI赛道，累计规划投入规模超千亿元，中国车企更是本轮入局的主力阵营",
-        "海外市场，特斯拉是最激进的押注者",
-        "2026年特斯拉将资本支出上调至250亿美元，重点投向AI芯片、Optimus人形机器人与自动驾驶三大领域"
+        "Image 2: ZhiHu logo",
+        "关注推荐热榜专栏圈子AI Works Beta故事",
+        "具身智能真正需要的「一把火」，会在哪里点燃"
       ],
-      "url": "https://timeline.sohu.com/news/3pKsEwxSLT?from=news",
-      "source": "timeline.sohu.com",
+      "url": "https://zhuanlan.zhihu.com/p/2078176906101499324",
+      "source": "zhuanlan.zhihu.com",
       "category": "具身智能",
       "importance": 5,
-      "publishedAt": "2026-08-31T01:00:00Z"
+      "publishedAt": "2026-09-01T09:00:00Z"
     }
   ],
   "month": [
