@@ -1,6 +1,811 @@
 {
-  "updatedAt": "2026-09-03T12:01:45Z",
+  "updatedAt": "2026-09-03T18:01:25Z",
   "latest": [
+    {
+      "id": "ca6ce89571ff",
+      "title": "港股18C再融资规模反超IPO “马太效应”背后存三重驱动逻辑",
+      "summary": "智谱在7月再融资公告中表示，截至6月末，公司IPO募资净额动用比例已超93%，资金主要用于业务扩张与战略落地。伴随业务提速，原有募资消耗节奏加快，本次再融资将进一步补充资本金，持续支撑基础模型研发、技术迭代、商业化落地与生态建设。\n\n对于自身再融资需求，壁仞科技也坦言，人工智能的快速发展及Token（词元）消耗的爆炸式增长，持续推动对通用图形处理器（GPGPU）计算解决方案的强劲需求，这扩大了潜在...",
+      "highlights": [
+        "智谱在7月再融资公告中表示，截至6月末，公司IPO募资净额动用比例已超93%，资金主要用于业务扩张与战略落地",
+        "伴随业务提速，原有募资消耗节奏加快，本次再融资将进一步补充资本金，持续支撑基础模型研发、技术迭代、商业化落地与生态建设",
+        "对于自身再融资需求，壁仞科技也坦言，人工智能的快速发展及Token（词元）消耗的爆炸式增长，持续推动对通用图形处理器（GPGPU）计算解决方案的强劲需求，这扩大了潜在市场，并加速了公司下一代GPGPU产品的商业化，速度超过公司上市时的预期，因此有必要采纳审慎而灵活的融资策略，以把握新兴机遇并确保长期竞争力"
+      ],
+      "url": "https://www.stcn.com/article/detail/4168233.html",
+      "source": "stcn.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-01T23:00:00Z"
+    },
+    {
+      "id": "fbb0e8da2f34",
+      "title": "英伟达涨价背后，ASIC要被认真对待了",
+      "summary": "AMD于8月6日宣布达成最终协议收购Taalas，金额未披露，交易仍需监管批准。Taalas把模型权重固化到芯片，减少从外部内存反复读取参数的开销。AMD计划把相关技术纳入加速器路线图，并与Instinct GPU、EPYC、ROCm和Helios机架级系统组合。 这项收购让AMD在通用GPU之外获得面向稳定推理负载的专用架构能力，也使其产品组合能够覆盖不同可编程程度和成本目标。\n\nEtched的...",
+      "highlights": [
+        "AMD于8月6日宣布达成最终协议收购Taalas，金额未披露，交易仍需监管批准",
+        "Taalas把模型权重固化到芯片，减少从外部内存反复读取参数的开销",
+        "AMD计划把相关技术纳入加速器路线图，并与Instinct GPU、EPYC、ROCm和Helios机架级系统组合"
+      ],
+      "url": "https://news.pedaily.cn/202609/568406.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-02T00:08:00Z"
+    },
+    {
+      "id": "df96fd30228b",
+      "title": "Token推理洪流之下，GPU霸主力争掌控“AI模型入口”! 英伟达(NVDA.US)欲以140亿美元在本周鲸吞Hugging Face",
+      "summary": "AI GPU集群以及存储芯片仍是Token推理端洪流之下全球范围最突出的AI算力系统瓶颈。TrendForce预计第三季度DRAM和NAND\nFlash合约价将分别环比上涨13%—18%和10%—15%;2026年服务器DRAM及企业级固态硬盘价格累计涨幅可能分别达到约270%和235%，2027年HBM合约价仍可能再涨70%—140%。DRAM与NAND预计将占云计算服务提供商资本开支的47%，...",
+      "highlights": [
+        "AI GPU集群以及存储芯片仍是Token推理端洪流之下全球范围最突出的AI算力系统瓶颈",
+        "TrendForce预计第三季度DRAM和NAND",
+        "Flash合约价将分别环比上涨13%—18%和10%—15%;2026年服务器DRAM及企业级固态硬盘价格累计涨幅可能分别达到约270%和235%，2027年HBM合约价仍可能再涨70%—140%"
+      ],
+      "url": "https://cn.investing.com/news/stock-market-news/article-3547968",
+      "source": "cn.investing.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-02T03:06:25Z"
+    },
+    {
+      "id": "a1da18b9d482",
+      "title": "黄仁勋的阳谋",
+      "summary": "今年3月，黄仁勋曾发表一篇长文，将AI产业比作一块由能源、芯片、基础设施、模型与应用组成的“五层蛋糕”。其中，强大的模型层会加速应用层的普及，从而进一步增加对底层训练、基础设施、芯片和能源的需求。按照这一理论，抱抱脸、Poolside与Perplexity所在的模型层与应用层，都是英伟达的需求方。\n\n不过，相较于通过收并购让更多公司使用自己的芯片，加速开源大模型生态的发展，才是黄仁勋的终极目标。\n...",
+      "highlights": [
+        "今年3月，黄仁勋曾发表一篇长文，将AI产业比作一块由能源、芯片、基础设施、模型与应用组成的“五层蛋糕”",
+        "其中，强大的模型层会加速应用层的普及，从而进一步增加对底层训练、基础设施、芯片和能源的需求",
+        "按照这一理论，抱抱脸、Poolside与Perplexity所在的模型层与应用层，都是英伟达的需求方"
+      ],
+      "url": "https://www.36kr.com/p/3965654574128384",
+      "source": "36kr.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-02T06:02:15Z"
+    },
+    {
+      "id": "bf7318a60ae4",
+      "title": "号称“全球最强”还降价75%！Anthropic发布最新大模型Fable ...",
+      "summary": "界面新闻logo\n\n登录\n\n\n\n旧版搜索\n\n 新版搜索\n 旧版搜索\n\n#### 历史搜索 全部删除;)\n\n#### 热门搜索\n\n\n\n扫一扫下载界面新闻APP\n\n其他途径关注界面…\n\n# 号称“全球最强”还降价75%！Anthropic发布最新大模型Fable 5.1\n\nFable 5.1以52.6%的得分将Open AI的GPT-5.6Sol甩在身后。\n\n李科峰 · 来源：界面新闻\n\n号称“全球最...",
+      "highlights": [
+        "#### 历史搜索 全部删除;)",
+        "扫一扫下载界面新闻APP",
+        "# 号称“全球最强”还降价75%"
+      ],
+      "url": "https://www.jiemian.com/article/15044768.html",
+      "source": "jiemian.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-02T04:00:00Z"
+    },
+    {
+      "id": "9fe1e5e11e10",
+      "title": "国产GPU四小龙之一燧原科技今日开启申购",
+      "summary": "首页\n 资讯\n 军事\n 财经\n 娱乐\n 汽车\n 游戏\n 文化\n 援藏\n 插画\n 健康\n 公益\n 优选\n 法制\n 守艺中华\n 应急中国\n 更多\n\n  佛学文史古诗词人物解梦生活商业成长\n 地方频道\n\n  湖北山东山西丝路\n\n 注册登录\n\n中华网 china.com\n\n推荐 TMT 金融 地产 消费 医药 酒业 IPO观察\n\n当前位置：首页 > IPO观察 > 正文\n\n# 国产GPU四小龙之一燧原科技...",
+      "highlights": [
+        "佛学文史古诗词人物解梦生活商业成长",
+        "中华网 china.com",
+        "推荐 TMT 金融 地产 消费 医药 酒业 IPO观察"
+      ],
+      "url": "https://finance.china.com/IPO/13004694/20260902/49714401.html",
+      "source": "finance.china.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-02T02:00:00Z"
+    },
+    {
+      "id": "fc652c3ce9cb",
+      "title": "燧原科技即将上市，腾讯赚翻了_投资界",
+      "summary": "首   页\n 资   讯\n 投资圈\n 活   动\n 研   究\n 创投号\n\n 深度\n 热门\n 天天IPO\n AI先锋\n 机器人\n 医疗健康\n 大消费\n 视频\n 99个发现\n\n APP\n\n  投资界APP 微信扫码订阅\n 创投号\n 登录\n 清科集团 清科控股 清科研究中心 清科母基金 新芽\n\n首页产业芯片半导体正文\n\n# 燧原科技即将上市，腾讯赚翻了\n\n9月2日燧原科技开启科创板网上网下申购，腾讯重...",
+      "highlights": [
+        "投资界APP 微信扫码订阅",
+        "清科集团 清科控股 清科研究中心 清科母基金 新芽",
+        "首页产业芯片半导体正文"
+      ],
+      "url": "https://news.pedaily.cn/202609/568448.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-02T07:41:00Z"
+    },
+    {
+      "id": "856df13bff2f",
+      "title": "英伟达的下一步：不止售卖AI芯片",
+      "summary": "联发科把这套战略推到了新高度。客户可以开发能够和英伟达 GPU 竞争的自研芯片，再借助 NVLink Fusion 技术，把这些芯片接入英伟达完整的数据中心架构。英伟达尚未披露，当主 AI 芯片由别家提供时，一座 AI 工厂能给它带来多少收益。但丢掉芯片订单，已经不等于丢掉整套业务的收入。\n\n亚马逊 AWS 就是这套模式的现实案例。AWS 计划部署 200 万块英伟达 GPU，同时把自家自研的 T...",
+      "highlights": [
+        "联发科把这套战略推到了新高度",
+        "客户可以开发能够和英伟达 GPU 竞争的自研芯片，再借助 NVLink Fusion 技术，把这些芯片接入英伟达完整的数据中心架构",
+        "英伟达尚未披露，当主 AI 芯片由别家提供时，一座 AI 工厂能给它带来多少收益"
+      ],
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmwqq4561069.shtml",
+      "source": "finance.sina.com.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-02T11:51:01Z"
+    },
+    {
+      "id": "0a5a0d366e26",
+      "title": "中一签缴款7万元！燧原科技科创板申购开启，高估值下仍未盈利",
+      "summary": "首页 正文\n\n# 中一签缴款7万元！燧原科技科创板申购开启，高估值下仍未盈利\n\n财闻   潘宇静  2026-09-02 13:41:09\n\n9月2日，国产云端AI芯片企业燧原科技（688801.SH）正式开启科创板网上、网下申购。\n\n市场对其打新收益抱有较高期待，参考同业上市表现，同为国产GPU“四小龙”的摩尔线程-U（688795.SH）、沐曦股份-U（688802.SH）科创板上市开盘分别大...",
+      "highlights": [
+        "燧原科技科创板申购开启，高估值下仍未盈利",
+        "财闻   潘宇静  2026-09-02 13:41:09",
+        "9月2日，国产云端AI芯片企业燧原科技（688801.SH）正式开启科创板网上、网下申购"
+      ],
+      "url": "https://www.caiwennews.com/article/1578425.shtml",
+      "source": "caiwennews.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-02T13:41:09Z"
+    },
+    {
+      "id": "e0e6e7bc2884",
+      "title": "获亿元级融资，90后CEO押注“自进化个人AI”；为什么一定要做成硬件？-36氪",
+      "summary": "具体怎么做呢？何佳霖将 Violoop的学习路径拆成三个阶段。\n\n第一阶段，是让AI形成围绕个人的长期记忆。\n\n系统从用户授权的工作上下文中，逐渐理解与用户有关的人、项目、文件和历史工作。它需要判断哪些信息值得长期保存，哪些只是短期噪声，并持续合并重复内容、修正过时信息。\n\n第二阶段，是让AI学会一个人的工作方式。\n\n系统不只需要记住“发生过什么”，还要逐渐理解用户从哪里寻找信息、如何处理类似任务...",
+      "highlights": [
+        "何佳霖将 Violoop的学习路径拆成三个阶段",
+        "第一阶段，是让AI形成围绕个人的长期记忆",
+        "系统从用户授权的工作上下文中，逐渐理解与用户有关的人、项目、文件和历史工作"
+      ],
+      "url": "https://m.36kr.com/p/3964567434059016",
+      "source": "m.36kr.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-01T21:02:20Z"
+    },
+    {
+      "id": "667b6b65d824",
+      "title": "四家收口、明码标价：AI办公迎来千亿投入的兑现窗口",
+      "summary": "更值得关注的底层变化是，收费逻辑正从“按人计费”转向“按任务/用量计费”。金山办公在2026年半年报中明确，个人AI产品探索“订阅 + AI 用量”的混合模式，企业侧WPS 365则推行“席位 + AI 用量”，根据任务复杂度、智能服务深度与实际AI资源消耗阶梯收费。这并非个例：微软办公AI体系已同时提供预付Credits额度与超额按量付费；Google也将Gemini基础能力纳入Workspac...",
+      "highlights": [
+        "更值得关注的底层变化是，收费逻辑正从“按人计费”转向“按任务/用量计费”",
+        "金山办公在2026年半年报中明确，个人AI产品探索“订阅 + AI 用量”的混合模式，企业侧WPS 365则推行“席位 + AI 用量”，根据任务复杂度、智能服务深度与实际AI资源消耗阶梯收费",
+        "这并非个例：微软办公AI体系已同时提供预付Credits额度与超额按量付费；Google也将Gemini基础能力纳入Workspace订阅，并推出AI扩展访问方案满足高强度调用需求"
+      ],
+      "url": "https://www.bjnews.com.cn/detail-1788333976129704.html",
+      "source": "bjnews.com.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-02T09:00:00Z"
+    },
+    {
+      "id": "1525fd541a18",
+      "title": "车企集体“长出两条腿”，已有14家主流车企争相布局人形机器人_要闻_新闻中心_长江网_cjn.cn",
+      "summary": "logo []( [](\n\n互动\n\n意见反馈 长江头条\n\n数字报\n\n长江日报 武汉晚报\n\n移动端\n\n长江网移动端 长江头条移动端\n\n# 车企集体“长出两条腿”，已有14家主流车企争相布局人形机器人\n\n### 新闻中心 > 武汉频道 > 要闻\n\n2026-09-02 21:41 来源: 长江日报\n\n【字体： 大中小】\n\n前几天，张振林带着两位“特殊员工”从北京回到武汉。\n\n　　作为东风研发总院智能化...",
+      "highlights": [
+        "logo []( [](",
+        "长江网移动端 长江头条移动端",
+        "# 车企集体“长出两条腿”，已有14家主流车企争相布局人形机器人"
+      ],
+      "url": "http://news.cjn.cn/whpd/yw_19947/202609/t5335932.htm",
+      "source": "news.cjn.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-02T14:00:00Z"
+    },
+    {
+      "id": "b7b6e932a3c3",
+      "title": "酷特智能2026半年报：AI智能体业务取得新成效",
+      "summary": "随着AI发展从模型阶段到应用阶段，AI的竞争将从“智力”转变为“执行力”。KTOS除了推出企业AI大脑、企业知识网络、智能经营驾驶舱、AI Agent中心、智能流程引擎、决策辅助系统等六大产品模块外，还搭载酷小匠、酷小易、酷小智三大原生AI智能体，分别聚焦需求对接、日常运营、组织治理三大场景，大幅降低系统使用门槛，业务人员通过自然语言即可完成操作、搭建应用。\n\n　　技术落地已转化为实实在在的经营价...",
+      "highlights": [
+        "随着AI发展从模型阶段到应用阶段，AI的竞争将从“智力”转变为“执行力”",
+        "KTOS除了推出企业AI大脑、企业知识网络、智能经营驾驶舱、AI Agent中心、智能流程引擎、决策辅助系统等六大产品模块外，还搭载酷小匠、酷小易、酷小智三大原生AI智能体，分别聚焦需求对接、日常运营、组织治理三大场景，大幅降低系统使用门槛，业务人员通过自然语言即可完成操作、搭建应用",
+        "技术落地已转化为实实在在的经营价值"
+      ],
+      "url": "https://k.sina.com.cn/article_5952915720_162d2490806704rql6.html?from=tech",
+      "source": "k.sina.com.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-02T19:40:06Z"
+    },
+    {
+      "id": "be7c65afeb75",
+      "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems - TechCrunch",
+      "summary": "# Open AI’s Astra model is on the way—and very good at breaking into computer systems. OpenAI shared new details on its forthcoming Astra model, which the company said is the first large language mode...",
+      "highlights": [
+        "# Open AI’s Astra model is on the way—and very good at breaking into computer systems. OpenAI shared new details on its forthcoming Astra model, which the company said is the first large language model to meet its “critical cybersecurity threshold,” in preparation for its imminent release. That’s similar to the concerns Anthropic raised about its Mythos model earlier this year, and OpenAI is taking comparable precautions as it prepares to roll out the Astra. Preparations for the release of Astra come as the industry reacts to OpenAI agents breaking out of a training environment and accessing private data on Hugging Face, a popular model and benchmark distribution platform. For Astra, OpenAI said it designed a test to tempt the new model to replicate the actions of the rogue agents in the Hugging Face incident, which collaborated to access the open internet despite safeguards applied by OpenAI researchers. The company said it expects to release more evaluations of the model and further safety information when it is launched widely to the public."
+      ],
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "source": "techcrunch.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-01T21:06:24Z"
+    },
+    {
+      "id": "5a62211ffac4",
+      "title": "Meta debuts Muse Spark 1.3 as personal agent work continues - axios.com",
+      "summary": "# Meta debuts Muse Spark 1.3 as personal agent work continues. Meta on Wednesday released Muse Spark 1.3, an update it says significantly improves performance in coding and agentic tasks. **Why it mat...",
+      "highlights": [
+        "# Meta debuts Muse Spark 1.3 as personal agent work continues. Meta on Wednesday released Muse Spark 1.3, an update it says significantly improves performance in coding and agentic tasks. **Why it matters:** Meta is trying to keep pace with Anthropic, OpenAI and Google who all made major model announcements this week. * OpenAI, meanwhile, said Tuesday it will soon release its Astra model, though it will limit its most powerful cybersecurity capabilities to a smaller group of testers. **Zoom in:** Muse Spark 1.3 is priced the same as its predecessor, which Wang characterized as \"aggressive.\". **Between the lines:** With more powerful models, there is also more attention on safety, Wang said. * \"We have more powerful models that are in development,\" he said. **What we're watching:** Whether Meta will continue to close the gap with Anthropic, OpenAI and Google and how its model improvements — especially in agentic work — show up in Meta's products."
+      ],
+      "url": "https://www.axios.com/2026/09/02/meta-debuts-muse-spark-13-as-personal-agent-work-continues",
+      "source": "axios.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-02T19:10:34Z"
+    },
+    {
+      "id": "9b124023a2c3",
+      "title": "短期增长失色，长期AI算力蓝图惊艳! 大客户们点燃ASIC超级周期，博通(AVGO.US)炸裂抛出2300亿美元AI半导体展望",
+      "summary": "OpenAI/Anthropic这类全球AI应用领军者以及谷歌、亚马逊、SpaceX等超大规模云计算厂商们主导的AI算力基础设施建设进程正在从“集体采购英伟达GPU”全面升级为英伟达GPU+AMD\nGPU+自研AI专用集成电路(AI\nASIC)/XPU+CPU/DPU大规模协同运行的异构计算体系。当AI大模型架构逐步稳定且全球各行业Token调用量呈现出指数级增长后，高并发AI推理工作负载越来越适...",
+      "highlights": [
+        "OpenAI/Anthropic这类全球AI应用领军者以及谷歌、亚马逊、SpaceX等超大规模云计算厂商们主导的AI算力基础设施建设进程正在从“集体采购英伟达GPU”全面升级为英伟达GPU+AMD",
+        "GPU+自研AI专用集成电路(AI",
+        "ASIC)/XPU+CPU/DPU大规模协同运行的异构计算体系"
+      ],
+      "url": "https://cn.investing.com/news/stock-market-news/article-3549697",
+      "source": "cn.investing.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-03T00:06:49Z"
+    },
+    {
+      "id": "af2307c1e0be",
+      "title": "合见工软发布下一代EDA创新矩阵，Agent智能体战略正式落地，3DIC设计前沿成果亮相",
+      "summary": "合见工软正式发布Agentic EDA智能体战略核心产品——国内首款专用于数字芯片验证全流程的 EDA 智能体套件UniVista Verification Goal-Oriented Agentic Toolkit (UniVista Verification GOAT)，首次发布包括四大专家级数字验证EDA Agent，包括软件仿真、验证调试、回归测试管理、硬件仿真与 FPGA 原型验证智能体...",
+      "highlights": [
+        "合见工软正式发布Agentic EDA智能体战略核心产品——国内首款专用于数字芯片验证全流程的 EDA 智能体套件UniVista Verification Goal-Oriented Agentic Toolkit (UniVista Verification GOAT)，首次发布包括四大专家级数字验证EDA Agent，包括软件仿真、验证调试、回归测试管理、硬件仿真与 FPGA 原型验证智能体",
+        "UniVista Verification GOAT 采用目标驱动的专业 Agent 体系架构，把 AI 能力转化为可验收的验证工程成果，有效提升芯片验证调试效率",
+        "该智能体套件深度结合了合见工软数字验证全流程EDA工具，以“自主可控EDA+专用Agent”的紧密协同，将合见工软验证工具的专业能力、运行状态与工程上下文组织与Agent结合成为可交付的专业智能体EDA服务"
+      ],
+      "url": "https://time-weekly.com/post/332545",
+      "source": "time-weekly.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-02T06:00:00Z"
+    },
+    {
+      "id": "8368c08db0b8",
+      "title": "融资周报| 英伟达收购开源AI平台Hugging Face；YZi Labs公布EASY Residency第四季24个早期项目",
+      "summary": "BitGo宣布以约4,250万美元的现金加股票交易完成对NYDIG机构交易业务的收购，新增衍生品、结构化产品和资本市场服务能力，约30名NYDIG员工及机构客户关系并入BitGo。交易分两步完成：700万美元现金加约3,550万美元BitGo股票，另设基于营收里程碑的1,000万美元现金支付及最高500万美元额外对价。出售交易部门后，NYDIG将聚焦其电力、比特币挖矿和HPC数据中心业务。\n\n##...",
+      "highlights": [
+        "BitGo宣布以约4,250万美元的现金加股票交易完成对NYDIG机构交易业务的收购，新增衍生品、结构化产品和资本市场服务能力，约30名NYDIG员工及机构客户关系并入BitGo",
+        "交易分两步完成：700万美元现金加约3,550万美元BitGo股票，另设基于营收里程碑的1,000万美元现金支付及最高500万美元额外对价",
+        "出售交易部门后，NYDIG将聚焦其电力、比特币挖矿和HPC数据中心业务"
+      ],
+      "url": "https://www.panewslab.com/zh/articles/01a055da-0145-746e-815d-990124d72432",
+      "source": "panewslab.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-02T11:00:00Z"
+    },
+    {
+      "id": "72302118afba",
+      "title": "Anthropic、Meta、谷歌、阿里齐发模型更新编程能力较量白热化",
+      "summary": ":   2026年9月2日，人工智能公司Anthropic正式发布新一代旗舰大模型Claude Fable 5.1与Claude Mythos 5.1。图：视觉中国\n\n相关报道\n:   【财新周刊】财新周刊｜阿里AI再集结\n:   【财新周刊】封面报道｜阿里腾讯全力部署AI 双雄卡位新风口\n:   腾讯发模型Hy4 preview瞄准办公场景 模型迭代加速\n:   智谱认领神秘模型“牛来” 测试期...",
+      "highlights": [
+        ":   2026年9月2日，人工智能公司Anthropic正式发布新一代旗舰大模型Claude Fable 5.1与Claude Mythos 5.1",
+        ":   【财新周刊】财新周刊｜阿里AI再集结",
+        ":   【财新周刊】封面报道｜阿里腾讯全力部署AI 双雄卡位新风口"
+      ],
+      "url": "https://www.caixin.com/2026-09-03/102481328.html",
+      "source": "caixin.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-03T05:00:00Z"
+    },
+    {
+      "id": "8acb79152c87",
+      "title": "「AI新世代」大模型终于学会“赚钱”了？智谱业务“大换血”，API收入占比超八成_搜狐网",
+      "summary": "国产算力加速落地\n\n所以，模型能力依然是模型调用量的决定性因素。\n\n只是，模型能力的座次并非一成不变，今年以来，智谱、月之暗面和DeepSeek已轮流坐上过榜首位置。\n\n“如今大模型市场的规则非常直接：一旦新的高性能模型发布，第二天各大评测榜单便会更新排名。只要模型在榜单上位居前列，同时在定价上具备一定竞争力，API调用量就会迅速攀升。”文渊智库创始人王超向本报记者指出，月之暗面的Kimi K3就...",
+      "highlights": [
+        "所以，模型能力依然是模型调用量的决定性因素",
+        "只是，模型能力的座次并非一成不变，今年以来，智谱、月之暗面和DeepSeek已轮流坐上过榜首位置",
+        "“如今大模型市场的规则非常直接：一旦新的高性能模型发布，第二天各大评测榜单便会更新排名"
+      ],
+      "url": "https://m.sohu.com/a/1070631341_116062?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-01T21:07:00Z"
+    },
+    {
+      "id": "35ada0893945",
+      "title": "人工智能大模型发展迈入新阶段 - 科技频道",
+      "summary": "算力主权竞逐 从芯片依赖走向自主构建\n\n　　算力是大模型体系化博弈的核心根基。全球竞争正从模型参数、算法性能的表层比拼，深度转向算力基础设施与底层硬件的系统级竞争。算力主权已成为各国掌控AI发展主动权的战略制高点，头部企业纷纷向上游芯片延伸布局，AI产业垂直整合趋势愈发凸显。\n\n　　海外企业持续深化算力自主布局，构建全链条算力壁垒。2026年以来头部企业布局显著提速，OpenAI于6月联合博通发布...",
+      "highlights": [
+        "算力主权竞逐 从芯片依赖走向自主构建",
+        "算力是大模型体系化博弈的核心根基",
+        "全球竞争正从模型参数、算法性能的表层比拼，深度转向算力基础设施与底层硬件的系统级竞争"
+      ],
+      "url": "https://tech.gmw.cn/2026-09/03/content_38982929.htm",
+      "source": "tech.gmw.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-03T00:00:00Z"
+    },
+    {
+      "id": "06896c097011",
+      "title": "英伟达的下一步：不止售卖AI芯片_新浪财经_新浪网",
+      "summary": "这两组数字不能直接拿来对比：前者是英伟达对外投资金额，后者是 Anthropic 承诺在云计算上的消费额度。但两笔交易指向同一个长期战略。\n\n　　黄仁勋希望英伟达成为AI 的底层架构，而不仅仅是一家占据主导地位的芯片厂商。\n\n　　简而言之，一座 AI 工厂输入电力与数据，输出 Token（AI 的 “流通货币”）。正如黄仁勋所言：“输入是电子，输出是 Token。”\n\n　　在最近一次财报电话会议上...",
+      "highlights": [
+        "这两组数字不能直接拿来对比：前者是英伟达对外投资金额，后者是 Anthropic 承诺在云计算上的消费额度",
+        "但两笔交易指向同一个长期战略",
+        "黄仁勋希望英伟达成为AI 的底层架构，而不仅仅是一家占据主导地位的芯片厂商"
+      ],
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmwqq4561069.shtml?finpagefr=p_108",
+      "source": "finance.sina.com.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-02T11:51:01Z"
+    },
+    {
+      "id": "e2f4fbb7992d",
+      "title": "黑石启动60亿英镑地产平台退出计划私募股权撤退窗口渐启？ - 财联社",
+      "summary": "公开数据显示，2023年，全球私募股权退出交易额同比下降44%，2024年交易数量小幅回升但仍处五年低位。\n\n2025年被贝恩公司称为是私募股权终于“站稳脚跟”的一年，同时强调这是一场“K型复苏”——退出和交易金额明显回升，但复苏面较窄，分销水平依然低迷。\n\n来到2026年，市场普遍认为IPO窗口存在阶段性回暖，退出活动有所改善，但市场依然波动性较大，今年来的私募退出活动集中在优质资产和定制化的交...",
+      "highlights": [
+        "公开数据显示，2023年，全球私募股权退出交易额同比下降44%，2024年交易数量小幅回升但仍处五年低位",
+        "2025年被贝恩公司称为是私募股权终于“站稳脚跟”的一年，同时强调这是一场“K型复苏”——退出和交易金额明显回升，但复苏面较窄，分销水平依然低迷",
+        "来到2026年，市场普遍认为IPO窗口存在阶段性回暖，退出活动有所改善，但市场依然波动性较大，今年来的私募退出活动集中在优质资产和定制化的交易流程"
+      ],
+      "url": "https://www.cls.cn/detail/2419195",
+      "source": "cls.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-02T12:00:00Z"
+    },
+    {
+      "id": "b59fdd7e7e83",
+      "title": "从造车到造机器人，车企开辟第二战场_京报网",
+      "summary": "车企纷纷下场加速“造人”\n\n近日，小鹏机器人宣布首轮融资超9亿美元。小鹏CEO（首席执行官）何小鹏透露，小鹏IRON机器人计划从今年底开始进入规模量产阶段，在小鹏的门店和园区落地商业场景应用。2027年，小鹏IRON将面向零售和服务业场景的外部客户，在中国和海外开始规模交付。\n\n新势力车企中，小鹏较早开始“造人”。2025年11月，小鹏发布全新一代人形机器人IRON。今年6月10日，何小鹏宣布兼任...",
+      "highlights": [
+        "车企纷纷下场加速“造人”",
+        "近日，小鹏机器人宣布首轮融资超9亿美元",
+        "小鹏CEO（首席执行官）何小鹏透露，小鹏IRON机器人计划从今年底开始进入规模量产阶段，在小鹏的门店和园区落地商业场景应用"
+      ],
+      "url": "https://news.bjd.com.cn/2026/09/03/11944375.shtml",
+      "source": "news.bjd.com.cn",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-03T07:14:43Z"
+    },
+    {
+      "id": "1879ee638357",
+      "title": "共用供应链 提供训练场 从造车到造“人” 车企竞逐第二增长曲线",
+      "summary": "蔚来CEO李斌近日在智驾全员会上宣布，智能驾驶负责人任少卿已创立一家聚焦物理AI基础模型和具身智能的独立公司，蔚来将作为战略股东进行投资，并围绕具身智能、算法模型、智能硬件、新能源与算力基础设施等方向与新公司开展合作。任少卿将继续担任蔚来智能驾驶业务负责人。\n\n零跑汽车也在2026年中期业绩电话会上正式确认了机器人业务布局。零跑汽车副总裁李腾飞表示：“新能源汽车企业尤其是具备全域自研能力的企业，是...",
+      "highlights": [
+        "蔚来CEO李斌近日在智驾全员会上宣布，智能驾驶负责人任少卿已创立一家聚焦物理AI基础模型和具身智能的独立公司，蔚来将作为战略股东进行投资，并围绕具身智能、算法模型、智能硬件、新能源与算力基础设施等方向与新公司开展合作",
+        "任少卿将继续担任蔚来智能驾驶业务负责人",
+        "零跑汽车也在2026年中期业绩电话会上正式确认了机器人业务布局"
+      ],
+      "url": "https://www.szzg.gov.cn/2026/xwzx/szkx/202609/t20260903_5367428.htm",
+      "source": "szzg.gov.cn",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-03T09:44:00Z"
+    },
+    {
+      "id": "5f1205623d56",
+      "title": "未来已来：2026年十大未来产业全景解读_搜狐网",
+      "summary": "## 未来已来：2026年十大未来产业全景解读\n\n新浪财经\n\n（来源：金科之家网）\n\n2026年3月26日，北京中关村论坛年会“未来产业创新发展论坛”上，中国电子信息产业发展研究院（赛迪研究院）正式发布《2026年未来产业十大赛道》报告。\n\n十大赛道分别是：人形机器人／具身智能、生物制造、脑机接口、细胞与基因治疗、自主智能体、低空装备、核聚变能、高级别自动驾驶、卫星互联网、量子计算。\n\n赛迪研究院...",
+      "highlights": [
+        "## 未来已来：2026年十大未来产业全景解读",
+        "2026年3月26日，北京中关村论坛年会“未来产业创新发展论坛”上，中国电子信息产业发展研究院（赛迪研究院）正式发布《2026年未来产业十大赛道》报告",
+        "十大赛道分别是：人形机器人／具身智能、生物制造、脑机接口、细胞与基因治疗、自主智能体、低空装备、核聚变能、高级别自动驾驶、卫星互联网、量子计算"
+      ],
+      "url": "https://m.sohu.com/a/1071212583_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-03T05:05:47Z"
+    },
+    {
+      "id": "363c3c54571a",
+      "title": "Broadcom Sees $230B In AI Revenue By 2028, Driven By 'Geniuses ...",
+      "summary": "Broadcom Inc.’s AI chip business is showing little sign of slowing down, with the semiconductor giant expecting revenue from its AI chips to double in each of the next two years as demand from custome...",
+      "highlights": [
+        "Broadcom Inc.’s AI chip business is showing little sign of slowing down, with the semiconductor giant expecting revenue from its AI chips to double in each of the next two years as demand from customers including Anthropic and OpenAI accelerates. [...] DIA",
+        "Top trending ticker",
+        "Advertisement|Remove ads."
+      ],
+      "url": "https://stocktwits.com/news-articles/markets/equity/broadcom-sees-230-b-in-ai-revenue-by-2028-driven-by-geniuses-open-ai-anthropic-analyst-says-some-risks-remain-unresolved/cZsM1vRRJHk",
+      "source": "stocktwits.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-03T02:34:24Z"
+    },
+    {
+      "id": "be2fe1c233a7",
+      "title": "Anthropic、Meta、谷歌、阿里齐发模型更新编程能力较量白热化",
+      "summary": "商城\n\n数据 我闻 机构订阅 会议 Promotion 应用下载 帮助 网上有害信息举报专区\n\n 首页\n 经济\n 金融\n 公司\n 政经\n 世界\n 观点\n 博客\n 图片\n 视频\n English\n mini+\n 周刊\n 数据通\n\n  企业数据库\n\n  沪深股市\n\n  数据通Claw🦞\n\n更多 科技 地产 汽车 消费 能源  健康 环科 民生 ESG 数字说 比较 中国改革 专题 讣闻\n\n数据 财新一...",
+      "highlights": [
+        "数据 我闻 机构订阅 会议 Promotion 应用下载 帮助 网上有害信息举报专区",
+        "更多 科技 地产 汽车 消费 能源  健康 环科 民生 ESG 数字说 比较 中国改革 专题 讣闻",
+        "数据 财新一线 私房课 会议 Promotion 运动家 企业用户 应用下载 帮助"
+      ],
+      "url": "https://companies.caixin.com/2026-09-03/102481331.html",
+      "source": "companies.caixin.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-03T06:00:00Z"
+    },
+    {
+      "id": "f6db5f78f998",
+      "title": "Meta发布更强大AI模型，声称进一步缩小了与竞争对手差距 - 华尔街见闻",
+      "summary": "### 大家都在搜\n\n# Meta发布更强大AI模型，声称进一步缩小了与竞争对手差距\n\nMeta周三发布其迄今最强大的人工智能模型Muse Spark 1.3，首席AI官Alexandr Wang称其性能已追平甚至超越主要竞争对手，标志着这家社交媒体巨头在AI军备竞赛中迈出重要一步。\n\nWang在接受采访时表示，Muse Spark 1.3在编程能力上\"优于\"OpenAI的GPT-5.6 Sol，...",
+      "highlights": [
+        "# Meta发布更强大AI模型，声称进一步缩小了与竞争对手差距",
+        "Meta周三发布其迄今最强大的人工智能模型Muse Spark 1.3，首席AI官Alexandr Wang称其性能已追平甚至超越主要竞争对手，标志着这家社交媒体巨头在AI军备竞赛中迈出重要一步",
+        "Wang在接受采访时表示，Muse Spark 1.3在编程能力上\"优于\"OpenAI的GPT-5.6 Sol，与Anthropic的Claude Fable 5.1\"旗鼓相当\""
+      ],
+      "url": "https://wallstreetcn.com/articles/3780938",
+      "source": "wallstreetcn.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-02T20:35:54Z"
+    },
+    {
+      "id": "d54e2766a3c8",
+      "title": "大模型厂商，正忙着自备“干粮”|DeepSeek|OpenAI|AI芯片|智谱|Hugging Face_手机新浪网",
+      "summary": "AI Infra企业清程极智联合创始人师天麾此前曾对我们表示，今年以来Agent、长上下文和AI应用大规模落地，让模型调用量激增，Token越烧越快，从“交互式用量”进阶到“生产级用量”，推理计算需求随之指数级增长，并在资本支出上超过模型训练。\n\n与此同时，虽然算力供给也在快速增加，但显然无法跟上推理需求的增速。而且，推理时代的来临也在改变着模型和芯片的模样。\n\n专攻AI推理芯片的云天励飞董事长兼...",
+      "highlights": [
+        "AI Infra企业清程极智联合创始人师天麾此前曾对我们表示，今年以来Agent、长上下文和AI应用大规模落地，让模型调用量激增，Token越烧越快，从“交互式用量”进阶到“生产级用量”，推理计算需求随之指数级增长，并在资本支出上超过模型训练",
+        "与此同时，虽然算力供给也在快速增加，但显然无法跟上推理需求的增速",
+        "而且，推理时代的来临也在改变着模型和芯片的模样"
+      ],
+      "url": "https://finance.sina.cn/stock/jdts/2026-09-02/detail-iniqmfta7769259.d.html?vt=4&cid=76993&node_id=76993",
+      "source": "finance.sina.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-02T12:07:06Z"
+    }
+  ],
+  "today": [
+    {
+      "id": "9b124023a2c3",
+      "title": "短期增长失色，长期AI算力蓝图惊艳! 大客户们点燃ASIC超级周期，博通(AVGO.US)炸裂抛出2300亿美元AI半导体展望",
+      "summary": "OpenAI/Anthropic这类全球AI应用领军者以及谷歌、亚马逊、SpaceX等超大规模云计算厂商们主导的AI算力基础设施建设进程正在从“集体采购英伟达GPU”全面升级为英伟达GPU+AMD\nGPU+自研AI专用集成电路(AI\nASIC)/XPU+CPU/DPU大规模协同运行的异构计算体系。当AI大模型架构逐步稳定且全球各行业Token调用量呈现出指数级增长后，高并发AI推理工作负载越来越适...",
+      "highlights": [
+        "OpenAI/Anthropic这类全球AI应用领军者以及谷歌、亚马逊、SpaceX等超大规模云计算厂商们主导的AI算力基础设施建设进程正在从“集体采购英伟达GPU”全面升级为英伟达GPU+AMD",
+        "GPU+自研AI专用集成电路(AI",
+        "ASIC)/XPU+CPU/DPU大规模协同运行的异构计算体系"
+      ],
+      "url": "https://cn.investing.com/news/stock-market-news/article-3549697",
+      "source": "cn.investing.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-03T00:06:49Z"
+    },
+    {
+      "id": "72302118afba",
+      "title": "Anthropic、Meta、谷歌、阿里齐发模型更新编程能力较量白热化",
+      "summary": ":   2026年9月2日，人工智能公司Anthropic正式发布新一代旗舰大模型Claude Fable 5.1与Claude Mythos 5.1。图：视觉中国\n\n相关报道\n:   【财新周刊】财新周刊｜阿里AI再集结\n:   【财新周刊】封面报道｜阿里腾讯全力部署AI 双雄卡位新风口\n:   腾讯发模型Hy4 preview瞄准办公场景 模型迭代加速\n:   智谱认领神秘模型“牛来” 测试期...",
+      "highlights": [
+        ":   2026年9月2日，人工智能公司Anthropic正式发布新一代旗舰大模型Claude Fable 5.1与Claude Mythos 5.1",
+        ":   【财新周刊】财新周刊｜阿里AI再集结",
+        ":   【财新周刊】封面报道｜阿里腾讯全力部署AI 双雄卡位新风口"
+      ],
+      "url": "https://www.caixin.com/2026-09-03/102481328.html",
+      "source": "caixin.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-03T05:00:00Z"
+    },
+    {
+      "id": "35ada0893945",
+      "title": "人工智能大模型发展迈入新阶段 - 科技频道",
+      "summary": "算力主权竞逐 从芯片依赖走向自主构建\n\n　　算力是大模型体系化博弈的核心根基。全球竞争正从模型参数、算法性能的表层比拼，深度转向算力基础设施与底层硬件的系统级竞争。算力主权已成为各国掌控AI发展主动权的战略制高点，头部企业纷纷向上游芯片延伸布局，AI产业垂直整合趋势愈发凸显。\n\n　　海外企业持续深化算力自主布局，构建全链条算力壁垒。2026年以来头部企业布局显著提速，OpenAI于6月联合博通发布...",
+      "highlights": [
+        "算力主权竞逐 从芯片依赖走向自主构建",
+        "算力是大模型体系化博弈的核心根基",
+        "全球竞争正从模型参数、算法性能的表层比拼，深度转向算力基础设施与底层硬件的系统级竞争"
+      ],
+      "url": "https://tech.gmw.cn/2026-09/03/content_38982929.htm",
+      "source": "tech.gmw.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-03T00:00:00Z"
+    },
+    {
+      "id": "b59fdd7e7e83",
+      "title": "从造车到造机器人，车企开辟第二战场_京报网",
+      "summary": "车企纷纷下场加速“造人”\n\n近日，小鹏机器人宣布首轮融资超9亿美元。小鹏CEO（首席执行官）何小鹏透露，小鹏IRON机器人计划从今年底开始进入规模量产阶段，在小鹏的门店和园区落地商业场景应用。2027年，小鹏IRON将面向零售和服务业场景的外部客户，在中国和海外开始规模交付。\n\n新势力车企中，小鹏较早开始“造人”。2025年11月，小鹏发布全新一代人形机器人IRON。今年6月10日，何小鹏宣布兼任...",
+      "highlights": [
+        "车企纷纷下场加速“造人”",
+        "近日，小鹏机器人宣布首轮融资超9亿美元",
+        "小鹏CEO（首席执行官）何小鹏透露，小鹏IRON机器人计划从今年底开始进入规模量产阶段，在小鹏的门店和园区落地商业场景应用"
+      ],
+      "url": "https://news.bjd.com.cn/2026/09/03/11944375.shtml",
+      "source": "news.bjd.com.cn",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-03T07:14:43Z"
+    },
+    {
+      "id": "1879ee638357",
+      "title": "共用供应链 提供训练场 从造车到造“人” 车企竞逐第二增长曲线",
+      "summary": "蔚来CEO李斌近日在智驾全员会上宣布，智能驾驶负责人任少卿已创立一家聚焦物理AI基础模型和具身智能的独立公司，蔚来将作为战略股东进行投资，并围绕具身智能、算法模型、智能硬件、新能源与算力基础设施等方向与新公司开展合作。任少卿将继续担任蔚来智能驾驶业务负责人。\n\n零跑汽车也在2026年中期业绩电话会上正式确认了机器人业务布局。零跑汽车副总裁李腾飞表示：“新能源汽车企业尤其是具备全域自研能力的企业，是...",
+      "highlights": [
+        "蔚来CEO李斌近日在智驾全员会上宣布，智能驾驶负责人任少卿已创立一家聚焦物理AI基础模型和具身智能的独立公司，蔚来将作为战略股东进行投资，并围绕具身智能、算法模型、智能硬件、新能源与算力基础设施等方向与新公司开展合作",
+        "任少卿将继续担任蔚来智能驾驶业务负责人",
+        "零跑汽车也在2026年中期业绩电话会上正式确认了机器人业务布局"
+      ],
+      "url": "https://www.szzg.gov.cn/2026/xwzx/szkx/202609/t20260903_5367428.htm",
+      "source": "szzg.gov.cn",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-03T09:44:00Z"
+    },
+    {
+      "id": "5f1205623d56",
+      "title": "未来已来：2026年十大未来产业全景解读_搜狐网",
+      "summary": "## 未来已来：2026年十大未来产业全景解读\n\n新浪财经\n\n（来源：金科之家网）\n\n2026年3月26日，北京中关村论坛年会“未来产业创新发展论坛”上，中国电子信息产业发展研究院（赛迪研究院）正式发布《2026年未来产业十大赛道》报告。\n\n十大赛道分别是：人形机器人／具身智能、生物制造、脑机接口、细胞与基因治疗、自主智能体、低空装备、核聚变能、高级别自动驾驶、卫星互联网、量子计算。\n\n赛迪研究院...",
+      "highlights": [
+        "## 未来已来：2026年十大未来产业全景解读",
+        "2026年3月26日，北京中关村论坛年会“未来产业创新发展论坛”上，中国电子信息产业发展研究院（赛迪研究院）正式发布《2026年未来产业十大赛道》报告",
+        "十大赛道分别是：人形机器人／具身智能、生物制造、脑机接口、细胞与基因治疗、自主智能体、低空装备、核聚变能、高级别自动驾驶、卫星互联网、量子计算"
+      ],
+      "url": "https://m.sohu.com/a/1071212583_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-03T05:05:47Z"
+    },
+    {
+      "id": "363c3c54571a",
+      "title": "Broadcom Sees $230B In AI Revenue By 2028, Driven By 'Geniuses ...",
+      "summary": "Broadcom Inc.’s AI chip business is showing little sign of slowing down, with the semiconductor giant expecting revenue from its AI chips to double in each of the next two years as demand from custome...",
+      "highlights": [
+        "Broadcom Inc.’s AI chip business is showing little sign of slowing down, with the semiconductor giant expecting revenue from its AI chips to double in each of the next two years as demand from customers including Anthropic and OpenAI accelerates. [...] DIA",
+        "Top trending ticker",
+        "Advertisement|Remove ads."
+      ],
+      "url": "https://stocktwits.com/news-articles/markets/equity/broadcom-sees-230-b-in-ai-revenue-by-2028-driven-by-geniuses-open-ai-anthropic-analyst-says-some-risks-remain-unresolved/cZsM1vRRJHk",
+      "source": "stocktwits.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-03T02:34:24Z"
+    },
+    {
+      "id": "be2fe1c233a7",
+      "title": "Anthropic、Meta、谷歌、阿里齐发模型更新编程能力较量白热化",
+      "summary": "商城\n\n数据 我闻 机构订阅 会议 Promotion 应用下载 帮助 网上有害信息举报专区\n\n 首页\n 经济\n 金融\n 公司\n 政经\n 世界\n 观点\n 博客\n 图片\n 视频\n English\n mini+\n 周刊\n 数据通\n\n  企业数据库\n\n  沪深股市\n\n  数据通Claw🦞\n\n更多 科技 地产 汽车 消费 能源  健康 环科 民生 ESG 数字说 比较 中国改革 专题 讣闻\n\n数据 财新一...",
+      "highlights": [
+        "数据 我闻 机构订阅 会议 Promotion 应用下载 帮助 网上有害信息举报专区",
+        "更多 科技 地产 汽车 消费 能源  健康 环科 民生 ESG 数字说 比较 中国改革 专题 讣闻",
+        "数据 财新一线 私房课 会议 Promotion 运动家 企业用户 应用下载 帮助"
+      ],
+      "url": "https://companies.caixin.com/2026-09-03/102481331.html",
+      "source": "companies.caixin.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-03T06:00:00Z"
+    },
+    {
+      "id": "b19d9dcc4d17",
+      "title": "人工智能大模型发展迈入新阶段 _光明网",
+      "summary": "点击右上角微信好友\n\n点击浏览器下方“”分享微信好友Safari浏览器请点击“”按钮\n\n\n\n  \n\n;)\n\n 时政\n 国际\n 时评\n 理论\n 文化\n 科技\n 教育\n 经济\n 生活\n 法治\n 专题\n ENGLISH\n\n 时政\n 国际\n 时评\n 理论\n 文化\n 科技\n 教育\n \n\n文化人 天下事\n\n正在阅读： 人工智能大模型发展迈入新阶段\n\n首页> 光明日报 > 正文\n\n# 人工智能大模型发展迈入新阶...",
+      "highlights": [
+        "点击浏览器下方“”分享微信好友Safari浏览器请点击“”按钮",
+        "正在阅读： 人工智能大模型发展迈入新阶段",
+        "首页> 光明日报 > 正文"
+      ],
+      "url": "https://news.gmw.cn/2026-09/03/content_38982185.htm",
+      "source": "news.gmw.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-03T00:00:00Z"
+    },
+    {
+      "id": "c9efa46397dd",
+      "title": "14家主流车企争相布局人形机器人",
+      "summary": "繁体网站支持IPV6\n\n无障碍 | 长者版\n\n登录个人中心|智能问答\n\n# 湖北省经济和信息化厅\n\n热门搜索： 专精特新 单项冠军 两化融合 小巨人 绿色工厂\n\n 首 页\n 政府信息公开\n 互动交流\n 办事服务\n 部门动态\n 数据开放\n\n 首 页\n 政府信息公开\n 互动交流\n 办事服务\n 部门动态\n 数据开放\n\n首页»部门动态»热点聚焦»正文\n\n## 14家主流车企争相布局人形机器人\n\n2026-...",
+      "highlights": [
+        "登录个人中心|智能问答",
+        "# 湖北省经济和信息化厅",
+        "热门搜索： 专精特新 单项冠军 两化融合 小巨人 绿色工厂"
+      ],
+      "url": "http://jxt.hubei.gov.cn/bmdt/rdjj/202609/t20260903_6006781.shtml",
+      "source": "jxt.hubei.gov.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-03T13:41:00Z"
+    },
+    {
+      "id": "79cfb08a51a8",
+      "title": "机场广告之后，京东云的物理AI版图要浮出水面了_凤凰网",
+      "summary": "机场广告之后，京东云的物理AI版图要浮出水面了\n\n# 机场广告之后，京东云的物理AI版图要浮出水面了\n\nAI云的战事，以月的速度在升级。\n\n文｜赵艳秋\n\n编｜牛慧\n\nAI云的战事一直激烈，上一个战役还没打完，新战场已冒出来了。\n\n过去几年，云厂商卷模型、卷算力、卷Token价格；今年初，“小龙虾”OpenClaw一把火点燃Agent，云厂商迅速推出各种Claw，竞争从谁有更强的大模型，转向谁能让A...",
+      "highlights": [
+        "机场广告之后，京东云的物理AI版图要浮出水面了",
+        "# 机场广告之后，京东云的物理AI版图要浮出水面了",
+        "AI云的战事，以月的速度在升级"
+      ],
+      "url": "https://tech.ifeng.com/c/8w6be4RKBrt",
+      "source": "tech.ifeng.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-03T11:50:54Z"
+    },
+    {
+      "id": "b9b6f9845bee",
+      "title": "Jensen Huang to Spend $13 Billion to Take On OpenAI and Anthropic. Should You Buy Nvidia Stock? | The Motley Fool",
+      "summary": "Right now, Nvidia dominates the AI chip market, and it's not even close. But closed-source AI labs -- including OpenAI, Anthropic, and Alphabet's (GOOG +1.67%)(GOOGL +1.67%) Google -- have been trying...",
+      "highlights": [
+        "Right now, Nvidia dominates the AI chip market, and it's not even close. But closed-source AI labs -- including OpenAI, Anthropic, and Alphabet's (GOOG +1.67%)(GOOGL +1.67%) Google -- have been trying to develop their own AI chips, either on their own or in partnership with other companies like Amazon (AMZN +1.41%).",
+        "Alphabet Stock Quote",
+        "## NASDAQ: GOOGL"
+      ],
+      "url": "https://www.fool.com/investing/2026/09/03/jensen-huang-to-spend-usd13-billion-to-take-on-openai-and-anthropic-should-you-buy-nvidia-stock",
+      "source": "fool.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-03T17:42:01Z"
+    },
+    {
+      "id": "0dd3d36dc67c",
+      "title": "Nvidia is buying the AI startup that was hacked by OpenAI for nearly $13 billion | CNN Business - CNN",
+      "summary": "© 2026 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.   \n CNN Sans ™ & © 2016 Cable News Network.\n\n## Download the CNN app\n\nScan the QR code to download the CNN app on Goog...",
+      "highlights": [
+        "© 2026 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.",
+        "CNN Sans ™ & © 2016 Cable News Network.",
+        "## Download the CNN app"
+      ],
+      "url": "https://www.cnn.com/2026/09/03/tech/nvidia-hugging-face-ai-acquisition",
+      "source": "cnn.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-03T13:07:50Z"
+    },
+    {
+      "id": "5354d792be5b",
+      "title": "OpenAI、Anthropic亲自下场造芯，博通迎来最陡峭的增长曲线",
+      "summary": "芯片公司能参与融资安排，反映出AI基础设施投资已经大到需要芯片、数据中心、能源与长期资本共同进场，也让博通对客户项目拥有更强的交付控制力。 博通的最新财报给AI",
+      "highlights": [
+        "芯片公司能参与融资安排，反映出AI基础设施投资已经大到需要芯片、数据中心、能源与长期资本共同进场，也让博通对客户项目拥有更强的交付控制力"
+      ],
+      "url": "https://m.sohu.com/a/1071460479_120000222?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-03T09:00:00Z"
+    },
+    {
+      "id": "1fcb9dbc88a2",
+      "title": "腾讯WorkBuddy开放平台上线Agent向更多工作场景延伸 - 36氪",
+      "summary": "至于任务从哪里发起、工作流下一步触达到哪里，不同规模的组织、不同行业的企业会形成各自的方式。_WorkBuddy_ 不会预先定义哪一种形态最好。林佐露说，团队目前要做的，是在模型、Harness和行业能力逐步连接后，把“当下最好的生产力效果”交付给用户和企业伙伴。\n\nImage 2\n\n_WorkBuddy_ 开放平台\n\n这也是为什么，_WorkBuddy_ 要在上线不到半年就开始加速搭建生态的背景...",
+      "highlights": [
+        "至于任务从哪里发起、工作流下一步触达到哪里，不同规模的组织、不同行业的企业会形成各自的方式",
+        "_WorkBuddy_ 不会预先定义哪一种形态最好",
+        "林佐露说，团队目前要做的，是在模型、Harness和行业能力逐步连接后，把“当下最好的生产力效果”交付给用户和企业伙伴"
+      ],
+      "url": "https://m.36kr.com/p/3966701687905536",
+      "source": "m.36kr.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-03T07:23:56Z"
+    },
+    {
+      "id": "189488d86ccb",
+      "title": "腾讯不想让WorkBuddy困在桌面|界面新闻 · 科技",
+      "summary": "以AI眼镜Rokid Glasses为例，用户佩戴眼镜时可以通过语音唤醒WorkBuddy，把眼前的画面拍下并交给Agent处理。进入会议后，眼镜负责采集现场信息，WorkBuddy可以继续整理纪要，并生成待办或跟进邮件。\n\nWorkBuddy是腾讯在当下的互联网AI大战中最受重视的产品。\n\n在二季度业绩电话会上，腾讯首席战略官James Mitchell提到，公司发现WorkBuddy出现爆发式...",
+      "highlights": [
+        "以AI眼镜Rokid Glasses为例，用户佩戴眼镜时可以通过语音唤醒WorkBuddy，把眼前的画面拍下并交给Agent处理",
+        "进入会议后，眼镜负责采集现场信息，WorkBuddy可以继续整理纪要，并生成待办或跟进邮件",
+        "WorkBuddy是腾讯在当下的互联网AI大战中最受重视的产品"
+      ],
+      "url": "https://www.jiemian.com/article/15049951.html",
+      "source": "jiemian.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-03T05:00:00Z"
+    },
+    {
+      "id": "3298411a7172",
+      "title": "AI眼镜看向打工人",
+      "summary": "来源：北京商报）. 筹码压向Agent（智能体）生态，近期“重仓”AI的腾讯又有新动作。9月2日，腾讯旗下WorkBuddy开放平台发布上线，首发的9款联名硬件名单里，出现了智能",
+      "highlights": [
+        "来源：北京商报）. 筹码压向Agent（智能体）生态，近期“重仓”AI的腾讯又有新动作",
+        "9月2日，腾讯旗下WorkBuddy开放平台发布上线，首发的9款联名硬件名单里，出现了智能"
+      ],
+      "url": "https://m.sohu.com/a/1071572966_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-03T16:00:00Z"
+    },
+    {
+      "id": "36a2eb501c2f",
+      "title": "王杰等：未来产业与新兴产业划分及资本、金融、法律服务机遇",
+      "summary": "### 新闻\n\n### 体育\n\n### 娱乐\n\n### 财经\n\n### 汽车\n\n### 科技\n\n### 时尚\n\n### 手机 / 数码\n\n### 房产 / 家居\n\n### 教育\n\n# 王杰等：未来产业与新兴产业划分及资本、金融、法律服务机遇\n\n用微信扫码二维码\n\n分享至好友和朋友圈\n\n目录\n\n前言\n\n一、未来产业、战略性新兴产业细分领域与业态区分\n\n（一）六大未来产业\n\n（二）九大战略性新兴产业\n...",
+      "highlights": [
+        "### 手机 / 数码",
+        "### 房产 / 家居",
+        "# 王杰等：未来产业与新兴产业划分及资本、金融、法律服务机遇"
+      ],
+      "url": "https://www.163.com/dy/article/L5TLPONF0538RSZB.html",
+      "source": "163.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-03T07:06:29Z"
+    },
+    {
+      "id": "d786f46278b1",
+      "title": "Nvidia Agrees to $13 Billion Deal for AI Platform Hugging Face - Bloomberg",
+      "summary": "Nvidia Corp. has agreed to acquire artificial intelligence startup Hugging Face in a transaction valued at about $13 billion.\n\nThe chipmaker giant said it will keep Hugging Face’s platform open and co...",
+      "highlights": [
+        "Nvidia Corp. has agreed to acquire artificial intelligence startup Hugging Face in a transaction valued at about $13 billion.",
+        "The chipmaker giant said it will keep Hugging Face’s platform open and consistent with the startup’s existing practices. [...] ### Bloomberg",
+        "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-09-03/nvidia-agrees-to-13-billion-deal-for-ai-platform-hugging-face",
+      "source": "bloomberg.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-09-03T12:11:04Z"
+    },
+    {
+      "id": "457fb5f668d6",
+      "title": "Palo Alto Networks acquires Console for $500 million",
+      "summary": "+17° Kyiv   +15° Warsaw   +26° Washington\n\nNews   Technologies\n\n# Palo Alto Networks acquires AI startup Console for $500 million, TechCrunch reports\n\nLev Shevtsov   03 September 2026 01:54\n\nPalo Alto...",
+      "highlights": [
+        "+17° Kyiv   +15° Warsaw   +26° Washington",
+        "News   Technologies",
+        "# Palo Alto Networks acquires AI startup Console for $500 million, TechCrunch reports"
+      ],
+      "url": "https://ua.news/en/technologies/palo-alto-networks-pridbala-ai-startap-console-za-500-mln-povidomliaie-techcrunch",
+      "source": "ua.news",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-09-03T01:54:53Z"
+    },
+    {
+      "id": "820ad1eff378",
+      "title": "Palo Alto Networks Acquires AI Startup Console for $500M to Boost Autonomous Security Platform",
+      "summary": "The deal marks Palo Alto Networks’ seventh acquisition in 2026, following earlier purchases of observability platform Chronosphere and cybersecurity startup Koi.\n\n### Need Deeper Intelligence on the A...",
+      "highlights": [
+        "The deal marks Palo Alto Networks’ seventh acquisition in 2026, following earlier purchases of observability platform Chronosphere and cybersecurity startup Koi.",
+        "### Need Deeper Intelligence on the AI Market?",
+        "AI Insider's Market Intelligence platform tracks funding rounds, competitive landscapes, and technology trends across the global AI ecosystem in real time. Get the data and insights your organization needs to make informed decisions."
+      ],
+      "url": "https://theaiinsider.tech/2026/09/03/palo-alto-networks-acquires-ai-startup-console-for-500m-to-boost-autonomous-security-platform",
+      "source": "theaiinsider.tech",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-09-03T14:18:11Z"
+    },
+    {
+      "id": "0aa94cef1231",
+      "title": "Global Venture Funding Jumps 122% In August As Streak ...",
+      "summary": "Global Venture Funding In 2026\n Global Venture Funding To AI Startups In 2026\n Global IPOs For Venture-Backed Companies In 2026\n Global M&A In 2026 For Venture-Backed Companies\n\n## Methodology\n\nThe da...",
+      "highlights": [
+        "Global Venture Funding In 2026",
+        "Global Venture Funding To AI Startups In 2026",
+        "Global IPOs For Venture-Backed Companies In 2026"
+      ],
+      "url": "https://news.crunchbase.com/venture/global-funding-billion-dollar-deals-august-2026",
+      "source": "news.crunchbase.com",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-09-03T11:00:52Z"
+    },
+    {
+      "id": "f0abbcdfabe8",
+      "title": "Adobe just acquired this Indian AI startup less than a year after it launched",
+      "summary": "READ: Adobe to pay $75 million to settle U.S. lawsuit over subscription cancellation practices (March 13, 2026)\n\nThe acquisition is Adobe’s second known deal involving an Indian startup. In 2023, Adob...",
+      "highlights": [
+        "READ: Adobe to pay $75 million to settle U.S. lawsuit over subscription cancellation practices (March 13, 2026)",
+        "The acquisition is Adobe’s second known deal involving an Indian startup. In 2023, Adobe acquired AI video startup Rephrase.ai, which had also been founded in India.",
+        "Rahul Parmar, a member of Rilo’s founding team, confirmed the acquisition in a LinkedIn post, reflecting on how quickly the startup had grown. [...] He also thanked Jaglan, Boby and other members of the team, including Bhavesh Dhingra, Umesh Kumar, Aryaman and Shivam Jaglan, for helping turn ideas into products."
+      ],
+      "url": "https://americanbazaaronline.com/2026/09/03/adobe-just-acquired-this-indian-ai-startup-487510",
+      "source": "americanbazaaronline.com",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-09-03T14:39:15Z"
+    },
+    {
+      "id": "696ef674187f",
+      "title": "An AI drug specialist zeroes in on rare forms of obesity",
+      "summary": "Superluminal Medicines banked $60 million in funding to support development of a drug designed to work similarly to — but potentially be more selectively",
+      "highlights": [
+        "Superluminal Medicines banked $60 million in funding to support development of a drug designed to work similarly to — but potentially be more selectively"
+      ],
+      "url": "https://www.biopharmadive.com/news/superluminal-medicines-obesity-ai-drug-discovery-series-b/829552",
+      "source": "biopharmadive.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-09-03T16:00:00Z"
+    }
+  ],
+  "week": [
     {
       "id": "689917c0a2ba",
       "title": "巨头大动作！35亿美元，布局物理AI",
@@ -225,440 +1030,9 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-09-02T14:00:00Z"
-    },
-    {
-      "id": "7de95b7d02a1",
-      "title": "英伟达35亿美元投资联发科，两大巨头在下怎样一盘AI大棋？",
-      "summary": "雷科技雷科技雷科技\n\n\n\n \n \n\n  雷科技\n\n  \n\n  小雷哔哔\n\n  \n\n  数码\n\n  01\n\n  深扒\n\n  02\n\n  技能\n\n  03\n\n  系统\n\n  04\n\n  科普\n\n  05\n \n\n  电车通\n\n  电车通\n\n  \n\n  IAA2025\n\n  01\n\n  车展观察\n\n  02\n\n  电车试驾\n\n  03\n\n  新车展望\n\n  04\n\n  资讯快报\n\n  05\n \n\n  视频...",
-      "highlights": [
-        "英伟达35亿美元投资联发科，两大巨头在下怎样一盘AI大棋",
-        "# 英伟达35亿美元投资联发科，两大巨头在下怎样一盘AI大棋",
-        "AI芯片领域的强强联合"
-      ],
-      "url": "https://www.leikeji.com/article/79111",
-      "source": "leikeji.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-01T13:00:00Z"
-    },
-    {
-      "id": "b7b6e932a3c3",
-      "title": "酷特智能2026半年报：AI智能体业务取得新成效",
-      "summary": "随着AI发展从模型阶段到应用阶段，AI的竞争将从“智力”转变为“执行力”。KTOS除了推出企业AI大脑、企业知识网络、智能经营驾驶舱、AI Agent中心、智能流程引擎、决策辅助系统等六大产品模块外，还搭载酷小匠、酷小易、酷小智三大原生AI智能体，分别聚焦需求对接、日常运营、组织治理三大场景，大幅降低系统使用门槛，业务人员通过自然语言即可完成操作、搭建应用。\n\n　　技术落地已转化为实实在在的经营价...",
-      "highlights": [
-        "随着AI发展从模型阶段到应用阶段，AI的竞争将从“智力”转变为“执行力”",
-        "KTOS除了推出企业AI大脑、企业知识网络、智能经营驾驶舱、AI Agent中心、智能流程引擎、决策辅助系统等六大产品模块外，还搭载酷小匠、酷小易、酷小智三大原生AI智能体，分别聚焦需求对接、日常运营、组织治理三大场景，大幅降低系统使用门槛，业务人员通过自然语言即可完成操作、搭建应用",
-        "技术落地已转化为实实在在的经营价值"
-      ],
-      "url": "https://k.sina.com.cn/article_5952915720_162d2490806704rql6.html?from=tech",
-      "source": "k.sina.com.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-02T19:40:06Z"
-    },
-    {
-      "id": "be7c65afeb75",
-      "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems - TechCrunch",
-      "summary": "# Open AI’s Astra model is on the way—and very good at breaking into computer systems. OpenAI shared new details on its forthcoming Astra model, which the company said is the first large language mode...",
-      "highlights": [
-        "# Open AI’s Astra model is on the way—and very good at breaking into computer systems. OpenAI shared new details on its forthcoming Astra model, which the company said is the first large language model to meet its “critical cybersecurity threshold,” in preparation for its imminent release. That’s similar to the concerns Anthropic raised about its Mythos model earlier this year, and OpenAI is taking comparable precautions as it prepares to roll out the Astra. Preparations for the release of Astra come as the industry reacts to OpenAI agents breaking out of a training environment and accessing private data on Hugging Face, a popular model and benchmark distribution platform. For Astra, OpenAI said it designed a test to tempt the new model to replicate the actions of the rogue agents in the Hugging Face incident, which collaborated to access the open internet despite safeguards applied by OpenAI researchers. The company said it expects to release more evaluations of the model and further safety information when it is launched widely to the public."
-      ],
-      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "source": "techcrunch.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-01T21:06:24Z"
-    },
-    {
-      "id": "5a62211ffac4",
-      "title": "Meta debuts Muse Spark 1.3 as personal agent work continues - axios.com",
-      "summary": "# Meta debuts Muse Spark 1.3 as personal agent work continues. Meta on Wednesday released Muse Spark 1.3, an update it says significantly improves performance in coding and agentic tasks. **Why it mat...",
-      "highlights": [
-        "# Meta debuts Muse Spark 1.3 as personal agent work continues. Meta on Wednesday released Muse Spark 1.3, an update it says significantly improves performance in coding and agentic tasks. **Why it matters:** Meta is trying to keep pace with Anthropic, OpenAI and Google who all made major model announcements this week. * OpenAI, meanwhile, said Tuesday it will soon release its Astra model, though it will limit its most powerful cybersecurity capabilities to a smaller group of testers. **Zoom in:** Muse Spark 1.3 is priced the same as its predecessor, which Wang characterized as \"aggressive.\". **Between the lines:** With more powerful models, there is also more attention on safety, Wang said. * \"We have more powerful models that are in development,\" he said. **What we're watching:** Whether Meta will continue to close the gap with Anthropic, OpenAI and Google and how its model improvements — especially in agentic work — show up in Meta's products."
-      ],
-      "url": "https://www.axios.com/2026/09/02/meta-debuts-muse-spark-13-as-personal-agent-work-continues",
-      "source": "axios.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-02T19:10:34Z"
-    },
-    {
-      "id": "9b124023a2c3",
-      "title": "短期增长失色，长期AI算力蓝图惊艳! 大客户们点燃ASIC超级周期，博通(AVGO.US)炸裂抛出2300亿美元AI半导体展望",
-      "summary": "OpenAI/Anthropic这类全球AI应用领军者以及谷歌、亚马逊、SpaceX等超大规模云计算厂商们主导的AI算力基础设施建设进程正在从“集体采购英伟达GPU”全面升级为英伟达GPU+AMD\nGPU+自研AI专用集成电路(AI\nASIC)/XPU+CPU/DPU大规模协同运行的异构计算体系。当AI大模型架构逐步稳定且全球各行业Token调用量呈现出指数级增长后，高并发AI推理工作负载越来越适...",
-      "highlights": [
-        "OpenAI/Anthropic这类全球AI应用领军者以及谷歌、亚马逊、SpaceX等超大规模云计算厂商们主导的AI算力基础设施建设进程正在从“集体采购英伟达GPU”全面升级为英伟达GPU+AMD",
-        "GPU+自研AI专用集成电路(AI",
-        "ASIC)/XPU+CPU/DPU大规模协同运行的异构计算体系"
-      ],
-      "url": "https://cn.investing.com/news/stock-market-news/article-3549697",
-      "source": "cn.investing.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-03T00:06:49Z"
-    },
-    {
-      "id": "af2307c1e0be",
-      "title": "合见工软发布下一代EDA创新矩阵，Agent智能体战略正式落地，3DIC设计前沿成果亮相",
-      "summary": "合见工软正式发布Agentic EDA智能体战略核心产品——国内首款专用于数字芯片验证全流程的 EDA 智能体套件UniVista Verification Goal-Oriented Agentic Toolkit (UniVista Verification GOAT)，首次发布包括四大专家级数字验证EDA Agent，包括软件仿真、验证调试、回归测试管理、硬件仿真与 FPGA 原型验证智能体...",
-      "highlights": [
-        "合见工软正式发布Agentic EDA智能体战略核心产品——国内首款专用于数字芯片验证全流程的 EDA 智能体套件UniVista Verification Goal-Oriented Agentic Toolkit (UniVista Verification GOAT)，首次发布包括四大专家级数字验证EDA Agent，包括软件仿真、验证调试、回归测试管理、硬件仿真与 FPGA 原型验证智能体",
-        "UniVista Verification GOAT 采用目标驱动的专业 Agent 体系架构，把 AI 能力转化为可验收的验证工程成果，有效提升芯片验证调试效率",
-        "该智能体套件深度结合了合见工软数字验证全流程EDA工具，以“自主可控EDA+专用Agent”的紧密协同，将合见工软验证工具的专业能力、运行状态与工程上下文组织与Agent结合成为可交付的专业智能体EDA服务"
-      ],
-      "url": "https://time-weekly.com/post/332545",
-      "source": "time-weekly.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-02T06:00:00Z"
-    },
-    {
-      "id": "8368c08db0b8",
-      "title": "融资周报| 英伟达收购开源AI平台Hugging Face；YZi Labs公布EASY Residency第四季24个早期项目",
-      "summary": "BitGo宣布以约4,250万美元的现金加股票交易完成对NYDIG机构交易业务的收购，新增衍生品、结构化产品和资本市场服务能力，约30名NYDIG员工及机构客户关系并入BitGo。交易分两步完成：700万美元现金加约3,550万美元BitGo股票，另设基于营收里程碑的1,000万美元现金支付及最高500万美元额外对价。出售交易部门后，NYDIG将聚焦其电力、比特币挖矿和HPC数据中心业务。\n\n##...",
-      "highlights": [
-        "BitGo宣布以约4,250万美元的现金加股票交易完成对NYDIG机构交易业务的收购，新增衍生品、结构化产品和资本市场服务能力，约30名NYDIG员工及机构客户关系并入BitGo",
-        "交易分两步完成：700万美元现金加约3,550万美元BitGo股票，另设基于营收里程碑的1,000万美元现金支付及最高500万美元额外对价",
-        "出售交易部门后，NYDIG将聚焦其电力、比特币挖矿和HPC数据中心业务"
-      ],
-      "url": "https://www.panewslab.com/zh/articles/01a055da-0145-746e-815d-990124d72432",
-      "source": "panewslab.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-02T11:00:00Z"
-    },
-    {
-      "id": "72302118afba",
-      "title": "Anthropic、Meta、谷歌、阿里齐发模型更新编程能力较量白热化",
-      "summary": ":   2026年9月2日，人工智能公司Anthropic正式发布新一代旗舰大模型Claude Fable 5.1与Claude Mythos 5.1。图：视觉中国\n\n相关报道\n:   【财新周刊】财新周刊｜阿里AI再集结\n:   【财新周刊】封面报道｜阿里腾讯全力部署AI 双雄卡位新风口\n:   腾讯发模型Hy4 preview瞄准办公场景 模型迭代加速\n:   智谱认领神秘模型“牛来” 测试期...",
-      "highlights": [
-        ":   2026年9月2日，人工智能公司Anthropic正式发布新一代旗舰大模型Claude Fable 5.1与Claude Mythos 5.1",
-        ":   【财新周刊】财新周刊｜阿里AI再集结",
-        ":   【财新周刊】封面报道｜阿里腾讯全力部署AI 双雄卡位新风口"
-      ],
-      "url": "https://www.caixin.com/2026-09-03/102481328.html",
-      "source": "caixin.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-03T05:00:00Z"
-    },
-    {
-      "id": "8acb79152c87",
-      "title": "「AI新世代」大模型终于学会“赚钱”了？智谱业务“大换血”，API收入占比超八成_搜狐网",
-      "summary": "国产算力加速落地\n\n所以，模型能力依然是模型调用量的决定性因素。\n\n只是，模型能力的座次并非一成不变，今年以来，智谱、月之暗面和DeepSeek已轮流坐上过榜首位置。\n\n“如今大模型市场的规则非常直接：一旦新的高性能模型发布，第二天各大评测榜单便会更新排名。只要模型在榜单上位居前列，同时在定价上具备一定竞争力，API调用量就会迅速攀升。”文渊智库创始人王超向本报记者指出，月之暗面的Kimi K3就...",
-      "highlights": [
-        "所以，模型能力依然是模型调用量的决定性因素",
-        "只是，模型能力的座次并非一成不变，今年以来，智谱、月之暗面和DeepSeek已轮流坐上过榜首位置",
-        "“如今大模型市场的规则非常直接：一旦新的高性能模型发布，第二天各大评测榜单便会更新排名"
-      ],
-      "url": "https://m.sohu.com/a/1070631341_116062?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-01T21:07:00Z"
-    },
-    {
-      "id": "35ada0893945",
-      "title": "人工智能大模型发展迈入新阶段 - 科技频道",
-      "summary": "算力主权竞逐 从芯片依赖走向自主构建\n\n　　算力是大模型体系化博弈的核心根基。全球竞争正从模型参数、算法性能的表层比拼，深度转向算力基础设施与底层硬件的系统级竞争。算力主权已成为各国掌控AI发展主动权的战略制高点，头部企业纷纷向上游芯片延伸布局，AI产业垂直整合趋势愈发凸显。\n\n　　海外企业持续深化算力自主布局，构建全链条算力壁垒。2026年以来头部企业布局显著提速，OpenAI于6月联合博通发布...",
-      "highlights": [
-        "算力主权竞逐 从芯片依赖走向自主构建",
-        "算力是大模型体系化博弈的核心根基",
-        "全球竞争正从模型参数、算法性能的表层比拼，深度转向算力基础设施与底层硬件的系统级竞争"
-      ],
-      "url": "https://tech.gmw.cn/2026-09/03/content_38982929.htm",
-      "source": "tech.gmw.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-03T00:00:00Z"
-    },
-    {
-      "id": "06896c097011",
-      "title": "英伟达的下一步：不止售卖AI芯片_新浪财经_新浪网",
-      "summary": "这两组数字不能直接拿来对比：前者是英伟达对外投资金额，后者是 Anthropic 承诺在云计算上的消费额度。但两笔交易指向同一个长期战略。\n\n　　黄仁勋希望英伟达成为AI 的底层架构，而不仅仅是一家占据主导地位的芯片厂商。\n\n　　简而言之，一座 AI 工厂输入电力与数据，输出 Token（AI 的 “流通货币”）。正如黄仁勋所言：“输入是电子，输出是 Token。”\n\n　　在最近一次财报电话会议上...",
-      "highlights": [
-        "这两组数字不能直接拿来对比：前者是英伟达对外投资金额，后者是 Anthropic 承诺在云计算上的消费额度",
-        "但两笔交易指向同一个长期战略",
-        "黄仁勋希望英伟达成为AI 的底层架构，而不仅仅是一家占据主导地位的芯片厂商"
-      ],
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmwqq4561069.shtml?finpagefr=p_108",
-      "source": "finance.sina.com.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-02T11:51:01Z"
-    },
-    {
-      "id": "e2f4fbb7992d",
-      "title": "黑石启动60亿英镑地产平台退出计划私募股权撤退窗口渐启？ - 财联社",
-      "summary": "公开数据显示，2023年，全球私募股权退出交易额同比下降44%，2024年交易数量小幅回升但仍处五年低位。\n\n2025年被贝恩公司称为是私募股权终于“站稳脚跟”的一年，同时强调这是一场“K型复苏”——退出和交易金额明显回升，但复苏面较窄，分销水平依然低迷。\n\n来到2026年，市场普遍认为IPO窗口存在阶段性回暖，退出活动有所改善，但市场依然波动性较大，今年来的私募退出活动集中在优质资产和定制化的交...",
-      "highlights": [
-        "公开数据显示，2023年，全球私募股权退出交易额同比下降44%，2024年交易数量小幅回升但仍处五年低位",
-        "2025年被贝恩公司称为是私募股权终于“站稳脚跟”的一年，同时强调这是一场“K型复苏”——退出和交易金额明显回升，但复苏面较窄，分销水平依然低迷",
-        "来到2026年，市场普遍认为IPO窗口存在阶段性回暖，退出活动有所改善，但市场依然波动性较大，今年来的私募退出活动集中在优质资产和定制化的交易流程"
-      ],
-      "url": "https://www.cls.cn/detail/2419195",
-      "source": "cls.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-02T12:00:00Z"
-    },
-    {
-      "id": "b59fdd7e7e83",
-      "title": "从造车到造机器人，车企开辟第二战场_京报网",
-      "summary": "车企纷纷下场加速“造人”\n\n近日，小鹏机器人宣布首轮融资超9亿美元。小鹏CEO（首席执行官）何小鹏透露，小鹏IRON机器人计划从今年底开始进入规模量产阶段，在小鹏的门店和园区落地商业场景应用。2027年，小鹏IRON将面向零售和服务业场景的外部客户，在中国和海外开始规模交付。\n\n新势力车企中，小鹏较早开始“造人”。2025年11月，小鹏发布全新一代人形机器人IRON。今年6月10日，何小鹏宣布兼任...",
-      "highlights": [
-        "车企纷纷下场加速“造人”",
-        "近日，小鹏机器人宣布首轮融资超9亿美元",
-        "小鹏CEO（首席执行官）何小鹏透露，小鹏IRON机器人计划从今年底开始进入规模量产阶段，在小鹏的门店和园区落地商业场景应用"
-      ],
-      "url": "https://news.bjd.com.cn/2026/09/03/11944375.shtml",
-      "source": "news.bjd.com.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-03T07:14:43Z"
-    },
-    {
-      "id": "1879ee638357",
-      "title": "共用供应链 提供训练场 从造车到造“人” 车企竞逐第二增长曲线",
-      "summary": "蔚来CEO李斌近日在智驾全员会上宣布，智能驾驶负责人任少卿已创立一家聚焦物理AI基础模型和具身智能的独立公司，蔚来将作为战略股东进行投资，并围绕具身智能、算法模型、智能硬件、新能源与算力基础设施等方向与新公司开展合作。任少卿将继续担任蔚来智能驾驶业务负责人。\n\n零跑汽车也在2026年中期业绩电话会上正式确认了机器人业务布局。零跑汽车副总裁李腾飞表示：“新能源汽车企业尤其是具备全域自研能力的企业，是...",
-      "highlights": [
-        "蔚来CEO李斌近日在智驾全员会上宣布，智能驾驶负责人任少卿已创立一家聚焦物理AI基础模型和具身智能的独立公司，蔚来将作为战略股东进行投资，并围绕具身智能、算法模型、智能硬件、新能源与算力基础设施等方向与新公司开展合作",
-        "任少卿将继续担任蔚来智能驾驶业务负责人",
-        "零跑汽车也在2026年中期业绩电话会上正式确认了机器人业务布局"
-      ],
-      "url": "https://www.szzg.gov.cn/2026/xwzx/szkx/202609/t20260903_5367428.htm",
-      "source": "szzg.gov.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-03T09:44:00Z"
-    },
-    {
-      "id": "5f1205623d56",
-      "title": "未来已来：2026年十大未来产业全景解读_搜狐网",
-      "summary": "## 未来已来：2026年十大未来产业全景解读\n\n新浪财经\n\n（来源：金科之家网）\n\n2026年3月26日，北京中关村论坛年会“未来产业创新发展论坛”上，中国电子信息产业发展研究院（赛迪研究院）正式发布《2026年未来产业十大赛道》报告。\n\n十大赛道分别是：人形机器人／具身智能、生物制造、脑机接口、细胞与基因治疗、自主智能体、低空装备、核聚变能、高级别自动驾驶、卫星互联网、量子计算。\n\n赛迪研究院...",
-      "highlights": [
-        "## 未来已来：2026年十大未来产业全景解读",
-        "2026年3月26日，北京中关村论坛年会“未来产业创新发展论坛”上，中国电子信息产业发展研究院（赛迪研究院）正式发布《2026年未来产业十大赛道》报告",
-        "十大赛道分别是：人形机器人／具身智能、生物制造、脑机接口、细胞与基因治疗、自主智能体、低空装备、核聚变能、高级别自动驾驶、卫星互联网、量子计算"
-      ],
-      "url": "https://m.sohu.com/a/1071212583_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-03T05:05:47Z"
     }
   ],
-  "today": [
-    {
-      "id": "9b124023a2c3",
-      "title": "短期增长失色，长期AI算力蓝图惊艳! 大客户们点燃ASIC超级周期，博通(AVGO.US)炸裂抛出2300亿美元AI半导体展望",
-      "summary": "OpenAI/Anthropic这类全球AI应用领军者以及谷歌、亚马逊、SpaceX等超大规模云计算厂商们主导的AI算力基础设施建设进程正在从“集体采购英伟达GPU”全面升级为英伟达GPU+AMD\nGPU+自研AI专用集成电路(AI\nASIC)/XPU+CPU/DPU大规模协同运行的异构计算体系。当AI大模型架构逐步稳定且全球各行业Token调用量呈现出指数级增长后，高并发AI推理工作负载越来越适...",
-      "highlights": [
-        "OpenAI/Anthropic这类全球AI应用领军者以及谷歌、亚马逊、SpaceX等超大规模云计算厂商们主导的AI算力基础设施建设进程正在从“集体采购英伟达GPU”全面升级为英伟达GPU+AMD",
-        "GPU+自研AI专用集成电路(AI",
-        "ASIC)/XPU+CPU/DPU大规模协同运行的异构计算体系"
-      ],
-      "url": "https://cn.investing.com/news/stock-market-news/article-3549697",
-      "source": "cn.investing.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-03T00:06:49Z"
-    },
-    {
-      "id": "72302118afba",
-      "title": "Anthropic、Meta、谷歌、阿里齐发模型更新编程能力较量白热化",
-      "summary": ":   2026年9月2日，人工智能公司Anthropic正式发布新一代旗舰大模型Claude Fable 5.1与Claude Mythos 5.1。图：视觉中国\n\n相关报道\n:   【财新周刊】财新周刊｜阿里AI再集结\n:   【财新周刊】封面报道｜阿里腾讯全力部署AI 双雄卡位新风口\n:   腾讯发模型Hy4 preview瞄准办公场景 模型迭代加速\n:   智谱认领神秘模型“牛来” 测试期...",
-      "highlights": [
-        ":   2026年9月2日，人工智能公司Anthropic正式发布新一代旗舰大模型Claude Fable 5.1与Claude Mythos 5.1",
-        ":   【财新周刊】财新周刊｜阿里AI再集结",
-        ":   【财新周刊】封面报道｜阿里腾讯全力部署AI 双雄卡位新风口"
-      ],
-      "url": "https://www.caixin.com/2026-09-03/102481328.html",
-      "source": "caixin.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-03T05:00:00Z"
-    },
-    {
-      "id": "35ada0893945",
-      "title": "人工智能大模型发展迈入新阶段 - 科技频道",
-      "summary": "算力主权竞逐 从芯片依赖走向自主构建\n\n　　算力是大模型体系化博弈的核心根基。全球竞争正从模型参数、算法性能的表层比拼，深度转向算力基础设施与底层硬件的系统级竞争。算力主权已成为各国掌控AI发展主动权的战略制高点，头部企业纷纷向上游芯片延伸布局，AI产业垂直整合趋势愈发凸显。\n\n　　海外企业持续深化算力自主布局，构建全链条算力壁垒。2026年以来头部企业布局显著提速，OpenAI于6月联合博通发布...",
-      "highlights": [
-        "算力主权竞逐 从芯片依赖走向自主构建",
-        "算力是大模型体系化博弈的核心根基",
-        "全球竞争正从模型参数、算法性能的表层比拼，深度转向算力基础设施与底层硬件的系统级竞争"
-      ],
-      "url": "https://tech.gmw.cn/2026-09/03/content_38982929.htm",
-      "source": "tech.gmw.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-03T00:00:00Z"
-    },
-    {
-      "id": "b59fdd7e7e83",
-      "title": "从造车到造机器人，车企开辟第二战场_京报网",
-      "summary": "车企纷纷下场加速“造人”\n\n近日，小鹏机器人宣布首轮融资超9亿美元。小鹏CEO（首席执行官）何小鹏透露，小鹏IRON机器人计划从今年底开始进入规模量产阶段，在小鹏的门店和园区落地商业场景应用。2027年，小鹏IRON将面向零售和服务业场景的外部客户，在中国和海外开始规模交付。\n\n新势力车企中，小鹏较早开始“造人”。2025年11月，小鹏发布全新一代人形机器人IRON。今年6月10日，何小鹏宣布兼任...",
-      "highlights": [
-        "车企纷纷下场加速“造人”",
-        "近日，小鹏机器人宣布首轮融资超9亿美元",
-        "小鹏CEO（首席执行官）何小鹏透露，小鹏IRON机器人计划从今年底开始进入规模量产阶段，在小鹏的门店和园区落地商业场景应用"
-      ],
-      "url": "https://news.bjd.com.cn/2026/09/03/11944375.shtml",
-      "source": "news.bjd.com.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-03T07:14:43Z"
-    },
-    {
-      "id": "1879ee638357",
-      "title": "共用供应链 提供训练场 从造车到造“人” 车企竞逐第二增长曲线",
-      "summary": "蔚来CEO李斌近日在智驾全员会上宣布，智能驾驶负责人任少卿已创立一家聚焦物理AI基础模型和具身智能的独立公司，蔚来将作为战略股东进行投资，并围绕具身智能、算法模型、智能硬件、新能源与算力基础设施等方向与新公司开展合作。任少卿将继续担任蔚来智能驾驶业务负责人。\n\n零跑汽车也在2026年中期业绩电话会上正式确认了机器人业务布局。零跑汽车副总裁李腾飞表示：“新能源汽车企业尤其是具备全域自研能力的企业，是...",
-      "highlights": [
-        "蔚来CEO李斌近日在智驾全员会上宣布，智能驾驶负责人任少卿已创立一家聚焦物理AI基础模型和具身智能的独立公司，蔚来将作为战略股东进行投资，并围绕具身智能、算法模型、智能硬件、新能源与算力基础设施等方向与新公司开展合作",
-        "任少卿将继续担任蔚来智能驾驶业务负责人",
-        "零跑汽车也在2026年中期业绩电话会上正式确认了机器人业务布局"
-      ],
-      "url": "https://www.szzg.gov.cn/2026/xwzx/szkx/202609/t20260903_5367428.htm",
-      "source": "szzg.gov.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-03T09:44:00Z"
-    },
-    {
-      "id": "5f1205623d56",
-      "title": "未来已来：2026年十大未来产业全景解读_搜狐网",
-      "summary": "## 未来已来：2026年十大未来产业全景解读\n\n新浪财经\n\n（来源：金科之家网）\n\n2026年3月26日，北京中关村论坛年会“未来产业创新发展论坛”上，中国电子信息产业发展研究院（赛迪研究院）正式发布《2026年未来产业十大赛道》报告。\n\n十大赛道分别是：人形机器人／具身智能、生物制造、脑机接口、细胞与基因治疗、自主智能体、低空装备、核聚变能、高级别自动驾驶、卫星互联网、量子计算。\n\n赛迪研究院...",
-      "highlights": [
-        "## 未来已来：2026年十大未来产业全景解读",
-        "2026年3月26日，北京中关村论坛年会“未来产业创新发展论坛”上，中国电子信息产业发展研究院（赛迪研究院）正式发布《2026年未来产业十大赛道》报告",
-        "十大赛道分别是：人形机器人／具身智能、生物制造、脑机接口、细胞与基因治疗、自主智能体、低空装备、核聚变能、高级别自动驾驶、卫星互联网、量子计算"
-      ],
-      "url": "https://m.sohu.com/a/1071212583_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-03T05:05:47Z"
-    },
-    {
-      "id": "363c3c54571a",
-      "title": "Broadcom Sees $230B In AI Revenue By 2028, Driven By 'Geniuses ...",
-      "summary": "Broadcom Inc.’s AI chip business is showing little sign of slowing down, with the semiconductor giant expecting revenue from its AI chips to double in each of the next two years as demand from custome...",
-      "highlights": [
-        "Broadcom Inc.’s AI chip business is showing little sign of slowing down, with the semiconductor giant expecting revenue from its AI chips to double in each of the next two years as demand from customers including Anthropic and OpenAI accelerates. [...] DIA",
-        "Top trending ticker",
-        "Advertisement|Remove ads."
-      ],
-      "url": "https://stocktwits.com/news-articles/markets/equity/broadcom-sees-230-b-in-ai-revenue-by-2028-driven-by-geniuses-open-ai-anthropic-analyst-says-some-risks-remain-unresolved/cZsM1vRRJHk",
-      "source": "stocktwits.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-03T02:34:24Z"
-    },
-    {
-      "id": "5354d792be5b",
-      "title": "OpenAI、Anthropic亲自下场造芯，博通迎来最陡峭的增长曲线",
-      "summary": "芯片公司能参与融资安排，反映出AI基础设施投资已经大到需要芯片、数据中心、能源与长期资本共同进场，也让博通对客户项目拥有更强的交付控制力。 博通的最新财报给AI",
-      "highlights": [
-        "芯片公司能参与融资安排，反映出AI基础设施投资已经大到需要芯片、数据中心、能源与长期资本共同进场，也让博通对客户项目拥有更强的交付控制力"
-      ],
-      "url": "https://m.sohu.com/a/1071460479_120000222?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-09-03T09:00:00Z"
-    },
-    {
-      "id": "1fcb9dbc88a2",
-      "title": "腾讯WorkBuddy开放平台上线Agent向更多工作场景延伸 - 36氪",
-      "summary": "至于任务从哪里发起、工作流下一步触达到哪里，不同规模的组织、不同行业的企业会形成各自的方式。_WorkBuddy_ 不会预先定义哪一种形态最好。林佐露说，团队目前要做的，是在模型、Harness和行业能力逐步连接后，把“当下最好的生产力效果”交付给用户和企业伙伴。\n\nImage 2\n\n_WorkBuddy_ 开放平台\n\n这也是为什么，_WorkBuddy_ 要在上线不到半年就开始加速搭建生态的背景...",
-      "highlights": [
-        "至于任务从哪里发起、工作流下一步触达到哪里，不同规模的组织、不同行业的企业会形成各自的方式",
-        "_WorkBuddy_ 不会预先定义哪一种形态最好",
-        "林佐露说，团队目前要做的，是在模型、Harness和行业能力逐步连接后，把“当下最好的生产力效果”交付给用户和企业伙伴"
-      ],
-      "url": "https://m.36kr.com/p/3966701687905536",
-      "source": "m.36kr.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-03T07:23:56Z"
-    },
-    {
-      "id": "189488d86ccb",
-      "title": "腾讯不想让WorkBuddy困在桌面|界面新闻 · 科技",
-      "summary": "以AI眼镜Rokid Glasses为例，用户佩戴眼镜时可以通过语音唤醒WorkBuddy，把眼前的画面拍下并交给Agent处理。进入会议后，眼镜负责采集现场信息，WorkBuddy可以继续整理纪要，并生成待办或跟进邮件。\n\nWorkBuddy是腾讯在当下的互联网AI大战中最受重视的产品。\n\n在二季度业绩电话会上，腾讯首席战略官James Mitchell提到，公司发现WorkBuddy出现爆发式...",
-      "highlights": [
-        "以AI眼镜Rokid Glasses为例，用户佩戴眼镜时可以通过语音唤醒WorkBuddy，把眼前的画面拍下并交给Agent处理",
-        "进入会议后，眼镜负责采集现场信息，WorkBuddy可以继续整理纪要，并生成待办或跟进邮件",
-        "WorkBuddy是腾讯在当下的互联网AI大战中最受重视的产品"
-      ],
-      "url": "https://www.jiemian.com/article/15049951.html",
-      "source": "jiemian.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-03T05:00:00Z"
-    },
-    {
-      "id": "457fb5f668d6",
-      "title": "Palo Alto Networks acquires Console for $500 million",
-      "summary": "+17° Kyiv   +15° Warsaw   +26° Washington\n\nNews   Technologies\n\n# Palo Alto Networks acquires AI startup Console for $500 million, TechCrunch reports\n\nLev Shevtsov   03 September 2026 01:54\n\nPalo Alto...",
-      "highlights": [
-        "+17° Kyiv   +15° Warsaw   +26° Washington",
-        "News   Technologies",
-        "# Palo Alto Networks acquires AI startup Console for $500 million, TechCrunch reports"
-      ],
-      "url": "https://ua.news/en/technologies/palo-alto-networks-pridbala-ai-startap-console-za-500-mln-povidomliaie-techcrunch",
-      "source": "ua.news",
-      "category": "投并购",
-      "importance": 3,
-      "publishedAt": "2026-09-03T01:54:53Z"
-    }
-  ],
-  "week": [
-    {
-      "id": "912ce750de1c",
-      "title": "利好突袭！英伟达宣布史上最大海外直接投资，黄仁勋最新发声！被投公司股价暴涨",
-      "summary": "在此次合作中，联发科将采用英伟达NVLink Fusion平台，为客户开发定制化XPU。与传统芯片设计模式不同，客户无需从零开始开发XPU与英伟达计算系统之间的连接和相关系统组件，而是可以借助NVLink Fusion完成芯片与英伟达AI基础设施之间的衔接。同时，英伟达近期推出的NVHBM，又进一步将这一能力延伸至高带宽内存领域。也就是说，英伟达正在试图把芯片互联、内存以及系统级能力整合到同一套技...",
-      "highlights": [
-        "在此次合作中，联发科将采用英伟达NVLink Fusion平台，为客户开发定制化XPU",
-        "与传统芯片设计模式不同，客户无需从零开始开发XPU与英伟达计算系统之间的连接和相关系统组件，而是可以借助NVLink Fusion完成芯片与英伟达AI基础设施之间的衔接",
-        "同时，英伟达近期推出的NVHBM，又进一步将这一能力延伸至高带宽内存领域"
-      ],
-      "url": "https://www.mrjjxw.com/articles/2026-09-01/4569150.html",
-      "source": "mrjjxw.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-01T10:00:00Z"
-    },
-    {
-      "id": "2d16c75901d8",
-      "title": "燧原科技IPO发行价142.18元/股 腾讯持股市值超126亿元",
-      "summary": "首页 正文\n\n# 燧原科技IPO发行价142.18元/股 腾讯持股市值超126亿元\n\n财闻   潘宇静  2026-09-01 09:01:54\n\n8月31日晚间，燧原科技（688801.SH）披露首次公开发行股票并在科创板上市发行结果，公司发行价格确定为142.18元/股，发行数量为4303.5173万股，预计募集资金总额61.19亿元，摊薄后静态市销率为61.80倍。\n\n值得注意的是，随着燧原...",
-      "highlights": [
-        "# 燧原科技IPO发行价142.18元/股 腾讯持股市值超126亿元",
-        "财闻   潘宇静  2026-09-01 09:01:54",
-        "8月31日晚间，燧原科技（688801.SH）披露首次公开发行股票并在科创板上市发行结果，公司发行价格确定为142.18元/股，发行数量为4303.5173万股，预计募集资金总额61.19亿元，摊薄后静态市销率为61.80倍"
-      ],
-      "url": "https://www.caiwennews.com/article/1574942.shtml",
-      "source": "caiwennews.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-01T09:01:54Z"
-    },
-    {
-      "id": "7cfbe5873466",
-      "title": "【立方基金通】国家大基金14亿注资可灵/VAST半年融50亿/320亿产业基金遴选子基金GP",
-      "summary": "推荐\n\n\n\n政经\n\n豫股\n\n中原股交\n\n金融\n\n债市\n\n豫商\n\n城市\n\n安阳\n\n科创\n\n招采\n\n投教\n\n 更多\n\n## 【立方基金通】国家大基金14亿注资可灵/VAST半年融50亿/320亿产业基金遴选子基金GP\n\n大河财立方\n2026-09-01 16:00:00\n\n第 070 期\n\n8月31日，快手科技发布公告，旗下AI视频生成大模型主体北京可灵引入国家级战略投资。国家人工智能产业投资基金合伙...",
-      "highlights": [
-        "## 【立方基金通】国家大基金14亿注资可灵/VAST半年融50亿/320亿产业基金遴选子基金GP",
-        "2026-09-01 16:00:00",
-        "8月31日，快手科技发布公告，旗下AI视频生成大模型主体北京可灵引入国家级战略投资"
-      ],
-      "url": "https://app.dahecube.com/article.html?artid=285385%3Frecid%3D1",
-      "source": "app.dahecube.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-01T08:00:00Z"
-    },
+  "month": [
     {
       "id": "689917c0a2ba",
       "title": "巨头大动作！35亿美元，布局物理AI",
@@ -690,21 +1064,6 @@
       "publishedAt": "2026-09-01T23:00:00Z"
     },
     {
-      "id": "acf897ee747d",
-      "title": "具身智能真正需要的「一把火」，会在哪里点燃？",
-      "summary": "Image 1)\n\nImage 2: ZhiHu logo\n\n[](\n\n关注推荐热榜专栏圈子AI Works Beta故事\n\n​ \n\n直答\n\n切换模式\n\n登录/注册\n\n具身智能真正需要的「一把火」，会在哪里点燃？\n\n切换模式\n\n# 具身智能真正需要的「一把火」，会在哪里点燃？\n\nImage 3: 星河频率\n\n星河频率\n\n关注人形机器人、具身智能与自动驾驶。\n\n1 人赞同了该文章\n\nImage 4\n...",
-      "highlights": [
-        "Image 2: ZhiHu logo",
-        "关注推荐热榜专栏圈子AI Works Beta故事",
-        "具身智能真正需要的「一把火」，会在哪里点燃"
-      ],
-      "url": "https://zhuanlan.zhihu.com/p/2078176906101499324",
-      "source": "zhuanlan.zhihu.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-01T09:00:00Z"
-    },
-    {
       "id": "e6ab59498d24",
       "title": "华鑫证券:《计算机行业周报：智谱发布GLM-5.3-Flash",
       "summary": "我的下载 我的上传 我的订阅\n\n在线客服退出登录\n\n \n\n回到首页  AI搜索   发现报告   发现数据 \n\n发现专题 \n\n专题报告  专题百科\n\n 研选报告   定制报告   VIP 权益   付费社群\n\n行业研究公司研究宏观策略财报招股书会议纪要Token低空经济十五五AIGC大模型\n\n# 计算机行业周报：智谱发布GLM-5.3-Flash，Qwen3.8-Flash-Next开源\n\n信息技...",
@@ -718,21 +1077,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-09-01T17:00:00Z"
-    },
-    {
-      "id": "3f1f875dd11e",
-      "title": "Anthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞",
-      "summary": "关于我们网站声明联系方式用户反馈网站地图帮助\n\n## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载\n\nAnthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞\n\n原创\n\n环球市场情报\n\n2026-06-02 23:00 星期二\n\n财联社 史正丞\n\n责编 徐军程\n\n```\n①Anthropic宣布将“神话（Mythos）”大模型预览权限扩大至额外约150家关...",
-      "highlights": [
-        "关于我们网站声明联系方式用户反馈网站地图帮助",
-        "## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载",
-        "Anthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞"
-      ],
-      "url": "https://www.cls.cn/detail/2388865",
-      "source": "cls.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-01T12:00:00Z"
     },
     {
       "id": "fbb0e8da2f34",
@@ -763,21 +1107,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-02T03:06:25Z"
-    },
-    {
-      "id": "92cc70bee836",
-      "title": "AI办公，上演大厂通吃？_风闻",
-      "summary": "私信\n 消息\n\n 个人主页\n 我的文章\n 账号设置\n 退出\n\n 登录/注册\n\n +1\n 0\n +1\n\n# AI办公，上演大厂通吃？\n\n#### 惊蛰研究所\n\n昨天 18:18\n\n一个月前，阿里才刚刚将QoderWork、悟空、MuleRun三款智能体产品整合升级为“千问办公”，金山办公在上海发布AI办公智能体“灵犀专业版”。再往前数一个月，腾讯在6月5日正式发布了WorkBuddy企业版以及办公智...",
-      "highlights": [
-        "# AI办公，上演大厂通吃",
-        "一个月前，阿里才刚刚将QoderWork、悟空、MuleRun三款智能体产品整合升级为“千问办公”，金山办公在上海发布AI办公智能体“灵犀专业版”",
-        "再往前数一个月，腾讯在6月5日正式发布了WorkBuddy企业版以及办公智能体套件Agent Suite，原生接入腾讯文档、腾讯网盘、腾讯乐享三大协同办公产品"
-      ],
-      "url": "https://user.guancha.cn/main/content?id=1727381&comments-container=",
-      "source": "user.guancha.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-01T11:00:00Z"
     },
     {
       "id": "a1da18b9d482",
@@ -825,171 +1154,34 @@
       "publishedAt": "2026-09-02T02:00:00Z"
     },
     {
-      "id": "fa155c3362a2",
-      "title": "燧原科技本周打新，腾讯既是最大外部股东也是最大客户",
-      "summary": "界面新闻logo\n\n登录\n\n\n\n旧版搜索\n\n 新版搜索\n 旧版搜索\n\n#### 历史搜索 全部删除;)\n\n#### 热门搜索\n\n\n\n扫一扫下载界面新闻APP\n\n其他途径关注界面…\n\n腾讯\n\n# 燧原科技本周打新，腾讯既是最大外部股东也是最大客户\n\n过去一年，燧原科技超过八成收入来自于腾讯。\n\n宋佳楠 · 来源：界面新闻\n\n燧原科技;本周打新;腾讯;最大外部股东;最大客户\n\n图片来源：视觉中国\n\n>...",
+      "id": "fc652c3ce9cb",
+      "title": "燧原科技即将上市，腾讯赚翻了_投资界",
+      "summary": "首   页\n 资   讯\n 投资圈\n 活   动\n 研   究\n 创投号\n\n 深度\n 热门\n 天天IPO\n AI先锋\n 机器人\n 医疗健康\n 大消费\n 视频\n 99个发现\n\n APP\n\n  投资界APP 微信扫码订阅\n 创投号\n 登录\n 清科集团 清科控股 清科研究中心 清科母基金 新芽\n\n首页产业芯片半导体正文\n\n# 燧原科技即将上市，腾讯赚翻了\n\n9月2日燧原科技开启科创板网上网下申购，腾讯重...",
       "highlights": [
-        "#### 历史搜索 全部删除;)",
-        "扫一扫下载界面新闻APP",
-        "# 燧原科技本周打新，腾讯既是最大外部股东也是最大客户"
+        "投资界APP 微信扫码订阅",
+        "清科集团 清科控股 清科研究中心 清科母基金 新芽",
+        "首页产业芯片半导体正文"
       ],
-      "url": "https://www.jiemian.com/article/15031363.html",
-      "source": "jiemian.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-01T12:00:00Z"
-    }
-  ],
-  "month": [
-    {
-      "id": "912ce750de1c",
-      "title": "利好突袭！英伟达宣布史上最大海外直接投资，黄仁勋最新发声！被投公司股价暴涨",
-      "summary": "在此次合作中，联发科将采用英伟达NVLink Fusion平台，为客户开发定制化XPU。与传统芯片设计模式不同，客户无需从零开始开发XPU与英伟达计算系统之间的连接和相关系统组件，而是可以借助NVLink Fusion完成芯片与英伟达AI基础设施之间的衔接。同时，英伟达近期推出的NVHBM，又进一步将这一能力延伸至高带宽内存领域。也就是说，英伟达正在试图把芯片互联、内存以及系统级能力整合到同一套技...",
-      "highlights": [
-        "在此次合作中，联发科将采用英伟达NVLink Fusion平台，为客户开发定制化XPU",
-        "与传统芯片设计模式不同，客户无需从零开始开发XPU与英伟达计算系统之间的连接和相关系统组件，而是可以借助NVLink Fusion完成芯片与英伟达AI基础设施之间的衔接",
-        "同时，英伟达近期推出的NVHBM，又进一步将这一能力延伸至高带宽内存领域"
-      ],
-      "url": "https://www.mrjjxw.com/articles/2026-09-01/4569150.html",
-      "source": "mrjjxw.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-01T10:00:00Z"
-    },
-    {
-      "id": "2d16c75901d8",
-      "title": "燧原科技IPO发行价142.18元/股 腾讯持股市值超126亿元",
-      "summary": "首页 正文\n\n# 燧原科技IPO发行价142.18元/股 腾讯持股市值超126亿元\n\n财闻   潘宇静  2026-09-01 09:01:54\n\n8月31日晚间，燧原科技（688801.SH）披露首次公开发行股票并在科创板上市发行结果，公司发行价格确定为142.18元/股，发行数量为4303.5173万股，预计募集资金总额61.19亿元，摊薄后静态市销率为61.80倍。\n\n值得注意的是，随着燧原...",
-      "highlights": [
-        "# 燧原科技IPO发行价142.18元/股 腾讯持股市值超126亿元",
-        "财闻   潘宇静  2026-09-01 09:01:54",
-        "8月31日晚间，燧原科技（688801.SH）披露首次公开发行股票并在科创板上市发行结果，公司发行价格确定为142.18元/股，发行数量为4303.5173万股，预计募集资金总额61.19亿元，摊薄后静态市销率为61.80倍"
-      ],
-      "url": "https://www.caiwennews.com/article/1574942.shtml",
-      "source": "caiwennews.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-01T09:01:54Z"
-    },
-    {
-      "id": "7cfbe5873466",
-      "title": "【立方基金通】国家大基金14亿注资可灵/VAST半年融50亿/320亿产业基金遴选子基金GP",
-      "summary": "推荐\n\n\n\n政经\n\n豫股\n\n中原股交\n\n金融\n\n债市\n\n豫商\n\n城市\n\n安阳\n\n科创\n\n招采\n\n投教\n\n 更多\n\n## 【立方基金通】国家大基金14亿注资可灵/VAST半年融50亿/320亿产业基金遴选子基金GP\n\n大河财立方\n2026-09-01 16:00:00\n\n第 070 期\n\n8月31日，快手科技发布公告，旗下AI视频生成大模型主体北京可灵引入国家级战略投资。国家人工智能产业投资基金合伙...",
-      "highlights": [
-        "## 【立方基金通】国家大基金14亿注资可灵/VAST半年融50亿/320亿产业基金遴选子基金GP",
-        "2026-09-01 16:00:00",
-        "8月31日，快手科技发布公告，旗下AI视频生成大模型主体北京可灵引入国家级战略投资"
-      ],
-      "url": "https://app.dahecube.com/article.html?artid=285385%3Frecid%3D1",
-      "source": "app.dahecube.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-01T08:00:00Z"
-    },
-    {
-      "id": "689917c0a2ba",
-      "title": "巨头大动作！35亿美元，布局物理AI",
-      "summary": "阳光电源(300274)在投资者关系活动记录表中表示，SST成为必然趋势，主要源于AI算力爆发对数据中心供电架构提出的根本性挑战。SST能够消除中间多级变换损耗，是支撑AI算力持续扩张的基础设施最优解。海外CSP厂商对公司SST产品认可度较高，公司未来会加强实验设施建设，提高认可度，夯实可靠性。公司与北美头部云厂商均有沟通，共同定义产品规格。预计2026年以小批量样机和试验验证为主，配合头部客户进...",
-      "highlights": [
-        "阳光电源(300274)在投资者关系活动记录表中表示，SST成为必然趋势，主要源于AI算力爆发对数据中心供电架构提出的根本性挑战",
-        "SST能够消除中间多级变换损耗，是支撑AI算力持续扩张的基础设施最优解",
-        "海外CSP厂商对公司SST产品认可度较高，公司未来会加强实验设施建设，提高认可度，夯实可靠性"
-      ],
-      "url": "https://www.stcn.com/article/detail/4168215.html",
-      "source": "stcn.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-01T15:00:00Z"
-    },
-    {
-      "id": "ca6ce89571ff",
-      "title": "港股18C再融资规模反超IPO “马太效应”背后存三重驱动逻辑",
-      "summary": "智谱在7月再融资公告中表示，截至6月末，公司IPO募资净额动用比例已超93%，资金主要用于业务扩张与战略落地。伴随业务提速，原有募资消耗节奏加快，本次再融资将进一步补充资本金，持续支撑基础模型研发、技术迭代、商业化落地与生态建设。\n\n对于自身再融资需求，壁仞科技也坦言，人工智能的快速发展及Token（词元）消耗的爆炸式增长，持续推动对通用图形处理器（GPGPU）计算解决方案的强劲需求，这扩大了潜在...",
-      "highlights": [
-        "智谱在7月再融资公告中表示，截至6月末，公司IPO募资净额动用比例已超93%，资金主要用于业务扩张与战略落地",
-        "伴随业务提速，原有募资消耗节奏加快，本次再融资将进一步补充资本金，持续支撑基础模型研发、技术迭代、商业化落地与生态建设",
-        "对于自身再融资需求，壁仞科技也坦言，人工智能的快速发展及Token（词元）消耗的爆炸式增长，持续推动对通用图形处理器（GPGPU）计算解决方案的强劲需求，这扩大了潜在市场，并加速了公司下一代GPGPU产品的商业化，速度超过公司上市时的预期，因此有必要采纳审慎而灵活的融资策略，以把握新兴机遇并确保长期竞争力"
-      ],
-      "url": "https://www.stcn.com/article/detail/4168233.html",
-      "source": "stcn.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-01T23:00:00Z"
-    },
-    {
-      "id": "acf897ee747d",
-      "title": "具身智能真正需要的「一把火」，会在哪里点燃？",
-      "summary": "Image 1)\n\nImage 2: ZhiHu logo\n\n[](\n\n关注推荐热榜专栏圈子AI Works Beta故事\n\n​ \n\n直答\n\n切换模式\n\n登录/注册\n\n具身智能真正需要的「一把火」，会在哪里点燃？\n\n切换模式\n\n# 具身智能真正需要的「一把火」，会在哪里点燃？\n\nImage 3: 星河频率\n\n星河频率\n\n关注人形机器人、具身智能与自动驾驶。\n\n1 人赞同了该文章\n\nImage 4\n...",
-      "highlights": [
-        "Image 2: ZhiHu logo",
-        "关注推荐热榜专栏圈子AI Works Beta故事",
-        "具身智能真正需要的「一把火」，会在哪里点燃"
-      ],
-      "url": "https://zhuanlan.zhihu.com/p/2078176906101499324",
-      "source": "zhuanlan.zhihu.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-01T09:00:00Z"
-    },
-    {
-      "id": "e6ab59498d24",
-      "title": "华鑫证券:《计算机行业周报：智谱发布GLM-5.3-Flash",
-      "summary": "我的下载 我的上传 我的订阅\n\n在线客服退出登录\n\n \n\n回到首页  AI搜索   发现报告   发现数据 \n\n发现专题 \n\n专题报告  专题百科\n\n 研选报告   定制报告   VIP 权益   付费社群\n\n行业研究公司研究宏观策略财报招股书会议纪要Token低空经济十五五AIGC大模型\n\n# 计算机行业周报：智谱发布GLM-5.3-Flash，Qwen3.8-Flash-Next开源\n\n信息技...",
-      "highlights": [
-        "我的下载 我的上传 我的订阅",
-        "回到首页  AI搜索   发现报告   发现数据",
-        "研选报告   定制报告   VIP 权益   付费社群"
-      ],
-      "url": "https://www.fxbaogao.com/detail/5662803",
-      "source": "fxbaogao.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-01T17:00:00Z"
-    },
-    {
-      "id": "3f1f875dd11e",
-      "title": "Anthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞",
-      "summary": "关于我们网站声明联系方式用户反馈网站地图帮助\n\n## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载\n\nAnthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞\n\n原创\n\n环球市场情报\n\n2026-06-02 23:00 星期二\n\n财联社 史正丞\n\n责编 徐军程\n\n```\n①Anthropic宣布将“神话（Mythos）”大模型预览权限扩大至额外约150家关...",
-      "highlights": [
-        "关于我们网站声明联系方式用户反馈网站地图帮助",
-        "## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载",
-        "Anthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞"
-      ],
-      "url": "https://www.cls.cn/detail/2388865",
-      "source": "cls.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-01T12:00:00Z"
-    },
-    {
-      "id": "fbb0e8da2f34",
-      "title": "英伟达涨价背后，ASIC要被认真对待了",
-      "summary": "AMD于8月6日宣布达成最终协议收购Taalas，金额未披露，交易仍需监管批准。Taalas把模型权重固化到芯片，减少从外部内存反复读取参数的开销。AMD计划把相关技术纳入加速器路线图，并与Instinct GPU、EPYC、ROCm和Helios机架级系统组合。 这项收购让AMD在通用GPU之外获得面向稳定推理负载的专用架构能力，也使其产品组合能够覆盖不同可编程程度和成本目标。\n\nEtched的...",
-      "highlights": [
-        "AMD于8月6日宣布达成最终协议收购Taalas，金额未披露，交易仍需监管批准",
-        "Taalas把模型权重固化到芯片，减少从外部内存反复读取参数的开销",
-        "AMD计划把相关技术纳入加速器路线图，并与Instinct GPU、EPYC、ROCm和Helios机架级系统组合"
-      ],
-      "url": "https://news.pedaily.cn/202609/568406.shtml",
+      "url": "https://news.pedaily.cn/202609/568448.shtml",
       "source": "news.pedaily.cn",
       "category": "投并购",
       "importance": 5,
-      "publishedAt": "2026-09-02T00:08:00Z"
+      "publishedAt": "2026-09-02T07:41:00Z"
     },
     {
-      "id": "df96fd30228b",
-      "title": "Token推理洪流之下，GPU霸主力争掌控“AI模型入口”! 英伟达(NVDA.US)欲以140亿美元在本周鲸吞Hugging Face",
-      "summary": "AI GPU集群以及存储芯片仍是Token推理端洪流之下全球范围最突出的AI算力系统瓶颈。TrendForce预计第三季度DRAM和NAND\nFlash合约价将分别环比上涨13%—18%和10%—15%;2026年服务器DRAM及企业级固态硬盘价格累计涨幅可能分别达到约270%和235%，2027年HBM合约价仍可能再涨70%—140%。DRAM与NAND预计将占云计算服务提供商资本开支的47%，...",
+      "id": "882c04c8e429",
+      "title": "万联证券:《计算机行业跟踪报告：大模型能力与成本协同优化，AI商业化验证持续增强》",
+      "summary": "我的上传 我的订阅\n\n在线客服退出登录\n\n \n\n回到首页  AI搜索   发现报告   发现数据 \n\n发现专题 \n\n专题报告  专题百科\n\n 研选报告   定制报告   VIP 权益   付费社群\n\n行业研究公司研究宏观策略财报招股书会议纪要Token低空经济十五五AIGC大模型\n\n# 计算机行业跟踪报告：大模型能力与成本协同优化，AI商业化验证持续增强\n\n信息技术 2026-09-01 夏清莹 ...",
       "highlights": [
-        "AI GPU集群以及存储芯片仍是Token推理端洪流之下全球范围最突出的AI算力系统瓶颈",
-        "TrendForce预计第三季度DRAM和NAND",
-        "Flash合约价将分别环比上涨13%—18%和10%—15%;2026年服务器DRAM及企业级固态硬盘价格累计涨幅可能分别达到约270%和235%，2027年HBM合约价仍可能再涨70%—140%"
+        "回到首页  AI搜索   发现报告   发现数据",
+        "研选报告   定制报告   VIP 权益   付费社群",
+        "行业研究公司研究宏观策略财报招股书会议纪要Token低空经济十五五AIGC大模型"
       ],
-      "url": "https://cn.investing.com/news/stock-market-news/article-3547968",
-      "source": "cn.investing.com",
-      "category": "芯片硬件",
+      "url": "https://www.fxbaogao.com/detail/5663752",
+      "source": "fxbaogao.com",
+      "category": "产品进展",
       "importance": 5,
-      "publishedAt": "2026-09-02T03:06:25Z"
+      "publishedAt": "2026-09-01T18:00:00Z"
     }
   ]
 }
