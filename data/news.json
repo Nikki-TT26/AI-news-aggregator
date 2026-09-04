@@ -1,51 +1,6 @@
 {
-  "updatedAt": "2026-09-04T06:01:36Z",
+  "updatedAt": "2026-09-04T12:01:46Z",
   "latest": [
-    {
-      "id": "a1da18b9d482",
-      "title": "黄仁勋的阳谋",
-      "summary": "今年3月，黄仁勋曾发表一篇长文，将AI产业比作一块由能源、芯片、基础设施、模型与应用组成的“五层蛋糕”。其中，强大的模型层会加速应用层的普及，从而进一步增加对底层训练、基础设施、芯片和能源的需求。按照这一理论，抱抱脸、Poolside与Perplexity所在的模型层与应用层，都是英伟达的需求方。\n\n不过，相较于通过收并购让更多公司使用自己的芯片，加速开源大模型生态的发展，才是黄仁勋的终极目标。\n...",
-      "highlights": [
-        "今年3月，黄仁勋曾发表一篇长文，将AI产业比作一块由能源、芯片、基础设施、模型与应用组成的“五层蛋糕”",
-        "其中，强大的模型层会加速应用层的普及，从而进一步增加对底层训练、基础设施、芯片和能源的需求",
-        "按照这一理论，抱抱脸、Poolside与Perplexity所在的模型层与应用层，都是英伟达的需求方"
-      ],
-      "url": "https://www.36kr.com/p/3965654574128384",
-      "source": "36kr.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-02T06:02:15Z"
-    },
-    {
-      "id": "fc652c3ce9cb",
-      "title": "燧原科技即将上市，腾讯赚翻了_投资界",
-      "summary": "首   页\n 资   讯\n 投资圈\n 活   动\n 研   究\n 创投号\n\n 深度\n 热门\n 天天IPO\n AI先锋\n 机器人\n 医疗健康\n 大消费\n 视频\n 99个发现\n\n APP\n\n  投资界APP 微信扫码订阅\n 创投号\n 登录\n 清科集团 清科控股 清科研究中心 清科母基金 新芽\n\n首页产业芯片半导体正文\n\n# 燧原科技即将上市，腾讯赚翻了\n\n9月2日燧原科技开启科创板网上网下申购，腾讯重...",
-      "highlights": [
-        "投资界APP 微信扫码订阅",
-        "清科集团 清科控股 清科研究中心 清科母基金 新芽",
-        "首页产业芯片半导体正文"
-      ],
-      "url": "https://news.pedaily.cn/202609/568448.shtml",
-      "source": "news.pedaily.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-02T07:41:00Z"
-    },
-    {
-      "id": "856df13bff2f",
-      "title": "英伟达的下一步：不止售卖AI芯片",
-      "summary": "联发科把这套战略推到了新高度。客户可以开发能够和英伟达 GPU 竞争的自研芯片，再借助 NVLink Fusion 技术，把这些芯片接入英伟达完整的数据中心架构。英伟达尚未披露，当主 AI 芯片由别家提供时，一座 AI 工厂能给它带来多少收益。但丢掉芯片订单，已经不等于丢掉整套业务的收入。\n\n亚马逊 AWS 就是这套模式的现实案例。AWS 计划部署 200 万块英伟达 GPU，同时把自家自研的 T...",
-      "highlights": [
-        "联发科把这套战略推到了新高度",
-        "客户可以开发能够和英伟达 GPU 竞争的自研芯片，再借助 NVLink Fusion 技术，把这些芯片接入英伟达完整的数据中心架构",
-        "英伟达尚未披露，当主 AI 芯片由别家提供时，一座 AI 工厂能给它带来多少收益"
-      ],
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmwqq4561069.shtml",
-      "source": "finance.sina.com.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-02T11:51:01Z"
-    },
     {
       "id": "0a5a0d366e26",
       "title": "中一签缴款7万元！燧原科技科创板申购开启，高估值下仍未盈利",
@@ -60,21 +15,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-09-02T13:41:09Z"
-    },
-    {
-      "id": "667b6b65d824",
-      "title": "四家收口、明码标价：AI办公迎来千亿投入的兑现窗口",
-      "summary": "更值得关注的底层变化是，收费逻辑正从“按人计费”转向“按任务/用量计费”。金山办公在2026年半年报中明确，个人AI产品探索“订阅 + AI 用量”的混合模式，企业侧WPS 365则推行“席位 + AI 用量”，根据任务复杂度、智能服务深度与实际AI资源消耗阶梯收费。这并非个例：微软办公AI体系已同时提供预付Credits额度与超额按量付费；Google也将Gemini基础能力纳入Workspac...",
-      "highlights": [
-        "更值得关注的底层变化是，收费逻辑正从“按人计费”转向“按任务/用量计费”",
-        "金山办公在2026年半年报中明确，个人AI产品探索“订阅 + AI 用量”的混合模式，企业侧WPS 365则推行“席位 + AI 用量”，根据任务复杂度、智能服务深度与实际AI资源消耗阶梯收费",
-        "这并非个例：微软办公AI体系已同时提供预付Credits额度与超额按量付费；Google也将Gemini基础能力纳入Workspace订阅，并推出AI扩展访问方案满足高强度调用需求"
-      ],
-      "url": "https://www.bjnews.com.cn/detail-1788333976129704.html",
-      "source": "bjnews.com.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-02T09:00:00Z"
     },
     {
       "id": "1525fd541a18",
@@ -135,21 +75,6 @@
       "publishedAt": "2026-09-03T00:06:49Z"
     },
     {
-      "id": "8368c08db0b8",
-      "title": "融资周报| 英伟达收购开源AI平台Hugging Face；YZi Labs公布EASY Residency第四季24个早期项目",
-      "summary": "BitGo宣布以约4,250万美元的现金加股票交易完成对NYDIG机构交易业务的收购，新增衍生品、结构化产品和资本市场服务能力，约30名NYDIG员工及机构客户关系并入BitGo。交易分两步完成：700万美元现金加约3,550万美元BitGo股票，另设基于营收里程碑的1,000万美元现金支付及最高500万美元额外对价。出售交易部门后，NYDIG将聚焦其电力、比特币挖矿和HPC数据中心业务。\n\n##...",
-      "highlights": [
-        "BitGo宣布以约4,250万美元的现金加股票交易完成对NYDIG机构交易业务的收购，新增衍生品、结构化产品和资本市场服务能力，约30名NYDIG员工及机构客户关系并入BitGo",
-        "交易分两步完成：700万美元现金加约3,550万美元BitGo股票，另设基于营收里程碑的1,000万美元现金支付及最高500万美元额外对价",
-        "出售交易部门后，NYDIG将聚焦其电力、比特币挖矿和HPC数据中心业务"
-      ],
-      "url": "https://www.panewslab.com/zh/articles/01a055da-0145-746e-815d-990124d72432",
-      "source": "panewslab.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-02T11:00:00Z"
-    },
-    {
       "id": "72302118afba",
       "title": "Anthropic、Meta、谷歌、阿里齐发模型更新编程能力较量白热化",
       "summary": ":   2026年9月2日，人工智能公司Anthropic正式发布新一代旗舰大模型Claude Fable 5.1与Claude Mythos 5.1。图：视觉中国\n\n相关报道\n:   【财新周刊】财新周刊｜阿里AI再集结\n:   【财新周刊】封面报道｜阿里腾讯全力部署AI 双雄卡位新风口\n:   腾讯发模型Hy4 preview瞄准办公场景 模型迭代加速\n:   智谱认领神秘模型“牛来” 测试期...",
@@ -178,36 +103,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-03T00:00:00Z"
-    },
-    {
-      "id": "06896c097011",
-      "title": "英伟达的下一步：不止售卖AI芯片_新浪财经_新浪网",
-      "summary": "这两组数字不能直接拿来对比：前者是英伟达对外投资金额，后者是 Anthropic 承诺在云计算上的消费额度。但两笔交易指向同一个长期战略。\n\n　　黄仁勋希望英伟达成为AI 的底层架构，而不仅仅是一家占据主导地位的芯片厂商。\n\n　　简而言之，一座 AI 工厂输入电力与数据，输出 Token（AI 的 “流通货币”）。正如黄仁勋所言：“输入是电子，输出是 Token。”\n\n　　在最近一次财报电话会议上...",
-      "highlights": [
-        "这两组数字不能直接拿来对比：前者是英伟达对外投资金额，后者是 Anthropic 承诺在云计算上的消费额度",
-        "但两笔交易指向同一个长期战略",
-        "黄仁勋希望英伟达成为AI 的底层架构，而不仅仅是一家占据主导地位的芯片厂商"
-      ],
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmwqq4561069.shtml?finpagefr=p_108",
-      "source": "finance.sina.com.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-02T11:51:01Z"
-    },
-    {
-      "id": "e2f4fbb7992d",
-      "title": "黑石启动60亿英镑地产平台退出计划私募股权撤退窗口渐启？ - 财联社",
-      "summary": "公开数据显示，2023年，全球私募股权退出交易额同比下降44%，2024年交易数量小幅回升但仍处五年低位。\n\n2025年被贝恩公司称为是私募股权终于“站稳脚跟”的一年，同时强调这是一场“K型复苏”——退出和交易金额明显回升，但复苏面较窄，分销水平依然低迷。\n\n来到2026年，市场普遍认为IPO窗口存在阶段性回暖，退出活动有所改善，但市场依然波动性较大，今年来的私募退出活动集中在优质资产和定制化的交...",
-      "highlights": [
-        "公开数据显示，2023年，全球私募股权退出交易额同比下降44%，2024年交易数量小幅回升但仍处五年低位",
-        "2025年被贝恩公司称为是私募股权终于“站稳脚跟”的一年，同时强调这是一场“K型复苏”——退出和交易金额明显回升，但复苏面较窄，分销水平依然低迷",
-        "来到2026年，市场普遍认为IPO窗口存在阶段性回暖，退出活动有所改善，但市场依然波动性较大，今年来的私募退出活动集中在优质资产和定制化的交易流程"
-      ],
-      "url": "https://www.cls.cn/detail/2419195",
-      "source": "cls.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-02T12:00:00Z"
     },
     {
       "id": "b59fdd7e7e83",
@@ -447,23 +342,79 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-09-03T18:38:20Z"
-    }
-  ],
-  "today": [
+    },
     {
-      "id": "31a1d929437c",
-      "title": "高Token密度爆发推升AI算力需求，创业板算力ETF广发(158049)今日重磅发售！跟踪指数聚焦算力基建核心标的，AI硬件行业占比近80%",
-      "summary": "界面新闻 \n\n首页\n\n 天下\n 中国\n 宏观\n 文娱\n 体育\n 时尚\n 文化\n 旅行\n 生活\n 游戏\n 歪楼\n 数据\n 正午\n 艺术\n\n商业\n\n 科技\n 汽车\n 地产\n 证券\n 金融\n 消费\n 工业\n 交通\n 投资\n 营销\n 职场\n 管理\n 创业\n 出国\n 楼市\n 财富\n 健康\n 大湾区\n 酒业\n 区块链\n ESG\n 智库\n\n更多;)\n\n 快讯\n 热文\n 视频\n 图片\n 召集令\n 专题\n 直播\n\n...",
+      "id": "5f67c98d74b9",
+      "title": "联想集团携手英伟达发布AI终端新品：Yoga Pro 9n搭载RTX Spark将千亿参数大模型装进笔记本",
+      "summary": "其他新品方面，ThinkCentre M75s Gen 6与M75q Gen 6台式机带来至高50TOPS的本地AI算力；ThinkVision P34WD-4v是全球首款获微软认证的雷电VoIP显示器，ThinkVision P27UL-40是联想首款27英寸UHD喷墨打印OLED雷电扩展坞显示器。IdeaPad Vibe系列与潘通色彩研究所合作推出七款配色；ThinkBook 14 Gen 9...",
       "highlights": [
-        "高Token密度;AI算力需求;创业板算力ETF广发(158049);重磅发售;跟踪指数;算力基建核心标的;AI硬件行业占比近80%",
-        "# 高Token密度爆发推升AI算力需求，创业板算力ETF广发(158049)今日重磅发售",
-        "跟踪指数聚焦算力基建核心标的，AI硬件行业占比近80%"
+        "其他新品方面，ThinkCentre M75s Gen 6与M75q Gen 6台式机带来至高50TOPS的本地AI算力；ThinkVision P34WD-4v是全球首款获微软认证的雷电VoIP显示器，ThinkVision P27UL-40是联想首款27英寸UHD喷墨打印OLED雷电扩展坞显示器",
+        "IdeaPad Vibe系列与潘通色彩研究所合作推出七款配色；ThinkBook 14 Gen 9以骁龙X2 Plus的80TOPS算力和至高26小时本地视频播放续航面向移动办公人群；12.9毫米、990克的ThinkBook 14x Gen 2（国内型号ThinkBook X AI 2026，已上市）是ThinkBook产品线迄今最轻薄的设计之一",
+        "[...] 联想集团携手英伟达发布AI终端新品：Yoga Pro 9n搭载RTX Spark将千亿参数大模型装进笔记本"
       ],
-      "url": "https://m.jiemian.com/article/15053375.html",
-      "source": "m.jiemian.com",
+      "url": "https://pingce.ifeng.com/c/8w94X7Bunlt",
+      "source": "pingce.ifeng.com",
       "category": "芯片硬件",
       "importance": 5,
-      "publishedAt": "2026-09-04T01:00:00Z"
+      "publishedAt": "2026-09-04T00:34:22Z"
+    },
+    {
+      "id": "89f624135eed",
+      "title": "Meta发布更强大AI模型 声称进一步缩小了与竞争对手差距",
+      "summary": "新浪首页\n 新闻\n 体育\n 财经\n 娱乐\n 科技\n 博客\n 图片\n 专栏\n 更多\n\n 汽车 教育 时尚 女性 星座 健康\n 房产历史视频收藏育儿读书\n 佛学游戏旅游邮箱导航\n\n 新浪微博\n 新浪新闻\n 新浪财经\n 新浪体育\n 新浪众测\n 新浪博客\n 新浪视频\n 新浪游戏\n 天气通\n\n[](\n\n美股 > 正文\n\n# Meta发布更强大AI模型 声称进一步缩小了与竞争对手差距\n\nMeta发布更强大AI...",
+      "highlights": [
+        "汽车 教育 时尚 女性 星座 健康",
+        "房产历史视频收藏育儿读书",
+        "# Meta发布更强大AI模型 声称进一步缩小了与竞争对手差距"
+      ],
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqntuk7235690.shtml",
+      "source": "finance.sina.com.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-02T20:06:17Z"
+    },
+    {
+      "id": "acfb0bcecb33",
+      "title": "从造车到造机器人，车企开辟第二战场",
+      "summary": "长安街知事微信公众号  | 记者 徐慧瑶 \n\n2026-09-03 15:14\n\n时事\n\n进入频道\n\n进入 \n\n长安街知事\n\n 看更多\n\n+ 订阅\n\n面对上半年汽车行业的增收难增利，车企正在开辟第二战场，竞争转向技术端。众多个选项中，机器人这个近两年大火的行业，成为各方瞄准的新目标。\n\n小鹏、理想、比亚迪等车企，或自研机器人，或成立独立子公司，或通过产业投资切入赛道。据公开信息，目前已有近20家车...",
+      "highlights": [
+        "长安街知事微信公众号  | 记者 徐慧瑶",
+        "2026-09-03 15:14",
+        "面对上半年汽车行业的增收难增利，车企正在开辟第二战场，竞争转向技术端"
+      ],
+      "url": "https://xinwen.bjd.com.cn/content/s6a991e63e4b039a8e2f095fd.html",
+      "source": "xinwen.bjd.com.cn",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-03T12:00:00Z"
+    },
+    {
+      "id": "38cba01105da",
+      "title": "Nvidia aims to broaden its AI dominance with Hugging Face deal",
+      "summary": "# Nvidia aims to broaden its AI dominance with Hugging Face deal\n\nAdd Axios as your preferred source to\n\nsee more of our stories on Google.\n\nIllustration of a colorful robot looking through a pair of ...",
+      "highlights": [
+        "# Nvidia aims to broaden its AI dominance with Hugging Face deal",
+        "Add Axios as your preferred source to",
+        "see more of our stories on Google."
+      ],
+      "url": "https://www.axios.com/2026/09/03/nvidia-hugging-face-ai",
+      "source": "axios.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-03T21:01:33Z"
+    },
+    {
+      "id": "7579026595d7",
+      "title": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips - CNBC",
+      "summary": "# Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips. * Nvidia’s $12.9 billion deal for Hugging Face puts it closer to millions of AI developers and one of the industr...",
+      "highlights": [
+        "# Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips. * Nvidia’s $12.9 billion deal for Hugging Face puts it closer to millions of AI developers and one of the industry’s most important open-model platforms. The company is planning to acquire Hugging Face, a New York-based startup which has built a repository for open source AI models and recently shot to global recognition after it came under a cyberattack by rogue OpenAI models. Half of Nvidia's business, Huang said, is \"really largely driven by open models.\" The chip giant itself is a big developer of open models — with Huang telling CNBC on Thursday that the company was the largest contributor of open models in the world \"by far.\". One of the learnings from that transaction was that allowing a tech giant to acquire an \"important repository puts everybody else at a disadvantage,\" Luria added, making Nvidia's acquisition of Hugging Face a \"defensive move\"."
+      ],
+      "url": "https://www.cnbc.com/2026/09/04/nvidia-hugging-face-deal-chips.html",
+      "source": "cnbc.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-04T11:00:01Z"
     },
     {
       "id": "c22e6192e3ba",
@@ -493,6 +444,123 @@
       "category": "具身智能",
       "importance": 4,
       "publishedAt": "2026-09-04T04:00:00Z"
+    }
+  ],
+  "today": [
+    {
+      "id": "31a1d929437c",
+      "title": "高Token密度爆发推升AI算力需求，创业板算力ETF广发(158049)今日重磅发售！跟踪指数聚焦算力基建核心标的，AI硬件行业占比近80%",
+      "summary": "界面新闻 \n\n首页\n\n 天下\n 中国\n 宏观\n 文娱\n 体育\n 时尚\n 文化\n 旅行\n 生活\n 游戏\n 歪楼\n 数据\n 正午\n 艺术\n\n商业\n\n 科技\n 汽车\n 地产\n 证券\n 金融\n 消费\n 工业\n 交通\n 投资\n 营销\n 职场\n 管理\n 创业\n 出国\n 楼市\n 财富\n 健康\n 大湾区\n 酒业\n 区块链\n ESG\n 智库\n\n更多;)\n\n 快讯\n 热文\n 视频\n 图片\n 召集令\n 专题\n 直播\n\n...",
+      "highlights": [
+        "高Token密度;AI算力需求;创业板算力ETF广发(158049);重磅发售;跟踪指数;算力基建核心标的;AI硬件行业占比近80%",
+        "# 高Token密度爆发推升AI算力需求，创业板算力ETF广发(158049)今日重磅发售",
+        "跟踪指数聚焦算力基建核心标的，AI硬件行业占比近80%"
+      ],
+      "url": "https://m.jiemian.com/article/15053375.html",
+      "source": "m.jiemian.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-04T01:00:00Z"
+    },
+    {
+      "id": "5f67c98d74b9",
+      "title": "联想集团携手英伟达发布AI终端新品：Yoga Pro 9n搭载RTX Spark将千亿参数大模型装进笔记本",
+      "summary": "其他新品方面，ThinkCentre M75s Gen 6与M75q Gen 6台式机带来至高50TOPS的本地AI算力；ThinkVision P34WD-4v是全球首款获微软认证的雷电VoIP显示器，ThinkVision P27UL-40是联想首款27英寸UHD喷墨打印OLED雷电扩展坞显示器。IdeaPad Vibe系列与潘通色彩研究所合作推出七款配色；ThinkBook 14 Gen 9...",
+      "highlights": [
+        "其他新品方面，ThinkCentre M75s Gen 6与M75q Gen 6台式机带来至高50TOPS的本地AI算力；ThinkVision P34WD-4v是全球首款获微软认证的雷电VoIP显示器，ThinkVision P27UL-40是联想首款27英寸UHD喷墨打印OLED雷电扩展坞显示器",
+        "IdeaPad Vibe系列与潘通色彩研究所合作推出七款配色；ThinkBook 14 Gen 9以骁龙X2 Plus的80TOPS算力和至高26小时本地视频播放续航面向移动办公人群；12.9毫米、990克的ThinkBook 14x Gen 2（国内型号ThinkBook X AI 2026，已上市）是ThinkBook产品线迄今最轻薄的设计之一",
+        "[...] 联想集团携手英伟达发布AI终端新品：Yoga Pro 9n搭载RTX Spark将千亿参数大模型装进笔记本"
+      ],
+      "url": "https://pingce.ifeng.com/c/8w94X7Bunlt",
+      "source": "pingce.ifeng.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-04T00:34:22Z"
+    },
+    {
+      "id": "7579026595d7",
+      "title": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips - CNBC",
+      "summary": "# Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips. * Nvidia’s $12.9 billion deal for Hugging Face puts it closer to millions of AI developers and one of the industr...",
+      "highlights": [
+        "# Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips. * Nvidia’s $12.9 billion deal for Hugging Face puts it closer to millions of AI developers and one of the industry’s most important open-model platforms. The company is planning to acquire Hugging Face, a New York-based startup which has built a repository for open source AI models and recently shot to global recognition after it came under a cyberattack by rogue OpenAI models. Half of Nvidia's business, Huang said, is \"really largely driven by open models.\" The chip giant itself is a big developer of open models — with Huang telling CNBC on Thursday that the company was the largest contributor of open models in the world \"by far.\". One of the learnings from that transaction was that allowing a tech giant to acquire an \"important repository puts everybody else at a disadvantage,\" Luria added, making Nvidia's acquisition of Hugging Face a \"defensive move\"."
+      ],
+      "url": "https://www.cnbc.com/2026/09/04/nvidia-hugging-face-deal-chips.html",
+      "source": "cnbc.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-04T11:00:01Z"
+    },
+    {
+      "id": "c22e6192e3ba",
+      "title": "一周两更新、一月立品牌，豆包工作密集迭代“会干活的AI”",
+      "summary": "“豆包工作”品牌发布刚满一周，豆包又往这套生产力系统里装进了两块新零件。 9月2日，豆包工作发布产品功能更新，同步上线“多Agents（智能体）并行”与Mac系统下的“操作",
+      "highlights": [
+        "“豆包工作”品牌发布刚满一周，豆包又往这套生产力系统里装进了两块新零件",
+        "9月2日，豆包工作发布产品功能更新，同步上线“多Agents（智能体）并行”与Mac系统下的“操作"
+      ],
+      "url": "https://m.sohu.com/a/1071792128_114988?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-04T04:00:00Z"
+    },
+    {
+      "id": "0c68803ba083",
+      "title": "【深度报道】AI赋能汽车，助力产业全价值链升级 - 经济观察网 － 专业财经新闻网站",
+      "summary": "#### 前往报名\n\n退出 激活卡 电子版  购物车;) 注册 登录;)\n\n用户名登录/手机号登录\n\n还没有账号？免费注册\n\n忘记密码？\n\n忘记密码？\n\n登 录\n\n 微信注册或登录\n\n关闭; \"关闭\")\n\n 推荐\n\n  :   经济观察报\n  :   政策解读\n  :   上市公司\n  :   现代广告\n  :   论坛活动\n  :   文化艺术\n  :   心理观察\n |\n 快讯\n\n  :   ...",
+      "highlights": [
+        "退出 激活卡 电子版  购物车;) 注册 登录;)",
+        "用户名登录/手机号登录",
+        "ESG [...] :   ESG新闻"
+      ],
+      "url": "http://www.eeo.com.cn/2026/0904/1023187.shtml",
+      "source": "eeo.com.cn",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-04T04:00:00Z"
+    },
+    {
+      "id": "c514098fd787",
+      "title": "国联民生又一保代进入C类：22单IPO在审，承销保荐子公司仍亏损_凤凰网",
+      "summary": "国联民生又一保代进入C类：22单IPO在审，承销保荐子公司仍亏损\n\n# 国联民生又一保代进入C类：22单IPO在审，承销保荐子公司仍亏损\n\n[](\n\n来自北京市\n\n9月3日，中国证券业协会保荐代表人分类名单再次更新，国联民生证券承销保荐有限公司业务总监、保荐代表人陈思远新进入C类名单。\n\n不过，目前尚未显示陈思远此次进入C类名单究竟对应哪项监管措施，也没有披露涉及的具体项目。从其近年来公开执业履历...",
+      "highlights": [
+        "国联民生又一保代进入C类：22单IPO在审，承销保荐子公司仍亏损",
+        "# 国联民生又一保代进入C类：22单IPO在审，承销保荐子公司仍亏损",
+        "9月3日，中国证券业协会保荐代表人分类名单再次更新，国联民生证券承销保荐有限公司业务总监、保荐代表人陈思远新进入C类名单"
+      ],
+      "url": "https://finance.ifeng.com/c/8w93Mod569m",
+      "source": "finance.ifeng.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-04T02:33:42Z"
+    },
+    {
+      "id": "5d915f2bf6ec",
+      "title": "从纸笔推演到“抽卡式”科研：AI让数学家陷入焦虑，“去年和今年像两个世纪”",
+      "summary": "新浪新闻客户端\n新浪新闻客户端\n\n# 新浪看点\n\n新浪新闻客户端\n新浪新闻公众号\n新浪新闻视频号\n新浪新闻抖音\n新浪新闻快手\n新浪新闻小红书\n新浪新闻B站\n热搜时代小宇宙\n\n# 从纸笔推演到“抽卡式”科研：AI让数学家陷入焦虑，“去年和今年像两个世纪”\n\navatar\n\n　　2026年，数学界正经历一场前所未有的震荡。5月，困扰数学界80年的“平面单位距离问题”被AI推翻；7月，困扰数学家近一个世...",
+      "highlights": [
+        "# 从纸笔推演到“抽卡式”科研：AI让数学家陷入焦虑，“去年和今年像两个世纪”",
+        "2026年，数学界正经历一场前所未有的震荡",
+        "5月，困扰数学界80年的“平面单位距离问题”被AI推翻；7月，困扰数学家近一个世纪的雅可比猜想找到反例"
+      ],
+      "url": "https://k.sina.com.cn/article_5328858693_13d9fee4502002hspm.html?from=news&subch=onews",
+      "source": "k.sina.com.cn",
+      "category": "前沿理论",
+      "importance": 4,
+      "publishedAt": "2026-09-04T07:33:00Z"
+    },
+    {
+      "id": "eb1d2c029786",
+      "title": "9月4日AI重要动态日报|一天之内:129 亿并购、10 亿台机器人、296 亿贷款,AI 进入全速狂奔期",
+      "summary": "该笔融资最初目标为 200 亿美元,因银行认购订单超过 300亿美元... 也要＂基本功还得有＂,道出人工智能赋能教育的核心矛盾.值得...",
+      "highlights": [
+        "该笔融资最初目标为 200 亿美元,因银行认购订单超过 300亿美元... 也要＂基本功还得有＂,道出人工智能赋能教育的核心矛盾.值得..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS5YBoZVHco0m3D60RGQy_NMid_8LMVi_A1qXa8Fplpd9-sqpr_rBryyVcDjB2aXDG0QuX3-dIMflGjNRQtH7x9hhfBmGV842Tld83Hvxc2cvJahdKl0KXaKGHXLX05i6C40dxDcN_Q1t_WfF1M9MYO2G5DbFZL6Xlc2eKY1gWQitSdATYD4Bnc4m4DZaKTCE8aRyaHxeKecqGhjA-PnjHg9f_71bqkOtiw..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=D9AA5E91DFFF4DD2D7D18C71DEEBF34FD73F6C856A9AB328",
+      "source": "微信公众号",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-04T02:31:30Z"
     },
     {
       "id": "784198713422",
@@ -549,39 +617,36 @@
       "category": "投并购",
       "importance": 2,
       "publishedAt": "2026-09-04T01:00:00Z"
+    },
+    {
+      "id": "c757047f4370",
+      "title": "阿里老兵创业再落子， 原力无限西南总部落地重庆",
+      "summary": "盖世具身智能获悉，原力无限已于日前签约落地重庆。 按照规划，原力无限将在重庆建设西南全链条区域总部及场景应用研发中心，联动本地场景、数据、算力与产业资源：从",
+      "highlights": [
+        "盖世具身智能获悉，原力无限已于日前签约落地重庆",
+        "按照规划，原力无限将在重庆建设西南全链条区域总部及场景应用研发中心，联动本地场景、数据、算力与产业资源：从"
+      ],
+      "url": "https://m.gasgoo.com/news/70471188.html",
+      "source": "m.gasgoo.com",
+      "category": "芯片硬件",
+      "importance": 2,
+      "publishedAt": "2026-09-04T06:00:00Z"
+    },
+    {
+      "id": "8cc499cc4195",
+      "title": "Smart voices in business and tech react to AI bans for schools, including Mamdani's moratorium for NYC - Business Insider",
+      "summary": "### What smart people are saying about Trump's acquisition of Venezuelan oil. ### What smart people are saying about Meta's settlement. # What smart people in business and tech are saying about AI ban...",
+      "highlights": [
+        "### What smart people are saying about Trump's acquisition of Venezuelan oil. ### What smart people are saying about Meta's settlement. # What smart people in business and tech are saying about AI bans for schools. On Wednesday, Mamdani proposed a moratorium that would ban the use of AI in schools for children from 2-K — school for two-year-olds — to eighth grade. Here's what smart people are saying about the AI bans for school students. Noah Fichter, the CEO of Scout, an AI startup in the 2025 Y-combinator cohort, wrote on X on Thursday that the tech world's reaction to the AI ban in schools makes him feel \"frustrated.\". Sarah Shirazyan, a lecturer in law at Stanford Law School and a research fellow at the Hoover Institution, wrote in a LinkedIn post on Thursday that she expects AI in classrooms to be a big topic for public debate and an issue in elections."
+      ],
+      "url": "https://www.businessinsider.com/what-smart-people-are-saying-about-school-ai-bans-mamdani-2026-9",
+      "source": "businessinsider.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-09-04T04:01:01Z"
     }
   ],
   "week": [
-    {
-      "id": "fbb0e8da2f34",
-      "title": "英伟达涨价背后，ASIC要被认真对待了",
-      "summary": "AMD于8月6日宣布达成最终协议收购Taalas，金额未披露，交易仍需监管批准。Taalas把模型权重固化到芯片，减少从外部内存反复读取参数的开销。AMD计划把相关技术纳入加速器路线图，并与Instinct GPU、EPYC、ROCm和Helios机架级系统组合。 这项收购让AMD在通用GPU之外获得面向稳定推理负载的专用架构能力，也使其产品组合能够覆盖不同可编程程度和成本目标。\n\nEtched的...",
-      "highlights": [
-        "AMD于8月6日宣布达成最终协议收购Taalas，金额未披露，交易仍需监管批准",
-        "Taalas把模型权重固化到芯片，减少从外部内存反复读取参数的开销",
-        "AMD计划把相关技术纳入加速器路线图，并与Instinct GPU、EPYC、ROCm和Helios机架级系统组合"
-      ],
-      "url": "https://news.pedaily.cn/202609/568406.shtml",
-      "source": "news.pedaily.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-02T00:08:00Z"
-    },
-    {
-      "id": "df96fd30228b",
-      "title": "Token推理洪流之下，GPU霸主力争掌控“AI模型入口”! 英伟达(NVDA.US)欲以140亿美元在本周鲸吞Hugging Face",
-      "summary": "AI GPU集群以及存储芯片仍是Token推理端洪流之下全球范围最突出的AI算力系统瓶颈。TrendForce预计第三季度DRAM和NAND\nFlash合约价将分别环比上涨13%—18%和10%—15%;2026年服务器DRAM及企业级固态硬盘价格累计涨幅可能分别达到约270%和235%，2027年HBM合约价仍可能再涨70%—140%。DRAM与NAND预计将占云计算服务提供商资本开支的47%，...",
-      "highlights": [
-        "AI GPU集群以及存储芯片仍是Token推理端洪流之下全球范围最突出的AI算力系统瓶颈",
-        "TrendForce预计第三季度DRAM和NAND",
-        "Flash合约价将分别环比上涨13%—18%和10%—15%;2026年服务器DRAM及企业级固态硬盘价格累计涨幅可能分别达到约270%和235%，2027年HBM合约价仍可能再涨70%—140%"
-      ],
-      "url": "https://cn.investing.com/news/stock-market-news/article-3547968",
-      "source": "cn.investing.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-02T03:06:25Z"
-    },
     {
       "id": "a1da18b9d482",
       "title": "黄仁勋的阳谋",
@@ -596,36 +661,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-09-02T06:02:15Z"
-    },
-    {
-      "id": "bf7318a60ae4",
-      "title": "号称“全球最强”还降价75%！Anthropic发布最新大模型Fable ...",
-      "summary": "界面新闻logo\n\n登录\n\n\n\n旧版搜索\n\n 新版搜索\n 旧版搜索\n\n#### 历史搜索 全部删除;)\n\n#### 热门搜索\n\n\n\n扫一扫下载界面新闻APP\n\n其他途径关注界面…\n\n# 号称“全球最强”还降价75%！Anthropic发布最新大模型Fable 5.1\n\nFable 5.1以52.6%的得分将Open AI的GPT-5.6Sol甩在身后。\n\n李科峰 · 来源：界面新闻\n\n号称“全球最...",
-      "highlights": [
-        "#### 历史搜索 全部删除;)",
-        "扫一扫下载界面新闻APP",
-        "# 号称“全球最强”还降价75%"
-      ],
-      "url": "https://www.jiemian.com/article/15044768.html",
-      "source": "jiemian.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-02T04:00:00Z"
-    },
-    {
-      "id": "9fe1e5e11e10",
-      "title": "国产GPU四小龙之一燧原科技今日开启申购",
-      "summary": "首页\n 资讯\n 军事\n 财经\n 娱乐\n 汽车\n 游戏\n 文化\n 援藏\n 插画\n 健康\n 公益\n 优选\n 法制\n 守艺中华\n 应急中国\n 更多\n\n  佛学文史古诗词人物解梦生活商业成长\n 地方频道\n\n  湖北山东山西丝路\n\n 注册登录\n\n中华网 china.com\n\n推荐 TMT 金融 地产 消费 医药 酒业 IPO观察\n\n当前位置：首页 > IPO观察 > 正文\n\n# 国产GPU四小龙之一燧原科技...",
-      "highlights": [
-        "佛学文史古诗词人物解梦生活商业成长",
-        "中华网 china.com",
-        "推荐 TMT 金融 地产 消费 医药 酒业 IPO观察"
-      ],
-      "url": "https://finance.china.com/IPO/13004694/20260902/49714401.html",
-      "source": "finance.china.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-02T02:00:00Z"
     },
     {
       "id": "fc652c3ce9cb",
@@ -746,21 +781,6 @@
       "publishedAt": "2026-09-03T00:06:49Z"
     },
     {
-      "id": "af2307c1e0be",
-      "title": "合见工软发布下一代EDA创新矩阵，Agent智能体战略正式落地，3DIC设计前沿成果亮相",
-      "summary": "合见工软正式发布Agentic EDA智能体战略核心产品——国内首款专用于数字芯片验证全流程的 EDA 智能体套件UniVista Verification Goal-Oriented Agentic Toolkit (UniVista Verification GOAT)，首次发布包括四大专家级数字验证EDA Agent，包括软件仿真、验证调试、回归测试管理、硬件仿真与 FPGA 原型验证智能体...",
-      "highlights": [
-        "合见工软正式发布Agentic EDA智能体战略核心产品——国内首款专用于数字芯片验证全流程的 EDA 智能体套件UniVista Verification Goal-Oriented Agentic Toolkit (UniVista Verification GOAT)，首次发布包括四大专家级数字验证EDA Agent，包括软件仿真、验证调试、回归测试管理、硬件仿真与 FPGA 原型验证智能体",
-        "UniVista Verification GOAT 采用目标驱动的专业 Agent 体系架构，把 AI 能力转化为可验收的验证工程成果，有效提升芯片验证调试效率",
-        "该智能体套件深度结合了合见工软数字验证全流程EDA工具，以“自主可控EDA+专用Agent”的紧密协同，将合见工软验证工具的专业能力、运行状态与工程上下文组织与Agent结合成为可交付的专业智能体EDA服务"
-      ],
-      "url": "https://time-weekly.com/post/332545",
-      "source": "time-weekly.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-02T06:00:00Z"
-    },
-    {
       "id": "8368c08db0b8",
       "title": "融资周报| 英伟达收购开源AI平台Hugging Face；YZi Labs公布EASY Residency第四季24个早期项目",
       "summary": "BitGo宣布以约4,250万美元的现金加股票交易完成对NYDIG机构交易业务的收购，新增衍生品、结构化产品和资本市场服务能力，约30名NYDIG员工及机构客户关系并入BitGo。交易分两步完成：700万美元现金加约3,550万美元BitGo股票，另设基于营收里程碑的1,000万美元现金支付及最高500万美元额外对价。出售交易部门后，NYDIG将聚焦其电力、比特币挖矿和HPC数据中心业务。\n\n##...",
@@ -774,39 +794,84 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-09-02T11:00:00Z"
+    },
+    {
+      "id": "72302118afba",
+      "title": "Anthropic、Meta、谷歌、阿里齐发模型更新编程能力较量白热化",
+      "summary": ":   2026年9月2日，人工智能公司Anthropic正式发布新一代旗舰大模型Claude Fable 5.1与Claude Mythos 5.1。图：视觉中国\n\n相关报道\n:   【财新周刊】财新周刊｜阿里AI再集结\n:   【财新周刊】封面报道｜阿里腾讯全力部署AI 双雄卡位新风口\n:   腾讯发模型Hy4 preview瞄准办公场景 模型迭代加速\n:   智谱认领神秘模型“牛来” 测试期...",
+      "highlights": [
+        ":   2026年9月2日，人工智能公司Anthropic正式发布新一代旗舰大模型Claude Fable 5.1与Claude Mythos 5.1",
+        ":   【财新周刊】财新周刊｜阿里AI再集结",
+        ":   【财新周刊】封面报道｜阿里腾讯全力部署AI 双雄卡位新风口"
+      ],
+      "url": "https://www.caixin.com/2026-09-03/102481328.html",
+      "source": "caixin.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-03T05:00:00Z"
+    },
+    {
+      "id": "35ada0893945",
+      "title": "人工智能大模型发展迈入新阶段 - 科技频道",
+      "summary": "算力主权竞逐 从芯片依赖走向自主构建\n\n　　算力是大模型体系化博弈的核心根基。全球竞争正从模型参数、算法性能的表层比拼，深度转向算力基础设施与底层硬件的系统级竞争。算力主权已成为各国掌控AI发展主动权的战略制高点，头部企业纷纷向上游芯片延伸布局，AI产业垂直整合趋势愈发凸显。\n\n　　海外企业持续深化算力自主布局，构建全链条算力壁垒。2026年以来头部企业布局显著提速，OpenAI于6月联合博通发布...",
+      "highlights": [
+        "算力主权竞逐 从芯片依赖走向自主构建",
+        "算力是大模型体系化博弈的核心根基",
+        "全球竞争正从模型参数、算法性能的表层比拼，深度转向算力基础设施与底层硬件的系统级竞争"
+      ],
+      "url": "https://tech.gmw.cn/2026-09/03/content_38982929.htm",
+      "source": "tech.gmw.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-03T00:00:00Z"
+    },
+    {
+      "id": "06896c097011",
+      "title": "英伟达的下一步：不止售卖AI芯片_新浪财经_新浪网",
+      "summary": "这两组数字不能直接拿来对比：前者是英伟达对外投资金额，后者是 Anthropic 承诺在云计算上的消费额度。但两笔交易指向同一个长期战略。\n\n　　黄仁勋希望英伟达成为AI 的底层架构，而不仅仅是一家占据主导地位的芯片厂商。\n\n　　简而言之，一座 AI 工厂输入电力与数据，输出 Token（AI 的 “流通货币”）。正如黄仁勋所言：“输入是电子，输出是 Token。”\n\n　　在最近一次财报电话会议上...",
+      "highlights": [
+        "这两组数字不能直接拿来对比：前者是英伟达对外投资金额，后者是 Anthropic 承诺在云计算上的消费额度",
+        "但两笔交易指向同一个长期战略",
+        "黄仁勋希望英伟达成为AI 的底层架构，而不仅仅是一家占据主导地位的芯片厂商"
+      ],
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmwqq4561069.shtml?finpagefr=p_108",
+      "source": "finance.sina.com.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-02T11:51:01Z"
+    },
+    {
+      "id": "e2f4fbb7992d",
+      "title": "黑石启动60亿英镑地产平台退出计划私募股权撤退窗口渐启？ - 财联社",
+      "summary": "公开数据显示，2023年，全球私募股权退出交易额同比下降44%，2024年交易数量小幅回升但仍处五年低位。\n\n2025年被贝恩公司称为是私募股权终于“站稳脚跟”的一年，同时强调这是一场“K型复苏”——退出和交易金额明显回升，但复苏面较窄，分销水平依然低迷。\n\n来到2026年，市场普遍认为IPO窗口存在阶段性回暖，退出活动有所改善，但市场依然波动性较大，今年来的私募退出活动集中在优质资产和定制化的交...",
+      "highlights": [
+        "公开数据显示，2023年，全球私募股权退出交易额同比下降44%，2024年交易数量小幅回升但仍处五年低位",
+        "2025年被贝恩公司称为是私募股权终于“站稳脚跟”的一年，同时强调这是一场“K型复苏”——退出和交易金额明显回升，但复苏面较窄，分销水平依然低迷",
+        "来到2026年，市场普遍认为IPO窗口存在阶段性回暖，退出活动有所改善，但市场依然波动性较大，今年来的私募退出活动集中在优质资产和定制化的交易流程"
+      ],
+      "url": "https://www.cls.cn/detail/2419195",
+      "source": "cls.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-02T12:00:00Z"
+    },
+    {
+      "id": "b59fdd7e7e83",
+      "title": "从造车到造机器人，车企开辟第二战场_京报网",
+      "summary": "车企纷纷下场加速“造人”\n\n近日，小鹏机器人宣布首轮融资超9亿美元。小鹏CEO（首席执行官）何小鹏透露，小鹏IRON机器人计划从今年底开始进入规模量产阶段，在小鹏的门店和园区落地商业场景应用。2027年，小鹏IRON将面向零售和服务业场景的外部客户，在中国和海外开始规模交付。\n\n新势力车企中，小鹏较早开始“造人”。2025年11月，小鹏发布全新一代人形机器人IRON。今年6月10日，何小鹏宣布兼任...",
+      "highlights": [
+        "车企纷纷下场加速“造人”",
+        "近日，小鹏机器人宣布首轮融资超9亿美元",
+        "小鹏CEO（首席执行官）何小鹏透露，小鹏IRON机器人计划从今年底开始进入规模量产阶段，在小鹏的门店和园区落地商业场景应用"
+      ],
+      "url": "https://news.bjd.com.cn/2026/09/03/11944375.shtml",
+      "source": "news.bjd.com.cn",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-03T07:14:43Z"
     }
   ],
   "month": [
-    {
-      "id": "fbb0e8da2f34",
-      "title": "英伟达涨价背后，ASIC要被认真对待了",
-      "summary": "AMD于8月6日宣布达成最终协议收购Taalas，金额未披露，交易仍需监管批准。Taalas把模型权重固化到芯片，减少从外部内存反复读取参数的开销。AMD计划把相关技术纳入加速器路线图，并与Instinct GPU、EPYC、ROCm和Helios机架级系统组合。 这项收购让AMD在通用GPU之外获得面向稳定推理负载的专用架构能力，也使其产品组合能够覆盖不同可编程程度和成本目标。\n\nEtched的...",
-      "highlights": [
-        "AMD于8月6日宣布达成最终协议收购Taalas，金额未披露，交易仍需监管批准",
-        "Taalas把模型权重固化到芯片，减少从外部内存反复读取参数的开销",
-        "AMD计划把相关技术纳入加速器路线图，并与Instinct GPU、EPYC、ROCm和Helios机架级系统组合"
-      ],
-      "url": "https://news.pedaily.cn/202609/568406.shtml",
-      "source": "news.pedaily.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-02T00:08:00Z"
-    },
-    {
-      "id": "df96fd30228b",
-      "title": "Token推理洪流之下，GPU霸主力争掌控“AI模型入口”! 英伟达(NVDA.US)欲以140亿美元在本周鲸吞Hugging Face",
-      "summary": "AI GPU集群以及存储芯片仍是Token推理端洪流之下全球范围最突出的AI算力系统瓶颈。TrendForce预计第三季度DRAM和NAND\nFlash合约价将分别环比上涨13%—18%和10%—15%;2026年服务器DRAM及企业级固态硬盘价格累计涨幅可能分别达到约270%和235%，2027年HBM合约价仍可能再涨70%—140%。DRAM与NAND预计将占云计算服务提供商资本开支的47%，...",
-      "highlights": [
-        "AI GPU集群以及存储芯片仍是Token推理端洪流之下全球范围最突出的AI算力系统瓶颈",
-        "TrendForce预计第三季度DRAM和NAND",
-        "Flash合约价将分别环比上涨13%—18%和10%—15%;2026年服务器DRAM及企业级固态硬盘价格累计涨幅可能分别达到约270%和235%，2027年HBM合约价仍可能再涨70%—140%"
-      ],
-      "url": "https://cn.investing.com/news/stock-market-news/article-3547968",
-      "source": "cn.investing.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-02T03:06:25Z"
-    },
     {
       "id": "a1da18b9d482",
       "title": "黄仁勋的阳谋",
@@ -821,36 +886,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-09-02T06:02:15Z"
-    },
-    {
-      "id": "bf7318a60ae4",
-      "title": "号称“全球最强”还降价75%！Anthropic发布最新大模型Fable ...",
-      "summary": "界面新闻logo\n\n登录\n\n\n\n旧版搜索\n\n 新版搜索\n 旧版搜索\n\n#### 历史搜索 全部删除;)\n\n#### 热门搜索\n\n\n\n扫一扫下载界面新闻APP\n\n其他途径关注界面…\n\n# 号称“全球最强”还降价75%！Anthropic发布最新大模型Fable 5.1\n\nFable 5.1以52.6%的得分将Open AI的GPT-5.6Sol甩在身后。\n\n李科峰 · 来源：界面新闻\n\n号称“全球最...",
-      "highlights": [
-        "#### 历史搜索 全部删除;)",
-        "扫一扫下载界面新闻APP",
-        "# 号称“全球最强”还降价75%"
-      ],
-      "url": "https://www.jiemian.com/article/15044768.html",
-      "source": "jiemian.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-02T04:00:00Z"
-    },
-    {
-      "id": "9fe1e5e11e10",
-      "title": "国产GPU四小龙之一燧原科技今日开启申购",
-      "summary": "首页\n 资讯\n 军事\n 财经\n 娱乐\n 汽车\n 游戏\n 文化\n 援藏\n 插画\n 健康\n 公益\n 优选\n 法制\n 守艺中华\n 应急中国\n 更多\n\n  佛学文史古诗词人物解梦生活商业成长\n 地方频道\n\n  湖北山东山西丝路\n\n 注册登录\n\n中华网 china.com\n\n推荐 TMT 金融 地产 消费 医药 酒业 IPO观察\n\n当前位置：首页 > IPO观察 > 正文\n\n# 国产GPU四小龙之一燧原科技...",
-      "highlights": [
-        "佛学文史古诗词人物解梦生活商业成长",
-        "中华网 china.com",
-        "推荐 TMT 金融 地产 消费 医药 酒业 IPO观察"
-      ],
-      "url": "https://finance.china.com/IPO/13004694/20260902/49714401.html",
-      "source": "finance.china.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-02T02:00:00Z"
     },
     {
       "id": "fc652c3ce9cb",
@@ -926,6 +961,64 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-09-02T14:00:00Z"
+    },
+    {
+      "id": "b7b6e932a3c3",
+      "title": "酷特智能2026半年报：AI智能体业务取得新成效",
+      "summary": "随着AI发展从模型阶段到应用阶段，AI的竞争将从“智力”转变为“执行力”。KTOS除了推出企业AI大脑、企业知识网络、智能经营驾驶舱、AI Agent中心、智能流程引擎、决策辅助系统等六大产品模块外，还搭载酷小匠、酷小易、酷小智三大原生AI智能体，分别聚焦需求对接、日常运营、组织治理三大场景，大幅降低系统使用门槛，业务人员通过自然语言即可完成操作、搭建应用。\n\n　　技术落地已转化为实实在在的经营价...",
+      "highlights": [
+        "随着AI发展从模型阶段到应用阶段，AI的竞争将从“智力”转变为“执行力”",
+        "KTOS除了推出企业AI大脑、企业知识网络、智能经营驾驶舱、AI Agent中心、智能流程引擎、决策辅助系统等六大产品模块外，还搭载酷小匠、酷小易、酷小智三大原生AI智能体，分别聚焦需求对接、日常运营、组织治理三大场景，大幅降低系统使用门槛，业务人员通过自然语言即可完成操作、搭建应用",
+        "技术落地已转化为实实在在的经营价值"
+      ],
+      "url": "https://k.sina.com.cn/article_5952915720_162d2490806704rql6.html?from=tech",
+      "source": "k.sina.com.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-02T19:40:06Z"
+    },
+    {
+      "id": "5a62211ffac4",
+      "title": "Meta debuts Muse Spark 1.3 as personal agent work continues - axios.com",
+      "summary": "# Meta debuts Muse Spark 1.3 as personal agent work continues. Meta on Wednesday released Muse Spark 1.3, an update it says significantly improves performance in coding and agentic tasks. **Why it mat...",
+      "highlights": [
+        "# Meta debuts Muse Spark 1.3 as personal agent work continues. Meta on Wednesday released Muse Spark 1.3, an update it says significantly improves performance in coding and agentic tasks. **Why it matters:** Meta is trying to keep pace with Anthropic, OpenAI and Google who all made major model announcements this week. * OpenAI, meanwhile, said Tuesday it will soon release its Astra model, though it will limit its most powerful cybersecurity capabilities to a smaller group of testers. **Zoom in:** Muse Spark 1.3 is priced the same as its predecessor, which Wang characterized as \"aggressive.\". **Between the lines:** With more powerful models, there is also more attention on safety, Wang said. * \"We have more powerful models that are in development,\" he said. **What we're watching:** Whether Meta will continue to close the gap with Anthropic, OpenAI and Google and how its model improvements — especially in agentic work — show up in Meta's products."
+      ],
+      "url": "https://www.axios.com/2026/09/02/meta-debuts-muse-spark-13-as-personal-agent-work-continues",
+      "source": "axios.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-02T19:10:34Z"
+    },
+    {
+      "id": "9b124023a2c3",
+      "title": "短期增长失色，长期AI算力蓝图惊艳! 大客户们点燃ASIC超级周期，博通(AVGO.US)炸裂抛出2300亿美元AI半导体展望",
+      "summary": "OpenAI/Anthropic这类全球AI应用领军者以及谷歌、亚马逊、SpaceX等超大规模云计算厂商们主导的AI算力基础设施建设进程正在从“集体采购英伟达GPU”全面升级为英伟达GPU+AMD\nGPU+自研AI专用集成电路(AI\nASIC)/XPU+CPU/DPU大规模协同运行的异构计算体系。当AI大模型架构逐步稳定且全球各行业Token调用量呈现出指数级增长后，高并发AI推理工作负载越来越适...",
+      "highlights": [
+        "OpenAI/Anthropic这类全球AI应用领军者以及谷歌、亚马逊、SpaceX等超大规模云计算厂商们主导的AI算力基础设施建设进程正在从“集体采购英伟达GPU”全面升级为英伟达GPU+AMD",
+        "GPU+自研AI专用集成电路(AI",
+        "ASIC)/XPU+CPU/DPU大规模协同运行的异构计算体系"
+      ],
+      "url": "https://cn.investing.com/news/stock-market-news/article-3549697",
+      "source": "cn.investing.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-03T00:06:49Z"
+    },
+    {
+      "id": "8368c08db0b8",
+      "title": "融资周报| 英伟达收购开源AI平台Hugging Face；YZi Labs公布EASY Residency第四季24个早期项目",
+      "summary": "BitGo宣布以约4,250万美元的现金加股票交易完成对NYDIG机构交易业务的收购，新增衍生品、结构化产品和资本市场服务能力，约30名NYDIG员工及机构客户关系并入BitGo。交易分两步完成：700万美元现金加约3,550万美元BitGo股票，另设基于营收里程碑的1,000万美元现金支付及最高500万美元额外对价。出售交易部门后，NYDIG将聚焦其电力、比特币挖矿和HPC数据中心业务。\n\n##...",
+      "highlights": [
+        "BitGo宣布以约4,250万美元的现金加股票交易完成对NYDIG机构交易业务的收购，新增衍生品、结构化产品和资本市场服务能力，约30名NYDIG员工及机构客户关系并入BitGo",
+        "交易分两步完成：700万美元现金加约3,550万美元BitGo股票，另设基于营收里程碑的1,000万美元现金支付及最高500万美元额外对价",
+        "出售交易部门后，NYDIG将聚焦其电力、比特币挖矿和HPC数据中心业务"
+      ],
+      "url": "https://www.panewslab.com/zh/articles/01a055da-0145-746e-815d-990124d72432",
+      "source": "panewslab.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-02T11:00:00Z"
     }
   ]
 }
