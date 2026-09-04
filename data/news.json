@@ -1,36 +1,6 @@
 {
-  "updatedAt": "2026-09-04T00:01:41Z",
+  "updatedAt": "2026-09-04T06:01:36Z",
   "latest": [
-    {
-      "id": "fbb0e8da2f34",
-      "title": "英伟达涨价背后，ASIC要被认真对待了",
-      "summary": "AMD于8月6日宣布达成最终协议收购Taalas，金额未披露，交易仍需监管批准。Taalas把模型权重固化到芯片，减少从外部内存反复读取参数的开销。AMD计划把相关技术纳入加速器路线图，并与Instinct GPU、EPYC、ROCm和Helios机架级系统组合。 这项收购让AMD在通用GPU之外获得面向稳定推理负载的专用架构能力，也使其产品组合能够覆盖不同可编程程度和成本目标。\n\nEtched的...",
-      "highlights": [
-        "AMD于8月6日宣布达成最终协议收购Taalas，金额未披露，交易仍需监管批准",
-        "Taalas把模型权重固化到芯片，减少从外部内存反复读取参数的开销",
-        "AMD计划把相关技术纳入加速器路线图，并与Instinct GPU、EPYC、ROCm和Helios机架级系统组合"
-      ],
-      "url": "https://news.pedaily.cn/202609/568406.shtml",
-      "source": "news.pedaily.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-02T00:08:00Z"
-    },
-    {
-      "id": "df96fd30228b",
-      "title": "Token推理洪流之下，GPU霸主力争掌控“AI模型入口”! 英伟达(NVDA.US)欲以140亿美元在本周鲸吞Hugging Face",
-      "summary": "AI GPU集群以及存储芯片仍是Token推理端洪流之下全球范围最突出的AI算力系统瓶颈。TrendForce预计第三季度DRAM和NAND\nFlash合约价将分别环比上涨13%—18%和10%—15%;2026年服务器DRAM及企业级固态硬盘价格累计涨幅可能分别达到约270%和235%，2027年HBM合约价仍可能再涨70%—140%。DRAM与NAND预计将占云计算服务提供商资本开支的47%，...",
-      "highlights": [
-        "AI GPU集群以及存储芯片仍是Token推理端洪流之下全球范围最突出的AI算力系统瓶颈",
-        "TrendForce预计第三季度DRAM和NAND",
-        "Flash合约价将分别环比上涨13%—18%和10%—15%;2026年服务器DRAM及企业级固态硬盘价格累计涨幅可能分别达到约270%和235%，2027年HBM合约价仍可能再涨70%—140%"
-      ],
-      "url": "https://cn.investing.com/news/stock-market-news/article-3547968",
-      "source": "cn.investing.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-02T03:06:25Z"
-    },
     {
       "id": "a1da18b9d482",
       "title": "黄仁勋的阳谋",
@@ -45,36 +15,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-09-02T06:02:15Z"
-    },
-    {
-      "id": "bf7318a60ae4",
-      "title": "号称“全球最强”还降价75%！Anthropic发布最新大模型Fable ...",
-      "summary": "界面新闻logo\n\n登录\n\n\n\n旧版搜索\n\n 新版搜索\n 旧版搜索\n\n#### 历史搜索 全部删除;)\n\n#### 热门搜索\n\n\n\n扫一扫下载界面新闻APP\n\n其他途径关注界面…\n\n# 号称“全球最强”还降价75%！Anthropic发布最新大模型Fable 5.1\n\nFable 5.1以52.6%的得分将Open AI的GPT-5.6Sol甩在身后。\n\n李科峰 · 来源：界面新闻\n\n号称“全球最...",
-      "highlights": [
-        "#### 历史搜索 全部删除;)",
-        "扫一扫下载界面新闻APP",
-        "# 号称“全球最强”还降价75%"
-      ],
-      "url": "https://www.jiemian.com/article/15044768.html",
-      "source": "jiemian.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-02T04:00:00Z"
-    },
-    {
-      "id": "9fe1e5e11e10",
-      "title": "国产GPU四小龙之一燧原科技今日开启申购",
-      "summary": "首页\n 资讯\n 军事\n 财经\n 娱乐\n 汽车\n 游戏\n 文化\n 援藏\n 插画\n 健康\n 公益\n 优选\n 法制\n 守艺中华\n 应急中国\n 更多\n\n  佛学文史古诗词人物解梦生活商业成长\n 地方频道\n\n  湖北山东山西丝路\n\n 注册登录\n\n中华网 china.com\n\n推荐 TMT 金融 地产 消费 医药 酒业 IPO观察\n\n当前位置：首页 > IPO观察 > 正文\n\n# 国产GPU四小龙之一燧原科技...",
-      "highlights": [
-        "佛学文史古诗词人物解梦生活商业成长",
-        "中华网 china.com",
-        "推荐 TMT 金融 地产 消费 医药 酒业 IPO观察"
-      ],
-      "url": "https://finance.china.com/IPO/13004694/20260902/49714401.html",
-      "source": "finance.china.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-02T02:00:00Z"
     },
     {
       "id": "fc652c3ce9cb",
@@ -193,21 +133,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-03T00:06:49Z"
-    },
-    {
-      "id": "af2307c1e0be",
-      "title": "合见工软发布下一代EDA创新矩阵，Agent智能体战略正式落地，3DIC设计前沿成果亮相",
-      "summary": "合见工软正式发布Agentic EDA智能体战略核心产品——国内首款专用于数字芯片验证全流程的 EDA 智能体套件UniVista Verification Goal-Oriented Agentic Toolkit (UniVista Verification GOAT)，首次发布包括四大专家级数字验证EDA Agent，包括软件仿真、验证调试、回归测试管理、硬件仿真与 FPGA 原型验证智能体...",
-      "highlights": [
-        "合见工软正式发布Agentic EDA智能体战略核心产品——国内首款专用于数字芯片验证全流程的 EDA 智能体套件UniVista Verification Goal-Oriented Agentic Toolkit (UniVista Verification GOAT)，首次发布包括四大专家级数字验证EDA Agent，包括软件仿真、验证调试、回归测试管理、硬件仿真与 FPGA 原型验证智能体",
-        "UniVista Verification GOAT 采用目标驱动的专业 Agent 体系架构，把 AI 能力转化为可验收的验证工程成果，有效提升芯片验证调试效率",
-        "该智能体套件深度结合了合见工软数字验证全流程EDA工具，以“自主可控EDA+专用Agent”的紧密协同，将合见工软验证工具的专业能力、运行状态与工程上下文组织与Agent结合成为可交付的专业智能体EDA服务"
-      ],
-      "url": "https://time-weekly.com/post/332545",
-      "source": "time-weekly.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-02T06:00:00Z"
     },
     {
       "id": "8368c08db0b8",
@@ -448,25 +373,185 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-03T17:42:01Z"
-    }
-  ],
-  "today": [],
-  "week": [
+    },
     {
-      "id": "ca6ce89571ff",
-      "title": "港股18C再融资规模反超IPO “马太效应”背后存三重驱动逻辑",
-      "summary": "智谱在7月再融资公告中表示，截至6月末，公司IPO募资净额动用比例已超93%，资金主要用于业务扩张与战略落地。伴随业务提速，原有募资消耗节奏加快，本次再融资将进一步补充资本金，持续支撑基础模型研发、技术迭代、商业化落地与生态建设。\n\n对于自身再融资需求，壁仞科技也坦言，人工智能的快速发展及Token（词元）消耗的爆炸式增长，持续推动对通用图形处理器（GPGPU）计算解决方案的强劲需求，这扩大了潜在...",
+      "id": "45cfc5210b8a",
+      "title": "Claude闯入现实！Anthropic首款在物理世界运行的AI工具问世了",
+      "summary": "关于我们网站声明联系方式用户反馈网站地图帮助\n\n## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载\n\n原创\n\n环球市场情报\n\n2026-08-28 14:29 星期五\n\n财联社 潇湘\n\n责编 林琦\n\n```\n①8月28日消息，Anthropic发布公告称即将推出专为物理世界设计的AI工具“模型硬件标准”（MHS），可让AI自主操作各类可编程科研、制造设备。 ②该工具...",
       "highlights": [
-        "智谱在7月再融资公告中表示，截至6月末，公司IPO募资净额动用比例已超93%，资金主要用于业务扩张与战略落地",
-        "伴随业务提速，原有募资消耗节奏加快，本次再融资将进一步补充资本金，持续支撑基础模型研发、技术迭代、商业化落地与生态建设",
-        "对于自身再融资需求，壁仞科技也坦言，人工智能的快速发展及Token（词元）消耗的爆炸式增长，持续推动对通用图形处理器（GPGPU）计算解决方案的强劲需求，这扩大了潜在市场，并加速了公司下一代GPGPU产品的商业化，速度超过公司上市时的预期，因此有必要采纳审慎而灵活的融资策略，以把握新兴机遇并确保长期竞争力"
+        "关于我们网站声明联系方式用户反馈网站地图帮助",
+        "## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载",
+        "2026-08-28 14:29 星期五"
       ],
-      "url": "https://www.stcn.com/article/detail/4168233.html",
-      "source": "stcn.com",
+      "url": "https://www.cls.cn/detail/2467437",
+      "source": "cls.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-03T12:00:00Z"
+    },
+    {
+      "id": "31a1d929437c",
+      "title": "高Token密度爆发推升AI算力需求，创业板算力ETF广发(158049)今日重磅发售！跟踪指数聚焦算力基建核心标的，AI硬件行业占比近80%",
+      "summary": "界面新闻 \n\n首页\n\n 天下\n 中国\n 宏观\n 文娱\n 体育\n 时尚\n 文化\n 旅行\n 生活\n 游戏\n 歪楼\n 数据\n 正午\n 艺术\n\n商业\n\n 科技\n 汽车\n 地产\n 证券\n 金融\n 消费\n 工业\n 交通\n 投资\n 营销\n 职场\n 管理\n 创业\n 出国\n 楼市\n 财富\n 健康\n 大湾区\n 酒业\n 区块链\n ESG\n 智库\n\n更多;)\n\n 快讯\n 热文\n 视频\n 图片\n 召集令\n 专题\n 直播\n\n...",
+      "highlights": [
+        "高Token密度;AI算力需求;创业板算力ETF广发(158049);重磅发售;跟踪指数;算力基建核心标的;AI硬件行业占比近80%",
+        "# 高Token密度爆发推升AI算力需求，创业板算力ETF广发(158049)今日重磅发售",
+        "跟踪指数聚焦算力基建核心标的，AI硬件行业占比近80%"
+      ],
+      "url": "https://m.jiemian.com/article/15053375.html",
+      "source": "m.jiemian.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-04T01:00:00Z"
+    },
+    {
+      "id": "924c132bf4e8",
+      "title": "从造车到造“人” 车企竞逐第二增长曲线",
+      "summary": "## 首页 >> 正文\n\n共用供应链　提供训练场\n\n从造车到造“人”　车企竞逐第二增长曲线\n\n2026-09-03   记者　袁小康   来源：经济参考报\n\n【大 中 小】\n\n今年以来，人形机器人赛道持续升温，车企也在进一步加大布局力度。从特斯拉Optimus的持续迭代，到小鹏IRON完成首轮超9亿美元融资，再到广汽、奇瑞、比亚迪、理想等头部车企相继披露人形机器人进展，车企跨界“造人”已从个别企业...",
+      "highlights": [
+        "## 首页 >> 正文",
+        "共用供应链　提供训练场",
+        "从造车到造“人”　车企竞逐第二增长曲线"
+      ],
+      "url": "http://jjckb.xinhuanet.com/20260903/30397194e32f4923a7b76aff2fbe5cca/c.html",
+      "source": "jjckb.xinhuanet.com",
       "category": "投并购",
       "importance": 5,
-      "publishedAt": "2026-09-01T23:00:00Z"
+      "publishedAt": "2026-09-03T00:00:00Z"
     },
+    {
+      "id": "927880816997",
+      "title": "Broadcom's Big AI Chip Bet and Key Customers - Briefs Finance",
+      "summary": "Tan said Broadcom's custom-chip lineup now spans six clients and that four of them will be very large. Among them, Anthropic PBC and OpenAI stand out as they hurry to expand infrastructure. Anthropic ...",
+      "highlights": [
+        "Tan said Broadcom's custom-chip lineup now spans six clients and that four of them will be very large. Among them, Anthropic PBC and OpenAI stand out as they hurry to expand infrastructure. Anthropic is expected to become Broadcom's biggest custom-chip customer in 2027, overtaking Google, and Tan sees OpenAI as the second-largest in that business. [...] Broadcom has stepped up its collaborations with Google, Anthropic, and OpenAI. Tan said Google is set to receive custom processors worth multi tens of billions of dollars per year over the next several years. Using data center power draw as the yardstick, he outlined shipments to Anthropic of 5 gigawatts next year and another 10 gigawatts the following year.",
+        "When headlines focus on the next big tech shift, remember steady savings matter, get the free Always Be Buying E-Book [...] There is tangible revenue behind the AI buildout: $16.7 billion in AI semis last quarter and an expected $21.7 billion this quarter, plus named delivery plans to Google, Anthropic, OpenAI, and Meta. The other side of the ledger is supply friction and rising competition. If you are watching how AI hype turns into actual cash flow, Broadcom's guidance, customer roadmaps, the Singapore capacity move, and those large financing lines sketch how today's orders could connect to its earnings-per-share"
+      ],
+      "url": "https://www.briefs.co/news/broadcom-bets-big-on-ai-chips-names-anthropic-and-openai-as",
+      "source": "briefs.co",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-02T22:52:25Z"
+    },
+    {
+      "id": "c6bd9d7e5abb",
+      "title": "Everyone wants to be the sole master of AI tech",
+      "summary": "Per a chart Delangue posted on X, Hugging Face’s library skyrocketed with almost 60 percent more data uploads in the first two weeks after news of the breach by OpenAI became public, and last month, M...",
+      "highlights": [
+        "Per a chart Delangue posted on X, Hugging Face’s library skyrocketed with almost 60 percent more data uploads in the first two weeks after news of the breach by OpenAI became public, and last month, Meta released its new open model on Hugging Face.",
+        "It certainly looks like it pays to be breached by OpenAI. [...] 50 Years of Fearless Journalism",
+        "#### Quick hits from the Mother Jones newsroom"
+      ],
+      "url": "https://www.motherjones.com/politics/2026/09/everybody-wants-to-rule-the-world-of-ai",
+      "source": "motherjones.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-03T18:38:20Z"
+    }
+  ],
+  "today": [
+    {
+      "id": "31a1d929437c",
+      "title": "高Token密度爆发推升AI算力需求，创业板算力ETF广发(158049)今日重磅发售！跟踪指数聚焦算力基建核心标的，AI硬件行业占比近80%",
+      "summary": "界面新闻 \n\n首页\n\n 天下\n 中国\n 宏观\n 文娱\n 体育\n 时尚\n 文化\n 旅行\n 生活\n 游戏\n 歪楼\n 数据\n 正午\n 艺术\n\n商业\n\n 科技\n 汽车\n 地产\n 证券\n 金融\n 消费\n 工业\n 交通\n 投资\n 营销\n 职场\n 管理\n 创业\n 出国\n 楼市\n 财富\n 健康\n 大湾区\n 酒业\n 区块链\n ESG\n 智库\n\n更多;)\n\n 快讯\n 热文\n 视频\n 图片\n 召集令\n 专题\n 直播\n\n...",
+      "highlights": [
+        "高Token密度;AI算力需求;创业板算力ETF广发(158049);重磅发售;跟踪指数;算力基建核心标的;AI硬件行业占比近80%",
+        "# 高Token密度爆发推升AI算力需求，创业板算力ETF广发(158049)今日重磅发售",
+        "跟踪指数聚焦算力基建核心标的，AI硬件行业占比近80%"
+      ],
+      "url": "https://m.jiemian.com/article/15053375.html",
+      "source": "m.jiemian.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-04T01:00:00Z"
+    },
+    {
+      "id": "c22e6192e3ba",
+      "title": "一周两更新、一月立品牌，豆包工作密集迭代“会干活的AI”",
+      "summary": "“豆包工作”品牌发布刚满一周，豆包又往这套生产力系统里装进了两块新零件。 9月2日，豆包工作发布产品功能更新，同步上线“多Agents（智能体）并行”与Mac系统下的“操作",
+      "highlights": [
+        "“豆包工作”品牌发布刚满一周，豆包又往这套生产力系统里装进了两块新零件",
+        "9月2日，豆包工作发布产品功能更新，同步上线“多Agents（智能体）并行”与Mac系统下的“操作"
+      ],
+      "url": "https://m.sohu.com/a/1071792128_114988?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-04T04:00:00Z"
+    },
+    {
+      "id": "0c68803ba083",
+      "title": "【深度报道】AI赋能汽车，助力产业全价值链升级 - 经济观察网 － 专业财经新闻网站",
+      "summary": "#### 前往报名\n\n退出 激活卡 电子版  购物车;) 注册 登录;)\n\n用户名登录/手机号登录\n\n还没有账号？免费注册\n\n忘记密码？\n\n忘记密码？\n\n登 录\n\n 微信注册或登录\n\n关闭; \"关闭\")\n\n 推荐\n\n  :   经济观察报\n  :   政策解读\n  :   上市公司\n  :   现代广告\n  :   论坛活动\n  :   文化艺术\n  :   心理观察\n |\n 快讯\n\n  :   ...",
+      "highlights": [
+        "退出 激活卡 电子版  购物车;) 注册 登录;)",
+        "用户名登录/手机号登录",
+        "ESG [...] :   ESG新闻"
+      ],
+      "url": "http://www.eeo.com.cn/2026/0904/1023187.shtml",
+      "source": "eeo.com.cn",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-04T04:00:00Z"
+    },
+    {
+      "id": "784198713422",
+      "title": "具身智能开始“交卷”：宇树上市之后，产业和资本怎么走？｜甲子引力X",
+      "summary": "以前在新能源投资的时候，大家经常谈的一个问题是，你这个公司要按这么贵的估值融资，我为什么不直接去买宁德时代的股票？ 所以我们可以去看说今天可能会在港股登陆的",
+      "highlights": [
+        "以前在新能源投资的时候，大家经常谈的一个问题是，你这个公司要按这么贵的估值融资，我为什么不直接去买宁德时代的股票",
+        "所以我们可以去看说今天可能会在港股登陆的"
+      ],
+      "url": "https://m.sohu.com/a/1071797287_100016644?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-09-04T05:00:00Z"
+    },
+    {
+      "id": "b401b421c3fb",
+      "title": "马斯克旗下“无聊公司”估值200亿美元完成新融资，投资者还得帮忙拉业务",
+      "summary": "马斯克旗下隧道公司The Boring Company（无聊公司）以约200亿美元估值完成新一轮融资，并向部分投资者提出罕见条件：必须协助招募员工或引荐政府资源，否则公司有权回",
+      "highlights": [
+        "马斯克旗下隧道公司The Boring Company（无聊公司）以约200亿美元估值完成新一轮融资，并向部分投资者提出罕见条件：必须协助招募员工或引荐政府资源，否则公司有权回"
+      ],
+      "url": "https://wallstreetcn.com/articles/3781053",
+      "source": "wallstreetcn.com",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-09-04T01:00:00Z"
+    },
+    {
+      "id": "1428797c8ad6",
+      "title": "智源社区九月科研月报上线，学术前沿一键尽收",
+      "summary": "AI 领域知识庞杂、迭代飞快，建立体系化认知、追踪前沿动态成为了科研刚需。 三个月前，AI 知识树在智源社区上线，用15条脉络主干、300+细分方向把散落的AI知识从“线”",
+      "highlights": [
+        "AI 领域知识庞杂、迭代飞快，建立体系化认知、追踪前沿动态成为了科研刚需",
+        "三个月前，AI 知识树在智源社区上线，用15条脉络主干、300+细分方向把散落的AI知识从“线”"
+      ],
+      "url": "https://hub.baai.ac.cn/view/57688",
+      "source": "hub.baai.ac.cn",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-09-04T05:00:00Z"
+    },
+    {
+      "id": "5a78104431c4",
+      "title": "The AlleyWatch Startup Daily Funding Report: 9/3/2026",
+      "summary": "AI  \n Enterprise\n\nElm AI, an AI platform that deploys agents to automate vendor compliance, responsible sourcing, and supplier operations for supply chain teams, has raised $3.84M according to a recen...",
+      "highlights": [
+        "Elm AI, an AI platform that deploys agents to automate vendor compliance, responsible sourcing, and supplier operations for supply chain teams, has raised $3.84M according to a recent SEC filing. The filing indicates that there were five investors in this round. Elm AI was founded by Advait Raykar, Aparajita Thakker, Eesha Khanna, and Liqin He in 2023 and has raised $6.2M in total funding.",
+        "NYC Tech Daily Email [...] The latest venture capital, seed, pre-seed, and angel deals for NYC startups for September 3, 2026 featuring funding details for Chariot Claims, Elm AI, and much more. This page will be updated throughout the day to reflect any new fundings.",
+        "### Chariot Claims – $9.46M"
+      ],
+      "url": "https://www.alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-3-2026",
+      "source": "alleywatch.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-09-04T01:00:00Z"
+    }
+  ],
+  "week": [
     {
       "id": "fbb0e8da2f34",
       "title": "英伟达涨价背后，ASIC要被认真对待了",
@@ -586,21 +671,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-09-02T13:41:09Z"
-    },
-    {
-      "id": "e0e6e7bc2884",
-      "title": "获亿元级融资，90后CEO押注“自进化个人AI”；为什么一定要做成硬件？-36氪",
-      "summary": "具体怎么做呢？何佳霖将 Violoop的学习路径拆成三个阶段。\n\n第一阶段，是让AI形成围绕个人的长期记忆。\n\n系统从用户授权的工作上下文中，逐渐理解与用户有关的人、项目、文件和历史工作。它需要判断哪些信息值得长期保存，哪些只是短期噪声，并持续合并重复内容、修正过时信息。\n\n第二阶段，是让AI学会一个人的工作方式。\n\n系统不只需要记住“发生过什么”，还要逐渐理解用户从哪里寻找信息、如何处理类似任务...",
-      "highlights": [
-        "何佳霖将 Violoop的学习路径拆成三个阶段",
-        "第一阶段，是让AI形成围绕个人的长期记忆",
-        "系统从用户授权的工作上下文中，逐渐理解与用户有关的人、项目、文件和历史工作"
-      ],
-      "url": "https://m.36kr.com/p/3964567434059016",
-      "source": "m.36kr.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-01T21:02:20Z"
     },
     {
       "id": "667b6b65d824",
@@ -648,19 +718,6 @@
       "publishedAt": "2026-09-02T19:40:06Z"
     },
     {
-      "id": "be7c65afeb75",
-      "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems - TechCrunch",
-      "summary": "# Open AI’s Astra model is on the way—and very good at breaking into computer systems. OpenAI shared new details on its forthcoming Astra model, which the company said is the first large language mode...",
-      "highlights": [
-        "# Open AI’s Astra model is on the way—and very good at breaking into computer systems. OpenAI shared new details on its forthcoming Astra model, which the company said is the first large language model to meet its “critical cybersecurity threshold,” in preparation for its imminent release. That’s similar to the concerns Anthropic raised about its Mythos model earlier this year, and OpenAI is taking comparable precautions as it prepares to roll out the Astra. Preparations for the release of Astra come as the industry reacts to OpenAI agents breaking out of a training environment and accessing private data on Hugging Face, a popular model and benchmark distribution platform. For Astra, OpenAI said it designed a test to tempt the new model to replicate the actions of the rogue agents in the Hugging Face incident, which collaborated to access the open internet despite safeguards applied by OpenAI researchers. The company said it expects to release more evaluations of the model and further safety information when it is launched widely to the public."
-      ],
-      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "source": "techcrunch.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-01T21:06:24Z"
-    },
-    {
       "id": "5a62211ffac4",
       "title": "Meta debuts Muse Spark 1.3 as personal agent work continues - axios.com",
       "summary": "# Meta debuts Muse Spark 1.3 as personal agent work continues. Meta on Wednesday released Muse Spark 1.3, an update it says significantly improves performance in coding and agentic tasks. **Why it mat...",
@@ -672,24 +729,54 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-09-02T19:10:34Z"
+    },
+    {
+      "id": "9b124023a2c3",
+      "title": "短期增长失色，长期AI算力蓝图惊艳! 大客户们点燃ASIC超级周期，博通(AVGO.US)炸裂抛出2300亿美元AI半导体展望",
+      "summary": "OpenAI/Anthropic这类全球AI应用领军者以及谷歌、亚马逊、SpaceX等超大规模云计算厂商们主导的AI算力基础设施建设进程正在从“集体采购英伟达GPU”全面升级为英伟达GPU+AMD\nGPU+自研AI专用集成电路(AI\nASIC)/XPU+CPU/DPU大规模协同运行的异构计算体系。当AI大模型架构逐步稳定且全球各行业Token调用量呈现出指数级增长后，高并发AI推理工作负载越来越适...",
+      "highlights": [
+        "OpenAI/Anthropic这类全球AI应用领军者以及谷歌、亚马逊、SpaceX等超大规模云计算厂商们主导的AI算力基础设施建设进程正在从“集体采购英伟达GPU”全面升级为英伟达GPU+AMD",
+        "GPU+自研AI专用集成电路(AI",
+        "ASIC)/XPU+CPU/DPU大规模协同运行的异构计算体系"
+      ],
+      "url": "https://cn.investing.com/news/stock-market-news/article-3549697",
+      "source": "cn.investing.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-03T00:06:49Z"
+    },
+    {
+      "id": "af2307c1e0be",
+      "title": "合见工软发布下一代EDA创新矩阵，Agent智能体战略正式落地，3DIC设计前沿成果亮相",
+      "summary": "合见工软正式发布Agentic EDA智能体战略核心产品——国内首款专用于数字芯片验证全流程的 EDA 智能体套件UniVista Verification Goal-Oriented Agentic Toolkit (UniVista Verification GOAT)，首次发布包括四大专家级数字验证EDA Agent，包括软件仿真、验证调试、回归测试管理、硬件仿真与 FPGA 原型验证智能体...",
+      "highlights": [
+        "合见工软正式发布Agentic EDA智能体战略核心产品——国内首款专用于数字芯片验证全流程的 EDA 智能体套件UniVista Verification Goal-Oriented Agentic Toolkit (UniVista Verification GOAT)，首次发布包括四大专家级数字验证EDA Agent，包括软件仿真、验证调试、回归测试管理、硬件仿真与 FPGA 原型验证智能体",
+        "UniVista Verification GOAT 采用目标驱动的专业 Agent 体系架构，把 AI 能力转化为可验收的验证工程成果，有效提升芯片验证调试效率",
+        "该智能体套件深度结合了合见工软数字验证全流程EDA工具，以“自主可控EDA+专用Agent”的紧密协同，将合见工软验证工具的专业能力、运行状态与工程上下文组织与Agent结合成为可交付的专业智能体EDA服务"
+      ],
+      "url": "https://time-weekly.com/post/332545",
+      "source": "time-weekly.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-02T06:00:00Z"
+    },
+    {
+      "id": "8368c08db0b8",
+      "title": "融资周报| 英伟达收购开源AI平台Hugging Face；YZi Labs公布EASY Residency第四季24个早期项目",
+      "summary": "BitGo宣布以约4,250万美元的现金加股票交易完成对NYDIG机构交易业务的收购，新增衍生品、结构化产品和资本市场服务能力，约30名NYDIG员工及机构客户关系并入BitGo。交易分两步完成：700万美元现金加约3,550万美元BitGo股票，另设基于营收里程碑的1,000万美元现金支付及最高500万美元额外对价。出售交易部门后，NYDIG将聚焦其电力、比特币挖矿和HPC数据中心业务。\n\n##...",
+      "highlights": [
+        "BitGo宣布以约4,250万美元的现金加股票交易完成对NYDIG机构交易业务的收购，新增衍生品、结构化产品和资本市场服务能力，约30名NYDIG员工及机构客户关系并入BitGo",
+        "交易分两步完成：700万美元现金加约3,550万美元BitGo股票，另设基于营收里程碑的1,000万美元现金支付及最高500万美元额外对价",
+        "出售交易部门后，NYDIG将聚焦其电力、比特币挖矿和HPC数据中心业务"
+      ],
+      "url": "https://www.panewslab.com/zh/articles/01a055da-0145-746e-815d-990124d72432",
+      "source": "panewslab.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-02T11:00:00Z"
     }
   ],
   "month": [
-    {
-      "id": "ca6ce89571ff",
-      "title": "港股18C再融资规模反超IPO “马太效应”背后存三重驱动逻辑",
-      "summary": "智谱在7月再融资公告中表示，截至6月末，公司IPO募资净额动用比例已超93%，资金主要用于业务扩张与战略落地。伴随业务提速，原有募资消耗节奏加快，本次再融资将进一步补充资本金，持续支撑基础模型研发、技术迭代、商业化落地与生态建设。\n\n对于自身再融资需求，壁仞科技也坦言，人工智能的快速发展及Token（词元）消耗的爆炸式增长，持续推动对通用图形处理器（GPGPU）计算解决方案的强劲需求，这扩大了潜在...",
-      "highlights": [
-        "智谱在7月再融资公告中表示，截至6月末，公司IPO募资净额动用比例已超93%，资金主要用于业务扩张与战略落地",
-        "伴随业务提速，原有募资消耗节奏加快，本次再融资将进一步补充资本金，持续支撑基础模型研发、技术迭代、商业化落地与生态建设",
-        "对于自身再融资需求，壁仞科技也坦言，人工智能的快速发展及Token（词元）消耗的爆炸式增长，持续推动对通用图形处理器（GPGPU）计算解决方案的强劲需求，这扩大了潜在市场，并加速了公司下一代GPGPU产品的商业化，速度超过公司上市时的预期，因此有必要采纳审慎而灵活的融资策略，以把握新兴机遇并确保长期竞争力"
-      ],
-      "url": "https://www.stcn.com/article/detail/4168233.html",
-      "source": "stcn.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-01T23:00:00Z"
-    },
     {
       "id": "fbb0e8da2f34",
       "title": "英伟达涨价背后，ASIC要被认真对待了",
@@ -811,19 +898,34 @@
       "publishedAt": "2026-09-02T13:41:09Z"
     },
     {
-      "id": "e0e6e7bc2884",
-      "title": "获亿元级融资，90后CEO押注“自进化个人AI”；为什么一定要做成硬件？-36氪",
-      "summary": "具体怎么做呢？何佳霖将 Violoop的学习路径拆成三个阶段。\n\n第一阶段，是让AI形成围绕个人的长期记忆。\n\n系统从用户授权的工作上下文中，逐渐理解与用户有关的人、项目、文件和历史工作。它需要判断哪些信息值得长期保存，哪些只是短期噪声，并持续合并重复内容、修正过时信息。\n\n第二阶段，是让AI学会一个人的工作方式。\n\n系统不只需要记住“发生过什么”，还要逐渐理解用户从哪里寻找信息、如何处理类似任务...",
+      "id": "667b6b65d824",
+      "title": "四家收口、明码标价：AI办公迎来千亿投入的兑现窗口",
+      "summary": "更值得关注的底层变化是，收费逻辑正从“按人计费”转向“按任务/用量计费”。金山办公在2026年半年报中明确，个人AI产品探索“订阅 + AI 用量”的混合模式，企业侧WPS 365则推行“席位 + AI 用量”，根据任务复杂度、智能服务深度与实际AI资源消耗阶梯收费。这并非个例：微软办公AI体系已同时提供预付Credits额度与超额按量付费；Google也将Gemini基础能力纳入Workspac...",
       "highlights": [
-        "何佳霖将 Violoop的学习路径拆成三个阶段",
-        "第一阶段，是让AI形成围绕个人的长期记忆",
-        "系统从用户授权的工作上下文中，逐渐理解与用户有关的人、项目、文件和历史工作"
+        "更值得关注的底层变化是，收费逻辑正从“按人计费”转向“按任务/用量计费”",
+        "金山办公在2026年半年报中明确，个人AI产品探索“订阅 + AI 用量”的混合模式，企业侧WPS 365则推行“席位 + AI 用量”，根据任务复杂度、智能服务深度与实际AI资源消耗阶梯收费",
+        "这并非个例：微软办公AI体系已同时提供预付Credits额度与超额按量付费；Google也将Gemini基础能力纳入Workspace订阅，并推出AI扩展访问方案满足高强度调用需求"
       ],
-      "url": "https://m.36kr.com/p/3964567434059016",
-      "source": "m.36kr.com",
+      "url": "https://www.bjnews.com.cn/detail-1788333976129704.html",
+      "source": "bjnews.com.cn",
       "category": "产品进展",
       "importance": 5,
-      "publishedAt": "2026-09-01T21:02:20Z"
+      "publishedAt": "2026-09-02T09:00:00Z"
+    },
+    {
+      "id": "1525fd541a18",
+      "title": "车企集体“长出两条腿”，已有14家主流车企争相布局人形机器人_要闻_新闻中心_长江网_cjn.cn",
+      "summary": "logo []( [](\n\n互动\n\n意见反馈 长江头条\n\n数字报\n\n长江日报 武汉晚报\n\n移动端\n\n长江网移动端 长江头条移动端\n\n# 车企集体“长出两条腿”，已有14家主流车企争相布局人形机器人\n\n### 新闻中心 > 武汉频道 > 要闻\n\n2026-09-02 21:41 来源: 长江日报\n\n【字体： 大中小】\n\n前几天，张振林带着两位“特殊员工”从北京回到武汉。\n\n　　作为东风研发总院智能化...",
+      "highlights": [
+        "logo []( [](",
+        "长江网移动端 长江头条移动端",
+        "# 车企集体“长出两条腿”，已有14家主流车企争相布局人形机器人"
+      ],
+      "url": "http://news.cjn.cn/whpd/yw_19947/202609/t5335932.htm",
+      "source": "news.cjn.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-02T14:00:00Z"
     }
   ]
 }
