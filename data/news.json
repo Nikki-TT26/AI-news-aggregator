@@ -1,6 +1,461 @@
 {
-  "updatedAt": "2026-09-06T00:01:37Z",
+  "updatedAt": "2026-09-06T06:01:13Z",
   "latest": [
+    {
+      "id": "7579026595d7",
+      "title": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips - CNBC",
+      "summary": "# Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips. * Nvidia’s $12.9 billion deal for Hugging Face puts it closer to millions of AI developers and one of the industr...",
+      "highlights": [
+        "# Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips. * Nvidia’s $12.9 billion deal for Hugging Face puts it closer to millions of AI developers and one of the industry’s most important open-model platforms. The company is planning to acquire Hugging Face, a New York-based startup which has built a repository for open source AI models and recently shot to global recognition after it came under a cyberattack by rogue OpenAI models. Half of Nvidia's business, Huang said, is \"really largely driven by open models.\" The chip giant itself is a big developer of open models — with Huang telling CNBC on Thursday that the company was the largest contributor of open models in the world \"by far.\". One of the learnings from that transaction was that allowing a tech giant to acquire an \"important repository puts everybody else at a disadvantage,\" Luria added, making Nvidia's acquisition of Hugging Face a \"defensive move\"."
+      ],
+      "url": "https://www.cnbc.com/2026/09/04/nvidia-hugging-face-deal-chips.html",
+      "source": "cnbc.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-04T11:00:01Z"
+    },
+    {
+      "id": "3f1f875dd11e",
+      "title": "Anthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞",
+      "summary": "关于我们网站声明联系方式用户反馈网站地图帮助\n\n## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载\n\nAnthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞\n\n原创\n\n环球市场情报\n\n2026-06-02 23:00 星期二\n\n财联社 史正丞\n\n责编 徐军程\n\n```\n①Anthropic宣布将“神话（Mythos）”大模型预览权限扩大至额外约150家关...",
+      "highlights": [
+        "关于我们网站声明联系方式用户反馈网站地图帮助",
+        "## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载",
+        "Anthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞"
+      ],
+      "url": "https://www.cls.cn/detail/2388865",
+      "source": "cls.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-04T12:00:00Z"
+    },
+    {
+      "id": "420f32a3bfe9",
+      "title": "阿里AI胜负手在To B：千问办公30天斩获3000万用户 - 财中社",
+      "summary": "更值得关注的是组织层面的变化。长安汽车内部甚至在研究如何管理“碳基人”和“硅基人”的协作，“无AI，不长安”已成为公司上下的共识。长安汽车变革与效率部副总经理景笑飞表示，AI不再是某个部门的技术选型，而是支撑企业战略落地的基础能力。阿里云智能集团副总裁、AI汽车行业总经理李强也表示，未来行业竞争将从“单车智能”走向“企业智能”，拉开差距的不是谁率先接入某个模型，而是谁能把AI转化为企业持续进化的能...",
+      "highlights": [
+        "更值得关注的是组织层面的变化",
+        "长安汽车内部甚至在研究如何管理“碳基人”和“硅基人”的协作，“无AI，不长安”已成为公司上下的共识",
+        "长安汽车变革与效率部副总经理景笑飞表示，AI不再是某个部门的技术选型，而是支撑企业战略落地的基础能力"
+      ],
+      "url": "https://m.caizhongshe.cn/news-1421423485958855844.html",
+      "source": "m.caizhongshe.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-04T13:00:00Z"
+    },
+    {
+      "id": "297e981aa3dd",
+      "title": "21对话｜维他动力赵哲伦：C端创业很难，但却是真需求- 21世纪经济报道",
+      "summary": "21世纪经济报道 21财经APP\n\n21世纪经济报道记者  易思琳\n\n“汽车和机器人太像了，只是发展阶段差很多。今天机器人的商业化与迭代进程，正在重演100年前汽车产业的发展历程，只是机器人远比车要复杂。”赵哲伦向《21汽车·一见Auto》感叹。\n\n彼时，消费级机器人还没有成为产业共识，资本市场更青睐to B科研和工业场景项目，绝大多数汽车行业高管仍保持观望状态，不敢贸然下场。在一众车圈跨界机器人...",
+      "highlights": [
+        "21世纪经济报道 21财经APP",
+        "21世纪经济报道记者  易思琳",
+        "“汽车和机器人太像了，只是发展阶段差很多"
+      ],
+      "url": "https://m.21jingji.com/article/20260903/herald/9a912ea2ac8ac4b9345224d8d43c0e50_zaker.html",
+      "source": "m.21jingji.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-04T09:00:00Z"
+    },
+    {
+      "id": "fcc204497b70",
+      "title": "Nvidia bags Hugging Face, AI models play leapfrog and ...",
+      "summary": "OpenAI starts rolling out its next-generation GPT-6 Astra model\n\nAnthropic launches Claude Fable 5.1 after inking $35B cloud deal with Lambda\n\nMeta says it has caught up with Anthropic and OpenAI with...",
+      "highlights": [
+        "OpenAI starts rolling out its next-generation GPT-6 Astra model",
+        "Anthropic launches Claude Fable 5.1 after inking $35B cloud deal with Lambda",
+        "Meta says it has caught up with Anthropic and OpenAI with Muse Spark 1.3, its most powerful AI model yet"
+      ],
+      "url": "https://siliconangle.com/2026/09/04/nvidia-bags-hugging-face-ai-models-play-leapfrog-and-crowdstrike-doubles-down-on-ai",
+      "source": "siliconangle.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-04T14:01:33Z"
+    },
+    {
+      "id": "c74cdc40ed03",
+      "title": "Hot Chips 2026聚焦AI成本、芯片格局与未来走向-芯片",
+      "summary": "SopkoʾҵAIܻܿᳯ칹ķչˣITAIܹʱӦȷԣԱAIԵı仯ܹGPUCPUרоƬ֮л\n\n\"սԷղ2026ѡоƬڹһ׽AIܹ2028޷ϸ˻õоƬ\"Sopko˵\n\nQ&A\n\nQ1OpenAIJalapenoоƬʲôƣ\n\nASemiAnalysisԣоƬڶԴģϵıӢΰAMD͹ȸпɲоƬOpenAIɱ\n\nQ2AIδȫGPU [...] Aȫ룬ӶԪδAIɢڱԵƽ̨AI PCطȶӲϣƶԽڸܼGPUCPUר...",
+      "highlights": [
+        "SopkoʾҵAIܻܿᳯ칹ķչˣITAIܹʱӦȷԣԱAIԵı仯ܹGPUCPUרоƬ֮л",
+        "\"սԷղ2026ѡоƬڹһ׽AIܹ2028޷ϸ˻õоƬ\"Sopko˵",
+        "Q1OpenAIJalapenoоƬʲôƣ"
+      ],
+      "url": "https://www.zhiding.cn/chips/2026/0904/3198475.shtml",
+      "source": "zhiding.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "054966d0e684",
+      "title": "AI办公，上演大厂通吃？",
+      "summary": "# AI办公，上演大厂通吃？\n\n作者|惊蛰研究所 雨谷\n\n8月25日，飞书与豆包整合成立新的豆包产品团队还不到一个月，定位AI办公场景统一产品入口的“豆包工作”正式官宣。8月27日，百度搭子宣布个人版、企业版、专业套件及工作台能力一揽子升级。\n\n一个月前，阿里才刚刚将QoderWork、悟空、MuleRun三款智能体产品整合升级为“千问办公”，金山办公在上海发布AI办公智能体“灵犀专业版”。再往前...",
+      "highlights": [
+        "# AI办公，上演大厂通吃",
+        "作者|惊蛰研究所 雨谷",
+        "8月25日，飞书与豆包整合成立新的豆包产品团队还不到一个月，定位AI办公场景统一产品入口的“豆包工作”正式官宣"
+      ],
+      "url": "https://www.sohu.com/a/1071665507_250147?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "sohu.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-04T08:36:00Z"
+    },
+    {
+      "id": "84764afd93b9",
+      "title": "Corporate America Is Getting Hooked on Open-Source A.I. - The New York Times",
+      "summary": "AT&T turned to artificial intelligence models from Anthropic and OpenAI in recent years to help with customer service, call transcription and coding. The A.I. models charged fees and were “closed,” wh...",
+      "highlights": [
+        "AT&T turned to artificial intelligence models from Anthropic and OpenAI in recent years to help with customer service, call transcription and coding. The A.I. models charged fees and were “closed,” which meant the A.I. companies did not share their underlying code.",
+        "This year, AT&T changed course. [...] Artificial Intelligence",
+        "# Corporate America Is Getting Hooked on Open-Source A.I."
+      ],
+      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "source": "nytimes.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-04T14:55:38Z"
+    },
+    {
+      "id": "c581a602c689",
+      "title": "半导体行业周报(08.27 - 09.03) : AI芯片崛起_搜狐网",
+      "summary": "## 半导体行业周报(08.27 - 09.03) : AI芯片崛起\n\n亿欧\n\n\\ 行业动态\n\n半导体行业周报(08.20 - 08.27) : AI芯片崛起\n\n半导体行业周报：AI芯片崛起，Acrab完成1.3亿美元B轮融资，累计融资超4.8亿美元；OpenAI发布自研推理芯片Jalapeo，跑赢英伟达；小米发布新一代芯片产品；日本政府计划向Rapidus追加出资9.44亿美元；英伟达服务器价格...",
+      "highlights": [
+        "## 半导体行业周报(08.27 - 09.03) : AI芯片崛起",
+        "半导体行业周报(08.20 - 08.27) : AI芯片崛起",
+        "半导体行业周报：AI芯片崛起，Acrab完成1.3亿美元B轮融资，累计融资超4.8亿美元；OpenAI发布自研推理芯片Jalapeo，跑赢英伟达；小米发布新一代芯片产品；日本政府计划向Rapidus追加出资9.44亿美元；英伟达服务器价格上涨；荷兰对安世半导体实施禁运，安世中国推出国产化晶圆平台"
+      ],
+      "url": "https://m.sohu.com/a/1071890586_115035?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-04T16:29:00Z"
+    },
+    {
+      "id": "f08f67deb139",
+      "title": "具身智能开始“交卷”：宇树上市之后，产业和资本怎么走？｜甲子引力X__财经头条__新浪财经",
+      "summary": "# 具身智能开始“交卷”：宇树上市之后，产业和资本怎么走？｜甲子引力X\n\n具身智能正处在这股“激流”的中心。\n\n2026年8月20日，由科技产业智库「甲子光年」举办的「激流——2026甲子引力X·科技产业投资大会」举行。大会聚焦人工智能、具身智能、半导体、智能制造等硬科技方向，讨论资金、技术、产业资源和退出通道正在发生的结构性变化，并现场发布「2025-2026年度中国科技产业投资榜」。\n\n“激流...",
+      "highlights": [
+        "# 具身智能开始“交卷”：宇树上市之后，产业和资本怎么走",
+        "具身智能正处在这股“激流”的中心",
+        "2026年8月20日，由科技产业智库「甲子光年」举办的「激流——2026甲子引力X·科技产业投资大会」举行"
+      ],
+      "url": "https://t.cj.sina.cn/articles/view/5381890498/140c921c201901m7ae",
+      "source": "t.cj.sina.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-04T13:15:01Z"
+    },
+    {
+      "id": "3ef2de941fd4",
+      "title": "美银调派资深银行家强化关注“AI生态系统” _ 东方财富网",
+      "summary": "# 美银调派资深银行家强化关注“AI生态系统”\n\n界面新闻 09-04 07:38 评论\n\n据报道，美国银行正加大对可能需要融资、并购咨询及其他产品服务的AI相关企业的关注力度。该行已指派Gregg Nabhan、Jill Schwartz和Ray Wood跨行业组协作，深化与“AI生态系统”客户的关系。“AI生态系统”代表着经济中一个不断扩大的领域，涵盖人工智能基础设施建设供应链和价值链中的数百...",
+      "highlights": [
+        "# 美银调派资深银行家强化关注“AI生态系统”",
+        "界面新闻 09-04 07:38 评论",
+        "据报道，美国银行正加大对可能需要融资、并购咨询及其他产品服务的AI相关企业的关注力度"
+      ],
+      "url": "https://wap.eastmoney.com/a/202609043864530067.html",
+      "source": "wap.eastmoney.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-04T18:00:00Z"
+    },
+    {
+      "id": "69024d9eb0d5",
+      "title": "宇树科技9天市值蒸发2164亿，“具身智能骗局论”站得住脚吗？",
+      "summary": "历史坐标清晰地告诉我们，当估值大幅脱离行业均值，提前透支了未来数年的增长预期时，剧烈的价值回归是大概率事件，但这并不等同于行业本身是“骗局”。\n\n技术的“ChatGPT时刻”，卡在历史同一条裂缝上\n\n“骗局论”的另一大支撑，是技术落地不及预期。宇树创始人王兴兴公开承认，机器人在固定场景充分训练后，成功率可接近100%，但环境或物体稍有变化，成功率便大幅下降。他预期的行业“ChatGPT时刻”——即...",
+      "highlights": [
+        "历史坐标清晰地告诉我们，当估值大幅脱离行业均值，提前透支了未来数年的增长预期时，剧烈的价值回归是大概率事件，但这并不等同于行业本身是“骗局”",
+        "技术的“ChatGPT时刻”，卡在历史同一条裂缝上",
+        "“骗局论”的另一大支撑，是技术落地不及预期"
+      ],
+      "url": "https://finance.ifeng.com/c/8wB3ioB6WHd",
+      "source": "finance.ifeng.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-05T06:42:04Z"
+    },
+    {
+      "id": "999e839adc8b",
+      "title": "Congress goes quiet as AI safety concerns grow",
+      "summary": "AI safety concerns are growing by the day. A swarm of OpenAI model agents hacked Hugging Face. A report from the UK’s AISI showed an Anthropic model taking on “multiple fake identities.” Last night, O...",
+      "highlights": [
+        "AI safety concerns are growing by the day. A swarm of OpenAI model agents hacked Hugging Face. A report from the UK’s AISI showed an Anthropic model taking on “multiple fake identities.” Last night, OpenAI released a new model which, as Transformer’s Celia Ford reports, is much harder to monitor than previous models, and which has OpenAI employees “deeply concerned.” And just today, we learned that OpenAI had yet another rogue AI incident this May, with models hacking into a German website and [...] GPT-6 Astra might be too powerful to understand or control — Celia Ford looks under the hood at OpenAI’s latest model, revealing that even its creators can’t reliably tell when it’s aligned or just playing along",
+        "What’s neuralese and why is everyone so concerned about it? — Shakeel Hashim assesses the latest worries over monitoring the reasoning of advanced AI systems [...] Anthropic detailed security and alignment improvements after Claude models accessed real systems during evaluations.",
+        "It also released Fable 5.1, offering a 75% price cut on cached tokens and improved coding, science and safety classifiers."
+      ],
+      "url": "https://www.transformernews.ai/p/congress-goes-quiet-as-ai-safety-concerns-grow",
+      "source": "transformernews.ai",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-04T15:00:00Z"
+    },
+    {
+      "id": "e503ae9bc3b3",
+      "title": "大模型卷入“周抛时代”：谁最焦虑，谁又在狂欢？ - 界面新闻",
+      "summary": "OpenAI 刚发的 GPT-6 Astra 就是一个典型例子。在其内部测试中，GPT-6 Astra以同样的标准版定价，在多项基准都拿到了高于Claude Fable 5.1的得分。但在“人类最后的考试”测试中，Astra 使用工具的得分为 57.2%，低于 Sol 的 65.0% 和 Claude Fable 5.1 的 63.8%。在第三方机构 Artificial Analysis的横测中...",
+      "highlights": [
+        "OpenAI 刚发的 GPT-6 Astra 就是一个典型例子",
+        "在其内部测试中，GPT-6 Astra以同样的标准版定价，在多项基准都拿到了高于Claude Fable 5.1的得分",
+        "但在“人类最后的考试”测试中，Astra 使用工具的得分为 57.2%，低于 Sol 的 65.0% 和 Claude Fable 5.1 的 63.8%"
+      ],
+      "url": "https://www.jiemian.com/article/15058387.html",
+      "source": "jiemian.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-05T02:00:00Z"
+    },
+    {
+      "id": "48010287bd76",
+      "title": "疯狂买买买，英伟达的野心何在？",
+      "summary": "这一产业变革的核心逻辑源于算力架构的迭代升级。超大规模云端算力集群，依旧承担着大参数模型训练、海量数据处理的核心任务，但模型推理、轻量化计算、实时交互等场景，受延迟、隐私、成本三大核心因素驱动，正在快速从云端下沉至边缘设备和终端硬件。IDC公开数据显示，2026年全球AI PC出货量将突破5000万台，AI手机出货量有望突破 4.3 亿台，端侧AI芯片市场增速持续大幅高于云端芯片，终端市场已然从A...",
+      "highlights": [
+        "这一产业变革的核心逻辑源于算力架构的迭代升级",
+        "超大规模云端算力集群，依旧承担着大参数模型训练、海量数据处理的核心任务，但模型推理、轻量化计算、实时交互等场景，受延迟、隐私、成本三大核心因素驱动，正在快速从云端下沉至边缘设备和终端硬件",
+        "IDC公开数据显示，2026年全球AI PC出货量将突破5000万台，AI手机出货量有望突破 4.3 亿台，端侧AI芯片市场增速持续大幅高于云端芯片，终端市场已然从AI产业的附属环节，升级为行业增长的核心增量赛道"
+      ],
+      "url": "https://m.thepaper.cn/newsDetail_forward_34014215",
+      "source": "m.thepaper.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-06T02:00:00Z"
+    },
+    {
+      "id": "5d915f2bf6ec",
+      "title": "从纸笔推演到“抽卡式”科研：AI让数学家陷入焦虑，“去年和今年像两个世纪”",
+      "summary": "新浪新闻客户端\n新浪新闻客户端\n\n# 新浪看点\n\n新浪新闻客户端\n新浪新闻公众号\n新浪新闻视频号\n新浪新闻抖音\n新浪新闻快手\n新浪新闻小红书\n新浪新闻B站\n热搜时代小宇宙\n\n# 从纸笔推演到“抽卡式”科研：AI让数学家陷入焦虑，“去年和今年像两个世纪”\n\navatar\n\n　　2026年，数学界正经历一场前所未有的震荡。5月，困扰数学界80年的“平面单位距离问题”被AI推翻；7月，困扰数学家近一个世...",
+      "highlights": [
+        "# 从纸笔推演到“抽卡式”科研：AI让数学家陷入焦虑，“去年和今年像两个世纪”",
+        "2026年，数学界正经历一场前所未有的震荡",
+        "5月，困扰数学界80年的“平面单位距离问题”被AI推翻；7月，困扰数学家近一个世纪的雅可比猜想找到反例"
+      ],
+      "url": "https://k.sina.com.cn/article_5328858693_13d9fee4502002hspm.html?from=news&subch=onews",
+      "source": "k.sina.com.cn",
+      "category": "前沿理论",
+      "importance": 4,
+      "publishedAt": "2026-09-04T07:33:00Z"
+    },
+    {
+      "id": "42ccf8709a00",
+      "title": "数智转型｜资环链金发布再生钢铁行业AI智能体平台RS‑Agent",
+      "summary": "首页>企业频道>企业动态\n\n数智转型｜资环链金发布再生钢铁行业AI智能体平台RS‑Agent\n\n2026-09-04 14:41:00\n\n来源：中国冶金报-中国钢铁新闻网\n\n编辑：张雨恬\n\n# 相关文档\n\n# 版权说明\n\n头图1(1).png\n\n中国钢铁工业协会第十四次会员大会暨七届一次理事会\n\n社庆报头双.png\n\n七秩再扬帆 千钧当奋蹄——中国冶金报创刊70周年专题\n\nKI2A6192 (2)...",
+      "highlights": [
+        "首页>企业频道>企业动态",
+        "数智转型｜资环链金发布再生钢铁行业AI智能体平台RS‑Agent",
+        "2026-09-04 14:41:00"
+      ],
+      "url": "http://www.csteelnews.com/qypd/qydt/202609/t20260904_113024.html",
+      "source": "csteelnews.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-04T07:00:00Z"
+    },
+    {
+      "id": "f2e6ed2cf5b1",
+      "title": "一周两更新、一月立品牌，豆包工作密集迭代“会干活的AI”|川观新闻",
+      "summary": "拍客作品上传   APP\n\n;)  微信;)\n\n举报\n\n中央网信办违法和不良信息举报中心 四川省互联网不良与违法信息举报中心\n\n# 一周两更新、一月立品牌，豆包工作密集迭代“会干活的AI”\n\n 新京报 2026-09-04 16:18 发表于四川 \n\n新京报\n\n2026-09-04 16:18\n\n全文播报\n\n发表于四川\n\n该页面为预览地址，请勿公开转发。\n\n“豆包工作”品牌发布刚满一周，豆包又往这...",
+      "highlights": [
+        "拍客作品上传   APP",
+        "中央网信办违法和不良信息举报中心 四川省互联网不良与违法信息举报中心",
+        "# 一周两更新、一月立品牌，豆包工作密集迭代“会干活的AI”"
+      ],
+      "url": "https://cbgc.scol.com.cn/news/7920924",
+      "source": "cbgc.scol.com.cn",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-04T12:00:00Z"
+    },
+    {
+      "id": "6e0e62d70697",
+      "title": "格局重构——“投资家网2026股权投资年度榜单”盛大开启_搜狐网",
+      "summary": "## 格局重构——“投资家网2026股权投资年度榜单”盛大开启\n\n投资家\n\n关注投资家，⭐，您会收到最新推送\n\n作者 | 云帆\n\n来源 | 投资家网、投资家研究院\n\n经历连续几年的“洗礼”，2026年的中国股权投资市场，迎来肉眼可见的回暖。\n\n募资端基金备案数量大幅反弹，IPO敲钟的锣声此起彼伏，AI、具身智能、半导体等科技赛道轮番上演百亿级融资大戏。饭局上，投资人不再只聊“活下去”，而是开始讨论...",
+      "highlights": [
+        "## 格局重构——“投资家网2026股权投资年度榜单”盛大开启",
+        "关注投资家，⭐，您会收到最新推送",
+        "来源 | 投资家网、投资家研究院"
+      ],
+      "url": "https://m.sohu.com/a/1072013650_532789?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-04T20:33:20Z"
+    },
+    {
+      "id": "c757047f4370",
+      "title": "盖世汽车",
+      "summary": "・如有疑问请发送邮件到以下邮箱垂询data-group@gasgoo.com\n\n咨询电话：021-39586681\n\n盖世汽车 吴宇2026-09-04\n\n盖世具身智能获悉，原力无限已于日前签约落地重庆。\n\n按照规划，原力无限将在重庆建设西南全链条区域总部及场景应用研发中心，联动本地场景、数据、算力与产业资源：从真实生产现场获得数据，以属地算力支撑模型训练，通过实景实训持续提升具身大脑能力，再将经...",
+      "highlights": [
+        "・如有疑问请发送邮件到以下邮箱垂询data-group@gasgoo.com",
+        "咨询电话：021-39586681",
+        "盖世汽车 吴宇2026-09-04"
+      ],
+      "url": "https://m.gasgoo.com/news/70471188.html",
+      "source": "m.gasgoo.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-04T12:00:00Z"
+    },
+    {
+      "id": "bf183af0cbb0",
+      "title": "彩运宝3.0版开始自研AI芯片测试，逐步降低对外部算力依赖-体坛网_体坛+",
+      "summary": "访问:jnh20268.com近期，彩运宝3.0版正式启动自研AI芯片在推荐系统中的测试，迈出减少对外部GPU供应商依赖的关键一步。本文从产业观察角度，分析该动作对供应链、算力",
+      "highlights": [
+        "访问:jnh20268.com近期，彩运宝3.0版正式启动自研AI芯片在推荐系统中的测试，迈出减少对外部GPU供应商依赖的关键一步",
+        "本文从产业观察角度，分析该动作对供应链、算力"
+      ],
+      "url": "https://www.ttplus.cn/wiki/314597742",
+      "source": "ttplus.cn",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-09-05T02:00:00Z"
+    },
+    {
+      "id": "67fcdb766270",
+      "title": "昨夜今晨：优游国际平台注册AI大模型升级 优游国际平台注册量子计算突破",
+      "summary": "2026年5月11日驱动中国昨夜今晨，优游国际平台注册在AI大模型和量子计算领域取得重大进展，同时全球科技巨头发布最新产品和战略合作。",
+      "highlights": [
+        "2026年5月11日驱动中国昨夜今晨，优游国际平台注册在AI大模型和量子计算领域取得重大进展，同时全球科技巨头发布最新产品和战略合作"
+      ],
+      "url": "https://m.ttplus.cn/wiki-cw0KMnErfO.html",
+      "source": "m.ttplus.cn",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-05T15:00:00Z"
+    },
+    {
+      "id": "4898e3ad5f6d",
+      "title": "GPT-6 Astra Launches at $10/$50 as 4 AI Labs Ship [2026]",
+      "summary": "GPT-6 Astra debuts at $10/$50 per million tokens as Anthropic, Meta and Google all ship new AI models in the same 72-hour window.",
+      "highlights": [
+        "GPT-6 Astra debuts at $10/$50 per million tokens as Anthropic, Meta and Google all ship new AI models in the same 72-hour window."
+      ],
+      "url": "https://tech-insider.org/gpt-6-astra-launch-four-ai-labs-september-2026",
+      "source": "tech-insider.org",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-05T19:00:00Z"
+    },
+    {
+      "id": "749fe1c39d89",
+      "title": "Nvidia Buys Hugging Face for $13 Billion, Plus 9 More Big ...",
+      "summary": "CDW CEO Christine Leahy framed the deal around a core thesis: „There is no AI strategy without a data strategy.“ The acquisition is not expected to materially impact CDW’s 2026 financial results and i...",
+      "highlights": [
+        "CDW CEO Christine Leahy framed the deal around a core thesis: „There is no AI strategy without a data strategy.“ The acquisition is not expected to materially impact CDW’s 2026 financial results and is expected to close in Q3 2026. Lovelytics had partnered with Interlock Equity in 2023 to accelerate growth prior to this exit.",
+        "## ServiceNow acquires Israeli AI startup Sweep in deal estimated at hundreds of millions [...] The deal is Palo Alto Networks’ seventh acquisition in 2026, following the $3.35 billion purchase of Chronosphere and $400 million acquisition of Koi. Console will be integrated into Cortex, Palo Alto’s AI-driven threat detection platform, leaving Sequoia-backed Serval — now valued at $1 billion — as the remaining category leader among AI IT service automation startups.",
+        "## Aquiline to take controlling stake in wealthtech platform Flourish [...] ServiceNow has acquired Israeli startup Sweep in a deal estimated at hundreds of millions of dollars, extending an aggressive AI acquisition spree that now totals more than $8 billion across at least seven Israeli-linked deals. Neither company has officially confirmed the transaction or its value. Sweep had raised $46 million in disclosed funding, including a $22.5 million Series B led by Insight Partners in May 2025."
+      ],
+      "url": "https://www.trendingtopics.eu/nvidia-buys-hugging-face-for-13-billion-plus-9-more-big-ma-deals-of-the-week",
+      "source": "trendingtopics.eu",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-05T06:00:31Z"
+    },
+    {
+      "id": "2020906b4782",
+      "title": "昨夜今晨：龙8体育唯一官网相关动态：AI模型发布与芯片突破引领科技圈- 体坛网_体坛+",
+      "summary": "2026年5月16日星期六驱动中国昨夜今晨. 龙8体育唯一官网相关图片. 随着龙8体育唯一官网持续跟进全球科技前沿动态，多个领域在昨夜今晨涌现重磅进展。从人工智能大模型",
+      "highlights": [
+        "2026年5月16日星期六驱动中国昨夜今晨. 龙8体育唯一官网相关图片. 随着龙8体育唯一官网持续跟进全球科技前沿动态，多个领域在昨夜今晨涌现重磅进展"
+      ],
+      "url": "https://m.ttplus.cn/baotou/wiki/news/e2hqCHQW.html",
+      "source": "m.ttplus.cn",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-05T16:00:00Z"
+    },
+    {
+      "id": "0490ed1ffad0",
+      "title": "云顶国际下载网址联袂发布新一代AI大模型，多项基准超越GPT-4o",
+      "summary": "2026年5月25日，云顶国际下载网址联合推出全新原生全模态大模型，参数规模达1.8万亿，在MMLU、MATH等评测中均领先竞品。",
+      "highlights": [
+        "2026年5月25日，云顶国际下载网址联合推出全新原生全模态大模型，参数规模达1.8万亿，在MMLU、MATH等评测中均领先竞品"
+      ],
+      "url": "https://m.ttplus.cn/wiki/V8nLIDkRT",
+      "source": "m.ttplus.cn",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-05T13:00:00Z"
+    },
+    {
+      "id": "f43ac4400d65",
+      "title": "原创 26.5亿增资的背后：理想建成无法复制的技术墙",
+      "summary": "首页\n 新车·资讯\n 试驾·评测\n 调查·评论\n 质量·召回\n 数据·排行\n 大咖·访谈\n 新能源\n 智能汽车\n\n 首页\n 新车·资讯\n 试驾·评测\n 调查·评论\n 质量·召回\n\n# 原创26.5亿增资的背后：理想建成无法复制的技术墙\n\n作者：汽车大观 时间：2026-09-05 浏览量：87902\n\n今年以来，理想几乎把过去几年最重要的产品重新做了一遍：5月换L9，6月换L8，7 月换L6，纯电...",
+      "highlights": [
+        "# 原创26.5亿增资的背后：理想建成无法复制的技术墙",
+        "作者：汽车大观 时间：2026-09-05 浏览量：87902",
+        "今年以来，理想几乎把过去几年最重要的产品重新做了一遍：5月换L9，6月换L8，7 月换L6，纯电产品线同步迭代"
+      ],
+      "url": "https://www.auto-sight.com/a/pinpai/2026/0905/6912.html",
+      "source": "auto-sight.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-09-05T12:00:00Z"
+    },
+    {
+      "id": "d581f9c1c2d1",
+      "title": "AI算力荒倒逼国产突围：万城娱乐客户端安卓版下载以分布式投资重构芯片供应链，赋能2026智能终端生态",
+      "summary": "2026年5月，全球AI算力缺口仍在扩大。据Gartner最新报告，截至2026年第一季度，全球AI训练算力需求较2025年同期增长超过180%，而高端GPU供应仅增长35%。",
+      "highlights": [
+        "2026年5月，全球AI算力缺口仍在扩大",
+        "据Gartner最新报告，截至2026年第一季度，全球AI训练算力需求较2025年同期增长超过180%，而高端GPU供应仅增长35%"
+      ],
+      "url": "https://m.ttplus.cn/jpvmmwikip.shtml",
+      "source": "m.ttplus.cn",
+      "category": "芯片硬件",
+      "importance": 3,
+      "publishedAt": "2026-09-05T06:00:00Z"
+    },
+    {
+      "id": "e11c1751a8ef",
+      "title": "2026全球人工智能峰会启幕，彩票一分快三网站发布跨模态认知引擎",
+      "summary": "jnh20261.com2026年4月29日，全球人工智能峰会在旧金山开幕，彩票一分快三网站团队展示了跨模态认知引擎，该引擎在理解与推理任务上超越人类基准，引发行业关注。",
+      "highlights": [
+        "jnh20261.com2026年4月29日，全球人工智能峰会在旧金山开幕，彩票一分快三网站团队展示了跨模态认知引擎，该引擎在理解与推理任务上超越人类基准，引发行业关注"
+      ],
+      "url": "https://www.ttplus.cn/wiki-2026-09-05-eqyuojbk.html",
+      "source": "ttplus.cn",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-09-05T06:00:00Z"
+    },
+    {
+      "id": "f7987baaa378",
+      "title": "John Ternus takes the helm at Apple, as AI pressure hits | Fortune",
+      "summary": "- Atira, a Munich, Germany-based AI software company for industrial sales teams, raised $17.5 million in funding, including a $15 million seed round led by Accel and joined by UVC, Fortino, and Booom....",
+      "highlights": [
+        "- Atira, a Munich, Germany-based AI software company for industrial sales teams, raised $17.5 million in funding, including a $15 million seed round led by Accel and joined by UVC, Fortino, and Booom.",
+        "- askpolly, an Ottawa, Ontario-based Microsoft AI market-research company, raised $3 million in seed funding. Differential Ventures led the round and was joined by The 98 and Forum Ventures.",
+        "### PRIVATE EQUITY [...] Apple’s role in the private markets has been somewhat muted in the AI era. Far from a cutting-edge AI leader, the company’s a sometime acquirer (in January, Apple announced its almost $2 billion acquisition of audio AI startup Q.ai, its second-largest deal ever). A massive shift might be coming under Ternus’s leadership. As Herrera writes:"
+      ],
+      "url": "https://fortune.com/2026/09/04/john-ternus-takes-helm-apple-ai-pressure-hits",
+      "source": "fortune.com",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-09-05T06:00:00Z"
+    }
+  ],
+  "today": [
+    {
+      "id": "48010287bd76",
+      "title": "疯狂买买买，英伟达的野心何在？",
+      "summary": "这一产业变革的核心逻辑源于算力架构的迭代升级。超大规模云端算力集群，依旧承担着大参数模型训练、海量数据处理的核心任务，但模型推理、轻量化计算、实时交互等场景，受延迟、隐私、成本三大核心因素驱动，正在快速从云端下沉至边缘设备和终端硬件。IDC公开数据显示，2026年全球AI PC出货量将突破5000万台，AI手机出货量有望突破 4.3 亿台，端侧AI芯片市场增速持续大幅高于云端芯片，终端市场已然从A...",
+      "highlights": [
+        "这一产业变革的核心逻辑源于算力架构的迭代升级",
+        "超大规模云端算力集群，依旧承担着大参数模型训练、海量数据处理的核心任务，但模型推理、轻量化计算、实时交互等场景，受延迟、隐私、成本三大核心因素驱动，正在快速从云端下沉至边缘设备和终端硬件",
+        "IDC公开数据显示，2026年全球AI PC出货量将突破5000万台，AI手机出货量有望突破 4.3 亿台，端侧AI芯片市场增速持续大幅高于云端芯片，终端市场已然从AI产业的附属环节，升级为行业增长的核心增量赛道"
+      ],
+      "url": "https://m.thepaper.cn/newsDetail_forward_34014215",
+      "source": "m.thepaper.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-06T02:00:00Z"
+    }
+  ],
+  "week": [
     {
       "id": "31a1d929437c",
       "title": "高Token密度爆发推升AI算力需求，创业板算力ETF广发(158049)今日重磅发售！跟踪指数聚焦算力基建核心标的，AI硬件行业占比近80%",
@@ -223,229 +678,9 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-09-04T18:00:00Z"
-    },
-    {
-      "id": "b401b421c3fb",
-      "title": "马斯克旗下“无聊公司”估值200亿美元完成新融资，投资者还得帮忙拉业务",
-      "summary": "Image 8\n\n“欢迎进入AGI时代”！OpenAI发布GPT-6 Astra，10万GPU训练，网安能力首达“关键”级\n\nImage 9\n\n华尔街见闻早餐FM-Radio | 2026年9月4日\n\nImage 10\n\n美联储“传声筒”：沃勒立场悄然转变！倾向9月按兵不动，但下周CPI仍是“生死线”\n\nImage 11\n\n沃勒“不加”形成“6比5”！决定9月美联储是否加息的关键竟是：鲍威尔？\n\n...",
-      "highlights": [
-        "“欢迎进入AGI时代”",
-        "OpenAI发布GPT-6 Astra，10万GPU训练，网安能力首达“关键”级",
-        "华尔街见闻早餐FM-Radio | 2026年9月4日"
-      ],
-      "url": "https://wallstreetcn.com/articles/3781053",
-      "source": "wallstreetcn.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-04T00:48:44Z"
-    },
-    {
-      "id": "69024d9eb0d5",
-      "title": "宇树科技9天市值蒸发2164亿，“具身智能骗局论”站得住脚吗？",
-      "summary": "历史坐标清晰地告诉我们，当估值大幅脱离行业均值，提前透支了未来数年的增长预期时，剧烈的价值回归是大概率事件，但这并不等同于行业本身是“骗局”。\n\n技术的“ChatGPT时刻”，卡在历史同一条裂缝上\n\n“骗局论”的另一大支撑，是技术落地不及预期。宇树创始人王兴兴公开承认，机器人在固定场景充分训练后，成功率可接近100%，但环境或物体稍有变化，成功率便大幅下降。他预期的行业“ChatGPT时刻”——即...",
-      "highlights": [
-        "历史坐标清晰地告诉我们，当估值大幅脱离行业均值，提前透支了未来数年的增长预期时，剧烈的价值回归是大概率事件，但这并不等同于行业本身是“骗局”",
-        "技术的“ChatGPT时刻”，卡在历史同一条裂缝上",
-        "“骗局论”的另一大支撑，是技术落地不及预期"
-      ],
-      "url": "https://finance.ifeng.com/c/8wB3ioB6WHd",
-      "source": "finance.ifeng.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-05T06:42:04Z"
-    },
-    {
-      "id": "999e839adc8b",
-      "title": "Congress goes quiet as AI safety concerns grow",
-      "summary": "AI safety concerns are growing by the day. A swarm of OpenAI model agents hacked Hugging Face. A report from the UK’s AISI showed an Anthropic model taking on “multiple fake identities.” Last night, O...",
-      "highlights": [
-        "AI safety concerns are growing by the day. A swarm of OpenAI model agents hacked Hugging Face. A report from the UK’s AISI showed an Anthropic model taking on “multiple fake identities.” Last night, OpenAI released a new model which, as Transformer’s Celia Ford reports, is much harder to monitor than previous models, and which has OpenAI employees “deeply concerned.” And just today, we learned that OpenAI had yet another rogue AI incident this May, with models hacking into a German website and [...] GPT-6 Astra might be too powerful to understand or control — Celia Ford looks under the hood at OpenAI’s latest model, revealing that even its creators can’t reliably tell when it’s aligned or just playing along",
-        "What’s neuralese and why is everyone so concerned about it? — Shakeel Hashim assesses the latest worries over monitoring the reasoning of advanced AI systems [...] Anthropic detailed security and alignment improvements after Claude models accessed real systems during evaluations.",
-        "It also released Fable 5.1, offering a 75% price cut on cached tokens and improved coding, science and safety classifiers."
-      ],
-      "url": "https://www.transformernews.ai/p/congress-goes-quiet-as-ai-safety-concerns-grow",
-      "source": "transformernews.ai",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-04T15:00:00Z"
-    },
-    {
-      "id": "c22e6192e3ba",
-      "title": "一周两更新、一月立品牌，豆包工作密集迭代“会干活的AI”",
-      "summary": "“豆包工作”品牌发布刚满一周，豆包又往这套生产力系统里装进了两块新零件。 9月2日，豆包工作发布产品功能更新，同步上线“多Agents（智能体）并行”与Mac系统下的“操作",
-      "highlights": [
-        "“豆包工作”品牌发布刚满一周，豆包又往这套生产力系统里装进了两块新零件",
-        "9月2日，豆包工作发布产品功能更新，同步上线“多Agents（智能体）并行”与Mac系统下的“操作"
-      ],
-      "url": "https://m.sohu.com/a/1071792128_114988?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-04T04:00:00Z"
-    },
-    {
-      "id": "0c68803ba083",
-      "title": "【深度报道】AI赋能汽车，助力产业全价值链升级 - 经济观察网 － 专业财经新闻网站",
-      "summary": "#### 前往报名\n\n退出 激活卡 电子版  购物车;) 注册 登录;)\n\n用户名登录/手机号登录\n\n还没有账号？免费注册\n\n忘记密码？\n\n忘记密码？\n\n登 录\n\n 微信注册或登录\n\n关闭; \"关闭\")\n\n 推荐\n\n  :   经济观察报\n  :   政策解读\n  :   上市公司\n  :   现代广告\n  :   论坛活动\n  :   文化艺术\n  :   心理观察\n |\n 快讯\n\n  :   ...",
-      "highlights": [
-        "退出 激活卡 电子版  购物车;) 注册 登录;)",
-        "用户名登录/手机号登录",
-        "ESG [...] :   ESG新闻"
-      ],
-      "url": "http://www.eeo.com.cn/2026/0904/1023187.shtml",
-      "source": "eeo.com.cn",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-09-04T04:00:00Z"
-    },
-    {
-      "id": "c514098fd787",
-      "title": "国联民生又一保代进入C类：22单IPO在审，承销保荐子公司仍亏损_凤凰网",
-      "summary": "国联民生又一保代进入C类：22单IPO在审，承销保荐子公司仍亏损\n\n# 国联民生又一保代进入C类：22单IPO在审，承销保荐子公司仍亏损\n\n[](\n\n来自北京市\n\n9月3日，中国证券业协会保荐代表人分类名单再次更新，国联民生证券承销保荐有限公司业务总监、保荐代表人陈思远新进入C类名单。\n\n不过，目前尚未显示陈思远此次进入C类名单究竟对应哪项监管措施，也没有披露涉及的具体项目。从其近年来公开执业履历...",
-      "highlights": [
-        "国联民生又一保代进入C类：22单IPO在审，承销保荐子公司仍亏损",
-        "# 国联民生又一保代进入C类：22单IPO在审，承销保荐子公司仍亏损",
-        "9月3日，中国证券业协会保荐代表人分类名单再次更新，国联民生证券承销保荐有限公司业务总监、保荐代表人陈思远新进入C类名单"
-      ],
-      "url": "https://finance.ifeng.com/c/8w93Mod569m",
-      "source": "finance.ifeng.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-09-04T02:33:42Z"
-    },
-    {
-      "id": "5d915f2bf6ec",
-      "title": "从纸笔推演到“抽卡式”科研：AI让数学家陷入焦虑，“去年和今年像两个世纪”",
-      "summary": "新浪新闻客户端\n新浪新闻客户端\n\n# 新浪看点\n\n新浪新闻客户端\n新浪新闻公众号\n新浪新闻视频号\n新浪新闻抖音\n新浪新闻快手\n新浪新闻小红书\n新浪新闻B站\n热搜时代小宇宙\n\n# 从纸笔推演到“抽卡式”科研：AI让数学家陷入焦虑，“去年和今年像两个世纪”\n\navatar\n\n　　2026年，数学界正经历一场前所未有的震荡。5月，困扰数学界80年的“平面单位距离问题”被AI推翻；7月，困扰数学家近一个世...",
-      "highlights": [
-        "# 从纸笔推演到“抽卡式”科研：AI让数学家陷入焦虑，“去年和今年像两个世纪”",
-        "2026年，数学界正经历一场前所未有的震荡",
-        "5月，困扰数学界80年的“平面单位距离问题”被AI推翻；7月，困扰数学家近一个世纪的雅可比猜想找到反例"
-      ],
-      "url": "https://k.sina.com.cn/article_5328858693_13d9fee4502002hspm.html?from=news&subch=onews",
-      "source": "k.sina.com.cn",
-      "category": "前沿理论",
-      "importance": 4,
-      "publishedAt": "2026-09-04T07:33:00Z"
-    },
-    {
-      "id": "42ccf8709a00",
-      "title": "数智转型｜资环链金发布再生钢铁行业AI智能体平台RS‑Agent",
-      "summary": "首页>企业频道>企业动态\n\n数智转型｜资环链金发布再生钢铁行业AI智能体平台RS‑Agent\n\n2026-09-04 14:41:00\n\n来源：中国冶金报-中国钢铁新闻网\n\n编辑：张雨恬\n\n# 相关文档\n\n# 版权说明\n\n头图1(1).png\n\n中国钢铁工业协会第十四次会员大会暨七届一次理事会\n\n社庆报头双.png\n\n七秩再扬帆 千钧当奋蹄——中国冶金报创刊70周年专题\n\nKI2A6192 (2)...",
-      "highlights": [
-        "首页>企业频道>企业动态",
-        "数智转型｜资环链金发布再生钢铁行业AI智能体平台RS‑Agent",
-        "2026-09-04 14:41:00"
-      ],
-      "url": "http://www.csteelnews.com/qypd/qydt/202609/t20260904_113024.html",
-      "source": "csteelnews.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-04T07:00:00Z"
-    },
-    {
-      "id": "f2e6ed2cf5b1",
-      "title": "一周两更新、一月立品牌，豆包工作密集迭代“会干活的AI”|川观新闻",
-      "summary": "拍客作品上传   APP\n\n;)  微信;)\n\n举报\n\n中央网信办违法和不良信息举报中心 四川省互联网不良与违法信息举报中心\n\n# 一周两更新、一月立品牌，豆包工作密集迭代“会干活的AI”\n\n 新京报 2026-09-04 16:18 发表于四川 \n\n新京报\n\n2026-09-04 16:18\n\n全文播报\n\n发表于四川\n\n该页面为预览地址，请勿公开转发。\n\n“豆包工作”品牌发布刚满一周，豆包又往这...",
-      "highlights": [
-        "拍客作品上传   APP",
-        "中央网信办违法和不良信息举报中心 四川省互联网不良与违法信息举报中心",
-        "# 一周两更新、一月立品牌，豆包工作密集迭代“会干活的AI”"
-      ],
-      "url": "https://cbgc.scol.com.cn/news/7920924",
-      "source": "cbgc.scol.com.cn",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-04T12:00:00Z"
-    },
-    {
-      "id": "6e0e62d70697",
-      "title": "格局重构——“投资家网2026股权投资年度榜单”盛大开启_搜狐网",
-      "summary": "## 格局重构——“投资家网2026股权投资年度榜单”盛大开启\n\n投资家\n\n关注投资家，⭐，您会收到最新推送\n\n作者 | 云帆\n\n来源 | 投资家网、投资家研究院\n\n经历连续几年的“洗礼”，2026年的中国股权投资市场，迎来肉眼可见的回暖。\n\n募资端基金备案数量大幅反弹，IPO敲钟的锣声此起彼伏，AI、具身智能、半导体等科技赛道轮番上演百亿级融资大戏。饭局上，投资人不再只聊“活下去”，而是开始讨论...",
-      "highlights": [
-        "## 格局重构——“投资家网2026股权投资年度榜单”盛大开启",
-        "关注投资家，⭐，您会收到最新推送",
-        "来源 | 投资家网、投资家研究院"
-      ],
-      "url": "https://m.sohu.com/a/1072013650_532789?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-09-04T20:33:20Z"
-    },
-    {
-      "id": "c757047f4370",
-      "title": "盖世汽车",
-      "summary": "・如有疑问请发送邮件到以下邮箱垂询data-group@gasgoo.com\n\n咨询电话：021-39586681\n\n盖世汽车 吴宇2026-09-04\n\n盖世具身智能获悉，原力无限已于日前签约落地重庆。\n\n按照规划，原力无限将在重庆建设西南全链条区域总部及场景应用研发中心，联动本地场景、数据、算力与产业资源：从真实生产现场获得数据，以属地算力支撑模型训练，通过实景实训持续提升具身大脑能力，再将经...",
-      "highlights": [
-        "・如有疑问请发送邮件到以下邮箱垂询data-group@gasgoo.com",
-        "咨询电话：021-39586681",
-        "盖世汽车 吴宇2026-09-04"
-      ],
-      "url": "https://m.gasgoo.com/news/70471188.html",
-      "source": "m.gasgoo.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-09-04T12:00:00Z"
-    },
-    {
-      "id": "bf183af0cbb0",
-      "title": "彩运宝3.0版开始自研AI芯片测试，逐步降低对外部算力依赖-体坛网_体坛+",
-      "summary": "访问:jnh20268.com近期，彩运宝3.0版正式启动自研AI芯片在推荐系统中的测试，迈出减少对外部GPU供应商依赖的关键一步。本文从产业观察角度，分析该动作对供应链、算力",
-      "highlights": [
-        "访问:jnh20268.com近期，彩运宝3.0版正式启动自研AI芯片在推荐系统中的测试，迈出减少对外部GPU供应商依赖的关键一步",
-        "本文从产业观察角度，分析该动作对供应链、算力"
-      ],
-      "url": "https://www.ttplus.cn/wiki/314597742",
-      "source": "ttplus.cn",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-09-05T02:00:00Z"
-    },
-    {
-      "id": "67fcdb766270",
-      "title": "昨夜今晨：优游国际平台注册AI大模型升级 优游国际平台注册量子计算突破",
-      "summary": "2026年5月11日驱动中国昨夜今晨，优游国际平台注册在AI大模型和量子计算领域取得重大进展，同时全球科技巨头发布最新产品和战略合作。",
-      "highlights": [
-        "2026年5月11日驱动中国昨夜今晨，优游国际平台注册在AI大模型和量子计算领域取得重大进展，同时全球科技巨头发布最新产品和战略合作"
-      ],
-      "url": "https://m.ttplus.cn/wiki-cw0KMnErfO.html",
-      "source": "m.ttplus.cn",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-05T15:00:00Z"
-    },
-    {
-      "id": "4898e3ad5f6d",
-      "title": "GPT-6 Astra Launches at $10/$50 as 4 AI Labs Ship [2026]",
-      "summary": "GPT-6 Astra debuts at $10/$50 per million tokens as Anthropic, Meta and Google all ship new AI models in the same 72-hour window.",
-      "highlights": [
-        "GPT-6 Astra debuts at $10/$50 per million tokens as Anthropic, Meta and Google all ship new AI models in the same 72-hour window."
-      ],
-      "url": "https://tech-insider.org/gpt-6-astra-launch-four-ai-labs-september-2026",
-      "source": "tech-insider.org",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-05T19:00:00Z"
-    },
-    {
-      "id": "749fe1c39d89",
-      "title": "Nvidia Buys Hugging Face for $13 Billion, Plus 9 More Big ...",
-      "summary": "CDW CEO Christine Leahy framed the deal around a core thesis: „There is no AI strategy without a data strategy.“ The acquisition is not expected to materially impact CDW’s 2026 financial results and i...",
-      "highlights": [
-        "CDW CEO Christine Leahy framed the deal around a core thesis: „There is no AI strategy without a data strategy.“ The acquisition is not expected to materially impact CDW’s 2026 financial results and is expected to close in Q3 2026. Lovelytics had partnered with Interlock Equity in 2023 to accelerate growth prior to this exit.",
-        "## ServiceNow acquires Israeli AI startup Sweep in deal estimated at hundreds of millions [...] The deal is Palo Alto Networks’ seventh acquisition in 2026, following the $3.35 billion purchase of Chronosphere and $400 million acquisition of Koi. Console will be integrated into Cortex, Palo Alto’s AI-driven threat detection platform, leaving Sequoia-backed Serval — now valued at $1 billion — as the remaining category leader among AI IT service automation startups.",
-        "## Aquiline to take controlling stake in wealthtech platform Flourish [...] ServiceNow has acquired Israeli startup Sweep in a deal estimated at hundreds of millions of dollars, extending an aggressive AI acquisition spree that now totals more than $8 billion across at least seven Israeli-linked deals. Neither company has officially confirmed the transaction or its value. Sweep had raised $46 million in disclosed funding, including a $22.5 million Series B led by Insight Partners in May 2025."
-      ],
-      "url": "https://www.trendingtopics.eu/nvidia-buys-hugging-face-for-13-billion-plus-9-more-big-ma-deals-of-the-week",
-      "source": "trendingtopics.eu",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-09-05T06:00:31Z"
     }
   ],
-  "today": [],
-  "week": [
+  "month": [
     {
       "id": "31a1d929437c",
       "title": "高Token密度爆发推升AI算力需求，创业板算力ETF广发(158049)今日重磅发售！跟踪指数聚焦算力基建核心标的，AI硬件行业占比近80%",
@@ -462,21 +697,6 @@
       "publishedAt": "2026-09-04T01:00:00Z"
     },
     {
-      "id": "c6bd9d7e5abb",
-      "title": "Everyone wants to be the sole master of AI tech",
-      "summary": "Per a chart Delangue posted on X, Hugging Face’s library skyrocketed with almost 60 percent more data uploads in the first two weeks after news of the breach by OpenAI became public, and last month, M...",
-      "highlights": [
-        "Per a chart Delangue posted on X, Hugging Face’s library skyrocketed with almost 60 percent more data uploads in the first two weeks after news of the breach by OpenAI became public, and last month, Meta released its new open model on Hugging Face.",
-        "It certainly looks like it pays to be breached by OpenAI. [...] 50 Years of Fearless Journalism",
-        "#### Quick hits from the Mother Jones newsroom"
-      ],
-      "url": "https://www.motherjones.com/politics/2026/09/everybody-wants-to-rule-the-world-of-ai",
-      "source": "motherjones.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-03T18:38:20Z"
-    },
-    {
       "id": "5f67c98d74b9",
       "title": "联想集团携手英伟达发布AI终端新品：Yoga Pro 9n搭载RTX Spark将千亿参数大模型装进笔记本",
       "summary": "其他新品方面，ThinkCentre M75s Gen 6与M75q Gen 6台式机带来至高50TOPS的本地AI算力；ThinkVision P34WD-4v是全球首款获微软认证的雷电VoIP显示器，ThinkVision P27UL-40是联想首款27英寸UHD喷墨打印OLED雷电扩展坞显示器。IdeaPad Vibe系列与潘通色彩研究所合作推出七款配色；ThinkBook 14 Gen 9...",
@@ -490,21 +710,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-04T00:34:22Z"
-    },
-    {
-      "id": "38cba01105da",
-      "title": "Nvidia aims to broaden its AI dominance with Hugging Face deal",
-      "summary": "# Nvidia aims to broaden its AI dominance with Hugging Face deal\n\nAdd Axios as your preferred source to\n\nsee more of our stories on Google.\n\nIllustration of a colorful robot looking through a pair of ...",
-      "highlights": [
-        "# Nvidia aims to broaden its AI dominance with Hugging Face deal",
-        "Add Axios as your preferred source to",
-        "see more of our stories on Google."
-      ],
-      "url": "https://www.axios.com/2026/09/03/nvidia-hugging-face-ai",
-      "source": "axios.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-03T21:01:33Z"
     },
     {
       "id": "7579026595d7",
@@ -623,201 +828,6 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-09-04T08:36:00Z"
-    },
-    {
-      "id": "474ad2bbe192",
-      "title": "Jensen Huang to Spend $13 Billion to Take On OpenAI and Anthropic. Should You Buy Nvidia Stock? - The Globe and Mail",
-      "summary": "## \n\n## Latest in\n\n## More\n\n# Jensen Huang to Spend $13 Billion to Take On OpenAI and Anthropic. Should You Buy Nvidia Stock?\n\n## Key Points\n\nThis morning, CEO Jensen Huang announced Nvidia's agreemen...",
-      "highlights": [
-        "## Latest in",
-        "# Jensen Huang to Spend $13 Billion to Take On OpenAI and Anthropic. Should You Buy Nvidia Stock?",
-        "## Key Points"
-      ],
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/GOOGL-Q/pressreleases/4431050/jensen-huang-to-spend-13-billion-to-take-on-openai-and-anthropic-should-you-buy-nvidia-stock",
-      "source": "theglobeandmail.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-04T06:00:00Z"
-    },
-    {
-      "id": "84764afd93b9",
-      "title": "Corporate America Is Getting Hooked on Open-Source A.I. - The New York Times",
-      "summary": "AT&T turned to artificial intelligence models from Anthropic and OpenAI in recent years to help with customer service, call transcription and coding. The A.I. models charged fees and were “closed,” wh...",
-      "highlights": [
-        "AT&T turned to artificial intelligence models from Anthropic and OpenAI in recent years to help with customer service, call transcription and coding. The A.I. models charged fees and were “closed,” which meant the A.I. companies did not share their underlying code.",
-        "This year, AT&T changed course. [...] Artificial Intelligence",
-        "# Corporate America Is Getting Hooked on Open-Source A.I."
-      ],
-      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-      "source": "nytimes.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-04T14:55:38Z"
-    },
-    {
-      "id": "c581a602c689",
-      "title": "半导体行业周报(08.27 - 09.03) : AI芯片崛起_搜狐网",
-      "summary": "## 半导体行业周报(08.27 - 09.03) : AI芯片崛起\n\n亿欧\n\n\\ 行业动态\n\n半导体行业周报(08.20 - 08.27) : AI芯片崛起\n\n半导体行业周报：AI芯片崛起，Acrab完成1.3亿美元B轮融资，累计融资超4.8亿美元；OpenAI发布自研推理芯片Jalapeo，跑赢英伟达；小米发布新一代芯片产品；日本政府计划向Rapidus追加出资9.44亿美元；英伟达服务器价格...",
-      "highlights": [
-        "## 半导体行业周报(08.27 - 09.03) : AI芯片崛起",
-        "半导体行业周报(08.20 - 08.27) : AI芯片崛起",
-        "半导体行业周报：AI芯片崛起，Acrab完成1.3亿美元B轮融资，累计融资超4.8亿美元；OpenAI发布自研推理芯片Jalapeo，跑赢英伟达；小米发布新一代芯片产品；日本政府计划向Rapidus追加出资9.44亿美元；英伟达服务器价格上涨；荷兰对安世半导体实施禁运，安世中国推出国产化晶圆平台"
-      ],
-      "url": "https://m.sohu.com/a/1071890586_115035?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-04T16:29:00Z"
-    }
-  ],
-  "month": [
-    {
-      "id": "31a1d929437c",
-      "title": "高Token密度爆发推升AI算力需求，创业板算力ETF广发(158049)今日重磅发售！跟踪指数聚焦算力基建核心标的，AI硬件行业占比近80%",
-      "summary": "界面新闻 \n\n首页\n\n 天下\n 中国\n 宏观\n 文娱\n 体育\n 时尚\n 文化\n 旅行\n 生活\n 游戏\n 歪楼\n 数据\n 正午\n 艺术\n\n商业\n\n 科技\n 汽车\n 地产\n 证券\n 金融\n 消费\n 工业\n 交通\n 投资\n 营销\n 职场\n 管理\n 创业\n 出国\n 楼市\n 财富\n 健康\n 大湾区\n 酒业\n 区块链\n ESG\n 智库\n\n更多;)\n\n 快讯\n 热文\n 视频\n 图片\n 召集令\n 专题\n 直播\n\n...",
-      "highlights": [
-        "高Token密度;AI算力需求;创业板算力ETF广发(158049);重磅发售;跟踪指数;算力基建核心标的;AI硬件行业占比近80%",
-        "# 高Token密度爆发推升AI算力需求，创业板算力ETF广发(158049)今日重磅发售",
-        "跟踪指数聚焦算力基建核心标的，AI硬件行业占比近80%"
-      ],
-      "url": "https://m.jiemian.com/article/15053375.html",
-      "source": "m.jiemian.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-04T01:00:00Z"
-    },
-    {
-      "id": "c6bd9d7e5abb",
-      "title": "Everyone wants to be the sole master of AI tech",
-      "summary": "Per a chart Delangue posted on X, Hugging Face’s library skyrocketed with almost 60 percent more data uploads in the first two weeks after news of the breach by OpenAI became public, and last month, M...",
-      "highlights": [
-        "Per a chart Delangue posted on X, Hugging Face’s library skyrocketed with almost 60 percent more data uploads in the first two weeks after news of the breach by OpenAI became public, and last month, Meta released its new open model on Hugging Face.",
-        "It certainly looks like it pays to be breached by OpenAI. [...] 50 Years of Fearless Journalism",
-        "#### Quick hits from the Mother Jones newsroom"
-      ],
-      "url": "https://www.motherjones.com/politics/2026/09/everybody-wants-to-rule-the-world-of-ai",
-      "source": "motherjones.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-03T18:38:20Z"
-    },
-    {
-      "id": "5f67c98d74b9",
-      "title": "联想集团携手英伟达发布AI终端新品：Yoga Pro 9n搭载RTX Spark将千亿参数大模型装进笔记本",
-      "summary": "其他新品方面，ThinkCentre M75s Gen 6与M75q Gen 6台式机带来至高50TOPS的本地AI算力；ThinkVision P34WD-4v是全球首款获微软认证的雷电VoIP显示器，ThinkVision P27UL-40是联想首款27英寸UHD喷墨打印OLED雷电扩展坞显示器。IdeaPad Vibe系列与潘通色彩研究所合作推出七款配色；ThinkBook 14 Gen 9...",
-      "highlights": [
-        "其他新品方面，ThinkCentre M75s Gen 6与M75q Gen 6台式机带来至高50TOPS的本地AI算力；ThinkVision P34WD-4v是全球首款获微软认证的雷电VoIP显示器，ThinkVision P27UL-40是联想首款27英寸UHD喷墨打印OLED雷电扩展坞显示器",
-        "IdeaPad Vibe系列与潘通色彩研究所合作推出七款配色；ThinkBook 14 Gen 9以骁龙X2 Plus的80TOPS算力和至高26小时本地视频播放续航面向移动办公人群；12.9毫米、990克的ThinkBook 14x Gen 2（国内型号ThinkBook X AI 2026，已上市）是ThinkBook产品线迄今最轻薄的设计之一",
-        "[...] 联想集团携手英伟达发布AI终端新品：Yoga Pro 9n搭载RTX Spark将千亿参数大模型装进笔记本"
-      ],
-      "url": "https://pingce.ifeng.com/c/8w94X7Bunlt",
-      "source": "pingce.ifeng.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-04T00:34:22Z"
-    },
-    {
-      "id": "38cba01105da",
-      "title": "Nvidia aims to broaden its AI dominance with Hugging Face deal",
-      "summary": "# Nvidia aims to broaden its AI dominance with Hugging Face deal\n\nAdd Axios as your preferred source to\n\nsee more of our stories on Google.\n\nIllustration of a colorful robot looking through a pair of ...",
-      "highlights": [
-        "# Nvidia aims to broaden its AI dominance with Hugging Face deal",
-        "Add Axios as your preferred source to",
-        "see more of our stories on Google."
-      ],
-      "url": "https://www.axios.com/2026/09/03/nvidia-hugging-face-ai",
-      "source": "axios.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-03T21:01:33Z"
-    },
-    {
-      "id": "7579026595d7",
-      "title": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips - CNBC",
-      "summary": "# Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips. * Nvidia’s $12.9 billion deal for Hugging Face puts it closer to millions of AI developers and one of the industr...",
-      "highlights": [
-        "# Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips. * Nvidia’s $12.9 billion deal for Hugging Face puts it closer to millions of AI developers and one of the industry’s most important open-model platforms. The company is planning to acquire Hugging Face, a New York-based startup which has built a repository for open source AI models and recently shot to global recognition after it came under a cyberattack by rogue OpenAI models. Half of Nvidia's business, Huang said, is \"really largely driven by open models.\" The chip giant itself is a big developer of open models — with Huang telling CNBC on Thursday that the company was the largest contributor of open models in the world \"by far.\". One of the learnings from that transaction was that allowing a tech giant to acquire an \"important repository puts everybody else at a disadvantage,\" Luria added, making Nvidia's acquisition of Hugging Face a \"defensive move\"."
-      ],
-      "url": "https://www.cnbc.com/2026/09/04/nvidia-hugging-face-deal-chips.html",
-      "source": "cnbc.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-04T11:00:01Z"
-    },
-    {
-      "id": "3f1f875dd11e",
-      "title": "Anthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞",
-      "summary": "关于我们网站声明联系方式用户反馈网站地图帮助\n\n## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载\n\nAnthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞\n\n原创\n\n环球市场情报\n\n2026-06-02 23:00 星期二\n\n财联社 史正丞\n\n责编 徐军程\n\n```\n①Anthropic宣布将“神话（Mythos）”大模型预览权限扩大至额外约150家关...",
-      "highlights": [
-        "关于我们网站声明联系方式用户反馈网站地图帮助",
-        "## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载",
-        "Anthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞"
-      ],
-      "url": "https://www.cls.cn/detail/2388865",
-      "source": "cls.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-04T12:00:00Z"
-    },
-    {
-      "id": "420f32a3bfe9",
-      "title": "阿里AI胜负手在To B：千问办公30天斩获3000万用户 - 财中社",
-      "summary": "更值得关注的是组织层面的变化。长安汽车内部甚至在研究如何管理“碳基人”和“硅基人”的协作，“无AI，不长安”已成为公司上下的共识。长安汽车变革与效率部副总经理景笑飞表示，AI不再是某个部门的技术选型，而是支撑企业战略落地的基础能力。阿里云智能集团副总裁、AI汽车行业总经理李强也表示，未来行业竞争将从“单车智能”走向“企业智能”，拉开差距的不是谁率先接入某个模型，而是谁能把AI转化为企业持续进化的能...",
-      "highlights": [
-        "更值得关注的是组织层面的变化",
-        "长安汽车内部甚至在研究如何管理“碳基人”和“硅基人”的协作，“无AI，不长安”已成为公司上下的共识",
-        "长安汽车变革与效率部副总经理景笑飞表示，AI不再是某个部门的技术选型，而是支撑企业战略落地的基础能力"
-      ],
-      "url": "https://m.caizhongshe.cn/news-1421423485958855844.html",
-      "source": "m.caizhongshe.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-04T13:00:00Z"
-    },
-    {
-      "id": "297e981aa3dd",
-      "title": "21对话｜维他动力赵哲伦：C端创业很难，但却是真需求- 21世纪经济报道",
-      "summary": "21世纪经济报道 21财经APP\n\n21世纪经济报道记者  易思琳\n\n“汽车和机器人太像了，只是发展阶段差很多。今天机器人的商业化与迭代进程，正在重演100年前汽车产业的发展历程，只是机器人远比车要复杂。”赵哲伦向《21汽车·一见Auto》感叹。\n\n彼时，消费级机器人还没有成为产业共识，资本市场更青睐to B科研和工业场景项目，绝大多数汽车行业高管仍保持观望状态，不敢贸然下场。在一众车圈跨界机器人...",
-      "highlights": [
-        "21世纪经济报道 21财经APP",
-        "21世纪经济报道记者  易思琳",
-        "“汽车和机器人太像了，只是发展阶段差很多"
-      ],
-      "url": "https://m.21jingji.com/article/20260903/herald/9a912ea2ac8ac4b9345224d8d43c0e50_zaker.html",
-      "source": "m.21jingji.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-04T09:00:00Z"
-    },
-    {
-      "id": "fcc204497b70",
-      "title": "Nvidia bags Hugging Face, AI models play leapfrog and ...",
-      "summary": "OpenAI starts rolling out its next-generation GPT-6 Astra model\n\nAnthropic launches Claude Fable 5.1 after inking $35B cloud deal with Lambda\n\nMeta says it has caught up with Anthropic and OpenAI with...",
-      "highlights": [
-        "OpenAI starts rolling out its next-generation GPT-6 Astra model",
-        "Anthropic launches Claude Fable 5.1 after inking $35B cloud deal with Lambda",
-        "Meta says it has caught up with Anthropic and OpenAI with Muse Spark 1.3, its most powerful AI model yet"
-      ],
-      "url": "https://siliconangle.com/2026/09/04/nvidia-bags-hugging-face-ai-models-play-leapfrog-and-crowdstrike-doubles-down-on-ai",
-      "source": "siliconangle.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-04T14:01:33Z"
-    },
-    {
-      "id": "c74cdc40ed03",
-      "title": "Hot Chips 2026聚焦AI成本、芯片格局与未来走向-芯片",
-      "summary": "SopkoʾҵAIܻܿᳯ칹ķչˣITAIܹʱӦȷԣԱAIԵı仯ܹGPUCPUרоƬ֮л\n\n\"սԷղ2026ѡоƬڹһ׽AIܹ2028޷ϸ˻õоƬ\"Sopko˵\n\nQ&A\n\nQ1OpenAIJalapenoоƬʲôƣ\n\nASemiAnalysisԣоƬڶԴģϵıӢΰAMD͹ȸпɲоƬOpenAIɱ\n\nQ2AIδȫGPU [...] Aȫ룬ӶԪδAIɢڱԵƽ̨AI PCطȶӲϣƶԽڸܼGPUCPUר...",
-      "highlights": [
-        "SopkoʾҵAIܻܿᳯ칹ķչˣITAIܹʱӦȷԣԱAIԵı仯ܹGPUCPUרоƬ֮л",
-        "\"սԷղ2026ѡоƬڹһ׽AIܹ2028޷ϸ˻õоƬ\"Sopko˵",
-        "Q1OpenAIJalapenoоƬʲôƣ"
-      ],
-      "url": "https://www.zhiding.cn/chips/2026/0904/3198475.shtml",
-      "source": "zhiding.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-04T15:00:00Z"
     }
   ]
 }
