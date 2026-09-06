@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T18:01:30Z",
+  "updatedAt": "2026-09-06T00:01:37Z",
   "latest": [
     {
       "id": "31a1d929437c",
@@ -17,21 +17,6 @@
       "publishedAt": "2026-09-04T01:00:00Z"
     },
     {
-      "id": "c6bd9d7e5abb",
-      "title": "Everyone wants to be the sole master of AI tech",
-      "summary": "Per a chart Delangue posted on X, Hugging Face’s library skyrocketed with almost 60 percent more data uploads in the first two weeks after news of the breach by OpenAI became public, and last month, M...",
-      "highlights": [
-        "Per a chart Delangue posted on X, Hugging Face’s library skyrocketed with almost 60 percent more data uploads in the first two weeks after news of the breach by OpenAI became public, and last month, Meta released its new open model on Hugging Face.",
-        "It certainly looks like it pays to be breached by OpenAI. [...] 50 Years of Fearless Journalism",
-        "#### Quick hits from the Mother Jones newsroom"
-      ],
-      "url": "https://www.motherjones.com/politics/2026/09/everybody-wants-to-rule-the-world-of-ai",
-      "source": "motherjones.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-03T18:38:20Z"
-    },
-    {
       "id": "5f67c98d74b9",
       "title": "联想集团携手英伟达发布AI终端新品：Yoga Pro 9n搭载RTX Spark将千亿参数大模型装进笔记本",
       "summary": "其他新品方面，ThinkCentre M75s Gen 6与M75q Gen 6台式机带来至高50TOPS的本地AI算力；ThinkVision P34WD-4v是全球首款获微软认证的雷电VoIP显示器，ThinkVision P27UL-40是联想首款27英寸UHD喷墨打印OLED雷电扩展坞显示器。IdeaPad Vibe系列与潘通色彩研究所合作推出七款配色；ThinkBook 14 Gen 9...",
@@ -45,21 +30,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-04T00:34:22Z"
-    },
-    {
-      "id": "38cba01105da",
-      "title": "Nvidia aims to broaden its AI dominance with Hugging Face deal",
-      "summary": "# Nvidia aims to broaden its AI dominance with Hugging Face deal\n\nAdd Axios as your preferred source to\n\nsee more of our stories on Google.\n\nIllustration of a colorful robot looking through a pair of ...",
-      "highlights": [
-        "# Nvidia aims to broaden its AI dominance with Hugging Face deal",
-        "Add Axios as your preferred source to",
-        "see more of our stories on Google."
-      ],
-      "url": "https://www.axios.com/2026/09/03/nvidia-hugging-face-ai",
-      "source": "axios.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-03T21:01:33Z"
     },
     {
       "id": "7579026595d7",
@@ -359,21 +329,6 @@
       "publishedAt": "2026-09-04T07:33:00Z"
     },
     {
-      "id": "026c6ec0f8f0",
-      "title": "OpenAI发布“地球最强大模型”GPT-6 AI的“iPhone时刻”来了吗？｜科技观察",
-      "summary": "下载封面客户端\n\n下载C视频客户端\n\n下载封底客户端\n\n关注封面公众号\n\n# OpenAI发布“地球最强大模型”GPT-6 AI的“iPhone时刻”来了吗？｜科技观察\n\n封面新闻;)\n2026-09-04 19:33\n28896\n\n封面新闻记者 边雪\n\n“欢迎来到AGI时代。”当地时间9月3日，在位于旧金山的发布会上，OpenAI总裁格雷格·布罗克曼（Greg Brockman）如是说。\n\n当日...",
-      "highlights": [
-        "# OpenAI发布“地球最强大模型”GPT-6 AI的“iPhone时刻”来了吗",
-        "2026-09-04 19:33",
-        "”当地时间9月3日，在位于旧金山的发布会上，OpenAI总裁格雷格·布罗克曼（Greg Brockman）如是说"
-      ],
-      "url": "https://www.thecover.cn/news/XfPJudWTl6SH90qSdq8Jkw==",
-      "source": "thecover.cn",
-      "category": "前沿理论",
-      "importance": 4,
-      "publishedAt": "2026-09-03T21:00:00Z"
-    },
-    {
       "id": "42ccf8709a00",
       "title": "数智转型｜资环链金发布再生钢铁行业AI智能体平台RS‑Agent",
       "summary": "首页>企业频道>企业动态\n\n数智转型｜资环链金发布再生钢铁行业AI智能体平台RS‑Agent\n\n2026-09-04 14:41:00\n\n来源：中国冶金报-中国钢铁新闻网\n\n编辑：张雨恬\n\n# 相关文档\n\n# 版权说明\n\n头图1(1).png\n\n中国钢铁工业协会第十四次会员大会暨七届一次理事会\n\n社庆报头双.png\n\n七秩再扬帆 千钧当奋蹄——中国冶金报创刊70周年专题\n\nKI2A6192 (2)...",
@@ -446,98 +401,51 @@
       "category": "芯片硬件",
       "importance": 4,
       "publishedAt": "2026-09-05T02:00:00Z"
-    }
-  ],
-  "today": [
-    {
-      "id": "69024d9eb0d5",
-      "title": "宇树科技9天市值蒸发2164亿，“具身智能骗局论”站得住脚吗？",
-      "summary": "历史坐标清晰地告诉我们，当估值大幅脱离行业均值，提前透支了未来数年的增长预期时，剧烈的价值回归是大概率事件，但这并不等同于行业本身是“骗局”。\n\n技术的“ChatGPT时刻”，卡在历史同一条裂缝上\n\n“骗局论”的另一大支撑，是技术落地不及预期。宇树创始人王兴兴公开承认，机器人在固定场景充分训练后，成功率可接近100%，但环境或物体稍有变化，成功率便大幅下降。他预期的行业“ChatGPT时刻”——即...",
-      "highlights": [
-        "历史坐标清晰地告诉我们，当估值大幅脱离行业均值，提前透支了未来数年的增长预期时，剧烈的价值回归是大概率事件，但这并不等同于行业本身是“骗局”",
-        "技术的“ChatGPT时刻”，卡在历史同一条裂缝上",
-        "“骗局论”的另一大支撑，是技术落地不及预期"
-      ],
-      "url": "https://finance.ifeng.com/c/8wB3ioB6WHd",
-      "source": "finance.ifeng.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-05T06:42:04Z"
     },
     {
-      "id": "bf183af0cbb0",
-      "title": "彩运宝3.0版开始自研AI芯片测试，逐步降低对外部算力依赖-体坛网_体坛+",
-      "summary": "访问:jnh20268.com近期，彩运宝3.0版正式启动自研AI芯片在推荐系统中的测试，迈出减少对外部GPU供应商依赖的关键一步。本文从产业观察角度，分析该动作对供应链、算力",
+      "id": "67fcdb766270",
+      "title": "昨夜今晨：优游国际平台注册AI大模型升级 优游国际平台注册量子计算突破",
+      "summary": "2026年5月11日驱动中国昨夜今晨，优游国际平台注册在AI大模型和量子计算领域取得重大进展，同时全球科技巨头发布最新产品和战略合作。",
       "highlights": [
-        "访问:jnh20268.com近期，彩运宝3.0版正式启动自研AI芯片在推荐系统中的测试，迈出减少对外部GPU供应商依赖的关键一步",
-        "本文从产业观察角度，分析该动作对供应链、算力"
+        "2026年5月11日驱动中国昨夜今晨，优游国际平台注册在AI大模型和量子计算领域取得重大进展，同时全球科技巨头发布最新产品和战略合作"
       ],
-      "url": "https://www.ttplus.cn/wiki/314597742",
-      "source": "ttplus.cn",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-09-05T02:00:00Z"
-    },
-    {
-      "id": "fb45bd97776d",
-      "title": "Meta全力防范即将上线的AI智能体“Hatch”失控",
-      "summary": "Meta 首席执行官马克・扎克伯格曾表示，未来AI 智能体将可以协助处理健康、人际关系、财务等各类事务。但眼下Meta 首先必须解决产品的安全问题。",
-      "highlights": [
-        "Meta 首席执行官马克・扎克伯格曾表示，未来AI 智能体将可以协助处理健康、人际关系、财务等各类事务",
-        "但眼下Meta 首先必须解决产品的安全问题"
-      ],
-      "url": "https://finance.sina.cn/usstock/mggd/2026-09-04/detail-iniqsenu1289430.d.html?vt=4&cid=76556&node_id=76556",
-      "source": "finance.sina.cn",
-      "category": "产品进展",
-      "importance": 2,
-      "publishedAt": "2026-09-05T10:00:00Z"
-    },
-    {
-      "id": "e2d7cdb1956d",
-      "title": "玉和网上真钱游戏新一代AI平台发布，企业智能化赛道竞争再升级",
-      "summary": "2026年5月，企业级AI市场中一场围绕平台能力的竞争正在升温。玉和网上真钱游戏，这家此前在垂直行业AI领域低调蓄力的技术厂商，于近期正式发布了其新一代AI平台——玉和",
-      "highlights": [
-        "2026年5月，企业级AI市场中一场围绕平台能力的竞争正在升温",
-        "玉和网上真钱游戏，这家此前在垂直行业AI领域低调蓄力的技术厂商，于近期正式发布了其新一代AI平台——玉和"
-      ],
-      "url": "https://m.ttplus.cn/wiki/88236239.aspx",
+      "url": "https://m.ttplus.cn/wiki-cw0KMnErfO.html",
       "source": "m.ttplus.cn",
       "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-09-05T04:00:00Z"
+      "importance": 4,
+      "publishedAt": "2026-09-05T15:00:00Z"
+    },
+    {
+      "id": "4898e3ad5f6d",
+      "title": "GPT-6 Astra Launches at $10/$50 as 4 AI Labs Ship [2026]",
+      "summary": "GPT-6 Astra debuts at $10/$50 per million tokens as Anthropic, Meta and Google all ship new AI models in the same 72-hour window.",
+      "highlights": [
+        "GPT-6 Astra debuts at $10/$50 per million tokens as Anthropic, Meta and Google all ship new AI models in the same 72-hour window."
+      ],
+      "url": "https://tech-insider.org/gpt-6-astra-launch-four-ai-labs-september-2026",
+      "source": "tech-insider.org",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-05T19:00:00Z"
+    },
+    {
+      "id": "749fe1c39d89",
+      "title": "Nvidia Buys Hugging Face for $13 Billion, Plus 9 More Big ...",
+      "summary": "CDW CEO Christine Leahy framed the deal around a core thesis: „There is no AI strategy without a data strategy.“ The acquisition is not expected to materially impact CDW’s 2026 financial results and i...",
+      "highlights": [
+        "CDW CEO Christine Leahy framed the deal around a core thesis: „There is no AI strategy without a data strategy.“ The acquisition is not expected to materially impact CDW’s 2026 financial results and is expected to close in Q3 2026. Lovelytics had partnered with Interlock Equity in 2023 to accelerate growth prior to this exit.",
+        "## ServiceNow acquires Israeli AI startup Sweep in deal estimated at hundreds of millions [...] The deal is Palo Alto Networks’ seventh acquisition in 2026, following the $3.35 billion purchase of Chronosphere and $400 million acquisition of Koi. Console will be integrated into Cortex, Palo Alto’s AI-driven threat detection platform, leaving Sequoia-backed Serval — now valued at $1 billion — as the remaining category leader among AI IT service automation startups.",
+        "## Aquiline to take controlling stake in wealthtech platform Flourish [...] ServiceNow has acquired Israeli startup Sweep in a deal estimated at hundreds of millions of dollars, extending an aggressive AI acquisition spree that now totals more than $8 billion across at least seven Israeli-linked deals. Neither company has officially confirmed the transaction or its value. Sweep had raised $46 million in disclosed funding, including a $22.5 million Series B led by Insight Partners in May 2025."
+      ],
+      "url": "https://www.trendingtopics.eu/nvidia-buys-hugging-face-for-13-billion-plus-9-more-big-ma-deals-of-the-week",
+      "source": "trendingtopics.eu",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-05T06:00:31Z"
     }
   ],
+  "today": [],
   "week": [
-    {
-      "id": "c9efa46397dd",
-      "title": "14家主流车企争相布局人形机器人",
-      "summary": "繁体网站支持IPV6\n\n无障碍 | 长者版\n\n登录个人中心|智能问答\n\n# 湖北省经济和信息化厅\n\n热门搜索： 专精特新 单项冠军 两化融合 小巨人 绿色工厂\n\n 首 页\n 政府信息公开\n 互动交流\n 办事服务\n 部门动态\n 数据开放\n\n 首 页\n 政府信息公开\n 互动交流\n 办事服务\n 部门动态\n 数据开放\n\n首页»部门动态»热点聚焦»正文\n\n## 14家主流车企争相布局人形机器人\n\n2026-...",
-      "highlights": [
-        "登录个人中心|智能问答",
-        "# 湖北省经济和信息化厅",
-        "热门搜索： 专精特新 单项冠军 两化融合 小巨人 绿色工厂"
-      ],
-      "url": "http://jxt.hubei.gov.cn/bmdt/rdjj/202609/t20260903_6006781.shtml",
-      "source": "jxt.hubei.gov.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-03T13:41:00Z"
-    },
-    {
-      "id": "b9b6f9845bee",
-      "title": "Jensen Huang to Spend $13 Billion to Take On OpenAI and Anthropic. Should You Buy Nvidia Stock? | The Motley Fool",
-      "summary": "Right now, Nvidia dominates the AI chip market, and it's not even close. But closed-source AI labs -- including OpenAI, Anthropic, and Alphabet's (GOOG +1.67%)(GOOGL +1.67%) Google -- have been trying...",
-      "highlights": [
-        "Right now, Nvidia dominates the AI chip market, and it's not even close. But closed-source AI labs -- including OpenAI, Anthropic, and Alphabet's (GOOG +1.67%)(GOOGL +1.67%) Google -- have been trying to develop their own AI chips, either on their own or in partnership with other companies like Amazon (AMZN +1.41%).",
-        "Alphabet Stock Quote",
-        "## NASDAQ: GOOGL"
-      ],
-      "url": "https://www.fool.com/investing/2026/09/03/jensen-huang-to-spend-usd13-billion-to-take-on-openai-and-anthropic-should-you-buy-nvidia-stock",
-      "source": "fool.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-03T17:42:01Z"
-    },
     {
       "id": "31a1d929437c",
       "title": "高Token密度爆发推升AI算力需求，创业板算力ETF广发(158049)今日重磅发售！跟踪指数聚焦算力基建核心标的，AI硬件行业占比近80%",
@@ -672,21 +580,6 @@
       "publishedAt": "2026-09-04T14:01:33Z"
     },
     {
-      "id": "0dd3d36dc67c",
-      "title": "Nvidia inks $13 billion deal to buy the AI startup that was hacked by OpenAI | CNN Business",
-      "summary": "© 2026 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.   \n CNN Sans ™ & © 2016 Cable News Network.\n\n## Download the CNN app\n\nScan the QR code to download the CNN app on Goog...",
-      "highlights": [
-        "© 2026 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.",
-        "CNN Sans ™ & © 2016 Cable News Network.",
-        "## Download the CNN app"
-      ],
-      "url": "https://www.cnn.com/2026/09/03/tech/nvidia-hugging-face-ai-acquisition",
-      "source": "cnn.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-03T13:07:50Z"
-    },
-    {
       "id": "c74cdc40ed03",
       "title": "Hot Chips 2026聚焦AI成本、芯片格局与未来走向-芯片",
       "summary": "SopkoʾҵAIܻܿᳯ칹ķչˣITAIܹʱӦȷԣԱAIԵı仯ܹGPUCPUרоƬ֮л\n\n\"սԷղ2026ѡоƬڹһ׽AIܹ2028޷ϸ˻õоƬ\"Sopko˵\n\nQ&A\n\nQ1OpenAIJalapenoоƬʲôƣ\n\nASemiAnalysisԣоƬڶԴģϵıӢΰAMD͹ȸпɲоƬOpenAIɱ\n\nQ2AIδȫGPU [...] Aȫ룬ӶԪδAIɢڱԵƽ̨AI PCطȶӲϣƶԽڸܼGPUCPUר...",
@@ -702,19 +595,6 @@
       "publishedAt": "2026-09-04T15:00:00Z"
     },
     {
-      "id": "d85d9542530b",
-      "title": "IREN obtains $2.4B private credit financing to buy Nvidia chips - PitchBook",
-      "summary": "# IREN obtains $2.4B private credit financing to buy Nvidia chips. The financing will support “non-investment grade customer deployments” of the chips, which are used to train and process the outputs ...",
-      "highlights": [
-        "# IREN obtains $2.4B private credit financing to buy Nvidia chips. The financing will support “non-investment grade customer deployments” of the chips, which are used to train and process the outputs of AI models. AI data center platform IREN Limited obtained a $2.4 billion financing package led by private lenders to purchase Nvidia Blackwell Ultra GPUs. is the administrative agent, collateral agent and note agent, according to a 10-K filing released on Aug. 27. The financing was completed on Aug. 25. PIMCO participated in the financing, according to a statement by IREN. The agreement includes a $1.2 billion senior term loan and $1.2 billion of senior secured notes. The $2.4 billion financing package will support “non-investment grade customer deployments” of the Nvidia chips, which are used to train and process the outputs of AI models. In June, IREN entered into financing agreements totaling $3.6 billion to fund GPU infrastructure. Weekly coverage of US and European loans, bonds, private credit, and more."
-      ],
-      "url": "https://pitchbook.com/news/articles/iren-obtains-2-4b-private-credit-financing-to-buy-nvidia-chips",
-      "source": "pitchbook.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-03T14:29:57Z"
-    },
-    {
       "id": "e2f4fbb7992d",
       "title": "黑石启动60亿英镑地产平台退出计划 私募股权撤退窗口渐启？",
       "summary": "关于我们网站声明联系方式用户反馈网站地图帮助\n\n## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载\n\n黑石启动60亿英镑地产平台退出计划 私募股权撤退窗口渐启？\n\n原创\n\n环球市场情报\n\n2026-07-07 17:00 星期二\n\n财联社\n\n责编 林琦\n\n```\n①据悉，美国黑石集团旗下Indurent公司计划出售或伦敦上市，估值约60亿英镑，预计需18个月完成； ...",
@@ -728,39 +608,69 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-09-04T06:00:00Z"
+    },
+    {
+      "id": "054966d0e684",
+      "title": "AI办公，上演大厂通吃？",
+      "summary": "# AI办公，上演大厂通吃？\n\n作者|惊蛰研究所 雨谷\n\n8月25日，飞书与豆包整合成立新的豆包产品团队还不到一个月，定位AI办公场景统一产品入口的“豆包工作”正式官宣。8月27日，百度搭子宣布个人版、企业版、专业套件及工作台能力一揽子升级。\n\n一个月前，阿里才刚刚将QoderWork、悟空、MuleRun三款智能体产品整合升级为“千问办公”，金山办公在上海发布AI办公智能体“灵犀专业版”。再往前...",
+      "highlights": [
+        "# AI办公，上演大厂通吃",
+        "作者|惊蛰研究所 雨谷",
+        "8月25日，飞书与豆包整合成立新的豆包产品团队还不到一个月，定位AI办公场景统一产品入口的“豆包工作”正式官宣"
+      ],
+      "url": "https://www.sohu.com/a/1071665507_250147?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "sohu.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-04T08:36:00Z"
+    },
+    {
+      "id": "474ad2bbe192",
+      "title": "Jensen Huang to Spend $13 Billion to Take On OpenAI and Anthropic. Should You Buy Nvidia Stock? - The Globe and Mail",
+      "summary": "## \n\n## Latest in\n\n## More\n\n# Jensen Huang to Spend $13 Billion to Take On OpenAI and Anthropic. Should You Buy Nvidia Stock?\n\n## Key Points\n\nThis morning, CEO Jensen Huang announced Nvidia's agreemen...",
+      "highlights": [
+        "## Latest in",
+        "# Jensen Huang to Spend $13 Billion to Take On OpenAI and Anthropic. Should You Buy Nvidia Stock?",
+        "## Key Points"
+      ],
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/GOOGL-Q/pressreleases/4431050/jensen-huang-to-spend-13-billion-to-take-on-openai-and-anthropic-should-you-buy-nvidia-stock",
+      "source": "theglobeandmail.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-04T06:00:00Z"
+    },
+    {
+      "id": "84764afd93b9",
+      "title": "Corporate America Is Getting Hooked on Open-Source A.I. - The New York Times",
+      "summary": "AT&T turned to artificial intelligence models from Anthropic and OpenAI in recent years to help with customer service, call transcription and coding. The A.I. models charged fees and were “closed,” wh...",
+      "highlights": [
+        "AT&T turned to artificial intelligence models from Anthropic and OpenAI in recent years to help with customer service, call transcription and coding. The A.I. models charged fees and were “closed,” which meant the A.I. companies did not share their underlying code.",
+        "This year, AT&T changed course. [...] Artificial Intelligence",
+        "# Corporate America Is Getting Hooked on Open-Source A.I."
+      ],
+      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "source": "nytimes.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-04T14:55:38Z"
+    },
+    {
+      "id": "c581a602c689",
+      "title": "半导体行业周报(08.27 - 09.03) : AI芯片崛起_搜狐网",
+      "summary": "## 半导体行业周报(08.27 - 09.03) : AI芯片崛起\n\n亿欧\n\n\\ 行业动态\n\n半导体行业周报(08.20 - 08.27) : AI芯片崛起\n\n半导体行业周报：AI芯片崛起，Acrab完成1.3亿美元B轮融资，累计融资超4.8亿美元；OpenAI发布自研推理芯片Jalapeo，跑赢英伟达；小米发布新一代芯片产品；日本政府计划向Rapidus追加出资9.44亿美元；英伟达服务器价格...",
+      "highlights": [
+        "## 半导体行业周报(08.27 - 09.03) : AI芯片崛起",
+        "半导体行业周报(08.20 - 08.27) : AI芯片崛起",
+        "半导体行业周报：AI芯片崛起，Acrab完成1.3亿美元B轮融资，累计融资超4.8亿美元；OpenAI发布自研推理芯片Jalapeo，跑赢英伟达；小米发布新一代芯片产品；日本政府计划向Rapidus追加出资9.44亿美元；英伟达服务器价格上涨；荷兰对安世半导体实施禁运，安世中国推出国产化晶圆平台"
+      ],
+      "url": "https://m.sohu.com/a/1071890586_115035?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-04T16:29:00Z"
     }
   ],
   "month": [
-    {
-      "id": "c9efa46397dd",
-      "title": "14家主流车企争相布局人形机器人",
-      "summary": "繁体网站支持IPV6\n\n无障碍 | 长者版\n\n登录个人中心|智能问答\n\n# 湖北省经济和信息化厅\n\n热门搜索： 专精特新 单项冠军 两化融合 小巨人 绿色工厂\n\n 首 页\n 政府信息公开\n 互动交流\n 办事服务\n 部门动态\n 数据开放\n\n 首 页\n 政府信息公开\n 互动交流\n 办事服务\n 部门动态\n 数据开放\n\n首页»部门动态»热点聚焦»正文\n\n## 14家主流车企争相布局人形机器人\n\n2026-...",
-      "highlights": [
-        "登录个人中心|智能问答",
-        "# 湖北省经济和信息化厅",
-        "热门搜索： 专精特新 单项冠军 两化融合 小巨人 绿色工厂"
-      ],
-      "url": "http://jxt.hubei.gov.cn/bmdt/rdjj/202609/t20260903_6006781.shtml",
-      "source": "jxt.hubei.gov.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-03T13:41:00Z"
-    },
-    {
-      "id": "b9b6f9845bee",
-      "title": "Jensen Huang to Spend $13 Billion to Take On OpenAI and Anthropic. Should You Buy Nvidia Stock? | The Motley Fool",
-      "summary": "Right now, Nvidia dominates the AI chip market, and it's not even close. But closed-source AI labs -- including OpenAI, Anthropic, and Alphabet's (GOOG +1.67%)(GOOGL +1.67%) Google -- have been trying...",
-      "highlights": [
-        "Right now, Nvidia dominates the AI chip market, and it's not even close. But closed-source AI labs -- including OpenAI, Anthropic, and Alphabet's (GOOG +1.67%)(GOOGL +1.67%) Google -- have been trying to develop their own AI chips, either on their own or in partnership with other companies like Amazon (AMZN +1.41%).",
-        "Alphabet Stock Quote",
-        "## NASDAQ: GOOGL"
-      ],
-      "url": "https://www.fool.com/investing/2026/09/03/jensen-huang-to-spend-usd13-billion-to-take-on-openai-and-anthropic-should-you-buy-nvidia-stock",
-      "source": "fool.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-03T17:42:01Z"
-    },
     {
       "id": "31a1d929437c",
       "title": "高Token密度爆发推升AI算力需求，创业板算力ETF广发(158049)今日重磅发售！跟踪指数聚焦算力基建核心标的，AI硬件行业占比近80%",
@@ -878,6 +788,36 @@
       "category": "具身智能",
       "importance": 5,
       "publishedAt": "2026-09-04T09:00:00Z"
+    },
+    {
+      "id": "fcc204497b70",
+      "title": "Nvidia bags Hugging Face, AI models play leapfrog and ...",
+      "summary": "OpenAI starts rolling out its next-generation GPT-6 Astra model\n\nAnthropic launches Claude Fable 5.1 after inking $35B cloud deal with Lambda\n\nMeta says it has caught up with Anthropic and OpenAI with...",
+      "highlights": [
+        "OpenAI starts rolling out its next-generation GPT-6 Astra model",
+        "Anthropic launches Claude Fable 5.1 after inking $35B cloud deal with Lambda",
+        "Meta says it has caught up with Anthropic and OpenAI with Muse Spark 1.3, its most powerful AI model yet"
+      ],
+      "url": "https://siliconangle.com/2026/09/04/nvidia-bags-hugging-face-ai-models-play-leapfrog-and-crowdstrike-doubles-down-on-ai",
+      "source": "siliconangle.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-04T14:01:33Z"
+    },
+    {
+      "id": "c74cdc40ed03",
+      "title": "Hot Chips 2026聚焦AI成本、芯片格局与未来走向-芯片",
+      "summary": "SopkoʾҵAIܻܿᳯ칹ķչˣITAIܹʱӦȷԣԱAIԵı仯ܹGPUCPUרоƬ֮л\n\n\"սԷղ2026ѡоƬڹһ׽AIܹ2028޷ϸ˻õоƬ\"Sopko˵\n\nQ&A\n\nQ1OpenAIJalapenoоƬʲôƣ\n\nASemiAnalysisԣоƬڶԴģϵıӢΰAMD͹ȸпɲоƬOpenAIɱ\n\nQ2AIδȫGPU [...] Aȫ룬ӶԪδAIɢڱԵƽ̨AI PCطȶӲϣƶԽڸܼGPUCPUר...",
+      "highlights": [
+        "SopkoʾҵAIܻܿᳯ칹ķչˣITAIܹʱӦȷԣԱAIԵı仯ܹGPUCPUרоƬ֮л",
+        "\"սԷղ2026ѡоƬڹһ׽AIܹ2028޷ϸ˻õоƬ\"Sopko˵",
+        "Q1OpenAIJalapenoоƬʲôƣ"
+      ],
+      "url": "https://www.zhiding.cn/chips/2026/0904/3198475.shtml",
+      "source": "zhiding.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-04T15:00:00Z"
     }
   ]
 }
