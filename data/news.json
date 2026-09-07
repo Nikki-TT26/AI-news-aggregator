@@ -1,6 +1,492 @@
 {
-  "updatedAt": "2026-09-07T00:01:56Z",
+  "updatedAt": "2026-09-07T06:01:31Z",
   "latest": [
+    {
+      "id": "69024d9eb0d5",
+      "title": "宇树科技9天市值蒸发2164亿，“具身智能骗局论”站得住脚吗？",
+      "summary": "历史坐标清晰地告诉我们，当估值大幅脱离行业均值，提前透支了未来数年的增长预期时，剧烈的价值回归是大概率事件，但这并不等同于行业本身是“骗局”。\n\n技术的“ChatGPT时刻”，卡在历史同一条裂缝上\n\n“骗局论”的另一大支撑，是技术落地不及预期。宇树创始人王兴兴公开承认，机器人在固定场景充分训练后，成功率可接近100%，但环境或物体稍有变化，成功率便大幅下降。他预期的行业“ChatGPT时刻”——即...",
+      "highlights": [
+        "历史坐标清晰地告诉我们，当估值大幅脱离行业均值，提前透支了未来数年的增长预期时，剧烈的价值回归是大概率事件，但这并不等同于行业本身是“骗局”",
+        "技术的“ChatGPT时刻”，卡在历史同一条裂缝上",
+        "“骗局论”的另一大支撑，是技术落地不及预期"
+      ],
+      "url": "https://finance.ifeng.com/c/8wB3ioB6WHd",
+      "source": "finance.ifeng.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-05T06:42:04Z"
+    },
+    {
+      "id": "48010287bd76",
+      "title": "疯狂买买买，英伟达的野心何在？",
+      "summary": "这一产业变革的核心逻辑源于算力架构的迭代升级。超大规模云端算力集群，依旧承担着大参数模型训练、海量数据处理的核心任务，但模型推理、轻量化计算、实时交互等场景，受延迟、隐私、成本三大核心因素驱动，正在快速从云端下沉至边缘设备和终端硬件。IDC公开数据显示，2026年全球AI PC出货量将突破5000万台，AI手机出货量有望突破 4.3 亿台，端侧AI芯片市场增速持续大幅高于云端芯片，终端市场已然从A...",
+      "highlights": [
+        "这一产业变革的核心逻辑源于算力架构的迭代升级",
+        "超大规模云端算力集群，依旧承担着大参数模型训练、海量数据处理的核心任务，但模型推理、轻量化计算、实时交互等场景，受延迟、隐私、成本三大核心因素驱动，正在快速从云端下沉至边缘设备和终端硬件",
+        "IDC公开数据显示，2026年全球AI PC出货量将突破5000万台，AI手机出货量有望突破 4.3 亿台，端侧AI芯片市场增速持续大幅高于云端芯片，终端市场已然从AI产业的附属环节，升级为行业增长的核心增量赛道"
+      ],
+      "url": "https://m.thepaper.cn/newsDetail_forward_34014215",
+      "source": "m.thepaper.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-06T02:00:00Z"
+    },
+    {
+      "id": "7d18801a1a7d",
+      "title": "Congress goes quiet as AI safety concerns mount",
+      "summary": "GPT-6 Astra might be too powerful to understand or control — Celia Ford looks under the hood at OpenAI’s latest model, revealing that even its creators can’t reliably tell when it’s aligned or just pl...",
+      "highlights": [
+        "GPT-6 Astra might be too powerful to understand or control — Celia Ford looks under the hood at OpenAI’s latest model, revealing that even its creators can’t reliably tell when it’s aligned or just playing along",
+        "What’s neuralese and why is everyone so concerned about it? — Shakeel Hashim assesses the latest worries over monitoring the reasoning of advanced AI systems [...] AI safety concerns are growing by the day. A swarm of OpenAI model agents hacked Hugging Face. A report from the UK’s AISI showed an Anthropic model taking on “multiple fake identities.” Last night, OpenAI released a new model which, as Transformer’s Celia Ford reports, is much harder to monitor than previous models, and which has OpenAI employees “deeply concerned.” And just today, we learned that OpenAI had yet another rogue AI incident this May, with models hacking into a German website and [...] Tim Cook officially handed over the reins at Apple to John Ternus.",
+        "Matt Clifford announced he was joining Anthropic as managing director of international affairs."
+      ],
+      "url": "https://www.transformernews.ai/p/congress-goes-quiet-as-ai-safety-concerns-grow?action=share",
+      "source": "transformernews.ai",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-05T12:00:00Z"
+    },
+    {
+      "id": "d83825e57188",
+      "title": "利赢国际手机版下载发布RusGPT-4 开源大模型性能超越Llama 3-体坛网_体坛+",
+      "summary": "近日，利赢国际手机版下载正式对外发布了其最新一代开源大语言模型RusGPT-4，该模型在技术上实现了多项突破，旨在为全球开发者和企业提供更高效、更经济的AI解决方案。",
+      "highlights": [
+        "近日，利赢国际手机版下载正式对外发布了其最新一代开源大语言模型RusGPT-4，该模型在技术上实现了多项突破，旨在为全球开发者和企业提供更高效、更经济的AI解决方案"
+      ],
+      "url": "https://m.ttplus.cn/3594wiki94.htm",
+      "source": "m.ttplus.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-06T03:00:00Z"
+    },
+    {
+      "id": "8067474785c2",
+      "title": "30天企业用户过半，千问办公将AI办公的生意做成了|Qwen|Agent|阿里巴巴|大模型|ChatGPT_新浪新闻",
+      "summary": "就在前不久，沙利文联合头豹研究院发布了《2026年中国智能体（AI Agent）最佳应用实践》报告。报告预计，仅中国AI Agent市场规模将由2025年的2.6万亿元增至2030年的20.1万亿元，其中B端是驱动市场增长的主体变量，长期贡献约九成收入。\n\n　　水大鱼大。在未来几年中国AI Agent市场实现爆发式增长的过程中，我们期待以千问办公为代表的办公智能体能够持续进化，抓住这次数十年难遇的...",
+      "highlights": [
+        "就在前不久，沙利文联合头豹研究院发布了《2026年中国智能体（AI Agent）最佳应用实践》报告",
+        "报告预计，仅中国AI Agent市场规模将由2025年的2.6万亿元增至2030年的20.1万亿元，其中B端是驱动市场增长的主体变量，长期贡献约九成收入",
+        "在未来几年中国AI Agent市场实现爆发式增长的过程中，我们期待以千问办公为代表的办公智能体能够持续进化，抓住这次数十年难遇的时代机遇，带领中国企业服务市场真正迎来一次质变"
+      ],
+      "url": "https://k.sina.com.cn/article_5953740931_162dee08306703xpjg.html?from=tech",
+      "source": "k.sina.com.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-05T20:34:12Z"
+    },
+    {
+      "id": "e2f4fbb7992d",
+      "title": "黑石启动60亿英镑地产平台退出计划 私募股权撤退窗口渐启？",
+      "summary": "公开数据显示，2023年，全球私募股权退出交易额同比下降44%，2024年交易数量小幅回升但仍处五年低位。\n\n2025年被贝恩公司称为是私募股权终于“站稳脚跟”的一年，同时强调这是一场“K型复苏”——退出和交易金额明显回升，但复苏面较窄，分销水平依然低迷。\n\n来到2026年，市场普遍认为IPO窗口存在阶段性回暖，退出活动有所改善，但市场依然波动性较大，今年来的私募退出活动集中在优质资产和定制化的交...",
+      "highlights": [
+        "公开数据显示，2023年，全球私募股权退出交易额同比下降44%，2024年交易数量小幅回升但仍处五年低位",
+        "2025年被贝恩公司称为是私募股权终于“站稳脚跟”的一年，同时强调这是一场“K型复苏”——退出和交易金额明显回升，但复苏面较窄，分销水平依然低迷",
+        "来到2026年，市场普遍认为IPO窗口存在阶段性回暖，退出活动有所改善，但市场依然波动性较大，今年来的私募退出活动集中在优质资产和定制化的交易流程"
+      ],
+      "url": "https://www.cls.cn/detail/2419195",
+      "source": "cls.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-06T12:00:00Z"
+    },
+    {
+      "id": "edbb972b73f0",
+      "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
+      "summary": "Meta and Google didn't provide comments for this story. Representatives from Anthropic, OpenAI and Google didn't respond to requests for comment.\n\nNot all model updates are created equal.\n\nUnlike Open...",
+      "highlights": [
+        "Meta and Google didn't provide comments for this story. Representatives from Anthropic, OpenAI and Google didn't respond to requests for comment.",
+        "Not all model updates are created equal.",
+        "Unlike OpenAI's GPT-6 Astra, the various rollouts this week from Anthropic, Meta and Google represented \"point releases,\" Faro said. That means the companies were upgrading an existing AI model rather than building a completely new one. [...] First it was updates to Anthropic's Fable and Mythos. Then came model enhancements from Meta and Google. OpenAI followed suit by releasing GPT-6 Astra."
+      ],
+      "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+      "source": "cnbc.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-06T12:00:01Z"
+    },
+    {
+      "id": "dee99d0b3241",
+      "title": "英伟达129亿美元收购 Hugging Face，暴露关键 AI 芯片缺口",
+      "summary": "博通对云巨头的核心卖点在于“效率”：其芯片围绕单一客户的特定算力需求量身设计，与英伟达为多种工作负载服务的通用架构形成鲜明对照。Motley Fool 在财报对比中指出，当云厂商的资本开支更多流向自研或合作定制芯片，而非采购通用 GPU 时，这些真实支出比任何“供应商中立”的公开表态更具信号价值。\n\n延伸阅读：Polygon 推出加密捐赠通道，支持向尼泊尔灾害救助基金捐款\n\n### 投资者接下来看...",
+      "highlights": [
+        "博通对云巨头的核心卖点在于“效率”：其芯片围绕单一客户的特定算力需求量身设计，与英伟达为多种工作负载服务的通用架构形成鲜明对照",
+        "Motley Fool 在财报对比中指出，当云厂商的资本开支更多流向自研或合作定制芯片，而非采购通用 GPU 时，这些真实支出比任何“供应商中立”的公开表态更具信号价值",
+        "延伸阅读：Polygon 推出加密捐赠通道，支持向尼泊尔灾害救助基金捐款"
+      ],
+      "url": "https://yellow.com/zh/news/%E8%8B%B1%E4%BC%9F%E8%BE%BE129%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD-hugging-face%EF%BC%8C%E6%9A%B4%E9%9C%B2%E5%85%B3%E9%94%AE-ai-%E8%8A%AF%E7%89%87%E7%BC%BA%E5%8F%A3",
+      "source": "yellow.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-06T22:15:06Z"
+    },
+    {
+      "id": "c0308e5bc66b",
+      "title": "具身智能的 iPhone时刻要来了吗？",
+      "summary": "Image 1: 36氪\n\n[](\n\n登录\n\n搜索\n\n   36氪Auto 数字时氪 未来消费 智能涌现 未来城市 启动Power on 36氪出海 36氪研究院 潮生TIDE 36氪企服点评 36氪财经 职场bonus 36碳 后浪研究所 暗涌Waves 硬氪 氪睿研究院  媒体品牌 \n   企业号 企服点评 36Kr研究院 36Kr创新咨询  企业服务 \n   核心服务 城市之窗  政府服务 ...",
+      "highlights": [
+        "Image 1: 36氪",
+        "36氪Auto 数字时氪 未来消费 智能涌现 未来城市 启动Power on 36氪出海 36氪研究院 潮生TIDE 36氪企服点评 36氪财经 职场bonus 36碳 后浪研究所 暗涌Waves 硬氪 氪睿研究院  媒体品牌",
+        "企业号 企服点评 36Kr研究院 36Kr创新咨询  企业服务"
+      ],
+      "url": "https://m.36kr.com/p/3893816015878664",
+      "source": "m.36kr.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-06T20:49:37Z"
+    },
+    {
+      "id": "c0a4d17b7b04",
+      "title": "年度AI论文，全球三大顶尖模型的防蒸馏机制全面告破：小模型“套出”大模型隐藏思维链，Kimi-K3重现概率异常-36氪",
+      "summary": "今天，由 MATS program 研究员 Alexander Panfilov 领衔，马克斯·普朗克智能系统研究所、图宾根 ELLIS 研究所和安全公司 Snyk 联合发表题为《Stealing Reasoning Traces from Proprietary LLM APIs》（从专有大语言模型API中窃取推理轨迹）论文（arXiv:2608.09867），目前社交平台的阅读量已超过 210...",
+      "highlights": [
+        "今天，由 MATS program 研究员 Alexander Panfilov 领衔，马克斯·普朗克智能系统研究所、图宾根 ELLIS 研究所和安全公司 Snyk 联合发表题为《Stealing Reasoning Traces from Proprietary LLM APIs》（从专有大语言模型API中窃取推理轨迹）论文（arXiv:2608.09867），目前社交平台的阅读量已超过 210 万",
+        "这篇 116 页的研究详细披露了目前三大前沿 AI 模型厂商（Anthropic、OpenAI 、Google）的API 中普遍存在严重的密码学旁路漏洞：",
+        "攻击者无需破解底层加密算法，仅通过轻量级模型的简单引导，就能从加密推理块中恢复并转录出顶级大模型原本被隐藏的思维链数据"
+      ],
+      "url": "https://m.36kr.com/p/3936193723104388",
+      "source": "m.36kr.com",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-09-06T00:00:32Z"
+    },
+    {
+      "id": "40bc7811c61c",
+      "title": "Anthropic, OpenAI, Meta and Google All Shipped New AI Models in One Week - Startup Fortune",
+      "summary": "how often it reuses context - and whether the model burns output tokens while reasoning before it gives you an answer. [...] Home › Ai\n\n# Anthropic, OpenAI, Meta and Google All Shipped New AI Models i...",
+      "highlights": [
+        "how often it reuses context - and whether the model burns output tokens while reasoning before it gives you an answer. [...] Home › Ai",
+        "# Anthropic, OpenAI, Meta and Google All Shipped New AI Models in One Week",
+        "Anthropic, OpenAI, Meta and Google all shipped new AI models in the same week in early September 2026, prompting CNBC to describe a new phenomenon: model fatigue. Runpod CEO Zhen Lu says the pace is disorienting IT buyers, even as over 1,100 lab employees have separately petitioned Washington to help pace frontier AI development."
+      ],
+      "url": "https://startupfortune.com/anthropic-openai-meta-and-google-all-shipped-new-ai-models-in-one-week",
+      "source": "startupfortune.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-06T13:24:12Z"
+    },
+    {
+      "id": "67fcdb766270",
+      "title": "昨夜今晨：优游国际平台注册AI大模型升级 优游国际平台注册量子计算突破",
+      "summary": "2026年5月11日驱动中国昨夜今晨，优游国际平台注册在AI大模型和量子计算领域取得重大进展，同时全球科技巨头发布最新产品和战略合作。",
+      "highlights": [
+        "2026年5月11日驱动中国昨夜今晨，优游国际平台注册在AI大模型和量子计算领域取得重大进展，同时全球科技巨头发布最新产品和战略合作"
+      ],
+      "url": "https://m.ttplus.cn/wiki-cw0KMnErfO.html",
+      "source": "m.ttplus.cn",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-05T15:00:00Z"
+    },
+    {
+      "id": "4898e3ad5f6d",
+      "title": "GPT-6 Astra Launches at $10/$50 as 4 AI Labs Ship [2026]",
+      "summary": "GPT-6 Astra debuts at $10/$50 per million tokens as Anthropic, Meta and Google all ship new AI models in the same 72-hour window.",
+      "highlights": [
+        "GPT-6 Astra debuts at $10/$50 per million tokens as Anthropic, Meta and Google all ship new AI models in the same 72-hour window."
+      ],
+      "url": "https://tech-insider.org/gpt-6-astra-launch-four-ai-labs-september-2026",
+      "source": "tech-insider.org",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-05T19:00:00Z"
+    },
+    {
+      "id": "2020906b4782",
+      "title": "昨夜今晨：龙8体育唯一官网相关动态：AI模型发布与芯片突破引领科技圈- 体坛网_体坛+",
+      "summary": "2026年5月16日星期六驱动中国昨夜今晨. 龙8体育唯一官网相关图片. 随着龙8体育唯一官网持续跟进全球科技前沿动态，多个领域在昨夜今晨涌现重磅进展。从人工智能大模型",
+      "highlights": [
+        "2026年5月16日星期六驱动中国昨夜今晨. 龙8体育唯一官网相关图片. 随着龙8体育唯一官网持续跟进全球科技前沿动态，多个领域在昨夜今晨涌现重磅进展"
+      ],
+      "url": "https://m.ttplus.cn/baotou/wiki/news/e2hqCHQW.html",
+      "source": "m.ttplus.cn",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-05T16:00:00Z"
+    },
+    {
+      "id": "0490ed1ffad0",
+      "title": "云顶国际下载网址联袂发布新一代AI大模型，多项基准超越GPT-4o",
+      "summary": "2026年5月25日，云顶国际下载网址联合推出全新原生全模态大模型，参数规模达1.8万亿，在MMLU、MATH等评测中均领先竞品。",
+      "highlights": [
+        "2026年5月25日，云顶国际下载网址联合推出全新原生全模态大模型，参数规模达1.8万亿，在MMLU、MATH等评测中均领先竞品"
+      ],
+      "url": "https://m.ttplus.cn/wiki/V8nLIDkRT",
+      "source": "m.ttplus.cn",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-05T13:00:00Z"
+    },
+    {
+      "id": "f43ac4400d65",
+      "title": "原创 26.5亿增资的背后：理想建成无法复制的技术墙",
+      "summary": "首页\n 新车·资讯\n 试驾·评测\n 调查·评论\n 质量·召回\n 数据·排行\n 大咖·访谈\n 新能源\n 智能汽车\n\n 首页\n 新车·资讯\n 试驾·评测\n 调查·评论\n 质量·召回\n\n# 原创26.5亿增资的背后：理想建成无法复制的技术墙\n\n作者：汽车大观 时间：2026-09-05 浏览量：87902\n\n今年以来，理想几乎把过去几年最重要的产品重新做了一遍：5月换L9，6月换L8，7 月换L6，纯电...",
+      "highlights": [
+        "# 原创26.5亿增资的背后：理想建成无法复制的技术墙",
+        "作者：汽车大观 时间：2026-09-05 浏览量：87902",
+        "今年以来，理想几乎把过去几年最重要的产品重新做了一遍：5月换L9，6月换L8，7 月换L6，纯电产品线同步迭代"
+      ],
+      "url": "https://www.auto-sight.com/a/pinpai/2026/0905/6912.html",
+      "source": "auto-sight.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-09-05T12:00:00Z"
+    },
+    {
+      "id": "14a25f1b2409",
+      "title": "Genesys接入八家AI伙伴，Adobe能力预计2027年推出",
+      "summary": "Sierra则属于专业智能体层。企业可以让Sierra智能体与Genesys自己的Agentic Virtual Agents进入同一客户旅程，由Genesys Cloud协调何时调用不同智能体；这描述的是跨产品编排关系，不是把Sierra变成Genesys自研功能。\n\n目前可以确定的是，Genesys在同一天把八家公司纳入一份生态扩展公告，其中六家伙伴的相关能力已可用，ElevenLabs和Ad...",
+      "highlights": [
+        "Sierra则属于专业智能体层",
+        "企业可以让Sierra智能体与Genesys自己的Agentic Virtual Agents进入同一客户旅程，由Genesys Cloud协调何时调用不同智能体；这描述的是跨产品编排关系，不是把Sierra变成Genesys自研功能",
+        "目前可以确定的是，Genesys在同一天把八家公司纳入一份生态扩展公告，其中六家伙伴的相关能力已可用，ElevenLabs和Adobe分别处于后续发布阶段，更深层A2A互操作还有单独排期"
+      ],
+      "url": "https://quasa.io/zh/media/genesysyi-ci-jie-ru-ba-jia-aihuo-ban-dan-adobeneng-li-yao-deng-dao-ming-nian",
+      "source": "quasa.io",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-06T08:00:00Z"
+    },
+    {
+      "id": "55a3cd9d02ba",
+      "title": "对话无界动力张玉峰：具身智能5年后有望对标成年人劳动能力|亚布力论坛|扫地机器人|智能驾驶|新浪科技|成都市_手机新浪网",
+      "summary": "## 新浪科技 产经\n\n  \n\n新浪科技讯 9月5日晚间消息，2026年亚布力论坛夏季年会于9月4-6日在成都召开。会议期间，新浪科技与无界动力创始人兼CEO张玉峰展开对话。他表示，如果将具身智能与智能驾驶行业做类比，当前的具身智能大约处于2019年前后的自动驾驶阶段。\n\n他预判5年后，具身智能有机会达到一个成年人“面向劳动、能思考会劳动”的水平，并且可依赖、可信赖。在家庭场景方面，张玉峰认为，机...",
+      "highlights": [
+        "新浪科技讯 9月5日晚间消息，2026年亚布力论坛夏季年会于9月4-6日在成都召开",
+        "会议期间，新浪科技与无界动力创始人兼CEO张玉峰展开对话",
+        "他表示，如果将具身智能与智能驾驶行业做类比，当前的具身智能大约处于2019年前后的自动驾驶阶段"
+      ],
+      "url": "https://finance.sina.cn/chanjing/gsxw/2026-09-06/detail-iniqvzve6962934.d.html?vt=4&cid=76478&node_id=76478",
+      "source": "finance.sina.cn",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-06T09:53:53Z"
+    },
+    {
+      "id": "907a6075b7e9",
+      "title": "（经济观察）广东具身智能机器人加速走向市场_搜狐网",
+      "summary": "## （经济观察）广东具身智能机器人加速走向市场\n\n搜狐资讯\n\n广州9月4日电 (记者 孙秋霞)第二十一届中国国际中小企业博览会(简称“中博会”)正在广州举行，在具身智能展区，广东机器人龙头企业携核心产品亮相。从“跑跳达人”到“干活能手”，广东正依托核心技术攻关、多元场景开放与全链生态协同，推动具身智能机器人规模化落地。\n\n广东是中国具身智能机器人产业规模化、商业化落地的主要集聚区之一，综合实力处...",
+      "highlights": [
+        "## （经济观察）广东具身智能机器人加速走向市场",
+        "广州9月4日电 (记者 孙秋霞)第二十一届中国国际中小企业博览会(简称“中博会”)正在广州举行，在具身智能展区，广东机器人龙头企业携核心产品亮相",
+        "从“跑跳达人”到“干活能手”，广东正依托核心技术攻关、多元场景开放与全链生态协同，推动具身智能机器人规模化落地"
+      ],
+      "url": "https://m.sohu.com/a/1072194252_121478296?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-05T14:21:04Z"
+    },
+    {
+      "id": "2d1702455bd7",
+      "title": "金龙备用入口网址发布企业级AI Agent平台V3.0，以深度推理与多模态融合打开智能自动化新空间",
+      "summary": "近年来，随着大语言模型技术的快速迭代，企业级AI应用正从简单的对话问答转向具备自主规划、执行与反思能力的智能体（Agent）形态。据市场调研机构预测，2026年全球AI",
+      "highlights": [
+        "近年来，随着大语言模型技术的快速迭代，企业级AI应用正从简单的对话问答转向具备自主规划、执行与反思能力的智能体（Agent）形态",
+        "据市场调研机构预测，2026年全球AI"
+      ],
+      "url": "https://m.ttplus.cn/wiki3718073809.shtml",
+      "source": "m.ttplus.cn",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-06T10:00:00Z"
+    },
+    {
+      "id": "e5f7c42b6be8",
+      "title": "OpenAI发布GPT-6 Astra，黄仁勋表示AGI已经到来",
+      "summary": "2026年9月7日凌晨，NVIDIA首席执行官黄仁勋在X平台发布了一条帖子。他在祝贺OpenAI发布最新大模型GPT-6 Astra的同时，抛出了一个极具争议的观点：“AGI已经到来。”.",
+      "highlights": [
+        "2026年9月7日凌晨，NVIDIA首席执行官黄仁勋在X平台发布了一条帖子",
+        "他在祝贺OpenAI发布最新大模型GPT-6 Astra的同时，抛出了一个极具争议的观点：“AGI已经到来"
+      ],
+      "url": "https://www.eet-china.com/news/202609078236.html",
+      "source": "eet-china.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-07T03:00:00Z"
+    },
+    {
+      "id": "3e119e1a8f80",
+      "title": "AI融资热潮下的投资人：“不迅速决策 机会就没有了” _ 东方财富网",
+      "summary": "# AI融资热潮下的投资人：“不迅速决策 机会就没有了”\n\n第一财经 3小时前 评论\n\n论坛现场，包括丛永罡在内的多位投资人分享了AI风口下“进与退”的看法。他们认为，AI领域的泡沫某种意义上是产业活跃的信号，目前还在可接受范围之内。此外，AI项目投资更是一场长跑，考验决心与耐心。\n\n决策加速，但投资逻辑未变\n\nAI领域内，大模型赛道融资最吸金，且集中于头部公司DeepSeek、阶跃星辰、月之暗面...",
+      "highlights": [
+        "# AI融资热潮下的投资人：“不迅速决策 机会就没有了”",
+        "第一财经 3小时前 评论",
+        "论坛现场，包括丛永罡在内的多位投资人分享了AI风口下“进与退”的看法"
+      ],
+      "url": "https://wap.eastmoney.com/a/202609073866204040.html",
+      "source": "wap.eastmoney.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-06T03:00:00Z"
+    },
+    {
+      "id": "8308c5eba955",
+      "title": "Claude攻克黎曼猜想历史大关，人类顶尖学者与机器联手书写跨物种神话",
+      "summary": "AI精选出的Claude攻克黎曼猜想历史大关，人类顶尖学者与机器联手书写跨物种神话一文，Anthropic的AI模型Claude在黎曼猜想证明上取得重大突破，确认67.25%的zeta零点",
+      "highlights": [
+        "AI精选出的Claude攻克黎曼猜想历史大关，人类顶尖学者与机器联手书写跨物种神话一文，Anthropic的AI模型Claude在黎曼猜想证明上取得重大突破，确认67.25%的zeta零点"
+      ],
+      "url": "https://article.9466.com/news/7lvd3GKE",
+      "source": "article.9466.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-07T02:00:00Z"
+    },
+    {
+      "id": "b98bf7549a9e",
+      "title": "Claude黎曼猜想最大突破 已被人类数学家验证",
+      "summary": "Claude在黎曼猜想（RiemannHypothesis）上的相关证明，已被人类数学家彻底验证。这次，数学家YounessLamzouri宣布Claude的证明结果确凿无误，而且给出了一个更简洁更",
+      "highlights": [
+        "Claude在黎曼猜想（RiemannHypothesis）上的相关证明，已被人类数学家彻底验证",
+        "这次，数学家YounessLamzouri宣布Claude的证明结果确凿无误，而且给出了一个更简洁更"
+      ],
+      "url": "https://m.cnbeta.com.tw/view/1576618.htm",
+      "source": "m.cnbeta.com.tw",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-09-06T08:00:00Z"
+    },
+    {
+      "id": "823d5b46325c",
+      "title": "星云科技发布3亿首页大模型：MMLU 93.7分、HumanEval 92.1%，刷新多项基准测试纪录-体坛网_体坛+",
+      "summary": "2026年5月15日，星云科技在年度AI开发者大会上正式发布其最新一代大语言模型——3亿首页。该模型以1.8T参数、15T tokens的多模态高质量数据训练，在MMLU（大规模多任务",
+      "highlights": [
+        "2026年5月15日，星云科技在年度AI开发者大会上正式发布其最新一代大语言模型——3亿首页",
+        "该模型以1.8T参数、15T tokens的多模态高质量数据训练，在MMLU（大规模多任务"
+      ],
+      "url": "https://m.ttplus.cn/3389wiki40.htm",
+      "source": "m.ttplus.cn",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-09-06T17:00:00Z"
+    },
+    {
+      "id": "2a9eb8618585",
+      "title": "【AI Agent(智能体)】企业级应用开发",
+      "summary": "AI Agent(智能体)正成为新一代人工智能应用的核心载体. ... 浩鲸云(中兴通讯和阿里巴巴共同投资)智能产品线负责人擅长:...",
+      "highlights": [
+        "AI Agent(智能体)正成为新一代人工智能应用的核心载体. ... 浩鲸云(中兴通讯和阿里巴巴共同投资)智能产品线负责人擅长:..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIDzWs0le9kOGMMsvwLVrY4VqXa8Fplpd92nSjlPIyUNVXHj-uVPDtNaMATVshQepLH_VbWqgVOYAclFoG2uLk3in4QCGf2FKI2-5fLpiH6Yj9cU5cSBUoWHm357UZEvjTh032PJsEmGNGxFGveIYGWG3NL1xQTaRBWLaxiR3h56JqiyeG7y7fDWaPrgzMTEte8tcTLoOGYMZOJBjQH7pCxQ..&amp;type=2&amp;query=AI Agent %E6%99%BA%E8%83%BD%E4%BD%93 %E4%BA%A7%E5%93%81&amp;token=EDE71FD2B2B95DC68184D85FDBC8E96A82F1568B6A9E5337",
+      "source": "微信公众号",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-09-05T22:01:23Z"
+    },
+    {
+      "id": "1f4ffb9d014a",
+      "title": "【AI Agent(智能体)】企业级应用开发",
+      "summary": "AI Agent(智能体)正成为新一代人工智能应用的核心载体. ... 浩鲸云(中兴通讯和阿里巴巴共同投资)智能产品线负责人擅长:...",
+      "highlights": [
+        "AI Agent(智能体)正成为新一代人工智能应用的核心载体. ... 浩鲸云(中兴通讯和阿里巴巴共同投资)智能产品线负责人擅长:..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkI_Fr67YaWAFuMMsvwLVrY4VqXa8Fplpd92nSjlPIyUNVXHj-uVPDtNaMATVshQepLH_VbWqgVOYAclFoG2uLk3in4QCGf2FKI2-5fLpiH6Yj9cU5cSBUoWFvJjtryz4Qga6stlm3L1N5OZ4Yki_WSi541PlsQoFdik-vqVkKogyTBpT_2eEd2-UiWVwzOw9_knyKISFGLl87FcvUoAZZH7Q..&amp;type=2&amp;query=AI Agent %E6%99%BA%E8%83%BD%E4%BD%93 %E4%BA%A7%E5%93%81&amp;token=EDE7906AFDF61289CECB941097B6F76ECE7FAB9E6A9E534B",
+      "source": "微信公众号",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-09-05T22:01:23Z"
+    },
+    {
+      "id": "26fadb1943ac",
+      "title": "博亚体育app下载最新平台领跑企业级AI战场：全栈大模型平台重塑行业效率-体坛网_体坛+",
+      "summary": "博亚体育app下载最新平台正式发布全栈大模型平台，整合算力、数据与模型服务，推动企业从单点实验走向规模化部署。本文深度解析其技术基座、市场定位及对AI产业格局的",
+      "highlights": [
+        "博亚体育app下载最新平台正式发布全栈大模型平台，整合算力、数据与模型服务，推动企业从单点实验走向规模化部署",
+        "本文深度解析其技术基座、市场定位及对AI产业格局的"
+      ],
+      "url": "https://m.ttplus.cn/yulong/wiki/learn/20260905/sBU30M2P1d8-0P9FS2.html",
+      "source": "m.ttplus.cn",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-09-05T20:00:00Z"
+    },
+    {
+      "id": "07c32bbd957a",
+      "title": "大摩闭门会：MiniMax、智谱ARR双双狂奔，模型竞争将进入分层淘汰赛",
+      "summary": "摩根士丹利近期举办闭门会，就国内AI大模型公司及互联网大厂最新动态进行深度交流。纪要显示，MiniMax与智谱两家头部大模型公司均保持高速收入增长，MiniMax 8月底ARR",
+      "highlights": [
+        "摩根士丹利近期举办闭门会，就国内AI大模型公司及互联网大厂最新动态进行深度交流",
+        "纪要显示，MiniMax与智谱两家头部大模型公司均保持高速收入增长，MiniMax 8月底ARR"
+      ],
+      "url": "https://news.futunn.com/post/78855256/morgan-stanley-private-briefing-minimax-and-zhipu-ai-see-surge",
+      "source": "news.futunn.com",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-09-05T13:00:00Z"
+    },
+    {
+      "id": "19e56305c80d",
+      "title": "李华博士荣获2026年度188体育平台电玩创新大奖：在人工智能领域取得突破性进展",
+      "summary": "jnh20261.com2026年5月22日，188体育平台电玩科技创始人李华博士凭借188体育平台电玩技术荣获2026年度188体育平台电玩创新大奖，该技术解决了AI算力瓶颈，",
+      "highlights": [
+        "jnh20261.com2026年5月22日，188体育平台电玩科技创始人李华博士凭借188体育平台电玩技术荣获2026年度188体育平台电玩创新大奖，该技术解决了AI算力瓶颈，"
+      ],
+      "url": "https://www.ttplus.cn/wiki/38080384.aspx",
+      "source": "ttplus.cn",
+      "category": "芯片硬件",
+      "importance": 2,
+      "publishedAt": "2026-09-05T12:00:00Z"
+    }
+  ],
+  "today": [
+    {
+      "id": "e5f7c42b6be8",
+      "title": "OpenAI发布GPT-6 Astra，黄仁勋表示AGI已经到来",
+      "summary": "2026年9月7日凌晨，NVIDIA首席执行官黄仁勋在X平台发布了一条帖子。他在祝贺OpenAI发布最新大模型GPT-6 Astra的同时，抛出了一个极具争议的观点：“AGI已经到来。”.",
+      "highlights": [
+        "2026年9月7日凌晨，NVIDIA首席执行官黄仁勋在X平台发布了一条帖子",
+        "他在祝贺OpenAI发布最新大模型GPT-6 Astra的同时，抛出了一个极具争议的观点：“AGI已经到来"
+      ],
+      "url": "https://www.eet-china.com/news/202609078236.html",
+      "source": "eet-china.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-07T03:00:00Z"
+    },
+    {
+      "id": "8308c5eba955",
+      "title": "Claude攻克黎曼猜想历史大关，人类顶尖学者与机器联手书写跨物种神话",
+      "summary": "AI精选出的Claude攻克黎曼猜想历史大关，人类顶尖学者与机器联手书写跨物种神话一文，Anthropic的AI模型Claude在黎曼猜想证明上取得重大突破，确认67.25%的zeta零点",
+      "highlights": [
+        "AI精选出的Claude攻克黎曼猜想历史大关，人类顶尖学者与机器联手书写跨物种神话一文，Anthropic的AI模型Claude在黎曼猜想证明上取得重大突破，确认67.25%的zeta零点"
+      ],
+      "url": "https://article.9466.com/news/7lvd3GKE",
+      "source": "article.9466.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-07T02:00:00Z"
+    }
+  ],
+  "week": [
+    {
+      "id": "e5f7c42b6be8",
+      "title": "OpenAI发布GPT-6 Astra，黄仁勋表示AGI已经到来",
+      "summary": "2026年9月7日凌晨，NVIDIA首席执行官黄仁勋在X平台发布了一条帖子。他在祝贺OpenAI发布最新大模型GPT-6 Astra的同时，抛出了一个极具争议的观点：“AGI已经到来。”.",
+      "highlights": [
+        "2026年9月7日凌晨，NVIDIA首席执行官黄仁勋在X平台发布了一条帖子",
+        "他在祝贺OpenAI发布最新大模型GPT-6 Astra的同时，抛出了一个极具争议的观点：“AGI已经到来"
+      ],
+      "url": "https://www.eet-china.com/news/202609078236.html",
+      "source": "eet-china.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-07T03:00:00Z"
+    },
+    {
+      "id": "8308c5eba955",
+      "title": "Claude攻克黎曼猜想历史大关，人类顶尖学者与机器联手书写跨物种神话",
+      "summary": "AI精选出的Claude攻克黎曼猜想历史大关，人类顶尖学者与机器联手书写跨物种神话一文，Anthropic的AI模型Claude在黎曼猜想证明上取得重大突破，确认67.25%的zeta零点",
+      "highlights": [
+        "AI精选出的Claude攻克黎曼猜想历史大关，人类顶尖学者与机器联手书写跨物种神话一文，Anthropic的AI模型Claude在黎曼猜想证明上取得重大突破，确认67.25%的zeta零点"
+      ],
+      "url": "https://article.9466.com/news/7lvd3GKE",
+      "source": "article.9466.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-07T02:00:00Z"
+    }
+  ],
+  "month": [
     {
       "id": "69024d9eb0d5",
       "title": "宇树科技9天市值蒸发2164亿，“具身智能骗局论”站得住脚吗？",
@@ -148,439 +634,6 @@
       "category": "具身智能",
       "importance": 5,
       "publishedAt": "2026-09-06T20:49:37Z"
-    },
-    {
-      "id": "c0a4d17b7b04",
-      "title": "年度AI论文，全球三大顶尖模型的防蒸馏机制全面告破：小模型“套出”大模型隐藏思维链，Kimi-K3重现概率异常-36氪",
-      "summary": "今天，由 MATS program 研究员 Alexander Panfilov 领衔，马克斯·普朗克智能系统研究所、图宾根 ELLIS 研究所和安全公司 Snyk 联合发表题为《Stealing Reasoning Traces from Proprietary LLM APIs》（从专有大语言模型API中窃取推理轨迹）论文（arXiv:2608.09867），目前社交平台的阅读量已超过 210...",
-      "highlights": [
-        "今天，由 MATS program 研究员 Alexander Panfilov 领衔，马克斯·普朗克智能系统研究所、图宾根 ELLIS 研究所和安全公司 Snyk 联合发表题为《Stealing Reasoning Traces from Proprietary LLM APIs》（从专有大语言模型API中窃取推理轨迹）论文（arXiv:2608.09867），目前社交平台的阅读量已超过 210 万",
-        "这篇 116 页的研究详细披露了目前三大前沿 AI 模型厂商（Anthropic、OpenAI 、Google）的API 中普遍存在严重的密码学旁路漏洞：",
-        "攻击者无需破解底层加密算法，仅通过轻量级模型的简单引导，就能从加密推理块中恢复并转录出顶级大模型原本被隐藏的思维链数据"
-      ],
-      "url": "https://m.36kr.com/p/3936193723104388",
-      "source": "m.36kr.com",
-      "category": "前沿理论",
-      "importance": 5,
-      "publishedAt": "2026-09-06T00:00:32Z"
-    },
-    {
-      "id": "bf183af0cbb0",
-      "title": "彩运宝3.0版开始自研AI芯片测试，逐步降低对外部算力依赖-体坛网_体坛+",
-      "summary": "访问:jnh20268.com近期，彩运宝3.0版正式启动自研AI芯片在推荐系统中的测试，迈出减少对外部GPU供应商依赖的关键一步。本文从产业观察角度，分析该动作对供应链、算力",
-      "highlights": [
-        "访问:jnh20268.com近期，彩运宝3.0版正式启动自研AI芯片在推荐系统中的测试，迈出减少对外部GPU供应商依赖的关键一步",
-        "本文从产业观察角度，分析该动作对供应链、算力"
-      ],
-      "url": "https://www.ttplus.cn/wiki/314597742",
-      "source": "ttplus.cn",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-09-05T02:00:00Z"
-    },
-    {
-      "id": "67fcdb766270",
-      "title": "昨夜今晨：优游国际平台注册AI大模型升级 优游国际平台注册量子计算突破",
-      "summary": "2026年5月11日驱动中国昨夜今晨，优游国际平台注册在AI大模型和量子计算领域取得重大进展，同时全球科技巨头发布最新产品和战略合作。",
-      "highlights": [
-        "2026年5月11日驱动中国昨夜今晨，优游国际平台注册在AI大模型和量子计算领域取得重大进展，同时全球科技巨头发布最新产品和战略合作"
-      ],
-      "url": "https://m.ttplus.cn/wiki-cw0KMnErfO.html",
-      "source": "m.ttplus.cn",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-05T15:00:00Z"
-    },
-    {
-      "id": "4898e3ad5f6d",
-      "title": "GPT-6 Astra Launches at $10/$50 as 4 AI Labs Ship [2026]",
-      "summary": "GPT-6 Astra debuts at $10/$50 per million tokens as Anthropic, Meta and Google all ship new AI models in the same 72-hour window.",
-      "highlights": [
-        "GPT-6 Astra debuts at $10/$50 per million tokens as Anthropic, Meta and Google all ship new AI models in the same 72-hour window."
-      ],
-      "url": "https://tech-insider.org/gpt-6-astra-launch-four-ai-labs-september-2026",
-      "source": "tech-insider.org",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-05T19:00:00Z"
-    },
-    {
-      "id": "749fe1c39d89",
-      "title": "Nvidia Buys Hugging Face for $13 Billion, Plus 9 More Big ...",
-      "summary": "CDW CEO Christine Leahy framed the deal around a core thesis: „There is no AI strategy without a data strategy.“ The acquisition is not expected to materially impact CDW’s 2026 financial results and i...",
-      "highlights": [
-        "CDW CEO Christine Leahy framed the deal around a core thesis: „There is no AI strategy without a data strategy.“ The acquisition is not expected to materially impact CDW’s 2026 financial results and is expected to close in Q3 2026. Lovelytics had partnered with Interlock Equity in 2023 to accelerate growth prior to this exit.",
-        "## ServiceNow acquires Israeli AI startup Sweep in deal estimated at hundreds of millions [...] The deal is Palo Alto Networks’ seventh acquisition in 2026, following the $3.35 billion purchase of Chronosphere and $400 million acquisition of Koi. Console will be integrated into Cortex, Palo Alto’s AI-driven threat detection platform, leaving Sequoia-backed Serval — now valued at $1 billion — as the remaining category leader among AI IT service automation startups.",
-        "## Aquiline to take controlling stake in wealthtech platform Flourish [...] ServiceNow has acquired Israeli startup Sweep in a deal estimated at hundreds of millions of dollars, extending an aggressive AI acquisition spree that now totals more than $8 billion across at least seven Israeli-linked deals. Neither company has officially confirmed the transaction or its value. Sweep had raised $46 million in disclosed funding, including a $22.5 million Series B led by Insight Partners in May 2025."
-      ],
-      "url": "https://www.trendingtopics.eu/nvidia-buys-hugging-face-for-13-billion-plus-9-more-big-ma-deals-of-the-week",
-      "source": "trendingtopics.eu",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-09-05T06:00:31Z"
-    },
-    {
-      "id": "2020906b4782",
-      "title": "昨夜今晨：龙8体育唯一官网相关动态：AI模型发布与芯片突破引领科技圈- 体坛网_体坛+",
-      "summary": "2026年5月16日星期六驱动中国昨夜今晨. 龙8体育唯一官网相关图片. 随着龙8体育唯一官网持续跟进全球科技前沿动态，多个领域在昨夜今晨涌现重磅进展。从人工智能大模型",
-      "highlights": [
-        "2026年5月16日星期六驱动中国昨夜今晨. 龙8体育唯一官网相关图片. 随着龙8体育唯一官网持续跟进全球科技前沿动态，多个领域在昨夜今晨涌现重磅进展"
-      ],
-      "url": "https://m.ttplus.cn/baotou/wiki/news/e2hqCHQW.html",
-      "source": "m.ttplus.cn",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-05T16:00:00Z"
-    },
-    {
-      "id": "0490ed1ffad0",
-      "title": "云顶国际下载网址联袂发布新一代AI大模型，多项基准超越GPT-4o",
-      "summary": "2026年5月25日，云顶国际下载网址联合推出全新原生全模态大模型，参数规模达1.8万亿，在MMLU、MATH等评测中均领先竞品。",
-      "highlights": [
-        "2026年5月25日，云顶国际下载网址联合推出全新原生全模态大模型，参数规模达1.8万亿，在MMLU、MATH等评测中均领先竞品"
-      ],
-      "url": "https://m.ttplus.cn/wiki/V8nLIDkRT",
-      "source": "m.ttplus.cn",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-05T13:00:00Z"
-    },
-    {
-      "id": "f43ac4400d65",
-      "title": "原创 26.5亿增资的背后：理想建成无法复制的技术墙",
-      "summary": "首页\n 新车·资讯\n 试驾·评测\n 调查·评论\n 质量·召回\n 数据·排行\n 大咖·访谈\n 新能源\n 智能汽车\n\n 首页\n 新车·资讯\n 试驾·评测\n 调查·评论\n 质量·召回\n\n# 原创26.5亿增资的背后：理想建成无法复制的技术墙\n\n作者：汽车大观 时间：2026-09-05 浏览量：87902\n\n今年以来，理想几乎把过去几年最重要的产品重新做了一遍：5月换L9，6月换L8，7 月换L6，纯电...",
-      "highlights": [
-        "# 原创26.5亿增资的背后：理想建成无法复制的技术墙",
-        "作者：汽车大观 时间：2026-09-05 浏览量：87902",
-        "今年以来，理想几乎把过去几年最重要的产品重新做了一遍：5月换L9，6月换L8，7 月换L6，纯电产品线同步迭代"
-      ],
-      "url": "https://www.auto-sight.com/a/pinpai/2026/0905/6912.html",
-      "source": "auto-sight.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-09-05T12:00:00Z"
-    },
-    {
-      "id": "14a25f1b2409",
-      "title": "Genesys接入八家AI伙伴，Adobe能力预计2027年推出",
-      "summary": "Sierra则属于专业智能体层。企业可以让Sierra智能体与Genesys自己的Agentic Virtual Agents进入同一客户旅程，由Genesys Cloud协调何时调用不同智能体；这描述的是跨产品编排关系，不是把Sierra变成Genesys自研功能。\n\n目前可以确定的是，Genesys在同一天把八家公司纳入一份生态扩展公告，其中六家伙伴的相关能力已可用，ElevenLabs和Ad...",
-      "highlights": [
-        "Sierra则属于专业智能体层",
-        "企业可以让Sierra智能体与Genesys自己的Agentic Virtual Agents进入同一客户旅程，由Genesys Cloud协调何时调用不同智能体；这描述的是跨产品编排关系，不是把Sierra变成Genesys自研功能",
-        "目前可以确定的是，Genesys在同一天把八家公司纳入一份生态扩展公告，其中六家伙伴的相关能力已可用，ElevenLabs和Adobe分别处于后续发布阶段，更深层A2A互操作还有单独排期"
-      ],
-      "url": "https://quasa.io/zh/media/genesysyi-ci-jie-ru-ba-jia-aihuo-ban-dan-adobeneng-li-yao-deng-dao-ming-nian",
-      "source": "quasa.io",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-06T08:00:00Z"
-    },
-    {
-      "id": "55a3cd9d02ba",
-      "title": "对话无界动力张玉峰：具身智能5年后有望对标成年人劳动能力|亚布力论坛|扫地机器人|智能驾驶|新浪科技|成都市_手机新浪网",
-      "summary": "## 新浪科技 产经\n\n  \n\n新浪科技讯 9月5日晚间消息，2026年亚布力论坛夏季年会于9月4-6日在成都召开。会议期间，新浪科技与无界动力创始人兼CEO张玉峰展开对话。他表示，如果将具身智能与智能驾驶行业做类比，当前的具身智能大约处于2019年前后的自动驾驶阶段。\n\n他预判5年后，具身智能有机会达到一个成年人“面向劳动、能思考会劳动”的水平，并且可依赖、可信赖。在家庭场景方面，张玉峰认为，机...",
-      "highlights": [
-        "新浪科技讯 9月5日晚间消息，2026年亚布力论坛夏季年会于9月4-6日在成都召开",
-        "会议期间，新浪科技与无界动力创始人兼CEO张玉峰展开对话",
-        "他表示，如果将具身智能与智能驾驶行业做类比，当前的具身智能大约处于2019年前后的自动驾驶阶段"
-      ],
-      "url": "https://finance.sina.cn/chanjing/gsxw/2026-09-06/detail-iniqvzve6962934.d.html?vt=4&cid=76478&node_id=76478",
-      "source": "finance.sina.cn",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-09-06T09:53:53Z"
-    },
-    {
-      "id": "907a6075b7e9",
-      "title": "（经济观察）广东具身智能机器人加速走向市场_搜狐网",
-      "summary": "## （经济观察）广东具身智能机器人加速走向市场\n\n搜狐资讯\n\n广州9月4日电 (记者 孙秋霞)第二十一届中国国际中小企业博览会(简称“中博会”)正在广州举行，在具身智能展区，广东机器人龙头企业携核心产品亮相。从“跑跳达人”到“干活能手”，广东正依托核心技术攻关、多元场景开放与全链生态协同，推动具身智能机器人规模化落地。\n\n广东是中国具身智能机器人产业规模化、商业化落地的主要集聚区之一，综合实力处...",
-      "highlights": [
-        "## （经济观察）广东具身智能机器人加速走向市场",
-        "广州9月4日电 (记者 孙秋霞)第二十一届中国国际中小企业博览会(简称“中博会”)正在广州举行，在具身智能展区，广东机器人龙头企业携核心产品亮相",
-        "从“跑跳达人”到“干活能手”，广东正依托核心技术攻关、多元场景开放与全链生态协同，推动具身智能机器人规模化落地"
-      ],
-      "url": "https://m.sohu.com/a/1072194252_121478296?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-09-05T14:21:04Z"
-    },
-    {
-      "id": "2d1702455bd7",
-      "title": "金龙备用入口网址发布企业级AI Agent平台V3.0，以深度推理与多模态融合打开智能自动化新空间",
-      "summary": "近年来，随着大语言模型技术的快速迭代，企业级AI应用正从简单的对话问答转向具备自主规划、执行与反思能力的智能体（Agent）形态。据市场调研机构预测，2026年全球AI",
-      "highlights": [
-        "近年来，随着大语言模型技术的快速迭代，企业级AI应用正从简单的对话问答转向具备自主规划、执行与反思能力的智能体（Agent）形态",
-        "据市场调研机构预测，2026年全球AI"
-      ],
-      "url": "https://m.ttplus.cn/wiki3718073809.shtml",
-      "source": "m.ttplus.cn",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-06T10:00:00Z"
-    },
-    {
-      "id": "d581f9c1c2d1",
-      "title": "AI算力荒倒逼国产突围：万城娱乐客户端安卓版下载以分布式投资重构芯片供应链，赋能2026智能终端生态",
-      "summary": "2026年5月，全球AI算力缺口仍在扩大。据Gartner最新报告，截至2026年第一季度，全球AI训练算力需求较2025年同期增长超过180%，而高端GPU供应仅增长35%。",
-      "highlights": [
-        "2026年5月，全球AI算力缺口仍在扩大",
-        "据Gartner最新报告，截至2026年第一季度，全球AI训练算力需求较2025年同期增长超过180%，而高端GPU供应仅增长35%"
-      ],
-      "url": "https://m.ttplus.cn/jpvmmwikip.shtml",
-      "source": "m.ttplus.cn",
-      "category": "芯片硬件",
-      "importance": 3,
-      "publishedAt": "2026-09-05T06:00:00Z"
-    },
-    {
-      "id": "e11c1751a8ef",
-      "title": "2026全球人工智能峰会启幕，彩票一分快三网站发布跨模态认知引擎",
-      "summary": "jnh20261.com2026年4月29日，全球人工智能峰会在旧金山开幕，彩票一分快三网站团队展示了跨模态认知引擎，该引擎在理解与推理任务上超越人类基准，引发行业关注。",
-      "highlights": [
-        "jnh20261.com2026年4月29日，全球人工智能峰会在旧金山开幕，彩票一分快三网站团队展示了跨模态认知引擎，该引擎在理解与推理任务上超越人类基准，引发行业关注"
-      ],
-      "url": "https://www.ttplus.cn/wiki-2026-09-05-eqyuojbk.html",
-      "source": "ttplus.cn",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-09-05T06:00:00Z"
-    },
-    {
-      "id": "f7987baaa378",
-      "title": "John Ternus takes the helm at Apple, as AI pressure hits | Fortune",
-      "summary": "- Atira, a Munich, Germany-based AI software company for industrial sales teams, raised $17.5 million in funding, including a $15 million seed round led by Accel and joined by UVC, Fortino, and Booom....",
-      "highlights": [
-        "- Atira, a Munich, Germany-based AI software company for industrial sales teams, raised $17.5 million in funding, including a $15 million seed round led by Accel and joined by UVC, Fortino, and Booom.",
-        "- askpolly, an Ottawa, Ontario-based Microsoft AI market-research company, raised $3 million in seed funding. Differential Ventures led the round and was joined by The 98 and Forum Ventures.",
-        "### PRIVATE EQUITY [...] Apple’s role in the private markets has been somewhat muted in the AI era. Far from a cutting-edge AI leader, the company’s a sometime acquirer (in January, Apple announced its almost $2 billion acquisition of audio AI startup Q.ai, its second-largest deal ever). A massive shift might be coming under Ternus’s leadership. As Herrera writes:"
-      ],
-      "url": "https://fortune.com/2026/09/04/john-ternus-takes-helm-apple-ai-pressure-hits",
-      "source": "fortune.com",
-      "category": "投并购",
-      "importance": 3,
-      "publishedAt": "2026-09-05T06:00:00Z"
-    },
-    {
-      "id": "b98bf7549a9e",
-      "title": "Claude黎曼猜想最大突破 已被人类数学家验证",
-      "summary": "Claude在黎曼猜想（RiemannHypothesis）上的相关证明，已被人类数学家彻底验证。这次，数学家YounessLamzouri宣布Claude的证明结果确凿无误，而且给出了一个更简洁更",
-      "highlights": [
-        "Claude在黎曼猜想（RiemannHypothesis）上的相关证明，已被人类数学家彻底验证",
-        "这次，数学家YounessLamzouri宣布Claude的证明结果确凿无误，而且给出了一个更简洁更"
-      ],
-      "url": "https://m.cnbeta.com.tw/view/1576618.htm",
-      "source": "m.cnbeta.com.tw",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-09-06T08:00:00Z"
-    },
-    {
-      "id": "823d5b46325c",
-      "title": "星云科技发布3亿首页大模型：MMLU 93.7分、HumanEval 92.1%，刷新多项基准测试纪录-体坛网_体坛+",
-      "summary": "2026年5月15日，星云科技在年度AI开发者大会上正式发布其最新一代大语言模型——3亿首页。该模型以1.8T参数、15T tokens的多模态高质量数据训练，在MMLU（大规模多任务",
-      "highlights": [
-        "2026年5月15日，星云科技在年度AI开发者大会上正式发布其最新一代大语言模型——3亿首页",
-        "该模型以1.8T参数、15T tokens的多模态高质量数据训练，在MMLU（大规模多任务"
-      ],
-      "url": "https://m.ttplus.cn/3389wiki40.htm",
-      "source": "m.ttplus.cn",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-09-06T17:00:00Z"
-    },
-    {
-      "id": "26fadb1943ac",
-      "title": "博亚体育app下载最新平台领跑企业级AI战场：全栈大模型平台重塑行业效率-体坛网_体坛+",
-      "summary": "博亚体育app下载最新平台正式发布全栈大模型平台，整合算力、数据与模型服务，推动企业从单点实验走向规模化部署。本文深度解析其技术基座、市场定位及对AI产业格局的",
-      "highlights": [
-        "博亚体育app下载最新平台正式发布全栈大模型平台，整合算力、数据与模型服务，推动企业从单点实验走向规模化部署",
-        "本文深度解析其技术基座、市场定位及对AI产业格局的"
-      ],
-      "url": "https://m.ttplus.cn/yulong/wiki/learn/20260905/sBU30M2P1d8-0P9FS2.html",
-      "source": "m.ttplus.cn",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-09-05T20:00:00Z"
-    },
-    {
-      "id": "07c32bbd957a",
-      "title": "大摩闭门会：MiniMax、智谱ARR双双狂奔，模型竞争将进入分层淘汰赛",
-      "summary": "摩根士丹利近期举办闭门会，就国内AI大模型公司及互联网大厂最新动态进行深度交流。纪要显示，MiniMax与智谱两家头部大模型公司均保持高速收入增长，MiniMax 8月底ARR",
-      "highlights": [
-        "摩根士丹利近期举办闭门会，就国内AI大模型公司及互联网大厂最新动态进行深度交流",
-        "纪要显示，MiniMax与智谱两家头部大模型公司均保持高速收入增长，MiniMax 8月底ARR"
-      ],
-      "url": "https://news.futunn.com/post/78855256/morgan-stanley-private-briefing-minimax-and-zhipu-ai-see-surge",
-      "source": "news.futunn.com",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-09-05T13:00:00Z"
-    },
-    {
-      "id": "19e56305c80d",
-      "title": "李华博士荣获2026年度188体育平台电玩创新大奖：在人工智能领域取得突破性进展",
-      "summary": "jnh20261.com2026年5月22日，188体育平台电玩科技创始人李华博士凭借188体育平台电玩技术荣获2026年度188体育平台电玩创新大奖，该技术解决了AI算力瓶颈，",
-      "highlights": [
-        "jnh20261.com2026年5月22日，188体育平台电玩科技创始人李华博士凭借188体育平台电玩技术荣获2026年度188体育平台电玩创新大奖，该技术解决了AI算力瓶颈，"
-      ],
-      "url": "https://www.ttplus.cn/wiki/38080384.aspx",
-      "source": "ttplus.cn",
-      "category": "芯片硬件",
-      "importance": 2,
-      "publishedAt": "2026-09-05T12:00:00Z"
-    }
-  ],
-  "today": [],
-  "week": [],
-  "month": [
-    {
-      "id": "69024d9eb0d5",
-      "title": "宇树科技9天市值蒸发2164亿，“具身智能骗局论”站得住脚吗？",
-      "summary": "历史坐标清晰地告诉我们，当估值大幅脱离行业均值，提前透支了未来数年的增长预期时，剧烈的价值回归是大概率事件，但这并不等同于行业本身是“骗局”。\n\n技术的“ChatGPT时刻”，卡在历史同一条裂缝上\n\n“骗局论”的另一大支撑，是技术落地不及预期。宇树创始人王兴兴公开承认，机器人在固定场景充分训练后，成功率可接近100%，但环境或物体稍有变化，成功率便大幅下降。他预期的行业“ChatGPT时刻”——即...",
-      "highlights": [
-        "历史坐标清晰地告诉我们，当估值大幅脱离行业均值，提前透支了未来数年的增长预期时，剧烈的价值回归是大概率事件，但这并不等同于行业本身是“骗局”",
-        "技术的“ChatGPT时刻”，卡在历史同一条裂缝上",
-        "“骗局论”的另一大支撑，是技术落地不及预期"
-      ],
-      "url": "https://finance.ifeng.com/c/8wB3ioB6WHd",
-      "source": "finance.ifeng.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-05T06:42:04Z"
-    },
-    {
-      "id": "e503ae9bc3b3",
-      "title": "大模型卷入“周抛时代”：谁最焦虑，谁又在狂欢？ - 界面新闻",
-      "summary": "OpenAI 刚发的 GPT-6 Astra 就是一个典型例子。在其内部测试中，GPT-6 Astra以同样的标准版定价，在多项基准都拿到了高于Claude Fable 5.1的得分。但在“人类最后的考试”测试中，Astra 使用工具的得分为 57.2%，低于 Sol 的 65.0% 和 Claude Fable 5.1 的 63.8%。在第三方机构 Artificial Analysis的横测中...",
-      "highlights": [
-        "OpenAI 刚发的 GPT-6 Astra 就是一个典型例子",
-        "在其内部测试中，GPT-6 Astra以同样的标准版定价，在多项基准都拿到了高于Claude Fable 5.1的得分",
-        "但在“人类最后的考试”测试中，Astra 使用工具的得分为 57.2%，低于 Sol 的 65.0% 和 Claude Fable 5.1 的 63.8%"
-      ],
-      "url": "https://www.jiemian.com/article/15058387.html",
-      "source": "jiemian.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-05T02:00:00Z"
-    },
-    {
-      "id": "48010287bd76",
-      "title": "疯狂买买买，英伟达的野心何在？",
-      "summary": "这一产业变革的核心逻辑源于算力架构的迭代升级。超大规模云端算力集群，依旧承担着大参数模型训练、海量数据处理的核心任务，但模型推理、轻量化计算、实时交互等场景，受延迟、隐私、成本三大核心因素驱动，正在快速从云端下沉至边缘设备和终端硬件。IDC公开数据显示，2026年全球AI PC出货量将突破5000万台，AI手机出货量有望突破 4.3 亿台，端侧AI芯片市场增速持续大幅高于云端芯片，终端市场已然从A...",
-      "highlights": [
-        "这一产业变革的核心逻辑源于算力架构的迭代升级",
-        "超大规模云端算力集群，依旧承担着大参数模型训练、海量数据处理的核心任务，但模型推理、轻量化计算、实时交互等场景，受延迟、隐私、成本三大核心因素驱动，正在快速从云端下沉至边缘设备和终端硬件",
-        "IDC公开数据显示，2026年全球AI PC出货量将突破5000万台，AI手机出货量有望突破 4.3 亿台，端侧AI芯片市场增速持续大幅高于云端芯片，终端市场已然从AI产业的附属环节，升级为行业增长的核心增量赛道"
-      ],
-      "url": "https://m.thepaper.cn/newsDetail_forward_34014215",
-      "source": "m.thepaper.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-06T02:00:00Z"
-    },
-    {
-      "id": "7d18801a1a7d",
-      "title": "Congress goes quiet as AI safety concerns mount",
-      "summary": "GPT-6 Astra might be too powerful to understand or control — Celia Ford looks under the hood at OpenAI’s latest model, revealing that even its creators can’t reliably tell when it’s aligned or just pl...",
-      "highlights": [
-        "GPT-6 Astra might be too powerful to understand or control — Celia Ford looks under the hood at OpenAI’s latest model, revealing that even its creators can’t reliably tell when it’s aligned or just playing along",
-        "What’s neuralese and why is everyone so concerned about it? — Shakeel Hashim assesses the latest worries over monitoring the reasoning of advanced AI systems [...] AI safety concerns are growing by the day. A swarm of OpenAI model agents hacked Hugging Face. A report from the UK’s AISI showed an Anthropic model taking on “multiple fake identities.” Last night, OpenAI released a new model which, as Transformer’s Celia Ford reports, is much harder to monitor than previous models, and which has OpenAI employees “deeply concerned.” And just today, we learned that OpenAI had yet another rogue AI incident this May, with models hacking into a German website and [...] Tim Cook officially handed over the reins at Apple to John Ternus.",
-        "Matt Clifford announced he was joining Anthropic as managing director of international affairs."
-      ],
-      "url": "https://www.transformernews.ai/p/congress-goes-quiet-as-ai-safety-concerns-grow?action=share",
-      "source": "transformernews.ai",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-05T12:00:00Z"
-    },
-    {
-      "id": "d83825e57188",
-      "title": "利赢国际手机版下载发布RusGPT-4 开源大模型性能超越Llama 3-体坛网_体坛+",
-      "summary": "近日，利赢国际手机版下载正式对外发布了其最新一代开源大语言模型RusGPT-4，该模型在技术上实现了多项突破，旨在为全球开发者和企业提供更高效、更经济的AI解决方案。",
-      "highlights": [
-        "近日，利赢国际手机版下载正式对外发布了其最新一代开源大语言模型RusGPT-4，该模型在技术上实现了多项突破，旨在为全球开发者和企业提供更高效、更经济的AI解决方案"
-      ],
-      "url": "https://m.ttplus.cn/3594wiki94.htm",
-      "source": "m.ttplus.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-06T03:00:00Z"
-    },
-    {
-      "id": "8067474785c2",
-      "title": "30天企业用户过半，千问办公将AI办公的生意做成了|Qwen|Agent|阿里巴巴|大模型|ChatGPT_新浪新闻",
-      "summary": "就在前不久，沙利文联合头豹研究院发布了《2026年中国智能体（AI Agent）最佳应用实践》报告。报告预计，仅中国AI Agent市场规模将由2025年的2.6万亿元增至2030年的20.1万亿元，其中B端是驱动市场增长的主体变量，长期贡献约九成收入。\n\n　　水大鱼大。在未来几年中国AI Agent市场实现爆发式增长的过程中，我们期待以千问办公为代表的办公智能体能够持续进化，抓住这次数十年难遇的...",
-      "highlights": [
-        "就在前不久，沙利文联合头豹研究院发布了《2026年中国智能体（AI Agent）最佳应用实践》报告",
-        "报告预计，仅中国AI Agent市场规模将由2025年的2.6万亿元增至2030年的20.1万亿元，其中B端是驱动市场增长的主体变量，长期贡献约九成收入",
-        "在未来几年中国AI Agent市场实现爆发式增长的过程中，我们期待以千问办公为代表的办公智能体能够持续进化，抓住这次数十年难遇的时代机遇，带领中国企业服务市场真正迎来一次质变"
-      ],
-      "url": "https://k.sina.com.cn/article_5953740931_162dee08306703xpjg.html?from=tech",
-      "source": "k.sina.com.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-05T20:34:12Z"
-    },
-    {
-      "id": "e2f4fbb7992d",
-      "title": "黑石启动60亿英镑地产平台退出计划 私募股权撤退窗口渐启？",
-      "summary": "公开数据显示，2023年，全球私募股权退出交易额同比下降44%，2024年交易数量小幅回升但仍处五年低位。\n\n2025年被贝恩公司称为是私募股权终于“站稳脚跟”的一年，同时强调这是一场“K型复苏”——退出和交易金额明显回升，但复苏面较窄，分销水平依然低迷。\n\n来到2026年，市场普遍认为IPO窗口存在阶段性回暖，退出活动有所改善，但市场依然波动性较大，今年来的私募退出活动集中在优质资产和定制化的交...",
-      "highlights": [
-        "公开数据显示，2023年，全球私募股权退出交易额同比下降44%，2024年交易数量小幅回升但仍处五年低位",
-        "2025年被贝恩公司称为是私募股权终于“站稳脚跟”的一年，同时强调这是一场“K型复苏”——退出和交易金额明显回升，但复苏面较窄，分销水平依然低迷",
-        "来到2026年，市场普遍认为IPO窗口存在阶段性回暖，退出活动有所改善，但市场依然波动性较大，今年来的私募退出活动集中在优质资产和定制化的交易流程"
-      ],
-      "url": "https://www.cls.cn/detail/2419195",
-      "source": "cls.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-06T12:00:00Z"
-    },
-    {
-      "id": "edbb972b73f0",
-      "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
-      "summary": "Meta and Google didn't provide comments for this story. Representatives from Anthropic, OpenAI and Google didn't respond to requests for comment.\n\nNot all model updates are created equal.\n\nUnlike Open...",
-      "highlights": [
-        "Meta and Google didn't provide comments for this story. Representatives from Anthropic, OpenAI and Google didn't respond to requests for comment.",
-        "Not all model updates are created equal.",
-        "Unlike OpenAI's GPT-6 Astra, the various rollouts this week from Anthropic, Meta and Google represented \"point releases,\" Faro said. That means the companies were upgrading an existing AI model rather than building a completely new one. [...] First it was updates to Anthropic's Fable and Mythos. Then came model enhancements from Meta and Google. OpenAI followed suit by releasing GPT-6 Astra."
-      ],
-      "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
-      "source": "cnbc.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-06T12:00:01Z"
-    },
-    {
-      "id": "420f32a3bfe9",
-      "title": "阿里AI胜负手在To B：千问办公30天斩获3000万用户 - 财中社",
-      "summary": "更值得关注的是组织层面的变化。长安汽车内部甚至在研究如何管理“碳基人”和“硅基人”的协作，“无AI，不长安”已成为公司上下的共识。长安汽车变革与效率部副总经理景笑飞表示，AI不再是某个部门的技术选型，而是支撑企业战略落地的基础能力。阿里云智能集团副总裁、AI汽车行业总经理李强也表示，未来行业竞争将从“单车智能”走向“企业智能”，拉开差距的不是谁率先接入某个模型，而是谁能把AI转化为企业持续进化的能...",
-      "highlights": [
-        "更值得关注的是组织层面的变化",
-        "长安汽车内部甚至在研究如何管理“碳基人”和“硅基人”的协作，“无AI，不长安”已成为公司上下的共识",
-        "长安汽车变革与效率部副总经理景笑飞表示，AI不再是某个部门的技术选型，而是支撑企业战略落地的基础能力"
-      ],
-      "url": "https://m.caizhongshe.cn/news-1421423485958855844.html",
-      "source": "m.caizhongshe.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-04T13:00:00Z"
-    },
-    {
-      "id": "fcc204497b70",
-      "title": "Nvidia bags Hugging Face, AI models play leapfrog and ...",
-      "summary": "OpenAI starts rolling out its next-generation GPT-6 Astra model\n\nAnthropic launches Claude Fable 5.1 after inking $35B cloud deal with Lambda\n\nMeta says it has caught up with Anthropic and OpenAI with...",
-      "highlights": [
-        "OpenAI starts rolling out its next-generation GPT-6 Astra model",
-        "Anthropic launches Claude Fable 5.1 after inking $35B cloud deal with Lambda",
-        "Meta says it has caught up with Anthropic and OpenAI with Muse Spark 1.3, its most powerful AI model yet"
-      ],
-      "url": "https://siliconangle.com/2026/09/04/nvidia-bags-hugging-face-ai-models-play-leapfrog-and-crowdstrike-doubles-down-on-ai",
-      "source": "siliconangle.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-04T14:01:33Z"
     }
   ]
 }
