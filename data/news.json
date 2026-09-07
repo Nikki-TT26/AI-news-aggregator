@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T12:01:24Z",
+  "updatedAt": "2026-09-07T18:01:30Z",
   "latest": [
     {
       "id": "48010287bd76",
@@ -180,17 +180,45 @@
       "publishedAt": "2026-09-07T02:00:00Z"
     },
     {
-      "id": "67fcdb766270",
-      "title": "昨夜今晨：优游国际平台注册AI大模型升级 优游国际平台注册量子计算突破",
-      "summary": "2026年5月11日驱动中国昨夜今晨，优游国际平台注册在AI大模型和量子计算领域取得重大进展，同时全球科技巨头发布最新产品和战略合作。",
+      "id": "adcb8b6ed9ba",
+      "title": "AI大模型“周更”，企业跟不上了",
+      "summary": "9月1日，Anthropic发布Claude Fable 5.1，以及自称是“世界上最先进的编码和知识工作模型”Claude Mythos 5.1；此后一天，Meta发布了Muse Spark 1.3，谷歌则推出Gemini 3.8 Flash；3日，OpenAI也紧跟着发布了GPT-6 Astra，称其为“全球最智能、对齐最好的模型”。\n\n　　就在OpenAI发布GPT-6 Astra的同一天，...",
       "highlights": [
-        "2026年5月11日驱动中国昨夜今晨，优游国际平台注册在AI大模型和量子计算领域取得重大进展，同时全球科技巨头发布最新产品和战略合作"
+        "9月1日，Anthropic发布Claude Fable 5.1，以及自称是“世界上最先进的编码和知识工作模型”Claude Mythos 5.1；此后一天，Meta发布了Muse Spark 1.3，谷歌则推出Gemini 3.8 Flash；3日，OpenAI也紧跟着发布了GPT-6 Astra，称其为“全球最智能、对齐最好的模型”",
+        "就在OpenAI发布GPT-6 Astra的同一天，阿联酋的穆罕默德·本·扎耶德人工智能大学也向开源社区发布了自己的K2 Horizon系列AI模型",
+        "AI研究和投资已经成为一场全球性的竞争"
       ],
-      "url": "https://m.ttplus.cn/wiki-cw0KMnErfO.html",
-      "source": "m.ttplus.cn",
+      "url": "https://k.sina.com.cn/article_1887344341_707e96d502001v1lm.html?from=tech",
+      "source": "k.sina.com.cn",
       "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-05T15:00:00Z"
+      "importance": 5,
+      "publishedAt": "2026-09-07T17:52:14Z"
+    },
+    {
+      "id": "bb600cecd89e",
+      "title": "Anthropic's $2 Trillion IPO Approaches: The Companies Poised to Benefit - Benzinga",
+      "summary": "# Anthropic's $2 Trillion IPO Approaches: The Companies Poised to Benefit. Anthropic, the creator of Claude, the popular AI chatbot, is set to launch its IPO in the coming weeks. As part of this proce...",
+      "highlights": [
+        "# Anthropic's $2 Trillion IPO Approaches: The Companies Poised to Benefit. Anthropic, the creator of Claude, the popular AI chatbot, is set to launch its IPO in the coming weeks. As part of this process, it is expected to launch its prospectus as early as next week. This IPO is expected to value it at $2 trillion, making it the fastest-growing company to hit that milestone. This article looks at some of the top companies set to benefit. ## Morgan Stanley and Goldman Sachs to be Lead Bankers. **Morgan Stanley** (NYSE:MS) and **Goldman Sachs** (NYSE:GS) are expected to net millions of dollars in the company’s IPO. According to FT, Anthropic will secure the prized \"lead left\" role, while Goldman Sachs will act as the IPO stabilization agent. However, based on its $2 trillion valuation, this IPO will likely net bankers millions of dollars. As a result, chances are that Amazon’s stake in the company will be over $420 billion if it hits the $2 trillion mark."
+      ],
+      "url": "https://www.benzinga.com/markets/equities/26/09/61643961/anthropics-2-trillion-ipo-approaches-the-companies-poised-to-benefit",
+      "source": "benzinga.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-05T21:33:13Z"
+    },
+    {
+      "id": "0ac95af643d9",
+      "title": "Jensen Huang’s $3 Billion Bet on Murati Propels Valuation to $40 Billion, With Funds Circling Back to Purchase NVIDIA Chips - eu.36kr.com",
+      "summary": "# Jensen Huang placed a $3 billion bet on Murati, driving the valuation up to $40 billion, and the funds went full circle and were ultimately used to purchase NVIDIA's chips. NVIDIA has made successiv...",
+      "highlights": [
+        "# Jensen Huang placed a $3 billion bet on Murati, driving the valuation up to $40 billion, and the funds went full circle and were ultimately used to purchase NVIDIA's chips. NVIDIA has made successive investments and acquisitions to expand its layout in the open AI ecosystem and ramp up its investment in AI infrastructure. Right after signing an acquisition agreement with Hugging Face, the world's largest hub for open-source models, news broke that it is preparing to deliver a massive check of nearly 3 billion USD to Mira Murati, the most high-profile former CTO of OpenAI in Silicon Valley. The pre-money valuation has directly soared to at least 40 billion USD, with a planned fundraising of 5 to 6 billion USD, and NVIDIA alone is likely to cover roughly half of the total amount. > A 2 billion USD seed round, with a post-money valuation of 12 billion USD. Murati took only 14 months to push the company's valuation from 12 billion USD to 40 billion USD."
+      ],
+      "url": "https://eu.36kr.com/en/p/3973262879502592",
+      "source": "eu.36kr.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-07T13:51:22Z"
     },
     {
       "id": "4898e3ad5f6d",
@@ -204,32 +232,6 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-09-05T19:00:00Z"
-    },
-    {
-      "id": "2020906b4782",
-      "title": "昨夜今晨：龙8体育唯一官网相关动态：AI模型发布与芯片突破引领科技圈- 体坛网_体坛+",
-      "summary": "2026年5月16日星期六驱动中国昨夜今晨. 龙8体育唯一官网相关图片. 随着龙8体育唯一官网持续跟进全球科技前沿动态，多个领域在昨夜今晨涌现重磅进展。从人工智能大模型",
-      "highlights": [
-        "2026年5月16日星期六驱动中国昨夜今晨. 龙8体育唯一官网相关图片. 随着龙8体育唯一官网持续跟进全球科技前沿动态，多个领域在昨夜今晨涌现重磅进展"
-      ],
-      "url": "https://m.ttplus.cn/baotou/wiki/news/e2hqCHQW.html",
-      "source": "m.ttplus.cn",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-05T16:00:00Z"
-    },
-    {
-      "id": "0490ed1ffad0",
-      "title": "云顶国际下载网址联袂发布新一代AI大模型，多项基准超越GPT-4o",
-      "summary": "2026年5月25日，云顶国际下载网址联合推出全新原生全模态大模型，参数规模达1.8万亿，在MMLU、MATH等评测中均领先竞品。",
-      "highlights": [
-        "2026年5月25日，云顶国际下载网址联合推出全新原生全模态大模型，参数规模达1.8万亿，在MMLU、MATH等评测中均领先竞品"
-      ],
-      "url": "https://m.ttplus.cn/wiki/V8nLIDkRT",
-      "source": "m.ttplus.cn",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-05T13:00:00Z"
     },
     {
       "id": "14a25f1b2409",
@@ -260,21 +262,6 @@
       "category": "具身智能",
       "importance": 4,
       "publishedAt": "2026-09-06T09:53:53Z"
-    },
-    {
-      "id": "907a6075b7e9",
-      "title": "（经济观察）广东具身智能机器人加速走向市场_搜狐网",
-      "summary": "## （经济观察）广东具身智能机器人加速走向市场\n\n搜狐资讯\n\n广州9月4日电 (记者 孙秋霞)第二十一届中国国际中小企业博览会(简称“中博会”)正在广州举行，在具身智能展区，广东机器人龙头企业携核心产品亮相。从“跑跳达人”到“干活能手”，广东正依托核心技术攻关、多元场景开放与全链生态协同，推动具身智能机器人规模化落地。\n\n广东是中国具身智能机器人产业规模化、商业化落地的主要集聚区之一，综合实力处...",
-      "highlights": [
-        "## （经济观察）广东具身智能机器人加速走向市场",
-        "广州9月4日电 (记者 孙秋霞)第二十一届中国国际中小企业博览会(简称“中博会”)正在广州举行，在具身智能展区，广东机器人龙头企业携核心产品亮相",
-        "从“跑跳达人”到“干活能手”，广东正依托核心技术攻关、多元场景开放与全链生态协同，推动具身智能机器人规模化落地"
-      ],
-      "url": "https://m.sohu.com/a/1072194252_121478296?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-09-05T14:21:04Z"
     },
     {
       "id": "2d1702455bd7",
@@ -378,58 +365,70 @@
       "publishedAt": "2026-09-07T08:00:00Z"
     },
     {
-      "id": "b98bf7549a9e",
-      "title": "Claude黎曼猜想最大突破 已被人类数学家验证",
-      "summary": "Claude在黎曼猜想（RiemannHypothesis）上的相关证明，已被人类数学家彻底验证。这次，数学家YounessLamzouri宣布Claude的证明结果确凿无误，而且给出了一个更简洁更",
+      "id": "f53b6c18b4cb",
+      "title": "环亚最可靠网址：从算力基石到AI生态的赋能者",
+      "summary": "2026年，全球人工智能产业进入深水区，大模型训练与推理需求呈现指数级增长态势。据IDC最新报告，截至2026年第一季度，全球AI芯片市场规模已突破1200亿美元，同比",
       "highlights": [
-        "Claude在黎曼猜想（RiemannHypothesis）上的相关证明，已被人类数学家彻底验证",
-        "这次，数学家YounessLamzouri宣布Claude的证明结果确凿无误，而且给出了一个更简洁更"
+        "2026年，全球人工智能产业进入深水区，大模型训练与推理需求呈现指数级增长态势",
+        "据IDC最新报告，截至2026年第一季度，全球AI芯片市场规模已突破1200亿美元，同比"
       ],
-      "url": "https://m.cnbeta.com.tw/view/1576618.htm",
-      "source": "m.cnbeta.com.tw",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-09-06T08:00:00Z"
-    },
-    {
-      "id": "823d5b46325c",
-      "title": "星云科技发布3亿首页大模型：MMLU 93.7分、HumanEval 92.1%，刷新多项基准测试纪录-体坛网_体坛+",
-      "summary": "2026年5月15日，星云科技在年度AI开发者大会上正式发布其最新一代大语言模型——3亿首页。该模型以1.8T参数、15T tokens的多模态高质量数据训练，在MMLU（大规模多任务",
-      "highlights": [
-        "2026年5月15日，星云科技在年度AI开发者大会上正式发布其最新一代大语言模型——3亿首页",
-        "该模型以1.8T参数、15T tokens的多模态高质量数据训练，在MMLU（大规模多任务"
-      ],
-      "url": "https://m.ttplus.cn/3389wiki40.htm",
+      "url": "https://m.ttplus.cn/wiki112734948.shtml",
       "source": "m.ttplus.cn",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-09-06T18:00:00Z"
+    },
+    {
+      "id": "6ed758028b9e",
+      "title": "Nvidia’s $12.9B Hugging Face deal shows why IPOs are now optional - PitchBook",
+      "summary": "# Nvidia’s $12.9B Hugging Face deal shows why IPOs are now optional. The chipmaker’s acquisition is the latest sign that AI’s exit path runs through corporate balance sheets, not Wall Street. Before t...",
+      "highlights": [
+        "# Nvidia’s $12.9B Hugging Face deal shows why IPOs are now optional. The chipmaker’s acquisition is the latest sign that AI’s exit path runs through corporate balance sheets, not Wall Street. Before the late 2010s, a company scaling past $50 million in revenue had few options but to go public. The stock market was the only place a startup could scale, raise growth capital, and pay back its investors. “I’m starting to sense a new mindset is forming across VC: A successful startup no longer has to become a public company,” said Harrison Rolfes, senior analyst of private companies at PitchBook. “The IPO is not ‘disappearing,’ but evolving from the expected destination into a deliberate choice for companies that need public capital or value their independence.”. These are the types of companies that have no other choice but to go public: those whose capital needs are too large for any private buyer to satisfy. Hugging Face, for its part, could have waited for an IPO."
+      ],
+      "url": "https://pitchbook.com/news/articles/nvidias-hugging-deal-ipos-are-optional",
+      "source": "pitchbook.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-06T10:03:00Z"
+    },
+    {
+      "id": "fff1aeea7079",
+      "title": "NVIDIA invests $30 billion in Thinking Machines Lab, valuation surges to $40 billion - KuCoin",
+      "summary": "# NVIDIA invests $30 billion in Thinking Machines Lab, valuation surges to $40 billion. NVIDIA is leading a $30 billion funding round for Thinking Machines Lab, a major news highlight in the AI sector...",
+      "highlights": [
+        "# NVIDIA invests $30 billion in Thinking Machines Lab, valuation surges to $40 billion. NVIDIA is leading a $30 billion funding round for Thinking Machines Lab, a major news highlight in the AI sector. Co-founded by Mira Murati, the lab now has a pre-money valuation of $400 billion and aims to raise $50–60 billion, with NVIDIA potentially covering half the total. The company has launched its first model, Inkling, and is developing a model-tuning platform. Just after signing an acquisition agreement with Hugging Face, the world’s largest open-source model marketplace, news emerged that the company is preparing to offer a nearly $3 billion check to Mira Murati, OpenAI’s former CTO and one of Silicon Valley’s most prominent figures. Pre-money valuation surged to at least $40 billion, with plans to raise $5 to $6 billion, potentially with NVIDIA alone covering about half. If this $5 billion to $6 billion fundraising is successfully completed, the post-money valuation will approach $45 billion to $46 billion."
+      ],
+      "url": "https://www.kucoin.com/news/flash/nvidia-invests-30-billion-in-thinking-machines-lab-valuation-surges-to-40-billion",
+      "source": "kucoin.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-07T13:12:43Z"
+    },
+    {
+      "id": "b9b1d20916be",
+      "title": "AI Boom Creates 'Ridiculous' Housing Market in San Fran - newser.com",
+      "summary": "Image 1: Newser - Current News - Breaking StoriesImage 2: Newser - Current News - Breaking Stories. Image 8: Newser - Current News - Breaking Stories. S M T W T F S. Image 13: User's profile picture J...",
+      "highlights": [
+        "Image 1: Newser - Current News - Breaking StoriesImage 2: Newser - Current News - Breaking Stories. Image 8: Newser - Current News - Breaking Stories. S M T W T F S. Image 13: User's profile picture Joined Newser on:  logout). *   Image 21 OpenAI Says Its Latest Release May Mark New 'Age' of AI. *   Image 28 NYC: No AI Use in School for Younger Students This Year. San Francisco's latest gold rush isn't in crypto or IPOs—it's in AI, and it's rewriting the city's housing math. NPR reports that the artificial-intelligence boom, centered in San Francisco, has triggered a surge of new wealth that's colliding with a long-standing housing shortage. Median home sale prices are up in the city about 25% over the past year, bidding wars are routine, and some listings are drawing dozens of offers, according to Paul Kitchen, a rep from real estate brokerage Compass."
+      ],
+      "url": "https://www.newser.com/story/395656/ai-boom-causes-mansion-shortage-in-san-francisco.html",
+      "source": "newser.com",
       "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-09-06T17:00:00Z"
+      "importance": 4,
+      "publishedAt": "2026-09-05T18:30:00Z"
     },
     {
-      "id": "2a9eb8618585",
-      "title": "【AI Agent(智能体)】企业级应用开发",
-      "summary": "AI Agent(智能体)正成为新一代人工智能应用的核心载体. ... 浩鲸云(中兴通讯和阿里巴巴共同投资)智能产品线负责人擅长:...",
+      "id": "4d9ef1a1c090",
+      "title": "Why data centre opposition could matter more to Anthropic's IPO than copyright lawsuits - Webcoda",
+      "summary": "### Why data centre opposition could matter more to Anthropic's IPO than copyright lawsuits. Sony Music Publishing and Warner Chappell sued Anthropic on 28 August. With a public IPO prospectus reporte...",
       "highlights": [
-        "AI Agent(智能体)正成为新一代人工智能应用的核心载体. ... 浩鲸云(中兴通讯和阿里巴巴共同投资)智能产品线负责人擅长:..."
+        "### Why data centre opposition could matter more to Anthropic's IPO than copyright lawsuits. Sony Music Publishing and Warner Chappell sued Anthropic on 28 August. With a public IPO prospectus reportedly due later this month, you'd expect copyright to be near the top of the company's worries. CNBC reports that the AI backlash, including public opposition to data centres, will feature among the filing's risks too. The infrastructure risk interests me because Anthropic can negotiate a settlement and keep selling access to Claude. It can't serve more customers from a data centre that's waiting for permission to connect to the grid. That also makes me interested in what could stop it growing, beyond the lawsuits that tend to get the headlines. Anthropic IPO filing will show AI backlash as a risk factor, sources say cnbc.com/2026/08/21/-an…. The narrower point is enough: the first two states Anthropic chose for its announced expansion are now reassessing how much of this infrastructure they'll allow, and on what terms."
       ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkIDzWs0le9kOGMMsvwLVrY4VqXa8Fplpd92nSjlPIyUNVXHj-uVPDtNaMATVshQepLH_VbWqgVOYAclFoG2uLk3in4QCGf2FKI2-5fLpiH6Yj9cU5cSBUoWHm357UZEvjTh032PJsEmGNGxFGveIYGWG3NL1xQTaRBWLaxiR3h56JqiyeG7y7fDWaPrgzMTEte8tcTLoOGYMZOJBjQH7pCxQ..&amp;type=2&amp;query=AI Agent %E6%99%BA%E8%83%BD%E4%BD%93 %E4%BA%A7%E5%93%81&amp;token=EDE71FD2B2B95DC68184D85FDBC8E96A82F1568B6A9E5337",
-      "source": "微信公众号",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-09-05T22:01:23Z"
-    },
-    {
-      "id": "1f4ffb9d014a",
-      "title": "【AI Agent(智能体)】企业级应用开发",
-      "summary": "AI Agent(智能体)正成为新一代人工智能应用的核心载体. ... 浩鲸云(中兴通讯和阿里巴巴共同投资)智能产品线负责人擅长:...",
-      "highlights": [
-        "AI Agent(智能体)正成为新一代人工智能应用的核心载体. ... 浩鲸云(中兴通讯和阿里巴巴共同投资)智能产品线负责人擅长:..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwhtXwx_nmkI_Fr67YaWAFuMMsvwLVrY4VqXa8Fplpd92nSjlPIyUNVXHj-uVPDtNaMATVshQepLH_VbWqgVOYAclFoG2uLk3in4QCGf2FKI2-5fLpiH6Yj9cU5cSBUoWFvJjtryz4Qga6stlm3L1N5OZ4Yki_WSi541PlsQoFdik-vqVkKogyTBpT_2eEd2-UiWVwzOw9_knyKISFGLl87FcvUoAZZH7Q..&amp;type=2&amp;query=AI Agent %E6%99%BA%E8%83%BD%E4%BD%93 %E4%BA%A7%E5%93%81&amp;token=EDE7906AFDF61289CECB941097B6F76ECE7FAB9E6A9E534B",
-      "source": "微信公众号",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-09-05T22:01:23Z"
+      "url": "https://ai-checker.webcoda.com.au/articles/anthropic-ipo-risk-factors-data-centre-backlash-2026",
+      "source": "ai-checker.webcoda.com.au",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-07T07:32:10Z"
     }
   ],
   "today": [
@@ -464,6 +463,34 @@
       "publishedAt": "2026-09-07T02:00:00Z"
     },
     {
+      "id": "adcb8b6ed9ba",
+      "title": "AI大模型“周更”，企业跟不上了",
+      "summary": "9月1日，Anthropic发布Claude Fable 5.1，以及自称是“世界上最先进的编码和知识工作模型”Claude Mythos 5.1；此后一天，Meta发布了Muse Spark 1.3，谷歌则推出Gemini 3.8 Flash；3日，OpenAI也紧跟着发布了GPT-6 Astra，称其为“全球最智能、对齐最好的模型”。\n\n　　就在OpenAI发布GPT-6 Astra的同一天，...",
+      "highlights": [
+        "9月1日，Anthropic发布Claude Fable 5.1，以及自称是“世界上最先进的编码和知识工作模型”Claude Mythos 5.1；此后一天，Meta发布了Muse Spark 1.3，谷歌则推出Gemini 3.8 Flash；3日，OpenAI也紧跟着发布了GPT-6 Astra，称其为“全球最智能、对齐最好的模型”",
+        "就在OpenAI发布GPT-6 Astra的同一天，阿联酋的穆罕默德·本·扎耶德人工智能大学也向开源社区发布了自己的K2 Horizon系列AI模型",
+        "AI研究和投资已经成为一场全球性的竞争"
+      ],
+      "url": "https://k.sina.com.cn/article_1887344341_707e96d502001v1lm.html?from=tech",
+      "source": "k.sina.com.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-07T17:52:14Z"
+    },
+    {
+      "id": "0ac95af643d9",
+      "title": "Jensen Huang’s $3 Billion Bet on Murati Propels Valuation to $40 Billion, With Funds Circling Back to Purchase NVIDIA Chips - eu.36kr.com",
+      "summary": "# Jensen Huang placed a $3 billion bet on Murati, driving the valuation up to $40 billion, and the funds went full circle and were ultimately used to purchase NVIDIA's chips. NVIDIA has made successiv...",
+      "highlights": [
+        "# Jensen Huang placed a $3 billion bet on Murati, driving the valuation up to $40 billion, and the funds went full circle and were ultimately used to purchase NVIDIA's chips. NVIDIA has made successive investments and acquisitions to expand its layout in the open AI ecosystem and ramp up its investment in AI infrastructure. Right after signing an acquisition agreement with Hugging Face, the world's largest hub for open-source models, news broke that it is preparing to deliver a massive check of nearly 3 billion USD to Mira Murati, the most high-profile former CTO of OpenAI in Silicon Valley. The pre-money valuation has directly soared to at least 40 billion USD, with a planned fundraising of 5 to 6 billion USD, and NVIDIA alone is likely to cover roughly half of the total amount. > A 2 billion USD seed round, with a post-money valuation of 12 billion USD. Murati took only 14 months to push the company's valuation from 12 billion USD to 40 billion USD."
+      ],
+      "url": "https://eu.36kr.com/en/p/3973262879502592",
+      "source": "eu.36kr.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-07T13:51:22Z"
+    },
+    {
       "id": "e5f7c42b6be8",
       "title": "OpenAI发布GPT-6 Astra，黄仁勋表示AGI已经到来",
       "summary": "2026年9月7日凌晨，NVIDIA首席执行官黄仁勋在X平台发布了一条帖子。他在祝贺OpenAI发布最新大模型GPT-6 Astra的同时，抛出了一个极具争议的观点：“AGI已经到来。”.",
@@ -534,6 +561,71 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-09-07T08:00:00Z"
+    },
+    {
+      "id": "fff1aeea7079",
+      "title": "NVIDIA invests $30 billion in Thinking Machines Lab, valuation surges to $40 billion - KuCoin",
+      "summary": "# NVIDIA invests $30 billion in Thinking Machines Lab, valuation surges to $40 billion. NVIDIA is leading a $30 billion funding round for Thinking Machines Lab, a major news highlight in the AI sector...",
+      "highlights": [
+        "# NVIDIA invests $30 billion in Thinking Machines Lab, valuation surges to $40 billion. NVIDIA is leading a $30 billion funding round for Thinking Machines Lab, a major news highlight in the AI sector. Co-founded by Mira Murati, the lab now has a pre-money valuation of $400 billion and aims to raise $50–60 billion, with NVIDIA potentially covering half the total. The company has launched its first model, Inkling, and is developing a model-tuning platform. Just after signing an acquisition agreement with Hugging Face, the world’s largest open-source model marketplace, news emerged that the company is preparing to offer a nearly $3 billion check to Mira Murati, OpenAI’s former CTO and one of Silicon Valley’s most prominent figures. Pre-money valuation surged to at least $40 billion, with plans to raise $5 to $6 billion, potentially with NVIDIA alone covering about half. If this $5 billion to $6 billion fundraising is successfully completed, the post-money valuation will approach $45 billion to $46 billion."
+      ],
+      "url": "https://www.kucoin.com/news/flash/nvidia-invests-30-billion-in-thinking-machines-lab-valuation-surges-to-40-billion",
+      "source": "kucoin.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-07T13:12:43Z"
+    },
+    {
+      "id": "4d9ef1a1c090",
+      "title": "Why data centre opposition could matter more to Anthropic's IPO than copyright lawsuits - Webcoda",
+      "summary": "### Why data centre opposition could matter more to Anthropic's IPO than copyright lawsuits. Sony Music Publishing and Warner Chappell sued Anthropic on 28 August. With a public IPO prospectus reporte...",
+      "highlights": [
+        "### Why data centre opposition could matter more to Anthropic's IPO than copyright lawsuits. Sony Music Publishing and Warner Chappell sued Anthropic on 28 August. With a public IPO prospectus reportedly due later this month, you'd expect copyright to be near the top of the company's worries. CNBC reports that the AI backlash, including public opposition to data centres, will feature among the filing's risks too. The infrastructure risk interests me because Anthropic can negotiate a settlement and keep selling access to Claude. It can't serve more customers from a data centre that's waiting for permission to connect to the grid. That also makes me interested in what could stop it growing, beyond the lawsuits that tend to get the headlines. Anthropic IPO filing will show AI backlash as a risk factor, sources say cnbc.com/2026/08/21/-an…. The narrower point is enough: the first two states Anthropic chose for its announced expansion are now reassessing how much of this infrastructure they'll allow, and on what terms."
+      ],
+      "url": "https://ai-checker.webcoda.com.au/articles/anthropic-ipo-risk-factors-data-centre-backlash-2026",
+      "source": "ai-checker.webcoda.com.au",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-07T07:32:10Z"
+    },
+    {
+      "id": "63585c6f183c",
+      "title": "How Wonderful AI went from zero to $70 million in revenue in one year - Ynetnews",
+      "summary": "# How Wonderful AI went from zero to $70 million in revenue in one year. ## The Israeli AI startup raised $550 million at a $5 billion valuation after shifting from multilingual voice agents to an 'AI...",
+      "highlights": [
+        "# How Wonderful AI went from zero to $70 million in revenue in one year. ## The Israeli AI startup raised $550 million at a $5 billion valuation after shifting from multilingual voice agents to an 'AI operating system,' with hundreds of specialists embedded at customer organizations and a costlier model than traditional software. Less than two years after it was founded, Israeli artificial intelligence startup Wonderful AI has reached a level of fundraising and revenue growth rarely seen in the country’s technology sector outside cybersecurity. Wonderful went from essentially no revenue a year ago to a current revenue pace of about $70 million, and is expected to reach $100 million by the end of the year. “What was truly brilliant was that Wonderful’s people quickly understood that once they got a foot in the door of an organization, it needed more and more assistance and guidance in adopting AI."
+      ],
+      "url": "https://www.ynetnews.com/business/article/hkrcy5juzx",
+      "source": "ynetnews.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-07T02:03:23Z"
+    },
+    {
+      "id": "917d9e820d61",
+      "title": "3个月斩获9个offer!自动驾驶转具身智能如何做?",
+      "summary": "自动驾驶、机器人、具身智能重磅干货,第一时间送达今年被称为“具身智能元年”,因为人形机器人、四足等的火爆,具身智能彻底...",
+      "highlights": [
+        "自动驾驶、机器人、具身智能重磅干货,第一时间送达今年被称为“具身智能元年”,因为人形机器人、四足等的火爆,具身智能彻底..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS6utDi3tCMrtVtXtFYba-rQx3A6gnvBUrlqXa8Fplpd9rp0j82LXpqs4MODr-4Lbm_P1xtc-fIir3rX0iRJRy9x0uPOdadJtoW0-UC8-eJACIHn_Fsc5Z0zmn_xZUk0p1fX_0Zrsmr0bKnIXG_acT2oBybt9iH0FwNKaQKTadij3rla5kQGdVm0diHcGy0sJfiuPoJ3B7RQaxCh65u6CBZc6Ebq8fk9diw..&amp;type=2&amp;query=%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD %E6%9C%BA%E5%99%A8%E4%BA%BA %E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6&amp;token=F13AB67D198816B58B8AD664E3D195238C0A378F6A9EFBF9",
+      "source": "微信公众号",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-09-07T10:51:02Z"
+    },
+    {
+      "id": "fb2cccd9056b",
+      "title": "Gulf AI firms are tapping on both U.S. and Chinese tech to preserve strategic optionality: Azimut - CNBC",
+      "summary": "Gulf AI firms are tapping on both U.S. and Chinese tech to preserve strategic optionality: Azimut. Saverio Papagno, Senior Portfolio Manager for Global Equities and Tech, Media and Telecoms at Azimut,...",
+      "highlights": [
+        "Gulf AI firms are tapping on both U.S. and Chinese tech to preserve strategic optionality: Azimut. Saverio Papagno, Senior Portfolio Manager for Global Equities and Tech, Media and Telecoms at Azimut, discusses Saudi AI firm Humain's IPO pipeline. He also explores why AI companies in the Middle East are working with both U.S. and China technology."
+      ],
+      "url": "https://www.cnbc.com/video/2026/09/07/gulf-ai-firms-tap-on-china-to-preserve-strategic-optionality-azimut.html",
+      "source": "cnbc.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-09-07T07:43:54Z"
     }
   ],
   "week": [
@@ -568,6 +660,34 @@
       "publishedAt": "2026-09-07T02:00:00Z"
     },
     {
+      "id": "adcb8b6ed9ba",
+      "title": "AI大模型“周更”，企业跟不上了",
+      "summary": "9月1日，Anthropic发布Claude Fable 5.1，以及自称是“世界上最先进的编码和知识工作模型”Claude Mythos 5.1；此后一天，Meta发布了Muse Spark 1.3，谷歌则推出Gemini 3.8 Flash；3日，OpenAI也紧跟着发布了GPT-6 Astra，称其为“全球最智能、对齐最好的模型”。\n\n　　就在OpenAI发布GPT-6 Astra的同一天，...",
+      "highlights": [
+        "9月1日，Anthropic发布Claude Fable 5.1，以及自称是“世界上最先进的编码和知识工作模型”Claude Mythos 5.1；此后一天，Meta发布了Muse Spark 1.3，谷歌则推出Gemini 3.8 Flash；3日，OpenAI也紧跟着发布了GPT-6 Astra，称其为“全球最智能、对齐最好的模型”",
+        "就在OpenAI发布GPT-6 Astra的同一天，阿联酋的穆罕默德·本·扎耶德人工智能大学也向开源社区发布了自己的K2 Horizon系列AI模型",
+        "AI研究和投资已经成为一场全球性的竞争"
+      ],
+      "url": "https://k.sina.com.cn/article_1887344341_707e96d502001v1lm.html?from=tech",
+      "source": "k.sina.com.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-07T17:52:14Z"
+    },
+    {
+      "id": "0ac95af643d9",
+      "title": "Jensen Huang’s $3 Billion Bet on Murati Propels Valuation to $40 Billion, With Funds Circling Back to Purchase NVIDIA Chips - eu.36kr.com",
+      "summary": "# Jensen Huang placed a $3 billion bet on Murati, driving the valuation up to $40 billion, and the funds went full circle and were ultimately used to purchase NVIDIA's chips. NVIDIA has made successiv...",
+      "highlights": [
+        "# Jensen Huang placed a $3 billion bet on Murati, driving the valuation up to $40 billion, and the funds went full circle and were ultimately used to purchase NVIDIA's chips. NVIDIA has made successive investments and acquisitions to expand its layout in the open AI ecosystem and ramp up its investment in AI infrastructure. Right after signing an acquisition agreement with Hugging Face, the world's largest hub for open-source models, news broke that it is preparing to deliver a massive check of nearly 3 billion USD to Mira Murati, the most high-profile former CTO of OpenAI in Silicon Valley. The pre-money valuation has directly soared to at least 40 billion USD, with a planned fundraising of 5 to 6 billion USD, and NVIDIA alone is likely to cover roughly half of the total amount. > A 2 billion USD seed round, with a post-money valuation of 12 billion USD. Murati took only 14 months to push the company's valuation from 12 billion USD to 40 billion USD."
+      ],
+      "url": "https://eu.36kr.com/en/p/3973262879502592",
+      "source": "eu.36kr.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-07T13:51:22Z"
+    },
+    {
       "id": "e5f7c42b6be8",
       "title": "OpenAI发布GPT-6 Astra，黄仁勋表示AGI已经到来",
       "summary": "2026年9月7日凌晨，NVIDIA首席执行官黄仁勋在X平台发布了一条帖子。他在祝贺OpenAI发布最新大模型GPT-6 Astra的同时，抛出了一个极具争议的观点：“AGI已经到来。”.",
@@ -638,24 +758,74 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-09-07T08:00:00Z"
+    },
+    {
+      "id": "fff1aeea7079",
+      "title": "NVIDIA invests $30 billion in Thinking Machines Lab, valuation surges to $40 billion - KuCoin",
+      "summary": "# NVIDIA invests $30 billion in Thinking Machines Lab, valuation surges to $40 billion. NVIDIA is leading a $30 billion funding round for Thinking Machines Lab, a major news highlight in the AI sector...",
+      "highlights": [
+        "# NVIDIA invests $30 billion in Thinking Machines Lab, valuation surges to $40 billion. NVIDIA is leading a $30 billion funding round for Thinking Machines Lab, a major news highlight in the AI sector. Co-founded by Mira Murati, the lab now has a pre-money valuation of $400 billion and aims to raise $50–60 billion, with NVIDIA potentially covering half the total. The company has launched its first model, Inkling, and is developing a model-tuning platform. Just after signing an acquisition agreement with Hugging Face, the world’s largest open-source model marketplace, news emerged that the company is preparing to offer a nearly $3 billion check to Mira Murati, OpenAI’s former CTO and one of Silicon Valley’s most prominent figures. Pre-money valuation surged to at least $40 billion, with plans to raise $5 to $6 billion, potentially with NVIDIA alone covering about half. If this $5 billion to $6 billion fundraising is successfully completed, the post-money valuation will approach $45 billion to $46 billion."
+      ],
+      "url": "https://www.kucoin.com/news/flash/nvidia-invests-30-billion-in-thinking-machines-lab-valuation-surges-to-40-billion",
+      "source": "kucoin.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-07T13:12:43Z"
+    },
+    {
+      "id": "4d9ef1a1c090",
+      "title": "Why data centre opposition could matter more to Anthropic's IPO than copyright lawsuits - Webcoda",
+      "summary": "### Why data centre opposition could matter more to Anthropic's IPO than copyright lawsuits. Sony Music Publishing and Warner Chappell sued Anthropic on 28 August. With a public IPO prospectus reporte...",
+      "highlights": [
+        "### Why data centre opposition could matter more to Anthropic's IPO than copyright lawsuits. Sony Music Publishing and Warner Chappell sued Anthropic on 28 August. With a public IPO prospectus reportedly due later this month, you'd expect copyright to be near the top of the company's worries. CNBC reports that the AI backlash, including public opposition to data centres, will feature among the filing's risks too. The infrastructure risk interests me because Anthropic can negotiate a settlement and keep selling access to Claude. It can't serve more customers from a data centre that's waiting for permission to connect to the grid. That also makes me interested in what could stop it growing, beyond the lawsuits that tend to get the headlines. Anthropic IPO filing will show AI backlash as a risk factor, sources say cnbc.com/2026/08/21/-an…. The narrower point is enough: the first two states Anthropic chose for its announced expansion are now reassessing how much of this infrastructure they'll allow, and on what terms."
+      ],
+      "url": "https://ai-checker.webcoda.com.au/articles/anthropic-ipo-risk-factors-data-centre-backlash-2026",
+      "source": "ai-checker.webcoda.com.au",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-07T07:32:10Z"
+    },
+    {
+      "id": "63585c6f183c",
+      "title": "How Wonderful AI went from zero to $70 million in revenue in one year - Ynetnews",
+      "summary": "# How Wonderful AI went from zero to $70 million in revenue in one year. ## The Israeli AI startup raised $550 million at a $5 billion valuation after shifting from multilingual voice agents to an 'AI...",
+      "highlights": [
+        "# How Wonderful AI went from zero to $70 million in revenue in one year. ## The Israeli AI startup raised $550 million at a $5 billion valuation after shifting from multilingual voice agents to an 'AI operating system,' with hundreds of specialists embedded at customer organizations and a costlier model than traditional software. Less than two years after it was founded, Israeli artificial intelligence startup Wonderful AI has reached a level of fundraising and revenue growth rarely seen in the country’s technology sector outside cybersecurity. Wonderful went from essentially no revenue a year ago to a current revenue pace of about $70 million, and is expected to reach $100 million by the end of the year. “What was truly brilliant was that Wonderful’s people quickly understood that once they got a foot in the door of an organization, it needed more and more assistance and guidance in adopting AI."
+      ],
+      "url": "https://www.ynetnews.com/business/article/hkrcy5juzx",
+      "source": "ynetnews.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-07T02:03:23Z"
+    },
+    {
+      "id": "917d9e820d61",
+      "title": "3个月斩获9个offer!自动驾驶转具身智能如何做?",
+      "summary": "自动驾驶、机器人、具身智能重磅干货,第一时间送达今年被称为“具身智能元年”,因为人形机器人、四足等的火爆,具身智能彻底...",
+      "highlights": [
+        "自动驾驶、机器人、具身智能重磅干货,第一时间送达今年被称为“具身智能元年”,因为人形机器人、四足等的火爆,具身智能彻底..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS6utDi3tCMrtVtXtFYba-rQx3A6gnvBUrlqXa8Fplpd9rp0j82LXpqs4MODr-4Lbm_P1xtc-fIir3rX0iRJRy9x0uPOdadJtoW0-UC8-eJACIHn_Fsc5Z0zmn_xZUk0p1fX_0Zrsmr0bKnIXG_acT2oBybt9iH0FwNKaQKTadij3rla5kQGdVm0diHcGy0sJfiuPoJ3B7RQaxCh65u6CBZc6Ebq8fk9diw..&amp;type=2&amp;query=%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD %E6%9C%BA%E5%99%A8%E4%BA%BA %E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6&amp;token=F13AB67D198816B58B8AD664E3D195238C0A378F6A9EFBF9",
+      "source": "微信公众号",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-09-07T10:51:02Z"
+    },
+    {
+      "id": "fb2cccd9056b",
+      "title": "Gulf AI firms are tapping on both U.S. and Chinese tech to preserve strategic optionality: Azimut - CNBC",
+      "summary": "Gulf AI firms are tapping on both U.S. and Chinese tech to preserve strategic optionality: Azimut. Saverio Papagno, Senior Portfolio Manager for Global Equities and Tech, Media and Telecoms at Azimut,...",
+      "highlights": [
+        "Gulf AI firms are tapping on both U.S. and Chinese tech to preserve strategic optionality: Azimut. Saverio Papagno, Senior Portfolio Manager for Global Equities and Tech, Media and Telecoms at Azimut, discusses Saudi AI firm Humain's IPO pipeline. He also explores why AI companies in the Middle East are working with both U.S. and China technology."
+      ],
+      "url": "https://www.cnbc.com/video/2026/09/07/gulf-ai-firms-tap-on-china-to-preserve-strategic-optionality-azimut.html",
+      "source": "cnbc.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-09-07T07:43:54Z"
     }
   ],
   "month": [
-    {
-      "id": "69024d9eb0d5",
-      "title": "宇树科技9天市值蒸发2164亿，“具身智能骗局论”站得住脚吗？",
-      "summary": "历史坐标清晰地告诉我们，当估值大幅脱离行业均值，提前透支了未来数年的增长预期时，剧烈的价值回归是大概率事件，但这并不等同于行业本身是“骗局”。\n\n技术的“ChatGPT时刻”，卡在历史同一条裂缝上\n\n“骗局论”的另一大支撑，是技术落地不及预期。宇树创始人王兴兴公开承认，机器人在固定场景充分训练后，成功率可接近100%，但环境或物体稍有变化，成功率便大幅下降。他预期的行业“ChatGPT时刻”——即...",
-      "highlights": [
-        "历史坐标清晰地告诉我们，当估值大幅脱离行业均值，提前透支了未来数年的增长预期时，剧烈的价值回归是大概率事件，但这并不等同于行业本身是“骗局”",
-        "技术的“ChatGPT时刻”，卡在历史同一条裂缝上",
-        "“骗局论”的另一大支撑，是技术落地不及预期"
-      ],
-      "url": "https://finance.ifeng.com/c/8wB3ioB6WHd",
-      "source": "finance.ifeng.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-05T06:42:04Z"
-    },
     {
       "id": "48010287bd76",
       "title": "疯狂买买买，英伟达的野心何在？",
@@ -670,21 +840,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-06T02:00:00Z"
-    },
-    {
-      "id": "7d18801a1a7d",
-      "title": "Congress goes quiet as AI safety concerns mount",
-      "summary": "GPT-6 Astra might be too powerful to understand or control — Celia Ford looks under the hood at OpenAI’s latest model, revealing that even its creators can’t reliably tell when it’s aligned or just pl...",
-      "highlights": [
-        "GPT-6 Astra might be too powerful to understand or control — Celia Ford looks under the hood at OpenAI’s latest model, revealing that even its creators can’t reliably tell when it’s aligned or just playing along",
-        "What’s neuralese and why is everyone so concerned about it? — Shakeel Hashim assesses the latest worries over monitoring the reasoning of advanced AI systems [...] AI safety concerns are growing by the day. A swarm of OpenAI model agents hacked Hugging Face. A report from the UK’s AISI showed an Anthropic model taking on “multiple fake identities.” Last night, OpenAI released a new model which, as Transformer’s Celia Ford reports, is much harder to monitor than previous models, and which has OpenAI employees “deeply concerned.” And just today, we learned that OpenAI had yet another rogue AI incident this May, with models hacking into a German website and [...] Tim Cook officially handed over the reins at Apple to John Ternus.",
-        "Matt Clifford announced he was joining Anthropic as managing director of international affairs."
-      ],
-      "url": "https://www.transformernews.ai/p/congress-goes-quiet-as-ai-safety-concerns-grow?action=share",
-      "source": "transformernews.ai",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-05T12:00:00Z"
     },
     {
       "id": "d83825e57188",
@@ -788,6 +943,36 @@
       "category": "前沿理论",
       "importance": 5,
       "publishedAt": "2026-09-06T00:00:32Z"
+    },
+    {
+      "id": "40bc7811c61c",
+      "title": "Anthropic, OpenAI, Meta and Google All Shipped New AI Models in One Week - Startup Fortune",
+      "summary": "how often it reuses context - and whether the model burns output tokens while reasoning before it gives you an answer. [...] Home › Ai\n\n# Anthropic, OpenAI, Meta and Google All Shipped New AI Models i...",
+      "highlights": [
+        "how often it reuses context - and whether the model burns output tokens while reasoning before it gives you an answer. [...] Home › Ai",
+        "# Anthropic, OpenAI, Meta and Google All Shipped New AI Models in One Week",
+        "Anthropic, OpenAI, Meta and Google all shipped new AI models in the same week in early September 2026, prompting CNBC to describe a new phenomenon: model fatigue. Runpod CEO Zhen Lu says the pace is disorienting IT buyers, even as over 1,100 lab employees have separately petitioned Washington to help pace frontier AI development."
+      ],
+      "url": "https://startupfortune.com/anthropic-openai-meta-and-google-all-shipped-new-ai-models-in-one-week",
+      "source": "startupfortune.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-06T13:24:12Z"
+    },
+    {
+      "id": "b0f773497ac3",
+      "title": "从沙特到西班牙，中国开源模型成海外AI“地基”-观察者网",
+      "summary": "扫一扫\n\n下载观察者APP\n\n ### 从沙特到西班牙，中国开源模型成海外AI“地基”\n\n  + \n\n    赖家琪\n\n  分享到：\n\n  2026-09-07 17:58:54 字号：A-;) A;) A+;) 来源：观察者网\n\n  （文/赖家琪 编辑/吕栋）\n\n  中国人工智能（AI）大模型正在以一种更“隐蔽”的方式出海。\n\n  它们不一定以“中国模型”的名字出现，也不一定直接向海外用户提供服...",
+      "highlights": [
+        "### 从沙特到西班牙，中国开源模型成海外AI“地基”",
+        "2026-09-07 17:58:54 字号：A-;) A;) A+;) 来源：观察者网",
+        "（文/赖家琪 编辑/吕栋）"
+      ],
+      "url": "https://www.guancha.cn/economy/2026_09_07_830334.shtml",
+      "source": "guancha.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-07T09:00:00Z"
     }
   ]
 }
