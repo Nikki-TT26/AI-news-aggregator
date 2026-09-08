@@ -1,36 +1,6 @@
 {
-  "updatedAt": "2026-09-08T06:01:36Z",
+  "updatedAt": "2026-09-08T12:01:49Z",
   "latest": [
-    {
-      "id": "e2f4fbb7992d",
-      "title": "黑石启动60亿英镑地产平台退出计划 私募股权撤退窗口渐启？",
-      "summary": "公开数据显示，2023年，全球私募股权退出交易额同比下降44%，2024年交易数量小幅回升但仍处五年低位。\n\n2025年被贝恩公司称为是私募股权终于“站稳脚跟”的一年，同时强调这是一场“K型复苏”——退出和交易金额明显回升，但复苏面较窄，分销水平依然低迷。\n\n来到2026年，市场普遍认为IPO窗口存在阶段性回暖，退出活动有所改善，但市场依然波动性较大，今年来的私募退出活动集中在优质资产和定制化的交...",
-      "highlights": [
-        "公开数据显示，2023年，全球私募股权退出交易额同比下降44%，2024年交易数量小幅回升但仍处五年低位",
-        "2025年被贝恩公司称为是私募股权终于“站稳脚跟”的一年，同时强调这是一场“K型复苏”——退出和交易金额明显回升，但复苏面较窄，分销水平依然低迷",
-        "来到2026年，市场普遍认为IPO窗口存在阶段性回暖，退出活动有所改善，但市场依然波动性较大，今年来的私募退出活动集中在优质资产和定制化的交易流程"
-      ],
-      "url": "https://www.cls.cn/detail/2419195",
-      "source": "cls.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-06T12:00:00Z"
-    },
-    {
-      "id": "edbb972b73f0",
-      "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
-      "summary": "Meta and Google didn't provide comments for this story. Representatives from Anthropic, OpenAI and Google didn't respond to requests for comment.\n\nNot all model updates are created equal.\n\nUnlike Open...",
-      "highlights": [
-        "Meta and Google didn't provide comments for this story. Representatives from Anthropic, OpenAI and Google didn't respond to requests for comment.",
-        "Not all model updates are created equal.",
-        "Unlike OpenAI's GPT-6 Astra, the various rollouts this week from Anthropic, Meta and Google represented \"point releases,\" Faro said. That means the companies were upgrading an existing AI model rather than building a completely new one. [...] First it was updates to Anthropic's Fable and Mythos. Then came model enhancements from Meta and Google. OpenAI followed suit by releasing GPT-6 Astra."
-      ],
-      "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
-      "source": "cnbc.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-06T12:00:01Z"
-    },
     {
       "id": "dee99d0b3241",
       "title": "英伟达129亿美元收购 Hugging Face，暴露关键 AI 芯片缺口",
@@ -192,48 +162,64 @@
       "publishedAt": "2026-09-06T12:48:41Z"
     },
     {
-      "id": "14a25f1b2409",
-      "title": "Genesys接入八家AI伙伴，Adobe能力预计2027年推出",
-      "summary": "Sierra则属于专业智能体层。企业可以让Sierra智能体与Genesys自己的Agentic Virtual Agents进入同一客户旅程，由Genesys Cloud协调何时调用不同智能体；这描述的是跨产品编排关系，不是把Sierra变成Genesys自研功能。\n\n目前可以确定的是，Genesys在同一天把八家公司纳入一份生态扩展公告，其中六家伙伴的相关能力已可用，ElevenLabs和Ad...",
+      "id": "ece43f459dba",
+      "title": "豆包跨越「临界点」后，字节AI下一步怎么走？",
+      "summary": "总结来看，以大模型的开发、落地和应用为抓手，火山引擎已经建立了一整套基于 AI 的原生业务体系——而毫无疑问，持续推动大模型的能力提升和价值落地，依旧是字节跳动在 AI 时代构建核心竞争力的重中之重。\n\n从这个角度来看，无论是豆包 2.1 Pro，还是 Seedance 2.5，这些已经跨越了「临界点」的最新模型成果，本质上都是字节跳动与火山引擎在攀登 AI 高峰道路上的一个节点。而正如梁汝波所言...",
       "highlights": [
-        "Sierra则属于专业智能体层",
-        "企业可以让Sierra智能体与Genesys自己的Agentic Virtual Agents进入同一客户旅程，由Genesys Cloud协调何时调用不同智能体；这描述的是跨产品编排关系，不是把Sierra变成Genesys自研功能",
-        "目前可以确定的是，Genesys在同一天把八家公司纳入一份生态扩展公告，其中六家伙伴的相关能力已可用，ElevenLabs和Adobe分别处于后续发布阶段，更深层A2A互操作还有单独排期"
+        "总结来看，以大模型的开发、落地和应用为抓手，火山引擎已经建立了一整套基于 AI 的原生业务体系——而毫无疑问，持续推动大模型的能力提升和价值落地，依旧是字节跳动在 AI 时代构建核心竞争力的重中之重",
+        "从这个角度来看，无论是豆包 2.1 Pro，还是 Seedance 2.5，这些已经跨越了「临界点」的最新模型成果，本质上都是字节跳动与火山引擎在攀登 AI 高峰道路上的一个节点",
+        "而正如梁汝波所言，AI 的发展仍处于早期阶段，而这条属于字节 AI 的攀登之路也还很长"
       ],
-      "url": "https://quasa.io/zh/media/genesysyi-ci-jie-ru-ba-jia-aihuo-ban-dan-adobeneng-li-yao-deng-dao-ming-nian",
-      "source": "quasa.io",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-06T08:00:00Z"
+      "url": "https://m.36kr.com/p/3867066152713092",
+      "source": "m.36kr.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-08T06:28:13Z"
     },
     {
-      "id": "55a3cd9d02ba",
-      "title": "对话无界动力张玉峰：具身智能5年后有望对标成年人劳动能力|亚布力论坛|扫地机器人|智能驾驶|新浪科技|成都市_手机新浪网",
-      "summary": "## 新浪科技 产经\n\n  \n\n新浪科技讯 9月5日晚间消息，2026年亚布力论坛夏季年会于9月4-6日在成都召开。会议期间，新浪科技与无界动力创始人兼CEO张玉峰展开对话。他表示，如果将具身智能与智能驾驶行业做类比，当前的具身智能大约处于2019年前后的自动驾驶阶段。\n\n他预判5年后，具身智能有机会达到一个成年人“面向劳动、能思考会劳动”的水平，并且可依赖、可信赖。在家庭场景方面，张玉峰认为，机...",
+      "id": "ab403c97188d",
+      "title": "DeepSeek扩招画风突变，150个岗位全部非AI研究方向",
+      "summary": "界面新闻logo\n\n登录\n\n\n\n旧版搜索\n\n 新版搜索\n 旧版搜索\n\n#### 历史搜索 全部删除;)\n\n#### 热门搜索\n\n\n\n扫一扫下载界面新闻APP\n\n其他途径关注界面…\n\n# DeepSeek扩招画风突变，150个岗位全部非AI研究方向\n\n此次招聘的岗位全部集中在工程落地方向。\n\n李科峰 · 来源：界面新闻\n\nDeepSeek扩招；画风突变；150个岗位；非AI研究方向\n\n图片来源：视觉...",
       "highlights": [
-        "新浪科技讯 9月5日晚间消息，2026年亚布力论坛夏季年会于9月4-6日在成都召开",
-        "会议期间，新浪科技与无界动力创始人兼CEO张玉峰展开对话",
-        "他表示，如果将具身智能与智能驾驶行业做类比，当前的具身智能大约处于2019年前后的自动驾驶阶段"
+        "#### 历史搜索 全部删除;)",
+        "扫一扫下载界面新闻APP",
+        "# DeepSeek扩招画风突变，150个岗位全部非AI研究方向"
       ],
-      "url": "https://finance.sina.cn/chanjing/gsxw/2026-09-06/detail-iniqvzve6962934.d.html?vt=4&cid=76478&node_id=76478",
-      "source": "finance.sina.cn",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-09-06T09:53:53Z"
+      "url": "https://www.jiemian.com/article/15067338.html",
+      "source": "jiemian.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-08T04:00:00Z"
     },
     {
-      "id": "2d1702455bd7",
-      "title": "金龙备用入口网址发布企业级AI Agent平台V3.0，以深度推理与多模态融合打开智能自动化新空间",
-      "summary": "近年来，随着大语言模型技术的快速迭代，企业级AI应用正从简单的对话问答转向具备自主规划、执行与反思能力的智能体（Agent）形态。据市场调研机构预测，2026年全球AI",
+      "id": "5d143d001c9a",
+      "title": "传高德将推出“扫雷榜”；智谱天猫首店搜索暴涨50倍；小云雀换 ... - i黑马",
+      "summary": "此前，星火X2.5-4B和1.7B两款端侧模型已开源，支持最长100万Token上下文，可本地部署于长文档处理、代码辅助、数据分析等场景。\n\n8.华为云码道Space轻量化客户端开启公测\n\n8 月 26 日，华为云码道 CodeArts 代码智能体旗下码道 Space 轻量化客户端正式开启公测。\n\n码道 Space 是一款面向办公及研发用户的独立桌面 AI 工作台，内置代码编辑、浏览器预览、文档处...",
       "highlights": [
-        "近年来，随着大语言模型技术的快速迭代，企业级AI应用正从简单的对话问答转向具备自主规划、执行与反思能力的智能体（Agent）形态",
-        "据市场调研机构预测，2026年全球AI"
+        "此前，星火X2.5-4B和1.7B两款端侧模型已开源，支持最长100万Token上下文，可本地部署于长文档处理、代码辅助、数据分析等场景",
+        "8.华为云码道Space轻量化客户端开启公测",
+        "8 月 26 日，华为云码道 CodeArts 代码智能体旗下码道 Space 轻量化客户端正式开启公测"
       ],
-      "url": "https://m.ttplus.cn/wiki3718073809.shtml",
-      "source": "m.ttplus.cn",
+      "url": "http://www.iheima.com/article-401631.html",
+      "source": "iheima.com",
       "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-06T10:00:00Z"
+      "importance": 5,
+      "publishedAt": "2026-09-07T09:00:00Z"
+    },
+    {
+      "id": "74591301c9c7",
+      "title": "Anthropic上市前夕突发剧变，放弃收购初创公司Decart AI",
+      "summary": "据彭博社9月8日报道，Anthropic决定放弃以高达 60 亿至 70 亿美元收购以色列 AI 算力优化初创公司 Decart AI 的交易。在冲刺IPO的关键节点，Anthropic放弃这笔原本有望成为其历史上最大规模的收购案，引发了科技界与美股一级市场的高度关注与疑惑：为什么在 IPO 前夕选择急刹车？\n\nDecart AI 专注于 AI 算力与芯片推理效率优化，其开发的DOS机能够跨平台提...",
+      "highlights": [
+        "据彭博社9月8日报道，Anthropic决定放弃以高达 60 亿至 70 亿美元收购以色列 AI 算力优化初创公司 Decart AI 的交易",
+        "在冲刺IPO的关键节点，Anthropic放弃这笔原本有望成为其历史上最大规模的收购案，引发了科技界与美股一级市场的高度关注与疑惑：为什么在 IPO 前夕选择急刹车",
+        "Decart AI 专注于 AI 算力与芯片推理效率优化，其开发的DOS机能够跨平台提升芯片运算效率最高达 8 倍，同时还具备实时 AI 视频生成能力"
+      ],
+      "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262155004-stock-ipo-anthropic-decart-ai-dos-tradingkey",
+      "source": "tradingkey.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-07T12:00:00Z"
     },
     {
       "id": "e5f7c42b6be8",
@@ -322,19 +308,6 @@
       "publishedAt": "2026-09-06T18:00:00Z"
     },
     {
-      "id": "6ed758028b9e",
-      "title": "Nvidia’s $12.9B Hugging Face deal shows why IPOs are now optional - PitchBook",
-      "summary": "# Nvidia’s $12.9B Hugging Face deal shows why IPOs are now optional. The chipmaker’s acquisition is the latest sign that AI’s exit path runs through corporate balance sheets, not Wall Street. Before t...",
-      "highlights": [
-        "# Nvidia’s $12.9B Hugging Face deal shows why IPOs are now optional. The chipmaker’s acquisition is the latest sign that AI’s exit path runs through corporate balance sheets, not Wall Street. Before the late 2010s, a company scaling past $50 million in revenue had few options but to go public. The stock market was the only place a startup could scale, raise growth capital, and pay back its investors. “I’m starting to sense a new mindset is forming across VC: A successful startup no longer has to become a public company,” said Harrison Rolfes, senior analyst of private companies at PitchBook. “The IPO is not ‘disappearing,’ but evolving from the expected destination into a deliberate choice for companies that need public capital or value their independence.”. These are the types of companies that have no other choice but to go public: those whose capital needs are too large for any private buyer to satisfy. Hugging Face, for its part, could have waited for an IPO."
-      ],
-      "url": "https://pitchbook.com/news/articles/nvidias-hugging-deal-ipos-are-optional",
-      "source": "pitchbook.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-09-06T10:03:00Z"
-    },
-    {
       "id": "fff1aeea7079",
       "title": "NVIDIA invests $30 billion in Thinking Machines Lab, valuation surges to $40 billion - KuCoin",
       "summary": "# NVIDIA invests $30 billion in Thinking Machines Lab, valuation surges to $40 billion. NVIDIA is leading a $30 billion funding round for Thinking Machines Lab, a major news highlight in the AI sector...",
@@ -419,6 +392,21 @@
       "publishedAt": "2026-09-08T01:00:00Z"
     },
     {
+      "id": "afc38bd7c718",
+      "title": "机器人在摊煎饼，资本在炒4000亿：谁在裸泳？-虎嗅网",
+      "summary": "虎嗅logo\n虎嗅\n\n# 机器人在摊煎饼，资本在炒4000亿：谁在裸泳？\n\nauthor_path\n\n本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯\n\n2026世界机器人大会正进行的如火如荼，天生爱热闹的我愣是没忍住还是去逛了逛，3000多件展品，300多家企业，5万平米展区，微信步数直逼两万。\n\n原本想看一群机器人赛跑、翻跟头、打太极、跟人类歌手同台飙歌，结果这样的热闹没看到，却看到了另外一番热...",
+      "highlights": [
+        "# 机器人在摊煎饼，资本在炒4000亿：谁在裸泳",
+        "author_path",
+        "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯"
+      ],
+      "url": "https://m.huxiu.com/article/4889038.html?type=text",
+      "source": "m.huxiu.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-07T02:07:06Z"
+    },
+    {
       "id": "823d5b46325c",
       "title": "星云科技发布3亿首页大模型：MMLU 93.7分、HumanEval 92.1%，刷新多项基准测试纪录-体坛网_体坛+",
       "summary": "2026年5月15日，星云科技在年度AI开发者大会上正式发布其最新一代大语言模型——3亿首页。该模型以1.8T参数、15T tokens的多模态高质量数据训练，在MMLU（大规模多任务",
@@ -431,9 +419,54 @@
       "category": "模型发布",
       "importance": 3,
       "publishedAt": "2026-09-07T06:00:00Z"
+    },
+    {
+      "id": "c6a03335c50e",
+      "title": "突发！Claude黎曼猜想最大突破，已被人类数学家验证 - 智源社区",
+      "summary": "增长的巨大矩阵，硬算出矩阵的迹和Hilbert–Schmidt范数，最后靠着一套复杂的秩-迹不等式，卡住了零点的下界，硬是将边界推高到了67.25%！\n\n该结果也得到了数学家Alpöge和Furman的初步验证。\n\n结果一出，天下哗然。人类距离彻底击败黎曼猜想，只剩下最后的32.75%！\n\n但当人类数学家拿到AI的证明过程时，全都沉默了。\n\n这份证明太丑了。或者说，太「非人」了。\n\n通过穷举、拼接...",
+      "highlights": [
+        "增长的巨大矩阵，硬算出矩阵的迹和Hilbert–Schmidt范数，最后靠着一套复杂的秩-迹不等式，卡住了零点的下界，硬是将边界推高到了67.25%",
+        "该结果也得到了数学家Alpöge和Furman的初步验证",
+        "人类距离彻底击败黎曼猜想，只剩下最后的32.75%"
+      ],
+      "url": "https://hub.baai.ac.cn/view/57761",
+      "source": "hub.baai.ac.cn",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-09-07T09:00:00Z"
     }
   ],
   "today": [
+    {
+      "id": "ece43f459dba",
+      "title": "豆包跨越「临界点」后，字节AI下一步怎么走？",
+      "summary": "总结来看，以大模型的开发、落地和应用为抓手，火山引擎已经建立了一整套基于 AI 的原生业务体系——而毫无疑问，持续推动大模型的能力提升和价值落地，依旧是字节跳动在 AI 时代构建核心竞争力的重中之重。\n\n从这个角度来看，无论是豆包 2.1 Pro，还是 Seedance 2.5，这些已经跨越了「临界点」的最新模型成果，本质上都是字节跳动与火山引擎在攀登 AI 高峰道路上的一个节点。而正如梁汝波所言...",
+      "highlights": [
+        "总结来看，以大模型的开发、落地和应用为抓手，火山引擎已经建立了一整套基于 AI 的原生业务体系——而毫无疑问，持续推动大模型的能力提升和价值落地，依旧是字节跳动在 AI 时代构建核心竞争力的重中之重",
+        "从这个角度来看，无论是豆包 2.1 Pro，还是 Seedance 2.5，这些已经跨越了「临界点」的最新模型成果，本质上都是字节跳动与火山引擎在攀登 AI 高峰道路上的一个节点",
+        "而正如梁汝波所言，AI 的发展仍处于早期阶段，而这条属于字节 AI 的攀登之路也还很长"
+      ],
+      "url": "https://m.36kr.com/p/3867066152713092",
+      "source": "m.36kr.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-08T06:28:13Z"
+    },
+    {
+      "id": "ab403c97188d",
+      "title": "DeepSeek扩招画风突变，150个岗位全部非AI研究方向",
+      "summary": "界面新闻logo\n\n登录\n\n\n\n旧版搜索\n\n 新版搜索\n 旧版搜索\n\n#### 历史搜索 全部删除;)\n\n#### 热门搜索\n\n\n\n扫一扫下载界面新闻APP\n\n其他途径关注界面…\n\n# DeepSeek扩招画风突变，150个岗位全部非AI研究方向\n\n此次招聘的岗位全部集中在工程落地方向。\n\n李科峰 · 来源：界面新闻\n\nDeepSeek扩招；画风突变；150个岗位；非AI研究方向\n\n图片来源：视觉...",
+      "highlights": [
+        "#### 历史搜索 全部删除;)",
+        "扫一扫下载界面新闻APP",
+        "# DeepSeek扩招画风突变，150个岗位全部非AI研究方向"
+      ],
+      "url": "https://www.jiemian.com/article/15067338.html",
+      "source": "jiemian.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-08T04:00:00Z"
+    },
     {
       "id": "9f9d685320c7",
       "title": "原小米L3负责人王乃岩创业：集结图森旧部，攻坚具身大脑",
@@ -465,6 +498,19 @@
       "publishedAt": "2026-09-08T01:00:00Z"
     },
     {
+      "id": "f029b24be5f2",
+      "title": "字节跳动新AI模型曝光,张一鸣亲自负责;雷军发布小米史上最贵手机;长鑫科技回应与苹果合作;Kimi最新一轮投后估值350亿美元丨邦早报",
+      "summary": "根据OpenRouter最新数据测算,上周(8月31日至9月6日)全球AI大模型总调用量为115万亿Token,环比增长1.77%.其中,上榜的AI...",
+      "highlights": [
+        "根据OpenRouter最新数据测算,上周(8月31日至9月6日)全球AI大模型总调用量为115万亿Token,环比增长1.77%.其中,上榜的AI..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS6utDi3tCMrtoy3fGEe-1V6lizVkPLJ5oFqXa8Fplpd9isqUSvV3WxLxWQzG85qlVFmyS2TztLcX5huL9nnIJrwd-VdI1ylW00Jhx_wU4hcj1E6jtYzZPBulmje0viT_bg3d6hqMq5yykPFHFBi0AecQ17PwLwt1KJ6uFbKf7ZVQLXz8D_z6kqX7Ce9dkoSVzPPNeGRIP4RCCe5Uev86OElCy6umSSPEsg..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=F69C4E0E822D339DA5A3FE53DBC6C38DA5378C4B6A9FF924",
+      "source": "微信公众号",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-09-08T00:08:06Z"
+    },
+    {
       "id": "6c0b957d9897",
       "title": "传百度文心快码并入百度搭子",
       "summary": "百度智能代码助手文心快码日前正式并入通用智能体平台百度搭子，成为智能体事业部的核心能力模块。文心快码是百度打造的AI编程助手，已服务超过1000万开发者。",
@@ -477,6 +523,32 @@
       "category": "模型发布",
       "importance": 2,
       "publishedAt": "2026-09-08T04:00:00Z"
+    },
+    {
+      "id": "965ac1183aaa",
+      "title": "瞭望 | 美国能迎来科技“新黄金时代”吗",
+      "summary": "（来源：新华社） 《科学：新黄金时代》报告指出当前美国科研体系的深层矛盾，提出覆盖科研体系全链条的系统性改革方案前沿技术创新呈现出基础研究与应用研究深度",
+      "highlights": [
+        "（来源：新华社） 《科学：新黄金时代》报告指出当前美国科研体系的深层矛盾，提出覆盖科研体系全链条的系统性改革方案前沿技术创新呈现出基础研究与应用研究深度"
+      ],
+      "url": "https://finance.sina.cn/stock/jdts/2026-09-08/detail-inirayqw6069420.d.html?vt=4&wm=1224%3Fpagetag&cid=76993&node_id=76993",
+      "source": "finance.sina.cn",
+      "category": "前沿理论",
+      "importance": 2,
+      "publishedAt": "2026-09-08T08:00:00Z"
+    },
+    {
+      "id": "265264ff143c",
+      "title": "机器人与智驾竞速:具身智能人才缺口如何补?| 数说",
+      "summary": "随着具身智能新赛道加速崛起,人形机器人、智能驾驶催生全新人才需求.高职、普通本科、研究生专业分层布局,产业链人才供需错...",
+      "highlights": [
+        "随着具身智能新赛道加速崛起,人形机器人、智能驾驶催生全新人才需求.高职、普通本科、研究生专业分层布局,产业链人才供需错..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS6utDi3tCMrtwU6A97JYpRClizVkPLJ5oFqXa8Fplpd9QftydRWytiVsW9w-yjlnEDjafES3yAL3gylzZpB4WE75eQtdXX2kSFdbjaMm5ZApvTKL-NvEyRKTxr_5HE9AJz_JOnVP5bj8bvhhFj4voFL1-66IlXgBOrxXN8e05D4WOgniQ107xphpgKTtcTcB6hUrwCw-odjIjqmQGCwh1jbvzHZXxeLdyg..&amp;type=2&amp;query=%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD %E6%9C%BA%E5%99%A8%E4%BA%BA %E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6&amp;token=F69C85257DD2CD635A5C01AC258759A25B6343526A9FF92C",
+      "source": "微信公众号",
+      "category": "具身智能",
+      "importance": 2,
+      "publishedAt": "2026-09-08T09:03:32Z"
     }
   ],
   "week": [
@@ -581,6 +653,66 @@
       "publishedAt": "2026-09-07T00:29:00Z"
     },
     {
+      "id": "ece43f459dba",
+      "title": "豆包跨越「临界点」后，字节AI下一步怎么走？",
+      "summary": "总结来看，以大模型的开发、落地和应用为抓手，火山引擎已经建立了一整套基于 AI 的原生业务体系——而毫无疑问，持续推动大模型的能力提升和价值落地，依旧是字节跳动在 AI 时代构建核心竞争力的重中之重。\n\n从这个角度来看，无论是豆包 2.1 Pro，还是 Seedance 2.5，这些已经跨越了「临界点」的最新模型成果，本质上都是字节跳动与火山引擎在攀登 AI 高峰道路上的一个节点。而正如梁汝波所言...",
+      "highlights": [
+        "总结来看，以大模型的开发、落地和应用为抓手，火山引擎已经建立了一整套基于 AI 的原生业务体系——而毫无疑问，持续推动大模型的能力提升和价值落地，依旧是字节跳动在 AI 时代构建核心竞争力的重中之重",
+        "从这个角度来看，无论是豆包 2.1 Pro，还是 Seedance 2.5，这些已经跨越了「临界点」的最新模型成果，本质上都是字节跳动与火山引擎在攀登 AI 高峰道路上的一个节点",
+        "而正如梁汝波所言，AI 的发展仍处于早期阶段，而这条属于字节 AI 的攀登之路也还很长"
+      ],
+      "url": "https://m.36kr.com/p/3867066152713092",
+      "source": "m.36kr.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-08T06:28:13Z"
+    },
+    {
+      "id": "ab403c97188d",
+      "title": "DeepSeek扩招画风突变，150个岗位全部非AI研究方向",
+      "summary": "界面新闻logo\n\n登录\n\n\n\n旧版搜索\n\n 新版搜索\n 旧版搜索\n\n#### 历史搜索 全部删除;)\n\n#### 热门搜索\n\n\n\n扫一扫下载界面新闻APP\n\n其他途径关注界面…\n\n# DeepSeek扩招画风突变，150个岗位全部非AI研究方向\n\n此次招聘的岗位全部集中在工程落地方向。\n\n李科峰 · 来源：界面新闻\n\nDeepSeek扩招；画风突变；150个岗位；非AI研究方向\n\n图片来源：视觉...",
+      "highlights": [
+        "#### 历史搜索 全部删除;)",
+        "扫一扫下载界面新闻APP",
+        "# DeepSeek扩招画风突变，150个岗位全部非AI研究方向"
+      ],
+      "url": "https://www.jiemian.com/article/15067338.html",
+      "source": "jiemian.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-08T04:00:00Z"
+    },
+    {
+      "id": "5d143d001c9a",
+      "title": "传高德将推出“扫雷榜”；智谱天猫首店搜索暴涨50倍；小云雀换 ... - i黑马",
+      "summary": "此前，星火X2.5-4B和1.7B两款端侧模型已开源，支持最长100万Token上下文，可本地部署于长文档处理、代码辅助、数据分析等场景。\n\n8.华为云码道Space轻量化客户端开启公测\n\n8 月 26 日，华为云码道 CodeArts 代码智能体旗下码道 Space 轻量化客户端正式开启公测。\n\n码道 Space 是一款面向办公及研发用户的独立桌面 AI 工作台，内置代码编辑、浏览器预览、文档处...",
+      "highlights": [
+        "此前，星火X2.5-4B和1.7B两款端侧模型已开源，支持最长100万Token上下文，可本地部署于长文档处理、代码辅助、数据分析等场景",
+        "8.华为云码道Space轻量化客户端开启公测",
+        "8 月 26 日，华为云码道 CodeArts 代码智能体旗下码道 Space 轻量化客户端正式开启公测"
+      ],
+      "url": "http://www.iheima.com/article-401631.html",
+      "source": "iheima.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-07T09:00:00Z"
+    },
+    {
+      "id": "74591301c9c7",
+      "title": "Anthropic上市前夕突发剧变，放弃收购初创公司Decart AI",
+      "summary": "据彭博社9月8日报道，Anthropic决定放弃以高达 60 亿至 70 亿美元收购以色列 AI 算力优化初创公司 Decart AI 的交易。在冲刺IPO的关键节点，Anthropic放弃这笔原本有望成为其历史上最大规模的收购案，引发了科技界与美股一级市场的高度关注与疑惑：为什么在 IPO 前夕选择急刹车？\n\nDecart AI 专注于 AI 算力与芯片推理效率优化，其开发的DOS机能够跨平台提...",
+      "highlights": [
+        "据彭博社9月8日报道，Anthropic决定放弃以高达 60 亿至 70 亿美元收购以色列 AI 算力优化初创公司 Decart AI 的交易",
+        "在冲刺IPO的关键节点，Anthropic放弃这笔原本有望成为其历史上最大规模的收购案，引发了科技界与美股一级市场的高度关注与疑惑：为什么在 IPO 前夕选择急刹车",
+        "Decart AI 专注于 AI 算力与芯片推理效率优化，其开发的DOS机能够跨平台提升芯片运算效率最高达 8 倍，同时还具备实时 AI 视频生成能力"
+      ],
+      "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262155004-stock-ipo-anthropic-decart-ai-dos-tradingkey",
+      "source": "tradingkey.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-07T12:00:00Z"
+    },
+    {
       "id": "e5f7c42b6be8",
       "title": "OpenAI发布GPT-6 Astra，黄仁勋表示AGI已经到来",
       "summary": "2026年9月7日凌晨，NVIDIA首席执行官黄仁勋在X平台发布了一条帖子。他在祝贺OpenAI发布最新大模型GPT-6 Astra的同时，抛出了一个极具争议的观点：“AGI已经到来。”.",
@@ -636,91 +768,9 @@
       "category": "芯片硬件",
       "importance": 4,
       "publishedAt": "2026-09-07T08:29:51Z"
-    },
-    {
-      "id": "5b1a4c16582b",
-      "title": "AI行业市场规模、上下游产业链、重点企业调研、投资机会分析（2026年）--手机中研网",
-      "summary": "报告 可研 商计 产业规划 产业园区 特色小镇 消费者调研 十五五规划 市场地位 峰会\n\n登录 注册  手机版中研网\n\n手机版中研网\n\n## 手机版中研网\n\n中研普华_中研网\n\n 首页\n 资讯\n 研究院\n 规划院\n 招商易\n 大数据\n 找投资\n 选项目\n\n研究报告服务热线\n:   400-856-5388\n\n当前位置：\n:   中研网 > 结果页\n\n智能治疗智慧旅游槟榔行业眼霜行业商用电视全系投影...",
-      "highlights": [
-        "报告 可研 商计 产业规划 产业园区 特色小镇 消费者调研 十五五规划 市场地位 峰会",
-        "登录 注册  手机版中研网",
-        ":   400-856-5388"
-      ],
-      "url": "https://m.10jqka.com.cn/20260907/c679654327.shtml",
-      "source": "m.10jqka.com.cn",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-07T08:00:00Z"
-    },
-    {
-      "id": "fff1aeea7079",
-      "title": "NVIDIA invests $30 billion in Thinking Machines Lab, valuation surges to $40 billion - KuCoin",
-      "summary": "# NVIDIA invests $30 billion in Thinking Machines Lab, valuation surges to $40 billion. NVIDIA is leading a $30 billion funding round for Thinking Machines Lab, a major news highlight in the AI sector...",
-      "highlights": [
-        "# NVIDIA invests $30 billion in Thinking Machines Lab, valuation surges to $40 billion. NVIDIA is leading a $30 billion funding round for Thinking Machines Lab, a major news highlight in the AI sector. Co-founded by Mira Murati, the lab now has a pre-money valuation of $400 billion and aims to raise $50–60 billion, with NVIDIA potentially covering half the total. The company has launched its first model, Inkling, and is developing a model-tuning platform. Just after signing an acquisition agreement with Hugging Face, the world’s largest open-source model marketplace, news emerged that the company is preparing to offer a nearly $3 billion check to Mira Murati, OpenAI’s former CTO and one of Silicon Valley’s most prominent figures. Pre-money valuation surged to at least $40 billion, with plans to raise $5 to $6 billion, potentially with NVIDIA alone covering about half. If this $5 billion to $6 billion fundraising is successfully completed, the post-money valuation will approach $45 billion to $46 billion."
-      ],
-      "url": "https://www.kucoin.com/news/flash/nvidia-invests-30-billion-in-thinking-machines-lab-valuation-surges-to-40-billion",
-      "source": "kucoin.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-09-07T13:12:43Z"
-    },
-    {
-      "id": "4d9ef1a1c090",
-      "title": "Why data centre opposition could matter more to Anthropic's IPO than copyright lawsuits - Webcoda",
-      "summary": "### Why data centre opposition could matter more to Anthropic's IPO than copyright lawsuits. Sony Music Publishing and Warner Chappell sued Anthropic on 28 August. With a public IPO prospectus reporte...",
-      "highlights": [
-        "### Why data centre opposition could matter more to Anthropic's IPO than copyright lawsuits. Sony Music Publishing and Warner Chappell sued Anthropic on 28 August. With a public IPO prospectus reportedly due later this month, you'd expect copyright to be near the top of the company's worries. CNBC reports that the AI backlash, including public opposition to data centres, will feature among the filing's risks too. The infrastructure risk interests me because Anthropic can negotiate a settlement and keep selling access to Claude. It can't serve more customers from a data centre that's waiting for permission to connect to the grid. That also makes me interested in what could stop it growing, beyond the lawsuits that tend to get the headlines. Anthropic IPO filing will show AI backlash as a risk factor, sources say cnbc.com/2026/08/21/-an…. The narrower point is enough: the first two states Anthropic chose for its announced expansion are now reassessing how much of this infrastructure they'll allow, and on what terms."
-      ],
-      "url": "https://ai-checker.webcoda.com.au/articles/anthropic-ipo-risk-factors-data-centre-backlash-2026",
-      "source": "ai-checker.webcoda.com.au",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-07T07:32:10Z"
-    },
-    {
-      "id": "63585c6f183c",
-      "title": "How Wonderful AI went from zero to $70 million in revenue in one year - Ynetnews",
-      "summary": "# How Wonderful AI went from zero to $70 million in revenue in one year. ## The Israeli AI startup raised $550 million at a $5 billion valuation after shifting from multilingual voice agents to an 'AI...",
-      "highlights": [
-        "# How Wonderful AI went from zero to $70 million in revenue in one year. ## The Israeli AI startup raised $550 million at a $5 billion valuation after shifting from multilingual voice agents to an 'AI operating system,' with hundreds of specialists embedded at customer organizations and a costlier model than traditional software. Less than two years after it was founded, Israeli artificial intelligence startup Wonderful AI has reached a level of fundraising and revenue growth rarely seen in the country’s technology sector outside cybersecurity. Wonderful went from essentially no revenue a year ago to a current revenue pace of about $70 million, and is expected to reach $100 million by the end of the year. “What was truly brilliant was that Wonderful’s people quickly understood that once they got a foot in the door of an organization, it needed more and more assistance and guidance in adopting AI."
-      ],
-      "url": "https://www.ynetnews.com/business/article/hkrcy5juzx",
-      "source": "ynetnews.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-07T02:03:23Z"
     }
   ],
   "month": [
-    {
-      "id": "48010287bd76",
-      "title": "疯狂买买买，英伟达的野心何在？",
-      "summary": "这一产业变革的核心逻辑源于算力架构的迭代升级。超大规模云端算力集群，依旧承担着大参数模型训练、海量数据处理的核心任务，但模型推理、轻量化计算、实时交互等场景，受延迟、隐私、成本三大核心因素驱动，正在快速从云端下沉至边缘设备和终端硬件。IDC公开数据显示，2026年全球AI PC出货量将突破5000万台，AI手机出货量有望突破 4.3 亿台，端侧AI芯片市场增速持续大幅高于云端芯片，终端市场已然从A...",
-      "highlights": [
-        "这一产业变革的核心逻辑源于算力架构的迭代升级",
-        "超大规模云端算力集群，依旧承担着大参数模型训练、海量数据处理的核心任务，但模型推理、轻量化计算、实时交互等场景，受延迟、隐私、成本三大核心因素驱动，正在快速从云端下沉至边缘设备和终端硬件",
-        "IDC公开数据显示，2026年全球AI PC出货量将突破5000万台，AI手机出货量有望突破 4.3 亿台，端侧AI芯片市场增速持续大幅高于云端芯片，终端市场已然从AI产业的附属环节，升级为行业增长的核心增量赛道"
-      ],
-      "url": "https://m.thepaper.cn/newsDetail_forward_34014215",
-      "source": "m.thepaper.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-06T02:00:00Z"
-    },
-    {
-      "id": "d83825e57188",
-      "title": "利赢国际手机版下载发布RusGPT-4 开源大模型性能超越Llama 3-体坛网_体坛+",
-      "summary": "近日，利赢国际手机版下载正式对外发布了其最新一代开源大语言模型RusGPT-4，该模型在技术上实现了多项突破，旨在为全球开发者和企业提供更高效、更经济的AI解决方案。",
-      "highlights": [
-        "近日，利赢国际手机版下载正式对外发布了其最新一代开源大语言模型RusGPT-4，该模型在技术上实现了多项突破，旨在为全球开发者和企业提供更高效、更经济的AI解决方案"
-      ],
-      "url": "https://m.ttplus.cn/3594wiki94.htm",
-      "source": "m.ttplus.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-06T03:00:00Z"
-    },
     {
       "id": "e2f4fbb7992d",
       "title": "黑石启动60亿英镑地产平台退出计划 私募股权撤退窗口渐启？",
@@ -812,21 +862,6 @@
       "publishedAt": "2026-09-07T09:00:00Z"
     },
     {
-      "id": "121361da0bc6",
-      "title": "开源证券“私募源助力”行动（苏州站）丨2026市值管理与并购助力新质生产力发展论坛成功举办_新浪财经_新浪网",
-      "summary": "新浪首页\n 新闻\n 体育\n 财经\n 娱乐\n 科技\n 博客\n 图片\n 专栏\n 更多\n\n 汽车 教育 时尚 女性 星座 健康\n 房产历史视频收藏育儿读书\n 佛学游戏旅游邮箱导航\n\n 新浪微博\n 新浪新闻\n 新浪财经\n 新浪体育\n 新浪众测\n 新浪博客\n 新浪视频\n 新浪游戏\n 天气通\n\n[](\n\n滚动新闻 > 正文\n\n# 开源证券“私募源助力”行动（苏州站）丨2026市值管理与并购助力新质生产力发展论...",
-      "highlights": [
-        "汽车 教育 时尚 女性 星座 健康",
-        "房产历史视频收藏育儿读书",
-        "# 开源证券“私募源助力”行动（苏州站）丨2026市值管理与并购助力新质生产力发展论坛成功举办"
-      ],
-      "url": "https://finance.sina.com.cn/roll/2026-09-06/doc-iniqwhaz0175179.shtml",
-      "source": "finance.sina.com.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-06T04:48:41Z"
-    },
-    {
       "id": "3ce718c68a10",
       "title": "Claude攻克黎曼猜想历史大关，人类顶尖学者与机器联手书写跨物种神话",
       "summary": "更为震撼的是，这场跨越传统的变革并未在漫长的同行评审中放缓脚步。在Youness公布预印本草稿后的短短几个小时内，Axiom团队的AI工具AxiomProver便自动出击，在形式化验证语言Lean中将这份证明完成了机器级无缝核实。这意味着，黎曼猜想这一级别的重大突破，在论文发布的“第一天”便实现了机器级别的完全验证。\n\n在此基础之上，Axiom团队及相关数学力量乘胜追击，在孪生素数猜想上也取得了重...",
@@ -840,6 +875,49 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-09-07T02:00:00Z"
+    },
+    {
+      "id": "adcb8b6ed9ba",
+      "title": "AI大模型“周更”，企业跟不上了",
+      "summary": "9月1日，Anthropic发布Claude Fable 5.1，以及自称是“世界上最先进的编码和知识工作模型”Claude Mythos 5.1；此后一天，Meta发布了Muse Spark 1.3，谷歌则推出Gemini 3.8 Flash；3日，OpenAI也紧跟着发布了GPT-6 Astra，称其为“全球最智能、对齐最好的模型”。\n\n　　就在OpenAI发布GPT-6 Astra的同一天，...",
+      "highlights": [
+        "9月1日，Anthropic发布Claude Fable 5.1，以及自称是“世界上最先进的编码和知识工作模型”Claude Mythos 5.1；此后一天，Meta发布了Muse Spark 1.3，谷歌则推出Gemini 3.8 Flash；3日，OpenAI也紧跟着发布了GPT-6 Astra，称其为“全球最智能、对齐最好的模型”",
+        "就在OpenAI发布GPT-6 Astra的同一天，阿联酋的穆罕默德·本·扎耶德人工智能大学也向开源社区发布了自己的K2 Horizon系列AI模型",
+        "AI研究和投资已经成为一场全球性的竞争"
+      ],
+      "url": "https://k.sina.com.cn/article_1887344341_707e96d502001v1lm.html?from=tech",
+      "source": "k.sina.com.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-07T17:52:14Z"
+    },
+    {
+      "id": "0ac95af643d9",
+      "title": "Jensen Huang’s $3 Billion Bet on Murati Propels Valuation to $40 Billion, With Funds Circling Back to Purchase NVIDIA Chips - eu.36kr.com",
+      "summary": "# Jensen Huang placed a $3 billion bet on Murati, driving the valuation up to $40 billion, and the funds went full circle and were ultimately used to purchase NVIDIA's chips. NVIDIA has made successiv...",
+      "highlights": [
+        "# Jensen Huang placed a $3 billion bet on Murati, driving the valuation up to $40 billion, and the funds went full circle and were ultimately used to purchase NVIDIA's chips. NVIDIA has made successive investments and acquisitions to expand its layout in the open AI ecosystem and ramp up its investment in AI infrastructure. Right after signing an acquisition agreement with Hugging Face, the world's largest hub for open-source models, news broke that it is preparing to deliver a massive check of nearly 3 billion USD to Mira Murati, the most high-profile former CTO of OpenAI in Silicon Valley. The pre-money valuation has directly soared to at least 40 billion USD, with a planned fundraising of 5 to 6 billion USD, and NVIDIA alone is likely to cover roughly half of the total amount. > A 2 billion USD seed round, with a post-money valuation of 12 billion USD. Murati took only 14 months to push the company's valuation from 12 billion USD to 40 billion USD."
+      ],
+      "url": "https://eu.36kr.com/en/p/3973262879502592",
+      "source": "eu.36kr.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-07T13:51:22Z"
+    },
+    {
+      "id": "6d4c1363e014",
+      "title": "疯狂买买买，英伟达的野心何在？",
+      "summary": "这一产业变革的核心逻辑源于算力架构的迭代升级。超大规模云端算力集群，依旧承担着大参数模型训练、海量数据处理的核心任务，但模型推理、轻量化计算、实时交互等场景，受延迟、隐私、成本三大核心因素驱动，正在快速从云端下沉至边缘设备和终端硬件。IDC公开数据显示，2026年全球AI PC出货量将突破5000万台，AI手机出货量有望突破 4.3 亿台，端侧AI芯片市场增速持续大幅高于云端芯片，终端市场已然从A...",
+      "highlights": [
+        "这一产业变革的核心逻辑源于算力架构的迭代升级",
+        "超大规模云端算力集群，依旧承担着大参数模型训练、海量数据处理的核心任务，但模型推理、轻量化计算、实时交互等场景，受延迟、隐私、成本三大核心因素驱动，正在快速从云端下沉至边缘设备和终端硬件",
+        "IDC公开数据显示，2026年全球AI PC出货量将突破5000万台，AI手机出货量有望突破 4.3 亿台，端侧AI芯片市场增速持续大幅高于云端芯片，终端市场已然从AI产业的附属环节，升级为行业增长的核心增量赛道"
+      ],
+      "url": "https://news.pedaily.cn/202609/568593.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-07T03:48:00Z"
     }
   ]
 }
