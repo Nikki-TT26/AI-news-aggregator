@@ -1,96 +1,6 @@
 {
-  "updatedAt": "2026-09-11T06:01:23Z",
+  "updatedAt": "2026-09-11T12:01:36Z",
   "latest": [
-    {
-      "id": "44507cf62328",
-      "title": "物理AI时代，算力范式正在转移",
-      "summary": "全数据流架构的设计，从底层解决了传统AI芯片算力利用率低的问题。相比同类竞品，能效比提升数倍。在边缘侧功耗受限的场景下，这意味着相同功耗能处理更多的AI推理任务。这一架构创新也获得了国际学术界的高度认可——相关技术成果获ISCA 2026国际计算机体系结构顶会最佳论文提名。ISCA是计算机体系结构领域历史极悠久、影响力极大的顶级学术会议，能够获得最佳论文提名，代表了这项技术的国际顶尖水平。\n\n与此...",
-      "highlights": [
-        "全数据流架构的设计，从底层解决了传统AI芯片算力利用率低的问题",
-        "相比同类竞品，能效比提升数倍",
-        "在边缘侧功耗受限的场景下，这意味着相同功耗能处理更多的AI推理任务"
-      ],
-      "url": "https://www.36kr.com/p/3975857972850945",
-      "source": "36kr.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-09T09:28:26Z"
-    },
-    {
-      "id": "4ef9a22225e0",
-      "title": "以开源致敬开源：AiPy AI Agent Benchmark 上线 Hugging Face_凤凰网",
-      "summary": "以开源致敬开源：AiPy AI Agent Benchmark 上线 Hugging Face\n\n 首页\n 资讯\n 视频\n 直播\n 凤凰卫视\n 财经\n 娱乐\n 体育\n 时尚\n 汽车\n 房产\n 科技\n 军事\n 文化\n 旅游\n 佛教\n 国学\n 数码\n\n更多\n\n 健康\n 公益\n 教育\n 酒业\n 美食\n\n海南\n\n海南 > 产经新闻 > 企业商讯 > 正文\n\n# 以开源致敬开源：AiPy AI Agent ...",
-      "highlights": [
-        "以开源致敬开源：AiPy AI Agent Benchmark 上线 Hugging Face",
-        "海南 > 产经新闻 > 企业商讯 > 正文",
-        "# 以开源致敬开源：AiPy AI Agent Benchmark 上线 Hugging Face"
-      ],
-      "url": "https://hainan.ifeng.com/c/8wHGHQE4FH3",
-      "source": "hainan.ifeng.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-09T06:46:03Z"
-    },
-    {
-      "id": "e5653cac14a4",
-      "title": "知情人士证实DeepSeek备战科创板IPO，中信已入场尽调 - 证券 - 南方财经网",
-      "summary": "## 知情人士证实DeepSeek备战科创板IPO，中信已入场尽调\n\n21世纪经济报道记者 崔文静\n\n9月9日，有市场消息称，DeepSeek已委托中信证券筹备科创板IPO。21世纪经济报道记者从知情人士处获悉，该消息属实。目前，中信证券已与DeepSeek方面接洽并进入尽职调查阶段，但双方尚未签订正式的上市辅导协议。\n\n21世纪经济报道记者梳理发现，中信证券在AI与智能硬科技IPO中已形成A股算...",
-      "highlights": [
-        "## 知情人士证实DeepSeek备战科创板IPO，中信已入场尽调",
-        "21世纪经济报道记者 崔文静",
-        "9月9日，有市场消息称，DeepSeek已委托中信证券筹备科创板IPO"
-      ],
-      "url": "https://www.sfccn.com/2026/9-9/0OMDE0MDRfMjIzNjE0OQ.html",
-      "source": "sfccn.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-09T09:00:00Z"
-    },
-    {
-      "id": "8364704c3e7e",
-      "title": "突发！OpenAI官宣88小时突破NS方程千禧年难题|AI Agent|大模型|斯托克斯|克雷|数学_新浪新闻",
-      "summary": "论文链接：\n\n　　在这份 166 页论文中，流体最初处于静止状态，随后受到一个在空间和时间上都有限、处处光滑的外力。\n\n　　这个系统逐渐形成一股涡旋。流体不断向中心旋转，涡旋核心持续收缩并被轴向拉长，OpenAI 将它形容为一根越来越细长的意大利面。\n\n　　随着核心收缩，流体旋转得越来越快，局部速度最终在有限时间内趋于无穷。与此同时，发生剧烈运动的区域也在迅速缩小，因此整个系统的动能依然保持有限。...",
-      "highlights": [
-        "在这份 166 页论文中，流体最初处于静止状态，随后受到一个在空间和时间上都有限、处处光滑的外力",
-        "这个系统逐渐形成一股涡旋",
-        "流体不断向中心旋转，涡旋核心持续收缩并被轴向拉长，OpenAI 将它形容为一根越来越细长的意大利面"
-      ],
-      "url": "https://k.sina.com.cn/article_5953740931_162dee08306703y2hw.html?from=science",
-      "source": "k.sina.com.cn",
-      "category": "前沿理论",
-      "importance": 5,
-      "publishedAt": "2026-09-09T06:43:59Z"
-    },
-    {
-      "id": "19aa8a204f8d",
-      "title": "OpenAI数学领域取得突破 但相关成果归属存在多方争议 - cnBeta.COM 移动版(WAP)",
-      "summary": "但巴克马斯特的说法与OpenAI的版本出入巨大。这位纽约大学教授周二称，OpenAI利用他们已有的研究思路，投入海量算力资源攻坚该难题，抢在他以及竞品Anthropic之前完成成果。\n\n各大实验室与AI从业者普遍面临算力短缺、前沿模型运行成本持续走高的困境。OpenAI称，为攻克这一难题投入了数百万美元。\n\n巴克马斯特与阿尔珀厄于周二公布三项证明成果，相关研究被视作与纳维-斯托克斯方程紧密相关的里...",
-      "highlights": [
-        "但巴克马斯特的说法与OpenAI的版本出入巨大",
-        "这位纽约大学教授周二称，OpenAI利用他们已有的研究思路，投入海量算力资源攻坚该难题，抢在他以及竞品Anthropic之前完成成果",
-        "各大实验室与AI从业者普遍面临算力短缺、前沿模型运行成本持续走高的困境"
-      ],
-      "url": "https://m.cnbeta.com.tw/wap/view/1577110.htm",
-      "source": "m.cnbeta.com.tw",
-      "category": "前沿理论",
-      "importance": 5,
-      "publishedAt": "2026-09-09T08:00:00Z"
-    },
-    {
-      "id": "efd55bdb6f39",
-      "title": "Anthropic safety researcher says more than 10% chance AI 'could kill all humans'",
-      "summary": "It comes after the Financial Times reported Anthropic withheld its latest model from the AI Safety Institute, which tests AI.\n\nThe BBC has approached Anthropic for comment.\n\nIn his latest post on X, w...",
-      "highlights": [
-        "It comes after the Financial Times reported Anthropic withheld its latest model from the AI Safety Institute, which tests AI.",
-        "The BBC has approached Anthropic for comment.",
-        "In his latest post on X, which has been viewed 9.6 million times, Hubinger said \"we really do earnestly believe\" AI poses a species-ending risk to humans."
-      ],
-      "url": "https://www.bbc.com/news/articles/ckgwy1k42w4o",
-      "source": "bbc.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-09T08:59:52Z"
-    },
     {
       "id": "422d8baabb11",
       "title": "消息人士称，DeepSeek聘请中信证券筹备国内科创板IPO|上海市|杭州市|中国|月之暗面|Minimax_新浪新闻",
@@ -122,21 +32,6 @@
       "publishedAt": "2026-09-09T14:01:12Z"
     },
     {
-      "id": "0775f2b82e2c",
-      "title": "车企造人，到底是降维打击还是估值自救？_风闻",
-      "summary": "汽车奔跑在结构化道路上：路面铺装、标线清晰、交规明确，自动驾驶要解决的，是在相对确定的物理环境中做路径规划与决策。人形机器人面对的是非结构化世界：楼梯、台阶、碎石路、狭窄通道、没有电梯的老小区——今天的IRON能在小鹏展厅里走\"猫步\"，不代表它能稳稳穿过一片施工现场帮工人递扳手。\n\n再看数据。车企引以为傲的海量路面数据，与机器人真正需要的力觉反馈、触觉传感不是一回事。自动驾驶积累的是视觉与决策模型...",
-      "highlights": [
-        "汽车奔跑在结构化道路上：路面铺装、标线清晰、交规明确，自动驾驶要解决的，是在相对确定的物理环境中做路径规划与决策",
-        "人形机器人面对的是非结构化世界：楼梯、台阶、碎石路、狭窄通道、没有电梯的老小区——今天的IRON能在小鹏展厅里走\"猫步\"，不代表它能稳稳穿过一片施工现场帮工人递扳手",
-        "车企引以为傲的海量路面数据，与机器人真正需要的力觉反馈、触觉传感不是一回事"
-      ],
-      "url": "https://user.guancha.cn/main/content?id=1733374&comments-container=",
-      "source": "user.guancha.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-09T07:00:00Z"
-    },
-    {
       "id": "37608a53cc36",
       "title": "OpenAI and Samsung partner on new AI chips",
       "summary": "## Editor picks\n\n## Zscaler: AI agents are the new weakest link\nIn the cyber realm, humans have long been the weakest link. Human vul...\n\n## GPT-6 Astra, OpenAI’s answer to Fable, begins rolling out\nO...",
@@ -150,49 +45,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-09-09T12:25:23Z"
-    },
-    {
-      "id": "d9ed15eb7557",
-      "title": "沐曦陈维良：以“通用、易用、可靠”破局国产GPU算力挑战",
-      "summary": "# 沐曦陈维良：以“通用、易用、可靠”破局国产GPU算力挑战\n\n作者： 陈炳欣  13小时前\n\n相关舆情  AI解读 生成海报\n\n来源：爱集微 #沐曦# #IICIE#\n\n2026 IICIE 国际集成电路创新博览会于9月9日至11日在深圳国际会展中心（宝安）正式召开。本届博览会由CIOE中国光博会主办，爱集微（上海）科技有限公司、深圳市贺戎中芯展览有限公司承办，以“跨界融合・全链协同 共筑特色芯...",
-      "highlights": [
-        "# 沐曦陈维良：以“通用、易用、可靠”破局国产GPU算力挑战",
-        "作者： 陈炳欣  13小时前",
-        "相关舆情  AI解读 生成海报"
-      ],
-      "url": "https://ijiwei.com/n/1102694",
-      "source": "ijiwei.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-09T07:00:00Z"
-    },
-    {
-      "id": "c762bd93657f",
-      "title": "Google Has a Cool $15 Billion Fix to the AI Energy Problem - Barron's",
-      "summary": "Distribution and use of this material are governed by our Subscriber Agreement and by copyright law. # Google Has a Cool $15 Billion Fix to the AI Energy Problem. Google has an inventive way of coolin...",
-      "highlights": [
-        "Distribution and use of this material are governed by our Subscriber Agreement and by copyright law. # Google Has a Cool $15 Billion Fix to the AI Energy Problem. Google has an inventive way of cooling its data center in Hamina, Finland. Google has found an interesting way to combat the sky-high energy costs involved in data centers—build them in an extremely cold country. ### Cerebras May Have Already Bottomed: Chart of the Day. Many people have dreamed of quitting their job while sticking it to the company on the way to the exit door. But one Anthropic researcher has taken it to the next level—warning that those building artificial intelligence believe it could “kill us all by the end of the decade.”. ### What’s Ahead for the AI-Energy Marriage—And How to Invest. SB Energy’s IPO comes at a pivotal moment for AI energy suppliers. In launching the company’s latest and greatest AI model last week, OpenAI President Greg Brockman said, “Welcome to the AGI era.”."
-      ],
-      "url": "https://www.barrons.com/articles/google-stock-ai-energy-fix-31d9fe50",
-      "source": "barrons.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-09T10:28:00Z"
-    },
-    {
-      "id": "7e4cf6113d03",
-      "title": "智能体“入镜”，AI眼镜悄然开启下一程_搜狐网",
-      "summary": "同样是在今年的世界人工智能大会上，阿里旗下的千问眼镜正式宣布升级为智能体眼镜，集成自家千问大模型，可接入阿里Qoder智能体编程平台，同时也支持调用第三方Skill和Agent，通过智能体强化服务与决策能力；科大讯飞在5月发布的GlassClaw眼镜内置AI助手，可独立完成信息采集、全网检索、方案生成与邮件分发全流程复杂任务，实现工作成果的直接交付；IFA展上，致敬未知旗下运动科技品牌BleeqU...",
-      "highlights": [
-        "同样是在今年的世界人工智能大会上，阿里旗下的千问眼镜正式宣布升级为智能体眼镜，集成自家千问大模型，可接入阿里Qoder智能体编程平台，同时也支持调用第三方Skill和Agent，通过智能体强化服务与决策能力；科大讯飞在5月发布的GlassClaw眼镜内置AI助手，可独立完成信息采集、全网检索、方案生成与邮件分发全流程复杂任务，实现工作成果的直接交付；IFA展上，致敬未知旗下运动科技品牌BleeqUp正式发布新品Rover，在成熟硬件架构基础上完成全方位升级，完成从“AI硬件”到“运动AI Agent”的进阶",
-        "从办公辅助到编程协作，从生活服务到专业场景，智能体正在让AI眼镜从一个“能看”的设备，变成一个“能干”的入口",
-        "浪潮背后：技术、市场与竞争的三重交汇"
-      ],
-      "url": "https://m.sohu.com/a/1073644483_121134737?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-09T09:09:00Z"
     },
     {
       "id": "7dcadbced156",
@@ -416,6 +268,19 @@
       "publishedAt": "2026-09-11T00:00:00Z"
     },
     {
+      "id": "0489dcbaa83c",
+      "title": "最高法:AI文书须核验披露,未经同意利用AI换脸、拟声或侵权;Harvey融资5.5亿美元并收购AI安全平台 | 法律科技一周看点",
+      "summary": "#欧洲并购扩张本期目录法治要闻1. 最高法发布首部涉AI司法裁判... Chamelio推出常驻式企业法务智能体资本风向8. Harvey融资5.5亿...",
+      "highlights": [
+        "#欧洲并购扩张本期目录法治要闻1. 最高法发布首部涉AI司法裁判... Chamelio推出常驻式企业法务智能体资本风向8. Harvey融资5.5亿..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS96x7vuRZN1uwd0ggcCBe-ENGNI38dgAN1qXa8Fplpd9XeJTKOGbml9eELkJLuN9kocmJPJXn7dFuEbsCSkZ7Sh5P553mujQ5FtxP9RQwZpGM0Z7nu7cUbbjsQZDDeHuo_Jo7gDTFpHZ1t7cPtO_At9-sYTcnBEmF6Vw-bh85Yu32tGpjzn5EExiV8O2GLkAmfIMluGcw3IJKkAliIfI7Qg89kyxDwoXvg..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=0E487F02AF1A1312BEB8E58E65C799E6BE119E8F6AA3ED9D",
+      "source": "微信公众号",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-11T09:30:58Z"
+    },
+    {
       "id": "8b954ea26b8f",
       "title": "GPT-6 Astra: A new generation of intelligence",
       "summary": "## Aligning and deploying GPT‑6 Astra responsibly\n\nAstra is our most aligned model. Astra excels at exercising care, respecting task boundaries, and communicating transparently. This work is the lates...",
@@ -442,6 +307,137 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-09-10T09:35:32Z"
+    },
+    {
+      "id": "30b8347d62f4",
+      "title": "超维动力完成超5亿元天使+轮融资，全栈布局推动具身智能落地_光明网",
+      "summary": "点击右上角微信好友\n\n科技频道\n\n  \n\n;)\n\n 时政\n 国际\n 时评\n 理论\n 文化\n 科技\n 教育\n 经济\n 生活\n 法治\n 专题\n ENGLISH\n\n 时政\n 国际\n 时评\n 理论\n 文化\n 科技\n 教育\n \n\n首页> 科技频道> 综合新闻 > 正文\n\n# 超维动力完成超5亿元天使+轮融资，全栈布局推动具身智能落地\n\n来源：光明网2026-09-11 12:00\n\n近日，全栈具身智能大模型...",
+      "highlights": [
+        "首页> 科技频道> 综合新闻 > 正文",
+        "# 超维动力完成超5亿元天使+轮融资，全栈布局推动具身智能落地",
+        "来源：光明网2026-09-11 12:00"
+      ],
+      "url": "https://tech.gmw.cn/2026-09/11/content_38996268.htm",
+      "source": "tech.gmw.cn",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-11T00:00:00Z"
+    },
+    {
+      "id": "099c52c2c989",
+      "title": "丽都娱乐网址AI模型正式发布 推理速度比GPT-4快3倍",
+      "summary": "2026年5月21日，Sky Sports AI正式发布了其最新一代体育专用大模型——丽都娱乐网址。这款以传奇中场命名的AI系统，在实时体育数据分析领域实现了跨越式突破，首日发布即",
+      "highlights": [
+        "2026年5月21日，Sky Sports AI正式发布了其最新一代体育专用大模型——丽都娱乐网址",
+        "这款以传奇中场命名的AI系统，在实时体育数据分析领域实现了跨越式突破，首日发布即"
+      ],
+      "url": "https://m.ttplus.cn/wiki6464498.shtml",
+      "source": "m.ttplus.cn",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-10T19:00:00Z"
+    },
+    {
+      "id": "0b376a96695e",
+      "title": "AI数据基础设施进入高速增长期 - 上观新闻",
+      "summary": "以上内容由AI生成，仅供参考\n\n在10日举办的2026 Inclusion·外滩大会《数智进化：让多模态数据成为AI核心燃料》见解论坛上，IDC发布最新研究报告指出，中国AI数据基础设施市场正进入高速增长周期，未来十年市场规模有望增长超10倍。\n\nIDC中国企业软件市场研究经理王楠表示，根据报告预测，2025年至2030年，中国AI数据基础设施市场将以37.7%的复合增速增长，2030年市场规模达...",
+      "highlights": [
+        "以上内容由AI生成，仅供参考",
+        "在10日举办的2026 Inclusion·外滩大会《数智进化：让多模态数据成为AI核心燃料》见解论坛上，IDC发布最新研究报告指出，中国AI数据基础设施市场正进入高速增长周期，未来十年市场规模有望增长超10倍",
+        "IDC中国企业软件市场研究经理王楠表示，根据报告预测，2025年至2030年，中国AI数据基础设施市场将以37.7%的复合增速增长，2030年市场规模达到738亿美元；到2035年，市场规模有望进一步达到1548亿美元"
+      ],
+      "url": "https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=1174592",
+      "source": "shobserver.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-09-09T23:00:00Z"
+    },
+    {
+      "id": "ac72b43bfb6f",
+      "title": "深度丨OpenAI第一代自研芯片亮线，超预期背后的算力新打法",
+      "summary": "聚焦:人工智能、芯片等行业欢迎各位客官关注、转发前言：一颗名叫Jalapeño的芯片，把OpenAI推到了另一张牌桌上。首代自研AI芯片刚拿出实测成绩，单位功耗吞吐和延迟",
+      "highlights": [
+        "聚焦:人工智能、芯片等行业欢迎各位客官关注、转发前言：一颗名叫Jalapeño的芯片，把OpenAI推到了另一张牌桌上",
+        "首代自研AI芯片刚拿出实测成绩，单位功耗吞吐和延迟"
+      ],
+      "url": "https://www.eet-china.com/mp/a523759.html",
+      "source": "eet-china.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-09-10T12:00:00Z"
+    },
+    {
+      "id": "fa448da2531e",
+      "title": "证监会：全力维护资本市场平稳运行，推动中长期资金稳步提升入市规模和比例",
+      "summary": "## 更大力度释放并购重组活力，支持上市公司转型升级\n\n李超表示，进一步提高上市公司质量和投资价值。要更大力度释放并购重组改革活力，支持上市公司转型升级。提升上市公司治理和规范运作水平，引导上市公司通过股权激励、分红回购等提高自身价值。严格执行并持续完善退市制度。\n\n## 促进人工智能在资本市场规范应用\n\n李超表示，下一步证监会将着力提高资本市场监管和治理水平，不断完善准入、持续监管、退市和交易、...",
+      "highlights": [
+        "## 更大力度释放并购重组活力，支持上市公司转型升级",
+        "李超表示，进一步提高上市公司质量和投资价值",
+        "要更大力度释放并购重组改革活力，支持上市公司转型升级"
+      ],
+      "url": "https://wallstreetcn.com/articles/3781486",
+      "source": "wallstreetcn.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-10T08:27:04Z"
+    },
+    {
+      "id": "b2aa27e40730",
+      "title": "GPT-6登顶第一，AlphaFold之后最大震撼，成抗体预测最强AI - 36氪",
+      "summary": "绝对不是。\n\nBogdan A. Zagribelnyy 博士指出，Astra 登顶的平台是他们构建的 DDD Benchmark。\n\n在他们发布的论文中，我们看到了这个测试体系多么硬核。\n\n虽然推文讨论的是「大分子抗体」，但这篇论文展示了该团队在「小分子化学」领域建立评测标准的恐怖深度。了解了这个背景，你才会明白 Astra 的夺冠有多么不可思议。\n\n在论文中，研究团队聚焦了另一个制药界的世纪难...",
+      "highlights": [
+        "Bogdan A. Zagribelnyy 博士指出，Astra 登顶的平台是他们构建的 DDD Benchmark",
+        "在他们发布的论文中，我们看到了这个测试体系多么硬核",
+        "虽然推文讨论的是「大分子抗体」，但这篇论文展示了该团队在「小分子化学」领域建立评测标准的恐怖深度"
+      ],
+      "url": "https://eu.36kr.com/zh/p/3978455065508609",
+      "source": "eu.36kr.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-10T13:00:00Z"
+    },
+    {
+      "id": "23dc566bc8a3",
+      "title": "Scoop: Meta acquires Swedish AI startup Stilla.ai - Axios",
+      "summary": "Zoom out: Over the past decade, Meta has worked aggressively to build a commerce engine that connects millions of small businesses to its 1 billion-plus messaging app users.\n\nWhat to watch: Meta plans...",
+      "highlights": [
+        "Zoom out: Over the past decade, Meta has worked aggressively to build a commerce engine that connects millions of small businesses to its 1 billion-plus messaging app users.",
+        "What to watch: Meta plans to expand its presence in Sweden following the deal.",
+        "##### What to read next"
+      ],
+      "url": "https://www.axios.com/2026/09/09/meta-acquires-swedish-ai-startup-stillaai",
+      "source": "axios.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-09T16:30:07Z"
+    },
+    {
+      "id": "80578f324678",
+      "title": "Legal AI startup Harvey reaches $15.5 billion valuation in new funding round",
+      "summary": "Cookies, opens new tab\n   Terms & Conditions\n   Privacy, opens new tab\n   Copyright, opens new tab\n   Digital Accessibility, opens new tab\n   Corrections\n   Data Disclosure and Sources, opens new tab\n...",
+      "highlights": [
+        "Cookies, opens new tab",
+        "Terms & Conditions",
+        "Privacy, opens new tab"
+      ],
+      "url": "https://www.reuters.com/legal/government/legal-ai-startup-harvey-reaches-155-billion-valuation-new-funding-round-2026-09-09",
+      "source": "reuters.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-09T16:56:08Z"
+    },
+    {
+      "id": "4042ef80f6c3",
+      "title": "今日AI大模型新闻速览(09月10日)",
+      "summary": "该模型性能远超最新发布的GPT-6 Astra.此前Anthropic内部模型在黎曼猜想研究中取得重要进展.这一突破标志着AI在基础数学研究...",
+      "highlights": [
+        "该模型性能远超最新发布的GPT-6 Astra.此前Anthropic内部模型在黎曼猜想研究中取得重要进展.这一突破标志着AI在基础数学研究..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS96x7vuRZN1u2ZhGKqJMvTgNGNI38dgAN1qXa8Fplpd9M36_c_cn6dJThCAimiXvS2be-We-CEps1TGTaBJXV9zFLm6cSz8lxmYl4ymOmOjTp3Hiq1ozuKVLr1oXBHSAKchLDnS86M_h3uywGLrQCsLbLXHuRGm3RtKijcc3U1A5UwvQhoPOed7XwpMxSb8lW6Ofgfl9ahSZaJmwXe5FuyQ5eBgmN3LoYQ..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=0E485F85C0767F7ED2D489E20AF56F49D2CE1E366AA3ED98",
+      "source": "微信公众号",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-09T23:03:24Z"
     }
   ],
   "today": [
@@ -476,6 +472,19 @@
       "publishedAt": "2026-09-11T00:00:00Z"
     },
     {
+      "id": "0489dcbaa83c",
+      "title": "最高法:AI文书须核验披露,未经同意利用AI换脸、拟声或侵权;Harvey融资5.5亿美元并收购AI安全平台 | 法律科技一周看点",
+      "summary": "#欧洲并购扩张本期目录法治要闻1. 最高法发布首部涉AI司法裁判... Chamelio推出常驻式企业法务智能体资本风向8. Harvey融资5.5亿...",
+      "highlights": [
+        "#欧洲并购扩张本期目录法治要闻1. 最高法发布首部涉AI司法裁判... Chamelio推出常驻式企业法务智能体资本风向8. Harvey融资5.5亿..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS96x7vuRZN1uwd0ggcCBe-ENGNI38dgAN1qXa8Fplpd9XeJTKOGbml9eELkJLuN9kocmJPJXn7dFuEbsCSkZ7Sh5P553mujQ5FtxP9RQwZpGM0Z7nu7cUbbjsQZDDeHuo_Jo7gDTFpHZ1t7cPtO_At9-sYTcnBEmF6Vw-bh85Yu32tGpjzn5EExiV8O2GLkAmfIMluGcw3IJKkAliIfI7Qg89kyxDwoXvg..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=0E487F02AF1A1312BEB8E58E65C799E6BE119E8F6AA3ED9D",
+      "source": "微信公众号",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-11T09:30:58Z"
+    },
+    {
       "id": "30b8347d62f4",
       "title": "超维动力完成超5亿元天使+轮融资，全栈布局推动具身智能落地_光明网",
       "summary": "点击右上角微信好友\n\n科技频道\n\n  \n\n;)\n\n 时政\n 国际\n 时评\n 理论\n 文化\n 科技\n 教育\n 经济\n 生活\n 法治\n 专题\n ENGLISH\n\n 时政\n 国际\n 时评\n 理论\n 文化\n 科技\n 教育\n \n\n首页> 科技频道> 综合新闻 > 正文\n\n# 超维动力完成超5亿元天使+轮融资，全栈布局推动具身智能落地\n\n来源：光明网2026-09-11 12:00\n\n近日，全栈具身智能大模型...",
@@ -504,6 +513,32 @@
       "publishedAt": "2026-09-11T03:00:00Z"
     },
     {
+      "id": "572694fcb08a",
+      "title": "The rise of physical AI: China’s next wave of industrial transformation is taking shape - China Economic Net",
+      "summary": "Last Updated: 2026-09-11 11:43 |  CE.cn. White Paper on China's Industrial Development Trends for the Next 50 Years (5th Edition) by Frost & Sullivan in partnership with LeadLeo. Among others, the whi...",
+      "highlights": [
+        "Last Updated: 2026-09-11 11:43 |  CE.cn. White Paper on China's Industrial Development Trends for the Next 50 Years (5th Edition) by Frost & Sullivan in partnership with LeadLeo. Among others, the white paper identifies key opportunities in China's rapid deployment of AI across the real economy and at scale. The trend is unfolding on three fronts: At the infrastructure level, intelligent-computing capacity is projected to grow nearly sevenfold by 2028, while daily large-model token calls have surged from about 100 billion to more than 140 trillion in just two years, providing the computing power and usage base needed for wider AI adoption. At the physical-application level, the Embodied AI market is expected to grow to trillion-yuan within a decade, as AI moves from digital systems into the physical world. At the industrial level, collaborative robots, humanoid robotics, and eVTOL aircraft are expected to become important growth pillars for manufacturing."
+      ],
+      "url": "http://en.ce.cn/main/latest/202609/t20260911_3208089.shtml",
+      "source": "en.ce.cn",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-09-11T11:43:40Z"
+    },
+    {
+      "id": "2b865002e52c",
+      "title": "Nvidia Open-Sources Harness to Revolutionize Self-Evolving AI: A Game-Changer That Stuns the Tech Industry - 36 Kr",
+      "summary": "# Nvidia Stuns the Industry by Open-Sourcing Harness, Allowing AI to Radically Overhaul AI on Its Own. 新智元2026-09-11 08:41. Finally, NVIDIA has officially open-sourced its self-developed Harness, SoL-...",
+      "highlights": [
+        "# Nvidia Stuns the Industry by Open-Sourcing Harness, Allowing AI to Radically Overhaul AI on Its Own. 新智元2026-09-11 08:41. Finally, NVIDIA has officially open-sourced its self-developed Harness, SoL-Pi, to the public. It takes Pi as the base, and builds a brand-new Harness efficiency enhancement layer on top of it, enabling AI to achieve self-iteration and optimization. In this strict automated pipeline, AI itself has become a researcher. The configuration is extremely simple: you only need one line of code:「pi install git:github.com/NVlabs/SoL-Pi」 to install it on the existing Pi. The model is responsible for reasoning, and Harness is responsible for organizing tools, context, execution feedback and task processes, so that the model can read files, modify code, run tests, and continue to act based on the results. Compared with the original harness that comes with Codex and Claude Code, it uses 35% to 64% less tokens, and the listed cost is 50% to 54% lower."
+      ],
+      "url": "https://eu.36kr.com/en/p/3978268468525825",
+      "source": "eu.36kr.com",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-09-11T01:24:21Z"
+    },
+    {
       "id": "8aaf3dd74cb2",
       "title": "10位青年科学家获2026蚂蚁InTech科技奖，研究覆盖AGI、具身智能等科技前沿",
       "summary": "欢迎来智东西\n\n登录\n\n免费注册\n\n关注我们 \n\n智东西\n\n车东西\n\n芯东西\n\n智猩猩\n\n智东西\n\n车东西\n\n芯东西\n\n智猩猩\n\n公开课  \n\n智猩猩\n\n公开课小程序\n\n线下大会\n\nAI生产力创新奖\n\n \n\n快讯  头条 人工智能 芯东西 AIoT 云与智慧城市 机器人 VR/AR 手机通信  活动\n\n李 昕燃\n\n李 昕燃\n\n标签\n\n更多\n\n大模型三星通用5G微软360智东西iPhone腾讯IDx...",
@@ -517,39 +552,48 @@
       "category": "前沿理论",
       "importance": 2,
       "publishedAt": "2026-09-11T00:00:00Z"
+    },
+    {
+      "id": "66ff0707ca4e",
+      "title": "China targets mass deployment of self-driving vehicles by 2030 By Reuters - Investing.com",
+      "summary": "Published Sep 10, 2026, 11:23 PM. Updated Sep 10, 2026, 11:24 PM. BEIJING, Sept 11 (Reuters) - China’s industry ministry unveiled on Thursday a roadmap to strengthen its smart electric vehicle industr...",
+      "highlights": [
+        "Published Sep 10, 2026, 11:23 PM. Updated Sep 10, 2026, 11:24 PM. BEIJING, Sept 11 (Reuters) - China’s industry ministry unveiled on Thursday a roadmap to strengthen its smart electric vehicle industry, targeting large-scale deployment of autonomous-driving vehicles by 2030 and greater global influence for its auto sector. • Vehicles with self-driving capabilities will see large-scale deployment, the ministry said, adding that automated driving will be rolled out on highways, urban expressways and selected city roads. • China plans to develop multiple automakers that rank among the world’s top 10 by sales. • The ministry plans to reinforce the auto sector’s role as an economic pillar, with autonomous-driving vehicles achieving higher safety levels than human drivers. • The industry ministry also plans to encourage deeper cooperation between Chinese and foreign companies in vehicle and key-component research, investment and global market expansion. CPI Preview: How Today’s Print Could Move Stocks, Bonds, US Dollar and the Fed. 10 Stocks With High Analyst Conviction Offering Up to 81.5% Upside."
+      ],
+      "url": "https://www.investing.com/news/stock-market-news/china-targets-mass-deployment-of-selfdriving-vehicles-by-2030-4897193",
+      "source": "investing.com",
+      "category": "具身智能",
+      "importance": 2,
+      "publishedAt": "2026-09-11T03:24:32Z"
+    },
+    {
+      "id": "f453050438d5",
+      "title": "China looks beyond EVs, targets mass self-driving rollout by 2030 - Firstpost",
+      "summary": "China aims to scale self-driving vehicles while expanding the global reach of its auto industry. China is targeting the large-scale deployment of self-driving vehicles by 2030 as it seeks to take its ...",
+      "highlights": [
+        "China aims to scale self-driving vehicles while expanding the global reach of its auto industry. China is targeting the large-scale deployment of self-driving vehicles by 2030 as it seeks to take its auto industry beyond electric vehicles and strengthen the global position of Chinese carmakers. The Ministry of Industry and Information Technology unveiled a roadmap for the development of China’s smart electric vehicle industry, covering autonomous driving, vehicle safety, production capacity and overseas expansion. The roadmap comes as China looks to build on its strong position in electric vehicles by competing in areas such as vehicle software, automated driving and connected-car technology. China also wants to develop several automakers that rank among the world’s top 10 by sales and increase the global appeal of Chinese auto brands. The 2030 target puts autonomous driving at the centre of that strategy, while the government seeks to improve safety, reduce excess capacity and make Chinese auto brands more competitive in global markets. * china self driving vehicles 2030."
+      ],
+      "url": "https://www.firstpost.com/business/china-self-driving-vehicles-2030-14044874.html",
+      "source": "firstpost.com",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-09-11T04:47:46Z"
+    },
+    {
+      "id": "e2bd240884ef",
+      "title": "Airwheel SE3SX AI Wheel Luxury Suitcase Wins 2026 WGA for Smart Electric Riding Carry-On Hand Luggage - markets.businessinsider.com",
+      "summary": "# Airwheel SE3SX AI Wheel Luxury Suitcase Wins 2026 WGA for Smart Electric Riding Carry-On Hand Luggage. The recognition highlights not only its distinctive industrial design, but also Airwheel's cont...",
+      "highlights": [
+        "# Airwheel SE3SX AI Wheel Luxury Suitcase Wins 2026 WGA for Smart Electric Riding Carry-On Hand Luggage. The recognition highlights not only its distinctive industrial design, but also Airwheel's continued exploration of how intelligent technology can be integrated into real-world travel. Rather than treating luggage as a passive container, Airwheel is developing it as an active mobility device—combining electric drive technology, intelligent controls, connected features and premium design in a compact carry-on format. From Traditional Luggage to Intelligent Mobility. The Airwheel SE3SX Electric Riding Cabin Suitcase allows users to transition from conventional pulling to powered riding. For Airwheel, the objective is not simply to make a suitcase that can move. And an Electric Riding Suitcase still needs to provide a reliable and intuitive riding experience. From Smart Suitcase to AI Suitcase , from traditional carry-on luggage to Electric Riding Suitcase , Airwheel is exploring how technology can give everyday travel equipment new capabilities without making the experience unnecessarily complicated."
+      ],
+      "url": "https://markets.businessinsider.com/news/stocks/airwheel-se3sx-ai-wheel-luxury-suitcase-wins-2026-wga-for-smart-electric-riding-carry-on-hand-luggage-1036538255",
+      "source": "markets.businessinsider.com",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-09-11T05:04:55Z"
     }
   ],
   "week": [
-    {
-      "id": "2e8049d28809",
-      "title": "DeepSeek扩招；京东APP重大改版丨新鲜早科技",
-      "summary": "# DeepSeek扩招；京东APP重大改版丨新鲜早科技\n\n每天为你带来有趣有料的新鲜早科技。\n\n21世纪经济报道新质生产力研究院综合报道\n\n早上好，新的一天又开始了。在过去的24小时内，科技行业发生了哪些有意思的事情？来跟21tech一起看看吧。\n\n【巨头风向标】\n\nDeepSeek扩招150人，0个AI研究岗\n\n9月8日，国产大模型厂商DeepSeek发布最新一轮招聘计划，开放约150个招聘名...",
-      "highlights": [
-        "# DeepSeek扩招；京东APP重大改版丨新鲜早科技",
-        "每天为你带来有趣有料的新鲜早科技",
-        "21世纪经济报道新质生产力研究院综合报道"
-      ],
-      "url": "https://m.21jingji.com/article/20260909/herald/707d3aca90b2d7d27e2790a5f97b323c.html",
-      "source": "m.21jingji.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-09T04:00:00Z"
-    },
-    {
-      "id": "9f5d9ead4df4",
-      "title": "AiPy 在 Hugging Face 开源评测基准，其日Tokens消耗量已超百亿",
-      "summary": "首页| 资讯| 军事| 汽车| 游戏| 科技| 旅游| 经济| 娱乐| 投资| 文化| 守艺中华| 佛教| 红木| 城市| 韩流| 信息| 简读\n\n中华网\n\n当前位置 ： 投资 > 头条\n\n# AiPy 在 Hugging Face 开源评测基准，其日Tokens消耗量已超百亿\n\n小 大\n\n2026-09-09 11:47:14   来源：今报在线\n\n9月8日，北京知道创宇旗下开源AI智能体“Ai...",
-      "highlights": [
-        "首页| 资讯| 军事| 汽车| 游戏| 科技| 旅游| 经济| 娱乐| 投资| 文化| 守艺中华| 佛教| 红木| 城市| 韩流| 信息| 简读",
-        "当前位置 ： 投资 > 头条",
-        "# AiPy 在 Hugging Face 开源评测基准，其日Tokens消耗量已超百亿"
-      ],
-      "url": "https://mtz.china.com/toutiaos/20260909/0909265167.html",
-      "source": "mtz.china.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-09T04:00:00Z"
-    },
     {
       "id": "44507cf62328",
       "title": "物理AI时代，算力范式正在转移",
@@ -701,21 +745,6 @@
       "publishedAt": "2026-09-09T12:25:23Z"
     },
     {
-      "id": "6f9d8526f373",
-      "title": "南方财经全媒体集团",
-      "summary": "## DeepSeek扩招；京东APP重大改版丨新鲜早科技\n\n21世纪经济报道新质生产力研究院综合报道\n\n早上好，新的一天又开始了。在过去的24小时内，科技行业发生了哪些有意思的事情？来跟21tech一起看看吧。\n\n【巨头风向标】\n\nDeepSeek扩招150人，0个AI研究岗\n\n9月8日，国产大模型厂商DeepSeek发布最新一轮招聘计划，开放约150个招聘名额，重点面向拥有2至10年工作经验的...",
-      "highlights": [
-        "## DeepSeek扩招；京东APP重大改版丨新鲜早科技",
-        "21世纪经济报道新质生产力研究院综合报道",
-        "早上好，新的一天又开始了"
-      ],
-      "url": "https://www.sfccn.com/2026/9-9/wNMDE0MDdfMjIzNTgwNA.html",
-      "source": "sfccn.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-09T04:00:00Z"
-    },
-    {
       "id": "d9ed15eb7557",
       "title": "沐曦陈维良：以“通用、易用、可靠”破局国产GPU算力挑战",
       "summary": "# 沐曦陈维良：以“通用、易用、可靠”破局国产GPU算力挑战\n\n作者： 陈炳欣  13小时前\n\n相关舆情  AI解读 生成海报\n\n来源：爱集微 #沐曦# #IICIE#\n\n2026 IICIE 国际集成电路创新博览会于9月9日至11日在深圳国际会展中心（宝安）正式召开。本届博览会由CIOE中国光博会主办，爱集微（上海）科技有限公司、深圳市贺戎中芯展览有限公司承办，以“跨界融合・全链协同 共筑特色芯...",
@@ -742,39 +771,54 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-09-09T10:28:00Z"
+    },
+    {
+      "id": "7e4cf6113d03",
+      "title": "智能体“入镜”，AI眼镜悄然开启下一程_搜狐网",
+      "summary": "同样是在今年的世界人工智能大会上，阿里旗下的千问眼镜正式宣布升级为智能体眼镜，集成自家千问大模型，可接入阿里Qoder智能体编程平台，同时也支持调用第三方Skill和Agent，通过智能体强化服务与决策能力；科大讯飞在5月发布的GlassClaw眼镜内置AI助手，可独立完成信息采集、全网检索、方案生成与邮件分发全流程复杂任务，实现工作成果的直接交付；IFA展上，致敬未知旗下运动科技品牌BleeqU...",
+      "highlights": [
+        "同样是在今年的世界人工智能大会上，阿里旗下的千问眼镜正式宣布升级为智能体眼镜，集成自家千问大模型，可接入阿里Qoder智能体编程平台，同时也支持调用第三方Skill和Agent，通过智能体强化服务与决策能力；科大讯飞在5月发布的GlassClaw眼镜内置AI助手，可独立完成信息采集、全网检索、方案生成与邮件分发全流程复杂任务，实现工作成果的直接交付；IFA展上，致敬未知旗下运动科技品牌BleeqUp正式发布新品Rover，在成熟硬件架构基础上完成全方位升级，完成从“AI硬件”到“运动AI Agent”的进阶",
+        "从办公辅助到编程协作，从生活服务到专业场景，智能体正在让AI眼镜从一个“能看”的设备，变成一个“能干”的入口",
+        "浪潮背后：技术、市场与竞争的三重交汇"
+      ],
+      "url": "https://m.sohu.com/a/1073644483_121134737?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-09T09:09:00Z"
+    },
+    {
+      "id": "7dcadbced156",
+      "title": "迦智科技赴港IPO，浙大师生要联手敲钟了_投资界",
+      "summary": "首   页\n 资   讯\n 投资圈\n 活   动\n 研   究\n 创投号\n\n 深度\n 热门\n 天天IPO\n AI先锋\n 机器人\n 医疗健康\n 大消费\n 视频\n 99个发现\n\n 创投号\n 登录\n 清科集团 清科控股 清科研究中心 清科母基金 新芽\n\n首页产业分析评论机器人正文\n\n# 迦智科技赴港IPO，浙大师生要联手敲钟了\n\n近日，浙江迦智科技再次向港交所主板递交上市申请，其掌门人熊蓉是浙大教授。一...",
+      "highlights": [
+        "清科集团 清科控股 清科研究中心 清科母基金 新芽",
+        "首页产业分析评论机器人正文",
+        "# 迦智科技赴港IPO，浙大师生要联手敲钟了"
+      ],
+      "url": "https://news.pedaily.cn/202609/568783.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-10T02:40:00Z"
+    },
+    {
+      "id": "cca54a4d220f",
+      "title": "313起融资，小鹏机器人、帕西尼领跑，算力脑机企业接续发力，351.59亿同比翻四倍：2026年8月人工智能领域投融资分析",
+      "summary": "根据烯牛数据，2026年8月我国人工智能领域共发生投融资事件313起，披露融资金额351.59亿元，位居全行业融资金额第二位。（注：此处披露的融资金额总额为国内（不包含港澳台）投融资事件，不包含并购、IPO、IPO以后阶段的投资事件）\n\n与2026年7月份相比，人工智能领域投融资事件减少了11起，披露融资金额减少了约53%，未披露融资金额的事件共201起。\n\n除收并购、债权融资和新三板事件外，最大...",
+      "highlights": [
+        "根据烯牛数据，2026年8月我国人工智能领域共发生投融资事件313起，披露融资金额351.59亿元，位居全行业融资金额第二位",
+        "（注：此处披露的融资金额总额为国内（不包含港澳台）投融资事件，不包含并购、IPO、IPO以后阶段的投资事件）",
+        "与2026年7月份相比，人工智能领域投融资事件减少了11起，披露融资金额减少了约53%，未披露融资金额的事件共201起"
+      ],
+      "url": "https://www.36kr.com/p/3977429406832520",
+      "source": "36kr.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-10T11:42:37Z"
     }
   ],
   "month": [
-    {
-      "id": "2e8049d28809",
-      "title": "DeepSeek扩招；京东APP重大改版丨新鲜早科技",
-      "summary": "# DeepSeek扩招；京东APP重大改版丨新鲜早科技\n\n每天为你带来有趣有料的新鲜早科技。\n\n21世纪经济报道新质生产力研究院综合报道\n\n早上好，新的一天又开始了。在过去的24小时内，科技行业发生了哪些有意思的事情？来跟21tech一起看看吧。\n\n【巨头风向标】\n\nDeepSeek扩招150人，0个AI研究岗\n\n9月8日，国产大模型厂商DeepSeek发布最新一轮招聘计划，开放约150个招聘名...",
-      "highlights": [
-        "# DeepSeek扩招；京东APP重大改版丨新鲜早科技",
-        "每天为你带来有趣有料的新鲜早科技",
-        "21世纪经济报道新质生产力研究院综合报道"
-      ],
-      "url": "https://m.21jingji.com/article/20260909/herald/707d3aca90b2d7d27e2790a5f97b323c.html",
-      "source": "m.21jingji.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-09T04:00:00Z"
-    },
-    {
-      "id": "9f5d9ead4df4",
-      "title": "AiPy 在 Hugging Face 开源评测基准，其日Tokens消耗量已超百亿",
-      "summary": "首页| 资讯| 军事| 汽车| 游戏| 科技| 旅游| 经济| 娱乐| 投资| 文化| 守艺中华| 佛教| 红木| 城市| 韩流| 信息| 简读\n\n中华网\n\n当前位置 ： 投资 > 头条\n\n# AiPy 在 Hugging Face 开源评测基准，其日Tokens消耗量已超百亿\n\n小 大\n\n2026-09-09 11:47:14   来源：今报在线\n\n9月8日，北京知道创宇旗下开源AI智能体“Ai...",
-      "highlights": [
-        "首页| 资讯| 军事| 汽车| 游戏| 科技| 旅游| 经济| 娱乐| 投资| 文化| 守艺中华| 佛教| 红木| 城市| 韩流| 信息| 简读",
-        "当前位置 ： 投资 > 头条",
-        "# AiPy 在 Hugging Face 开源评测基准，其日Tokens消耗量已超百亿"
-      ],
-      "url": "https://mtz.china.com/toutiaos/20260909/0909265167.html",
-      "source": "mtz.china.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-09T04:00:00Z"
-    },
     {
       "id": "44507cf62328",
       "title": "物理AI时代，算力范式正在转移",
@@ -894,6 +938,36 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-09-09T14:01:12Z"
+    },
+    {
+      "id": "0775f2b82e2c",
+      "title": "车企造人，到底是降维打击还是估值自救？_风闻",
+      "summary": "汽车奔跑在结构化道路上：路面铺装、标线清晰、交规明确，自动驾驶要解决的，是在相对确定的物理环境中做路径规划与决策。人形机器人面对的是非结构化世界：楼梯、台阶、碎石路、狭窄通道、没有电梯的老小区——今天的IRON能在小鹏展厅里走\"猫步\"，不代表它能稳稳穿过一片施工现场帮工人递扳手。\n\n再看数据。车企引以为傲的海量路面数据，与机器人真正需要的力觉反馈、触觉传感不是一回事。自动驾驶积累的是视觉与决策模型...",
+      "highlights": [
+        "汽车奔跑在结构化道路上：路面铺装、标线清晰、交规明确，自动驾驶要解决的，是在相对确定的物理环境中做路径规划与决策",
+        "人形机器人面对的是非结构化世界：楼梯、台阶、碎石路、狭窄通道、没有电梯的老小区——今天的IRON能在小鹏展厅里走\"猫步\"，不代表它能稳稳穿过一片施工现场帮工人递扳手",
+        "车企引以为傲的海量路面数据，与机器人真正需要的力觉反馈、触觉传感不是一回事"
+      ],
+      "url": "https://user.guancha.cn/main/content?id=1733374&comments-container=",
+      "source": "user.guancha.cn",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-09T07:00:00Z"
+    },
+    {
+      "id": "37608a53cc36",
+      "title": "OpenAI and Samsung partner on new AI chips",
+      "summary": "## Editor picks\n\n## Zscaler: AI agents are the new weakest link\nIn the cyber realm, humans have long been the weakest link. Human vul...\n\n## GPT-6 Astra, OpenAI’s answer to Fable, begins rolling out\nO...",
+      "highlights": [
+        "## Editor picks",
+        "## Zscaler: AI agents are the new weakest link",
+        "In the cyber realm, humans have long been the weakest link. Human vul..."
+      ],
+      "url": "https://www.techzine.eu/news/infrastructure/144186/openai-and-samsung-partner-on-new-ai-chips",
+      "source": "techzine.eu",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-09T12:25:23Z"
     }
   ]
 }
