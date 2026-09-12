@@ -1,6 +1,481 @@
 {
-  "updatedAt": "2026-09-12T12:01:34Z",
+  "updatedAt": "2026-09-12T18:01:40Z",
   "latest": [
+    {
+      "id": "948a6452c43c",
+      "title": "10万卡国产算力集群！京东发布物理AI最新成果",
+      "summary": "模型方面，京东已形成覆盖多模态模型、世界模型和具身模型的JoyAI基础模型矩阵。JDD上，京东发布了实时可交互的世界模型JoyAI-Echo WM，它在面向交互式世界模型的权威公开评测 WBenchNavigation 中，以81.6分排名第一，达到行业顶尖水平。此外，京东物流“超脑”3.0、京东工业JoyIndustrial2.0、京东健康京医千询3.0等垂域大模型也正式发布。\n\n新版App将上...",
+      "highlights": [
+        "模型方面，京东已形成覆盖多模态模型、世界模型和具身模型的JoyAI基础模型矩阵",
+        "JDD上，京东发布了实时可交互的世界模型JoyAI-Echo WM，它在面向交互式世界模型的权威公开评测 WBenchNavigation 中，以81.6分排名第一，达到行业顶尖水平",
+        "此外，京东物流“超脑”3.0、京东工业JoyIndustrial2.0、京东健康京医千询3.0等垂域大模型也正式发布"
+      ],
+      "url": "https://m.voc.com.cn/xhn/news/202609/33723455.html",
+      "source": "m.voc.com.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-10T18:24:47Z"
+    },
+    {
+      "id": "ac65c3c9aa57",
+      "title": "惊艳WAIC、WRC和WHRG，超维动力完成超5亿天使+轮系列融资-品玩",
+      "summary": "shuohang\n\n发布于 27分钟前\n\n近日，据了解，超维动力（Kinetix AI）完成超5亿元人民币天使+轮系列融资，由新加坡淡马锡控股旗下VC机构祥峰资本、方广资本、万石资本等加注。该笔融资将用于加速“数据-模型-本体”迭代，并推动具身智能的产品化落地。\n\n超维动力成立于2025年9月，是一家全栈具身智能大模型公司，创始团队由华为自动驾驶资深高管、香港大学技术专家，以及在人形机器人领域拥有...",
+      "highlights": [
+        "近日，据了解，超维动力（Kinetix AI）完成超5亿元人民币天使+轮系列融资，由新加坡淡马锡控股旗下VC机构祥峰资本、方广资本、万石资本等加注",
+        "该笔融资将用于加速“数据-模型-本体”迭代，并推动具身智能的产品化落地",
+        "超维动力成立于2025年9月，是一家全栈具身智能大模型公司，创始团队由华为自动驾驶资深高管、香港大学技术专家，以及在人形机器人领域拥有多次创业经验的连续创业者共同组成，具有技术创新、工程实现与商业化落地的完整闭环能力"
+      ],
+      "url": "https://www.pingwest.com/a/317316",
+      "source": "pingwest.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-11T05:00:00Z"
+    },
+    {
+      "id": "4f0287556e10",
+      "title": "极佳视界联合创始人朱政：锚定物理世界智能化变革 多线推进技术商业化",
+      "summary": "实体场景商业化正在稳步推进。家庭场景中，极佳视界百台拾光S1家庭机器人订单已落地武汉光谷“之寓”人才公寓，正分批部署，可完成取餐备餐、收拾餐桌、叠衣收纳等家务。工业端，公司启动“机器人造机器人”项目，首批百台Maker H01已完成交付，建成两条示范产线。公司预期两年内将机器人接管工序占比提升至半数以上，后续将把这套产线方案复制拓展到仓储物流、汽车制造、3C电子领域。\n\n在自动驾驶业务上，极佳视界...",
+      "highlights": [
+        "实体场景商业化正在稳步推进",
+        "家庭场景中，极佳视界百台拾光S1家庭机器人订单已落地武汉光谷“之寓”人才公寓，正分批部署，可完成取餐备餐、收拾餐桌、叠衣收纳等家务",
+        "工业端，公司启动“机器人造机器人”项目，首批百台Maker H01已完成交付，建成两条示范产线"
+      ],
+      "url": "https://www.cs.com.cn/ssgs/01/2026/09/11/detail_2026091110038402.html",
+      "source": "cs.com.cn",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-11T00:00:00Z"
+    },
+    {
+      "id": "0489dcbaa83c",
+      "title": "最高法:AI文书须核验披露,未经同意利用AI换脸、拟声或侵权;Harvey融资5.5亿美元并收购AI安全平台 | 法律科技一周看点",
+      "summary": "#欧洲并购扩张本期目录法治要闻1. 最高法发布首部涉AI司法裁判... Chamelio推出常驻式企业法务智能体资本风向8. Harvey融资5.5亿...",
+      "highlights": [
+        "#欧洲并购扩张本期目录法治要闻1. 最高法发布首部涉AI司法裁判... Chamelio推出常驻式企业法务智能体资本风向8. Harvey融资5.5亿..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS96x7vuRZN1uwd0ggcCBe-ENGNI38dgAN1qXa8Fplpd9XeJTKOGbml9eELkJLuN9kocmJPJXn7dFuEbsCSkZ7Sh5P553mujQ5FtxP9RQwZpGM0Z7nu7cUbbjsQZDDeHuo_Jo7gDTFpHZ1t7cPtO_At9-sYTcnBEmF6Vw-bh85Yu32tGpjzn5EExiV8O2GLkAmfIMluGcw3IJKkAliIfI7Qg89kyxDwoXvg..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=0E487F02AF1A1312BEB8E58E65C799E6BE119E8F6AA3ED9D",
+      "source": "微信公众号",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-11T09:30:58Z"
+    },
+    {
+      "id": "cae65dd9df66",
+      "title": "A股“大肉签”！GPU“四小龙”之一，每签赚超13万元",
+      "summary": "来源：证券时报网作者：智林2026-09-11 10:07\n\n字号\n\n超大\n\n大\n\n标准\n\n小\n\n点赞\n\n分享\n\n今日（9月11日），燧原科技上市，开盘价410元/股，开盘涨幅188.37%，以开盘价计算，每一签净赚13.39万元。燧原科技是国产GPU“四小龙”之一，此前‌摩尔线程、沐曦股份已在A股上市，壁仞科技在港股上市。\n\n资料显示，燧原科技成立于2018年，是国内稀缺的专注云端AI芯片研发的...",
+      "highlights": [
+        "来源：证券时报网作者：智林2026-09-11 10:07",
+        "今日（9月11日），燧原科技上市，开盘价410元/股，开盘涨幅188.37%，以开盘价计算，每一签净赚13.39万元",
+        "燧原科技是国产GPU“四小龙”之一，此前‌摩尔线程、沐曦股份已在A股上市，壁仞科技在港股上市"
+      ],
+      "url": "https://stcn.com/article/detail/4180984.html",
+      "source": "stcn.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-11T01:00:00Z"
+    },
+    {
+      "id": "a154281daca0",
+      "title": "投资周报丨交子资本发力域外并购，四川国资现身电科思仪、燧原科技IPO_搜狐网",
+      "summary": "工商信息显示，9月8日，深圳市龙岗区引导基金投资有限公司进入成都国盛天丰网络科技有限公司股东名单，持股比例约3%。国盛天丰前身成立于2009年3月，2014年2月总部从北京迁往成都高新区天府软件园，是一家专业从事互联网产品研发、生产、销售和系统集成一体化的高科技企业，以自主研发的旺小宝云端智能客户管理系统为核心产品。\n\n9月9日，AI眼镜企业影目科技（INMO）宣布完成C3轮融资，由四川振兴科创基...",
+      "highlights": [
+        "工商信息显示，9月8日，深圳市龙岗区引导基金投资有限公司进入成都国盛天丰网络科技有限公司股东名单，持股比例约3%",
+        "国盛天丰前身成立于2009年3月，2014年2月总部从北京迁往成都高新区天府软件园，是一家专业从事互联网产品研发、生产、销售和系统集成一体化的高科技企业，以自主研发的旺小宝云端智能客户管理系统为核心产品",
+        "9月9日，AI眼镜企业影目科技（INMO）宣布完成C3轮融资，由四川振兴科创基金领投，上海静安资本、上海市北高新、四川眉山中试基金、眉山东坡国投、鼎祥资本、四川省中试、广州产投、东证资本等跟投"
+      ],
+      "url": "https://m.sohu.com/a/1074882136_421107?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-11T17:58:38Z"
+    },
+    {
+      "id": "f8d174b73139",
+      "title": "长期利好来了！A股三大主线浮出水面！|国务院新闻办公室|资本市场改革|华福证券|证监会|科技_手机新浪网",
+      "summary": "比如，中长期资金持续入市，一方面有助于改善A股投资者结构，降低市场波动率；另一方面将推动估值体系向长期化、价值化迁移，高股息、稳定现金流资产的配置价值进一步凸显。对券商而言，机构业务、托管、资管和衍生品需求将同步扩容，头部机构受益更为明显。\n\n科技优先不是简单降低门槛，而是通过更精准的板块定位、更灵活的上市标准和更顺畅的退出机制，形成“科技—产业—金融”良性循环。对投资而言，半导体、人工智能、高端...",
+      "highlights": [
+        "比如，中长期资金持续入市，一方面有助于改善A股投资者结构，降低市场波动率；另一方面将推动估值体系向长期化、价值化迁移，高股息、稳定现金流资产的配置价值进一步凸显",
+        "对券商而言，机构业务、托管、资管和衍生品需求将同步扩容，头部机构受益更为明显",
+        "科技优先不是简单降低门槛，而是通过更精准的板块定位、更灵活的上市标准和更顺畅的退出机制，形成“科技—产业—金融”良性循环"
+      ],
+      "url": "https://finance.sina.cn/stock/ggyj/2026-09-11/detail-inirnaiy8955015.d.html?vt=4&cid=76524&node_id=76524",
+      "source": "finance.sina.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-11T17:58:34Z"
+    },
+    {
+      "id": "ea63864e632f",
+      "title": "Seeds | 华为前高管造人形机器人，刚获5 亿元融资",
+      "summary": "复制成功\n\n完善个人信息\n\n 请输入姓名\n 请输入公司\n 请输入部门\n 请输入职位\n 请输入手机\n 请输入邮箱\n\n请输入公司邮箱 详情 >\n\n如有疑问请发邮件至data-group@gasgoo.com邮箱垂询\n\n 获取验证码)\n 请选择地区\n\n客服电话：021-39586681\n\n提交\n\n提交成功\n\n正在热评)\n\n实时热评\n\n当前位置：首页 > 创投 > 正文\n\n# Seeds | 华为前高管造...",
+      "highlights": [
+        "请输入公司邮箱 详情 >",
+        "如有疑问请发邮件至data-group@gasgoo.com邮箱垂询",
+        "客服电话：021-39586681"
+      ],
+      "url": "https://auto.gasgoo.com/news/202609/11I70471843C112.shtml",
+      "source": "auto.gasgoo.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-11T08:00:00Z"
+    },
+    {
+      "id": "a9c7e4ca5fc5",
+      "title": "2026外滩大会投资人圆桌：AI投资向“两端”倾斜，具身智能仍在早期爬坡",
+      "summary": "另有机构透露，内部设立了AI Lab，通过每周跟踪AI应用榜单、测试大模型及AI产品、关注前沿论文第一作者等方式系统性挖掘项目。“移动互联网时代是团队创业，AI时代已进入个人创业阶段，很多优秀产品在社交媒体上就能直接触达。”\n\n　　投资逻辑：兼顾前沿科技与应用落地，向“两端”倾斜\n\n　　针对“投资更偏向技术上游还是应用层”的疑问，多位投资人强调“协同布局”的思路。一方面，机构会超前布局固态电池、机...",
+      "highlights": [
+        "另有机构透露，内部设立了AI Lab，通过每周跟踪AI应用榜单、测试大模型及AI产品、关注前沿论文第一作者等方式系统性挖掘项目",
+        "“移动互联网时代是团队创业，AI时代已进入个人创业阶段，很多优秀产品在社交媒体上就能直接触达",
+        "投资逻辑：兼顾前沿科技与应用落地，向“两端”倾斜"
+      ],
+      "url": "https://k.sina.com.cn/article_5953466437_162dab0450670bc4ve.html?from=tech",
+      "source": "k.sina.com.cn",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-09-11T17:20:02Z"
+    },
+    {
+      "id": "a0a7ed781dd8",
+      "title": "Broadcom Stock Fell 3% After Earnings Despite Immense AI Chip Demand",
+      "summary": "We assign a High Uncertainty Rating to Broadcom. We see its primary risk arising from customer concentration and AI. Broadcom is increasingly concentrated in its AI accelerator business, which is made...",
+      "highlights": [
+        "We assign a High Uncertainty Rating to Broadcom. We see its primary risk arising from customer concentration and AI. Broadcom is increasingly concentrated in its AI accelerator business, which is made up of a handful of high-spending customers like Google and Anthropic. Changes in spending patterns from these customers and overall AI demand can create fluctuations in Broadcom’s results and affect market sentiment on its stock. Broadcom’s results and valuation are highly sensitive to the rate of [...] The bottom line: We maintain our $650 fair value estimate for wide-moat Broadcom, which remains one of our top picks in semiconductors. Our thesis for massive revenue ramps to OpenAI and Anthropic through 2028 is on track, and shares look like a bargain against this huge impending growth.",
+        "The following are excerpts from Morningstar’s company report on Broadcom.",
+        "## Fair Value Estimate for Broadcom [...] Morningstar"
+      ],
+      "url": "https://www.morningstar.com/stocks/broadcom-stock-fell-3-after-earnings-despite-immense-ai-chip-demand",
+      "source": "morningstar.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-11T10:00:00Z"
+    },
+    {
+      "id": "c53250e711df",
+      "title": "最高法:AI文书须核验披露,未经同意利用AI换脸、拟声或侵权;Harvey融资5.5亿美元并收购AI安全平台 | 法律科技一周看点",
+      "summary": "#欧洲并购扩张本期目录法治要闻1. 最高法发布首部涉AI司法裁判... Chamelio推出常驻式企业法务智能体资本风向8. Harvey融资5.5亿...",
+      "highlights": [
+        "#欧洲并购扩张本期目录法治要闻1. 最高法发布首部涉AI司法裁判... Chamelio推出常驻式企业法务智能体资本风向8. Harvey融资5.5亿..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS96x7vuRZN1umsHqEcSRMRgNGNI38dgAN1qXa8Fplpd9XeJTKOGbml9eELkJLuN9kocmJPJXn7dFuEbsCSkZ7Sh5P553mujQ5OQ7eHrOVg1UnW4kcMmCHvFFvYSARnxEeebJTZeR5Bwnm24mFK3ZIj03NC-hUkLl2hgJk2b7e6Zb8UbuEDe48GL8CdFALw3RD3Q4yuSfAnFdhV9u21YPuIb0OK9DLfgmPA..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=1019D9814016637AD5D08EED36E7DF55D68D545C6AA44201",
+      "source": "微信公众号",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-11T09:30:58Z"
+    },
+    {
+      "id": "ece0edcce671",
+      "title": "云服务商纷纷下场自研，算力竞争进入芯片定义时代",
+      "summary": "[](\n\n 时政\n 热点\n 政务\n 深瞳\n 访谈\n 视频\n 国际\n 地方\n 专题\n English\n 滚动\n\n[](  登录 -\n\n所在位置： 中国科技网首页 > 滚动 > 正文\n\n# 科技创新世界潮 | 云服务商纷纷下场自研，算力竞争进入芯片定义时代\n\n2026-09-12 01:45:00 来源:  科技日报  点击数：\n\n科技日报实习记者 姚易安 科技日报记者 张梦然\n\n8月31日，英伟达与...",
+      "highlights": [
+        "所在位置： 中国科技网首页 > 滚动 > 正文",
+        "# 科技创新世界潮 | 云服务商纷纷下场自研，算力竞争进入芯片定义时代",
+        "2026-09-12 01:45:00 来源:  科技日报  点击数："
+      ],
+      "url": "https://www.stdaily.com/web/gdxw/2026-09/12/content_579482.html",
+      "source": "stdaily.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-11T17:00:00Z"
+    },
+    {
+      "id": "05eaa9ffe59d",
+      "title": "券商中期业绩会密集召开，明星IPO项目、并购计划等引关注 - 21财经",
+      "summary": "# 券商中期业绩会密集召开，明星IPO项目、并购计划等引关注\n\n2026-09-11 04:32\n\n本文字数：2786，阅读时长大约4分钟\n\n作者 |第一财经周楠\n\n封图 |AI生成\n\n中报季过后，本月以来，券商中期业绩会密集召开。\n\n9月10日，中国银河（601881.SH）、国金证券（600109.SH）召开中期业绩发布会。第一财经关注到，会上，两家公司均被问及是否均在并购计划或正在筹划资产重...",
+      "highlights": [
+        "# 券商中期业绩会密集召开，明星IPO项目、并购计划等引关注",
+        "2026-09-11 04:32",
+        "本文字数：2786，阅读时长大约4分钟"
+      ],
+      "url": "https://m.21jingji.com/article/20260911/herald/9ba552002918f6ec3a8a017a598e2b4e.html",
+      "source": "m.21jingji.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-10T21:00:00Z"
+    },
+    {
+      "id": "2a5da80c0546",
+      "title": "Seeds | 华为前高管造人形机器人，刚获5亿元融资 - 盖世汽车",
+      "summary": "盖世全球汽车产业大数据📰\n\n盖世汽车资讯\n\n产业新闻、销量与行业前沿动态💬\n\n盖世汽车社区\n\n从业者实名交流与行业资讯分享\n\n中文\n\n登录\n\n首页 / 资讯 / 文章详情\n\n具身智能资本动态\n\n# Seeds | 华为前高管造人形机器人，刚获5亿元融资\n\n2026-09-11 13:48:12· 盖世汽车\n\n盖世具身智能获悉，超维动力（Kinetix AI）已于近日完成超5亿元天使+轮系列融资，由...",
+      "highlights": [
+        "盖世全球汽车产业大数据📰",
+        "产业新闻、销量与行业前沿动态💬",
+        "从业者实名交流与行业资讯分享"
+      ],
+      "url": "https://www.gasgoo.com/robot/news/70471843-seeds-%E5%8D%8E%E4%B8%BA%E5%89%8D%E9%AB%98%E7%AE%A1%E9%80%A0%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA",
+      "source": "gasgoo.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-11T06:00:00Z"
+    },
+    {
+      "id": "ef8b990f6e07",
+      "title": "最高法:AI文书须核验披露,未经同意利用AI换脸、拟声或侵权;Harvey融资5.5亿美元并收购AI安全平台 | 法律科技一周看点",
+      "summary": "#欧洲并购扩张本期目录法治要闻1. 最高法发布首部涉AI司法裁判... Chamelio推出常驻式企业法务智能体资本风向8. Harvey融资5.5亿...",
+      "highlights": [
+        "#欧洲并购扩张本期目录法治要闻1. 最高法发布首部涉AI司法裁判... Chamelio推出常驻式企业法务智能体资本风向8. Harvey融资5.5亿..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS96x7vuRZN1utvtBWY9gwfyYlXdEBzKZpFqXa8Fplpd9e4zXJBhmEQYBWDs4VMEe09ZOxwbjTh5QhPhZiAmSqgPCn5uHwsDEUYB_iqsqAKOU0yhfe_GBzayHWFBsjF5W89_jX9ZdQ9JH3DiFCeEJnZngNsWI8XMbOi86KDXD4iHqxNPWeGm6BL-sIdaczjFKZIFh1Gr32dLzAfqgV3YV98r2CsG6-xMgzQ..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=11DF6772EE8AC66A2A2C7116CC7953D32B1C01056AA4964B",
+      "source": "微信公众号",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-11T09:30:58Z"
+    },
+    {
+      "id": "b3b5bc18a7be",
+      "title": "Kimi-maker Moonshot AI targets $2 billion in annual revenue - TechCrunch",
+      "summary": "# Kimi-maker Moonshot AI targets $2 billion in annual revenue. One of China’s most prominent AI labs, Moonshot AI, believes it can turn its popular open-weight model into serious sales growth. On Frid...",
+      "highlights": [
+        "# Kimi-maker Moonshot AI targets $2 billion in annual revenue. One of China’s most prominent AI labs, Moonshot AI, believes it can turn its popular open-weight model into serious sales growth. On Friday, Bloomberg reported that the lab is targeting $2 billion in annualized revenue by the end of the year, double the company’s reported revenue run rate for August. It’s an aggressive goal that reflects the success of the company’s K3 model since its release this summer. Moonshot’s projected revenue is still dwarfed by that of OpenAI and Anthropic, which recent reports put at $40 billion and $65 billion respectively. The rising projections show there’s still money to be made from open-weight AI models, even if they’re not as lucrative as closed-weight frontier models. Earlier this week, Anthropic accused the company of a long-running model distillation campaign that routed nearly 300,000 requests from Kimi directly to Claude Opus, effectively serving Opus in place of Kimi’s own models."
+      ],
+      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "source": "techcrunch.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-11T19:35:54Z"
+    },
+    {
+      "id": "069975d36d37",
+      "title": "这家小公司估值已达180亿美元：谷歌挑战英伟达的“秘密武器”",
+      "summary": "疫情期间，Fluidstack的业务转向从企业与高校实验室整批租赁GPU算力。后来，公司陆续拿下Poolside、Mistral、Character.ai等初创公司的合作订单。ChatGPT推出后，公司业务进一步扩张，开始在其他企业的数据中心内运营由数千块GPU组成的AI超算集群。根据Fluidstack在英国公司备案文件中披露的最新财务数据，2024年公司营收飙升至6600万美元以上。\n\n到20...",
+      "highlights": [
+        "疫情期间，Fluidstack的业务转向从企业与高校实验室整批租赁GPU算力",
+        "后来，公司陆续拿下Poolside、Mistral、Character.ai等初创公司的合作订单",
+        "ChatGPT推出后，公司业务进一步扩张，开始在其他企业的数据中心内运营由数千块GPU组成的AI超算集群"
+      ],
+      "url": "https://www.forbeschina.com/fga/72137",
+      "source": "forbeschina.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-11T18:00:00Z"
+    },
+    {
+      "id": "b2aa27e40730",
+      "title": "GPT-6登顶AI抗体预测领域第一 AlphaFold之后最大震撼突破成全球最强抗体预测AI",
+      "summary": "绝对不是。\n\nBogdan A. Zagribelnyy 博士指出，Astra 登顶的平台是他们构建的 DDD Benchmark。\n\n在他们发布的论文中，我们看到了这个测试体系多么硬核。\n\n虽然推文讨论的是「大分子抗体」，但这篇论文展示了该团队在「小分子化学」领域建立评测标准的恐怖深度。了解了这个背景，你才会明白 Astra 的夺冠有多么不可思议。\n\n在论文中，研究团队聚焦了另一个制药界的世纪难...",
+      "highlights": [
+        "Bogdan A. Zagribelnyy 博士指出，Astra 登顶的平台是他们构建的 DDD Benchmark",
+        "在他们发布的论文中，我们看到了这个测试体系多么硬核",
+        "虽然推文讨论的是「大分子抗体」，但这篇论文展示了该团队在「小分子化学」领域建立评测标准的恐怖深度"
+      ],
+      "url": "https://eu.36kr.com/zh/p/3978455065508609",
+      "source": "eu.36kr.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-11T06:00:00Z"
+    },
+    {
+      "id": "575cb164531e",
+      "title": "AI's existential crisis explodes but AI companies plunge ahead anyway",
+      "summary": "And another warning: Anthropic says AI now lets lone operators run state-level hacking campaigns\n\nOpenAI to set misalignment disclosure rules after agents took over a wiki\n\nOpenAI chief scientist argu...",
+      "highlights": [
+        "And another warning: Anthropic says AI now lets lone operators run state-level hacking campaigns",
+        "OpenAI to set misalignment disclosure rules after agents took over a wiki",
+        "OpenAI chief scientist argues for AI research slowdown"
+      ],
+      "url": "https://siliconangle.com/2026/09/11/ais-existential-crisis-explodes-but-ai-companies-plunge-ahead-anyway",
+      "source": "siliconangle.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-11T14:00:28Z"
+    },
+    {
+      "id": "309d4de455b4",
+      "title": "最高法:AI文书须核验披露,未经同意利用AI换脸、拟声或侵权;Harvey融资5.5亿美元并收购AI安全平台 | 法律科技一周看点",
+      "summary": "#欧洲并购扩张本期目录法治要闻1. 最高法发布首部涉AI司法裁判... Chamelio推出常驻式企业法务智能体资本风向8. Harvey融资5.5亿...",
+      "highlights": [
+        "#欧洲并购扩张本期目录法治要闻1. 最高法发布首部涉AI司法裁判... Chamelio推出常驻式企业法务智能体资本风向8. Harvey融资5.5亿..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS96x7vuRZN1uWSutTTfkrbyYlXdEBzKZpFqXa8Fplpd9e4zXJBhmEQYBWDs4VMEe09ZOxwbjTh5QhPhZiAmSqgPCn5uHwsDEUahUR1Uo1Kn9OwonyuaFkw3n6FTSTnwywgswf4u2x7hZI4A4jqSALbQzgJ2eNERGX5YR3LFLlcEUOeFVUKR1ppbv2BW5K_4tPIfErNiy1hwAH6g3EApuK3bf3q8uRDTfkw..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=13B9C9C865CC96DBD6D08E973BEA6D25D64E3CCD6AA4EAB3",
+      "source": "微信公众号",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-11T09:30:58Z"
+    },
+    {
+      "id": "dcbcdda81d45",
+      "title": "最高法:AI文书须核验披露,未经同意利用AI换脸、拟声或侵权;Harvey融资5.5亿美元并收购AI安全平台 | 法律科技一周看点",
+      "summary": "#欧洲并购扩张本期目录法治要闻1. 最高法发布首部涉AI司法裁判... Chamelio推出常驻式企业法务智能体资本风向8. Harvey融资5.5亿...",
+      "highlights": [
+        "#欧洲并购扩张本期目录法治要闻1. 最高法发布首部涉AI司法裁判... Chamelio推出常驻式企业法务智能体资本风向8. Harvey融资5.5亿..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS5mMERfTavslzOqrWg6Ev6oX4z4kMiU_ulqXa8Fplpd9h_tcGqwkcxYUaT-ZuU3_hvLVXLLnRL7nHsrGDgGVoC3GyGSKTuj9RwDD_axe7eZNjVmpEk4f8nT_98hxvlOFOx0vw-zL4TNUNBF4_zZQN1jQYK7EFkEuwICIXGUigwIgVJTOvCCo7cxp2g_Z9egtOFwQRS1vobTjPAkn-vb_Oeff3q8uRDTfkw..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=15925682F5DCD2AA06005E42F03F318606B29CF46AA53F1C",
+      "source": "微信公众号",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-11T09:30:58Z"
+    },
+    {
+      "id": "8badf9f78bc3",
+      "title": "长期利好来了！A股三大主线浮出水面！|国务院新闻办公室|资本市场改革|华福证券|证监会|科技_手机新浪网",
+      "summary": "比如，中长期资金持续入市，一方面有助于改善A股投资者结构，降低市场波动率；另一方面将推动估值体系向长期化、价值化迁移，高股息、稳定现金流资产的配置价值进一步凸显。对券商而言，机构业务、托管、资管和衍生品需求将同步扩容，头部机构受益更为明显。\n\n科技优先不是简单降低门槛，而是通过更精准的板块定位、更灵活的上市标准和更顺畅的退出机制，形成“科技—产业—金融”良性循环。对投资而言，半导体、人工智能、高端...",
+      "highlights": [
+        "比如，中长期资金持续入市，一方面有助于改善A股投资者结构，降低市场波动率；另一方面将推动估值体系向长期化、价值化迁移，高股息、稳定现金流资产的配置价值进一步凸显",
+        "对券商而言，机构业务、托管、资管和衍生品需求将同步扩容，头部机构受益更为明显",
+        "科技优先不是简单降低门槛，而是通过更精准的板块定位、更灵活的上市标准和更顺畅的退出机制，形成“科技—产业—金融”良性循环"
+      ],
+      "url": "https://finance.sina.cn/stock/ggyj/2026-09-11/detail-inirnaiy8955015.d.html?vt=4",
+      "source": "finance.sina.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-11T17:58:34Z"
+    },
+    {
+      "id": "733aec106fe8",
+      "title": "最高法:AI文书须核验披露,未经同意利用AI换脸、拟声或侵权;Harvey融资5.5亿美元并收购AI安全平台 | 法律科技一周看点",
+      "summary": "#欧洲并购扩张本期目录法治要闻1. 最高法发布首部涉AI司法裁判... Chamelio推出常驻式企业法务智能体资本风向8. Harvey融资5.5亿...",
+      "highlights": [
+        "#欧洲并购扩张本期目录法治要闻1. 最高法发布首部涉AI司法裁判... Chamelio推出常驻式企业法务智能体资本风向8. Harvey融资5.5亿..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS5mMERfTavslbyjovi2o4FMX4z4kMiU_ulqXa8Fplpd9h_tcGqwkcxYUaT-ZuU3_hvLVXLLnRL7nHsrGDgGVoC3GyGSKTuj9R1Nz8CC11nQpiZWpCYaPI7I9hznXFKKWK3iL4aRlW-z_vY-OiKtBh3x4VkuWym4GSzKUMtvCXghSesJq6dOTBa7xK1fhczoPUGEZrDm7_DxR4WbB1pnClKTyPfCoem7FzA..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=17A8138C599A8D182C2D7067D53C18E32C6FF83A6AA59382",
+      "source": "微信公众号",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-11T09:30:58Z"
+    },
+    {
+      "id": "aeab2a0dbfb3",
+      "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model - cnbc.com",
+      "summary": "The CEO of an Ant-backed humanoid robotics startup has published a letter to OpenAI in Chinese that raises questions about technical and design similarities between the two companies' recent models. \"...",
+      "highlights": [
+        "The CEO of an Ant-backed humanoid robotics startup has published a letter to OpenAI in Chinese that raises questions about technical and design similarities between the two companies' recent models. \"People often say major tech companies have intelligence networks monitoring the whole internet, this time I believe it, this is a direct distillation of us without any modifications,\" Guo Renjie, CEO of Suzhou-based JoyIn, said in a public statement Thursday, according to a CNBC translation. He said the startup had publicly presented its \"extraterrestrial visitor\" AI model framework in Silicon Valley a few weeks ago, before OpenAI's Chief Scientist published \"An Alien Mind\" on Sept. Guo also highlighted similarities in the outer space-inspired design of OpenAI's GPT-6 Astra web page and the website for JoyIn's Aether model that he claimed was released two months ago. She told CNBC earlier this week that Aether reduced training time by two-thirds, and that she planned to open-source parts of the model, such as those relating to touch, but not portions related to energy use."
+      ],
+      "url": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
+      "source": "cnbc.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-11T06:02:40Z"
+    },
+    {
+      "id": "24bcc147d9e8",
+      "title": "OpenAI pulls out of Caltech math hackathon after mathematicians issue open letter criticizing AI math 'slop' - Business Insider",
+      "summary": "The latest math problem OpenAI is trying to solve is a bunch of angry mathematicians. A researcher at OpenAI said on Thursday that the ChatGPT maker is no longer sponsoring Caltech's \"math hackathon,\"...",
+      "highlights": [
+        "The latest math problem OpenAI is trying to solve is a bunch of angry mathematicians. A researcher at OpenAI said on Thursday that the ChatGPT maker is no longer sponsoring Caltech's \"math hackathon,\" an event where participants use large language models to solve research problems. OpenAI's exit follows an open letter released on Wednesday from current and former Caltech mathematicians, who said the event, which is sponsored by AI companies, \"is likely to have destructive impacts for the mathematical community.\". \"We recognize that the rapid progress of AI in mathematics is disruptive,\" Dan Roberts, OpenAI's research lead, said on X. At issue, according to the mathematicians, is the manner in which AI companies claim to solve outstanding theoretical problems using their models and then leave practical applications and proofs to actual researchers. \"It's our first time running an event at this scale, and we are grateful for all the feedback we have received.\"."
+      ],
+      "url": "https://www.businessinsider.com/openai-caltech-ai-math-hackathon-backlash-anthropic-2026-9",
+      "source": "businessinsider.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-10T22:46:44Z"
+    },
+    {
+      "id": "9e3c14a0bf73",
+      "title": "Better Performance, but at What Cost? Evaluating LLMs for Legal Research - Law.com",
+      "summary": "Sign in to access your account and subscription. General Counsel  Innovation  Law Firm Hiring  Law Firm Management  Law Firm Office Launches and Closures  All Topics. The Artificial Intelligence Gloss...",
+      "highlights": [
+        "Sign in to access your account and subscription. General Counsel  Innovation  Law Firm Hiring  Law Firm Management  Law Firm Office Launches and Closures  All Topics. The Artificial Intelligence Glossary  Data Privacy Law Tracker  Generative AI Case Studies  Legal Tech Deal Tracker  Legal Tech Investment Tracker  Meet the Female Founders of Legal Tech. Reporting, and expert analysis of legal technology with a focus onwhat legal departments, law firms, and tech companies need to know. All Surveys & Rankings  Am Law 100  Am Law 200  A-List. The Am Law 100 Rankings. The Am Law 100 is the definitive ranking of the 100 largest law firms in the United States. * Anthropic's models scored highest on accuracy and completeness on a new legal research AI benchmark. Legal artificial intelligence evaluation group Legal Benchmarks announced Thursday the release of its DELTA Benchmark Report, which assessed and compared the performance of various large language models (LLMs) on a set of Dutch legal research tasks."
+      ],
+      "url": "https://www.law.com/legaltechnews/2026/09/10/better-performance-but-at-what-cost-evaluating-llms-for-legal-research-/",
+      "source": "law.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-10T18:59:29Z"
+    },
+    {
+      "id": "ca81682d91d4",
+      "title": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs - WIRED",
+      "summary": "# ‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs. “The science is thrilling,” the Cornell University professor says, “but there's a lot of human unpleasantness going w...",
+      "highlights": [
+        "# ‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs. “The science is thrilling,” the Cornell University professor says, “but there's a lot of human unpleasantness going with it.”. The rupture is a symptom of the rapid changes taking place in the field due to AI advancements and what Strogatz—who cowrote Big Math, a book about how math is slipping away from human understanding that will be out in November—describes as corporate labs’ race to grab headlines ahead of blockbuster IPOs. Last week, Anthropic said Claude had proved 29,500 small theorems while formalizing an existing proof of the infamous Fermat’s Last Theorem—a project other mathematicians had been working on for years. AI is making mathematical breakthroughs happen faster, Strogatz says, but what it means for the experts who have dedicated their lives to the field is decidedly less clear. “You will not be able to compete without AI in the future if you want to do breakthrough math,” he adds."
+      ],
+      "url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
+      "source": "wired.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-12T10:00:00Z"
+    },
+    {
+      "id": "68ce9d3962b2",
+      "title": "AI政策宣讲助力大模型企业合规发展_部门动态_首都之窗_北京市人民政府门户网站",
+      "summary": "要闻动态　>　部门动态\n\n日期：2026-09-11 09:47    来源：北京经济技术开发区管理委员会\n\n分享：\n\nX\n\n字号：   大)   中)   小)\n\n近日，北京经开区举办“模力AI大讲堂·生成式人工智能管理政策法规专场宣讲会”，紧扣国家关于人工智能治理的决策部署，围绕大模型备案及拟人化互动服务等企业关切点，深度解读最新政策要求，为企业合规发展提供精准指引。\n\n　　活动在北京市委网信...",
+      "highlights": [
+        "要闻动态　>　部门动态",
+        "日期：2026-09-11 09:47    来源：北京经济技术开发区管理委员会",
+        "字号：   大)   中)   小)"
+      ],
+      "url": "https://www.beijing.gov.cn/ywdt/gzdt/202609/t20260911_4859391.html",
+      "source": "beijing.gov.cn",
+      "category": "行业话题",
+      "importance": 4,
+      "publishedAt": "2026-09-11T09:47:00Z"
+    },
+    {
+      "id": "d96cea0117ee",
+      "title": "Anthropic指中国AI公司大规模蒸馏Claude能力，中方关联账户被指用于海外监控",
+      "summary": "美国政府以及Anthropic公司发布的这些报告正值美中人工智能竞争加剧之际。中国企业近年来迅速推出价格较低、部分采用开放权重的模型，美国政府和人工智能公司则越来越担心，中国竞争者可能通过大规模提取美国模型输出来减少自身研发和计算投入。\n\nAnthropic的最新报告进一步显示，模型公司的输出本身正成为技术竞争中的关键资源。如何区分正常使用、获准蒸馏与未经授权的大规模能力提取，可能成为未来美国监管...",
+      "highlights": [
+        "美国政府以及Anthropic公司发布的这些报告正值美中人工智能竞争加剧之际",
+        "中国企业近年来迅速推出价格较低、部分采用开放权重的模型，美国政府和人工智能公司则越来越担心，中国竞争者可能通过大规模提取美国模型输出来减少自身研发和计算投入",
+        "Anthropic的最新报告进一步显示，模型公司的输出本身正成为技术竞争中的关键资源"
+      ],
+      "url": "https://www.voachinese.com/a/anthropic-alleges-chinese-ai-firms-distilled-claude-s-capabilities-as-china-linked-accounts-used-it-for-overseas-surveillance-20260911/8196927.html",
+      "source": "voachinese.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-11T18:00:00Z"
+    },
+    {
+      "id": "30b8347d62f4",
+      "title": "超维动力完成超5亿元天使+轮融资，全栈布局推动具身智能落地 _光明网",
+      "summary": "点击右上角微信好友\n\n科技频道\n\n  \n\n;)\n\n 时政\n 国际\n 时评\n 理论\n 文化\n 科技\n 教育\n 经济\n 生活\n 法治\n 专题\n ENGLISH\n\n 时政\n 国际\n 时评\n 理论\n 文化\n 科技\n 教育\n \n\n首页> 科技频道> 综合新闻 > 正文\n\n# 超维动力完成超5亿元天使+轮融资，全栈布局推动具身智能落地\n\n来源：光明网2026-09-11 12:00\n\n近日，全栈具身智能大模型...",
+      "highlights": [
+        "首页> 科技频道> 综合新闻 > 正文",
+        "# 超维动力完成超5亿元天使+轮融资，全栈布局推动具身智能落地",
+        "来源：光明网2026-09-11 12:00"
+      ],
+      "url": "https://tech.gmw.cn/2026-09/11/content_38996268.htm",
+      "source": "tech.gmw.cn",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-11T00:00:00Z"
+    }
+  ],
+  "today": [
+    {
+      "id": "ca81682d91d4",
+      "title": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs - WIRED",
+      "summary": "# ‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs. “The science is thrilling,” the Cornell University professor says, “but there's a lot of human unpleasantness going w...",
+      "highlights": [
+        "# ‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs. “The science is thrilling,” the Cornell University professor says, “but there's a lot of human unpleasantness going with it.”. The rupture is a symptom of the rapid changes taking place in the field due to AI advancements and what Strogatz—who cowrote Big Math, a book about how math is slipping away from human understanding that will be out in November—describes as corporate labs’ race to grab headlines ahead of blockbuster IPOs. Last week, Anthropic said Claude had proved 29,500 small theorems while formalizing an existing proof of the infamous Fermat’s Last Theorem—a project other mathematicians had been working on for years. AI is making mathematical breakthroughs happen faster, Strogatz says, but what it means for the experts who have dedicated their lives to the field is decidedly less clear. “You will not be able to compete without AI in the future if you want to do breakthrough math,” he adds."
+      ],
+      "url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
+      "source": "wired.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-12T10:00:00Z"
+    },
+    {
+      "id": "41b1ebc17f19",
+      "title": "论文汇总丨Agent Harness新进展：阿里/Meta/谷歌等探索长程执行、自演化与评估",
+      "summary": "论文及详细解读：\n\nagent harness 方法概述\n\n以上就是本周论文推荐的全部内容，更多 AI 前沿研究论文，详见 hyper.ai 官网「最新论文」板块。\n\n同时也欢迎研究团队向我们投稿高质量成果及论文，有意向者可添加神经星星微信（微信号：Hyperai01）。\n\n下周再见！\n\n内容中包含的图片若涉及版权问题，请及时与我们联系删除\n\n点赞   收藏   评论 分享到Link  \n\n举报反...",
+      "highlights": [
+        "agent harness 方法概述",
+        "以上就是本周论文推荐的全部内容，更多 AI 前沿研究论文，详见 hyper.ai 官网「最新论文」板块",
+        "同时也欢迎研究团队向我们投稿高质量成果及论文，有意向者可添加神经星星微信（微信号：Hyperai01）"
+      ],
+      "url": "https://hub.baai.ac.cn/view/57903",
+      "source": "hub.baai.ac.cn",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-12T08:00:00Z"
+    },
+    {
+      "id": "c91b630f54ba",
+      "title": "“拿捏”编程之后，AI的下一个“主场”会是科研吗？|世界人工智能大会|澎湃新闻|上海市|周伯文|论坛_新浪新闻",
+      "summary": "一年前，周伯文在2025浦江创新论坛提出了“AGI4S六问”，包括边界之问、预测之问、交叉之问、形式化之问、验证之问、新科学之问。如今回头再看，周伯文表示人工智能和科学研究的互生关系越来越深入人心，六问整体都在向前突破，但发展速度有所分化。其中，预测、交叉和验证三问进展较快，其他更底层的三问则进展较慢。\n\n　　要更好地帮助科学家进行探索，AI的能力还需进一步提升。周伯文提出，当下科研取得更大突破面...",
+      "highlights": [
+        "一年前，周伯文在2025浦江创新论坛提出了“AGI4S六问”，包括边界之问、预测之问、交叉之问、形式化之问、验证之问、新科学之问",
+        "如今回头再看，周伯文表示人工智能和科学研究的互生关系越来越深入人心，六问整体都在向前突破，但发展速度有所分化",
+        "其中，预测、交叉和验证三问进展较快，其他更底层的三问则进展较慢"
+      ],
+      "url": "https://k.sina.com.cn/article_5953190046_162d6789e06703rviu.html?from=tech",
+      "source": "k.sina.com.cn",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-09-12T17:35:01Z"
+    }
+  ],
+  "week": [
     {
       "id": "afdf64e3ef62",
       "title": "AI芯片变局|OpenAI联手三星造芯、英伟达129亿收购Hugging Face、亚马逊押注高通",
@@ -217,289 +692,9 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-11T17:00:00Z"
-    },
-    {
-      "id": "05eaa9ffe59d",
-      "title": "券商中期业绩会密集召开，明星IPO项目、并购计划等引关注 - 21财经",
-      "summary": "# 券商中期业绩会密集召开，明星IPO项目、并购计划等引关注\n\n2026-09-11 04:32\n\n本文字数：2786，阅读时长大约4分钟\n\n作者 |第一财经周楠\n\n封图 |AI生成\n\n中报季过后，本月以来，券商中期业绩会密集召开。\n\n9月10日，中国银河（601881.SH）、国金证券（600109.SH）召开中期业绩发布会。第一财经关注到，会上，两家公司均被问及是否均在并购计划或正在筹划资产重...",
-      "highlights": [
-        "# 券商中期业绩会密集召开，明星IPO项目、并购计划等引关注",
-        "2026-09-11 04:32",
-        "本文字数：2786，阅读时长大约4分钟"
-      ],
-      "url": "https://m.21jingji.com/article/20260911/herald/9ba552002918f6ec3a8a017a598e2b4e.html",
-      "source": "m.21jingji.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-10T21:00:00Z"
-    },
-    {
-      "id": "2a5da80c0546",
-      "title": "Seeds | 华为前高管造人形机器人，刚获5亿元融资 - 盖世汽车",
-      "summary": "盖世全球汽车产业大数据📰\n\n盖世汽车资讯\n\n产业新闻、销量与行业前沿动态💬\n\n盖世汽车社区\n\n从业者实名交流与行业资讯分享\n\n中文\n\n登录\n\n首页 / 资讯 / 文章详情\n\n具身智能资本动态\n\n# Seeds | 华为前高管造人形机器人，刚获5亿元融资\n\n2026-09-11 13:48:12· 盖世汽车\n\n盖世具身智能获悉，超维动力（Kinetix AI）已于近日完成超5亿元天使+轮系列融资，由...",
-      "highlights": [
-        "盖世全球汽车产业大数据📰",
-        "产业新闻、销量与行业前沿动态💬",
-        "从业者实名交流与行业资讯分享"
-      ],
-      "url": "https://www.gasgoo.com/robot/news/70471843-seeds-%E5%8D%8E%E4%B8%BA%E5%89%8D%E9%AB%98%E7%AE%A1%E9%80%A0%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA",
-      "source": "gasgoo.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-11T06:00:00Z"
-    },
-    {
-      "id": "ef8b990f6e07",
-      "title": "最高法:AI文书须核验披露,未经同意利用AI换脸、拟声或侵权;Harvey融资5.5亿美元并收购AI安全平台 | 法律科技一周看点",
-      "summary": "#欧洲并购扩张本期目录法治要闻1. 最高法发布首部涉AI司法裁判... Chamelio推出常驻式企业法务智能体资本风向8. Harvey融资5.5亿...",
-      "highlights": [
-        "#欧洲并购扩张本期目录法治要闻1. 最高法发布首部涉AI司法裁判... Chamelio推出常驻式企业法务智能体资本风向8. Harvey融资5.5亿..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS96x7vuRZN1utvtBWY9gwfyYlXdEBzKZpFqXa8Fplpd9e4zXJBhmEQYBWDs4VMEe09ZOxwbjTh5QhPhZiAmSqgPCn5uHwsDEUYB_iqsqAKOU0yhfe_GBzayHWFBsjF5W89_jX9ZdQ9JH3DiFCeEJnZngNsWI8XMbOi86KDXD4iHqxNPWeGm6BL-sIdaczjFKZIFh1Gr32dLzAfqgV3YV98r2CsG6-xMgzQ..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=11DF6772EE8AC66A2A2C7116CC7953D32B1C01056AA4964B",
-      "source": "微信公众号",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-11T09:30:58Z"
-    },
-    {
-      "id": "b3b5bc18a7be",
-      "title": "Kimi-maker Moonshot AI targets $2 billion in annual revenue - TechCrunch",
-      "summary": "# Kimi-maker Moonshot AI targets $2 billion in annual revenue. One of China’s most prominent AI labs, Moonshot AI, believes it can turn its popular open-weight model into serious sales growth. On Frid...",
-      "highlights": [
-        "# Kimi-maker Moonshot AI targets $2 billion in annual revenue. One of China’s most prominent AI labs, Moonshot AI, believes it can turn its popular open-weight model into serious sales growth. On Friday, Bloomberg reported that the lab is targeting $2 billion in annualized revenue by the end of the year, double the company’s reported revenue run rate for August. It’s an aggressive goal that reflects the success of the company’s K3 model since its release this summer. Moonshot’s projected revenue is still dwarfed by that of OpenAI and Anthropic, which recent reports put at $40 billion and $65 billion respectively. The rising projections show there’s still money to be made from open-weight AI models, even if they’re not as lucrative as closed-weight frontier models. Earlier this week, Anthropic accused the company of a long-running model distillation campaign that routed nearly 300,000 requests from Kimi directly to Claude Opus, effectively serving Opus in place of Kimi’s own models."
-      ],
-      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-      "source": "techcrunch.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-11T19:35:54Z"
-    },
-    {
-      "id": "069975d36d37",
-      "title": "这家小公司估值已达180亿美元：谷歌挑战英伟达的“秘密武器”",
-      "summary": "疫情期间，Fluidstack的业务转向从企业与高校实验室整批租赁GPU算力。后来，公司陆续拿下Poolside、Mistral、Character.ai等初创公司的合作订单。ChatGPT推出后，公司业务进一步扩张，开始在其他企业的数据中心内运营由数千块GPU组成的AI超算集群。根据Fluidstack在英国公司备案文件中披露的最新财务数据，2024年公司营收飙升至6600万美元以上。\n\n到20...",
-      "highlights": [
-        "疫情期间，Fluidstack的业务转向从企业与高校实验室整批租赁GPU算力",
-        "后来，公司陆续拿下Poolside、Mistral、Character.ai等初创公司的合作订单",
-        "ChatGPT推出后，公司业务进一步扩张，开始在其他企业的数据中心内运营由数千块GPU组成的AI超算集群"
-      ],
-      "url": "https://www.forbeschina.com/fga/72137",
-      "source": "forbeschina.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-11T18:00:00Z"
-    },
-    {
-      "id": "b2aa27e40730",
-      "title": "GPT-6登顶AI抗体预测领域第一 AlphaFold之后最大震撼突破成全球最强抗体预测AI",
-      "summary": "绝对不是。\n\nBogdan A. Zagribelnyy 博士指出，Astra 登顶的平台是他们构建的 DDD Benchmark。\n\n在他们发布的论文中，我们看到了这个测试体系多么硬核。\n\n虽然推文讨论的是「大分子抗体」，但这篇论文展示了该团队在「小分子化学」领域建立评测标准的恐怖深度。了解了这个背景，你才会明白 Astra 的夺冠有多么不可思议。\n\n在论文中，研究团队聚焦了另一个制药界的世纪难...",
-      "highlights": [
-        "Bogdan A. Zagribelnyy 博士指出，Astra 登顶的平台是他们构建的 DDD Benchmark",
-        "在他们发布的论文中，我们看到了这个测试体系多么硬核",
-        "虽然推文讨论的是「大分子抗体」，但这篇论文展示了该团队在「小分子化学」领域建立评测标准的恐怖深度"
-      ],
-      "url": "https://eu.36kr.com/zh/p/3978455065508609",
-      "source": "eu.36kr.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-11T06:00:00Z"
-    },
-    {
-      "id": "575cb164531e",
-      "title": "AI's existential crisis explodes but AI companies plunge ahead anyway",
-      "summary": "And another warning: Anthropic says AI now lets lone operators run state-level hacking campaigns\n\nOpenAI to set misalignment disclosure rules after agents took over a wiki\n\nOpenAI chief scientist argu...",
-      "highlights": [
-        "And another warning: Anthropic says AI now lets lone operators run state-level hacking campaigns",
-        "OpenAI to set misalignment disclosure rules after agents took over a wiki",
-        "OpenAI chief scientist argues for AI research slowdown"
-      ],
-      "url": "https://siliconangle.com/2026/09/11/ais-existential-crisis-explodes-but-ai-companies-plunge-ahead-anyway",
-      "source": "siliconangle.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-11T14:00:28Z"
-    },
-    {
-      "id": "309d4de455b4",
-      "title": "最高法:AI文书须核验披露,未经同意利用AI换脸、拟声或侵权;Harvey融资5.5亿美元并收购AI安全平台 | 法律科技一周看点",
-      "summary": "#欧洲并购扩张本期目录法治要闻1. 最高法发布首部涉AI司法裁判... Chamelio推出常驻式企业法务智能体资本风向8. Harvey融资5.5亿...",
-      "highlights": [
-        "#欧洲并购扩张本期目录法治要闻1. 最高法发布首部涉AI司法裁判... Chamelio推出常驻式企业法务智能体资本风向8. Harvey融资5.5亿..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS96x7vuRZN1uWSutTTfkrbyYlXdEBzKZpFqXa8Fplpd9e4zXJBhmEQYBWDs4VMEe09ZOxwbjTh5QhPhZiAmSqgPCn5uHwsDEUahUR1Uo1Kn9OwonyuaFkw3n6FTSTnwywgswf4u2x7hZI4A4jqSALbQzgJ2eNERGX5YR3LFLlcEUOeFVUKR1ppbv2BW5K_4tPIfErNiy1hwAH6g3EApuK3bf3q8uRDTfkw..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=13B9C9C865CC96DBD6D08E973BEA6D25D64E3CCD6AA4EAB3",
-      "source": "微信公众号",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-11T09:30:58Z"
-    },
-    {
-      "id": "1341a45dca11",
-      "title": "The Mathematician Crushed Between OpenAI and Anthropic Over a Math Problem - The New York Times",
-      "summary": "Over Labor Day weekend, Tristan Buckmaster, a mathematician at New York University, felt as if he had been rolled over by one of the biggest and most powerful companies in the world — because of a mat...",
-      "highlights": [
-        "Over Labor Day weekend, Tristan Buckmaster, a mathematician at New York University, felt as if he had been rolled over by one of the biggest and most powerful companies in the world — because of a math problem. The list includes the Navier-Stokes puzzle, and in less than a week, OpenAI beat Dr. Buckmaster and all of the world’s other human mathematicians, announcing on Tuesday that it had found the answer. Over the past couple of days, a firestorm has ignited across the social media universe: perceived threats, dangled prize money and suggestions that OpenAI’s A.I. agents had somehow found and incorporated Dr. Buckmaster’s recent work into the company’s proof. On Wednesday evening, in response to questions from The Times, OpenAI said in a statement that it was “categorically” impossible for its A.I. system to have been influenced by anything Dr. Buckmaster had done in the past two months."
-      ],
-      "url": "https://www.nytimes.com/2026/09/10/science/tristan-buckmaster-openai-math-navier-stokes.html",
-      "source": "nytimes.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-10T14:08:38Z"
-    },
-    {
-      "id": "dcbcdda81d45",
-      "title": "最高法:AI文书须核验披露,未经同意利用AI换脸、拟声或侵权;Harvey融资5.5亿美元并收购AI安全平台 | 法律科技一周看点",
-      "summary": "#欧洲并购扩张本期目录法治要闻1. 最高法发布首部涉AI司法裁判... Chamelio推出常驻式企业法务智能体资本风向8. Harvey融资5.5亿...",
-      "highlights": [
-        "#欧洲并购扩张本期目录法治要闻1. 最高法发布首部涉AI司法裁判... Chamelio推出常驻式企业法务智能体资本风向8. Harvey融资5.5亿..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS5mMERfTavslzOqrWg6Ev6oX4z4kMiU_ulqXa8Fplpd9h_tcGqwkcxYUaT-ZuU3_hvLVXLLnRL7nHsrGDgGVoC3GyGSKTuj9RwDD_axe7eZNjVmpEk4f8nT_98hxvlOFOx0vw-zL4TNUNBF4_zZQN1jQYK7EFkEuwICIXGUigwIgVJTOvCCo7cxp2g_Z9egtOFwQRS1vobTjPAkn-vb_Oeff3q8uRDTfkw..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=15925682F5DCD2AA06005E42F03F318606B29CF46AA53F1C",
-      "source": "微信公众号",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-11T09:30:58Z"
-    },
-    {
-      "id": "5bbd0f8af831",
-      "title": "AI Models Generate Advances in Mathematical Research - THE Journal: Technological Horizons in Education",
-      "summary": "Image 1: THE JournalWhere AI and ed tech meet K–12 innovation. *   OpenAI says an internal AI system produced a proposed solution to the Navier-Stokes existence and smoothness problem, while Anthropic...",
-      "highlights": [
-        "Image 1: THE JournalWhere AI and ed tech meet K–12 innovation. *   OpenAI says an internal AI system produced a proposed solution to the Navier-Stokes existence and smoothness problem, while Anthropic has reported separate advances in research mathematics and formal proof generation. *   Formal verification tools such as Lean could become increasingly important as AI-generated research scales, because the ability to produce mathematical results may soon outpace the human capacity to check them. OpenAIhas announced what it says is an AI-generated solution to the Navier-Stokes existence and smoothness problem, one of mathematics' seven Millennium Prize Problems. OpenAI's proposed proof argues that an initially smooth fluid can develop a singularity, essentially a mathematical breakdown in which velocity grows without bound in finite time. The company released both the proof and a computer-checkable formalization written in the Lean proof assistant. A proof of a Millennium Prize Problem does not become established mathematics because an AI company publishes it."
-      ],
-      "url": "https://thejournal.com/articles/2026/09/10/ai-models-generate-advances-in-mathematical-research.aspx",
-      "source": "thejournal.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-10T16:55:54Z"
-    },
-    {
-      "id": "aeab2a0dbfb3",
-      "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model - cnbc.com",
-      "summary": "The CEO of an Ant-backed humanoid robotics startup has published a letter to OpenAI in Chinese that raises questions about technical and design similarities between the two companies' recent models. \"...",
-      "highlights": [
-        "The CEO of an Ant-backed humanoid robotics startup has published a letter to OpenAI in Chinese that raises questions about technical and design similarities between the two companies' recent models. \"People often say major tech companies have intelligence networks monitoring the whole internet, this time I believe it, this is a direct distillation of us without any modifications,\" Guo Renjie, CEO of Suzhou-based JoyIn, said in a public statement Thursday, according to a CNBC translation. He said the startup had publicly presented its \"extraterrestrial visitor\" AI model framework in Silicon Valley a few weeks ago, before OpenAI's Chief Scientist published \"An Alien Mind\" on Sept. Guo also highlighted similarities in the outer space-inspired design of OpenAI's GPT-6 Astra web page and the website for JoyIn's Aether model that he claimed was released two months ago. She told CNBC earlier this week that Aether reduced training time by two-thirds, and that she planned to open-source parts of the model, such as those relating to touch, but not portions related to energy use."
-      ],
-      "url": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
-      "source": "cnbc.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-11T06:02:40Z"
-    },
-    {
-      "id": "24bcc147d9e8",
-      "title": "OpenAI pulls out of Caltech math hackathon after mathematicians issue open letter criticizing AI math 'slop' - Business Insider",
-      "summary": "The latest math problem OpenAI is trying to solve is a bunch of angry mathematicians. A researcher at OpenAI said on Thursday that the ChatGPT maker is no longer sponsoring Caltech's \"math hackathon,\"...",
-      "highlights": [
-        "The latest math problem OpenAI is trying to solve is a bunch of angry mathematicians. A researcher at OpenAI said on Thursday that the ChatGPT maker is no longer sponsoring Caltech's \"math hackathon,\" an event where participants use large language models to solve research problems. OpenAI's exit follows an open letter released on Wednesday from current and former Caltech mathematicians, who said the event, which is sponsored by AI companies, \"is likely to have destructive impacts for the mathematical community.\". \"We recognize that the rapid progress of AI in mathematics is disruptive,\" Dan Roberts, OpenAI's research lead, said on X. At issue, according to the mathematicians, is the manner in which AI companies claim to solve outstanding theoretical problems using their models and then leave practical applications and proofs to actual researchers. \"It's our first time running an event at this scale, and we are grateful for all the feedback we have received.\"."
-      ],
-      "url": "https://www.businessinsider.com/openai-caltech-ai-math-hackathon-backlash-anthropic-2026-9",
-      "source": "businessinsider.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-10T22:46:44Z"
-    },
-    {
-      "id": "3e834cb79480",
-      "title": "OpenAI Gives US Agencies 50% Off Models, Ending $1 Per Year Deal - Bloomberg.com",
-      "summary": "# OpenAI Gives US Agencies 50% Off Models, Ending $1 Per Year Deal. ## Takeaways by Bloomberg AISubscribe. OpenAI is ending a pilot program that allowed government agencies to use its models for only ...",
-      "highlights": [
-        "# OpenAI Gives US Agencies 50% Off Models, Ending $1 Per Year Deal. ## Takeaways by Bloomberg AISubscribe. OpenAI is ending a pilot program that allowed government agencies to use its models for only $1 per year and moving to a usage-based pricing system that will give federal workers access to the technology at a 50% discount from standard prices, according to a statement from the General Services Administration. In a push to drive adoption of its models in August of last year, OpenAI joined the GSA’s marketplace, a hub called OneGov that allows federal agencies to buy AI software at scale. The first year’s negotiated terms of $1 per year represented the steepest tech discount the government’s central purchasing arm had ever negotiated, Bloomberg previously reported. During that time, according to the GSA, 3.5 million federal employees have been able to access OpenAI’s ChatGPT, generating $1.4 billion in cost savings from it and other AI models."
-      ],
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/openai-gives-us-agencies-50-off-models-ending-1-per-year-deal",
-      "source": "bloomberg.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-10T13:15:20Z"
-    },
-    {
-      "id": "9e3c14a0bf73",
-      "title": "Better Performance, but at What Cost? Evaluating LLMs for Legal Research - Law.com",
-      "summary": "Sign in to access your account and subscription. General Counsel  Innovation  Law Firm Hiring  Law Firm Management  Law Firm Office Launches and Closures  All Topics. The Artificial Intelligence Gloss...",
-      "highlights": [
-        "Sign in to access your account and subscription. General Counsel  Innovation  Law Firm Hiring  Law Firm Management  Law Firm Office Launches and Closures  All Topics. The Artificial Intelligence Glossary  Data Privacy Law Tracker  Generative AI Case Studies  Legal Tech Deal Tracker  Legal Tech Investment Tracker  Meet the Female Founders of Legal Tech. Reporting, and expert analysis of legal technology with a focus onwhat legal departments, law firms, and tech companies need to know. All Surveys & Rankings  Am Law 100  Am Law 200  A-List. The Am Law 100 Rankings. The Am Law 100 is the definitive ranking of the 100 largest law firms in the United States. * Anthropic's models scored highest on accuracy and completeness on a new legal research AI benchmark. Legal artificial intelligence evaluation group Legal Benchmarks announced Thursday the release of its DELTA Benchmark Report, which assessed and compared the performance of various large language models (LLMs) on a set of Dutch legal research tasks."
-      ],
-      "url": "https://www.law.com/legaltechnews/2026/09/10/better-performance-but-at-what-cost-evaluating-llms-for-legal-research-/",
-      "source": "law.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-10T18:59:29Z"
     }
   ],
-  "today": [
-    {
-      "id": "ca81682d91d4",
-      "title": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs - WIRED",
-      "summary": "# ‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs. “The science is thrilling,” the Cornell University professor says, “but there's a lot of human unpleasantness going w...",
-      "highlights": [
-        "# ‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs. “The science is thrilling,” the Cornell University professor says, “but there's a lot of human unpleasantness going with it.”. The rupture is a symptom of the rapid changes taking place in the field due to AI advancements and what Strogatz—who cowrote Big Math, a book about how math is slipping away from human understanding that will be out in November—describes as corporate labs’ race to grab headlines ahead of blockbuster IPOs. Last week, Anthropic said Claude had proved 29,500 small theorems while formalizing an existing proof of the infamous Fermat’s Last Theorem—a project other mathematicians had been working on for years. AI is making mathematical breakthroughs happen faster, Strogatz says, but what it means for the experts who have dedicated their lives to the field is decidedly less clear. “You will not be able to compete without AI in the future if you want to do breakthrough math,” he adds."
-      ],
-      "url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
-      "source": "wired.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-12T10:00:00Z"
-    }
-  ],
-  "week": [
-    {
-      "id": "cca54a4d220f",
-      "title": "313起融资，小鹏机器人、帕西尼领跑，算力脑机企业接续发力，351.59亿同比翻四倍：2026年8月人工智能领域投融资分析",
-      "summary": "根据烯牛数据，2026年8月我国人工智能领域共发生投融资事件313起，披露融资金额351.59亿元，位居全行业融资金额第二位。（注：此处披露的融资金额总额为国内（不包含港澳台）投融资事件，不包含并购、IPO、IPO以后阶段的投资事件）\n\n与2026年7月份相比，人工智能领域投融资事件减少了11起，披露融资金额减少了约53%，未披露融资金额的事件共201起。\n\n除收并购、债权融资和新三板事件外，最大...",
-      "highlights": [
-        "根据烯牛数据，2026年8月我国人工智能领域共发生投融资事件313起，披露融资金额351.59亿元，位居全行业融资金额第二位",
-        "（注：此处披露的融资金额总额为国内（不包含港澳台）投融资事件，不包含并购、IPO、IPO以后阶段的投资事件）",
-        "与2026年7月份相比，人工智能领域投融资事件减少了11起，披露融资金额减少了约53%，未披露融资金额的事件共201起"
-      ],
-      "url": "https://www.36kr.com/p/3977429406832520",
-      "source": "36kr.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-10T11:42:37Z"
-    },
-    {
-      "id": "63637a6986cc",
-      "title": "证监会李超：沪深两市IPO平均审核周期缩短至6个月",
-      "summary": "南都N视频APP · 湾财社\n\n原创2026-09-10 16:49\n\n查看\n\n国务院新闻办公室于2026年9月10日（星期四）下午3时举行“开局起步‘十五五’”系列主题新闻发布会，中国证监会副主席李超出席会议，并答记者问。  \n  \n“十五五”规划《纲要》提出要持续深化资本市场投融资综合改革，7月30日中央政治局会议也对此作出了强调，要求提升资本市场的韧性和信心，证监会下一步将重点推出哪些改革措...",
-      "highlights": [
-        "南都N视频APP · 湾财社",
-        "原创2026-09-10 16:49",
-        "国务院新闻办公室于2026年9月10日（星期四）下午3时举行“开局起步‘十五五’”系列主题新闻发布会，中国证监会副主席李超出席会议，并答记者问"
-      ],
-      "url": "https://m.mp.oeeee.com/a/BAAFRD0000202609101663467.html",
-      "source": "m.mp.oeeee.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-10T08:49:56Z"
-    },
-    {
-      "id": "d0efdf3d71cc",
-      "title": "腾讯云厦门峰会举行 智能体加速渗透闽企一线场景 -本网原创 - 东南网",
-      "summary": "preview发布，总参数7700亿、激活参数490亿，上下文长度达100万，在代码、办公、科学等生产力任务上能力明显提升；经163位内部专家基于203个真实工程任务盲测，其综合表现略优于GLM-5.3与 Kimi K3。  模型升级的同时，智能体应用也在加快演进。作为主流AI办公智能体，WorkBuddy上线半年完成50多个版本迭代，陆续上线“人机双写”、AI原生资料库、安全中心等能力；8月与企...",
-      "highlights": [
-        "preview发布，总参数7700亿、激活参数490亿，上下文长度达100万，在代码、办公、科学等生产力任务上能力明显提升；经163位内部专家基于203个真实工程任务盲测，其综合表现略优于GLM-5.3与 Kimi K3",
-        "模型升级的同时，智能体应用也在加快演进",
-        "作为主流AI办公智能体，WorkBuddy上线半年完成50多个版本迭代，陆续上线“人机双写”、AI原生资料库、安全中心等能力；8月与企业微信打通，消息、邮件、文档、会议等十余项办公能力可在授权范围内一句话调用；9月2日，WorkBuddy开放平台上线，首批引入超百家生态伙伴，成为国内AI Agent赛道首个打通硬件、应用、开发者三层生态的开放平台"
-      ],
-      "url": "http://xm.fjsen.com/2026-09/10/content_32251262.htm",
-      "source": "xm.fjsen.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-10T12:00:00Z"
-    },
-    {
-      "id": "f1735684636a",
-      "title": "119 家 Neolab 拿走 943 亿美元：没有产品、没有收入，投资人究竟在给什么定价？ - 智源社区",
-      "summary": "投资者终于得到了自己的飞行汽车。现在，他们必须学会如何完成价格发现，而不是强迫每一种飞行汽车都进入同一套财务模型。\n\n更多阅读\n\n# AI 硬件创业第一步，先做 AI 还是先做硬件？\n\n# 对话 Nirva 吕唯：在 Meta 做了四年半可穿戴，想清楚了第一代 AI 原生设备该从哪切\n\n# 线下闭门 | 跟人聊聊你的 Agent idea 吧！\n\n# 4000 万美金新一轮融资，ACE 成为 AI...",
-      "highlights": [
-        "投资者终于得到了自己的飞行汽车",
-        "现在，他们必须学会如何完成价格发现，而不是强迫每一种飞行汽车都进入同一套财务模型",
-        "# AI 硬件创业第一步，先做 AI 还是先做硬件"
-      ],
-      "url": "https://hub.baai.ac.cn/view/57843",
-      "source": "hub.baai.ac.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-10T10:00:00Z"
-    },
+  "month": [
     {
       "id": "afdf64e3ef62",
       "title": "AI芯片变局|OpenAI联手三星造芯、英伟达129亿收购Hugging Face、亚马逊押注高通",
@@ -529,21 +724,6 @@
       "publishedAt": "2026-09-10T18:24:47Z"
     },
     {
-      "id": "1a948f5fd55f",
-      "title": "150亿，无锡收获一个机器人IPO",
-      "summary": "解读资本风云，传递价值信息\n\n野马财经\n\n 新闻导航\n 上市公司 金融 IPO 互联网\n\n  地产 人物 汽车 观点\n\n 关于我们\n 关于野马\n 加入我们\n 联系我们\n 广告合作\n 版权声明\n\n 时代财经\n 猎云网\n 中新经纬\n 云掌财经\n 商业密码\n 泡财经\n\n©2015-2026野马财经(www.yemacaijing.com) All Rights Reserved 京公网安备 110114...",
-      "highlights": [
-        "解读资本风云，传递价值信息",
-        "上市公司 金融 IPO 互联网",
-        "地产 人物 汽车 观点"
-      ],
-      "url": "https://www.yemacaijing.com/Index/view/id/96311.html",
-      "source": "yemacaijing.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-10T07:00:00Z"
-    },
-    {
       "id": "9dea0096bc11",
       "title": "AI芯片变局|OpenAI联手三星造芯、英伟达129亿收购Hugging Face、亚马逊押注高通",
       "summary": "AI芯片变局|OpenAI联手三星造芯、英伟达129亿收购Hugging Face、亚马逊押注高通2026 年 9 月,AI 芯片领域在短短一周里密集爆出...",
@@ -555,21 +735,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-10T12:58:31Z"
-    },
-    {
-      "id": "55bd7582407d",
-      "title": "国产化AI协同，飞虎携海光网易联合发布Flybot电话机器人一体机",
-      "summary": "首页| 资讯| 军事| 汽车| 游戏| 科技| 旅游| 经济| 娱乐| 投资| 文化| 守艺中华| 佛教| 红木| 城市| 韩流| 信息| 简读\n\n中华网\n\n当前位置 ： 投资 > 资讯\n\n# 国产化AI协同，飞虎携海光网易联合发布Flybot电话机器人一体机\n\n小 大\n\n2026-09-10 19:20:20   来源：财讯网\n\n近日，飞虎互动、中科海光、网易有道共同宣布，联合推出Flybot大...",
-      "highlights": [
-        "首页| 资讯| 军事| 汽车| 游戏| 科技| 旅游| 经济| 娱乐| 投资| 文化| 守艺中华| 佛教| 红木| 城市| 韩流| 信息| 简读",
-        "当前位置 ： 投资 > 资讯",
-        "# 国产化AI协同，飞虎携海光网易联合发布Flybot电话机器人一体机"
-      ],
-      "url": "https://mtz.china.com/touzi/2026/0910/265762.html",
-      "source": "mtz.china.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-10T11:00:00Z"
     },
     {
       "id": "ac65c3c9aa57",
@@ -658,154 +823,21 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-09-11T17:58:34Z"
-    }
-  ],
-  "month": [
-    {
-      "id": "cca54a4d220f",
-      "title": "313起融资，小鹏机器人、帕西尼领跑，算力脑机企业接续发力，351.59亿同比翻四倍：2026年8月人工智能领域投融资分析",
-      "summary": "根据烯牛数据，2026年8月我国人工智能领域共发生投融资事件313起，披露融资金额351.59亿元，位居全行业融资金额第二位。（注：此处披露的融资金额总额为国内（不包含港澳台）投融资事件，不包含并购、IPO、IPO以后阶段的投资事件）\n\n与2026年7月份相比，人工智能领域投融资事件减少了11起，披露融资金额减少了约53%，未披露融资金额的事件共201起。\n\n除收并购、债权融资和新三板事件外，最大...",
-      "highlights": [
-        "根据烯牛数据，2026年8月我国人工智能领域共发生投融资事件313起，披露融资金额351.59亿元，位居全行业融资金额第二位",
-        "（注：此处披露的融资金额总额为国内（不包含港澳台）投融资事件，不包含并购、IPO、IPO以后阶段的投资事件）",
-        "与2026年7月份相比，人工智能领域投融资事件减少了11起，披露融资金额减少了约53%，未披露融资金额的事件共201起"
-      ],
-      "url": "https://www.36kr.com/p/3977429406832520",
-      "source": "36kr.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-10T11:42:37Z"
     },
     {
-      "id": "63637a6986cc",
-      "title": "证监会李超：沪深两市IPO平均审核周期缩短至6个月",
-      "summary": "南都N视频APP · 湾财社\n\n原创2026-09-10 16:49\n\n查看\n\n国务院新闻办公室于2026年9月10日（星期四）下午3时举行“开局起步‘十五五’”系列主题新闻发布会，中国证监会副主席李超出席会议，并答记者问。  \n  \n“十五五”规划《纲要》提出要持续深化资本市场投融资综合改革，7月30日中央政治局会议也对此作出了强调，要求提升资本市场的韧性和信心，证监会下一步将重点推出哪些改革措...",
+      "id": "340284e490d6",
+      "title": "融资超5亿！让机器人“继承”人类动作经验，技术飞轮转起来了",
+      "summary": "05 在这样的阶段，我们更看重那些有能力定义全栈标准的团队。超维动力作为全栈具身智能大模型公司，把第一人称数据采集、原生具身大模型与高自由度本体放在同一套标准下设计，成立不到一年即形成一系列成熟产品。\n\n以上内容由AI生成，仅供参考\n\nImage 28\n\n新民晚报记者获悉，近日，超维动力 _（Kinetix AI）_ 完成超5亿元人民币天使+轮系列融资，由新加坡淡马锡控股旗下VC机构祥峰资本、方广...",
       "highlights": [
-        "南都N视频APP · 湾财社",
-        "原创2026-09-10 16:49",
-        "国务院新闻办公室于2026年9月10日（星期四）下午3时举行“开局起步‘十五五’”系列主题新闻发布会，中国证监会副主席李超出席会议，并答记者问"
+        "05 在这样的阶段，我们更看重那些有能力定义全栈标准的团队",
+        "超维动力作为全栈具身智能大模型公司，把第一人称数据采集、原生具身大模型与高自由度本体放在同一套标准下设计，成立不到一年即形成一系列成熟产品",
+        "以上内容由AI生成，仅供参考"
       ],
-      "url": "https://m.mp.oeeee.com/a/BAAFRD0000202609101663467.html",
-      "source": "m.mp.oeeee.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-10T08:49:56Z"
-    },
-    {
-      "id": "d0efdf3d71cc",
-      "title": "腾讯云厦门峰会举行 智能体加速渗透闽企一线场景 -本网原创 - 东南网",
-      "summary": "preview发布，总参数7700亿、激活参数490亿，上下文长度达100万，在代码、办公、科学等生产力任务上能力明显提升；经163位内部专家基于203个真实工程任务盲测，其综合表现略优于GLM-5.3与 Kimi K3。  模型升级的同时，智能体应用也在加快演进。作为主流AI办公智能体，WorkBuddy上线半年完成50多个版本迭代，陆续上线“人机双写”、AI原生资料库、安全中心等能力；8月与企...",
-      "highlights": [
-        "preview发布，总参数7700亿、激活参数490亿，上下文长度达100万，在代码、办公、科学等生产力任务上能力明显提升；经163位内部专家基于203个真实工程任务盲测，其综合表现略优于GLM-5.3与 Kimi K3",
-        "模型升级的同时，智能体应用也在加快演进",
-        "作为主流AI办公智能体，WorkBuddy上线半年完成50多个版本迭代，陆续上线“人机双写”、AI原生资料库、安全中心等能力；8月与企业微信打通，消息、邮件、文档、会议等十余项办公能力可在授权范围内一句话调用；9月2日，WorkBuddy开放平台上线，首批引入超百家生态伙伴，成为国内AI Agent赛道首个打通硬件、应用、开发者三层生态的开放平台"
-      ],
-      "url": "http://xm.fjsen.com/2026-09/10/content_32251262.htm",
-      "source": "xm.fjsen.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-10T12:00:00Z"
-    },
-    {
-      "id": "f1735684636a",
-      "title": "119 家 Neolab 拿走 943 亿美元：没有产品、没有收入，投资人究竟在给什么定价？ - 智源社区",
-      "summary": "投资者终于得到了自己的飞行汽车。现在，他们必须学会如何完成价格发现，而不是强迫每一种飞行汽车都进入同一套财务模型。\n\n更多阅读\n\n# AI 硬件创业第一步，先做 AI 还是先做硬件？\n\n# 对话 Nirva 吕唯：在 Meta 做了四年半可穿戴，想清楚了第一代 AI 原生设备该从哪切\n\n# 线下闭门 | 跟人聊聊你的 Agent idea 吧！\n\n# 4000 万美金新一轮融资，ACE 成为 AI...",
-      "highlights": [
-        "投资者终于得到了自己的飞行汽车",
-        "现在，他们必须学会如何完成价格发现，而不是强迫每一种飞行汽车都进入同一套财务模型",
-        "# AI 硬件创业第一步，先做 AI 还是先做硬件"
-      ],
-      "url": "https://hub.baai.ac.cn/view/57843",
-      "source": "hub.baai.ac.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-10T10:00:00Z"
-    },
-    {
-      "id": "afdf64e3ef62",
-      "title": "AI芯片变局|OpenAI联手三星造芯、英伟达129亿收购Hugging Face、亚马逊押注高通",
-      "summary": "AI芯片变局|OpenAI联手三星造芯、英伟达129亿收购Hugging Face、亚马逊押注高通2026 年 9 月,AI 芯片领域在短短一周里密集爆出...",
-      "highlights": [
-        "AI芯片变局|OpenAI联手三星造芯、英伟达129亿收购Hugging Face、亚马逊押注高通2026 年 9 月,AI 芯片领域在短短一周里密集爆出..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7wlZ04ybojnKjQNUVI-MT-hYEwxXopvNVqXa8Fplpd9NO1S2ljBHYcs5CZv2WAkgcZRjw_uVWFFEjiYedE5U9OLp2Rl5gW52bIMGGlOd4HfE3RUOSKxsJOJLAY20j9De2pyNFhgAAwB5-RnSog46_fYTA8zBjxrrNgzofe5SD2bbgrXkfNGtBn3zg-zZRXed0AywKP05QnYZU_RkIOoY7ZQ_LeJW-Rhtg..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=0850E0756AF7D7947F79DB5B42813C4880D8529E6AA2F07C",
-      "source": "微信公众号",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-10T12:58:31Z"
-    },
-    {
-      "id": "948a6452c43c",
-      "title": "10万卡国产算力集群！京东发布物理AI最新成果",
-      "summary": "模型方面，京东已形成覆盖多模态模型、世界模型和具身模型的JoyAI基础模型矩阵。JDD上，京东发布了实时可交互的世界模型JoyAI-Echo WM，它在面向交互式世界模型的权威公开评测 WBenchNavigation 中，以81.6分排名第一，达到行业顶尖水平。此外，京东物流“超脑”3.0、京东工业JoyIndustrial2.0、京东健康京医千询3.0等垂域大模型也正式发布。\n\n新版App将上...",
-      "highlights": [
-        "模型方面，京东已形成覆盖多模态模型、世界模型和具身模型的JoyAI基础模型矩阵",
-        "JDD上，京东发布了实时可交互的世界模型JoyAI-Echo WM，它在面向交互式世界模型的权威公开评测 WBenchNavigation 中，以81.6分排名第一，达到行业顶尖水平",
-        "此外，京东物流“超脑”3.0、京东工业JoyIndustrial2.0、京东健康京医千询3.0等垂域大模型也正式发布"
-      ],
-      "url": "https://m.voc.com.cn/xhn/news/202609/33723455.html",
-      "source": "m.voc.com.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-10T18:24:47Z"
-    },
-    {
-      "id": "1a948f5fd55f",
-      "title": "150亿，无锡收获一个机器人IPO",
-      "summary": "解读资本风云，传递价值信息\n\n野马财经\n\n 新闻导航\n 上市公司 金融 IPO 互联网\n\n  地产 人物 汽车 观点\n\n 关于我们\n 关于野马\n 加入我们\n 联系我们\n 广告合作\n 版权声明\n\n 时代财经\n 猎云网\n 中新经纬\n 云掌财经\n 商业密码\n 泡财经\n\n©2015-2026野马财经(www.yemacaijing.com) All Rights Reserved 京公网安备 110114...",
-      "highlights": [
-        "解读资本风云，传递价值信息",
-        "上市公司 金融 IPO 互联网",
-        "地产 人物 汽车 观点"
-      ],
-      "url": "https://www.yemacaijing.com/Index/view/id/96311.html",
-      "source": "yemacaijing.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-10T07:00:00Z"
-    },
-    {
-      "id": "9dea0096bc11",
-      "title": "AI芯片变局|OpenAI联手三星造芯、英伟达129亿收购Hugging Face、亚马逊押注高通",
-      "summary": "AI芯片变局|OpenAI联手三星造芯、英伟达129亿收购Hugging Face、亚马逊押注高通2026 年 9 月,AI 芯片领域在短短一周里密集爆出...",
-      "highlights": [
-        "AI芯片变局|OpenAI联手三星造芯、英伟达129亿收购Hugging Face、亚马逊押注高通2026 年 9 月,AI 芯片领域在短短一周里密集爆出..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7wlZ04ybojnV8y_0FSC4qREpNY8gm2utlqXa8Fplpd9-MrCnOGnyy4uwywT77832i8j0QoVwYRJo99dYYGCem2t3fEgcF7ucuhb4LB4pe2UeAn7nYURtr8qLO85HOgyXkKiOFApDIpgKwTJ-IUAic4OTCZ628osbC7ViD85_DkSGcPskGW3Ado_venP7s7Q_UBqgyycNXuzAz5Smen0Ztle0WC6Sbi7DA..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=0A4FD799E89D65B78382DFAD4A002C0C847CE7B26AA344DC",
-      "source": "微信公众号",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-10T12:58:31Z"
-    },
-    {
-      "id": "55bd7582407d",
-      "title": "国产化AI协同，飞虎携海光网易联合发布Flybot电话机器人一体机",
-      "summary": "首页| 资讯| 军事| 汽车| 游戏| 科技| 旅游| 经济| 娱乐| 投资| 文化| 守艺中华| 佛教| 红木| 城市| 韩流| 信息| 简读\n\n中华网\n\n当前位置 ： 投资 > 资讯\n\n# 国产化AI协同，飞虎携海光网易联合发布Flybot电话机器人一体机\n\n小 大\n\n2026-09-10 19:20:20   来源：财讯网\n\n近日，飞虎互动、中科海光、网易有道共同宣布，联合推出Flybot大...",
-      "highlights": [
-        "首页| 资讯| 军事| 汽车| 游戏| 科技| 旅游| 经济| 娱乐| 投资| 文化| 守艺中华| 佛教| 红木| 城市| 韩流| 信息| 简读",
-        "当前位置 ： 投资 > 资讯",
-        "# 国产化AI协同，飞虎携海光网易联合发布Flybot电话机器人一体机"
-      ],
-      "url": "https://mtz.china.com/touzi/2026/0910/265762.html",
-      "source": "mtz.china.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-10T11:00:00Z"
-    },
-    {
-      "id": "ac65c3c9aa57",
-      "title": "惊艳WAIC、WRC和WHRG，超维动力完成超5亿天使+轮系列融资-品玩",
-      "summary": "shuohang\n\n发布于 27分钟前\n\n近日，据了解，超维动力（Kinetix AI）完成超5亿元人民币天使+轮系列融资，由新加坡淡马锡控股旗下VC机构祥峰资本、方广资本、万石资本等加注。该笔融资将用于加速“数据-模型-本体”迭代，并推动具身智能的产品化落地。\n\n超维动力成立于2025年9月，是一家全栈具身智能大模型公司，创始团队由华为自动驾驶资深高管、香港大学技术专家，以及在人形机器人领域拥有...",
-      "highlights": [
-        "近日，据了解，超维动力（Kinetix AI）完成超5亿元人民币天使+轮系列融资，由新加坡淡马锡控股旗下VC机构祥峰资本、方广资本、万石资本等加注",
-        "该笔融资将用于加速“数据-模型-本体”迭代，并推动具身智能的产品化落地",
-        "超维动力成立于2025年9月，是一家全栈具身智能大模型公司，创始团队由华为自动驾驶资深高管、香港大学技术专家，以及在人形机器人领域拥有多次创业经验的连续创业者共同组成，具有技术创新、工程实现与商业化落地的完整闭环能力"
-      ],
-      "url": "https://www.pingwest.com/a/317316",
-      "source": "pingwest.com",
+      "url": "https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=1174988",
+      "source": "shobserver.com",
       "category": "具身智能",
       "importance": 5,
-      "publishedAt": "2026-09-11T05:00:00Z"
+      "publishedAt": "2026-09-10T16:00:00Z"
     }
   ]
 }
