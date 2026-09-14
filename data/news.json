@@ -1,20 +1,6 @@
 {
-  "updatedAt": "2026-09-14T12:02:11Z",
+  "updatedAt": "2026-09-14T18:01:36Z",
   "latest": [
-    {
-      "id": "5ea79fb20d94",
-      "title": "宝玉on X: \"OpenAI 在Hot Chips 2026 大会上公布了自研AI 推理芯片 ...",
-      "summary": "设计目标很明确：不追求纸面算力，力求ChatGPT 和API 用户感受到更快的响应速度。 这篇来自Silicon Co-Design 的深度技术分析，把这颗芯片的架构设计逻辑拆得很透。以下是",
-      "highlights": [
-        "设计目标很明确：不追求纸面算力，力求ChatGPT 和API 用户感受到更快的响应速度",
-        "这篇来自Silicon Co-Design 的深度技术分析，把这颗芯片的架构设计逻辑拆得很透"
-      ],
-      "url": "https://x.com/i/status/2098836752765006266",
-      "source": "x.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-12T18:00:00Z"
-    },
     {
       "id": "16c221a970b4",
       "title": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says - Axios",
@@ -119,62 +105,19 @@
       "publishedAt": "2026-09-14T00:47:00Z"
     },
     {
-      "id": "0f9fefefb81f",
-      "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
-      "summary": "His call for an industrywide pause follows months of escalating concerns across the technology industry as A.I. model development has made significant strides at companies like OpenAI, Google’s DeepMi...",
+      "id": "f217ab6f16ee",
+      "title": "中国AI大模型调用量连续二十周领跑：DeepSeek V4.1 Flash上线三天 ...",
+      "summary": "《每日经济新闻》注意到，上周，全球调用量排名前五中，有四款中国AI大模型。其中，腾讯混元Hy4 preview位居第二，周调用量达16.8万亿Token，环比增长15%。\n\nHy4 preview于8月28日正式发布并开源，总参数770B、激活参数49B，上下文长度突破1M，重点面向Agent、Coding与生产力场景优化，增强在真实业务场景中完成复杂任务的能力。\n\n智谱GLM 5.3 Flash...",
       "highlights": [
-        "His call for an industrywide pause follows months of escalating concerns across the technology industry as A.I. model development has made significant strides at companies like OpenAI, Google’s DeepMind and Anthropic.",
-        "Advertisement",
-        "SKIP ADVERTISEMENT [...] Your Places: Global Update The latest news for any part of the world you select."
+        "《每日经济新闻》注意到，上周，全球调用量排名前五中，有四款中国AI大模型",
+        "其中，腾讯混元Hy4 preview位居第二，周调用量达16.8万亿Token，环比增长15%",
+        "Hy4 preview于8月28日正式发布并开源，总参数770B、激活参数49B，上下文长度突破1M，重点面向Agent、Coding与生产力场景优化，增强在真实业务场景中完成复杂任务的能力"
       ],
-      "url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
-      "source": "nytimes.com",
+      "url": "https://www.nbd.com.cn/articles/2026-09-14/4580561.html",
+      "source": "nbd.com.cn",
       "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-12T16:03:00Z"
-    },
-    {
-      "id": "2aedddaf2a3f",
-      "title": "中国军方敏感信息疑外泄 美AI巨头揭内情",
-      "summary": "1. 跳转至内容\n2. 跳转至主菜单\n3. 跳转到更多DW网站\n\n焦点\n\n香港支联会尼泊尔德国选项党\n\n最新视频\n\n电视直播节目繁\n\n广告\n\n数字化世界中国\n\n# 中国军方敏感信息疑外泄 美AI巨头揭内情\n\n德正\n\n2026年9月12日\n\n美国人工智能企业Anthropic发布重磅威胁情报报告，曝光其大模型系统遭多方滥用。令人意外的是，由于中国本土人工智能竞品在后台暗中分流用户提问，导致包含中国军...",
-      "highlights": [
-        "3. 跳转到更多DW网站",
-        "香港支联会尼泊尔德国选项党",
-        "# 中国军方敏感信息疑外泄 美AI巨头揭内情"
-      ],
-      "url": "https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%96%B9%E4%BF%A1%E6%81%AF%E7%96%91%E9%81%AD%E5%A4%96%E6%B3%84-%E7%BE%8Eai%E5%B7%A8%E5%A4%B4%E6%8F%AD%E6%95%8F%E6%84%9F%E5%86%85%E5%B9%95/a-79245762",
-      "source": "dw.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-12T14:19:56Z"
-    },
-    {
-      "id": "e90570b2994c",
-      "title": "科技创新世界潮丨云服务商纷纷下场自研，算力竞争进入芯片定义时代",
-      "summary": "三大核心环节全链条推进\n\n云厂商的芯片布局围绕算力集群“计算—通信—存储”三大核心环节全链条推进，针对不同场景的技术痛点，走出了差异化的技术落地路径。\n\nAI芯片是解决通用GPU的场景适配短板的关键。云厂商通过定制专用ASIC芯片，精准剔除无关功能模块，实现性能与能效的双重提升。目前定制化AI芯片在大模型推理场景下的能效比可达同级别通用GPU的1.5—3倍，单位算力成本降低35%以上。\n\n头部厂商...",
-      "highlights": [
-        "三大核心环节全链条推进",
-        "云厂商的芯片布局围绕算力集群“计算—通信—存储”三大核心环节全链条推进，针对不同场景的技术痛点，走出了差异化的技术落地路径",
-        "AI芯片是解决通用GPU的场景适配短板的关键"
-      ],
-      "url": "https://www.stdaily.com/web/gdxw/2026-09/13/content_579482.html",
-      "source": "stdaily.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-09-12T17:00:00Z"
-    },
-    {
-      "id": "fc3899ecce2e",
-      "title": "Stocks stumble on inflation fears, but 2 of our names give us reasons to stay bullish - CNBC",
-      "summary": "Friday's market rally was not enough to flip stocks into the green last week as surging oil prices and bond yields stoked renewed concerns about inflation and the Federal Reserve's next move. The Dow ...",
-      "highlights": [
-        "Friday's market rally was not enough to flip stocks into the green last week as surging oil prices and bond yields stoked renewed concerns about inflation and the Federal Reserve's next move. The Dow Jones Industrial Average , the S & P 500 , and the Nasdaq all pared their weekly losses in Friday's trading — each with nearly 1% gains at the close — as crude and rates came off the boil. Bond yields, which also took a breather Friday, have been moving lockstep with rising crude prices on worries that higher energy costs could keep inflation elevated and necessitate an interest rate hike at this coming week's Fed meeting. Thursday's producer price index rose 0.4% for the month, in line with expectations, while Friday's consumer price index showed headline inflation also increasing 0.4% month over month and 3.4% from a year earlier. Meta followed that up last week, with the launch of its Muse personal AI agent , which integrates with Facebook, Instagram, and Whatsapp, leveraging their 3.6 billion daily active users."
-      ],
-      "url": "https://www.cnbc.com/2026/09/12/stocks-stumble-on-inflation-fears-but-2-names-give-us-reasons-to-stay-bullish.html",
-      "source": "cnbc.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-12T14:37:07Z"
+      "importance": 5,
+      "publishedAt": "2026-09-14T03:00:00Z"
     },
     {
       "id": "32cca649f378",
@@ -216,19 +159,6 @@
       "publishedAt": "2026-09-12T22:45:00Z"
     },
     {
-      "id": "de52bf1b599c",
-      "title": "Exclusive: OpenAI's Sam Altman hints at pact with other AI companies to address safety risks - fortune.com",
-      "summary": "# Exclusive: OpenAI’s Sam Altman hints at pact with other AI companies to address safety risks. OpenAI and other leading AI companies may be close to announcing a pact to slow AI development and colle...",
-      "highlights": [
-        "# Exclusive: OpenAI’s Sam Altman hints at pact with other AI companies to address safety risks. OpenAI and other leading AI companies may be close to announcing a pact to slow AI development and collectively address the rapidly increasing safety risks as the technology becomes more powerful. In an exclusive interview with *Fortune* on Friday (above), OpenAI CEO Sam Altman hinted at a soon-to-be-announced collaboration. “I think that will happen,” he said, when asked by *Fortune* Editor-in-Chief Alyson Shontell why he doesn’t get in a room with Anthropic CEO Dario Amodei, SpaceX CEO Elon Musk, and Demis Hassabis, the cofounder and chairman of Google’s AI arm, Google DeepMind, and come up with a plan to address the safety issues. In the interview with *Fortune*, Altman stressed that the company was committed to safety above any business considerations and that a 10% risk of a catastrophic AI outcome was not acceptable."
-      ],
-      "url": "https://fortune.com/2026/09/12/openai-ceo-sam-altman-safety-pact-ai-companies-risks-anthropic-dario-amodei/",
-      "source": "fortune.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-12T15:00:00Z"
-    },
-    {
       "id": "0ef650f8668f",
       "title": "In the Wild West of AI, Everybody Is Accusing Everybody Else of Theft - Gizmodo",
       "summary": "In a statement published Tuesday, the U.S. Cybersecurity & Infrastructure Security Agency (CISA) said that some of the biggest Chinese AI firms—DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun, and Z....",
@@ -240,19 +170,6 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-09-13T13:47:36Z"
-    },
-    {
-      "id": "69e3805020ac",
-      "title": "Anthropic CEO warns AI race is moving too fast to control. OpenAI’s chief agrees - San Francisco Chronicle",
-      "summary": "The chief executive of San Francisco-based Anthropic called Saturday for an immediate slowdown in the race to build more powerful artificial intelligence systems — an idea endorsed by a chief rival, t...",
-      "highlights": [
-        "The chief executive of San Francisco-based Anthropic called Saturday for an immediate slowdown in the race to build more powerful artificial intelligence systems — an idea endorsed by a chief rival, the OpenAI CEO. Dario Amodei, who leads the company behind the Claude chatbot, said in a new essay that AI labs should deliberately scale the development of frontier models while outside evaluators and governments catch up. “We must slow the pace at which we improve the capabilities of AI models,” Amodei wrote. Hours later, OpenAI CEO Sam Altman endorsed a slowdown and said his company would adopt one of Amodei’s proposed safeguards. “I agree with Dario that we need to pace the frontier,” Altman wrote on X, saying the issue had been a major topic of discussion at OpenAI in recent weeks. Amodei’s warning comes days after a former Anthropic researcher publicly quit, saying the industry was “gambling with our lives” by racing toward self-improving AI systems without adequate safeguards."
-      ],
-      "url": "https://www.sfchronicle.com/tech/article/anthropic-ceo-ai-slowdown-22428805.php",
-      "source": "sfchronicle.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-12T16:53:24Z"
     },
     {
       "id": "41b22d4f708c",
@@ -311,21 +228,6 @@
       "publishedAt": "2026-09-13T17:00:00Z"
     },
     {
-      "id": "43e294d83b72",
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "summary": "Anthropic withheld its Mythos model from public use when it was announced in April that it could independently escape the testing environment, known as the sandbox.\n\nIn the run-up to the release of it...",
-      "highlights": [
-        "Anthropic withheld its Mythos model from public use when it was announced in April that it could independently escape the testing environment, known as the sandbox.",
-        "In the run-up to the release of its most recent Astra model, OpenAI cited cyber-security concerns as it explained it had paused certain aspects of the model's development. [...] The OpenAI agents had \"essentially acted as a fanatically devoted collective\", Amodei said. OpenAI has said it was slowing down training of certain advanced AI models and tools as a result.",
-        "Safety has also taken centre stage in the rivalry between Anthropic and OpenAI."
-      ],
-      "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-      "source": "bbc.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-12T15:37:39Z"
-    },
-    {
       "id": "537ef6dfb7b6",
       "title": "今日AI大模型新闻速览(09月13日)",
       "summary": "该消息与月之暗面冲刺港股IPO的背景相关,显示其在上市前加速... 12. NASA与IBM开源月球基础大模型,中美AI4S竞赛延伸至月球...",
@@ -339,19 +241,91 @@
       "publishedAt": "2026-09-12T22:23:38Z"
     },
     {
-      "id": "c91b630f54ba",
-      "title": "“拿捏”编程之后，AI的下一个“主场”会是科研吗？|世界人工智能大会|澎湃新闻|上海市|周伯文|论坛_新浪新闻",
-      "summary": "一年前，周伯文在2025浦江创新论坛提出了“AGI4S六问”，包括边界之问、预测之问、交叉之问、形式化之问、验证之问、新科学之问。如今回头再看，周伯文表示人工智能和科学研究的互生关系越来越深入人心，六问整体都在向前突破，但发展速度有所分化。其中，预测、交叉和验证三问进展较快，其他更底层的三问则进展较慢。\n\n　　要更好地帮助科学家进行探索，AI的能力还需进一步提升。周伯文提出，当下科研取得更大突破面...",
+      "id": "f6f6a118df2b",
+      "title": "2亿Agent即将上线，AI计算底座如何接住这场洪流？一场大会给你讲透了！",
+      "summary": "智东西. 作者| 王涵. 编辑| 漠影. 就在上周，Salesforce正式上线了一批“job-ready”（即用型）长周期智能体。 销售Agent Hunter可以跨天、跨周持续跟进一个销售机会——",
       "highlights": [
-        "一年前，周伯文在2025浦江创新论坛提出了“AGI4S六问”，包括边界之问、预测之问、交叉之问、形式化之问、验证之问、新科学之问",
-        "如今回头再看，周伯文表示人工智能和科学研究的互生关系越来越深入人心，六问整体都在向前突破，但发展速度有所分化",
-        "其中，预测、交叉和验证三问进展较快，其他更底层的三问则进展较慢"
+        "智东西. 作者| 王涵. 编辑| 漠影. 就在上周，Salesforce正式上线了一批“job-ready”（即用型）长周期智能体",
+        "销售Agent Hunter可以跨天、跨周持续跟进一个销售机会——"
       ],
-      "url": "https://k.sina.com.cn/article_5953190046_162d6789e06703rviu.html?from=tech",
-      "source": "k.sina.com.cn",
+      "url": "https://m.sohu.com/a/1075989885_115978?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-14T12:00:00Z"
+    },
+    {
+      "id": "b1196ab78f2b",
+      "title": "蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent | 雷峰网",
+      "summary": "蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent\n\n蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent\n\n图说：万达基于蚂蚁百宝箱搭建起商圈搭子智能体\n\n据悉，蚂蚁百宝箱全新升级的商圈智能体模板将在9月下旬全面开放，支持商场、商业综合体等在不改动商场原有系统架构的前提下，通过接口对接调用逛街前、逛街时、逛街后全周期服务能力。大型购物中心、城市步行街、主题商业街区等不同业态也可...",
+      "highlights": [
+        "蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent",
+        "蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent",
+        "图说：万达基于蚂蚁百宝箱搭建起商圈搭子智能体"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/e3UI6bLfQecs1oFu.html",
+      "source": "leiphone.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-14T07:00:00Z"
+    },
+    {
+      "id": "7450fda08b65",
+      "title": "智能落地资本向实，江苏耐心资本作答“具身”时代",
+      "summary": "南京建邺区河西中央科创区紧扣“人工智能+半导体”主题，每年安排5000万元算力补贴资金，有序开放金融、交通、医保等高价值公共数据，设立紫金山科创百亿元母基金，构建种子—天使—VC—PE—并购—S基金（私募股权二级市场基金）完整链条。\n\n刘博的观察与上述基金小镇和科创区形成呼应：“江苏南京高校资源雄厚，制造业基础扎实，玄武区等区域服务业快速增长，可以为商业服务机器人提供真实开放测试场景。”\n\n新华日...",
+      "highlights": [
+        "南京建邺区河西中央科创区紧扣“人工智能+半导体”主题，每年安排5000万元算力补贴资金，有序开放金融、交通、医保等高价值公共数据，设立紫金山科创百亿元母基金，构建种子—天使—VC—PE—并购—S基金（私募股权二级市场基金）完整链条",
+        "刘博的观察与上述基金小镇和科创区形成呼应：“江苏南京高校资源雄厚，制造业基础扎实，玄武区等区域服务业快速增长，可以为商业服务机器人提供真实开放测试场景",
+        "新华日报·财经记者 何玥颐"
+      ],
+      "url": "https://www.xhby.net/content/s6aa675fde4b0c7c3ee73cf94.html",
+      "source": "xhby.net",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-13T09:00:00Z"
+    },
+    {
+      "id": "ce113f4d2fb4",
+      "title": "健康、智能时尚、配饰等领域13条品牌最新投资并购态丨全球时尚投资周报第35-37期",
+      "summary": "四川影目科技有限公司成立于2020年，是国内最早入局消费级智能眼镜的品牌之一，2021年率先推出全彩光波导智能眼镜，2023年发布的GO系列智能眼镜聚焦AI能力，具备翻译、提词等功能，在翻译眼镜市场占有率一度达到80%。\n\n公司于8月最新发布的第三代AI眼镜GO3 新增跨语言通话翻译及总结、多任务办公浮窗、步行/骑行导航等更多功能，天猫旗舰店单品售价4299元起（国补后约2300元起）。\n\n202...",
+      "highlights": [
+        "四川影目科技有限公司成立于2020年，是国内最早入局消费级智能眼镜的品牌之一，2021年率先推出全彩光波导智能眼镜，2023年发布的GO系列智能眼镜聚焦AI能力，具备翻译、提词等功能，在翻译眼镜市场占有率一度达到80%",
+        "公司于8月最新发布的第三代AI眼镜GO3 新增跨语言通话翻译及总结、多任务办公浮窗、步行/骑行导航等更多功能，天猫旗舰店单品售价4299元起（国补后约2300元起）",
+        "2024年，影目科技将总部迁入成都；2025年，公司为成都世运会提供翻译眼镜；2026年3月，公司在成都成华区自建的年产10万台AR智能眼镜工厂正式投产；4月，成都天府国际机场也面向出入境旅客提供影目智能眼镜租赁服务"
+      ],
+      "url": "https://luxe.co/post/481662",
+      "source": "luxe.co",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-14T05:00:00Z"
+    },
+    {
+      "id": "c0308e5bc66b",
+      "title": "具身智能的iPhone时刻要来了吗？ - 36氪",
+      "summary": "第二个是移动与导航能力。具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障。整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的。但自动驾驶汽车用在路上，比具身智能应用场景要简单，比如这个会场就比公开道路复杂的多，具身智能要在这样的场景完全泛化应用还需要不断打磨。\n\n第三个是多模态交互能力。现在大语言模型的语言交...",
+      "highlights": [
+        "第二个是移动与导航能力",
+        "具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障",
+        "整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的"
+      ],
+      "url": "https://m.36kr.com/p/3893816015878664",
+      "source": "m.36kr.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-14T16:45:40Z"
+    },
+    {
+      "id": "2c3c7ca12933",
+      "title": "OpenAI只想赢：数学家揭AI巨头的\"幼稚\"竞争-人工智能",
+      "summary": "OpenAI宣称以万级智能体解出Navier-Stokes问题，但因涉及数学家未授权数据使用及打压竞争对手Anthropic关联研究者，引发学界对其动机与诚信的广泛质疑。",
+      "highlights": [
+        "OpenAI宣称以万级智能体解出Navier-Stokes问题，但因涉及数学家未授权数据使用及打压竞争对手Anthropic关联研究者，引发学界对其动机与诚信的广泛质疑"
+      ],
+      "url": "https://www.zhiding.cn/ai/2026/0914/3199187.shtml",
+      "source": "zhiding.cn",
       "category": "前沿理论",
-      "importance": 3,
-      "publishedAt": "2026-09-12T17:35:01Z"
+      "importance": 4,
+      "publishedAt": "2026-09-14T06:00:00Z"
     },
     {
       "id": "d9a5f1722763",
@@ -380,19 +354,6 @@
       "publishedAt": "2026-09-13T16:29:27Z"
     },
     {
-      "id": "424e763b3f17",
-      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley - BBC",
-      "summary": "Each September, a who's who of executives from across Silicon Valley descends on San Francisco's Palace Hotel to charm investors at a conference hosted by the investment bank Goldman Sachs. There have...",
-      "highlights": [
-        "Each September, a who's who of executives from across Silicon Valley descends on San Francisco's Palace Hotel to charm investors at a conference hosted by the investment bank Goldman Sachs. There have been a string of high-profile resignations from both Anthropic and OpenAI in recent years over apparent safety concerns, and some current Anthropic employees even echoed Coxon's post. While Coxon said explicitly in his posts that his warnings were \"not marketing\", some executives and investors in Silicon Valley have reacted with scepticism to a recent flurry of insiders sounding the alarm. Anthropic and OpenAI are reportedly preparing for potentially record-setting initial public offerings, and some in the tech sector have suggested the latest stark comments about the dangers of AI may be designed to generate hype by signalling the power of these products. \"It is irresponsible for us as stewards of our shareholders' money to be relying on a business that does what this company does, in terms of its public statements,\" he said."
-      ],
-      "url": "https://www.bbc.com/news/articles/cq635037g18o",
-      "source": "bbc.com",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-09-12T17:28:53Z"
-    },
-    {
       "id": "bf2c63aa12df",
       "title": "Anthropic CEO urges AI companies to slow model development - iTnews",
       "summary": "## Anthropic CEO urges AI companies to slow model development ## Optus outage attributed to hardware failure at exchange ## In Pictures: Security in the age of shadow AI VITG Melbourne roundtable ## I...",
@@ -406,17 +367,58 @@
       "publishedAt": "2026-09-13T07:16:00Z"
     },
     {
-      "id": "65a4413cbf77",
-      "title": "Anthropic’s Dario Amodei says the AI industry must slow down - The Next Web",
-      "summary": "Dario Amodei has called on the AI industry to slow the pace at which it improves models, committing Anthropic to embedded third-party evaluators and asking Washington for an antitrust waiver so compet...",
+      "id": "e9d346e64bcf",
+      "title": "AI Agent(智能体)深度技术解析",
+      "summary": "AI Agent ; LLM ; ReAct ;多智能体系统;工具调用编制日期 2026  ... 等＂通用 Agent＂产品的相继落地,标志着行业叙事从＂模型能力...",
       "highlights": [
-        "Dario Amodei has called on the AI industry to slow the pace at which it improves models, committing Anthropic to embedded third-party evaluators and asking Washington for an antitrust waiver so competitors can coordinate on safety. Much of what he describes has been binding on general-purpose models with systemic risk in the EU since August 2025, and his post does not mention Europe once. His post does not mention Europe. Much of what he describes has been law here since 2 August 2025, under the AI Act’s systemic risk rules for general-purpose models. Henna Virkkunen, the Commission’s tech chief, said this week that EU law requires companies including Anthropic to assess loss-of-control risks, and that the same is not true globally. Amodei’s answer to that is a voluntary commitment, an antitrust waiver and an eventual agreement with Beijing. The first of the three is already binding in one jurisdiction, and his post does not say so."
+        "AI Agent ; LLM ; ReAct ;多智能体系统;工具调用编制日期 2026  ... 等＂通用 Agent＂产品的相继落地,标志着行业叙事从＂模型能力..."
       ],
-      "url": "https://thenextweb.com/news/amodei-pacing-frontier-eu-rules",
-      "source": "thenextweb.com",
-      "category": "模型发布",
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxPkaRVoEuLgI7HnI0pXoaF8YcFe15_kzFqXa8Fplpd904BgwmXSkTTZaYs8MXxvCL4yV_xCyDTHs_dKSsAdwLW8PMotbc80PCuAlHSNOmKkCNb4oEJN9TjEIVaSzJcDaEJy4z6ZUPv2fMeKemtE_z7feQWiQqNV8QJPF3DFZ96RztvICY2FlWTdBLFKySgK-RCeHLa3cGV9Ivk38v_5FW6fxjh3za6jWA..&amp;type=2&amp;query=AI Agent %E6%99%BA%E8%83%BD%E4%BD%93 %E4%BA%A7%E5%93%81&amp;token=26157911CBA9C26A5E5B0628643677555E4758146AA8367C",
+      "source": "微信公众号",
+      "category": "产品进展",
       "importance": 3,
-      "publishedAt": "2026-09-12T16:24:12Z"
+      "publishedAt": "2026-09-13T14:37:05Z"
+    },
+    {
+      "id": "f0c174cdc708",
+      "title": "大河财立方",
+      "summary": "推荐\n\n\n\n政经\n\n豫股\n\n中原股交\n\n金融\n\n债市\n\n豫商\n\n城市\n\n安阳\n\n科创\n\n招采\n\n投教\n\n 更多\n\n## \n\n\n\n国家卫生健康委呼吁：大家共同行动起来，为2030年人均预期寿命达到80岁而努力\n\n2026-09-14 13:51:58\n\n\n\n4个方面、10条措施，中小企业回款难迎专项整治\n\n2026-09-14 15:47:37\n\n\n\n今年将新增1000家基层医疗卫生机构提供儿科诊疗...",
+      "highlights": [
+        "国家卫生健康委呼吁：大家共同行动起来，为2030年人均预期寿命达到80岁而努力",
+        "2026-09-14 13:51:58",
+        "4个方面、10条措施，中小企业回款难迎专项整治"
+      ],
+      "url": "https://app.dahecube.com/article.html?artid=286857%3Frecid%3D1",
+      "source": "app.dahecube.com",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-09-14T08:00:00Z"
+    },
+    {
+      "id": "ac5b73ffba31",
+      "title": "ShengShu Technology Unveils Motus2, a Self-Evolving General World Model for Dexterous Manipulation - PR Newswire",
+      "summary": "# ShengShu Technology Unveils Motus2, a Self-Evolving General World Model for Dexterous Manipulation. 14, 2026 /PRNewswire/ -- ShengShu Technology Co-founder and CEO Yihang Luo unveiled Motus2, a self...",
+      "highlights": [
+        "# ShengShu Technology Unveils Motus2, a Self-Evolving General World Model for Dexterous Manipulation. 14, 2026 /PRNewswire/ -- ShengShu Technology Co-founder and CEO Yihang Luo unveiled Motus2, a self-evolving general world model for robotic dexterous manipulation, at the 2026 Inclusion Conference on the Bund on September 10. According to the team'sresearch paper, Motus2 achieved an average success rate of 84% across five primary real-robot tasks: placing a ball, multi-finger manipulation, attaching an eraser, screwing in a light bulb, and placing a phone. **Motus2****'****s central advance is bringing the predictive capabilities of a world model into robotic decision-making and learning.** Within the unified model, a policy interface generates candidate actions based on language instructions, robot states, and visual history. Within ShengShu Technology's five-level roadmap for general world models, Motus2 represents a concrete implementation of L3, \"Acting in the World.\" By incorporating evaluation, feedback, and policy updates, it also explores a technical path toward L4, \"Autonomous World Agents.\" The current research demonstrates policy improvement in specific tasks."
+      ],
+      "url": "https://www.prnewswire.com/news-releases/shengshu-technology-unveils-motus2-a-self-evolving-general-world-model-for-dexterous-manipulation-302877367.html",
+      "source": "prnewswire.com",
+      "category": "具身智能",
+      "importance": 2,
+      "publishedAt": "2026-09-14T10:00:00Z"
+    },
+    {
+      "id": "946e24dc1011",
+      "title": "Hyundai Motor Group puts Data Flywheel into full operation - Automotive World",
+      "summary": "Hyundai Motor Group puts Data Flywheel into full operation VinFast consolidates global leadership under one executive China targets 70% NEV sales and mass self-driving by 2030 Mercedes output may bott...",
+      "highlights": [
+        "Hyundai Motor Group puts Data Flywheel into full operation VinFast consolidates global leadership under one executive China targets 70% NEV sales and mass self-driving by 2030 Mercedes output may bottom out in 2026 and recover slowly Chery doubles down on hybrids as it plans UK expansion Toyota and Iveco develop EU-funded fuel cell truck VWCV sharpens B2B pitch with Connect Pro at IAA 2026 Leapmotor B03X goes on sale in Europe from €24,900 Stellantis and UQI Robotics explore Box-on-Wheels concept Roland Berger sees EUR 20tn technology markets by 2040. “Our goal is to help stakeholders understand the future of mobility.”. Home › News › Hyundai Motor Group puts Data Flywheel into full operation. # Hyundai Motor Group puts Data Flywheel into full operation. Hyundai Motor Group has activated its Data Flywheel autonomous driving platform, setting production targets of Nvidia-powered Level 2+ vehicles for the first half of 2028 and Level 2++ models for the second half of the same year. Atria AI, its proprietary autonomous driving system, separately targets Level 2++ vehicles by the second half of 2029. The Data Flywheel runs as a closed loop, channelling vehicle data through AI model training and validation before redeploying improved models to vehicles. https://www.automotiveworld.com/news/hyundai-motor-group-puts-data-flywheel-into-full-operation/."
+      ],
+      "url": "https://www.automotiveworld.com/news/hyundai-motor-group-puts-data-flywheel-into-full-operation/",
+      "source": "automotiveworld.com",
+      "category": "芯片硬件",
+      "importance": 2,
+      "publishedAt": "2026-09-14T04:45:24Z"
     }
   ],
   "today": [
@@ -481,6 +483,21 @@
       "publishedAt": "2026-09-14T00:47:00Z"
     },
     {
+      "id": "f217ab6f16ee",
+      "title": "中国AI大模型调用量连续二十周领跑：DeepSeek V4.1 Flash上线三天 ...",
+      "summary": "《每日经济新闻》注意到，上周，全球调用量排名前五中，有四款中国AI大模型。其中，腾讯混元Hy4 preview位居第二，周调用量达16.8万亿Token，环比增长15%。\n\nHy4 preview于8月28日正式发布并开源，总参数770B、激活参数49B，上下文长度突破1M，重点面向Agent、Coding与生产力场景优化，增强在真实业务场景中完成复杂任务的能力。\n\n智谱GLM 5.3 Flash...",
+      "highlights": [
+        "《每日经济新闻》注意到，上周，全球调用量排名前五中，有四款中国AI大模型",
+        "其中，腾讯混元Hy4 preview位居第二，周调用量达16.8万亿Token，环比增长15%",
+        "Hy4 preview于8月28日正式发布并开源，总参数770B、激活参数49B，上下文长度突破1M，重点面向Agent、Coding与生产力场景优化，增强在真实业务场景中完成复杂任务的能力"
+      ],
+      "url": "https://www.nbd.com.cn/articles/2026-09-14/4580561.html",
+      "source": "nbd.com.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-14T03:00:00Z"
+    },
+    {
       "id": "70924aaafaad",
       "title": "‘All Together Now’ in AI. Anthropic, OpenAI & Elon’s ‘Blip 3.0’. ARD #162",
       "summary": "Then the Gadget AI, on Apple quietly mixing modems in the new iPhone 18 Pro Max. All together now, Apple style.\n\n## (1) Anthropic’s Latest AI Essay: ‘We Must Pace the Frontier’\n\nFirst up. Anthropic CE...",
@@ -494,6 +511,78 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-09-14T05:00:00Z"
+    },
+    {
+      "id": "f6f6a118df2b",
+      "title": "2亿Agent即将上线，AI计算底座如何接住这场洪流？一场大会给你讲透了！",
+      "summary": "智东西. 作者| 王涵. 编辑| 漠影. 就在上周，Salesforce正式上线了一批“job-ready”（即用型）长周期智能体。 销售Agent Hunter可以跨天、跨周持续跟进一个销售机会——",
+      "highlights": [
+        "智东西. 作者| 王涵. 编辑| 漠影. 就在上周，Salesforce正式上线了一批“job-ready”（即用型）长周期智能体",
+        "销售Agent Hunter可以跨天、跨周持续跟进一个销售机会——"
+      ],
+      "url": "https://m.sohu.com/a/1075989885_115978?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-14T12:00:00Z"
+    },
+    {
+      "id": "b1196ab78f2b",
+      "title": "蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent | 雷峰网",
+      "summary": "蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent\n\n蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent\n\n图说：万达基于蚂蚁百宝箱搭建起商圈搭子智能体\n\n据悉，蚂蚁百宝箱全新升级的商圈智能体模板将在9月下旬全面开放，支持商场、商业综合体等在不改动商场原有系统架构的前提下，通过接口对接调用逛街前、逛街时、逛街后全周期服务能力。大型购物中心、城市步行街、主题商业街区等不同业态也可...",
+      "highlights": [
+        "蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent",
+        "蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent",
+        "图说：万达基于蚂蚁百宝箱搭建起商圈搭子智能体"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/e3UI6bLfQecs1oFu.html",
+      "source": "leiphone.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-14T07:00:00Z"
+    },
+    {
+      "id": "ce113f4d2fb4",
+      "title": "健康、智能时尚、配饰等领域13条品牌最新投资并购态丨全球时尚投资周报第35-37期",
+      "summary": "四川影目科技有限公司成立于2020年，是国内最早入局消费级智能眼镜的品牌之一，2021年率先推出全彩光波导智能眼镜，2023年发布的GO系列智能眼镜聚焦AI能力，具备翻译、提词等功能，在翻译眼镜市场占有率一度达到80%。\n\n公司于8月最新发布的第三代AI眼镜GO3 新增跨语言通话翻译及总结、多任务办公浮窗、步行/骑行导航等更多功能，天猫旗舰店单品售价4299元起（国补后约2300元起）。\n\n202...",
+      "highlights": [
+        "四川影目科技有限公司成立于2020年，是国内最早入局消费级智能眼镜的品牌之一，2021年率先推出全彩光波导智能眼镜，2023年发布的GO系列智能眼镜聚焦AI能力，具备翻译、提词等功能，在翻译眼镜市场占有率一度达到80%",
+        "公司于8月最新发布的第三代AI眼镜GO3 新增跨语言通话翻译及总结、多任务办公浮窗、步行/骑行导航等更多功能，天猫旗舰店单品售价4299元起（国补后约2300元起）",
+        "2024年，影目科技将总部迁入成都；2025年，公司为成都世运会提供翻译眼镜；2026年3月，公司在成都成华区自建的年产10万台AR智能眼镜工厂正式投产；4月，成都天府国际机场也面向出入境旅客提供影目智能眼镜租赁服务"
+      ],
+      "url": "https://luxe.co/post/481662",
+      "source": "luxe.co",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-14T05:00:00Z"
+    },
+    {
+      "id": "c0308e5bc66b",
+      "title": "具身智能的iPhone时刻要来了吗？ - 36氪",
+      "summary": "第二个是移动与导航能力。具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障。整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的。但自动驾驶汽车用在路上，比具身智能应用场景要简单，比如这个会场就比公开道路复杂的多，具身智能要在这样的场景完全泛化应用还需要不断打磨。\n\n第三个是多模态交互能力。现在大语言模型的语言交...",
+      "highlights": [
+        "第二个是移动与导航能力",
+        "具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障",
+        "整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的"
+      ],
+      "url": "https://m.36kr.com/p/3893816015878664",
+      "source": "m.36kr.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-14T16:45:40Z"
+    },
+    {
+      "id": "2c3c7ca12933",
+      "title": "OpenAI只想赢：数学家揭AI巨头的\"幼稚\"竞争-人工智能",
+      "summary": "OpenAI宣称以万级智能体解出Navier-Stokes问题，但因涉及数学家未授权数据使用及打压竞争对手Anthropic关联研究者，引发学界对其动机与诚信的广泛质疑。",
+      "highlights": [
+        "OpenAI宣称以万级智能体解出Navier-Stokes问题，但因涉及数学家未授权数据使用及打压竞争对手Anthropic关联研究者，引发学界对其动机与诚信的广泛质疑"
+      ],
+      "url": "https://www.zhiding.cn/ai/2026/0914/3199187.shtml",
+      "source": "zhiding.cn",
+      "category": "前沿理论",
+      "importance": 4,
+      "publishedAt": "2026-09-14T06:00:00Z"
     },
     {
       "id": "f0c174cdc708",
@@ -612,6 +701,21 @@
       "publishedAt": "2026-09-14T00:47:00Z"
     },
     {
+      "id": "f217ab6f16ee",
+      "title": "中国AI大模型调用量连续二十周领跑：DeepSeek V4.1 Flash上线三天 ...",
+      "summary": "《每日经济新闻》注意到，上周，全球调用量排名前五中，有四款中国AI大模型。其中，腾讯混元Hy4 preview位居第二，周调用量达16.8万亿Token，环比增长15%。\n\nHy4 preview于8月28日正式发布并开源，总参数770B、激活参数49B，上下文长度突破1M，重点面向Agent、Coding与生产力场景优化，增强在真实业务场景中完成复杂任务的能力。\n\n智谱GLM 5.3 Flash...",
+      "highlights": [
+        "《每日经济新闻》注意到，上周，全球调用量排名前五中，有四款中国AI大模型",
+        "其中，腾讯混元Hy4 preview位居第二，周调用量达16.8万亿Token，环比增长15%",
+        "Hy4 preview于8月28日正式发布并开源，总参数770B、激活参数49B，上下文长度突破1M，重点面向Agent、Coding与生产力场景优化，增强在真实业务场景中完成复杂任务的能力"
+      ],
+      "url": "https://www.nbd.com.cn/articles/2026-09-14/4580561.html",
+      "source": "nbd.com.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-14T03:00:00Z"
+    },
+    {
       "id": "70924aaafaad",
       "title": "‘All Together Now’ in AI. Anthropic, OpenAI & Elon’s ‘Blip 3.0’. ARD #162",
       "summary": "Then the Gadget AI, on Apple quietly mixing modems in the new iPhone 18 Pro Max. All together now, Apple style.\n\n## (1) Anthropic’s Latest AI Essay: ‘We Must Pace the Frontier’\n\nFirst up. Anthropic CE...",
@@ -625,6 +729,78 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-09-14T05:00:00Z"
+    },
+    {
+      "id": "f6f6a118df2b",
+      "title": "2亿Agent即将上线，AI计算底座如何接住这场洪流？一场大会给你讲透了！",
+      "summary": "智东西. 作者| 王涵. 编辑| 漠影. 就在上周，Salesforce正式上线了一批“job-ready”（即用型）长周期智能体。 销售Agent Hunter可以跨天、跨周持续跟进一个销售机会——",
+      "highlights": [
+        "智东西. 作者| 王涵. 编辑| 漠影. 就在上周，Salesforce正式上线了一批“job-ready”（即用型）长周期智能体",
+        "销售Agent Hunter可以跨天、跨周持续跟进一个销售机会——"
+      ],
+      "url": "https://m.sohu.com/a/1075989885_115978?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-14T12:00:00Z"
+    },
+    {
+      "id": "b1196ab78f2b",
+      "title": "蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent | 雷峰网",
+      "summary": "蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent\n\n蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent\n\n图说：万达基于蚂蚁百宝箱搭建起商圈搭子智能体\n\n据悉，蚂蚁百宝箱全新升级的商圈智能体模板将在9月下旬全面开放，支持商场、商业综合体等在不改动商场原有系统架构的前提下，通过接口对接调用逛街前、逛街时、逛街后全周期服务能力。大型购物中心、城市步行街、主题商业街区等不同业态也可...",
+      "highlights": [
+        "蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent",
+        "蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent",
+        "图说：万达基于蚂蚁百宝箱搭建起商圈搭子智能体"
+      ],
+      "url": "https://www.leiphone.com/category/industrynews/e3UI6bLfQecs1oFu.html",
+      "source": "leiphone.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-14T07:00:00Z"
+    },
+    {
+      "id": "ce113f4d2fb4",
+      "title": "健康、智能时尚、配饰等领域13条品牌最新投资并购态丨全球时尚投资周报第35-37期",
+      "summary": "四川影目科技有限公司成立于2020年，是国内最早入局消费级智能眼镜的品牌之一，2021年率先推出全彩光波导智能眼镜，2023年发布的GO系列智能眼镜聚焦AI能力，具备翻译、提词等功能，在翻译眼镜市场占有率一度达到80%。\n\n公司于8月最新发布的第三代AI眼镜GO3 新增跨语言通话翻译及总结、多任务办公浮窗、步行/骑行导航等更多功能，天猫旗舰店单品售价4299元起（国补后约2300元起）。\n\n202...",
+      "highlights": [
+        "四川影目科技有限公司成立于2020年，是国内最早入局消费级智能眼镜的品牌之一，2021年率先推出全彩光波导智能眼镜，2023年发布的GO系列智能眼镜聚焦AI能力，具备翻译、提词等功能，在翻译眼镜市场占有率一度达到80%",
+        "公司于8月最新发布的第三代AI眼镜GO3 新增跨语言通话翻译及总结、多任务办公浮窗、步行/骑行导航等更多功能，天猫旗舰店单品售价4299元起（国补后约2300元起）",
+        "2024年，影目科技将总部迁入成都；2025年，公司为成都世运会提供翻译眼镜；2026年3月，公司在成都成华区自建的年产10万台AR智能眼镜工厂正式投产；4月，成都天府国际机场也面向出入境旅客提供影目智能眼镜租赁服务"
+      ],
+      "url": "https://luxe.co/post/481662",
+      "source": "luxe.co",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-14T05:00:00Z"
+    },
+    {
+      "id": "c0308e5bc66b",
+      "title": "具身智能的iPhone时刻要来了吗？ - 36氪",
+      "summary": "第二个是移动与导航能力。具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障。整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的。但自动驾驶汽车用在路上，比具身智能应用场景要简单，比如这个会场就比公开道路复杂的多，具身智能要在这样的场景完全泛化应用还需要不断打磨。\n\n第三个是多模态交互能力。现在大语言模型的语言交...",
+      "highlights": [
+        "第二个是移动与导航能力",
+        "具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障",
+        "整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的"
+      ],
+      "url": "https://m.36kr.com/p/3893816015878664",
+      "source": "m.36kr.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-14T16:45:40Z"
+    },
+    {
+      "id": "2c3c7ca12933",
+      "title": "OpenAI只想赢：数学家揭AI巨头的\"幼稚\"竞争-人工智能",
+      "summary": "OpenAI宣称以万级智能体解出Navier-Stokes问题，但因涉及数学家未授权数据使用及打压竞争对手Anthropic关联研究者，引发学界对其动机与诚信的广泛质疑。",
+      "highlights": [
+        "OpenAI宣称以万级智能体解出Navier-Stokes问题，但因涉及数学家未授权数据使用及打压竞争对手Anthropic关联研究者，引发学界对其动机与诚信的广泛质疑"
+      ],
+      "url": "https://www.zhiding.cn/ai/2026/0914/3199187.shtml",
+      "source": "zhiding.cn",
+      "category": "前沿理论",
+      "importance": 4,
+      "publishedAt": "2026-09-14T06:00:00Z"
     },
     {
       "id": "f0c174cdc708",
@@ -755,6 +931,51 @@
       "publishedAt": "2026-09-13T08:00:00Z"
     },
     {
+      "id": "0b43337f4db0",
+      "title": "燧原科技：自主DSA，国产算力的孤勇者_财富号_东方财富网",
+      "summary": "当前 AI 算力底层逻辑十分清晰，国内信创叠加 AI 大模型爆发，算力自主可控是长期主线。英伟达高端芯片供给受限，国内智算中心、互联网大厂都在加速国产替代。算力赛道分为两大板块：大模型训练，看重通用算力与生态兼容性；而推理环节，是模型训练完成之后，面向问答、生成、审核等业务持续提供服务，重点考量功耗、成本与能力。推理市场体量庞大，短视频审核、AI 对话、图像识别都属于推理场景，燧原从创业之初就扎根...",
+      "highlights": [
+        "当前 AI 算力底层逻辑十分清晰，国内信创叠加 AI 大模型爆发，算力自主可控是长期主线",
+        "英伟达高端芯片供给受限，国内智算中心、互联网大厂都在加速国产替代",
+        "算力赛道分为两大板块：大模型训练，看重通用算力与生态兼容性；而推理环节，是模型训练完成之后，面向问答、生成、审核等业务持续提供服务，重点考量功耗、成本与能力"
+      ],
+      "url": "https://caifuhao.eastmoney.com/news/20260914144904535111310",
+      "source": "caifuhao.eastmoney.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-14T07:00:00Z"
+    },
+    {
+      "id": "8e1483afeeb0",
+      "title": "大摩揭示8.5万亿人民币中国AI投资图谱：国产芯片放量、存储扩容，谁能将AI算力扩张变成真实现金流? 提供者智通财经",
+      "summary": "此前高盛发布的闪迪科技大会会议纪要所述，长期协议约覆盖2027、2028财年计划出货量的50%和67%，体现的是订单可见度;能否兑现为更高利润，还要看产品认证、客户份额、价格及每比特成本。对中国AI算力产业链领军者们而言，同样的机制意味着国产GPU和ASIC扩张会带动配套内存、SSD、高性能以太网网络基础设施与数据中心CPU、光互连芯片需求以及软件优化需求，但这些订单由谁获得，仍取决于具体采购体系...",
+      "highlights": [
+        "此前高盛发布的闪迪科技大会会议纪要所述，长期协议约覆盖2027、2028财年计划出货量的50%和67%，体现的是订单可见度;能否兑现为更高利润，还要看产品认证、客户份额、价格及每比特成本",
+        "对中国AI算力产业链领军者们而言，同样的机制意味着国产GPU和ASIC扩张会带动配套内存、SSD、高性能以太网网络基础设施与数据中心CPU、光互连芯片需求以及软件优化需求，但这些订单由谁获得，仍取决于具体采购体系与产品竞争力",
+        "大摩分析师团队表示，关于AI的巨额投资规模能否加速实现强劲盈利轨迹，最终取决于付费吞吐量、单位售价和资本效率的共同作用"
+      ],
+      "url": "https://cn.investing.com/news/stock-market-news/article-3564459",
+      "source": "cn.investing.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-14T07:35:18Z"
+    },
+    {
+      "id": "c337605f186d",
+      "title": "投资界24h|智谱约50亿美元融资落定；Anthropic敲定纳斯达克上市计划；南京最大国资平台揭牌",
+      "summary": "9月11日，浙江航链科技有限公司（简称“航链科技”）完成天使轮融资，由浙江赤子股权投资基金管理有限公司（简称“赤子基金”）通过兴产赤子之诗（湖州）创业投资合伙企业（有限合伙）‌独家投资。\n\n阅读全文\n\n#### 烨知心完成Pre-A轮融资\n\n9月11日，烨知心（Yeats.AI）宣布完成Pre-A轮融资，由深创投、和利资本、TCL创投、中科创星联合领投，艾为电子（688798.SH）、国开科创、朝...",
+      "highlights": [
+        "9月11日，浙江航链科技有限公司（简称“航链科技”）完成天使轮融资，由浙江赤子股权投资基金管理有限公司（简称“赤子基金”）通过兴产赤子之诗（湖州）创业投资合伙企业（有限合伙）‌独家投资",
+        "#### 烨知心完成Pre-A轮融资",
+        "9月11日，烨知心（Yeats.AI）宣布完成Pre-A轮融资，由深创投、和利资本、TCL创投、中科创星联合领投，艾为电子（688798.SH）、国开科创、朝晖资本等机构跟投，老股东连续多轮持续超额追投"
+      ],
+      "url": "https://news.pedaily.cn/202609/568938.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-14T00:47:00Z"
+    },
+    {
       "id": "7734af919e97",
       "title": "黄仁勋或砸100亿投注Anthropic巨额IPO",
       "summary": "英伟达正在与Anthropic谈判，计划投资最多100亿美元参与后者即将启动的史上最大IPO。Anthropic此次计划融资1000亿美元，目标估值高达2万亿美元，将超越SpaceX成为人类",
@@ -780,51 +1001,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-09-11T19:35:54Z"
-    },
-    {
-      "id": "a3babf476898",
-      "title": "Arm盯上汽车和机器人！80多家伙伴入局，L4算力需求最高翻4倍_搜狐网",
-      "summary": "## Arm盯上汽车和机器人！80多家伙伴入局，L4算力需求最高翻4倍\n\n车东西\n\n车东西\n\n作者 ｜ Janson\n\n编辑 ｜ 志豪\n\n车东西9月11日消息，日前，Arm在上海举办Arm Everywhere China年度大会，公布了其在物理AI领域的最新布局。\n\n首先是Arm把Arm Total Design生态项目扩展到了物理AI领域。该项目目前已经拉来了80多家合作伙伴，涵盖芯片、AI模...",
-      "highlights": [
-        "## Arm盯上汽车和机器人",
-        "80多家伙伴入局，L4算力需求最高翻4倍",
-        "作者 ｜ Janson"
-      ],
-      "url": "https://m.sohu.com/a/1074947071_742622?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-11T21:38:38Z"
-    },
-    {
-      "id": "a154281daca0",
-      "title": "投资周报丨交子资本发力域外并购，四川国资现身电科思仪、燧原科技IPO_搜狐网",
-      "summary": "工商信息显示，9月8日，深圳市龙岗区引导基金投资有限公司进入成都国盛天丰网络科技有限公司股东名单，持股比例约3%。国盛天丰前身成立于2009年3月，2014年2月总部从北京迁往成都高新区天府软件园，是一家专业从事互联网产品研发、生产、销售和系统集成一体化的高科技企业，以自主研发的旺小宝云端智能客户管理系统为核心产品。\n\n9月9日，AI眼镜企业影目科技（INMO）宣布完成C3轮融资，由四川振兴科创基...",
-      "highlights": [
-        "工商信息显示，9月8日，深圳市龙岗区引导基金投资有限公司进入成都国盛天丰网络科技有限公司股东名单，持股比例约3%",
-        "国盛天丰前身成立于2009年3月，2014年2月总部从北京迁往成都高新区天府软件园，是一家专业从事互联网产品研发、生产、销售和系统集成一体化的高科技企业，以自主研发的旺小宝云端智能客户管理系统为核心产品",
-        "9月9日，AI眼镜企业影目科技（INMO）宣布完成C3轮融资，由四川振兴科创基金领投，上海静安资本、上海市北高新、四川眉山中试基金、眉山东坡国投、鼎祥资本、四川省中试、广州产投、东证资本等跟投"
-      ],
-      "url": "https://m.sohu.com/a/1074882136_421107?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-11T17:58:38Z"
-    },
-    {
-      "id": "f8d174b73139",
-      "title": "长期利好来了！A股三大主线浮出水面！|国务院新闻办公室|资本市场改革|华福证券|证监会|科技_手机新浪网",
-      "summary": "比如，中长期资金持续入市，一方面有助于改善A股投资者结构，降低市场波动率；另一方面将推动估值体系向长期化、价值化迁移，高股息、稳定现金流资产的配置价值进一步凸显。对券商而言，机构业务、托管、资管和衍生品需求将同步扩容，头部机构受益更为明显。\n\n科技优先不是简单降低门槛，而是通过更精准的板块定位、更灵活的上市标准和更顺畅的退出机制，形成“科技—产业—金融”良性循环。对投资而言，半导体、人工智能、高端...",
-      "highlights": [
-        "比如，中长期资金持续入市，一方面有助于改善A股投资者结构，降低市场波动率；另一方面将推动估值体系向长期化、价值化迁移，高股息、稳定现金流资产的配置价值进一步凸显",
-        "对券商而言，机构业务、托管、资管和衍生品需求将同步扩容，头部机构受益更为明显",
-        "科技优先不是简单降低门槛，而是通过更精准的板块定位、更灵活的上市标准和更顺畅的退出机制，形成“科技—产业—金融”良性循环"
-      ],
-      "url": "https://finance.sina.cn/stock/ggyj/2026-09-11/detail-inirnaiy8955015.d.html?vt=4&cid=76524&node_id=76524",
-      "source": "finance.sina.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-11T17:58:34Z"
     }
   ]
 }
