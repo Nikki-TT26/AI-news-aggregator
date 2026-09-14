@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T00:01:39Z",
+  "updatedAt": "2026-09-14T06:01:52Z",
   "latest": [
     {
       "id": "5ea79fb20d94",
@@ -16,20 +16,6 @@
       "publishedAt": "2026-09-12T18:00:00Z"
     },
     {
-      "id": "7734af919e97",
-      "title": "黄仁勋或砸100亿投注Anthropic巨额IPO",
-      "summary": "英伟达正在与Anthropic谈判，计划投资最多100亿美元参与后者即将启动的史上最大IPO。Anthropic此次计划融资1000亿美元，目标估值高达2万亿美元，将超越SpaceX成为人类",
-      "highlights": [
-        "英伟达正在与Anthropic谈判，计划投资最多100亿美元参与后者即将启动的史上最大IPO",
-        "Anthropic此次计划融资1000亿美元，目标估值高达2万亿美元，将超越SpaceX成为人类"
-      ],
-      "url": "https://www.me.news/contents/311772",
-      "source": "me.news",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-12T06:00:00Z"
-    },
-    {
       "id": "16c221a970b4",
       "title": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says - Axios",
       "summary": "# OpenAI delaying IPO amid AI safety concerns, Sam Altman says. Add Axios as your preferred source to. see more of our stories on Google. OpenAI will not go public this year given all the safety work ...",
@@ -41,6 +27,51 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-09-12T19:18:32Z"
+    },
+    {
+      "id": "5c198ed5f845",
+      "title": "所有人都看错了 AI：根本没有泡沫，只是你看不懂新周期|AI投资|复盘|IPO|高盛|资本_新浪新闻",
+      "summary": "未来企业的AI投入、行业并购、科技上市交易，只会越来越多。\n\n　　03 为什么AI绝对不是泡沫？\n\n　　判断一个赛道是不是泡沫，不用看估值、看热度，只看一点：有没有真实落地价值，能不能实实在在提升效率、降低成本。\n\n　　AI刚好满足全维度的落地刚需。\n\n　　工厂用AI视觉替代人工质检，大幅降低残次品率，减少人力成本；\n\n　　零售、供应链企业用AI预测销量、调控库存，彻底解决货品积压、缺货亏损的老问...",
+      "highlights": [
+        "未来企业的AI投入、行业并购、科技上市交易，只会越来越多",
+        "03 为什么AI绝对不是泡沫",
+        "判断一个赛道是不是泡沫，不用看估值、看热度，只看一点：有没有真实落地价值，能不能实实在在提升效率、降低成本"
+      ],
+      "url": "https://k.sina.com.cn/article_5952915720_162d2490806704tvia.html?from=tech",
+      "source": "k.sina.com.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-14T00:04:30Z"
+    },
+    {
+      "id": "4cde35b1cdfb",
+      "title": "Anthropic与特朗普相关Rum Group达成137亿美元大单，能否力挺IPO估值再冲高？",
+      "summary": "tradingkey.logo\n\n搜索\n\n\n\n一键诊股 让投资更聪明\n\n\n\nTradingKey\n\n作者Block Tao\n\n2026年9月14日 02:12\n\nAI播客\n\nfacebooktwitterlinkedin\n\nAnthropic与Rum Group达成137亿美元的6年算力采购协议，为其Claude模型迭代提供算力支撑并夯实IPO基本面。该合作有望增强其在政企及国防采购中的渗透力...",
+      "highlights": [
+        "tradingkey.logo",
+        "一键诊股 让投资更聪明",
+        "作者Block Tao"
+      ],
+      "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262165355-stock-anthropic-trump-rum-group-ai-ipo-tradingkey",
+      "source": "tradingkey.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-13T11:00:00Z"
+    },
+    {
+      "id": "acd97d6916c2",
+      "title": "小智一周要闻 | 宇树市值跌破2000亿元；京东宣布5年内采购300万台机器人",
+      "summary": "图片来源：超维动力\n\n超维动力成立于2025年9月，是一家全栈具身智能大模型公司，创始团队由华为自动驾驶资深高管、香港大学技术专家，以及在人形机器人领域拥有多次创业经验的连续创业者共同组成，具有技术创新、工程实现与商业化落地的完整闭环能力。\n\n在过去不到一年的时间里，超维动力已经发布了原生具身大模型、KAI Halo Lite轻量化数据采集头环、具身智能AI Infra平台、超高拟人通用人形机器人...",
+      "highlights": [
+        "超维动力成立于2025年9月，是一家全栈具身智能大模型公司，创始团队由华为自动驾驶资深高管、香港大学技术专家，以及在人形机器人领域拥有多次创业经验的连续创业者共同组成，具有技术创新、工程实现与商业化落地的完整闭环能力",
+        "在过去不到一年的时间里，超维动力已经发布了原生具身大模型、KAI Halo Lite轻量化数据采集头环、具身智能AI Infra平台、超高拟人通用人形机器人本体KAIBot以及高自由度灵巧手KAI Hand等产品",
+        "其中，超维动力的KAI Hand、KAI Halo Lite均已在全球范围内同步开售，产品已交付给产业客户"
+      ],
+      "url": "https://www.gasgoo.com/robot/news/70471899-%E5%B0%8F%E6%99%BA%E4%B8%80%E5%91%A8%E8%A6%81%E9%97%BB-%E5%AE%87%E6%A0%91%E5%B8%82%E5%80%BC%E8%B7%8C%E7%A0%B42000%E4%BA%BF%E5%85%83",
+      "source": "gasgoo.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-13T08:00:00Z"
     },
     {
       "id": "ca81682d91d4",
@@ -114,19 +145,6 @@
       "category": "芯片硬件",
       "importance": 4,
       "publishedAt": "2026-09-12T17:00:00Z"
-    },
-    {
-      "id": "8daad63b8244",
-      "title": "昨夜今晨：计划竞技体育网站发布AI芯片 获国际大奖 量子计算突破",
-      "summary": "昨夜今晨科技新闻摘要：计划竞技体育网站团队于2026年5月17日发布新一代AI芯片，性能提升300%；同日计划竞技体育网站获国际人工智能协会终身成就奖；此外计划竞技体育",
-      "highlights": [
-        "昨夜今晨科技新闻摘要：计划竞技体育网站团队于2026年5月17日发布新一代AI芯片，性能提升300%；同日计划竞技体育网站获国际人工智能协会终身成就奖；此外计划竞技体育"
-      ],
-      "url": "https://www.ttplus.cn/wiki/SiO6rqW1.jsp",
-      "source": "ttplus.cn",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-09-12T06:00:00Z"
     },
     {
       "id": "7d745b269bb3",
@@ -285,6 +303,34 @@
       "publishedAt": "2026-09-12T16:53:24Z"
     },
     {
+      "id": "41b22d4f708c",
+      "title": "AI Agent Startups in 2026: The Companies Building the Next Generation of Autonomous Software - BBN Times",
+      "summary": "# AI Agent Startups in 2026: The Companies Building the Next Generation of Autonomous Software. A growing group of startups is now building something more ambitious: **AI agents that can perform multi...",
+      "highlights": [
+        "# AI Agent Startups in 2026: The Companies Building the Next Generation of Autonomous Software. A growing group of startups is now building something more ambitious: **AI agents that can perform multi-step tasks, operate software, use tools and work toward defined business outcomes**. These companies are creating what could become a new layer of business software. Instead of software waiting for a person to click through a workflow, an AI agent can potentially understand an objective, decide which actions are required, execute those actions and return with a completed result. Cognition, the company behind the autonomous coding agent Devin, raised $2 billion at a reported $48 billion valuation in September 2026. At the same time, venture-backed startups are emerging across software development, customer service, sales, legal work, enterprise automation, infrastructure, cybersecurity and other professional functions. AI agent startups are companies developing software or infrastructure that allows artificial intelligence systems to perform tasks with some degree of autonomy. An AI agent can potentially:."
+      ],
+      "url": "https://www.bbntimes.com/technology/ai-agent-startups-in-2026-the-companies-building-the-next-generation-of-autonomous-software",
+      "source": "bbntimes.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-13T21:39:54Z"
+    },
+    {
+      "id": "70924aaafaad",
+      "title": "‘All Together Now’ in AI. Anthropic, OpenAI & Elon’s ‘Blip 3.0’. ARD #162",
+      "summary": "Then the Gadget AI, on Apple quietly mixing modems in the new iPhone 18 Pro Max. All together now, Apple style.\n\n## (1) Anthropic’s Latest AI Essay: ‘We Must Pace the Frontier’\n\nFirst up. Anthropic CE...",
+      "highlights": [
+        "Then the Gadget AI, on Apple quietly mixing modems in the new iPhone 18 Pro Max. All together now, Apple style.",
+        "## (1) Anthropic’s Latest AI Essay: ‘We Must Pace the Frontier’",
+        "First up. Anthropic CEO Dario Amodei published a 3,800-word essay on Saturday, ‘We Must Pace the Frontier’. The line that matters: ‘We must slow the pace at which we improve the capabilities of AI models.’ [...] The Blip 2.0, June 2026. The US government pulled Anthropic’s best models off the market over a jailbreak report. Twenty days. Then it gated OpenAI’s next model too. Slow and steady became the new US AI speed, set by the government."
+      ],
+      "url": "https://michaelparekh.substack.com/p/all-together-now-in-ai-anthropic",
+      "source": "michaelparekh.substack.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-14T05:00:00Z"
+    },
+    {
       "id": "c91b630f54ba",
       "title": "“拿捏”编程之后，AI的下一个“主场”会是科研吗？|世界人工智能大会|澎湃新闻|上海市|周伯文|论坛_新浪新闻",
       "summary": "一年前，周伯文在2025浦江创新论坛提出了“AGI4S六问”，包括边界之问、预测之问、交叉之问、形式化之问、验证之问、新科学之问。如今回头再看，周伯文表示人工智能和科学研究的互生关系越来越深入人心，六问整体都在向前突破，但发展速度有所分化。其中，预测、交叉和验证三问进展较快，其他更底层的三问则进展较慢。\n\n　　要更好地帮助科学家进行探索，AI的能力还需进一步提升。周伯文提出，当下科研取得更大突破面...",
@@ -363,64 +409,73 @@
       "category": "模型发布",
       "importance": 3,
       "publishedAt": "2026-09-12T16:24:12Z"
-    },
-    {
-      "id": "6dc450816d21",
-      "title": "Panmnesia and Meta Propose CXL-Based AI Datacenter Architecture in Nature Journal - Wowtale",
-      "summary": "# Panmnesia and Meta Propose CXL-Based AI Datacenter Architecture in Nature Journal. AI infrastructure startup Panmnesia and global hyperscaler Meta have jointly proposed a next-generation AI datacent...",
-      "highlights": [
-        "# Panmnesia and Meta Propose CXL-Based AI Datacenter Architecture in Nature Journal. AI infrastructure startup Panmnesia and global hyperscaler Meta have jointly proposed a next-generation AI datacenter architecture that operates an entire datacenter as a single chip. The study centers on integrating CPUs, accelerators, and memory into a single datacenter-scale domain based on the CXL (Compute Express Link) standard. To address this, the Panmnesia and Meta research team extended chip-internal design principles to datacenter scale. Inside a chip, CPU cores, accelerators, and memory connect through short, uniform pathways that carry signals in constant time; they share a single memory space and hardware automatically enforces data coherence. “This research is significant in proposing the direction for next-generation AI infrastructure, where an entire datacenter operates as a single computing system based on CXL.”. To extend the scale-up domain across an entire datacenter, the research team proposes a next step: keeping the rest of the design unchanged and switching from electrical to optical signals (CXL-over-Optics)."
-      ],
-      "url": "https://en.wowtale.net/2026/09/13/235093/",
-      "source": "en.wowtale.net",
-      "category": "芯片硬件",
-      "importance": 2,
-      "publishedAt": "2026-09-13T00:08:35Z"
-    },
-    {
-      "id": "8043c6191121",
-      "title": "The US and China are racing to build ‘self-improving AI’. Here’s what’s at stake - South China Morning Post",
-      "summary": "# The US and China are racing to build ‘self-improving AI’. Both sides view ‘recursive self-improvement’ as a game-changer in the AI race. The US-China race for artificial intelligence dominance has e...",
-      "highlights": [
-        "# The US and China are racing to build ‘self-improving AI’. Both sides view ‘recursive self-improvement’ as a game-changer in the AI race. The US-China race for artificial intelligence dominance has entered a new phase: using AI to build better AI. The ultimate goal is to achieve what the industry refers to as recursive self-improvement (RSI) – the creation of AI systems that can train themselves autonomously. RSI has the potential to be a game-changer for the AI industry. As AI systems contribute to building more capable successors, which in turn become better at improving the next generation, the process could create an accelerating feedback loop – propelling the evolution of AI onto a new trajectory. In a blog post last week**,** OpenAI said it aimed to build an automated AI researcher capable of advancing deep learning research, though it was still unsure “how to safely get all the way to aligned, full RSI”."
-      ],
-      "url": "https://www.scmp.com/tech/big-tech/article/3367237/us-and-china-are-racing-build-self-improving-ai-heres-whats-stake",
-      "source": "scmp.com",
-      "category": "具身智能",
-      "importance": 2,
-      "publishedAt": "2026-09-13T00:00:10Z"
-    },
-    {
-      "id": "88e60b0b5afe",
-      "title": "两名高中生用AI攻破菲奖得主未解难题 AI辅助创新突破",
-      "summary": "两名高中生Aayush Bathija和Prince Rohatgi在博士后的指导下，借助AI的帮助，解决了一个数学家许埈珥从未攻克的难题。这项研究已经在arXiv上发表了一篇长达75页的",
-      "highlights": [
-        "两名高中生Aayush Bathija和Prince Rohatgi在博士后的指导下，借助AI的帮助，解决了一个数学家许埈珥从未攻克的难题",
-        "这项研究已经在arXiv上发表了一篇长达75页的"
-      ],
-      "url": "https://news.china.com/socialgd/10000169/20260913/49738261.html",
-      "source": "news.china.com",
-      "category": "前沿理论",
-      "importance": 2,
-      "publishedAt": "2026-09-13T10:00:00Z"
     }
   ],
-  "today": [],
-  "week": [],
-  "month": [
+  "today": [
     {
-      "id": "b3b5bc18a7be",
-      "title": "Kimi-maker Moonshot AI targets $2 billion in annual revenue - TechCrunch",
-      "summary": "# Kimi-maker Moonshot AI targets $2 billion in annual revenue. One of China’s most prominent AI labs, Moonshot AI, believes it can turn its popular open-weight model into serious sales growth. On Frid...",
+      "id": "5c198ed5f845",
+      "title": "所有人都看错了 AI：根本没有泡沫，只是你看不懂新周期|AI投资|复盘|IPO|高盛|资本_新浪新闻",
+      "summary": "未来企业的AI投入、行业并购、科技上市交易，只会越来越多。\n\n　　03 为什么AI绝对不是泡沫？\n\n　　判断一个赛道是不是泡沫，不用看估值、看热度，只看一点：有没有真实落地价值，能不能实实在在提升效率、降低成本。\n\n　　AI刚好满足全维度的落地刚需。\n\n　　工厂用AI视觉替代人工质检，大幅降低残次品率，减少人力成本；\n\n　　零售、供应链企业用AI预测销量、调控库存，彻底解决货品积压、缺货亏损的老问...",
       "highlights": [
-        "# Kimi-maker Moonshot AI targets $2 billion in annual revenue. One of China’s most prominent AI labs, Moonshot AI, believes it can turn its popular open-weight model into serious sales growth. On Friday, Bloomberg reported that the lab is targeting $2 billion in annualized revenue by the end of the year, double the company’s reported revenue run rate for August. It’s an aggressive goal that reflects the success of the company’s K3 model since its release this summer. Moonshot’s projected revenue is still dwarfed by that of OpenAI and Anthropic, which recent reports put at $40 billion and $65 billion respectively. The rising projections show there’s still money to be made from open-weight AI models, even if they’re not as lucrative as closed-weight frontier models. Earlier this week, Anthropic accused the company of a long-running model distillation campaign that routed nearly 300,000 requests from Kimi directly to Claude Opus, effectively serving Opus in place of Kimi’s own models."
+        "未来企业的AI投入、行业并购、科技上市交易，只会越来越多",
+        "03 为什么AI绝对不是泡沫",
+        "判断一个赛道是不是泡沫，不用看估值、看热度，只看一点：有没有真实落地价值，能不能实实在在提升效率、降低成本"
       ],
-      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-      "source": "techcrunch.com",
-      "category": "模型发布",
+      "url": "https://k.sina.com.cn/article_5952915720_162d2490806704tvia.html?from=tech",
+      "source": "k.sina.com.cn",
+      "category": "投并购",
       "importance": 5,
-      "publishedAt": "2026-09-11T19:35:54Z"
+      "publishedAt": "2026-09-14T00:04:30Z"
     },
+    {
+      "id": "70924aaafaad",
+      "title": "‘All Together Now’ in AI. Anthropic, OpenAI & Elon’s ‘Blip 3.0’. ARD #162",
+      "summary": "Then the Gadget AI, on Apple quietly mixing modems in the new iPhone 18 Pro Max. All together now, Apple style.\n\n## (1) Anthropic’s Latest AI Essay: ‘We Must Pace the Frontier’\n\nFirst up. Anthropic CE...",
+      "highlights": [
+        "Then the Gadget AI, on Apple quietly mixing modems in the new iPhone 18 Pro Max. All together now, Apple style.",
+        "## (1) Anthropic’s Latest AI Essay: ‘We Must Pace the Frontier’",
+        "First up. Anthropic CEO Dario Amodei published a 3,800-word essay on Saturday, ‘We Must Pace the Frontier’. The line that matters: ‘We must slow the pace at which we improve the capabilities of AI models.’ [...] The Blip 2.0, June 2026. The US government pulled Anthropic’s best models off the market over a jailbreak report. Twenty days. Then it gated OpenAI’s next model too. Slow and steady became the new US AI speed, set by the government."
+      ],
+      "url": "https://michaelparekh.substack.com/p/all-together-now-in-ai-anthropic",
+      "source": "michaelparekh.substack.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-14T05:00:00Z"
+    }
+  ],
+  "week": [
+    {
+      "id": "5c198ed5f845",
+      "title": "所有人都看错了 AI：根本没有泡沫，只是你看不懂新周期|AI投资|复盘|IPO|高盛|资本_新浪新闻",
+      "summary": "未来企业的AI投入、行业并购、科技上市交易，只会越来越多。\n\n　　03 为什么AI绝对不是泡沫？\n\n　　判断一个赛道是不是泡沫，不用看估值、看热度，只看一点：有没有真实落地价值，能不能实实在在提升效率、降低成本。\n\n　　AI刚好满足全维度的落地刚需。\n\n　　工厂用AI视觉替代人工质检，大幅降低残次品率，减少人力成本；\n\n　　零售、供应链企业用AI预测销量、调控库存，彻底解决货品积压、缺货亏损的老问...",
+      "highlights": [
+        "未来企业的AI投入、行业并购、科技上市交易，只会越来越多",
+        "03 为什么AI绝对不是泡沫",
+        "判断一个赛道是不是泡沫，不用看估值、看热度，只看一点：有没有真实落地价值，能不能实实在在提升效率、降低成本"
+      ],
+      "url": "https://k.sina.com.cn/article_5952915720_162d2490806704tvia.html?from=tech",
+      "source": "k.sina.com.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-14T00:04:30Z"
+    },
+    {
+      "id": "70924aaafaad",
+      "title": "‘All Together Now’ in AI. Anthropic, OpenAI & Elon’s ‘Blip 3.0’. ARD #162",
+      "summary": "Then the Gadget AI, on Apple quietly mixing modems in the new iPhone 18 Pro Max. All together now, Apple style.\n\n## (1) Anthropic’s Latest AI Essay: ‘We Must Pace the Frontier’\n\nFirst up. Anthropic CE...",
+      "highlights": [
+        "Then the Gadget AI, on Apple quietly mixing modems in the new iPhone 18 Pro Max. All together now, Apple style.",
+        "## (1) Anthropic’s Latest AI Essay: ‘We Must Pace the Frontier’",
+        "First up. Anthropic CEO Dario Amodei published a 3,800-word essay on Saturday, ‘We Must Pace the Frontier’. The line that matters: ‘We must slow the pace at which we improve the capabilities of AI models.’ [...] The Blip 2.0, June 2026. The US government pulled Anthropic’s best models off the market over a jailbreak report. Twenty days. Then it gated OpenAI’s next model too. Slow and steady became the new US AI speed, set by the government."
+      ],
+      "url": "https://michaelparekh.substack.com/p/all-together-now-in-ai-anthropic",
+      "source": "michaelparekh.substack.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-14T05:00:00Z"
+    }
+  ],
+  "month": [
     {
       "id": "5ea79fb20d94",
       "title": "宝玉on X: \"OpenAI 在Hot Chips 2026 大会上公布了自研AI 推理芯片 ...",
@@ -448,6 +503,32 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-09-12T06:00:00Z"
+    },
+    {
+      "id": "16c221a970b4",
+      "title": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says - Axios",
+      "summary": "# OpenAI delaying IPO amid AI safety concerns, Sam Altman says. Add Axios as your preferred source to. see more of our stories on Google. OpenAI will not go public this year given all the safety work ...",
+      "highlights": [
+        "# OpenAI delaying IPO amid AI safety concerns, Sam Altman says. Add Axios as your preferred source to. see more of our stories on Google. OpenAI will not go public this year given all the safety work it needs to do, CEO Sam Altman said in a Fortune interview released Saturday. **Why it matters:** Altman's comments come as fears over doomsday AI scenarios have ramped up since an Anthropic employee resigned and issued a dire warning about AI's capabilities. **What they're saying:** \"Right now would be an ill-advised moment to go public,\" Altman said. We got a lot of stuff to do.\". **The intrigue:** The market expected blockbuster IPOs from both OpenAI and Anthropic this year. * Altman's move puts the ball squarely in Anthropic CEO Dario Amodei's court — especially given Amodei's warning Saturday that AI development needs to be slowed. *Editor's note: This is a breaking news story and will be updated with more information.*. ##### What to read next."
+      ],
+      "url": "https://www.axios.com/2026/09/12/openai-public-ipo-delay-sam-altman",
+      "source": "axios.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-12T19:18:32Z"
+    },
+    {
+      "id": "b3b5bc18a7be",
+      "title": "Kimi-maker Moonshot AI targets $2 billion in annual revenue - TechCrunch",
+      "summary": "# Kimi-maker Moonshot AI targets $2 billion in annual revenue. One of China’s most prominent AI labs, Moonshot AI, believes it can turn its popular open-weight model into serious sales growth. On Frid...",
+      "highlights": [
+        "# Kimi-maker Moonshot AI targets $2 billion in annual revenue. One of China’s most prominent AI labs, Moonshot AI, believes it can turn its popular open-weight model into serious sales growth. On Friday, Bloomberg reported that the lab is targeting $2 billion in annualized revenue by the end of the year, double the company’s reported revenue run rate for August. It’s an aggressive goal that reflects the success of the company’s K3 model since its release this summer. Moonshot’s projected revenue is still dwarfed by that of OpenAI and Anthropic, which recent reports put at $40 billion and $65 billion respectively. The rising projections show there’s still money to be made from open-weight AI models, even if they’re not as lucrative as closed-weight frontier models. Earlier this week, Anthropic accused the company of a long-running model distillation campaign that routed nearly 300,000 requests from Kimi directly to Claude Opus, effectively serving Opus in place of Kimi’s own models."
+      ],
+      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "source": "techcrunch.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-11T19:35:54Z"
     },
     {
       "id": "a3babf476898",
@@ -538,21 +619,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-11T18:00:00Z"
-    },
-    {
-      "id": "575cb164531e",
-      "title": "AI's existential crisis explodes but AI companies plunge ahead anyway",
-      "summary": "And another warning: Anthropic says AI now lets lone operators run state-level hacking campaigns\n\nOpenAI to set misalignment disclosure rules after agents took over a wiki\n\nOpenAI chief scientist argu...",
-      "highlights": [
-        "And another warning: Anthropic says AI now lets lone operators run state-level hacking campaigns",
-        "OpenAI to set misalignment disclosure rules after agents took over a wiki",
-        "OpenAI chief scientist argues for AI research slowdown"
-      ],
-      "url": "https://siliconangle.com/2026/09/11/ais-existential-crisis-explodes-but-ai-companies-plunge-ahead-anyway",
-      "source": "siliconangle.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-11T14:00:28Z"
     }
   ]
 }
