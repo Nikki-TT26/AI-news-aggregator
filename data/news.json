@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T06:01:52Z",
+  "updatedAt": "2026-09-14T12:02:11Z",
   "latest": [
     {
       "id": "5ea79fb20d94",
@@ -74,32 +74,49 @@
       "publishedAt": "2026-09-13T08:00:00Z"
     },
     {
-      "id": "ca81682d91d4",
-      "title": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs - WIRED",
-      "summary": "# ‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs. “The science is thrilling,” the Cornell University professor says, “but there's a lot of human unpleasantness going w...",
+      "id": "0b43337f4db0",
+      "title": "燧原科技：自主DSA，国产算力的孤勇者_财富号_东方财富网",
+      "summary": "当前 AI 算力底层逻辑十分清晰，国内信创叠加 AI 大模型爆发，算力自主可控是长期主线。英伟达高端芯片供给受限，国内智算中心、互联网大厂都在加速国产替代。算力赛道分为两大板块：大模型训练，看重通用算力与生态兼容性；而推理环节，是模型训练完成之后，面向问答、生成、审核等业务持续提供服务，重点考量功耗、成本与能力。推理市场体量庞大，短视频审核、AI 对话、图像识别都属于推理场景，燧原从创业之初就扎根...",
       "highlights": [
-        "# ‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs. “The science is thrilling,” the Cornell University professor says, “but there's a lot of human unpleasantness going with it.”. The rupture is a symptom of the rapid changes taking place in the field due to AI advancements and what Strogatz—who cowrote Big Math, a book about how math is slipping away from human understanding that will be out in November—describes as corporate labs’ race to grab headlines ahead of blockbuster IPOs. Last week, Anthropic said Claude had proved 29,500 small theorems while formalizing an existing proof of the infamous Fermat’s Last Theorem—a project other mathematicians had been working on for years. AI is making mathematical breakthroughs happen faster, Strogatz says, but what it means for the experts who have dedicated their lives to the field is decidedly less clear. “You will not be able to compete without AI in the future if you want to do breakthrough math,” he adds."
+        "当前 AI 算力底层逻辑十分清晰，国内信创叠加 AI 大模型爆发，算力自主可控是长期主线",
+        "英伟达高端芯片供给受限，国内智算中心、互联网大厂都在加速国产替代",
+        "算力赛道分为两大板块：大模型训练，看重通用算力与生态兼容性；而推理环节，是模型训练完成之后，面向问答、生成、审核等业务持续提供服务，重点考量功耗、成本与能力"
       ],
-      "url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
-      "source": "wired.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-12T10:00:00Z"
+      "url": "https://caifuhao.eastmoney.com/news/20260914144904535111310",
+      "source": "caifuhao.eastmoney.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-14T07:00:00Z"
     },
     {
-      "id": "41b1ebc17f19",
-      "title": "论文汇总丨Agent Harness新进展：阿里/Meta/谷歌等探索长程执行、自演化与评估",
-      "summary": "论文及详细解读：\n\nagent harness 方法概述\n\n以上就是本周论文推荐的全部内容，更多 AI 前沿研究论文，详见 hyper.ai 官网「最新论文」板块。\n\n同时也欢迎研究团队向我们投稿高质量成果及论文，有意向者可添加神经星星微信（微信号：Hyperai01）。\n\n下周再见！\n\n内容中包含的图片若涉及版权问题，请及时与我们联系删除\n\n点赞   收藏   评论 分享到Link  \n\n举报反...",
+      "id": "8e1483afeeb0",
+      "title": "大摩揭示8.5万亿人民币中国AI投资图谱：国产芯片放量、存储扩容，谁能将AI算力扩张变成真实现金流? 提供者智通财经",
+      "summary": "此前高盛发布的闪迪科技大会会议纪要所述，长期协议约覆盖2027、2028财年计划出货量的50%和67%，体现的是订单可见度;能否兑现为更高利润，还要看产品认证、客户份额、价格及每比特成本。对中国AI算力产业链领军者们而言，同样的机制意味着国产GPU和ASIC扩张会带动配套内存、SSD、高性能以太网网络基础设施与数据中心CPU、光互连芯片需求以及软件优化需求，但这些订单由谁获得，仍取决于具体采购体系...",
       "highlights": [
-        "agent harness 方法概述",
-        "以上就是本周论文推荐的全部内容，更多 AI 前沿研究论文，详见 hyper.ai 官网「最新论文」板块",
-        "同时也欢迎研究团队向我们投稿高质量成果及论文，有意向者可添加神经星星微信（微信号：Hyperai01）"
+        "此前高盛发布的闪迪科技大会会议纪要所述，长期协议约覆盖2027、2028财年计划出货量的50%和67%，体现的是订单可见度;能否兑现为更高利润，还要看产品认证、客户份额、价格及每比特成本",
+        "对中国AI算力产业链领军者们而言，同样的机制意味着国产GPU和ASIC扩张会带动配套内存、SSD、高性能以太网网络基础设施与数据中心CPU、光互连芯片需求以及软件优化需求，但这些订单由谁获得，仍取决于具体采购体系与产品竞争力",
+        "大摩分析师团队表示，关于AI的巨额投资规模能否加速实现强劲盈利轨迹，最终取决于付费吞吐量、单位售价和资本效率的共同作用"
       ],
-      "url": "https://hub.baai.ac.cn/view/57903",
-      "source": "hub.baai.ac.cn",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-12T08:00:00Z"
+      "url": "https://cn.investing.com/news/stock-market-news/article-3564459",
+      "source": "cn.investing.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-14T07:35:18Z"
+    },
+    {
+      "id": "c337605f186d",
+      "title": "投资界24h|智谱约50亿美元融资落定；Anthropic敲定纳斯达克上市计划；南京最大国资平台揭牌",
+      "summary": "9月11日，浙江航链科技有限公司（简称“航链科技”）完成天使轮融资，由浙江赤子股权投资基金管理有限公司（简称“赤子基金”）通过兴产赤子之诗（湖州）创业投资合伙企业（有限合伙）‌独家投资。\n\n阅读全文\n\n#### 烨知心完成Pre-A轮融资\n\n9月11日，烨知心（Yeats.AI）宣布完成Pre-A轮融资，由深创投、和利资本、TCL创投、中科创星联合领投，艾为电子（688798.SH）、国开科创、朝...",
+      "highlights": [
+        "9月11日，浙江航链科技有限公司（简称“航链科技”）完成天使轮融资，由浙江赤子股权投资基金管理有限公司（简称“赤子基金”）通过兴产赤子之诗（湖州）创业投资合伙企业（有限合伙）‌独家投资",
+        "#### 烨知心完成Pre-A轮融资",
+        "9月11日，烨知心（Yeats.AI）宣布完成Pre-A轮融资，由深创投、和利资本、TCL创投、中科创星联合领投，艾为电子（688798.SH）、国开科创、朝晖资本等机构跟投，老股东连续多轮持续超额追投"
+      ],
+      "url": "https://news.pedaily.cn/202609/568938.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-14T00:47:00Z"
     },
     {
       "id": "0f9fefefb81f",
@@ -147,45 +164,6 @@
       "publishedAt": "2026-09-12T17:00:00Z"
     },
     {
-      "id": "7d745b269bb3",
-      "title": "MRVL Stock Quote Price and Forecast - CNN",
-      "summary": "Marvell: Why Morgan Stanley Favors One AI Chip Stock after Earnings by TipRanks   Sep 03, 2026 9:31am ET Broadcom or Marvell – Goldman Sachs Picks the Better Chip Stock after Earnings by TipRanks   Se...",
-      "highlights": [
-        "Marvell: Why Morgan Stanley Favors One AI Chip Stock after Earnings by TipRanks   Sep 03, 2026 9:31am ET Broadcom or Marvell – Goldman Sachs Picks the Better Chip Stock after Earnings by TipRanks   Sep 03, 2026 7:00am ET Defiance Launches First U.S.-listed ETF to Combine Memory & Photonics to Target AI Bottlenecks by TipRanks   Sep 02, 2026 8:36am ET U.S. Semiconductor Tariffs Are Coming, Lutnick Says, Putting Nvidia and AI Chip Stocks in Focus by TipRanks   Sep 02, 2026 8:16am ET New Buy Rating for Marvell (MRVL), the Technology Giant by TipRanks   Sep 01, 2026 8:00am ET ‘Far From Nvidia,’ Says Top Investor About Marvell Stock by TipRanks   Aug 31, 2026 6:05pm ET Broadcom Stock (AVGO) Is a Buy, J.P. Morgan Says Ahead of Q3 Earnings by TipRanks   Aug 31, 2026 12:12pm ET Broadcom Stock: 3 Reasons Retail Investors Are Bearish on AVGO Ahead of Q3 Earnings by TipRanks   Aug 31, 2026 11:10am ET Broadcom and Marvell: Goldman Sachs Says One AI Stock Is a Buy, but the Other Demands Caution by TipRanks   Aug 31, 2026 10:56am ET AI Infrastructure Stocks DELL vs."
-      ],
-      "url": "https://www.cnn.com/markets/stocks/MRVL",
-      "source": "cnn.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-09-12T07:57:31Z"
-    },
-    {
-      "id": "ddcf4ff96e99",
-      "title": "Amundi Raises Stock Position in Ero Copper Corp. $ERO - MarketBeat",
-      "summary": "Microsoft’s Azure Reporting Shift Adds Clarity, But the Bull Case Came First. TSMC Revenue Jumps 53% in August, Signaling Strong AI Chip Demand. IBM and Lockheed Martin Turn a Swiss Defense Deal Into ...",
-      "highlights": [
-        "Microsoft’s Azure Reporting Shift Adds Clarity, But the Bull Case Came First. TSMC Revenue Jumps 53% in August, Signaling Strong AI Chip Demand. IBM and Lockheed Martin Turn a Swiss Defense Deal Into a Quantum Computing Bet. After KDA, PRE, and OCEAN—this is the one (Ad). Feed to Feat: Can Meta Unlock the AI Agent Cash Machine? Oracle’s AI Spending Is Still Huge, But the Payoff Is Starting to Show in Earnings. They didn't warn anyone in 1971. This time someone is warning you. Chime Finds Its Stride With a $590M Deal That Could Reshape Its Banking Model. AST SpaceMobile Looks to Extend Its 30-Day FCC Satellite Testing Window."
-      ],
-      "url": "https://www.marketbeat.com/instant-alerts/filing-amundi-raises-stock-position-in-ero-copper-corp-ero-2026-09-12/",
-      "source": "marketbeat.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-09-12T07:31:00Z"
-    },
-    {
-      "id": "83e8debcc436",
-      "title": "Amundi Sells 52,344 Shares of Hecla Mining Company $HL - MarketBeat",
-      "summary": "Microsoft’s Azure Reporting Shift Adds Clarity, But the Bull Case Came First. TSMC Revenue Jumps 53% in August, Signaling Strong AI Chip Demand. IBM and Lockheed Martin Turn a Swiss Defense Deal Into ...",
-      "highlights": [
-        "Microsoft’s Azure Reporting Shift Adds Clarity, But the Bull Case Came First. TSMC Revenue Jumps 53% in August, Signaling Strong AI Chip Demand. IBM and Lockheed Martin Turn a Swiss Defense Deal Into a Quantum Computing Bet. After KDA, PRE, and OCEAN—this is the one (Ad). Feed to Feat: Can Meta Unlock the AI Agent Cash Machine? Oracle’s AI Spending Is Still Huge, But the Payoff Is Starting to Show in Earnings. They didn't warn anyone in 1971. This time someone is warning you. Chime Finds Its Stride With a $590M Deal That Could Reshape Its Banking Model. AST SpaceMobile Looks to Extend Its 30-Day FCC Satellite Testing Window. → Do this before December or regret it  (From Porter & Company) (Ad)."
-      ],
-      "url": "https://www.marketbeat.com/instant-alerts/filing-amundi-sells-52344-shares-of-hecla-mining-company-hl-2026-09-12/",
-      "source": "marketbeat.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-09-12T07:31:05Z"
-    },
-    {
       "id": "fc3899ecce2e",
       "title": "Stocks stumble on inflation fears, but 2 of our names give us reasons to stay bullish - CNBC",
       "summary": "Friday's market rally was not enough to flip stocks into the green last week as surging oil prices and bond yields stoked renewed concerns about inflation and the Federal Reserve's next move. The Dow ...",
@@ -197,19 +175,6 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-09-12T14:37:07Z"
-    },
-    {
-      "id": "98a5beb74b55",
-      "title": "Sunshine Silver Mining & Refining Company (NYSE:SSMR) Receives Consensus Rating of \"Moderate Buy\" from Analysts - MarketBeat",
-      "summary": "Microsoft’s Azure Reporting Shift Adds Clarity, But the Bull Case Came First. A strange retirement crisis is coming to America (Ad). IBM and Lockheed Martin Turn a Swiss Defense Deal Into a Quantum Co...",
-      "highlights": [
-        "Microsoft’s Azure Reporting Shift Adds Clarity, But the Bull Case Came First. A strange retirement crisis is coming to America (Ad). IBM and Lockheed Martin Turn a Swiss Defense Deal Into a Quantum Computing Bet. Feed to Feat: Can Meta Unlock the AI Agent Cash Machine? The retirement stock I'd buy before Nvidia today (Ad). TSMC Revenue Jumps 53% in August, Signaling Strong AI Chip Demand. Oracle’s AI Spending Is Still Huge, But the Payoff Is Starting to Show in Earnings. Earth's biggest energy source: near Grand Canyon (Ad). Chime Finds Its Stride With a $590M Deal That Could Reshape Its Banking Model. AST SpaceMobile Looks to Extend Its 30-Day FCC Satellite Testing Window. → 17 Nobel Prize winners… one startling warning  (From Porter & Company) (Ad)."
-      ],
-      "url": "https://www.marketbeat.com/instant-alerts/consensus-sunshine-silver-mining-refining-company-nyse-ssmr-receives-consensus-rating-of-moderate-buy-from-analysts-2026-09-12/",
-      "source": "marketbeat.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-09-12T10:14:21Z"
     },
     {
       "id": "32cca649f378",
@@ -236,19 +201,6 @@
       "category": "投并购",
       "importance": 4,
       "publishedAt": "2026-09-12T22:23:38Z"
-    },
-    {
-      "id": "c88c10ab5365",
-      "title": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday - The New York Times",
-      "summary": "# Inside the Snowballing Conversations at A.I. Companies About a Doomsday. Researchers at Anthropic, OpenAI, Meta and Google are increasingly trying to raise awareness about the risks of artificial in...",
-      "highlights": [
-        "# Inside the Snowballing Conversations at A.I. Companies About a Doomsday. Researchers at Anthropic, OpenAI, Meta and Google are increasingly trying to raise awareness about the risks of artificial intelligence. “It’s what we’ve all been saying,” one Anthropic employee wrote about Mr. Coxon’s comments, in a company chat that was viewed by The New York Times. The reactions inside Anthropic were echoed by A.I. researchers at OpenAI, Meta and Google, who parsed Mr. Coxon’s social media posts that described how OpenAI and Anthropic were “gambling with our lives” with the technology. Many convened in office messaging channels, encrypted chats and private dinners, with the goal of organizing to raise awareness about the risks of A.I., according to a dozen employees across the companies. Some A.I. workers are now speaking up to top executives to urge a pause in developing the fast-evolving technology until it has the proper safeguards, six of the people said. Even as employees become emboldened to call for a slowdown in A.I. development, companies like Anthropic and OpenAI are juggling priorities."
-      ],
-      "url": "https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html",
-      "source": "nytimes.com",
-      "category": "前沿理论",
-      "importance": 4,
-      "publishedAt": "2026-09-12T09:03:01Z"
     },
     {
       "id": "70a4a053204b",
@@ -329,6 +281,62 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-09-14T05:00:00Z"
+    },
+    {
+      "id": "9980fabe2592",
+      "title": "抢夺家庭刚需流量！阿里等大厂加码高考志愿智能体",
+      "summary": "关于我们网站声明联系方式用户反馈网站地图帮助\n\n## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载\n\n抢夺家庭刚需流量！阿里等大厂加码高考志愿智能体\n\n原创\n\n科创板最新动态\n\n2026-06-10 22:00 星期三\n\n科创板日报记者 黄心怡\n\n责编 毛明江\n\n```\n① 阿里千问今日上线国内首个全周期高考志愿填报Agent（智能体），为全国考生免费提供志愿填报和...",
+      "highlights": [
+        "关于我们网站声明联系方式用户反馈网站地图帮助",
+        "## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载",
+        "阿里等大厂加码高考志愿智能体"
+      ],
+      "url": "https://www.cls.cn/detail/2396439",
+      "source": "cls.cn",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-13T22:00:00Z"
+    },
+    {
+      "id": "4eea07051c3d",
+      "title": "震撼突破！果蝇大脑成功接入ChatGPT 前沿脑机融合技术重大进展",
+      "summary": "在信息交互与沟通场景中，当对话推进至专属应答环节时，精准、清晰且贴合需求的内容输出是保障信息传递效率、消解受众疑问的核心关键，优质的应答内容可有效强化沟通链",
+      "highlights": [
+        "在信息交互与沟通场景中，当对话推进至专属应答环节时，精准、清晰且贴合需求的内容输出是保障信息传递效率、消解受众疑问的核心关键，优质的应答内容可有效强化沟通链"
+      ],
+      "url": "https://eu.36kr.com/zh/p/3982957231995910",
+      "source": "eu.36kr.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-13T17:00:00Z"
+    },
+    {
+      "id": "43e294d83b72",
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "summary": "Anthropic withheld its Mythos model from public use when it was announced in April that it could independently escape the testing environment, known as the sandbox.\n\nIn the run-up to the release of it...",
+      "highlights": [
+        "Anthropic withheld its Mythos model from public use when it was announced in April that it could independently escape the testing environment, known as the sandbox.",
+        "In the run-up to the release of its most recent Astra model, OpenAI cited cyber-security concerns as it explained it had paused certain aspects of the model's development. [...] The OpenAI agents had \"essentially acted as a fanatically devoted collective\", Amodei said. OpenAI has said it was slowing down training of certain advanced AI models and tools as a result.",
+        "Safety has also taken centre stage in the rivalry between Anthropic and OpenAI."
+      ],
+      "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
+      "source": "bbc.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-12T15:37:39Z"
+    },
+    {
+      "id": "537ef6dfb7b6",
+      "title": "今日AI大模型新闻速览(09月13日)",
+      "summary": "该消息与月之暗面冲刺港股IPO的背景相关,显示其在上市前加速... 12. NASA与IBM开源月球基础大模型,中美AI4S竞赛延伸至月球...",
+      "highlights": [
+        "该消息与月之暗面冲刺港股IPO的背景相关,显示其在上市前加速... 12. NASA与IBM开源月球基础大模型,中美AI4S竞赛延伸至月球..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-U3vLmM-br5n5GrGEtLTjV8YcFe15_kzFqXa8Fplpd92JDrbH8pNcQELBkUm_8dljjqIQGOm46TrMaIBphh_8p0oYYlqGi3FRlyr50aWMbWqYgEdd7G2mcWSmSk6bOIpQ3eVkBdJShBWo70A_1Qc1uAlE3jjHU5nfqa_ICGAunxhgFonwJUn3ojT8oQjOsrddujQRRH1_AAPcDHiIIhnzLyPfCoem7FzA..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=242D559CDD53B82C191F43682BC65D401946ECBC6AA7E23D",
+      "source": "微信公众号",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-12T22:23:38Z"
     },
     {
       "id": "c91b630f54ba",
@@ -428,6 +436,51 @@
       "publishedAt": "2026-09-14T00:04:30Z"
     },
     {
+      "id": "0b43337f4db0",
+      "title": "燧原科技：自主DSA，国产算力的孤勇者_财富号_东方财富网",
+      "summary": "当前 AI 算力底层逻辑十分清晰，国内信创叠加 AI 大模型爆发，算力自主可控是长期主线。英伟达高端芯片供给受限，国内智算中心、互联网大厂都在加速国产替代。算力赛道分为两大板块：大模型训练，看重通用算力与生态兼容性；而推理环节，是模型训练完成之后，面向问答、生成、审核等业务持续提供服务，重点考量功耗、成本与能力。推理市场体量庞大，短视频审核、AI 对话、图像识别都属于推理场景，燧原从创业之初就扎根...",
+      "highlights": [
+        "当前 AI 算力底层逻辑十分清晰，国内信创叠加 AI 大模型爆发，算力自主可控是长期主线",
+        "英伟达高端芯片供给受限，国内智算中心、互联网大厂都在加速国产替代",
+        "算力赛道分为两大板块：大模型训练，看重通用算力与生态兼容性；而推理环节，是模型训练完成之后，面向问答、生成、审核等业务持续提供服务，重点考量功耗、成本与能力"
+      ],
+      "url": "https://caifuhao.eastmoney.com/news/20260914144904535111310",
+      "source": "caifuhao.eastmoney.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-14T07:00:00Z"
+    },
+    {
+      "id": "8e1483afeeb0",
+      "title": "大摩揭示8.5万亿人民币中国AI投资图谱：国产芯片放量、存储扩容，谁能将AI算力扩张变成真实现金流? 提供者智通财经",
+      "summary": "此前高盛发布的闪迪科技大会会议纪要所述，长期协议约覆盖2027、2028财年计划出货量的50%和67%，体现的是订单可见度;能否兑现为更高利润，还要看产品认证、客户份额、价格及每比特成本。对中国AI算力产业链领军者们而言，同样的机制意味着国产GPU和ASIC扩张会带动配套内存、SSD、高性能以太网网络基础设施与数据中心CPU、光互连芯片需求以及软件优化需求，但这些订单由谁获得，仍取决于具体采购体系...",
+      "highlights": [
+        "此前高盛发布的闪迪科技大会会议纪要所述，长期协议约覆盖2027、2028财年计划出货量的50%和67%，体现的是订单可见度;能否兑现为更高利润，还要看产品认证、客户份额、价格及每比特成本",
+        "对中国AI算力产业链领军者们而言，同样的机制意味着国产GPU和ASIC扩张会带动配套内存、SSD、高性能以太网网络基础设施与数据中心CPU、光互连芯片需求以及软件优化需求，但这些订单由谁获得，仍取决于具体采购体系与产品竞争力",
+        "大摩分析师团队表示，关于AI的巨额投资规模能否加速实现强劲盈利轨迹，最终取决于付费吞吐量、单位售价和资本效率的共同作用"
+      ],
+      "url": "https://cn.investing.com/news/stock-market-news/article-3564459",
+      "source": "cn.investing.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-14T07:35:18Z"
+    },
+    {
+      "id": "c337605f186d",
+      "title": "投资界24h|智谱约50亿美元融资落定；Anthropic敲定纳斯达克上市计划；南京最大国资平台揭牌",
+      "summary": "9月11日，浙江航链科技有限公司（简称“航链科技”）完成天使轮融资，由浙江赤子股权投资基金管理有限公司（简称“赤子基金”）通过兴产赤子之诗（湖州）创业投资合伙企业（有限合伙）‌独家投资。\n\n阅读全文\n\n#### 烨知心完成Pre-A轮融资\n\n9月11日，烨知心（Yeats.AI）宣布完成Pre-A轮融资，由深创投、和利资本、TCL创投、中科创星联合领投，艾为电子（688798.SH）、国开科创、朝...",
+      "highlights": [
+        "9月11日，浙江航链科技有限公司（简称“航链科技”）完成天使轮融资，由浙江赤子股权投资基金管理有限公司（简称“赤子基金”）通过兴产赤子之诗（湖州）创业投资合伙企业（有限合伙）‌独家投资",
+        "#### 烨知心完成Pre-A轮融资",
+        "9月11日，烨知心（Yeats.AI）宣布完成Pre-A轮融资，由深创投、和利资本、TCL创投、中科创星联合领投，艾为电子（688798.SH）、国开科创、朝晖资本等机构跟投，老股东连续多轮持续超额追投"
+      ],
+      "url": "https://news.pedaily.cn/202609/568938.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-14T00:47:00Z"
+    },
+    {
       "id": "70924aaafaad",
       "title": "‘All Together Now’ in AI. Anthropic, OpenAI & Elon’s ‘Blip 3.0’. ARD #162",
       "summary": "Then the Gadget AI, on Apple quietly mixing modems in the new iPhone 18 Pro Max. All together now, Apple style.\n\n## (1) Anthropic’s Latest AI Essay: ‘We Must Pace the Frontier’\n\nFirst up. Anthropic CE...",
@@ -441,6 +494,60 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-09-14T05:00:00Z"
+    },
+    {
+      "id": "f0c174cdc708",
+      "title": "大河财立方",
+      "summary": "推荐\n\n\n\n政经\n\n豫股\n\n中原股交\n\n金融\n\n债市\n\n豫商\n\n城市\n\n安阳\n\n科创\n\n招采\n\n投教\n\n 更多\n\n## \n\n\n\n国家卫生健康委呼吁：大家共同行动起来，为2030年人均预期寿命达到80岁而努力\n\n2026-09-14 13:51:58\n\n\n\n4个方面、10条措施，中小企业回款难迎专项整治\n\n2026-09-14 15:47:37\n\n\n\n今年将新增1000家基层医疗卫生机构提供儿科诊疗...",
+      "highlights": [
+        "国家卫生健康委呼吁：大家共同行动起来，为2030年人均预期寿命达到80岁而努力",
+        "2026-09-14 13:51:58",
+        "4个方面、10条措施，中小企业回款难迎专项整治"
+      ],
+      "url": "https://app.dahecube.com/article.html?artid=286857%3Frecid%3D1",
+      "source": "app.dahecube.com",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-09-14T08:00:00Z"
+    },
+    {
+      "id": "ac5b73ffba31",
+      "title": "ShengShu Technology Unveils Motus2, a Self-Evolving General World Model for Dexterous Manipulation - PR Newswire",
+      "summary": "# ShengShu Technology Unveils Motus2, a Self-Evolving General World Model for Dexterous Manipulation. 14, 2026 /PRNewswire/ -- ShengShu Technology Co-founder and CEO Yihang Luo unveiled Motus2, a self...",
+      "highlights": [
+        "# ShengShu Technology Unveils Motus2, a Self-Evolving General World Model for Dexterous Manipulation. 14, 2026 /PRNewswire/ -- ShengShu Technology Co-founder and CEO Yihang Luo unveiled Motus2, a self-evolving general world model for robotic dexterous manipulation, at the 2026 Inclusion Conference on the Bund on September 10. According to the team'sresearch paper, Motus2 achieved an average success rate of 84% across five primary real-robot tasks: placing a ball, multi-finger manipulation, attaching an eraser, screwing in a light bulb, and placing a phone. **Motus2****'****s central advance is bringing the predictive capabilities of a world model into robotic decision-making and learning.** Within the unified model, a policy interface generates candidate actions based on language instructions, robot states, and visual history. Within ShengShu Technology's five-level roadmap for general world models, Motus2 represents a concrete implementation of L3, \"Acting in the World.\" By incorporating evaluation, feedback, and policy updates, it also explores a technical path toward L4, \"Autonomous World Agents.\" The current research demonstrates policy improvement in specific tasks."
+      ],
+      "url": "https://www.prnewswire.com/news-releases/shengshu-technology-unveils-motus2-a-self-evolving-general-world-model-for-dexterous-manipulation-302877367.html",
+      "source": "prnewswire.com",
+      "category": "具身智能",
+      "importance": 2,
+      "publishedAt": "2026-09-14T10:00:00Z"
+    },
+    {
+      "id": "946e24dc1011",
+      "title": "Hyundai Motor Group puts Data Flywheel into full operation - Automotive World",
+      "summary": "Hyundai Motor Group puts Data Flywheel into full operation VinFast consolidates global leadership under one executive China targets 70% NEV sales and mass self-driving by 2030 Mercedes output may bott...",
+      "highlights": [
+        "Hyundai Motor Group puts Data Flywheel into full operation VinFast consolidates global leadership under one executive China targets 70% NEV sales and mass self-driving by 2030 Mercedes output may bottom out in 2026 and recover slowly Chery doubles down on hybrids as it plans UK expansion Toyota and Iveco develop EU-funded fuel cell truck VWCV sharpens B2B pitch with Connect Pro at IAA 2026 Leapmotor B03X goes on sale in Europe from €24,900 Stellantis and UQI Robotics explore Box-on-Wheels concept Roland Berger sees EUR 20tn technology markets by 2040. “Our goal is to help stakeholders understand the future of mobility.”. Home › News › Hyundai Motor Group puts Data Flywheel into full operation. # Hyundai Motor Group puts Data Flywheel into full operation. Hyundai Motor Group has activated its Data Flywheel autonomous driving platform, setting production targets of Nvidia-powered Level 2+ vehicles for the first half of 2028 and Level 2++ models for the second half of the same year. Atria AI, its proprietary autonomous driving system, separately targets Level 2++ vehicles by the second half of 2029. The Data Flywheel runs as a closed loop, channelling vehicle data through AI model training and validation before redeploying improved models to vehicles. https://www.automotiveworld.com/news/hyundai-motor-group-puts-data-flywheel-into-full-operation/."
+      ],
+      "url": "https://www.automotiveworld.com/news/hyundai-motor-group-puts-data-flywheel-into-full-operation/",
+      "source": "automotiveworld.com",
+      "category": "芯片硬件",
+      "importance": 2,
+      "publishedAt": "2026-09-14T04:45:24Z"
+    },
+    {
+      "id": "a538867f66a6",
+      "title": "Hyundai to Mass-Produce Level 2+ Self-Driving Cars in 2028 - Seoul Economic Daily",
+      "summary": "■AI PRISM [CEO News] Hyundai Motor Group Aims to Overtake Tesla Global ADC and RNA Technology Deals Surge Lee Hyung-il: \"Financial Investment Income Tax to Be Reviewed After Market Stabilizes\". ■ The ...",
+      "highlights": [
+        "■AI PRISM [CEO News] Hyundai Motor Group Aims to Overtake Tesla Global ADC and RNA Technology Deals Surge Lee Hyung-il: \"Financial Investment Income Tax to Be Reviewed After Market Stabilizes\". ■ The self-driving data war: Hyundai Motor (005380.KS) Group is accelerating its push into the global autonomous driving market, leveraging expanded driving data built with artificial intelligence and mass-production infrastructure capable of 7 million vehicles a year. The group aims to surpass the cumulative driving data of leading rivals such as Tesla by 2033 through a \"data flywheel\" structure, in which data gathered from mass-produced vehicles refines AI models and vehicles equipped with the improved models generate more data in turn. - Key summary: Hyundai Motor Group is moving into the global autonomous driving market on the strength of AI-driven expansion of driving data and mass-production infrastructure of 7 million vehicles a year."
+      ],
+      "url": "https://en.sedaily.com/finance/2026/09/14/hyundai-to-mass-produce-level-2-self-driving-cars-in-2028",
+      "source": "en.sedaily.com",
+      "category": "具身智能",
+      "importance": 2,
+      "publishedAt": "2026-09-14T01:52:33Z"
     }
   ],
   "week": [
@@ -460,6 +567,51 @@
       "publishedAt": "2026-09-14T00:04:30Z"
     },
     {
+      "id": "0b43337f4db0",
+      "title": "燧原科技：自主DSA，国产算力的孤勇者_财富号_东方财富网",
+      "summary": "当前 AI 算力底层逻辑十分清晰，国内信创叠加 AI 大模型爆发，算力自主可控是长期主线。英伟达高端芯片供给受限，国内智算中心、互联网大厂都在加速国产替代。算力赛道分为两大板块：大模型训练，看重通用算力与生态兼容性；而推理环节，是模型训练完成之后，面向问答、生成、审核等业务持续提供服务，重点考量功耗、成本与能力。推理市场体量庞大，短视频审核、AI 对话、图像识别都属于推理场景，燧原从创业之初就扎根...",
+      "highlights": [
+        "当前 AI 算力底层逻辑十分清晰，国内信创叠加 AI 大模型爆发，算力自主可控是长期主线",
+        "英伟达高端芯片供给受限，国内智算中心、互联网大厂都在加速国产替代",
+        "算力赛道分为两大板块：大模型训练，看重通用算力与生态兼容性；而推理环节，是模型训练完成之后，面向问答、生成、审核等业务持续提供服务，重点考量功耗、成本与能力"
+      ],
+      "url": "https://caifuhao.eastmoney.com/news/20260914144904535111310",
+      "source": "caifuhao.eastmoney.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-14T07:00:00Z"
+    },
+    {
+      "id": "8e1483afeeb0",
+      "title": "大摩揭示8.5万亿人民币中国AI投资图谱：国产芯片放量、存储扩容，谁能将AI算力扩张变成真实现金流? 提供者智通财经",
+      "summary": "此前高盛发布的闪迪科技大会会议纪要所述，长期协议约覆盖2027、2028财年计划出货量的50%和67%，体现的是订单可见度;能否兑现为更高利润，还要看产品认证、客户份额、价格及每比特成本。对中国AI算力产业链领军者们而言，同样的机制意味着国产GPU和ASIC扩张会带动配套内存、SSD、高性能以太网网络基础设施与数据中心CPU、光互连芯片需求以及软件优化需求，但这些订单由谁获得，仍取决于具体采购体系...",
+      "highlights": [
+        "此前高盛发布的闪迪科技大会会议纪要所述，长期协议约覆盖2027、2028财年计划出货量的50%和67%，体现的是订单可见度;能否兑现为更高利润，还要看产品认证、客户份额、价格及每比特成本",
+        "对中国AI算力产业链领军者们而言，同样的机制意味着国产GPU和ASIC扩张会带动配套内存、SSD、高性能以太网网络基础设施与数据中心CPU、光互连芯片需求以及软件优化需求，但这些订单由谁获得，仍取决于具体采购体系与产品竞争力",
+        "大摩分析师团队表示，关于AI的巨额投资规模能否加速实现强劲盈利轨迹，最终取决于付费吞吐量、单位售价和资本效率的共同作用"
+      ],
+      "url": "https://cn.investing.com/news/stock-market-news/article-3564459",
+      "source": "cn.investing.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-14T07:35:18Z"
+    },
+    {
+      "id": "c337605f186d",
+      "title": "投资界24h|智谱约50亿美元融资落定；Anthropic敲定纳斯达克上市计划；南京最大国资平台揭牌",
+      "summary": "9月11日，浙江航链科技有限公司（简称“航链科技”）完成天使轮融资，由浙江赤子股权投资基金管理有限公司（简称“赤子基金”）通过兴产赤子之诗（湖州）创业投资合伙企业（有限合伙）‌独家投资。\n\n阅读全文\n\n#### 烨知心完成Pre-A轮融资\n\n9月11日，烨知心（Yeats.AI）宣布完成Pre-A轮融资，由深创投、和利资本、TCL创投、中科创星联合领投，艾为电子（688798.SH）、国开科创、朝...",
+      "highlights": [
+        "9月11日，浙江航链科技有限公司（简称“航链科技”）完成天使轮融资，由浙江赤子股权投资基金管理有限公司（简称“赤子基金”）通过兴产赤子之诗（湖州）创业投资合伙企业（有限合伙）‌独家投资",
+        "#### 烨知心完成Pre-A轮融资",
+        "9月11日，烨知心（Yeats.AI）宣布完成Pre-A轮融资，由深创投、和利资本、TCL创投、中科创星联合领投，艾为电子（688798.SH）、国开科创、朝晖资本等机构跟投，老股东连续多轮持续超额追投"
+      ],
+      "url": "https://news.pedaily.cn/202609/568938.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-14T00:47:00Z"
+    },
+    {
       "id": "70924aaafaad",
       "title": "‘All Together Now’ in AI. Anthropic, OpenAI & Elon’s ‘Blip 3.0’. ARD #162",
       "summary": "Then the Gadget AI, on Apple quietly mixing modems in the new iPhone 18 Pro Max. All together now, Apple style.\n\n## (1) Anthropic’s Latest AI Essay: ‘We Must Pace the Frontier’\n\nFirst up. Anthropic CE...",
@@ -473,6 +625,60 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-09-14T05:00:00Z"
+    },
+    {
+      "id": "f0c174cdc708",
+      "title": "大河财立方",
+      "summary": "推荐\n\n\n\n政经\n\n豫股\n\n中原股交\n\n金融\n\n债市\n\n豫商\n\n城市\n\n安阳\n\n科创\n\n招采\n\n投教\n\n 更多\n\n## \n\n\n\n国家卫生健康委呼吁：大家共同行动起来，为2030年人均预期寿命达到80岁而努力\n\n2026-09-14 13:51:58\n\n\n\n4个方面、10条措施，中小企业回款难迎专项整治\n\n2026-09-14 15:47:37\n\n\n\n今年将新增1000家基层医疗卫生机构提供儿科诊疗...",
+      "highlights": [
+        "国家卫生健康委呼吁：大家共同行动起来，为2030年人均预期寿命达到80岁而努力",
+        "2026-09-14 13:51:58",
+        "4个方面、10条措施，中小企业回款难迎专项整治"
+      ],
+      "url": "https://app.dahecube.com/article.html?artid=286857%3Frecid%3D1",
+      "source": "app.dahecube.com",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-09-14T08:00:00Z"
+    },
+    {
+      "id": "ac5b73ffba31",
+      "title": "ShengShu Technology Unveils Motus2, a Self-Evolving General World Model for Dexterous Manipulation - PR Newswire",
+      "summary": "# ShengShu Technology Unveils Motus2, a Self-Evolving General World Model for Dexterous Manipulation. 14, 2026 /PRNewswire/ -- ShengShu Technology Co-founder and CEO Yihang Luo unveiled Motus2, a self...",
+      "highlights": [
+        "# ShengShu Technology Unveils Motus2, a Self-Evolving General World Model for Dexterous Manipulation. 14, 2026 /PRNewswire/ -- ShengShu Technology Co-founder and CEO Yihang Luo unveiled Motus2, a self-evolving general world model for robotic dexterous manipulation, at the 2026 Inclusion Conference on the Bund on September 10. According to the team'sresearch paper, Motus2 achieved an average success rate of 84% across five primary real-robot tasks: placing a ball, multi-finger manipulation, attaching an eraser, screwing in a light bulb, and placing a phone. **Motus2****'****s central advance is bringing the predictive capabilities of a world model into robotic decision-making and learning.** Within the unified model, a policy interface generates candidate actions based on language instructions, robot states, and visual history. Within ShengShu Technology's five-level roadmap for general world models, Motus2 represents a concrete implementation of L3, \"Acting in the World.\" By incorporating evaluation, feedback, and policy updates, it also explores a technical path toward L4, \"Autonomous World Agents.\" The current research demonstrates policy improvement in specific tasks."
+      ],
+      "url": "https://www.prnewswire.com/news-releases/shengshu-technology-unveils-motus2-a-self-evolving-general-world-model-for-dexterous-manipulation-302877367.html",
+      "source": "prnewswire.com",
+      "category": "具身智能",
+      "importance": 2,
+      "publishedAt": "2026-09-14T10:00:00Z"
+    },
+    {
+      "id": "946e24dc1011",
+      "title": "Hyundai Motor Group puts Data Flywheel into full operation - Automotive World",
+      "summary": "Hyundai Motor Group puts Data Flywheel into full operation VinFast consolidates global leadership under one executive China targets 70% NEV sales and mass self-driving by 2030 Mercedes output may bott...",
+      "highlights": [
+        "Hyundai Motor Group puts Data Flywheel into full operation VinFast consolidates global leadership under one executive China targets 70% NEV sales and mass self-driving by 2030 Mercedes output may bottom out in 2026 and recover slowly Chery doubles down on hybrids as it plans UK expansion Toyota and Iveco develop EU-funded fuel cell truck VWCV sharpens B2B pitch with Connect Pro at IAA 2026 Leapmotor B03X goes on sale in Europe from €24,900 Stellantis and UQI Robotics explore Box-on-Wheels concept Roland Berger sees EUR 20tn technology markets by 2040. “Our goal is to help stakeholders understand the future of mobility.”. Home › News › Hyundai Motor Group puts Data Flywheel into full operation. # Hyundai Motor Group puts Data Flywheel into full operation. Hyundai Motor Group has activated its Data Flywheel autonomous driving platform, setting production targets of Nvidia-powered Level 2+ vehicles for the first half of 2028 and Level 2++ models for the second half of the same year. Atria AI, its proprietary autonomous driving system, separately targets Level 2++ vehicles by the second half of 2029. The Data Flywheel runs as a closed loop, channelling vehicle data through AI model training and validation before redeploying improved models to vehicles. https://www.automotiveworld.com/news/hyundai-motor-group-puts-data-flywheel-into-full-operation/."
+      ],
+      "url": "https://www.automotiveworld.com/news/hyundai-motor-group-puts-data-flywheel-into-full-operation/",
+      "source": "automotiveworld.com",
+      "category": "芯片硬件",
+      "importance": 2,
+      "publishedAt": "2026-09-14T04:45:24Z"
+    },
+    {
+      "id": "a538867f66a6",
+      "title": "Hyundai to Mass-Produce Level 2+ Self-Driving Cars in 2028 - Seoul Economic Daily",
+      "summary": "■AI PRISM [CEO News] Hyundai Motor Group Aims to Overtake Tesla Global ADC and RNA Technology Deals Surge Lee Hyung-il: \"Financial Investment Income Tax to Be Reviewed After Market Stabilizes\". ■ The ...",
+      "highlights": [
+        "■AI PRISM [CEO News] Hyundai Motor Group Aims to Overtake Tesla Global ADC and RNA Technology Deals Surge Lee Hyung-il: \"Financial Investment Income Tax to Be Reviewed After Market Stabilizes\". ■ The self-driving data war: Hyundai Motor (005380.KS) Group is accelerating its push into the global autonomous driving market, leveraging expanded driving data built with artificial intelligence and mass-production infrastructure capable of 7 million vehicles a year. The group aims to surpass the cumulative driving data of leading rivals such as Tesla by 2033 through a \"data flywheel\" structure, in which data gathered from mass-produced vehicles refines AI models and vehicles equipped with the improved models generate more data in turn. - Key summary: Hyundai Motor Group is moving into the global autonomous driving market on the strength of AI-driven expansion of driving data and mass-production infrastructure of 7 million vehicles a year."
+      ],
+      "url": "https://en.sedaily.com/finance/2026/09/14/hyundai-to-mass-produce-level-2-self-driving-cars-in-2028",
+      "source": "en.sedaily.com",
+      "category": "具身智能",
+      "importance": 2,
+      "publishedAt": "2026-09-14T01:52:33Z"
     }
   ],
   "month": [
@@ -491,6 +697,64 @@
       "publishedAt": "2026-09-12T18:00:00Z"
     },
     {
+      "id": "16c221a970b4",
+      "title": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says - Axios",
+      "summary": "# OpenAI delaying IPO amid AI safety concerns, Sam Altman says. Add Axios as your preferred source to. see more of our stories on Google. OpenAI will not go public this year given all the safety work ...",
+      "highlights": [
+        "# OpenAI delaying IPO amid AI safety concerns, Sam Altman says. Add Axios as your preferred source to. see more of our stories on Google. OpenAI will not go public this year given all the safety work it needs to do, CEO Sam Altman said in a Fortune interview released Saturday. **Why it matters:** Altman's comments come as fears over doomsday AI scenarios have ramped up since an Anthropic employee resigned and issued a dire warning about AI's capabilities. **What they're saying:** \"Right now would be an ill-advised moment to go public,\" Altman said. We got a lot of stuff to do.\". **The intrigue:** The market expected blockbuster IPOs from both OpenAI and Anthropic this year. * Altman's move puts the ball squarely in Anthropic CEO Dario Amodei's court — especially given Amodei's warning Saturday that AI development needs to be slowed. *Editor's note: This is a breaking news story and will be updated with more information.*. ##### What to read next."
+      ],
+      "url": "https://www.axios.com/2026/09/12/openai-public-ipo-delay-sam-altman",
+      "source": "axios.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-12T19:18:32Z"
+    },
+    {
+      "id": "5c198ed5f845",
+      "title": "所有人都看错了 AI：根本没有泡沫，只是你看不懂新周期|AI投资|复盘|IPO|高盛|资本_新浪新闻",
+      "summary": "未来企业的AI投入、行业并购、科技上市交易，只会越来越多。\n\n　　03 为什么AI绝对不是泡沫？\n\n　　判断一个赛道是不是泡沫，不用看估值、看热度，只看一点：有没有真实落地价值，能不能实实在在提升效率、降低成本。\n\n　　AI刚好满足全维度的落地刚需。\n\n　　工厂用AI视觉替代人工质检，大幅降低残次品率，减少人力成本；\n\n　　零售、供应链企业用AI预测销量、调控库存，彻底解决货品积压、缺货亏损的老问...",
+      "highlights": [
+        "未来企业的AI投入、行业并购、科技上市交易，只会越来越多",
+        "03 为什么AI绝对不是泡沫",
+        "判断一个赛道是不是泡沫，不用看估值、看热度，只看一点：有没有真实落地价值，能不能实实在在提升效率、降低成本"
+      ],
+      "url": "https://k.sina.com.cn/article_5952915720_162d2490806704tvia.html?from=tech",
+      "source": "k.sina.com.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-14T00:04:30Z"
+    },
+    {
+      "id": "4cde35b1cdfb",
+      "title": "Anthropic与特朗普相关Rum Group达成137亿美元大单，能否力挺IPO估值再冲高？",
+      "summary": "tradingkey.logo\n\n搜索\n\n\n\n一键诊股 让投资更聪明\n\n\n\nTradingKey\n\n作者Block Tao\n\n2026年9月14日 02:12\n\nAI播客\n\nfacebooktwitterlinkedin\n\nAnthropic与Rum Group达成137亿美元的6年算力采购协议，为其Claude模型迭代提供算力支撑并夯实IPO基本面。该合作有望增强其在政企及国防采购中的渗透力...",
+      "highlights": [
+        "tradingkey.logo",
+        "一键诊股 让投资更聪明",
+        "作者Block Tao"
+      ],
+      "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262165355-stock-anthropic-trump-rum-group-ai-ipo-tradingkey",
+      "source": "tradingkey.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-13T11:00:00Z"
+    },
+    {
+      "id": "acd97d6916c2",
+      "title": "小智一周要闻 | 宇树市值跌破2000亿元；京东宣布5年内采购300万台机器人",
+      "summary": "图片来源：超维动力\n\n超维动力成立于2025年9月，是一家全栈具身智能大模型公司，创始团队由华为自动驾驶资深高管、香港大学技术专家，以及在人形机器人领域拥有多次创业经验的连续创业者共同组成，具有技术创新、工程实现与商业化落地的完整闭环能力。\n\n在过去不到一年的时间里，超维动力已经发布了原生具身大模型、KAI Halo Lite轻量化数据采集头环、具身智能AI Infra平台、超高拟人通用人形机器人...",
+      "highlights": [
+        "超维动力成立于2025年9月，是一家全栈具身智能大模型公司，创始团队由华为自动驾驶资深高管、香港大学技术专家，以及在人形机器人领域拥有多次创业经验的连续创业者共同组成，具有技术创新、工程实现与商业化落地的完整闭环能力",
+        "在过去不到一年的时间里，超维动力已经发布了原生具身大模型、KAI Halo Lite轻量化数据采集头环、具身智能AI Infra平台、超高拟人通用人形机器人本体KAIBot以及高自由度灵巧手KAI Hand等产品",
+        "其中，超维动力的KAI Hand、KAI Halo Lite均已在全球范围内同步开售，产品已交付给产业客户"
+      ],
+      "url": "https://www.gasgoo.com/robot/news/70471899-%E5%B0%8F%E6%99%BA%E4%B8%80%E5%91%A8%E8%A6%81%E9%97%BB-%E5%AE%87%E6%A0%91%E5%B8%82%E5%80%BC%E8%B7%8C%E7%A0%B42000%E4%BA%BF%E5%85%83",
+      "source": "gasgoo.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-13T08:00:00Z"
+    },
+    {
       "id": "7734af919e97",
       "title": "黄仁勋或砸100亿投注Anthropic巨额IPO",
       "summary": "英伟达正在与Anthropic谈判，计划投资最多100亿美元参与后者即将启动的史上最大IPO。Anthropic此次计划融资1000亿美元，目标估值高达2万亿美元，将超越SpaceX成为人类",
@@ -503,19 +767,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-09-12T06:00:00Z"
-    },
-    {
-      "id": "16c221a970b4",
-      "title": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says - Axios",
-      "summary": "# OpenAI delaying IPO amid AI safety concerns, Sam Altman says. Add Axios as your preferred source to. see more of our stories on Google. OpenAI will not go public this year given all the safety work ...",
-      "highlights": [
-        "# OpenAI delaying IPO amid AI safety concerns, Sam Altman says. Add Axios as your preferred source to. see more of our stories on Google. OpenAI will not go public this year given all the safety work it needs to do, CEO Sam Altman said in a Fortune interview released Saturday. **Why it matters:** Altman's comments come as fears over doomsday AI scenarios have ramped up since an Anthropic employee resigned and issued a dire warning about AI's capabilities. **What they're saying:** \"Right now would be an ill-advised moment to go public,\" Altman said. We got a lot of stuff to do.\". **The intrigue:** The market expected blockbuster IPOs from both OpenAI and Anthropic this year. * Altman's move puts the ball squarely in Anthropic CEO Dario Amodei's court — especially given Amodei's warning Saturday that AI development needs to be slowed. *Editor's note: This is a breaking news story and will be updated with more information.*. ##### What to read next."
-      ],
-      "url": "https://www.axios.com/2026/09/12/openai-public-ipo-delay-sam-altman",
-      "source": "axios.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-12T19:18:32Z"
     },
     {
       "id": "b3b5bc18a7be",
@@ -574,51 +825,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-09-11T17:58:34Z"
-    },
-    {
-      "id": "a9c7e4ca5fc5",
-      "title": "2026外滩大会投资人圆桌：AI投资向“两端”倾斜，具身智能仍在早期爬坡",
-      "summary": "另有机构透露，内部设立了AI Lab，通过每周跟踪AI应用榜单、测试大模型及AI产品、关注前沿论文第一作者等方式系统性挖掘项目。“移动互联网时代是团队创业，AI时代已进入个人创业阶段，很多优秀产品在社交媒体上就能直接触达。”\n\n　　投资逻辑：兼顾前沿科技与应用落地，向“两端”倾斜\n\n　　针对“投资更偏向技术上游还是应用层”的疑问，多位投资人强调“协同布局”的思路。一方面，机构会超前布局固态电池、机...",
-      "highlights": [
-        "另有机构透露，内部设立了AI Lab，通过每周跟踪AI应用榜单、测试大模型及AI产品、关注前沿论文第一作者等方式系统性挖掘项目",
-        "“移动互联网时代是团队创业，AI时代已进入个人创业阶段，很多优秀产品在社交媒体上就能直接触达",
-        "投资逻辑：兼顾前沿科技与应用落地，向“两端”倾斜"
-      ],
-      "url": "https://k.sina.com.cn/article_5953466437_162dab0450670bc4ve.html?from=tech",
-      "source": "k.sina.com.cn",
-      "category": "前沿理论",
-      "importance": 5,
-      "publishedAt": "2026-09-11T17:20:02Z"
-    },
-    {
-      "id": "ece0edcce671",
-      "title": "云服务商纷纷下场自研，算力竞争进入芯片定义时代",
-      "summary": "[](\n\n 时政\n 热点\n 政务\n 深瞳\n 访谈\n 视频\n 国际\n 地方\n 专题\n English\n 滚动\n\n[](  登录 -\n\n所在位置： 中国科技网首页 > 滚动 > 正文\n\n# 科技创新世界潮 | 云服务商纷纷下场自研，算力竞争进入芯片定义时代\n\n2026-09-12 01:45:00 来源:  科技日报  点击数：\n\n科技日报实习记者 姚易安 科技日报记者 张梦然\n\n8月31日，英伟达与...",
-      "highlights": [
-        "所在位置： 中国科技网首页 > 滚动 > 正文",
-        "# 科技创新世界潮 | 云服务商纷纷下场自研，算力竞争进入芯片定义时代",
-        "2026-09-12 01:45:00 来源:  科技日报  点击数："
-      ],
-      "url": "https://www.stdaily.com/web/gdxw/2026-09/12/content_579482.html",
-      "source": "stdaily.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-11T17:00:00Z"
-    },
-    {
-      "id": "069975d36d37",
-      "title": "这家小公司估值已达180亿美元：谷歌挑战英伟达的“秘密武器”",
-      "summary": "疫情期间，Fluidstack的业务转向从企业与高校实验室整批租赁GPU算力。后来，公司陆续拿下Poolside、Mistral、Character.ai等初创公司的合作订单。ChatGPT推出后，公司业务进一步扩张，开始在其他企业的数据中心内运营由数千块GPU组成的AI超算集群。根据Fluidstack在英国公司备案文件中披露的最新财务数据，2024年公司营收飙升至6600万美元以上。\n\n到20...",
-      "highlights": [
-        "疫情期间，Fluidstack的业务转向从企业与高校实验室整批租赁GPU算力",
-        "后来，公司陆续拿下Poolside、Mistral、Character.ai等初创公司的合作订单",
-        "ChatGPT推出后，公司业务进一步扩张，开始在其他企业的数据中心内运营由数千块GPU组成的AI超算集群"
-      ],
-      "url": "https://www.forbeschina.com/fga/72137",
-      "source": "forbeschina.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-11T18:00:00Z"
     }
   ]
 }
