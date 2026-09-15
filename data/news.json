@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T06:01:47Z",
+  "updatedAt": "2026-09-15T12:01:43Z",
   "latest": [
     {
       "id": "5c198ed5f845",
@@ -15,36 +15,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-09-14T00:04:30Z"
-    },
-    {
-      "id": "4cde35b1cdfb",
-      "title": "Anthropic与特朗普相关Rum Group达成137亿美元大单，能否力挺IPO估值再冲高？",
-      "summary": "tradingkey.logo\n\n搜索\n\n\n\n一键诊股 让投资更聪明\n\n\n\nTradingKey\n\n作者Block Tao\n\n2026年9月14日 02:12\n\nAI播客\n\nfacebooktwitterlinkedin\n\nAnthropic与Rum Group达成137亿美元的6年算力采购协议，为其Claude模型迭代提供算力支撑并夯实IPO基本面。该合作有望增强其在政企及国防采购中的渗透力...",
-      "highlights": [
-        "tradingkey.logo",
-        "一键诊股 让投资更聪明",
-        "作者Block Tao"
-      ],
-      "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262165355-stock-anthropic-trump-rum-group-ai-ipo-tradingkey",
-      "source": "tradingkey.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-13T11:00:00Z"
-    },
-    {
-      "id": "acd97d6916c2",
-      "title": "小智一周要闻 | 宇树市值跌破2000亿元；京东宣布5年内采购300万台机器人",
-      "summary": "图片来源：超维动力\n\n超维动力成立于2025年9月，是一家全栈具身智能大模型公司，创始团队由华为自动驾驶资深高管、香港大学技术专家，以及在人形机器人领域拥有多次创业经验的连续创业者共同组成，具有技术创新、工程实现与商业化落地的完整闭环能力。\n\n在过去不到一年的时间里，超维动力已经发布了原生具身大模型、KAI Halo Lite轻量化数据采集头环、具身智能AI Infra平台、超高拟人通用人形机器人...",
-      "highlights": [
-        "超维动力成立于2025年9月，是一家全栈具身智能大模型公司，创始团队由华为自动驾驶资深高管、香港大学技术专家，以及在人形机器人领域拥有多次创业经验的连续创业者共同组成，具有技术创新、工程实现与商业化落地的完整闭环能力",
-        "在过去不到一年的时间里，超维动力已经发布了原生具身大模型、KAI Halo Lite轻量化数据采集头环、具身智能AI Infra平台、超高拟人通用人形机器人本体KAIBot以及高自由度灵巧手KAI Hand等产品",
-        "其中，超维动力的KAI Hand、KAI Halo Lite均已在全球范围内同步开售，产品已交付给产业客户"
-      ],
-      "url": "https://www.gasgoo.com/robot/news/70471899-%E5%B0%8F%E6%99%BA%E4%B8%80%E5%91%A8%E8%A6%81%E9%97%BB-%E5%AE%87%E6%A0%91%E5%B8%82%E5%80%BC%E8%B7%8C%E7%A0%B42000%E4%BA%BF%E5%85%83",
-      "source": "gasgoo.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-13T08:00:00Z"
     },
     {
       "id": "0b43337f4db0",
@@ -152,17 +122,19 @@
       "publishedAt": "2026-09-15T03:00:00Z"
     },
     {
-      "id": "32cca649f378",
-      "title": "It’s All Fun and Games Until You Give AI Your Credit Card - The Atlantic",
-      "summary": "# It’s All Fun and Games Until You Give AI Your Credit Card. AI personal assistants are now acting on people’s behalf in the real world—and all sorts of strange things are going wrong. Now a new bot c...",
+      "id": "a0e754488f1d",
+      "title": "从GPU到端侧AI：中国AI芯片集团军突围",
+      "summary": "2026年上半年分化加剧：摩尔线程营收17.36亿元已超去年全年，亏损收窄95.7%；寒武纪Q2净利率41.71%创新高；壁仞半年营收暴增18倍。但行业共识是年营收30至50亿元、毛利率50%以上方能自我造血，目前仅海光信息和寒武纪跨过门槛。\n\n【图表：中国AI芯片自给率预测图】\n\n中国AI智算GPU市场规模2020年142.86亿元增至2024年996.72亿元，CAGR达62.5%，预计202...",
       "highlights": [
-        "# It’s All Fun and Games Until You Give AI Your Credit Card. AI personal assistants are now acting on people’s behalf in the real world—and all sorts of strange things are going wrong. Now a new bot called Instinct is outperforming the AI giants. Instinct lets people ask for help with all kinds of tasks by texting the bot directly through iMessage or WhatsApp. Lately, it has been all the rage in the tech world. When AI agents have access to your email inbox and credit-card information, all sorts of strange things can go wrong. (Compare that with ChatGPT, which is always vomiting up walls of text and asking goading follow-up questions.) When I gave my agent a $25 budget and asked it to surprise my editor with a book, the bot read his previous writing (at my instruction), found a book he might enjoy—*Material World* by Ed Conway—and sent an email alerting him that it was ready for pick-up at his local Barnes & Noble."
+        "2026年上半年分化加剧：摩尔线程营收17.36亿元已超去年全年，亏损收窄95.7%；寒武纪Q2净利率41.71%创新高；壁仞半年营收暴增18倍",
+        "但行业共识是年营收30至50亿元、毛利率50%以上方能自我造血，目前仅海光信息和寒武纪跨过门槛",
+        "【图表：中国AI芯片自给率预测图】"
       ],
-      "url": "https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/",
-      "source": "theatlantic.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-13T11:30:00Z"
+      "url": "https://ijiwei.com/n/1107447",
+      "source": "ijiwei.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-15T04:00:00Z"
     },
     {
       "id": "0ef650f8668f",
@@ -261,21 +233,6 @@
       "category": "产品进展",
       "importance": 4,
       "publishedAt": "2026-09-14T07:00:00Z"
-    },
-    {
-      "id": "7450fda08b65",
-      "title": "智能落地资本向实，江苏耐心资本作答“具身”时代",
-      "summary": "南京建邺区河西中央科创区紧扣“人工智能+半导体”主题，每年安排5000万元算力补贴资金，有序开放金融、交通、医保等高价值公共数据，设立紫金山科创百亿元母基金，构建种子—天使—VC—PE—并购—S基金（私募股权二级市场基金）完整链条。\n\n刘博的观察与上述基金小镇和科创区形成呼应：“江苏南京高校资源雄厚，制造业基础扎实，玄武区等区域服务业快速增长，可以为商业服务机器人提供真实开放测试场景。”\n\n新华日...",
-      "highlights": [
-        "南京建邺区河西中央科创区紧扣“人工智能+半导体”主题，每年安排5000万元算力补贴资金，有序开放金融、交通、医保等高价值公共数据，设立紫金山科创百亿元母基金，构建种子—天使—VC—PE—并购—S基金（私募股权二级市场基金）完整链条",
-        "刘博的观察与上述基金小镇和科创区形成呼应：“江苏南京高校资源雄厚，制造业基础扎实，玄武区等区域服务业快速增长，可以为商业服务机器人提供真实开放测试场景",
-        "新华日报·财经记者 何玥颐"
-      ],
-      "url": "https://www.xhby.net/content/s6aa675fde4b0c7c3ee73cf94.html",
-      "source": "xhby.net",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-09-13T09:00:00Z"
     },
     {
       "id": "ce113f4d2fb4",
@@ -402,6 +359,50 @@
       "publishedAt": "2026-09-13T15:08:28Z"
     },
     {
+      "id": "3cc9eb82f8d2",
+      "title": "从芯片到生态，芯桥半导体以自主GPU打造全栈协同的云边端算力体系 - 芯师爷",
+      "summary": "平台搭载基于强化学习的动态智能调度引擎，可根据任务优先级、实时资源负载状态自动完成算力分配与弹性伸缩，同时具备节点实时监控、故障自动隔离、节点健康自愈、资源数据可视化等全维度运维能力，构建起“资源管理-智能调度-模型运行-系统监控”的全流程闭环，大幅提升集群算力利用率与系统运行稳定性，真正实现全域算力高效协同、价值最大化释放。\n\n随着国产智能化转型持续深化，自主可控、全栈协同、场景适配将成为智算产...",
+      "highlights": [
+        "平台搭载基于强化学习的动态智能调度引擎，可根据任务优先级、实时资源负载状态自动完成算力分配与弹性伸缩，同时具备节点实时监控、故障自动隔离、节点健康自愈、资源数据可视化等全维度运维能力，构建起“资源管理-智能调度-模型运行-系统监控”的全流程闭环，大幅提升集群算力利用率与系统运行稳定性，真正实现全域算力高效协同、价值最大化释放",
+        "随着国产智能化转型持续深化，自主可控、全栈协同、场景适配将成为智算产业发展的核心关键词",
+        "芯桥半导体以自主芯片IP为底层根基，串联硬件、整机、软件、场景的全栈生态布局，在国产通用算力的落地上形成了差异化探索路径"
+      ],
+      "url": "https://www.gsi24.com/a/3125.html",
+      "source": "gsi24.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-09-15T03:00:00Z"
+    },
+    {
+      "id": "c2d7d1274844",
+      "title": "飞书×豆包工作合体首秀：让AI进群、开会、写周报- AI",
+      "summary": "【亿邦原创】9月15日，2026飞书未来无限大会暨豆包工作开工大会在北京举办。飞书发布8.0版本，并同步发布国内首个团队智能体产品“豆包工作伙伴”。这是飞书与豆包工作",
+      "highlights": [
+        "【亿邦原创】9月15日，2026飞书未来无限大会暨豆包工作开工大会在北京举办",
+        "飞书发布8.0版本，并同步发布国内首个团队智能体产品“豆包工作伙伴”"
+      ],
+      "url": "https://www.ebrun.com/20260915/708207.shtml",
+      "source": "ebrun.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-15T05:00:00Z"
+    },
+    {
+      "id": "ff25b83e2259",
+      "title": "Anthropic, OpenAI, Google Discuss Common AI Safety Standards",
+      "summary": "·   3 minute read\n\nChannel Insider content and product recommendations are editorially independent. We may make money when you click on links to our partners.  Learn More\n\nAnthropic, Google, and OpenA...",
+      "highlights": [
+        "·   3 minute read",
+        "Channel Insider content and product recommendations are editorially independent. We may make money when you click on links to our partners.  Learn More",
+        "Anthropic, Google, and OpenAI have discussed creating an industry standards body that could establish common standards for evaluating advanced AI models before they are widely deployed. [...] Advertisement"
+      ],
+      "url": "https://www.channelinsider.com/ai/news-anthropic-openai-google-ai-standards-body",
+      "source": "channelinsider.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-14T20:43:55Z"
+    },
+    {
       "id": "62f3ee29ce29",
       "title": "Trump downplays AI risks after dire expert warnings and calls to slow development down - BBC",
       "summary": "# Trump downplays AI risks after dire expert warnings and calls to slow development down. One of the warnings came from a former Anthropic researcher who said \"there is a strong chance that we could a...",
@@ -415,17 +416,19 @@
       "publishedAt": "2026-09-13T16:29:27Z"
     },
     {
-      "id": "bf2c63aa12df",
-      "title": "Anthropic CEO urges AI companies to slow model development - iTnews",
-      "summary": "## Anthropic CEO urges AI companies to slow model development ## Optus outage attributed to hardware failure at exchange ## In Pictures: Security in the age of shadow AI VITG Melbourne roundtable ## I...",
+      "id": "be3b0e0ac797",
+      "title": "蚂蚁发布大模型内生式安全护栏SingProbe，让AI边生成边识别风险 | 雷峰网",
+      "summary": "全球「AI学术顶会」精华汇聚地\n雷峰网\n\n0\n\n# 蚂蚁发布大模型内生式安全护栏SingProbe，让AI边生成边识别风险\n\n|  |  |\n --- |\n| 本文作者： Nemo | 2026-09-14 21:22 |\n\n大模型正在进入日常问答、办公辅助、客户服务等真实业务场景。用户期待AI快速给出有用的回答，也需要这些回答安全、可靠。如何及时发现不安全内容和编造信息，同时减少安全审核对响应速...",
       "highlights": [
-        "## Anthropic CEO urges AI companies to slow model development ## Optus outage attributed to hardware failure at exchange ## In Pictures: Security in the age of shadow AI VITG Melbourne roundtable ## In Pictures: Governing hybrid cloud Tecala & Microsoft roundtable ## Miro snapped up by Bending Spoons. # Anthropic CEO urges AI companies to slow model development. Anthropic CEO Dario Amodei called on AI companies to slow the rate at which they advance model capabilities amid mounting ⁠fears of misuse ⁠of artificial intelligence, outlining a three-step framework intended to pace development and create more time to manage its risks. Amodei's three-step plan calls for independent reviewers inside leading ‌AI ‌companies, coordination among frontier AI firms to set safety standards and limit unchecked AI development, and international ‌cooperation to manage AI risks. Amodei pointed to AI's growing ability to improve itself, highlighting long-held concerns about it outpacing human ability to control operation along with the recent incident involving OpenAI and Hugging Face as his primary reasons to put the brakes on model advances."
+        "全球「AI学术顶会」精华汇聚地",
+        "# 蚂蚁发布大模型内生式安全护栏SingProbe，让AI边生成边识别风险",
+        "| 本文作者： Nemo | 2026-09-14 21:22 |"
       ],
-      "url": "https://www.itnews.com.au/news/anthropic-ceo-urges-ai-companies-to-slow-model-development-628875",
-      "source": "itnews.com.au",
+      "url": "https://www.leiphone.com/category/industrynews/pvwJSKM5MEEd1H5N.html",
+      "source": "leiphone.com",
       "category": "模型发布",
       "importance": 3,
-      "publishedAt": "2026-09-13T07:16:00Z"
+      "publishedAt": "2026-09-14T13:00:00Z"
     }
   ],
   "today": [
@@ -445,6 +448,65 @@
       "publishedAt": "2026-09-15T03:00:00Z"
     },
     {
+      "id": "a0e754488f1d",
+      "title": "从GPU到端侧AI：中国AI芯片集团军突围",
+      "summary": "2026年上半年分化加剧：摩尔线程营收17.36亿元已超去年全年，亏损收窄95.7%；寒武纪Q2净利率41.71%创新高；壁仞半年营收暴增18倍。但行业共识是年营收30至50亿元、毛利率50%以上方能自我造血，目前仅海光信息和寒武纪跨过门槛。\n\n【图表：中国AI芯片自给率预测图】\n\n中国AI智算GPU市场规模2020年142.86亿元增至2024年996.72亿元，CAGR达62.5%，预计202...",
+      "highlights": [
+        "2026年上半年分化加剧：摩尔线程营收17.36亿元已超去年全年，亏损收窄95.7%；寒武纪Q2净利率41.71%创新高；壁仞半年营收暴增18倍",
+        "但行业共识是年营收30至50亿元、毛利率50%以上方能自我造血，目前仅海光信息和寒武纪跨过门槛",
+        "【图表：中国AI芯片自给率预测图】"
+      ],
+      "url": "https://ijiwei.com/n/1107447",
+      "source": "ijiwei.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-15T04:00:00Z"
+    },
+    {
+      "id": "3cc9eb82f8d2",
+      "title": "从芯片到生态，芯桥半导体以自主GPU打造全栈协同的云边端算力体系 - 芯师爷",
+      "summary": "平台搭载基于强化学习的动态智能调度引擎，可根据任务优先级、实时资源负载状态自动完成算力分配与弹性伸缩，同时具备节点实时监控、故障自动隔离、节点健康自愈、资源数据可视化等全维度运维能力，构建起“资源管理-智能调度-模型运行-系统监控”的全流程闭环，大幅提升集群算力利用率与系统运行稳定性，真正实现全域算力高效协同、价值最大化释放。\n\n随着国产智能化转型持续深化，自主可控、全栈协同、场景适配将成为智算产...",
+      "highlights": [
+        "平台搭载基于强化学习的动态智能调度引擎，可根据任务优先级、实时资源负载状态自动完成算力分配与弹性伸缩，同时具备节点实时监控、故障自动隔离、节点健康自愈、资源数据可视化等全维度运维能力，构建起“资源管理-智能调度-模型运行-系统监控”的全流程闭环，大幅提升集群算力利用率与系统运行稳定性，真正实现全域算力高效协同、价值最大化释放",
+        "随着国产智能化转型持续深化，自主可控、全栈协同、场景适配将成为智算产业发展的核心关键词",
+        "芯桥半导体以自主芯片IP为底层根基，串联硬件、整机、软件、场景的全栈生态布局，在国产通用算力的落地上形成了差异化探索路径"
+      ],
+      "url": "https://www.gsi24.com/a/3125.html",
+      "source": "gsi24.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-09-15T03:00:00Z"
+    },
+    {
+      "id": "c2d7d1274844",
+      "title": "飞书×豆包工作合体首秀：让AI进群、开会、写周报- AI",
+      "summary": "【亿邦原创】9月15日，2026飞书未来无限大会暨豆包工作开工大会在北京举办。飞书发布8.0版本，并同步发布国内首个团队智能体产品“豆包工作伙伴”。这是飞书与豆包工作",
+      "highlights": [
+        "【亿邦原创】9月15日，2026飞书未来无限大会暨豆包工作开工大会在北京举办",
+        "飞书发布8.0版本，并同步发布国内首个团队智能体产品“豆包工作伙伴”"
+      ],
+      "url": "https://www.ebrun.com/20260915/708207.shtml",
+      "source": "ebrun.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-15T05:00:00Z"
+    },
+    {
+      "id": "edf33a37a2ed",
+      "title": "Sector Snapshot: AI Takes A Growing Share Of Sales And Marketing Startup Funding",
+      "summary": "Global Sales, Marketing And CRM Venture Funding In 2026\n\n## Related reading:\n\n Exclusive: Schematic Raises $6.5M To Help Companies Update Their Pricing Faster And Easier In The AI Era\n Exclusive: Winn...",
+      "highlights": [
+        "Global Sales, Marketing And CRM Venture Funding In 2026",
+        "## Related reading:",
+        "Exclusive: Schematic Raises $6.5M To Help Companies Update Their Pricing Faster And Easier In The AI Era"
+      ],
+      "url": "https://news.crunchbase.com/sales-marketing/ai-growing-share-ecommerce-saas-crm-startup-funding",
+      "source": "news.crunchbase.com",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-09-15T11:00:38Z"
+    },
+    {
       "id": "9931d458c7f2",
       "title": "竞天公诚引入三位投资与资本市场合伙人",
       "summary": "竞天公诚律师事务所近日引入三位合伙人：刘洪川和陈欢加入北京办公室，顾明珠加入深圳办公室，进一步强化该所在跨境投资与并购、私募股权与风险投资、境内外资本市场和",
@@ -456,6 +518,36 @@
       "category": "投并购",
       "importance": 2,
       "publishedAt": "2026-09-15T03:00:00Z"
+    },
+    {
+      "id": "ad815b748793",
+      "title": "企业风险投资全产业链陪跑",
+      "summary": "## 链主直接下注长周期“深水区”，提供技术资源生态支持\n\n# 企业风险投资全产业链陪跑\n\n## 上海科创基金三期强化布局 直接融资“20条”鼓励进一步创新赋能\n\n####",
+      "highlights": [
+        "## 链主直接下注长周期“深水区”，提供技术资源生态支持",
+        "# 企业风险投资全产业链陪跑",
+        "## 上海科创基金三期强化布局 直接融资“20条”鼓励进一步创新赋能"
+      ],
+      "url": "https://www.jfdaily.com/journal/getMobileArticle.htm?id=534291",
+      "source": "jfdaily.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-09-15T03:00:00Z"
+    },
+    {
+      "id": "58ad7e0b2d98",
+      "title": "近30家企业布局！具身智能机器人会是车企的“救命稻草”吗？",
+      "summary": "车企布局具身智能，是自救还是新曲线？文｜编辑部冰火两重天，或许是当下资本市场对智能汽车与具身智能赛道最真实的态度写照。刚刚过去的财报季，小鹏集团交出了一份令",
+      "highlights": [
+        "车企布局具身智能，是自救还是新曲线",
+        "文｜编辑部冰火两重天，或许是当下资本市场对智能汽车与具身智能赛道最真实的态度写照",
+        "刚刚过去的财报季，小鹏集团交出了一份令"
+      ],
+      "url": "https://www.eet-china.com/mp/a525060.html",
+      "source": "eet-china.com",
+      "category": "具身智能",
+      "importance": 2,
+      "publishedAt": "2026-09-15T10:00:00Z"
     }
   ],
   "week": [
@@ -580,6 +672,21 @@
       "publishedAt": "2026-09-15T03:00:00Z"
     },
     {
+      "id": "a0e754488f1d",
+      "title": "从GPU到端侧AI：中国AI芯片集团军突围",
+      "summary": "2026年上半年分化加剧：摩尔线程营收17.36亿元已超去年全年，亏损收窄95.7%；寒武纪Q2净利率41.71%创新高；壁仞半年营收暴增18倍。但行业共识是年营收30至50亿元、毛利率50%以上方能自我造血，目前仅海光信息和寒武纪跨过门槛。\n\n【图表：中国AI芯片自给率预测图】\n\n中国AI智算GPU市场规模2020年142.86亿元增至2024年996.72亿元，CAGR达62.5%，预计202...",
+      "highlights": [
+        "2026年上半年分化加剧：摩尔线程营收17.36亿元已超去年全年，亏损收窄95.7%；寒武纪Q2净利率41.71%创新高；壁仞半年营收暴增18倍",
+        "但行业共识是年营收30至50亿元、毛利率50%以上方能自我造血，目前仅海光信息和寒武纪跨过门槛",
+        "【图表：中国AI芯片自给率预测图】"
+      ],
+      "url": "https://ijiwei.com/n/1107447",
+      "source": "ijiwei.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-15T04:00:00Z"
+    },
+    {
       "id": "70924aaafaad",
       "title": "‘All Together Now’ in AI. Anthropic, OpenAI & Elon’s ‘Blip 3.0’. ARD #162",
       "summary": "Then the Gadget AI, on Apple quietly mixing modems in the new iPhone 18 Pro Max. All together now, Apple style.\n\n## (1) Anthropic’s Latest AI Essay: ‘We Must Pace the Frontier’\n\nFirst up. Anthropic CE...",
@@ -665,21 +772,6 @@
       "category": "前沿理论",
       "importance": 4,
       "publishedAt": "2026-09-14T06:00:00Z"
-    },
-    {
-      "id": "747e0c6a9777",
-      "title": "RISC-V数据流物理AI芯片量产！",
-      "summary": "高光D35的优势不仅仅是单一维度，而是三重“领先级创意”的叠加。领先级量产级数据流AI芯片。“数据流架构”提出已逾60年，却长期停留在学术研究阶段。高光D35是首款实现商业化量产的数据流架构AI芯片。领先级RISC-V架构的数据流AI芯片。高光D35将RISC-V开放指令集与数据流计算架构深度融合，既拥有开放生态的自由度，又具备数据流架构的能效优势，双路线叠加形成独特的技术壁垒。领先级明确锚定“物...",
-      "highlights": [
-        "高光D35的优势不仅仅是单一维度，而是三重“领先级创意”的叠加",
-        "领先级量产级数据流AI芯片",
-        "“数据流架构”提出已逾60年，却长期停留在学术研究阶段"
-      ],
-      "url": "https://www.sipac.gov.cn/szgyyq/jsdt/202609/b30466db66564d679d6427b80c59cc51.shtml",
-      "source": "sipac.gov.cn",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-09-14T15:37:22Z"
     }
   ],
   "month": [
@@ -819,17 +911,19 @@
       "publishedAt": "2026-09-14T13:00:00Z"
     },
     {
-      "id": "16c221a970b4",
-      "title": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says - Axios",
-      "summary": "# OpenAI delaying IPO amid AI safety concerns, Sam Altman says. Add Axios as your preferred source to. see more of our stories on Google. OpenAI will not go public this year given all the safety work ...",
+      "id": "6cd88de5b88e",
+      "title": "从GPU到端侧AI：中国AI芯片集团军突围 - 集微网",
+      "summary": "2026年上半年分化加剧：摩尔线程营收17.36亿元已超去年全年，亏损收窄95.7%；寒武纪Q2净利率41.71%创新高；壁仞半年营收暴增18倍。但行业共识是年营收30至50亿元、毛利率50%以上方能自我造血，目前仅海光信息和寒武纪跨过门槛。\n\n【图表：中国AI芯片自给率预测图】\n\n中国AI智算GPU市场规模2020年142.86亿元增至2024年996.72亿元，CAGR达62.5%，预计202...",
       "highlights": [
-        "# OpenAI delaying IPO amid AI safety concerns, Sam Altman says. Add Axios as your preferred source to. see more of our stories on Google. OpenAI will not go public this year given all the safety work it needs to do, CEO Sam Altman said in a Fortune interview released Saturday. **Why it matters:** Altman's comments come as fears over doomsday AI scenarios have ramped up since an Anthropic employee resigned and issued a dire warning about AI's capabilities. **What they're saying:** \"Right now would be an ill-advised moment to go public,\" Altman said. We got a lot of stuff to do.\". **The intrigue:** The market expected blockbuster IPOs from both OpenAI and Anthropic this year. * Altman's move puts the ball squarely in Anthropic CEO Dario Amodei's court — especially given Amodei's warning Saturday that AI development needs to be slowed. *Editor's note: This is a breaking news story and will be updated with more information.*. ##### What to read next."
+        "2026年上半年分化加剧：摩尔线程营收17.36亿元已超去年全年，亏损收窄95.7%；寒武纪Q2净利率41.71%创新高；壁仞半年营收暴增18倍",
+        "但行业共识是年营收30至50亿元、毛利率50%以上方能自我造血，目前仅海光信息和寒武纪跨过门槛",
+        "【图表：中国AI芯片自给率预测图】"
       ],
-      "url": "https://www.axios.com/2026/09/12/openai-public-ipo-delay-sam-altman",
-      "source": "axios.com",
-      "category": "模型发布",
+      "url": "http://laoyaoba.com/n/1107447",
+      "source": "laoyaoba.com",
+      "category": "芯片硬件",
       "importance": 5,
-      "publishedAt": "2026-09-12T19:18:32Z"
+      "publishedAt": "2026-09-15T03:00:00Z"
     }
   ]
 }
