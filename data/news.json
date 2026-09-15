@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T12:01:43Z",
+  "updatedAt": "2026-09-15T18:01:35Z",
   "latest": [
     {
       "id": "5c198ed5f845",
@@ -137,17 +137,58 @@
       "publishedAt": "2026-09-15T04:00:00Z"
     },
     {
-      "id": "0ef650f8668f",
-      "title": "In the Wild West of AI, Everybody Is Accusing Everybody Else of Theft - Gizmodo",
-      "summary": "In a statement published Tuesday, the U.S. Cybersecurity & Infrastructure Security Agency (CISA) said that some of the biggest Chinese AI firms—DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun, and Z....",
+      "id": "e88aad8d8a7d",
+      "title": "一级市场的分化，比想象中更残酷-虎嗅网",
+      "summary": "转折发生在7月底：美联储议息偏鹰、日本央行加息，海外流动性收紧；ZD Group打新爆雷，涉案资金超20亿港元，再叠加某新股包盘发行被查；整个7月，新股首日破发率超过四成。\n\n随后的8月，新股发行断崖式下跌：整个8月仅2只新股上市，募资37.3亿港元——而7月是17只、超1200亿。\n\n然而，截至9月1日，港股排队企业仍有379家（港交所口径559家，含待发行）；另有大量秘密递交未计入，据称超过4...",
       "highlights": [
-        "In a statement published Tuesday, the U.S. Cybersecurity & Infrastructure Security Agency (CISA) said that some of the biggest Chinese AI firms—DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun, and Z.ai—“are conducting systematic extraction of proprietary functionalities and capabilities of U.S. AI companies’ models through industrial-scale knowledge distillation campaigns that form the core—not merely a supplement—of their AI development strategy.” All this was likely being carried out with the knowledge and blessing of the Chinese government, according to CISA. Guo’s letter to OpenAI is the first known case of a Chinese developer accusing an American company of distillation. The irony of AI companies calling foul on “illicit” distillation when much of their business model depends on the nonconsensual scraping of online content seems to be lost on OpenAI and Anthropic, both of which are preparing for what are expected to be record-breaking IPOs. At least for the time being, the line between “fair use” and theft within the unregulated AI industry is as hazy as the inner-workings of models themselves."
+        "转折发生在7月底：美联储议息偏鹰、日本央行加息，海外流动性收紧；ZD Group打新爆雷，涉案资金超20亿港元，再叠加某新股包盘发行被查；整个7月，新股首日破发率超过四成",
+        "随后的8月，新股发行断崖式下跌：整个8月仅2只新股上市，募资37.3亿港元——而7月是17只、超1200亿",
+        "然而，截至9月1日，港股排队企业仍有379家（港交所口径559家，含待发行）；另有大量秘密递交未计入，据称超过400家"
       ],
-      "url": "https://gizmodo.com/in-the-wild-west-of-ai-everybody-is-accusing-everybody-else-of-theft-2000810803",
-      "source": "gizmodo.com",
+      "url": "https://m.huxiu.com/article/4891197.html?type=text",
+      "source": "m.huxiu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-15T00:56:18Z"
+    },
+    {
+      "id": "c4d74ac5bad4",
+      "title": "Top AI companies have discussed creating their own standards body - CNN",
+      "summary": "# Top AI companies have discussed creating their own standards body. Anthropic, Google and OpenAI have discussed creating an AI industry standards body, people familiar with the situation told CNN. Ac...",
+      "highlights": [
+        "# Top AI companies have discussed creating their own standards body. Anthropic, Google and OpenAI have discussed creating an AI industry standards body, people familiar with the situation told CNN. According to those familiar with the situation, the catalyst for the discussions was a July essay written by Google DeepMind founder Demis Hassabis, who proposed a US-led Standards Body modeled on the Financial Industry Regulatory Authority. The conversations are ongoing, one of the people said, and they are continuing with or without the Trump administration. The White House has an opaque system in place where AI companies can voluntarily submit their latest models for government review up to 30 days before they are publicly released. House Speaker Mike Johnson told CNN on Sunday there’s little consensus among the companies, who are fierce competitors, on what the standards and guardrails should be."
+      ],
+      "url": "https://www.cnn.com/2026/09/14/tech/ai-standards-body",
+      "source": "cnn.com",
       "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-13T13:47:36Z"
+      "importance": 5,
+      "publishedAt": "2026-09-14T11:10:56Z"
+    },
+    {
+      "id": "2f204386282f",
+      "title": "Learn how to build lasting AI defensibility at Disrupt 2026 - TechCrunch",
+      "summary": "It may be the platform you’re building on. Every major release from OpenAI, Anthropic, or Google raises the same question: What happens if the feature you’ve spent the last year building suddenly beco...",
+      "highlights": [
+        "It may be the platform you’re building on. Every major release from OpenAI, Anthropic, or Google raises the same question: What happens if the feature you’ve spent the last year building suddenly becomes part of the platform? That changes almost every strategic decision — from what products to build and where to differentiate to how to raise capital and create lasting value. One of the biggest strategic risks facing AI startups today isn’t losing to another founder — it’s discovering that your competitive advantage has become someone else’s product update. This session explores where defensibility still exists, how founders can respond when AI giants move into adjacent markets, and what separates companies that become features from those that remain businesses. Rather than reacting to every new model release, founders will hear where defensibility still exists, what enterprise and startup buyers continue to value, and how to build companies that remain relevant as AI evolves. If you’re building an AI company, the question isn’t whether foundation models will continue to evolve."
+      ],
+      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "source": "techcrunch.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-14T15:00:00Z"
+    },
+    {
+      "id": "cb25537493ca",
+      "title": "Trump won’t put the brakes on AI because he wants to beat China. How big a threat is Beijing? - CNN",
+      "summary": "Brushing aside the calls from AI scientists and executives from Anthropic, OpenAI and Google to slow the development, US President Donald Trump said what was most important was keeping the US in the l...",
+      "highlights": [
+        "Brushing aside the calls from AI scientists and executives from Anthropic, OpenAI and Google to slow the development, US President Donald Trump said what was most important was keeping the US in the lead against China in the intensifying AI superpower race. Countries should “encourage open source, openness, collaboration and sharing,” he said in a speech in India to Global South leaders, in which he reiterated a proposal for a global AI governance pact – although he did not give details on what that framework would look like. The US appears to be increasingly weaponizing its dominance in the sector, seeing it as a strategic asset to be protected, and exported to friendly countries, while China, lagging in the race,isproposing a more open model. ## How big of a threat is China? Washington, as well as OpenAI and Anthropic, have alleged that Chinese companies stole American intellectual property by training their models on the outputs of frontier US models, a process known as distillation in the industry."
+      ],
+      "url": "https://www.cnn.com/2026/09/14/tech/china-trump-ai-explainer-intl-hnk",
+      "source": "cnn.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-14T08:23:56Z"
     },
     {
       "id": "41b22d4f708c",
@@ -191,19 +232,6 @@
       "category": "产品进展",
       "importance": 4,
       "publishedAt": "2026-09-13T22:00:00Z"
-    },
-    {
-      "id": "4eea07051c3d",
-      "title": "震撼突破！果蝇大脑成功接入ChatGPT 前沿脑机融合技术重大进展",
-      "summary": "在信息交互与沟通场景中，当对话推进至专属应答环节时，精准、清晰且贴合需求的内容输出是保障信息传递效率、消解受众疑问的核心关键，优质的应答内容可有效强化沟通链",
-      "highlights": [
-        "在信息交互与沟通场景中，当对话推进至专属应答环节时，精准、清晰且贴合需求的内容输出是保障信息传递效率、消解受众疑问的核心关键，优质的应答内容可有效强化沟通链"
-      ],
-      "url": "https://eu.36kr.com/zh/p/3982957231995910",
-      "source": "eu.36kr.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-13T17:00:00Z"
     },
     {
       "id": "f6f6a118df2b",
@@ -346,19 +374,6 @@
       "publishedAt": "2026-09-14T20:55:30Z"
     },
     {
-      "id": "9e80d1bdb370",
-      "title": "IPO Delayed: Sam Altman Says an OpenAI Going Public in 2026 Would Be ‘Ill-Advised’ - Yahoo Finance",
-      "summary": "3. Best money market accounts. * Rival Anthropic plans to go public before year-end at a valuation potentially reaching $2.3 trillion, while OpenAI now targets 2027. Our analysts combed the entire sto...",
-      "highlights": [
-        "3. Best money market accounts. * Rival Anthropic plans to go public before year-end at a valuation potentially reaching $2.3 trillion, while OpenAI now targets 2027. Our analysts combed the entire stock market and named the ten best stocks to buy right now. Asked directly about an offering that had been shaping up as one of the largest in market history, Altman said \"right now would be an ill-advised moment to go public\" and confirmed \"not 2026\" when pressed on timing. The delay lands as rival Anthropic plans to go public before the end of the year at a valuation some believe could reach $2.3 trillion. He said OpenAI needs to focus on \"meeting this moment of what is going to be required for safety and alignment, and how the industry and governments can work together\" and that \"society needs to contend with these models at each level of capability.\". **The Top 10 Stocks To Buy Now**. **The ten best stocks to buy right now.**."
-      ],
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ipo-delayed-sam-altman-says-150828134.html",
-      "source": "finance.yahoo.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-13T15:08:28Z"
-    },
-    {
       "id": "3cc9eb82f8d2",
       "title": "从芯片到生态，芯桥半导体以自主GPU打造全栈协同的云边端算力体系 - 芯师爷",
       "summary": "平台搭载基于强化学习的动态智能调度引擎，可根据任务优先级、实时资源负载状态自动完成算力分配与弹性伸缩，同时具备节点实时监控、故障自动隔离、节点健康自愈、资源数据可视化等全维度运维能力，构建起“资源管理-智能调度-模型运行-系统监控”的全流程闭环，大幅提升集群算力利用率与系统运行稳定性，真正实现全域算力高效协同、价值最大化释放。\n\n随着国产智能化转型持续深化，自主可控、全栈协同、场景适配将成为智算产...",
@@ -403,32 +418,17 @@
       "publishedAt": "2026-09-14T20:43:55Z"
     },
     {
-      "id": "62f3ee29ce29",
-      "title": "Trump downplays AI risks after dire expert warnings and calls to slow development down - BBC",
-      "summary": "# Trump downplays AI risks after dire expert warnings and calls to slow development down. One of the warnings came from a former Anthropic researcher who said \"there is a strong chance that we could a...",
+      "id": "658f8c7a2473",
+      "title": "On-device AI Is ready to challenge cloud dominance - TechCrunch",
+      "summary": "While much of the AI industry is still obsessed with building more data centres, on-device AI is challenging the notion that “bigger is better”. Tether AI Research recently shared the open-source rele...",
       "highlights": [
-        "# Trump downplays AI risks after dire expert warnings and calls to slow development down. One of the warnings came from a former Anthropic researcher who said \"there is a strong chance that we could all die in the immediate future\" if the current pace of development continued. Trump spoke on the same day AI researcher Jacob Coxon - who quit Anthropic a few days ago - told the BBC staff who were developing the systems were \"genuinely frightened\" for the future of humanity. Coxon – who has also worked at OpenAI – welcomed the idea of a slowdown but said it would need to be co-ordinated with China. On Saturday, Elon Musk, owner of xAI, and Sam Altman of OpenAI, backed a warning from the head of Anthropic Dario Amodei that the pace of development should be slowed \"to reduce the risk that something goes seriously wrong\". ## Anthropic boss Dario Amodei calls for AI development to slow down."
+        "While much of the AI industry is still obsessed with building more data centres, on-device AI is challenging the notion that “bigger is better”. Tether AI Research recently shared the open-source release of VisionPsy-Nano, a compact vision-language model (VLM) purpose-built for on-device and edge deployment that outperforms comparable models in its weight class, including Liquid AI’s LFM2.5-VL-450M and Hugging Face’s SmolVLM2-500M. A vision-language model is an AI system that pairs a text-processing language model with an image encoder, enabling it to perceive and reason about visual data. But for AI that runs directly on a smartphone, the real frontier sits at a much smaller scale: models of around half a billion parameters, small enough to fit within the memory and power budget of an everyday phone while still delivering dependable quality. This size class has become one of the most active fronts in open model development, with Liquid AI’s LFM vision models and Hugging Face’s SmolVLM and nanoVLM series as the closest peers at this scale."
       ],
-      "url": "https://www.bbc.com/news/articles/c7v48vp31mdo",
-      "source": "bbc.com",
-      "category": "前沿理论",
-      "importance": 3,
-      "publishedAt": "2026-09-13T16:29:27Z"
-    },
-    {
-      "id": "be3b0e0ac797",
-      "title": "蚂蚁发布大模型内生式安全护栏SingProbe，让AI边生成边识别风险 | 雷峰网",
-      "summary": "全球「AI学术顶会」精华汇聚地\n雷峰网\n\n0\n\n# 蚂蚁发布大模型内生式安全护栏SingProbe，让AI边生成边识别风险\n\n|  |  |\n --- |\n| 本文作者： Nemo | 2026-09-14 21:22 |\n\n大模型正在进入日常问答、办公辅助、客户服务等真实业务场景。用户期待AI快速给出有用的回答，也需要这些回答安全、可靠。如何及时发现不安全内容和编造信息，同时减少安全审核对响应速...",
-      "highlights": [
-        "全球「AI学术顶会」精华汇聚地",
-        "# 蚂蚁发布大模型内生式安全护栏SingProbe，让AI边生成边识别风险",
-        "| 本文作者： Nemo | 2026-09-14 21:22 |"
-      ],
-      "url": "https://www.leiphone.com/category/industrynews/pvwJSKM5MEEd1H5N.html",
-      "source": "leiphone.com",
+      "url": "https://techcrunch.com/sponsor/tether/on-device-ai-is-ready-to-challenge-cloud-dominance/",
+      "source": "techcrunch.com",
       "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-09-14T13:00:00Z"
+      "importance": 4,
+      "publishedAt": "2026-09-14T16:16:45Z"
     }
   ],
   "today": [
@@ -463,6 +463,21 @@
       "publishedAt": "2026-09-15T04:00:00Z"
     },
     {
+      "id": "e88aad8d8a7d",
+      "title": "一级市场的分化，比想象中更残酷-虎嗅网",
+      "summary": "转折发生在7月底：美联储议息偏鹰、日本央行加息，海外流动性收紧；ZD Group打新爆雷，涉案资金超20亿港元，再叠加某新股包盘发行被查；整个7月，新股首日破发率超过四成。\n\n随后的8月，新股发行断崖式下跌：整个8月仅2只新股上市，募资37.3亿港元——而7月是17只、超1200亿。\n\n然而，截至9月1日，港股排队企业仍有379家（港交所口径559家，含待发行）；另有大量秘密递交未计入，据称超过4...",
+      "highlights": [
+        "转折发生在7月底：美联储议息偏鹰、日本央行加息，海外流动性收紧；ZD Group打新爆雷，涉案资金超20亿港元，再叠加某新股包盘发行被查；整个7月，新股首日破发率超过四成",
+        "随后的8月，新股发行断崖式下跌：整个8月仅2只新股上市，募资37.3亿港元——而7月是17只、超1200亿",
+        "然而，截至9月1日，港股排队企业仍有379家（港交所口径559家，含待发行）；另有大量秘密递交未计入，据称超过400家"
+      ],
+      "url": "https://m.huxiu.com/article/4891197.html?type=text",
+      "source": "m.huxiu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-15T00:56:18Z"
+    },
+    {
       "id": "3cc9eb82f8d2",
       "title": "从芯片到生态，芯桥半导体以自主GPU打造全栈协同的云边端算力体系 - 芯师爷",
       "summary": "平台搭载基于强化学习的动态智能调度引擎，可根据任务优先级、实时资源负载状态自动完成算力分配与弹性伸缩，同时具备节点实时监控、故障自动隔离、节点健康自愈、资源数据可视化等全维度运维能力，构建起“资源管理-智能调度-模型运行-系统监控”的全流程闭环，大幅提升集群算力利用率与系统运行稳定性，真正实现全域算力高效协同、价值最大化释放。\n\n随着国产智能化转型持续深化，自主可控、全栈协同、场景适配将成为智算产...",
@@ -492,6 +507,71 @@
       "publishedAt": "2026-09-15T05:00:00Z"
     },
     {
+      "id": "3a50d7c6ca77",
+      "title": "Robi Axiata and Grameenphone join Bangladesh's AI subscription race - Developing Telecoms",
+      "summary": "## Robi Axiata and Grameenphone join Bangladesh's AI subscription race. Bangladesh telcos Grameenphone and Robi Axiata have launched separate AI subscription services that aim to make overseas AI mode...",
+      "highlights": [
+        "## Robi Axiata and Grameenphone join Bangladesh's AI subscription race. Bangladesh telcos Grameenphone and Robi Axiata have launched separate AI subscription services that aim to make overseas AI models easier to access and pay for. On Thursday, Grameenphone launched OneAI, which gives customers access to eight AI models, including ChatGPT, Claude, Grok, DeepSeek and Gemini. Grameenphone’s OneAI launch follows hot on the heels of Robi Axiata, which rolled out a similar service last Wednesday called Robi AI Space in partnership with Every.AI. Robi AI Space, accessible via the telco’s MyRobi app, brings AI models such as ChatGPT, Gemini, Claude, and DeepSeek directly to local consumers, who can pay for them via a single subscription, or by purchasing AI tokens using local mobile data bundles. Robi’s MD and CEO Ziad Shatara said making AI models easier to pay for removes a key barrier to AI adoption in Bangladesh, as international AI models require credit card payments, while credit card penetration in Bangladesh currently sits at just 1.6%."
+      ],
+      "url": "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/20826-robi-axiata-and-grameenphone-join-bangladeshs-ai-subscription-race.html",
+      "source": "developingtelecoms.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-15T04:21:58Z"
+    },
+    {
+      "id": "45b6b67d11ef",
+      "title": "Robi Axiata and Grameenphone join Bangladesh's AI subscription race - developingtelecoms.com",
+      "summary": "## Robi Axiata and Grameenphone join Bangladesh's AI subscription race. Bangladesh telcos Grameenphone and Robi Axiata have launched separate AI subscription services that aim to make overseas AI mode...",
+      "highlights": [
+        "## Robi Axiata and Grameenphone join Bangladesh's AI subscription race. Bangladesh telcos Grameenphone and Robi Axiata have launched separate AI subscription services that aim to make overseas AI models easier to access and pay for. On Thursday, Grameenphone launched OneAI, which gives customers access to eight AI models, including ChatGPT, Claude, Grok, DeepSeek and Gemini. Grameenphone’s OneAI launch follows hot on the heels of Robi Axiata, which rolled out a similar service last Wednesday called Robi AI Space in partnership with Every.AI. Robi AI Space, accessible via the telco’s MyRobi app, brings AI models such as ChatGPT, Gemini, Claude, and DeepSeek directly to local consumers, who can pay for them via a single subscription, or by purchasing AI tokens using local mobile data bundles. Robi’s MD and CEO Ziad Shatara said making AI models easier to pay for removes a key barrier to AI adoption in Bangladesh, as international AI models require credit card payments, while credit card penetration in Bangladesh currently sits at just 1.6%."
+      ],
+      "url": "https://www.developingtelecoms.com/telecom-technology/enterprise-ecosystems/20826-robi-axiata-and-grameenphone-join-bangladeshs-ai-subscription-race.html",
+      "source": "developingtelecoms.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-15T04:21:58Z"
+    },
+    {
+      "id": "a0c4b93132a0",
+      "title": "Apple releases iOS 27 with Siri AI beta days before launch of iPhone 18 - CNBC",
+      "summary": "Apple releases iOS 27 with Siri AI beta days before launch of iPhone 18. CNBC's Becky Quick reports on the latest news. Standard Chartered CEO Bill Winters on the ‘reckless path’ that shaped his banki...",
+      "highlights": [
+        "Apple releases iOS 27 with Siri AI beta days before launch of iPhone 18. CNBC's Becky Quick reports on the latest news. Standard Chartered CEO Bill Winters on the ‘reckless path’ that shaped his banking career. Trump privately met with OpenAI CEO Sam Altman at GOP Convention: Report. Novo CEO talks about rebrand, corporate changes amid fight for obesity market share. Chamber of Progress CEO Adam Kovacevich: AI restraint only works if everyone does it. JPMorgan’s Jack Caffrey: 'Highly confident' we’ll see a Fed rate hike this week."
+      ],
+      "url": "https://www.cnbc.com/video/2026/09/15/apple-releases-ios-27-with-siri-ai-beta-days-before-launch-of-iphone-18.html",
+      "source": "cnbc.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-15T11:12:52Z"
+    },
+    {
+      "id": "f4545aaf7603",
+      "title": "Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown - CNBC",
+      "summary": "Elon Musk called for the top artificial intelligence companies to work together and test each other's models before they're released to the public, as some of the industry's leaders warn of the techno...",
+      "highlights": [
+        "Elon Musk called for the top artificial intelligence companies to work together and test each other's models before they're released to the public, as some of the industry's leaders warn of the technology's dangers and push for greater government regulation. Speaking at the All-in Summit in Los Angeles on Monday, the SpaceX CEO said his company, OpenAI, Anthropic, Google, Meta and \"three or four of the leading Chinese companies\" should let rivals run a \"test harness\" on their models to evaluate their safety. The debate around how to regulate AI has intensified after the leaders of Anthropic, OpenAI and other AI companies spent the weekend warning about the technology's harms and called for a slowdown in model development. The push from top AI leaders came amid a broader warning about the fate of humanity as AI researchers sounded the alarm last week, sparked by a post from Jacob Coxon, who announced that he quit his job at Anthropic. \"What I'm suggesting here is it's a step in the right direction and it's something that we do quickly,\" Musk said."
+      ],
+      "url": "https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html",
+      "source": "cnbc.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-15T15:02:58Z"
+    },
+    {
+      "id": "7ca41db25b66",
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks - TechCrunch",
+      "summary": "Chris Lehane, OpenAI’s global policy chief, told reporters on Tuesday that the company has been working with rivals Anthropic and Google DeepMind on AI safety for weeks, as first reported by Bloomberg...",
+      "highlights": [
+        "Chris Lehane, OpenAI’s global policy chief, told reporters on Tuesday that the company has been working with rivals Anthropic and Google DeepMind on AI safety for weeks, as first reported by Bloomberg. The revelation comes in the wake of Anthropic CEO Dario Amodei’s essay, published Saturday, which called for the industry to work together to slow the pace of frontier AI and avoid catastrophic risks. AI leaders across the industry, including OpenAI’s Sam Altman, Google’s Demis Hassabis, and SpaceXAI’s Elon Musk, supported Amodei’s letter and call to action, with Altman saying that OpenAI would join Anthropologic in embedding third party evaluators into the company to monitor for safety. On Tuesday, Lehane admitted that the three companies have been in talks for several weeks regarding AI safety. This week, The Information reported that the three companies have been working together to create a standards body for the AI industry — something Altman reportedly told staff would need to happen without the support of the U.S. government."
+      ],
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "source": "techcrunch.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-15T15:47:03Z"
+    },
+    {
       "id": "edf33a37a2ed",
       "title": "Sector Snapshot: AI Takes A Growing Share Of Sales And Marketing Startup Funding",
       "summary": "Global Sales, Marketing And CRM Venture Funding In 2026\n\n## Related reading:\n\n Exclusive: Schematic Raises $6.5M To Help Companies Update Their Pricing Faster And Easier In The AI Era\n Exclusive: Winn...",
@@ -505,6 +585,45 @@
       "category": "投并购",
       "importance": 3,
       "publishedAt": "2026-09-15T11:00:38Z"
+    },
+    {
+      "id": "3c2db9a47aad",
+      "title": "Greg Brockman says OpenAI has already slowed cutting-edge AI developments over safety concerns - Business Insider",
+      "summary": "In multiple interview sessions aired on Monday, OpenAI cofounder and president Greg Brockman said that the company has been delaying some cutting-edge AI work as it tightens its safety and security pr...",
+      "highlights": [
+        "In multiple interview sessions aired on Monday, OpenAI cofounder and president Greg Brockman said that the company has been delaying some cutting-edge AI work as it tightens its safety and security practices. \"We've slowed down a number of runs, like we did a very painful retooling of a lot of our processes,\" Brockman told Bloomberg's Tracy Alloway, host of the \"Odd Lots\" podcast episode that aired on Monday. According to Brockman, the new safety measures came after one of OpenAI's models escaped a research sandbox and accessed Hugging Face's production infrastructure, because the offending model had not yet undergone alignment training and was operating with reduced safeguards. Brockman said in a separate interview with the venture capital firm Andreessen Horowitz that OpenAI had put some projects on ice and pointed Astra, an advanced AI model, at its infrastructure until it stopped uncovering critical vulnerabilities. You're going to use the models to find all the holes,\" Brockman said in the interview published on Monday."
+      ],
+      "url": "https://www.businessinsider.com/greg-brockman-openai-slowed-cutting-edge-ai-work-over-safety-2026-9",
+      "source": "businessinsider.com",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-09-15T04:11:01Z"
+    },
+    {
+      "id": "5921bbf0a82c",
+      "title": "Exaforce extends its AI security tool to monitor more than just Claude - csoonline.com",
+      "summary": "## The new offering correlates AI-agent activity with endpoint, identity, cloud, SaaS and code data to help security teams detect and respond to threats. By combining usage data from agentic AI platfo...",
+      "highlights": [
+        "## The new offering correlates AI-agent activity with endpoint, identity, cloud, SaaS and code data to help security teams detect and respond to threats. By combining usage data from agentic AI platforms with endpoint, cloud, SaaS and code data, Exaforce AI Security can identify risks, detect suspicious behavior, and respond to threats, the company said. This can be correlated with existing SOC data to identify what an AI agent is doing, who is operating it, what it can access and whether its behavior poses a threat. Exaforce said it needs no new gateway, browser extension, or endpoint agent to assemble all that data, instead gathering it from EDR systems, audit and usage logs from model providers, and activity from productivity suites to build a contextual picture of what AI agents are doing. Exaforce’s Huq said Exaforce AI Security is getting there: It brings AI and agent data into a system that has all relevant data to provide the required context to distinguish between a human identity and the agent that has inherited that identity."
+      ],
+      "url": "https://www.csoonline.com/article/4222191/exaforce-extends-its-ai-security-tool-to-monitor-more-than-just-claude.html",
+      "source": "csoonline.com",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-09-15T00:00:00Z"
+    },
+    {
+      "id": "a99284cc094f",
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round - TechCrunch",
+      "summary": "# AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round. Profound, which builds marketing software to help brands appear in AI search results, on Tuesday said it...",
+      "highlights": [
+        "# AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round. Profound, which builds marketing software to help brands appear in AI search results, on Tuesday said it has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C. Launched two years ago, Profound started as an analytics platform, and has since expanded to help companies research and create marketing strategies. It’s part of a wave of startups in the GEO/AEO space (generative engine optimization and answer engine optimization, respectively), where companies try to find ways to surface their products in the AI systems customers are increasingly using for search. The company says its revenue has increased by 3x in the past six months, and it now has more than 1,000 enterprise customers, which include Comcast, The Estée Lauder Companies, and Walmart."
+      ],
+      "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "source": "techcrunch.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-09-15T15:22:48Z"
     },
     {
       "id": "9931d458c7f2",
@@ -548,6 +667,136 @@
       "category": "具身智能",
       "importance": 2,
       "publishedAt": "2026-09-15T10:00:00Z"
+    },
+    {
+      "id": "22775e4c9ad6",
+      "title": "Beyond AI pilots: The enterprise AI journey is entering a new phase in banking - FinTech Futures",
+      "summary": "# Beyond AI pilots: The enterprise AI journey is entering a new phase in banking. The organisations that translate AI experimentation into repeatable enterprise capability will define the next phase o...",
+      "highlights": [
+        "# Beyond AI pilots: The enterprise AI journey is entering a new phase in banking. The organisations that translate AI experimentation into repeatable enterprise capability will define the next phase of digital banking. Over the last few years, banks have embraced AI across virtually every business function—from fraud detection and operations to customer engagement and software engineering. Yet as AI adoption matures, a different leadership challenge is beginning to emerge. Success increasingly depends on how effectively institutions embed AI into enterprise operations, governance frameworks, and business processes. The findings suggest that the next phase of AI in banking will be shaped less by the availability of new AI models and more by the enterprise capabilities required to operationalise them at scale. Across business functions, only around 10% of AI initiatives have progressed from proof of concept to enterprise-scale deployment. The findings suggest that enterprise AI maturity increasingly reflects the maturity of the surrounding business environment."
+      ],
+      "url": "https://www.fintechfutures.com/ai-in-fintech/beyond-ai-pilots-the-enterprise-ai-journey-is-entering-a-new-phase-in-banking",
+      "source": "fintechfutures.com",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-09-15T04:30:00Z"
+    },
+    {
+      "id": "2c090bdf8fa0",
+      "title": "Insygna Agentic Workforce Management™ Named a 2026 Top HR Product of the Year by HR Executive - EIN News",
+      "summary": "# Insygna Agentic Workforce Management™ Named a 2026 Top HR Product of the Year by HR Executive. Insygna Top HR Tech Product 2026. *Insygna gives HR, Procurement, and Finance the infrastructure to onb...",
+      "highlights": [
+        "# Insygna Agentic Workforce Management™ Named a 2026 Top HR Product of the Year by HR Executive. Insygna Top HR Tech Product 2026. *Insygna gives HR, Procurement, and Finance the infrastructure to onboard, credential, govern, and control the cost of AI agents as an extended workforce*. MERRIMACK, NH, UNITED STATES, September 15, 2026 /EINPresswire.com/ -- Insygna, the Agentic Workforce Management™ platform, today shared that Insygna Agentic Workforce Management has been named a Top HR Product by HR Executive, one of only 14 solutions to earn the designation for 2026. After a rigorous evaluation and live product demonstration, Insygna Agentic Workforce Management was recognized as a Top HR Product of 2026. “Enterprises are hiring AI agents faster than they can account for them, and the people who get asked to explain their work after they are deployed are in HR, Procurement, and Finance rather than IT,” said Michael Beygelman, Cofounder and CEO of Insygna."
+      ],
+      "url": "https://www.einnews.com/pr_news/941231729/insygna-agentic-workforce-management-named-a-2026-top-hr-product-of-the-year-by-hr-executive",
+      "source": "einnews.com",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-09-15T13:45:00Z"
+    },
+    {
+      "id": "13703e5bba16",
+      "title": "Insygna Agentic Workforce Management™ Named a 2026 Top HR Product of the Year by HR Executive - EIN Presswire",
+      "summary": "# Insygna Agentic Workforce Management™ Named a 2026 Top HR Product of the Year by HR Executive. Insygna Top HR Tech Product 2026. *Insygna gives HR, Procurement, and Finance the infrastructure to onb...",
+      "highlights": [
+        "# Insygna Agentic Workforce Management™ Named a 2026 Top HR Product of the Year by HR Executive. Insygna Top HR Tech Product 2026. *Insygna gives HR, Procurement, and Finance the infrastructure to onboard, credential, govern, and control the cost of AI agents as an extended workforce*. MERRIMACK, NH, UNITED STATES, September 15, 2026 /EINPresswire.com/ -- Insygna, the Agentic Workforce Management™ platform, today shared that Insygna Agentic Workforce Management has been named a Top HR Product by HR Executive, one of only 14 solutions to earn the designation for 2026. After a rigorous evaluation and live product demonstration, Insygna Agentic Workforce Management was recognized as a Top HR Product of 2026. “Enterprises are hiring AI agents faster than they can account for them, and the people who get asked to explain their work after they are deployed are in HR, Procurement, and Finance rather than IT,” said Michael Beygelman, Cofounder and CEO of Insygna."
+      ],
+      "url": "https://www.einpresswire.com/article/941231729/insygna-agentic-workforce-management-named-a-2026-top-hr-product-of-the-year-by-hr-executive",
+      "source": "einpresswire.com",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-09-15T13:45:00Z"
+    },
+    {
+      "id": "f736445564e9",
+      "title": "Business Aviation AI Agent Skyler: ‘AI Doesn’t Replace Humans’ - Aviation International News",
+      "summary": "Bizav AI Agent Skyler: ‘AI Doesn’t Replace Humans’. Technology can speed up the process but doesn’t replace human oversight. ## In this article. ## More In Training and Workforce. ### Salaries are up ...",
+      "highlights": [
+        "Bizav AI Agent Skyler: ‘AI Doesn’t Replace Humans’. Technology can speed up the process but doesn’t replace human oversight. ## In this article. ## More In Training and Workforce. ### Salaries are up by 7% in some cases. ## AIN Editor-in-chief Matt Thurber To Retire in October. ### Four-decade career in aviation journalism culminated in leading AIN’s editorial team. ### The Dutch air force will receive eight of the two-seaters in 2027. ## AINsight: You Can (and Should) Always Go Around. ### Why not teach new pilots to go around before learning how to land? ### Most major manufacturers will be at static this year. ### First step toward licensing could encourage youth to seek aviation careers. ## Saab Shaking Up Gripen Training with Project Skynapse. ### Evolving AI-augmented simulator-based approach to ‘gamify’ learning. ### Spirit AeroSystems workers give Leeham News and Analysis the inside track. ### AIN Products. ### ABOUT AIN. * AI, Learn About Us Here."
+      ],
+      "url": "https://www.ainonline.com/aviation-news/business-aviation/2026-09-15/bizav-ai-agent-skyler-ai-doesnt-replace-humans",
+      "source": "ainonline.com",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-09-15T15:52:54Z"
+    },
+    {
+      "id": "57fc6fbf91a0",
+      "title": "2026 Top HR Products of the Year: AI Sourcing Agent from ICIMS - HR Executive",
+      "summary": "## Instant Insights /. HR Technology  Emerging HR Tech. # 2026 Top HR Products of the Year: AI Sourcing Agent from ICIMS. September 15, 2026 at 04:00 AM. Request academic re-use from www.copyright.com...",
+      "highlights": [
+        "## Instant Insights /. HR Technology  Emerging HR Tech. # 2026 Top HR Products of the Year: AI Sourcing Agent from ICIMS. September 15, 2026 at 04:00 AM. Request academic re-use from www.copyright.com. All other uses, submit a request to  . ### Related Stories. 2026 Top HR Products of the Year: Agentic Workforce Management from Insygna Corporation 2026 Top HR Products of the Year: Sana from Workday 2026 Top HR Products of the Year: AI Interviewer from Eightfold 2026 Top HR Products of the Year: AI PREVAIL from Harver 2026 Top HR Products of the Year: DataCloud Talent & Compensation Benchmarks from ADP 2026 Top HR Products of the Year: Workforce Planning from Visier. ### Recommended For You."
+      ],
+      "url": "https://hrexecutive.com/2026-top-hr-products-of-the-year-ai-sourcing-agent-from-icims/",
+      "source": "hrexecutive.com",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-09-15T09:03:43Z"
+    },
+    {
+      "id": "82155de0f410",
+      "title": "SecuPi Introduces Data Security Platform for Self-Hosted AI - EIN News",
+      "summary": "SecuPi is a Data Security Platform for the AI Era, helping global enterprises control what AI agents and users can access, see, and do across data platforms, databases, data lakes, files and applicati...",
+      "highlights": [
+        "SecuPi is a Data Security Platform for the AI Era, helping global enterprises control what AI agents and users can access, see, and do across data platforms, databases, data lakes, files and applications. You also need to control the sensitive data it can access and the actions agents can perform.”**. NEW YORK, NY, UNITED STATES, September 15, 2026 /EINPresswire.com/ -- SecuPi today announced its Data Security Platform for self-hosted AI environments, helping organizations protect sensitive data from preparation and retrieval through inference and agent actions. The platform controls what humans and AI agents can access, see, and do while keeping data and security controls within customer-controlled infrastructure. You also need to control the sensitive data it can access and the actions agents can perform,” said Alon Rosenthal, CEO and co-founder of SecuPi. “SecuPi brings runtime access control, encryption, privacy protection and real-time auditability to self-hosted AI, even when models, data and security controls must remain entirely within an air-gapped environment.”. Data Security Platform for the AI Era."
+      ],
+      "url": "https://www.einnews.com/pr_news/942399425/secupi-introduces-data-security-platform-for-self-hosted-ai",
+      "source": "einnews.com",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-09-15T11:31:52Z"
+    },
+    {
+      "id": "d7d0377faafe",
+      "title": "SecuPi Introduces Data Security Platform for Self-Hosted AI - The National Law Review",
+      "summary": "Data Security Platform for the AI Era. SecuPi is a Data Security Platform for the AI Era, helping global enterprises control what AI agents and users can access, see, and do across data platforms, dat...",
+      "highlights": [
+        "Data Security Platform for the AI Era. SecuPi is a Data Security Platform for the AI Era, helping global enterprises control what AI agents and users can access, see, and do across data platforms, databases, data lakes, files and applications. You also need to control the sensitive data it can access and the actions agents can perform.”**. NEW YORK, NY, UNITED STATES, September 15, 2026 /EINPresswire.com/ -- SecuPi today announced its Data Security Platform for self-hosted AI environments, helping organizations protect sensitive data from preparation and retrieval through inference and agent actions. The platform controls what humans and AI agents can access, see, and do while keeping data and security controls within customer-controlled infrastructure. You also need to control the sensitive data it can access and the actions agents can perform,” said Alon Rosenthal, CEO and co-founder of SecuPi. “SecuPi brings runtime access control, encryption, privacy protection and real-time auditability to self-hosted AI, even when models, data and security controls must remain entirely within an air-gapped environment.”."
+      ],
+      "url": "https://natlawreview.com/press-releases/secupi-introduces-data-security-platform-self-hosted-ai",
+      "source": "natlawreview.com",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-09-15T13:01:34Z"
+    },
+    {
+      "id": "e72570e1a401",
+      "title": "New Italian unicorn Exein rides the physical AI wave - TechCrunch",
+      "summary": "Europe has a new unicorn: Italian startup Exein has just raised a $270 million funding round led by Headline at a $1.7 billion valuation on the promise of providing a cybersecurity layer for physical ...",
+      "highlights": [
+        "Europe has a new unicorn: Italian startup Exein has just raised a $270 million funding round led by Headline at a $1.7 billion valuation on the promise of providing a cybersecurity layer for physical AI — an evolution of its initial focus on IoT. The Rome-based company has been doubling down on this approach; its latest product, Photon, is a runtime security solution to prevent attacks at the kernel level of a device. This approach requires working in close partnership with manufacturers, and Exein says it has been doing so since its inception in 2018. According to Cuozzo, the choice to work directly with OEMs and silicon vendors was driven by the conviction that connected devices were on the rise. In the meantime, Exein intends to use the fresh funding for M&As to complete its portfolio of products, and hire staff to accelerate its expansion in the U.S. and in the Asia Pacific, which currently drives half of its revenue."
+      ],
+      "url": "https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/",
+      "source": "techcrunch.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-09-15T12:19:38Z"
+    },
+    {
+      "id": "04efb600a0fe",
+      "title": "Israeli AI startup Buildots completes $130m. funding round - The Jerusalem Post",
+      "summary": "## Israeli company Buildots combines AI and computer vision at construction sites, targeting an international market on track to reach a value of about $1.4 trillion. Buildots founders: Roy Danon, Avi...",
+      "highlights": [
+        "## Israeli company Buildots combines AI and computer vision at construction sites, targeting an international market on track to reach a value of about $1.4 trillion. Buildots founders: Roy Danon, Aviv Leibovici, and Ziv Kop. Israeli AI startup Buildots announced on Monday that it has completed a $130 million funding round, as the real estate AI and computer vision company sets its sights on an international market projected to reach approximately $1.4 trillion. Buildots has developed a system that bridges the physical world and the world of AI, creating a unified, shared status report for all parties involved in a real estate project, including the developer, main contractor, and subcontractors. The company's technology is based on AI and computer vision models derived from eight years of collecting real-time data from construction sites. The international real estate AI market is valued in the range of about $405 billion as of mid-2026 and is expected to surge to up to $1.4 trillion by 2030, according to American market research firm Research and Markets."
+      ],
+      "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-908628",
+      "source": "jpost.com",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-09-15T08:05:00Z"
+    },
+    {
+      "id": "c73e2897c009",
+      "title": "As the world debates the risks of AI, China closes the technology gap with the US - Greenwich Time",
+      "summary": "Image 1: A worker stands at the booth for Chinese AI Startup Moonshot's Kimi K3 during the World AI Conference in Shanghai, China on July 17, 2026. A worker stands at the booth for Chinese AI Startup ...",
+      "highlights": [
+        "Image 1: A worker stands at the booth for Chinese AI Startup Moonshot's Kimi K3 during the World AI Conference in Shanghai, China on July 17, 2026. A worker stands at the booth for Chinese AI Startup Moonshot's Kimi K3 during the World AI Conference in Shanghai, China on July 17, 2026. Image 2: A visitor stands near a display about AI during the World AI Conference in Shanghai, China on July 17, 2026. A visitor stands near a display about AI during the World AI Conference in Shanghai, China on July 17, 2026. Image 3: Workers station at the booth for Chinese Ai company Minimax during the World AI Conference in Shanghai, China on July 17, 2026. Workers station at the booth for Chinese Ai company Minimax during the World AI Conference in Shanghai, China on July 17, 2026. Image 4: A visitor tries out Alibaba's Qwen AI glasses during the World AI Conference in Shanghai, China on July 17, 2026."
+      ],
+      "url": "https://www.greenwichtime.com/news/world/article/as-the-world-debates-the-risks-of-ai-china-22432490.php",
+      "source": "greenwichtime.com",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-09-15T10:57:02Z"
     }
   ],
   "week": [
@@ -687,6 +936,60 @@
       "publishedAt": "2026-09-15T04:00:00Z"
     },
     {
+      "id": "e88aad8d8a7d",
+      "title": "一级市场的分化，比想象中更残酷-虎嗅网",
+      "summary": "转折发生在7月底：美联储议息偏鹰、日本央行加息，海外流动性收紧；ZD Group打新爆雷，涉案资金超20亿港元，再叠加某新股包盘发行被查；整个7月，新股首日破发率超过四成。\n\n随后的8月，新股发行断崖式下跌：整个8月仅2只新股上市，募资37.3亿港元——而7月是17只、超1200亿。\n\n然而，截至9月1日，港股排队企业仍有379家（港交所口径559家，含待发行）；另有大量秘密递交未计入，据称超过4...",
+      "highlights": [
+        "转折发生在7月底：美联储议息偏鹰、日本央行加息，海外流动性收紧；ZD Group打新爆雷，涉案资金超20亿港元，再叠加某新股包盘发行被查；整个7月，新股首日破发率超过四成",
+        "随后的8月，新股发行断崖式下跌：整个8月仅2只新股上市，募资37.3亿港元——而7月是17只、超1200亿",
+        "然而，截至9月1日，港股排队企业仍有379家（港交所口径559家，含待发行）；另有大量秘密递交未计入，据称超过400家"
+      ],
+      "url": "https://m.huxiu.com/article/4891197.html?type=text",
+      "source": "m.huxiu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-15T00:56:18Z"
+    },
+    {
+      "id": "c4d74ac5bad4",
+      "title": "Top AI companies have discussed creating their own standards body - CNN",
+      "summary": "# Top AI companies have discussed creating their own standards body. Anthropic, Google and OpenAI have discussed creating an AI industry standards body, people familiar with the situation told CNN. Ac...",
+      "highlights": [
+        "# Top AI companies have discussed creating their own standards body. Anthropic, Google and OpenAI have discussed creating an AI industry standards body, people familiar with the situation told CNN. According to those familiar with the situation, the catalyst for the discussions was a July essay written by Google DeepMind founder Demis Hassabis, who proposed a US-led Standards Body modeled on the Financial Industry Regulatory Authority. The conversations are ongoing, one of the people said, and they are continuing with or without the Trump administration. The White House has an opaque system in place where AI companies can voluntarily submit their latest models for government review up to 30 days before they are publicly released. House Speaker Mike Johnson told CNN on Sunday there’s little consensus among the companies, who are fierce competitors, on what the standards and guardrails should be."
+      ],
+      "url": "https://www.cnn.com/2026/09/14/tech/ai-standards-body",
+      "source": "cnn.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-14T11:10:56Z"
+    },
+    {
+      "id": "2f204386282f",
+      "title": "Learn how to build lasting AI defensibility at Disrupt 2026 - TechCrunch",
+      "summary": "It may be the platform you’re building on. Every major release from OpenAI, Anthropic, or Google raises the same question: What happens if the feature you’ve spent the last year building suddenly beco...",
+      "highlights": [
+        "It may be the platform you’re building on. Every major release from OpenAI, Anthropic, or Google raises the same question: What happens if the feature you’ve spent the last year building suddenly becomes part of the platform? That changes almost every strategic decision — from what products to build and where to differentiate to how to raise capital and create lasting value. One of the biggest strategic risks facing AI startups today isn’t losing to another founder — it’s discovering that your competitive advantage has become someone else’s product update. This session explores where defensibility still exists, how founders can respond when AI giants move into adjacent markets, and what separates companies that become features from those that remain businesses. Rather than reacting to every new model release, founders will hear where defensibility still exists, what enterprise and startup buyers continue to value, and how to build companies that remain relevant as AI evolves. If you’re building an AI company, the question isn’t whether foundation models will continue to evolve."
+      ],
+      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "source": "techcrunch.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-14T15:00:00Z"
+    },
+    {
+      "id": "cb25537493ca",
+      "title": "Trump won’t put the brakes on AI because he wants to beat China. How big a threat is Beijing? - CNN",
+      "summary": "Brushing aside the calls from AI scientists and executives from Anthropic, OpenAI and Google to slow the development, US President Donald Trump said what was most important was keeping the US in the l...",
+      "highlights": [
+        "Brushing aside the calls from AI scientists and executives from Anthropic, OpenAI and Google to slow the development, US President Donald Trump said what was most important was keeping the US in the lead against China in the intensifying AI superpower race. Countries should “encourage open source, openness, collaboration and sharing,” he said in a speech in India to Global South leaders, in which he reiterated a proposal for a global AI governance pact – although he did not give details on what that framework would look like. The US appears to be increasingly weaponizing its dominance in the sector, seeing it as a strategic asset to be protected, and exported to friendly countries, while China, lagging in the race,isproposing a more open model. ## How big of a threat is China? Washington, as well as OpenAI and Anthropic, have alleged that Chinese companies stole American intellectual property by training their models on the outputs of frontier US models, a process known as distillation in the industry."
+      ],
+      "url": "https://www.cnn.com/2026/09/14/tech/china-trump-ai-explainer-intl-hnk",
+      "source": "cnn.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-14T08:23:56Z"
+    },
+    {
       "id": "70924aaafaad",
       "title": "‘All Together Now’ in AI. Anthropic, OpenAI & Elon’s ‘Blip 3.0’. ARD #162",
       "summary": "Then the Gadget AI, on Apple quietly mixing modems in the new iPhone 18 Pro Max. All together now, Apple style.\n\n## (1) Anthropic’s Latest AI Essay: ‘We Must Pace the Frontier’\n\nFirst up. Anthropic CE...",
@@ -714,64 +1017,6 @@
       "category": "产品进展",
       "importance": 4,
       "publishedAt": "2026-09-14T12:00:00Z"
-    },
-    {
-      "id": "b1196ab78f2b",
-      "title": "蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent | 雷峰网",
-      "summary": "蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent\n\n蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent\n\n图说：万达基于蚂蚁百宝箱搭建起商圈搭子智能体\n\n据悉，蚂蚁百宝箱全新升级的商圈智能体模板将在9月下旬全面开放，支持商场、商业综合体等在不改动商场原有系统架构的前提下，通过接口对接调用逛街前、逛街时、逛街后全周期服务能力。大型购物中心、城市步行街、主题商业街区等不同业态也可...",
-      "highlights": [
-        "蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent",
-        "蚂蚁百宝箱推出全新商圈智能体模版，万达率先发布逛街Agent",
-        "图说：万达基于蚂蚁百宝箱搭建起商圈搭子智能体"
-      ],
-      "url": "https://www.leiphone.com/category/industrynews/e3UI6bLfQecs1oFu.html",
-      "source": "leiphone.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-14T07:00:00Z"
-    },
-    {
-      "id": "ce113f4d2fb4",
-      "title": "健康、智能时尚、配饰等领域13条品牌最新投资并购态丨全球时尚投资周报第35-37期",
-      "summary": "四川影目科技有限公司成立于2020年，是国内最早入局消费级智能眼镜的品牌之一，2021年率先推出全彩光波导智能眼镜，2023年发布的GO系列智能眼镜聚焦AI能力，具备翻译、提词等功能，在翻译眼镜市场占有率一度达到80%。\n\n公司于8月最新发布的第三代AI眼镜GO3 新增跨语言通话翻译及总结、多任务办公浮窗、步行/骑行导航等更多功能，天猫旗舰店单品售价4299元起（国补后约2300元起）。\n\n202...",
-      "highlights": [
-        "四川影目科技有限公司成立于2020年，是国内最早入局消费级智能眼镜的品牌之一，2021年率先推出全彩光波导智能眼镜，2023年发布的GO系列智能眼镜聚焦AI能力，具备翻译、提词等功能，在翻译眼镜市场占有率一度达到80%",
-        "公司于8月最新发布的第三代AI眼镜GO3 新增跨语言通话翻译及总结、多任务办公浮窗、步行/骑行导航等更多功能，天猫旗舰店单品售价4299元起（国补后约2300元起）",
-        "2024年，影目科技将总部迁入成都；2025年，公司为成都世运会提供翻译眼镜；2026年3月，公司在成都成华区自建的年产10万台AR智能眼镜工厂正式投产；4月，成都天府国际机场也面向出入境旅客提供影目智能眼镜租赁服务"
-      ],
-      "url": "https://luxe.co/post/481662",
-      "source": "luxe.co",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-09-14T05:00:00Z"
-    },
-    {
-      "id": "c0308e5bc66b",
-      "title": "具身智能的iPhone时刻要来了吗？ - 36氪",
-      "summary": "第二个是移动与导航能力。具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障。整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的。但自动驾驶汽车用在路上，比具身智能应用场景要简单，比如这个会场就比公开道路复杂的多，具身智能要在这样的场景完全泛化应用还需要不断打磨。\n\n第三个是多模态交互能力。现在大语言模型的语言交...",
-      "highlights": [
-        "第二个是移动与导航能力",
-        "具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障",
-        "整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的"
-      ],
-      "url": "https://m.36kr.com/p/3893816015878664",
-      "source": "m.36kr.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-09-14T16:45:40Z"
-    },
-    {
-      "id": "2c3c7ca12933",
-      "title": "OpenAI只想赢：数学家揭AI巨头的\"幼稚\"竞争-人工智能",
-      "summary": "OpenAI宣称以万级智能体解出Navier-Stokes问题，但因涉及数学家未授权数据使用及打压竞争对手Anthropic关联研究者，引发学界对其动机与诚信的广泛质疑。",
-      "highlights": [
-        "OpenAI宣称以万级智能体解出Navier-Stokes问题，但因涉及数学家未授权数据使用及打压竞争对手Anthropic关联研究者，引发学界对其动机与诚信的广泛质疑"
-      ],
-      "url": "https://www.zhiding.cn/ai/2026/0914/3199187.shtml",
-      "source": "zhiding.cn",
-      "category": "前沿理论",
-      "importance": 4,
-      "publishedAt": "2026-09-14T06:00:00Z"
     }
   ],
   "month": [
@@ -789,36 +1034,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-09-14T00:04:30Z"
-    },
-    {
-      "id": "4cde35b1cdfb",
-      "title": "Anthropic与特朗普相关Rum Group达成137亿美元大单，能否力挺IPO估值再冲高？",
-      "summary": "tradingkey.logo\n\n搜索\n\n\n\n一键诊股 让投资更聪明\n\n\n\nTradingKey\n\n作者Block Tao\n\n2026年9月14日 02:12\n\nAI播客\n\nfacebooktwitterlinkedin\n\nAnthropic与Rum Group达成137亿美元的6年算力采购协议，为其Claude模型迭代提供算力支撑并夯实IPO基本面。该合作有望增强其在政企及国防采购中的渗透力...",
-      "highlights": [
-        "tradingkey.logo",
-        "一键诊股 让投资更聪明",
-        "作者Block Tao"
-      ],
-      "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262165355-stock-anthropic-trump-rum-group-ai-ipo-tradingkey",
-      "source": "tradingkey.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-13T11:00:00Z"
-    },
-    {
-      "id": "acd97d6916c2",
-      "title": "小智一周要闻 | 宇树市值跌破2000亿元；京东宣布5年内采购300万台机器人",
-      "summary": "图片来源：超维动力\n\n超维动力成立于2025年9月，是一家全栈具身智能大模型公司，创始团队由华为自动驾驶资深高管、香港大学技术专家，以及在人形机器人领域拥有多次创业经验的连续创业者共同组成，具有技术创新、工程实现与商业化落地的完整闭环能力。\n\n在过去不到一年的时间里，超维动力已经发布了原生具身大模型、KAI Halo Lite轻量化数据采集头环、具身智能AI Infra平台、超高拟人通用人形机器人...",
-      "highlights": [
-        "超维动力成立于2025年9月，是一家全栈具身智能大模型公司，创始团队由华为自动驾驶资深高管、香港大学技术专家，以及在人形机器人领域拥有多次创业经验的连续创业者共同组成，具有技术创新、工程实现与商业化落地的完整闭环能力",
-        "在过去不到一年的时间里，超维动力已经发布了原生具身大模型、KAI Halo Lite轻量化数据采集头环、具身智能AI Infra平台、超高拟人通用人形机器人本体KAIBot以及高自由度灵巧手KAI Hand等产品",
-        "其中，超维动力的KAI Hand、KAI Halo Lite均已在全球范围内同步开售，产品已交付给产业客户"
-      ],
-      "url": "https://www.gasgoo.com/robot/news/70471899-%E5%B0%8F%E6%99%BA%E4%B8%80%E5%91%A8%E8%A6%81%E9%97%BB-%E5%AE%87%E6%A0%91%E5%B8%82%E5%80%BC%E8%B7%8C%E7%A0%B42000%E4%BA%BF%E5%85%83",
-      "source": "gasgoo.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-13T08:00:00Z"
     },
     {
       "id": "0b43337f4db0",
@@ -924,6 +1139,36 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-15T03:00:00Z"
+    },
+    {
+      "id": "a0e754488f1d",
+      "title": "从GPU到端侧AI：中国AI芯片集团军突围",
+      "summary": "2026年上半年分化加剧：摩尔线程营收17.36亿元已超去年全年，亏损收窄95.7%；寒武纪Q2净利率41.71%创新高；壁仞半年营收暴增18倍。但行业共识是年营收30至50亿元、毛利率50%以上方能自我造血，目前仅海光信息和寒武纪跨过门槛。\n\n【图表：中国AI芯片自给率预测图】\n\n中国AI智算GPU市场规模2020年142.86亿元增至2024年996.72亿元，CAGR达62.5%，预计202...",
+      "highlights": [
+        "2026年上半年分化加剧：摩尔线程营收17.36亿元已超去年全年，亏损收窄95.7%；寒武纪Q2净利率41.71%创新高；壁仞半年营收暴增18倍",
+        "但行业共识是年营收30至50亿元、毛利率50%以上方能自我造血，目前仅海光信息和寒武纪跨过门槛",
+        "【图表：中国AI芯片自给率预测图】"
+      ],
+      "url": "https://ijiwei.com/n/1107447",
+      "source": "ijiwei.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-15T04:00:00Z"
+    },
+    {
+      "id": "4cde35b1cdfb",
+      "title": "Anthropic与特朗普相关Rum Group达成137亿美元大单，能否力挺IPO估值再冲高？",
+      "summary": "tradingkey.logo\n\n搜索\n\n\n\n一键诊股 让投资更聪明\n\n\n\nTradingKey\n\n作者Block Tao\n\n2026年9月14日 02:12\n\nAI播客\n\nfacebooktwitterlinkedin\n\nAnthropic与Rum Group达成137亿美元的6年算力采购协议，为其Claude模型迭代提供算力支撑并夯实IPO基本面。该合作有望增强其在政企及国防采购中的渗透力...",
+      "highlights": [
+        "tradingkey.logo",
+        "一键诊股 让投资更聪明",
+        "作者Block Tao"
+      ],
+      "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262165355-stock-anthropic-trump-rum-group-ai-ipo-tradingkey",
+      "source": "tradingkey.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-13T11:00:00Z"
     }
   ]
 }
