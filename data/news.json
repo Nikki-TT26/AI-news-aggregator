@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-09-16T00:01:33Z",
+  "updatedAt": "2026-09-16T06:01:16Z",
   "latest": [
-    {
-      "id": "5c198ed5f845",
-      "title": "所有人都看错了 AI：根本没有泡沫，只是你看不懂新周期|AI投资|复盘|IPO|高盛|资本_新浪新闻",
-      "summary": "未来企业的AI投入、行业并购、科技上市交易，只会越来越多。\n\n　　03 为什么AI绝对不是泡沫？\n\n　　判断一个赛道是不是泡沫，不用看估值、看热度，只看一点：有没有真实落地价值，能不能实实在在提升效率、降低成本。\n\n　　AI刚好满足全维度的落地刚需。\n\n　　工厂用AI视觉替代人工质检，大幅降低残次品率，减少人力成本；\n\n　　零售、供应链企业用AI预测销量、调控库存，彻底解决货品积压、缺货亏损的老问...",
-      "highlights": [
-        "未来企业的AI投入、行业并购、科技上市交易，只会越来越多",
-        "03 为什么AI绝对不是泡沫",
-        "判断一个赛道是不是泡沫，不用看估值、看热度，只看一点：有没有真实落地价值，能不能实实在在提升效率、降低成本"
-      ],
-      "url": "https://k.sina.com.cn/article_5952915720_162d2490806704tvia.html?from=tech",
-      "source": "k.sina.com.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-14T00:04:30Z"
-    },
     {
       "id": "0b43337f4db0",
       "title": "燧原科技：自主DSA，国产算力的孤勇者_财富号_东方财富网",
@@ -45,51 +30,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-14T07:35:18Z"
-    },
-    {
-      "id": "c337605f186d",
-      "title": "投资界24h|智谱约50亿美元融资落定；Anthropic敲定纳斯达克上市计划；南京最大国资平台揭牌",
-      "summary": "9月11日，浙江航链科技有限公司（简称“航链科技”）完成天使轮融资，由浙江赤子股权投资基金管理有限公司（简称“赤子基金”）通过兴产赤子之诗（湖州）创业投资合伙企业（有限合伙）‌独家投资。\n\n阅读全文\n\n#### 烨知心完成Pre-A轮融资\n\n9月11日，烨知心（Yeats.AI）宣布完成Pre-A轮融资，由深创投、和利资本、TCL创投、中科创星联合领投，艾为电子（688798.SH）、国开科创、朝...",
-      "highlights": [
-        "9月11日，浙江航链科技有限公司（简称“航链科技”）完成天使轮融资，由浙江赤子股权投资基金管理有限公司（简称“赤子基金”）通过兴产赤子之诗（湖州）创业投资合伙企业（有限合伙）‌独家投资",
-        "#### 烨知心完成Pre-A轮融资",
-        "9月11日，烨知心（Yeats.AI）宣布完成Pre-A轮融资，由深创投、和利资本、TCL创投、中科创星联合领投，艾为电子（688798.SH）、国开科创、朝晖资本等机构跟投，老股东连续多轮持续超额追投"
-      ],
-      "url": "https://news.pedaily.cn/202609/568938.shtml",
-      "source": "news.pedaily.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-14T00:47:00Z"
-    },
-    {
-      "id": "f217ab6f16ee",
-      "title": "中国AI大模型调用量连续二十周领跑：DeepSeek V4.1 Flash上线三天 ...",
-      "summary": "《每日经济新闻》注意到，上周，全球调用量排名前五中，有四款中国AI大模型。其中，腾讯混元Hy4 preview位居第二，周调用量达16.8万亿Token，环比增长15%。\n\nHy4 preview于8月28日正式发布并开源，总参数770B、激活参数49B，上下文长度突破1M，重点面向Agent、Coding与生产力场景优化，增强在真实业务场景中完成复杂任务的能力。\n\n智谱GLM 5.3 Flash...",
-      "highlights": [
-        "《每日经济新闻》注意到，上周，全球调用量排名前五中，有四款中国AI大模型",
-        "其中，腾讯混元Hy4 preview位居第二，周调用量达16.8万亿Token，环比增长15%",
-        "Hy4 preview于8月28日正式发布并开源，总参数770B、激活参数49B，上下文长度突破1M，重点面向Agent、Coding与生产力场景优化，增强在真实业务场景中完成复杂任务的能力"
-      ],
-      "url": "https://www.nbd.com.cn/articles/2026-09-14/4580561.html",
-      "source": "nbd.com.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-14T03:00:00Z"
-    },
-    {
-      "id": "b460fb8d4040",
-      "title": "燧原科技登陆科创板！国产GPU“四小龙”的最后一块拼图落定",
-      "summary": "物联传媒 旗下网站 \n\n  登录    注册\n\nRFID世界网 >  新闻中心  >  今日话题  >  正文\n\n# 燧原科技登陆科创板！国产GPU“四小龙”的最后一块拼图落定\n\n日期：2026-09-14 11:33:01\n\n关键词：国产GPU\n\n本次上市，燧原科技本次发行价格为‌142.18元/股‌，发行4303.52万股。其中初始战略配售发行数量为860.7034万股，约占发行总数量的20%...",
-      "highlights": [
-        "RFID世界网 >  新闻中心  >  今日话题  >  正文",
-        "# 燧原科技登陆科创板",
-        "国产GPU“四小龙”的最后一块拼图落定"
-      ],
-      "url": "https://www.rfidworld.com.cn/news/2609_44DCBAC67477D28D.html",
-      "source": "rfidworld.com.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-14T04:00:00Z"
     },
     {
       "id": "a8f892c319fe",
@@ -234,19 +174,45 @@
       "publishedAt": "2026-09-14T10:30:16Z"
     },
     {
-      "id": "70924aaafaad",
-      "title": "‘All Together Now’ in AI. Anthropic, OpenAI & Elon’s ‘Blip 3.0’. ARD #162",
-      "summary": "Then the Gadget AI, on Apple quietly mixing modems in the new iPhone 18 Pro Max. All together now, Apple style.\n\n## (1) Anthropic’s Latest AI Essay: ‘We Must Pace the Frontier’\n\nFirst up. Anthropic CE...",
+      "id": "d8a3f43b92d9",
+      "title": "圆满落幕丨2026具身感知融合与多模态大模型创新研讨会",
+      "summary": "吕   尧 | 光象实验室首席科学家\n\n众擎「引擎计划」汇聚生态力量，驱动具身进化\n\n众擎机器人生态负责人赵飞宇介绍了公司在人形机器人技术研发与商业化落地方面的最新进展。众擎坚持在机器人关节、整机、小脑和大脑等领域全栈自研，持续推进运动智能、交互智能、认知智能和作业智能等核心技术突破，并打造了身高173厘米的全尺寸通用人形机器人T800和身高135厘米的轻量级高动态通用具身智能体PM01等核心产品...",
       "highlights": [
-        "Then the Gadget AI, on Apple quietly mixing modems in the new iPhone 18 Pro Max. All together now, Apple style.",
-        "## (1) Anthropic’s Latest AI Essay: ‘We Must Pace the Frontier’",
-        "First up. Anthropic CEO Dario Amodei published a 3,800-word essay on Saturday, ‘We Must Pace the Frontier’. The line that matters: ‘We must slow the pace at which we improve the capabilities of AI models.’ [...] The Blip 2.0, June 2026. The US government pulled Anthropic’s best models off the market over a jailbreak report. Twenty days. Then it gated OpenAI’s next model too. Slow and steady became the new US AI speed, set by the government."
+        "吕   尧 | 光象实验室首席科学家",
+        "众擎「引擎计划」汇聚生态力量，驱动具身进化",
+        "众擎机器人生态负责人赵飞宇介绍了公司在人形机器人技术研发与商业化落地方面的最新进展"
       ],
-      "url": "https://michaelparekh.substack.com/p/all-together-now-in-ai-anthropic",
-      "source": "michaelparekh.substack.com",
+      "url": "https://www.gasgoo.com/robot/news/70472097-%E5%9C%86%E6%BB%A1%E8%90%BD%E5%B9%95%E4%B8%A82026%E5%85%B7%E8%BA%AB%E6%84%9F%E7%9F%A5%E8%9E%8D%E5%90%88%E4%B8%8E%E5%A4%9A%E6%A8%A1%E6%80%81%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%88%9B%E6%96%B0",
+      "source": "gasgoo.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-15T10:00:00Z"
+    },
+    {
+      "id": "93ba2469db61",
+      "title": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports - Reuters",
+      "summary": "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. ## Browse Business. Sept 15 (Reuters) - OpenAI is working with rivals Anthropic ​and ...",
+      "highlights": [
+        "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. ## Browse Business. Sept 15 (Reuters) - OpenAI is working with rivals Anthropic ​and Alphabet's (GOOGL.O), opens new tab Google DeepMind on AI safety, Bloomberg ‌News reported on Tuesday, citing the ChatGPT maker's global policy chief Chris Lehane. Global concerns about ​AI's existential risks have risen after ​the heads of America's leading AI labs ⁠came together in a show of ​unity over the weekend to call for a ​pause in the development of the technology. Learn about the latest breakthroughs in AI and tech with the Reuters Artificial Intelligencer newsletter. Lehane said OpenAI had been in talks with Anthropic and Google ​for several weeks and did not ​believe the three AI firms needed an antitrust waiver ‌to ⁠coordinate on safety issues, according to the report. *   Media Center, opens new tab. *   Reuters News Agency, opens new tab. *   Reuters and AI, opens new tab."
+      ],
+      "url": "https://www.reuters.com/technology/openai-is-working-with-anthropic-google-ai-safety-bloomberg-news-reports-2026-09-15/",
+      "source": "reuters.com",
       "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-14T05:00:00Z"
+      "importance": 5,
+      "publishedAt": "2026-09-15T14:50:18Z"
+    },
+    {
+      "id": "a0ec0cf13f46",
+      "title": "CNBC Daily Open: Is AI safe? Industry leaders and Trump disagree - CNBC",
+      "summary": "A social media frenzy about AI having the ability to \"kill all humans\" has brought U.S. AI tech giants together to discuss safety issues and the prospect of slowing down the progress of model developm...",
+      "highlights": [
+        "A social media frenzy about AI having the ability to \"kill all humans\" has brought U.S. AI tech giants together to discuss safety issues and the prospect of slowing down the progress of model developments. However, U.S. President Donald Trump was not happy about the AI discussion, saying that \"The only control or 'guardrails' that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades!\". Meanwhile, the financial costs of the Middle East conflict continues to rise, with the U.S. nonpartisan Congressional Budget Office estimating another $2-3 billion being spent for each additional month of fighting. U.S. AI giants like OpenAI, Anthropic and Google are now banding together to discuss safety issues, shortly after a researcher set off a social media frenzy saying that AI has more than 10% chance to \"kill all humans.\"."
+      ],
+      "url": "https://www.cnbc.com/2026/09/16/cnbc-daily-open-is-ai-safe-industry-leaders-and-trump-disagree.html",
+      "source": "cnbc.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-16T01:42:51Z"
     },
     {
       "id": "f6f6a118df2b",
@@ -278,21 +244,6 @@
       "publishedAt": "2026-09-14T07:00:00Z"
     },
     {
-      "id": "ce113f4d2fb4",
-      "title": "健康、智能时尚、配饰等领域13条品牌最新投资并购态丨全球时尚投资周报第35-37期",
-      "summary": "四川影目科技有限公司成立于2020年，是国内最早入局消费级智能眼镜的品牌之一，2021年率先推出全彩光波导智能眼镜，2023年发布的GO系列智能眼镜聚焦AI能力，具备翻译、提词等功能，在翻译眼镜市场占有率一度达到80%。\n\n公司于8月最新发布的第三代AI眼镜GO3 新增跨语言通话翻译及总结、多任务办公浮窗、步行/骑行导航等更多功能，天猫旗舰店单品售价4299元起（国补后约2300元起）。\n\n202...",
-      "highlights": [
-        "四川影目科技有限公司成立于2020年，是国内最早入局消费级智能眼镜的品牌之一，2021年率先推出全彩光波导智能眼镜，2023年发布的GO系列智能眼镜聚焦AI能力，具备翻译、提词等功能，在翻译眼镜市场占有率一度达到80%",
-        "公司于8月最新发布的第三代AI眼镜GO3 新增跨语言通话翻译及总结、多任务办公浮窗、步行/骑行导航等更多功能，天猫旗舰店单品售价4299元起（国补后约2300元起）",
-        "2024年，影目科技将总部迁入成都；2025年，公司为成都世运会提供翻译眼镜；2026年3月，公司在成都成华区自建的年产10万台AR智能眼镜工厂正式投产；4月，成都天府国际机场也面向出入境旅客提供影目智能眼镜租赁服务"
-      ],
-      "url": "https://luxe.co/post/481662",
-      "source": "luxe.co",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-09-14T05:00:00Z"
-    },
-    {
       "id": "c0308e5bc66b",
       "title": "具身智能的iPhone时刻要来了吗？ - 36氪",
       "summary": "第二个是移动与导航能力。具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障。整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的。但自动驾驶汽车用在路上，比具身智能应用场景要简单，比如这个会场就比公开道路复杂的多，具身智能要在这样的场景完全泛化应用还需要不断打磨。\n\n第三个是多模态交互能力。现在大语言模型的语言交...",
@@ -306,19 +257,6 @@
       "category": "具身智能",
       "importance": 4,
       "publishedAt": "2026-09-14T16:45:40Z"
-    },
-    {
-      "id": "2c3c7ca12933",
-      "title": "OpenAI只想赢：数学家揭AI巨头的\"幼稚\"竞争-人工智能",
-      "summary": "OpenAI宣称以万级智能体解出Navier-Stokes问题，但因涉及数学家未授权数据使用及打压竞争对手Anthropic关联研究者，引发学界对其动机与诚信的广泛质疑。",
-      "highlights": [
-        "OpenAI宣称以万级智能体解出Navier-Stokes问题，但因涉及数学家未授权数据使用及打压竞争对手Anthropic关联研究者，引发学界对其动机与诚信的广泛质疑"
-      ],
-      "url": "https://www.zhiding.cn/ai/2026/0914/3199187.shtml",
-      "source": "zhiding.cn",
-      "category": "前沿理论",
-      "importance": 4,
-      "publishedAt": "2026-09-14T06:00:00Z"
     },
     {
       "id": "747e0c6a9777",
@@ -430,9 +368,128 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-09-14T16:16:45Z"
+    },
+    {
+      "id": "486d5706705a",
+      "title": "梁汝波判断：过去50年IT产业出现四次高峰，AI浪潮远超前代！字节跳动重兵攻坚AI办公 | 每日经济新闻",
+      "summary": "据今年7月30日披露的调整方案，飞书产品团队与豆包产品团队将整合，成立新的豆包产品团队。GTM（市场、销售、客户服务）体系方面，飞书GTM团队将与火山引擎团队整合，成立新的To B（面向企业）GTM组织“创造力服务平台”。\n\n8月24日，字节跳动再次对旗下的办公AI产品完成了一轮团队整合，TRAE、扣子（Coze）团队整体并入豆包体系。8月25日，面向生产力场景推出的全新Agent（智能体）产品与...",
+      "highlights": [
+        "据今年7月30日披露的调整方案，飞书产品团队与豆包产品团队将整合，成立新的豆包产品团队",
+        "GTM（市场、销售、客户服务）体系方面，飞书GTM团队将与火山引擎团队整合，成立新的To B（面向企业）GTM组织“创造力服务平台”",
+        "8月24日，字节跳动再次对旗下的办公AI产品完成了一轮团队整合，TRAE、扣子（Coze）团队整体并入豆包体系"
+      ],
+      "url": "https://www.mrjjxw.com/articles/2026-09-16/4582777.html",
+      "source": "mrjjxw.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-16T04:00:00Z"
+    },
+    {
+      "id": "6197226543f5",
+      "title": "飞书发布8.0版本及团队智能体“豆包工作伙伴”_推荐_i黑马",
+      "summary": "权限管理方面，飞书8.0中的Agent权限始终与使用者一致，员工看不到的信息，Agent也无法获取。企业管理员可统一管理Agent、追溯使用情况、设定AI用量上限，并管控高消耗模型与场景。\n\n飞书CEO谢欣在大会上披露，2026年上半年飞书年度经常性收入增速达到去年同期的2.5倍，创成立以来新高，超九成新增客户同步采购了飞书AI产品，中小企业客户总量过去一年增长70%。\n\n字节跳动CEO梁汝波在会...",
+      "highlights": [
+        "权限管理方面，飞书8.0中的Agent权限始终与使用者一致，员工看不到的信息，Agent也无法获取",
+        "企业管理员可统一管理Agent、追溯使用情况、设定AI用量上限，并管控高消耗模型与场景",
+        "飞书CEO谢欣在大会上披露，2026年上半年飞书年度经常性收入增速达到去年同期的2.5倍，创成立以来新高，超九成新增客户同步采购了飞书AI产品，中小企业客户总量过去一年增长70%"
+      ],
+      "url": "http://www.iheima.com/article-402016.html",
+      "source": "iheima.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-16T03:00:00Z"
+    },
+    {
+      "id": "2d61664f5bcd",
+      "title": "飞书发布8.0版与豆包工作原生融合谢欣：把智能体当“一等公民” - 新京报",
+      "summary": "北交所频道 新京号 电子报 千龙网 贝壳财经 北京BEIJING 新京雅集 专题 商务合作 爱心模式;) 线索报料\n\n微博\n\n首页  视频  深读  公益  第一看点  时事  北京  国际  政事儿  观点  消费  娱乐  文化  体育  京彩教育  浪花资本  藻知科技  鲲纶智库  潮流智造局  城市好望角  海星生活社  图说  智库  数据  乡村\n\n# 飞书发布8.0版与豆包工作原生...",
+      "highlights": [
+        "北交所频道 新京号 电子报 千龙网 贝壳财经 北京BEIJING 新京雅集 专题 商务合作 爱心模式;) 线索报料",
+        "首页  视频  深读  公益  第一看点  时事  北京  国际  政事儿  观点  消费  娱乐  文化  体育  京彩教育  浪花资本  藻知科技  鲲纶智库  潮流智造局  城市好望角  海星生活社  图说  智库  数据  乡村",
+        "# 飞书发布8.0版与豆包工作原生融合 谢欣：把智能体当“一等公民”"
+      ],
+      "url": "https://www.bjnews.com.cn/detail/1789459687129700.html",
+      "source": "bjnews.com.cn",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-15T09:00:00Z"
+    },
+    {
+      "id": "acf2a748d536",
+      "title": "字节将发布独立智能网盘“ADrive”，腾讯网盘先已布局，网盘AI大战打响-36氪",
+      "summary": "从行业格局来看，字节ADrive、腾讯新版智能网盘接连落地，标志着网盘赛道彻底告别 “容量竞赛”，正式进入AI智能协同、Agent数据赋能的全新周期。头部云厂商纷纷入局，核心逻辑清晰：AI Agent普及后，企业最核心的资产不再是算力，而是可沉淀、可检索、可复用的非结构化数据，而智能网盘，正是AI办公时代的核心数据基础设施。\n\n不止字节跳动，腾讯也已提前布局智能网盘赛道。\n\n今年6月，腾讯云启动全...",
+      "highlights": [
+        "从行业格局来看，字节ADrive、腾讯新版智能网盘接连落地，标志着网盘赛道彻底告别 “容量竞赛”，正式进入AI智能协同、Agent数据赋能的全新周期",
+        "头部云厂商纷纷入局，核心逻辑清晰：AI Agent普及后，企业最核心的资产不再是算力，而是可沉淀、可检索、可复用的非结构化数据，而智能网盘，正是AI办公时代的核心数据基础设施",
+        "不止字节跳动，腾讯也已提前布局智能网盘赛道"
+      ],
+      "url": "https://m.36kr.com/p/3984022571964039",
+      "source": "m.36kr.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-15T12:01:38Z"
     }
   ],
-  "today": [],
+  "today": [
+    {
+      "id": "a0ec0cf13f46",
+      "title": "CNBC Daily Open: Is AI safe? Industry leaders and Trump disagree - CNBC",
+      "summary": "A social media frenzy about AI having the ability to \"kill all humans\" has brought U.S. AI tech giants together to discuss safety issues and the prospect of slowing down the progress of model developm...",
+      "highlights": [
+        "A social media frenzy about AI having the ability to \"kill all humans\" has brought U.S. AI tech giants together to discuss safety issues and the prospect of slowing down the progress of model developments. However, U.S. President Donald Trump was not happy about the AI discussion, saying that \"The only control or 'guardrails' that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades!\". Meanwhile, the financial costs of the Middle East conflict continues to rise, with the U.S. nonpartisan Congressional Budget Office estimating another $2-3 billion being spent for each additional month of fighting. U.S. AI giants like OpenAI, Anthropic and Google are now banding together to discuss safety issues, shortly after a researcher set off a social media frenzy saying that AI has more than 10% chance to \"kill all humans.\"."
+      ],
+      "url": "https://www.cnbc.com/2026/09/16/cnbc-daily-open-is-ai-safe-industry-leaders-and-trump-disagree.html",
+      "source": "cnbc.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-16T01:42:51Z"
+    },
+    {
+      "id": "486d5706705a",
+      "title": "梁汝波判断：过去50年IT产业出现四次高峰，AI浪潮远超前代！字节跳动重兵攻坚AI办公 | 每日经济新闻",
+      "summary": "据今年7月30日披露的调整方案，飞书产品团队与豆包产品团队将整合，成立新的豆包产品团队。GTM（市场、销售、客户服务）体系方面，飞书GTM团队将与火山引擎团队整合，成立新的To B（面向企业）GTM组织“创造力服务平台”。\n\n8月24日，字节跳动再次对旗下的办公AI产品完成了一轮团队整合，TRAE、扣子（Coze）团队整体并入豆包体系。8月25日，面向生产力场景推出的全新Agent（智能体）产品与...",
+      "highlights": [
+        "据今年7月30日披露的调整方案，飞书产品团队与豆包产品团队将整合，成立新的豆包产品团队",
+        "GTM（市场、销售、客户服务）体系方面，飞书GTM团队将与火山引擎团队整合，成立新的To B（面向企业）GTM组织“创造力服务平台”",
+        "8月24日，字节跳动再次对旗下的办公AI产品完成了一轮团队整合，TRAE、扣子（Coze）团队整体并入豆包体系"
+      ],
+      "url": "https://www.mrjjxw.com/articles/2026-09-16/4582777.html",
+      "source": "mrjjxw.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-16T04:00:00Z"
+    },
+    {
+      "id": "6197226543f5",
+      "title": "飞书发布8.0版本及团队智能体“豆包工作伙伴”_推荐_i黑马",
+      "summary": "权限管理方面，飞书8.0中的Agent权限始终与使用者一致，员工看不到的信息，Agent也无法获取。企业管理员可统一管理Agent、追溯使用情况、设定AI用量上限，并管控高消耗模型与场景。\n\n飞书CEO谢欣在大会上披露，2026年上半年飞书年度经常性收入增速达到去年同期的2.5倍，创成立以来新高，超九成新增客户同步采购了飞书AI产品，中小企业客户总量过去一年增长70%。\n\n字节跳动CEO梁汝波在会...",
+      "highlights": [
+        "权限管理方面，飞书8.0中的Agent权限始终与使用者一致，员工看不到的信息，Agent也无法获取",
+        "企业管理员可统一管理Agent、追溯使用情况、设定AI用量上限，并管控高消耗模型与场景",
+        "飞书CEO谢欣在大会上披露，2026年上半年飞书年度经常性收入增速达到去年同期的2.5倍，创成立以来新高，超九成新增客户同步采购了飞书AI产品，中小企业客户总量过去一年增长70%"
+      ],
+      "url": "http://www.iheima.com/article-402016.html",
+      "source": "iheima.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-16T03:00:00Z"
+    },
+    {
+      "id": "1900669fe939",
+      "title": "阴和俊：推进人工智能赋能科研创新，完善算力、数据等基础设施，拓展科学研究智能化应用场景",
+      "summary": "切实解决基础研究体系化协同不足问题。基础研究是面向未来的，只有加强统筹谋划，强化系统布局和组织协调，才能推动战略目标、资源配置、科研实践协同贯通，为原始创新提供坚实体系化支撑，在变革中把握主动、抢占高点。党的十八大以来，我国发挥新型举国体制优势，坚持“四个面向”战略导向，统筹实施国家科技计划和重大科学工程，布局目标导向的应用性基础研究和前沿导向的探索性基础研究，协同建强国家实验室、高水平研究型大学...",
+      "highlights": [
+        "切实解决基础研究体系化协同不足问题",
+        "基础研究是面向未来的，只有加强统筹谋划，强化系统布局和组织协调，才能推动战略目标、资源配置、科研实践协同贯通，为原始创新提供坚实体系化支撑，在变革中把握主动、抢占高点",
+        "党的十八大以来，我国发挥新型举国体制优势，坚持“四个面向”战略导向，统筹实施国家科技计划和重大科学工程，布局目标导向的应用性基础研究和前沿导向的探索性基础研究，协同建强国家实验室、高水平研究型大学、国家科研机构、科技领军企业等国家战略科技力量，基础研究体系化攻关能力稳步提升，一批前沿方向实现“从0到1”的重大突破，化学、材料科学、农学等学科跻身国际先进行列"
+      ],
+      "url": "https://www.cls.cn/detail/2484424",
+      "source": "cls.cn",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-09-16T00:00:00Z"
+    }
+  ],
   "week": [
     {
       "id": "5c198ed5f845",
