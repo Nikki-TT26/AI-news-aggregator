@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-09-18T00:01:42Z",
+  "updatedAt": "2026-09-18T06:01:12Z",
   "latest": [
-    {
-      "id": "a0ec0cf13f46",
-      "title": "CNBC Daily Open: Is AI safe? Industry leaders and Trump disagree - CNBC",
-      "summary": "A social media frenzy about AI having the ability to \"kill all humans\" has brought U.S. AI tech giants together to discuss safety issues and the prospect of slowing down the progress of model developm...",
-      "highlights": [
-        "A social media frenzy about AI having the ability to \"kill all humans\" has brought U.S. AI tech giants together to discuss safety issues and the prospect of slowing down the progress of model developments. However, U.S. President Donald Trump was not happy about the AI discussion, saying that \"The only control or 'guardrails' that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades!\". Meanwhile, the financial costs of the Middle East conflict continues to rise, with the U.S. nonpartisan Congressional Budget Office estimating another $2-3 billion being spent for each additional month of fighting. U.S. AI giants like OpenAI, Anthropic and Google are now banding together to discuss safety issues, shortly after a researcher set off a social media frenzy saying that AI has more than 10% chance to \"kill all humans.\"."
-      ],
-      "url": "https://www.cnbc.com/2026/09/16/cnbc-daily-open-is-ai-safe-industry-leaders-and-trump-disagree.html",
-      "source": "cnbc.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-16T01:42:51Z"
-    },
     {
       "id": "f873b816edf1",
       "title": "2026凤凰之星最佳AI技术创新上市公司：阿里巴巴、寒武纪、摩尔线程、沐曦股份、壁仞科技",
@@ -163,34 +150,78 @@
       "publishedAt": "2026-09-17T05:19:43Z"
     },
     {
-      "id": "486d5706705a",
-      "title": "梁汝波判断：过去50年IT产业出现四次高峰，AI浪潮远超前代！字节跳动重兵攻坚AI办公 | 每日经济新闻",
-      "summary": "据今年7月30日披露的调整方案，飞书产品团队与豆包产品团队将整合，成立新的豆包产品团队。GTM（市场、销售、客户服务）体系方面，飞书GTM团队将与火山引擎团队整合，成立新的To B（面向企业）GTM组织“创造力服务平台”。\n\n8月24日，字节跳动再次对旗下的办公AI产品完成了一轮团队整合，TRAE、扣子（Coze）团队整体并入豆包体系。8月25日，面向生产力场景推出的全新Agent（智能体）产品与...",
+      "id": "bd9447eef752",
+      "title": "中国AI完成“本土化”跨越，真正赚钱的“微笑曲线”已经浮现 - 华尔街见闻",
+      "summary": "### 大家都在搜\n\n# 中国AI完成“本土化”跨越，真正赚钱的“微笑曲线”已经浮现\n\n中国AI产业正从政策驱动的技术追赶，迈入以商业变现为核心的生态竞争新阶段。\n\n据追风交易台，美银美林9月17日发布的最新研究报告，中国AI本土化进程已在芯片、存储、设备及大模型等多个层面取得实质性突破，而随着技术差距收窄，价值链的利润分布正在浮现出清晰的\"微笑曲线\"结构。\n\n报告指出，中国AI价值链正形成\"哑铃...",
       "highlights": [
-        "据今年7月30日披露的调整方案，飞书产品团队与豆包产品团队将整合，成立新的豆包产品团队",
-        "GTM（市场、销售、客户服务）体系方面，飞书GTM团队将与火山引擎团队整合，成立新的To B（面向企业）GTM组织“创造力服务平台”",
-        "8月24日，字节跳动再次对旗下的办公AI产品完成了一轮团队整合，TRAE、扣子（Coze）团队整体并入豆包体系"
+        "# 中国AI完成“本土化”跨越，真正赚钱的“微笑曲线”已经浮现",
+        "中国AI产业正从政策驱动的技术追赶，迈入以商业变现为核心的生态竞争新阶段",
+        "据追风交易台，美银美林9月17日发布的最新研究报告，中国AI本土化进程已在芯片、存储、设备及大模型等多个层面取得实质性突破，而随着技术差距收窄，价值链的利润分布正在浮现出清晰的\"微笑曲线\"结构"
       ],
-      "url": "https://www.mrjjxw.com/articles/2026-09-16/4582777.html",
-      "source": "mrjjxw.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-16T04:00:00Z"
+      "url": "https://wallstreetcn.com/articles/3782049",
+      "source": "wallstreetcn.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-18T02:58:22Z"
     },
     {
-      "id": "6197226543f5",
-      "title": "飞书发布8.0版本及团队智能体“豆包工作伙伴”_推荐_i黑马",
-      "summary": "权限管理方面，飞书8.0中的Agent权限始终与使用者一致，员工看不到的信息，Agent也无法获取。企业管理员可统一管理Agent、追溯使用情况、设定AI用量上限，并管控高消耗模型与场景。\n\n飞书CEO谢欣在大会上披露，2026年上半年飞书年度经常性收入增速达到去年同期的2.5倍，创成立以来新高，超九成新增客户同步采购了飞书AI产品，中小企业客户总量过去一年增长70%。\n\n字节跳动CEO梁汝波在会...",
+      "id": "e0ae7641d64f",
+      "title": "华为昇腾芯片提前落地，英伟达的风险大吗？ | NAI 500",
+      "summary": "logo\n\n# 华为昇腾芯片提前落地，英伟达的风险大吗？\n\n华为AI芯片突袭！英伟达、台积电股价双双跳水\n\n作为全球高端 AI 芯片市场长期的领跑者，英伟达（NVDA）旗下顶级 GPU 产品凭借无可匹敌的性能在全球范围内收获了旺盛需求，唯独中国市场长期缺位 —— 受美国敏感技术产品出口管制规则约束，英伟达始终无法向中国客户销售其最先进的 GPU 与 AI 芯片产品。这一规则塑造的非对称竞争环境，也...",
       "highlights": [
-        "权限管理方面，飞书8.0中的Agent权限始终与使用者一致，员工看不到的信息，Agent也无法获取",
-        "企业管理员可统一管理Agent、追溯使用情况、设定AI用量上限，并管控高消耗模型与场景",
-        "飞书CEO谢欣在大会上披露，2026年上半年飞书年度经常性收入增速达到去年同期的2.5倍，创成立以来新高，超九成新增客户同步采购了飞书AI产品，中小企业客户总量过去一年增长70%"
+        "# 华为昇腾芯片提前落地，英伟达的风险大吗",
+        "英伟达、台积电股价双双跳水",
+        "作为全球高端 AI 芯片市场长期的领跑者，英伟达（NVDA）旗下顶级 GPU 产品凭借无可匹敌的性能在全球范围内收获了旺盛需求，唯独中国市场长期缺位 —— 受美国敏感技术产品出口管制规则约束，英伟达始终无法向中国客户销售其最先进的 GPU 与 AI 芯片产品"
       ],
-      "url": "http://www.iheima.com/article-402016.html",
-      "source": "iheima.com",
+      "url": "https://nai500.com/zh-hans/blog/2026/09/%E5%8D%8E%E4%B8%BA%E6%98%87%E8%85%BE%E8%8A%AF%E7%89%87%E6%8F%90%E5%89%8D%E8%90%BD%E5%9C%B0%EF%BC%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9A%84%E9%A3%8E%E9%99%A9%E5%A4%A7%E5%90%97%EF%BC%9F",
+      "source": "nai500.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-18T01:00:00Z"
+    },
+    {
+      "id": "c407242ba912",
+      "title": "IDC通用Agent评测出炉  TeleAgent星辰超级智能体跻身前三",
+      "summary": "[](\n\n 时政\n 热点\n 政务\n 深瞳\n 访谈\n 视频\n 国际\n 地方\n 专题\n English\n 滚动\n\n[](  登录 -\n\n所在位置： 中国科技网首页 > 滚动 > 正文\n\n# IDC通用Agent评测出炉  TeleAgent星辰超级智能体跻身前三\n\n2026-09-17 22:14:37 来源:  科技日报  点击数：\n\n科技日报记者 马爱平\n\n近日，国际数据公司（IDC）发布《中国企...",
+      "highlights": [
+        "所在位置： 中国科技网首页 > 滚动 > 正文",
+        "# IDC通用Agent评测出炉  TeleAgent星辰超级智能体跻身前三",
+        "2026-09-17 22:14:37 来源:  科技日报  点击数："
+      ],
+      "url": "https://www.stdaily.com/web/gdxw/2026-09/17/content_582983.html",
+      "source": "stdaily.com",
       "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-16T03:00:00Z"
+      "importance": 5,
+      "publishedAt": "2026-09-17T14:00:00Z"
+    },
+    {
+      "id": "8b6296a97aaa",
+      "title": "三家AI公司估值超5万亿美元、超过45年科技IPO首日估值总和，VC“分散投资”逻辑正在失效",
+      "summary": "AI浪潮推动Anthropic、OpenAI、SpaceX三家公司合计估值超5万亿美元，超越45年科技IPO总和。资金向头部VC机构高度集中，三家机构独揽三分之一新增资金。",
+      "highlights": [
+        "AI浪潮推动Anthropic、OpenAI、SpaceX三家公司合计估值超5万亿美元，超越45年科技IPO总和",
+        "资金向头部VC机构高度集中，三家机构独揽三分之一新增资金"
+      ],
+      "url": "https://wallstreetcn.com/articles/3782032",
+      "source": "wallstreetcn.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-18T04:00:00Z"
+    },
+    {
+      "id": "772a495274cb",
+      "title": "GPT-6 来了，我们和多个局内人聊具身智能的护城河与暗礁-虎嗅网",
+      "summary": "虎嗅嗅全新升级虎嗅嗅全新升级\n\nGPT-6 来了，我们和多个局内人聊具身智能的护城河与暗礁\n\n# GPT-6 来了，我们和多个局内人聊具身智能的护城河与暗礁\n\n具身研习社\n\n本文来自微信公众号： 具身研习社 ，作者：彭堃方，编辑：吕鑫燚，原文标题：《GPT-6 来了，我们和多个局内人聊具身智能的护城河与暗礁》\n\n具身智能局内人开始担心未来会被提前兑现，因为兑现它的公司，可能另有其人。\n\nGPT-6...",
+      "highlights": [
+        "虎嗅嗅全新升级虎嗅嗅全新升级",
+        "GPT-6 来了，我们和多个局内人聊具身智能的护城河与暗礁",
+        "# GPT-6 来了，我们和多个局内人聊具身智能的护城河与暗礁"
+      ],
+      "url": "https://www.huxiu.com/article/4891664.html",
+      "source": "huxiu.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-16T08:06:20Z"
     },
     {
       "id": "b1f4e153ebdb",
@@ -204,21 +235,6 @@
       "category": "投并购",
       "importance": 4,
       "publishedAt": "2026-09-16T17:00:00Z"
-    },
-    {
-      "id": "96f9380e0569",
-      "title": "再论具身智能:跑出\"挖掘机指数\"前,先给机器人发一张\"考勤表\" | 信息化观察网 - 引领行业变革",
-      "summary": "马斯克给这个动作补了个注解：这是特斯拉造过的最难规模化的产品，机器人上的一切都是新的。\n\n一家公司为自己的机器人办了一所学校，第一批毕业生的雇主也是这家公司自己。\n\n顺着这个现象，如果我们去分析当前人形机器人的“在岗工时”，会发现它根本不是一个单向维度的概念，而是被重构成了三种截然不同的形态：\n\n第一种，学徒工时。\n\n机器人为自己的制造商工作，或者为买下它来训练算法的实验室工作。它消耗的是研发预算...",
-      "highlights": [
-        "马斯克给这个动作补了个注解：这是特斯拉造过的最难规模化的产品，机器人上的一切都是新的",
-        "一家公司为自己的机器人办了一所学校，第一批毕业生的雇主也是这家公司自己",
-        "顺着这个现象，如果我们去分析当前人形机器人的“在岗工时”，会发现它根本不是一个单向维度的概念，而是被重构成了三种截然不同的形态："
-      ],
-      "url": "https://www.infoobs.com/article/20260916/71910.html",
-      "source": "infoobs.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-09-16T01:23:07Z"
     },
     {
       "id": "bf9c60d0a0f9",
@@ -417,39 +433,69 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-09-17T00:00:00Z"
-    },
-    {
-      "id": "9a80403eca25",
-      "title": "论文汇总丨Benchmark进入真实世界，斯坦福/清华/Anthropic/Meta/阿里等重新定义AI能力评测",
-      "summary": "Benchmark已超越单纯“出题打分”，演变为连接模型能力、真实任务与科学进步的测量工具。新一代基准聚焦真实工作流、长期任务与多模态交互，强调过程与结果的双重验证，",
-      "highlights": [
-        "Benchmark已超越单纯“出题打分”，演变为连接模型能力、真实任务与科学进步的测量工具",
-        "新一代基准聚焦真实工作流、长期任务与多模态交互，强调过程与结果的双重验证，"
-      ],
-      "url": "https://hub.baai.ac.cn/view/58048",
-      "source": "hub.baai.ac.cn",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-09-17T11:00:00Z"
     }
   ],
-  "today": [],
-  "week": [
+  "today": [
     {
-      "id": "2e01f19067a6",
-      "title": "科创001｜成立仅1年，深圳这家具身智能公司完成超5亿元融资 - 搜狐",
-      "summary": "## 科创001｜成立仅1年，深圳这家具身智能公司完成超5亿元融资\n\n深圳商报\n\n深圳商报\n\n深圳商报·读创客户端首席记者 陈小慧\n\n记者从超维动力获悉，近日，超维动力（Kinetix AI）完成超5亿元人民币天使+轮系列融资，由新加坡淡马锡控股旗下VC机构祥峰资本、方广资本、万石资本等加注。该笔融资将用于加速“数据-模型-本体”迭代，并推动具身智能的产品化落地。\n\n这是一家来自深圳的企业。超维动...",
+      "id": "bd9447eef752",
+      "title": "中国AI完成“本土化”跨越，真正赚钱的“微笑曲线”已经浮现 - 华尔街见闻",
+      "summary": "### 大家都在搜\n\n# 中国AI完成“本土化”跨越，真正赚钱的“微笑曲线”已经浮现\n\n中国AI产业正从政策驱动的技术追赶，迈入以商业变现为核心的生态竞争新阶段。\n\n据追风交易台，美银美林9月17日发布的最新研究报告，中国AI本土化进程已在芯片、存储、设备及大模型等多个层面取得实质性突破，而随着技术差距收窄，价值链的利润分布正在浮现出清晰的\"微笑曲线\"结构。\n\n报告指出，中国AI价值链正形成\"哑铃...",
       "highlights": [
-        "## 科创001｜成立仅1年，深圳这家具身智能公司完成超5亿元融资",
-        "深圳商报·读创客户端首席记者 陈小慧",
-        "记者从超维动力获悉，近日，超维动力（Kinetix AI）完成超5亿元人民币天使+轮系列融资，由新加坡淡马锡控股旗下VC机构祥峰资本、方广资本、万石资本等加注"
+        "# 中国AI完成“本土化”跨越，真正赚钱的“微笑曲线”已经浮现",
+        "中国AI产业正从政策驱动的技术追赶，迈入以商业变现为核心的生态竞争新阶段",
+        "据追风交易台，美银美林9月17日发布的最新研究报告，中国AI本土化进程已在芯片、存储、设备及大模型等多个层面取得实质性突破，而随着技术差距收窄，价值链的利润分布正在浮现出清晰的\"微笑曲线\"结构"
       ],
-      "url": "https://m.sohu.com/a/1076465658_121010226?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "具身智能",
+      "url": "https://wallstreetcn.com/articles/3782049",
+      "source": "wallstreetcn.com",
+      "category": "芯片硬件",
       "importance": 5,
-      "publishedAt": "2026-09-15T20:17:00Z"
+      "publishedAt": "2026-09-18T02:58:22Z"
     },
+    {
+      "id": "e0ae7641d64f",
+      "title": "华为昇腾芯片提前落地，英伟达的风险大吗？ | NAI 500",
+      "summary": "logo\n\n# 华为昇腾芯片提前落地，英伟达的风险大吗？\n\n华为AI芯片突袭！英伟达、台积电股价双双跳水\n\n作为全球高端 AI 芯片市场长期的领跑者，英伟达（NVDA）旗下顶级 GPU 产品凭借无可匹敌的性能在全球范围内收获了旺盛需求，唯独中国市场长期缺位 —— 受美国敏感技术产品出口管制规则约束，英伟达始终无法向中国客户销售其最先进的 GPU 与 AI 芯片产品。这一规则塑造的非对称竞争环境，也...",
+      "highlights": [
+        "# 华为昇腾芯片提前落地，英伟达的风险大吗",
+        "英伟达、台积电股价双双跳水",
+        "作为全球高端 AI 芯片市场长期的领跑者，英伟达（NVDA）旗下顶级 GPU 产品凭借无可匹敌的性能在全球范围内收获了旺盛需求，唯独中国市场长期缺位 —— 受美国敏感技术产品出口管制规则约束，英伟达始终无法向中国客户销售其最先进的 GPU 与 AI 芯片产品"
+      ],
+      "url": "https://nai500.com/zh-hans/blog/2026/09/%E5%8D%8E%E4%B8%BA%E6%98%87%E8%85%BE%E8%8A%AF%E7%89%87%E6%8F%90%E5%89%8D%E8%90%BD%E5%9C%B0%EF%BC%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9A%84%E9%A3%8E%E9%99%A9%E5%A4%A7%E5%90%97%EF%BC%9F",
+      "source": "nai500.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-18T01:00:00Z"
+    },
+    {
+      "id": "8b6296a97aaa",
+      "title": "三家AI公司估值超5万亿美元、超过45年科技IPO首日估值总和，VC“分散投资”逻辑正在失效",
+      "summary": "AI浪潮推动Anthropic、OpenAI、SpaceX三家公司合计估值超5万亿美元，超越45年科技IPO总和。资金向头部VC机构高度集中，三家机构独揽三分之一新增资金。",
+      "highlights": [
+        "AI浪潮推动Anthropic、OpenAI、SpaceX三家公司合计估值超5万亿美元，超越45年科技IPO总和",
+        "资金向头部VC机构高度集中，三家机构独揽三分之一新增资金"
+      ],
+      "url": "https://wallstreetcn.com/articles/3782032",
+      "source": "wallstreetcn.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-18T04:00:00Z"
+    },
+    {
+      "id": "77d467d83d0a",
+      "title": "汽车与具身智能加速融合",
+      "summary": "杨忠阳 2026-09-18 12:44:31. 位于广州市天河区的小鹏科技园展出的小鹏具身智能机器人。新华社记者邓华摄. “对于汽车企业而言，放弃具身智能赛道，将错失产业能力延伸",
+      "highlights": [
+        "杨忠阳 2026-09-18 12:44:31. 位于广州市天河区的小鹏科技园展出的小鹏具身智能机器人",
+        "新华社记者邓华摄. “对于汽车企业而言，放弃具身智能赛道，将错失产业能力延伸"
+      ],
+      "url": "http://www.jingjiribao.cn/static/detail.jsp?id=684007",
+      "source": "jingjiribao.cn",
+      "category": "具身智能",
+      "importance": 2,
+      "publishedAt": "2026-09-18T05:00:00Z"
+    }
+  ],
+  "week": [
     {
       "id": "a0ec0cf13f46",
       "title": "CNBC Daily Open: Is AI safe? Industry leaders and Trump disagree - CNBC",
@@ -479,21 +525,6 @@
       "publishedAt": "2026-09-16T06:34:11Z"
     },
     {
-      "id": "2f46181dd5cf",
-      "title": "科创001｜成立仅1年，深圳这家具身智能公司完成超5亿元融资_搜狐网",
-      "summary": "以高动态人形机器人乒乓球系统SMASH为例，SMASH通过将高速视觉感知、实时轨迹预测、全身运动控制和具身智能决策深度融合，实现了肩、肘、腕、腰、腿等多关节的毫秒级全身协同控制。依托人类真实运动数据训练与全身策略优化，机器人在对打中展现出了接近人类运动员的动作协调性与环境适应力。\n\n与其他具身智能企业不同的是，超维动力瞄准了超高拟人人形机器人，推出了KAI Bot，其身高173cm、体重70kg，...",
-      "highlights": [
-        "以高动态人形机器人乒乓球系统SMASH为例，SMASH通过将高速视觉感知、实时轨迹预测、全身运动控制和具身智能决策深度融合，实现了肩、肘、腕、腰、腿等多关节的毫秒级全身协同控制",
-        "依托人类真实运动数据训练与全身策略优化，机器人在对打中展现出了接近人类运动员的动作协调性与环境适应力",
-        "与其他具身智能企业不同的是，超维动力瞄准了超高拟人人形机器人，推出了KAI Bot，其身高173cm、体重70kg，复刻真人身体比例，全身共117个自由度"
-      ],
-      "url": "https://www.sohu.com/a/1076465658_121010226",
-      "source": "sohu.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-15T20:17:00Z"
-    },
-    {
       "id": "64b49d2d0f5a",
       "title": "OpenAI 将 ChatGPT 打造成广告平台，引入“赞助智能体”",
       "summary": "Aug 24, 2026\n\n去中心化 AI 借区块链确权模型收益与治理权，将训练与推理拆层定价， 兼顾性能与可验证性，正挑战中心化巨头的封闭范式。\n\n如何使用 AI 股票交易机器人：免费工具与真实风险\n\n为什么没有自有区块链层的 AI 代理无法实现规模化\n\nAI 代理正实际管理资金并跨链操作，但传统为人类设计的钱包在密钥托管、Gas 机制和账户模型上都不适配机器。新一代链上基础设施正围绕代理账户、...",
@@ -507,21 +538,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-09-16T22:18:06Z"
-    },
-    {
-      "id": "b6a759300b24",
-      "title": "并购、IPO辅导、融资接连落地〡陕西科创企业8月融资动态_搜狐网",
-      "summary": "## 并购、IPO辅导、融资接连落地〡陕西科创企业8月融资动态\n\n每日经济新闻\n\n每日经济新闻\n\n每经记者｜贺娟娟 每经编辑｜张静\n\n资本是产业成长的晴雨表。8月，陕西硬科技赛道资本动作进入密集窗口期，集成电路、光子、商业航天、新型储能等核心产业先后披露多起重点资本事件，覆盖上市公司并购重组、A股IPO辅导、A轮至Pre-C轮私募股权融资等多元资本路径。本土硬科技企业或借助并购登陆资本市场，或通过...",
-      "highlights": [
-        "## 并购、IPO辅导、融资接连落地〡陕西科创企业8月融资动态",
-        "每经记者｜贺娟娟 每经编辑｜张静",
-        "资本是产业成长的晴雨表"
-      ],
-      "url": "https://m.sohu.com/a/1076429923_115362?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-15T18:47:04Z"
     },
     {
       "id": "1834ae15e77b",
@@ -627,35 +643,20 @@
       "publishedAt": "2026-09-16T17:00:00Z"
     },
     {
-      "id": "93ba2469db61",
-      "title": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports - Reuters",
-      "summary": "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. ## Browse Business. Sept 15 (Reuters) - OpenAI is working with rivals Anthropic ​and ...",
+      "id": "ac5a1dd5398e",
+      "title": "IDC发布Agent评估报告中国电信AI全栈能力再获权威验证 - 新浪财经",
+      "summary": "新浪首页\n 新闻\n 体育\n 财经\n 娱乐\n 科技\n 博客\n 图片\n 专栏\n 更多\n\n 汽车 教育 时尚 女性 星座 健康\n 房产历史视频收藏育儿读书\n 佛学游戏旅游邮箱导航\n\n 新浪微博\n 新浪新闻\n 新浪财经\n 新浪体育\n 新浪众测\n 新浪博客\n 新浪视频\n 新浪游戏\n 天气通\n\n[](\n\n证券 > 正文\n\n# IDC发布Agent评估报告 中国电信AI全栈能力再获权威验证\n\nIDC发布Agen...",
       "highlights": [
-        "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. ## Browse Business. Sept 15 (Reuters) - OpenAI is working with rivals Anthropic ​and Alphabet's (GOOGL.O), opens new tab Google DeepMind on AI safety, Bloomberg ‌News reported on Tuesday, citing the ChatGPT maker's global policy chief Chris Lehane. Global concerns about ​AI's existential risks have risen after ​the heads of America's leading AI labs ⁠came together in a show of ​unity over the weekend to call for a ​pause in the development of the technology. Learn about the latest breakthroughs in AI and tech with the Reuters Artificial Intelligencer newsletter. Lehane said OpenAI had been in talks with Anthropic and Google ​for several weeks and did not ​believe the three AI firms needed an antitrust waiver ‌to ⁠coordinate on safety issues, according to the report. *   Media Center, opens new tab. *   Reuters News Agency, opens new tab. *   Reuters and AI, opens new tab."
+        "汽车 教育 时尚 女性 星座 健康",
+        "房产历史视频收藏育儿读书",
+        "# IDC发布Agent评估报告 中国电信AI全栈能力再获权威验证"
       ],
-      "url": "https://www.reuters.com/technology/openai-is-working-with-anthropic-google-ai-safety-bloomberg-news-reports-2026-09-15/",
-      "source": "reuters.com",
-      "category": "模型发布",
+      "url": "https://finance.sina.com.cn/stock/t/2026-09-17/doc-iniscekk9334243.shtml",
+      "source": "finance.sina.com.cn",
+      "category": "产品进展",
       "importance": 5,
-      "publishedAt": "2026-09-15T14:50:18Z"
+      "publishedAt": "2026-09-17T05:19:43Z"
     },
-    {
-      "id": "1ad556c2cf20",
-      "title": "OpenAI, Anthropic And Google DeepMind Discuss AI Safety As Industry Faces Pressure To Slow Frontier Development: Report",
-      "summary": "The best trade ideas and analysis from the Stocktwits community. Delivered daily by 8 pm ET.\n\nSubmit\n\nRead about our editorial guidelines and ethics policy\n\nTrendingLarge CapRetailEquitiesUS\n\n## Lates...",
-      "highlights": [
-        "The best trade ideas and analysis from the Stocktwits community. Delivered daily by 8 pm ET.",
-        "Read about our editorial guidelines and ethics policy",
-        "TrendingLarge CapRetailEquitiesUS"
-      ],
-      "url": "https://stocktwits.com/news-articles/markets/equity/open-ai-anthropic-and-google-deep-mind-discuss-ai-safety-as-industry-faces-pressure-to-slow-frontier-development-report/cZtnK7mRBcV",
-      "source": "stocktwits.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-15T17:19:23Z"
-    }
-  ],
-  "month": [
     {
       "id": "2e01f19067a6",
       "title": "科创001｜成立仅1年，深圳这家具身智能公司完成超5亿元融资 - 搜狐",
@@ -671,6 +672,51 @@
       "importance": 5,
       "publishedAt": "2026-09-15T20:17:00Z"
     },
+    {
+      "id": "2f46181dd5cf",
+      "title": "科创001｜成立仅1年，深圳这家具身智能公司完成超5亿元融资_搜狐网",
+      "summary": "以高动态人形机器人乒乓球系统SMASH为例，SMASH通过将高速视觉感知、实时轨迹预测、全身运动控制和具身智能决策深度融合，实现了肩、肘、腕、腰、腿等多关节的毫秒级全身协同控制。依托人类真实运动数据训练与全身策略优化，机器人在对打中展现出了接近人类运动员的动作协调性与环境适应力。\n\n与其他具身智能企业不同的是，超维动力瞄准了超高拟人人形机器人，推出了KAI Bot，其身高173cm、体重70kg，...",
+      "highlights": [
+        "以高动态人形机器人乒乓球系统SMASH为例，SMASH通过将高速视觉感知、实时轨迹预测、全身运动控制和具身智能决策深度融合，实现了肩、肘、腕、腰、腿等多关节的毫秒级全身协同控制",
+        "依托人类真实运动数据训练与全身策略优化，机器人在对打中展现出了接近人类运动员的动作协调性与环境适应力",
+        "与其他具身智能企业不同的是，超维动力瞄准了超高拟人人形机器人，推出了KAI Bot，其身高173cm、体重70kg，复刻真人身体比例，全身共117个自由度"
+      ],
+      "url": "https://www.sohu.com/a/1076465658_121010226",
+      "source": "sohu.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-15T20:17:00Z"
+    },
+    {
+      "id": "b6a759300b24",
+      "title": "并购、IPO辅导、融资接连落地〡陕西科创企业8月融资动态_搜狐网",
+      "summary": "## 并购、IPO辅导、融资接连落地〡陕西科创企业8月融资动态\n\n每日经济新闻\n\n每日经济新闻\n\n每经记者｜贺娟娟 每经编辑｜张静\n\n资本是产业成长的晴雨表。8月，陕西硬科技赛道资本动作进入密集窗口期，集成电路、光子、商业航天、新型储能等核心产业先后披露多起重点资本事件，覆盖上市公司并购重组、A股IPO辅导、A轮至Pre-C轮私募股权融资等多元资本路径。本土硬科技企业或借助并购登陆资本市场，或通过...",
+      "highlights": [
+        "## 并购、IPO辅导、融资接连落地〡陕西科创企业8月融资动态",
+        "每经记者｜贺娟娟 每经编辑｜张静",
+        "资本是产业成长的晴雨表"
+      ],
+      "url": "https://m.sohu.com/a/1076429923_115362?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-15T18:47:04Z"
+    },
+    {
+      "id": "93ba2469db61",
+      "title": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports - Reuters",
+      "summary": "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. ## Browse Business. Sept 15 (Reuters) - OpenAI is working with rivals Anthropic ​and ...",
+      "highlights": [
+        "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. ## Browse Business. Sept 15 (Reuters) - OpenAI is working with rivals Anthropic ​and Alphabet's (GOOGL.O), opens new tab Google DeepMind on AI safety, Bloomberg ‌News reported on Tuesday, citing the ChatGPT maker's global policy chief Chris Lehane. Global concerns about ​AI's existential risks have risen after ​the heads of America's leading AI labs ⁠came together in a show of ​unity over the weekend to call for a ​pause in the development of the technology. Learn about the latest breakthroughs in AI and tech with the Reuters Artificial Intelligencer newsletter. Lehane said OpenAI had been in talks with Anthropic and Google ​for several weeks and did not ​believe the three AI firms needed an antitrust waiver ‌to ⁠coordinate on safety issues, according to the report. *   Media Center, opens new tab. *   Reuters News Agency, opens new tab. *   Reuters and AI, opens new tab."
+      ],
+      "url": "https://www.reuters.com/technology/openai-is-working-with-anthropic-google-ai-safety-bloomberg-news-reports-2026-09-15/",
+      "source": "reuters.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-15T14:50:18Z"
+    }
+  ],
+  "month": [
     {
       "id": "a0ec0cf13f46",
       "title": "CNBC Daily Open: Is AI safe? Industry leaders and Trump disagree - CNBC",
@@ -700,21 +746,6 @@
       "publishedAt": "2026-09-16T06:34:11Z"
     },
     {
-      "id": "2f46181dd5cf",
-      "title": "科创001｜成立仅1年，深圳这家具身智能公司完成超5亿元融资_搜狐网",
-      "summary": "以高动态人形机器人乒乓球系统SMASH为例，SMASH通过将高速视觉感知、实时轨迹预测、全身运动控制和具身智能决策深度融合，实现了肩、肘、腕、腰、腿等多关节的毫秒级全身协同控制。依托人类真实运动数据训练与全身策略优化，机器人在对打中展现出了接近人类运动员的动作协调性与环境适应力。\n\n与其他具身智能企业不同的是，超维动力瞄准了超高拟人人形机器人，推出了KAI Bot，其身高173cm、体重70kg，...",
-      "highlights": [
-        "以高动态人形机器人乒乓球系统SMASH为例，SMASH通过将高速视觉感知、实时轨迹预测、全身运动控制和具身智能决策深度融合，实现了肩、肘、腕、腰、腿等多关节的毫秒级全身协同控制",
-        "依托人类真实运动数据训练与全身策略优化，机器人在对打中展现出了接近人类运动员的动作协调性与环境适应力",
-        "与其他具身智能企业不同的是，超维动力瞄准了超高拟人人形机器人，推出了KAI Bot，其身高173cm、体重70kg，复刻真人身体比例，全身共117个自由度"
-      ],
-      "url": "https://www.sohu.com/a/1076465658_121010226",
-      "source": "sohu.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-15T20:17:00Z"
-    },
-    {
       "id": "64b49d2d0f5a",
       "title": "OpenAI 将 ChatGPT 打造成广告平台，引入“赞助智能体”",
       "summary": "Aug 24, 2026\n\n去中心化 AI 借区块链确权模型收益与治理权，将训练与推理拆层定价， 兼顾性能与可验证性，正挑战中心化巨头的封闭范式。\n\n如何使用 AI 股票交易机器人：免费工具与真实风险\n\n为什么没有自有区块链层的 AI 代理无法实现规模化\n\nAI 代理正实际管理资金并跨链操作，但传统为人类设计的钱包在密钥托管、Gas 机制和账户模型上都不适配机器。新一代链上基础设施正围绕代理账户、...",
@@ -728,21 +759,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-09-16T22:18:06Z"
-    },
-    {
-      "id": "b6a759300b24",
-      "title": "并购、IPO辅导、融资接连落地〡陕西科创企业8月融资动态_搜狐网",
-      "summary": "## 并购、IPO辅导、融资接连落地〡陕西科创企业8月融资动态\n\n每日经济新闻\n\n每日经济新闻\n\n每经记者｜贺娟娟 每经编辑｜张静\n\n资本是产业成长的晴雨表。8月，陕西硬科技赛道资本动作进入密集窗口期，集成电路、光子、商业航天、新型储能等核心产业先后披露多起重点资本事件，覆盖上市公司并购重组、A股IPO辅导、A轮至Pre-C轮私募股权融资等多元资本路径。本土硬科技企业或借助并购登陆资本市场，或通过...",
-      "highlights": [
-        "## 并购、IPO辅导、融资接连落地〡陕西科创企业8月融资动态",
-        "每经记者｜贺娟娟 每经编辑｜张静",
-        "资本是产业成长的晴雨表"
-      ],
-      "url": "https://m.sohu.com/a/1076429923_115362?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-15T18:47:04Z"
     },
     {
       "id": "1834ae15e77b",
@@ -803,6 +819,49 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-17T05:55:22Z"
+    },
+    {
+      "id": "9ee6c0cd77d1",
+      "title": "AI调用量连续20周超美国，中国大模型靠什么抢市场？",
+      "summary": "新浪新闻客户端\n新浪新闻客户端\n\n# 新浪看点\n\n新浪新闻客户端\n新浪新闻公众号\n新浪新闻视频号\n新浪新闻抖音\n新浪新闻快手\n新浪新闻小红书\n新浪新闻B站\n热搜时代小宇宙\n\n# AI调用量连续20周超美国，中国大模型靠什么抢市场？\n\navatar\n\n　　（来源：第一财经资讯）\n\n　　过去两周，AI行业像被按下了快进键。\n\n　　9月1日到9月11日，海内外7家头部模型厂商迭代了新模型。过去，大模型的...",
+      "highlights": [
+        "# AI调用量连续20周超美国，中国大模型靠什么抢市场",
+        "（来源：第一财经资讯）",
+        "过去两周，AI行业像被按下了快进键"
+      ],
+      "url": "https://k.sina.com.cn/article_5952915705_162d248f906703oi7i.html",
+      "source": "k.sina.com.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-17T10:04:51Z"
+    },
+    {
+      "id": "288e723bbcf7",
+      "title": "Meta自研AI芯片交付首批样片__财经头条__新浪财经",
+      "summary": "国信证券研报指出，自研ASIC正在成为云厂商构建竞争优势的重要抓手。一方面，自研芯片有助于缓解高端GPU供给约束，提升算力供给能力；另一方面，相较于外部采购GPU，自研ASIC能够显著优化成本结构，提升云业务盈利能力。随着自研芯片成熟度持续提升，预计具备ASIC能力的云厂商有望在收入增长与利润释放两个维度持续受益。\n\n天弘上证科创板芯片设计主题ETF发起联接基金（027574）跟踪的上证科创板芯片...",
+      "highlights": [
+        "国信证券研报指出，自研ASIC正在成为云厂商构建竞争优势的重要抓手",
+        "一方面，自研芯片有助于缓解高端GPU供给约束，提升算力供给能力；另一方面，相较于外部采购GPU，自研ASIC能够显著优化成本结构，提升云业务盈利能力",
+        "随着自研芯片成熟度持续提升，预计具备ASIC能力的云厂商有望在收入增长与利润释放两个维度持续受益"
+      ],
+      "url": "https://cj.sina.cn/articles/view/7651844612/1c815e204001020a3e",
+      "source": "cj.sina.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-16T17:12:55Z"
+    },
+    {
+      "id": "ae754b465e2c",
+      "title": "Google Home Is Going Agentic Via Integration With The MCP Standard - Engadget",
+      "summary": "# Google Home is going agentic via integration with the MCP standard. Premium Advanced users will get an early access build \"in the coming weeks.\". Google Home is getting support for the Model Context...",
+      "highlights": [
+        "# Google Home is going agentic via integration with the MCP standard. Premium Advanced users will get an early access build \"in the coming weeks.\". Google Home is getting support for the Model Context Protocol (MCP) standard. This means that users will be able to use a variety of AI agents to complete smart home tasks, as MCP is a software platform that lets agentic chatbots connect to external APIs. Supported agents include Google Antigravity, Claude, Hermes and Open Claw, among others. Google says the integration will let these agents \"securely work with all of the devices and event history in your Google Home ecosystem.\". Google says an early access build will arrive in the \"coming weeks.\" However, it'll only be available to Google Home Premium Advanced users for now. Anthropic introduced MCP back in 2024 and it's become somewhat popular in the past year or so. Google, OpenAI, Microsoft and SpaceXAI all support it in some form and many applications plug in neatly."
+      ],
+      "url": "https://www.engadget.com/2260280/google-home-is-going-agentic-via-integration-with-the-mcp-standard/",
+      "source": "engadget.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-16T17:00:00Z"
     }
   ]
 }
