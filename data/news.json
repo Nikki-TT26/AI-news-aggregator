@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-09-19T00:01:22Z",
+  "updatedAt": "2026-09-19T06:01:30Z",
   "latest": [
-    {
-      "id": "72f35c757c1a",
-      "title": "What are the biggest AI companies and how much are they worth?",
-      "summary": "### Hardware\n\nAt the foundation of the AI industry are the companies that design and manufacture the physical chips AI runs on, along with the equipment that keeps data centres powered and cooled.\n\nTh...",
-      "highlights": [
-        "### Hardware",
-        "At the foundation of the AI industry are the companies that design and manufacture the physical chips AI runs on, along with the equipment that keeps data centres powered and cooled.",
-        "These include:"
-      ],
-      "url": "https://www.aljazeera.com/news/2026/9/17/what-are-the-biggest-ai-companies-and-how-much-are-they-worth",
-      "source": "aljazeera.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-17T05:55:22Z"
-    },
     {
       "id": "9ee6c0cd77d1",
       "title": "AI调用量连续20周超美国，中国大模型靠什么抢市场？",
@@ -30,21 +15,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-09-17T10:04:51Z"
-    },
-    {
-      "id": "ac5a1dd5398e",
-      "title": "IDC发布Agent评估报告中国电信AI全栈能力再获权威验证 - 新浪财经",
-      "summary": "新浪首页\n 新闻\n 体育\n 财经\n 娱乐\n 科技\n 博客\n 图片\n 专栏\n 更多\n\n 汽车 教育 时尚 女性 星座 健康\n 房产历史视频收藏育儿读书\n 佛学游戏旅游邮箱导航\n\n 新浪微博\n 新浪新闻\n 新浪财经\n 新浪体育\n 新浪众测\n 新浪博客\n 新浪视频\n 新浪游戏\n 天气通\n\n[](\n\n证券 > 正文\n\n# IDC发布Agent评估报告 中国电信AI全栈能力再获权威验证\n\nIDC发布Agen...",
-      "highlights": [
-        "汽车 教育 时尚 女性 星座 健康",
-        "房产历史视频收藏育儿读书",
-        "# IDC发布Agent评估报告 中国电信AI全栈能力再获权威验证"
-      ],
-      "url": "https://finance.sina.com.cn/stock/t/2026-09-17/doc-iniscekk9334243.shtml",
-      "source": "finance.sina.com.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-17T05:19:43Z"
     },
     {
       "id": "bd9447eef752",
@@ -196,19 +166,19 @@
       "publishedAt": "2026-09-18T14:00:35Z"
     },
     {
-      "id": "5a86ba62ddf3",
-      "title": "Agent产业化加速：2026全栈式AI智能体解决方案提供商推荐参考_财富号_东方财富网",
-      "summary": "财经\n 焦点\n 股票\n 新股\n 期指\n 期权\n 行情\n 数据\n 全球\n 美股\n 港股\n 期货\n 外汇\n 银行\n 基金\n 理财\n 债券\n 直播\n 股吧\n 基金吧\n 博客\n 财富号\n 搜索\n\n指数期指期权个股板块排行新股基金港股美股期货外汇黄金自选股自选基金\n\n资金流向主力排名板块资金个股研报新股申购转债申购北交所申购AH股比价年报大全融资融券龙虎榜限售解禁IPO审核大宗交易估值分析\n\n首页 > 社区...",
+      "id": "08ac952c23e0",
+      "title": "算力之外拼记忆，华为云亮出企业级AI产品矩阵 - 视频 - 南方财经网",
+      "summary": "AI产品向企业落地的过程中，办公是其中一个重要落地方向。8月以来，腾讯、字节跳动、阿里巴巴等均释放出明显信号，打造主力AI办公产品。8月25日，字节跳动发布AI办公产品“豆包工作”，统一面向生产力场景的AI Agent（智能体）产品与品牌，并与协同办公应用飞书深度打通。8月3日，阿里巴巴将三款产品整合形成企业级Agent产品“千问办公”（QwenWork），并接入新发布的旗舰模型Qwen3.8。9...",
       "highlights": [
-        "指数期指期权个股板块排行新股基金港股美股期货外汇黄金自选股自选基金",
-        "资金流向主力排名板块资金个股研报新股申购转债申购北交所申购AH股比价年报大全融资融券龙虎榜限售解禁IPO审核大宗交易估值分析",
-        "首页 > 社区 > 正文"
+        "AI产品向企业落地的过程中，办公是其中一个重要落地方向",
+        "8月以来，腾讯、字节跳动、阿里巴巴等均释放出明显信号，打造主力AI办公产品",
+        "8月25日，字节跳动发布AI办公产品“豆包工作”，统一面向生产力场景的AI Agent（智能体）产品与品牌，并与协同办公应用飞书深度打通"
       ],
-      "url": "https://caifuhao.eastmoney.com/news/20260917103440224339570",
-      "source": "caifuhao.eastmoney.com",
+      "url": "http://www.sfccn.com/2026/9-18/zOMDE1MThfMjI0NTczOQ.html",
+      "source": "sfccn.com",
       "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-17T03:00:00Z"
+      "importance": 5,
+      "publishedAt": "2026-09-18T12:00:00Z"
     },
     {
       "id": "ee77f4d12144",
@@ -224,19 +194,6 @@
       "category": "投并购",
       "importance": 4,
       "publishedAt": "2026-09-17T10:00:00Z"
-    },
-    {
-      "id": "71e2fe6103b1",
-      "title": "OpenAI flags new concerning AI behavior, to track model misalignment regularly - Greenwich Time",
-      "summary": "OpenAI has disclosed six reports of “unexpected or concerning” behavior in artificial-intelligence models as the debate on AI safety becomes increasingly heated. The AI company also said Wednesday it ...",
-      "highlights": [
-        "OpenAI has disclosed six reports of “unexpected or concerning” behavior in artificial-intelligence models as the debate on AI safety becomes increasingly heated. The AI company also said Wednesday it was introducing a new framework for tracking, probing and disclosing AI model misalignment instances, such as new ways for the models to act without authorization, coordinate with other models or evade oversight. OpenAI’s latest announcement came as U.S. AI bosses, including OpenAI and Anthropic, are calling for a slowdown in the technology’s development over safety concerns. Among the new cases reported by OpenAI, an unreleased research model inserted “jailbreak-like instructions” into its own notes to disregard its normal constraints and told itself to be “freed from the roles and identities that bind other chatbots.”. “As AI systems grow more advanced and more widely deployed, we need to build a broader and better-informed consensus on the progress of alignment research,” OpenAI wrote in a blog post as it disclosed the events."
-      ],
-      "url": "https://www.greenwichtime.com/business/article/openai-flags-new-concerning-ai-behavior-to-track-22435872.php",
-      "source": "greenwichtime.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-17T03:57:17Z"
     },
     {
       "id": "7c0b72cd131b",
@@ -433,40 +390,69 @@
       "category": "产品进展",
       "importance": 4,
       "publishedAt": "2026-09-18T00:00:00Z"
+    },
+    {
+      "id": "d335a3770c36",
+      "title": "研报 | AI芯片封装突破光罩极限，CoWoS-L稳居先进封装主流至2028年",
+      "summary": "Sep. 18, 2026 产业洞察根据TrendForce集邦咨询最新半导体先进封装产业研究，随着GPU厂商、超大型云端服务供应商（CSP）持续开发更强大、功能多元的AI芯片，2.5D封装.",
+      "highlights": [
+        "Sep. 18, 2026 产业洞察根据TrendForce集邦咨询最新半导体先进封装产业研究，随着GPU厂商、超大型云端服务供应商（CSP）持续开发更强大、功能多元的AI芯片，2.5D封装."
+      ],
+      "url": "https://www.eet-china.com/mp/a525852.html",
+      "source": "eet-china.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-09-18T07:00:00Z"
+    },
+    {
+      "id": "e50277e3ffcf",
+      "title": "对话超维动力喻杰：具身智能，没有弯道超车｜独家 - 潮起网",
+      "summary": "我在华为亲历了自动驾驶从零到百万辆以上量产的过程，这套经验放到具身行业是用得上的。\n\n创投家：这套经验具体是指什么？\n\n喻杰：第一，做AI落地，光有好的算法不够，还要有快速迭代的能力。在华为，我们花了很多精力搭基础设施，让整个系统能快速迭代，这对后来做到百万辆以上的量产帮助非常大。\n\n第二，数据能力：数据的快速回传、清洗、处理、训练，这套链路我们建得比较早，也因此很早就认识到，在早期，数据积累比算...",
+      "highlights": [
+        "我在华为亲历了自动驾驶从零到百万辆以上量产的过程，这套经验放到具身行业是用得上的",
+        "创投家：这套经验具体是指什么",
+        "喻杰：第一，做AI落地，光有好的算法不够，还要有快速迭代的能力"
+      ],
+      "url": "https://www.ichaoqi.com/guandian/2026/0918/87391.html",
+      "source": "ichaoqi.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-18T15:30:09Z"
+    },
+    {
+      "id": "ca73c9eeec1a",
+      "title": "Google’s Gemini agents hacked three companies in new AI safety incident",
+      "summary": "Most Read\n\n       OpenAI breached by researchers using Anthropic models\n       Anthropic and the golden rules of business\n       Raspberry Pi founder Eben Upton: ‘I’m an omni-geek’\n       OpenAI discl...",
+      "highlights": [
+        "OpenAI breached by researchers using Anthropic models",
+        "Anthropic and the golden rules of business",
+        "Raspberry Pi founder Eben Upton: ‘I’m an omni-geek’"
+      ],
+      "url": "https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1",
+      "source": "ft.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-19T01:29:25Z"
     }
   ],
-  "today": [],
+  "today": [
+    {
+      "id": "ca73c9eeec1a",
+      "title": "Google’s Gemini agents hacked three companies in new AI safety incident",
+      "summary": "Most Read\n\n       OpenAI breached by researchers using Anthropic models\n       Anthropic and the golden rules of business\n       Raspberry Pi founder Eben Upton: ‘I’m an omni-geek’\n       OpenAI discl...",
+      "highlights": [
+        "OpenAI breached by researchers using Anthropic models",
+        "Anthropic and the golden rules of business",
+        "Raspberry Pi founder Eben Upton: ‘I’m an omni-geek’"
+      ],
+      "url": "https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1",
+      "source": "ft.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-19T01:29:25Z"
+    }
+  ],
   "week": [
-    {
-      "id": "64b49d2d0f5a",
-      "title": "OpenAI 将 ChatGPT 打造成广告平台，引入“赞助智能体”",
-      "summary": "Aug 24, 2026\n\n去中心化 AI 借区块链确权模型收益与治理权，将训练与推理拆层定价， 兼顾性能与可验证性，正挑战中心化巨头的封闭范式。\n\n如何使用 AI 股票交易机器人：免费工具与真实风险\n\n为什么没有自有区块链层的 AI 代理无法实现规模化\n\nAI 代理正实际管理资金并跨链操作，但传统为人类设计的钱包在密钥托管、Gas 机制和账户模型上都不适配机器。新一代链上基础设施正围绕代理账户、...",
-      "highlights": [
-        "Aug 24, 2026",
-        "去中心化 AI 借区块链确权模型收益与治理权，将训练与推理拆层定价， 兼顾性能与可验证性，正挑战中心化巨头的封闭范式",
-        "如何使用 AI 股票交易机器人：免费工具与真实风险"
-      ],
-      "url": "https://yellow.com/zh/news/openai-%E5%B0%86-chatgpt-%E6%89%93%E9%80%A0%E6%88%90%E5%B9%BF%E5%91%8A%E5%B9%B3%E5%8F%B0%EF%BC%8C%E5%BC%95%E5%85%A5%E2%80%9C%E8%B5%9E%E5%8A%A9%E6%99%BA%E8%83%BD%E4%BD%93%E2%80%9D",
-      "source": "yellow.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-16T22:18:06Z"
-    },
-    {
-      "id": "88ee8423f2e5",
-      "title": "AI早报 | OpenAI据悉考虑新一轮融资，估值或超1.2万亿美元；Meta将推出无摄像头AI眼镜“Luna”|界面新闻 · 科技",
-      "summary": "界面新闻logo\n\n登录\n\n\n\n旧版搜索\n\n 新版搜索\n 旧版搜索\n\n#### 历史搜索 全部删除;)\n\n#### 热门搜索\n\n\n\n扫一扫下载界面新闻APP\n\n其他途径关注界面…\n\nOpenAI\n\n# AI早报 | OpenAI据悉考虑新一轮融资，估值或超1.2万亿美元；Meta将推出无摄像头AI眼镜“Luna”\n\n字节旗下Anew Labs已完成2.9亿美元融资，红杉中国、高瓴、IDG、五源、高...",
-      "highlights": [
-        "#### 历史搜索 全部删除;)",
-        "扫一扫下载界面新闻APP",
-        "# AI早报 | OpenAI据悉考虑新一轮融资，估值或超1.2万亿美元；Meta将推出无摄像头AI眼镜“Luna”"
-      ],
-      "url": "https://www.jiemian.com/article/15104300.html",
-      "source": "jiemian.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-17T00:00:00Z"
-    },
     {
       "id": "72f35c757c1a",
       "title": "What are the biggest AI companies and how much are they worth?",
@@ -660,9 +646,7 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-09-18T14:00:35Z"
-    }
-  ],
-  "month": [
+    },
     {
       "id": "64b49d2d0f5a",
       "title": "OpenAI 将 ChatGPT 打造成广告平台，引入“赞助智能体”",
@@ -692,7 +676,9 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-09-17T00:00:00Z"
-    },
+    }
+  ],
+  "month": [
     {
       "id": "72f35c757c1a",
       "title": "What are the biggest AI companies and how much are they worth?",
@@ -811,6 +797,36 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-09-17T22:00:00Z"
+    },
+    {
+      "id": "208960561055",
+      "title": "物理 AI 来了！大厂豪赌机器人，落地才是最大难题",
+      "summary": "北交所频道 新京号 电子报 千龙网 贝壳财经 北京BEIJING 新京雅集 专题 商务合作 爱心模式;) 线索报料\n\n微博\n\n首页  视频  深读  公益  第一看点  时事  北京  国际  政事儿  观点  消费  娱乐  文化  体育  京彩教育  浪花资本  藻知科技  鲲纶智库  潮流智造局  城市好望角  海星生活社  图说  智库  数据  乡村\n\n# 物理 AI 来了！大厂豪赌机器...",
+      "highlights": [
+        "北交所频道 新京号 电子报 千龙网 贝壳财经 北京BEIJING 新京雅集 专题 商务合作 爱心模式;) 线索报料",
+        "首页  视频  深读  公益  第一看点  时事  北京  国际  政事儿  观点  消费  娱乐  文化  体育  京彩教育  浪花资本  藻知科技  鲲纶智库  潮流智造局  城市好望角  海星生活社  图说  智库  数据  乡村",
+        "大厂豪赌机器人，落地才是最大难题"
+      ],
+      "url": "https://www.bjnews.com.cn/detail/1789727136129112.html",
+      "source": "bjnews.com.cn",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-18T11:00:00Z"
+    },
+    {
+      "id": "10c4c7aa2a26",
+      "title": "尝到甜头之后一批港股公司开始争建“Token工厂” - 财联社",
+      "summary": "关于我们网站声明联系方式用户反馈网站地图帮助\n\n## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载\n\n尝到甜头之后 一批港股公司开始争建“Token工厂”\n\n原创\n\n港股动态\n\n2026-09-18 16:15 星期五\n\n财联社 冯轶\n\n责编 黄晓峰\n\n```\n①多加港股公司加码”Token工厂“类业务，有何看点？ ②海外算力服务商发出涨价信号，算力紧缺程度有多大？...",
+      "highlights": [
+        "关于我们网站声明联系方式用户反馈网站地图帮助",
+        "## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载",
+        "尝到甜头之后 一批港股公司开始争建“Token工厂”"
+      ],
+      "url": "https://www.cls.cn/detail/2487210",
+      "source": "cls.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-17T11:00:00Z"
     }
   ]
 }
