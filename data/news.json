@@ -1,6 +1,534 @@
 {
-  "updatedAt": "2026-09-19T12:01:14Z",
+  "updatedAt": "2026-09-19T18:01:23Z",
   "latest": [
+    {
+      "id": "bd9447eef752",
+      "title": "中国AI完成“本土化”跨越，真正赚钱的“微笑曲线”已经浮现 - 华尔街见闻",
+      "summary": "### 大家都在搜\n\n# 中国AI完成“本土化”跨越，真正赚钱的“微笑曲线”已经浮现\n\n中国AI产业正从政策驱动的技术追赶，迈入以商业变现为核心的生态竞争新阶段。\n\n据追风交易台，美银美林9月17日发布的最新研究报告，中国AI本土化进程已在芯片、存储、设备及大模型等多个层面取得实质性突破，而随着技术差距收窄，价值链的利润分布正在浮现出清晰的\"微笑曲线\"结构。\n\n报告指出，中国AI价值链正形成\"哑铃...",
+      "highlights": [
+        "# 中国AI完成“本土化”跨越，真正赚钱的“微笑曲线”已经浮现",
+        "中国AI产业正从政策驱动的技术追赶，迈入以商业变现为核心的生态竞争新阶段",
+        "据追风交易台，美银美林9月17日发布的最新研究报告，中国AI本土化进程已在芯片、存储、设备及大模型等多个层面取得实质性突破，而随着技术差距收窄，价值链的利润分布正在浮现出清晰的\"微笑曲线\"结构"
+      ],
+      "url": "https://wallstreetcn.com/articles/3782049",
+      "source": "wallstreetcn.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-18T02:58:22Z"
+    },
+    {
+      "id": "e0ae7641d64f",
+      "title": "华为昇腾芯片提前落地，英伟达的风险大吗？ | NAI 500",
+      "summary": "logo\n\n# 华为昇腾芯片提前落地，英伟达的风险大吗？\n\n华为AI芯片突袭！英伟达、台积电股价双双跳水\n\n作为全球高端 AI 芯片市场长期的领跑者，英伟达（NVDA）旗下顶级 GPU 产品凭借无可匹敌的性能在全球范围内收获了旺盛需求，唯独中国市场长期缺位 —— 受美国敏感技术产品出口管制规则约束，英伟达始终无法向中国客户销售其最先进的 GPU 与 AI 芯片产品。这一规则塑造的非对称竞争环境，也...",
+      "highlights": [
+        "# 华为昇腾芯片提前落地，英伟达的风险大吗",
+        "英伟达、台积电股价双双跳水",
+        "作为全球高端 AI 芯片市场长期的领跑者，英伟达（NVDA）旗下顶级 GPU 产品凭借无可匹敌的性能在全球范围内收获了旺盛需求，唯独中国市场长期缺位 —— 受美国敏感技术产品出口管制规则约束，英伟达始终无法向中国客户销售其最先进的 GPU 与 AI 芯片产品"
+      ],
+      "url": "https://nai500.com/zh-hans/blog/2026/09/%E5%8D%8E%E4%B8%BA%E6%98%87%E8%85%BE%E8%8A%AF%E7%89%87%E6%8F%90%E5%89%8D%E8%90%BD%E5%9C%B0%EF%BC%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9A%84%E9%A3%8E%E9%99%A9%E5%A4%A7%E5%90%97%EF%BC%9F",
+      "source": "nai500.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-18T01:00:00Z"
+    },
+    {
+      "id": "8b6296a97aaa",
+      "title": "三家AI公司估值超5万亿美元、超过45年科技IPO首日估值总和，VC“分散投资”逻辑正在失效",
+      "summary": "AI浪潮推动Anthropic、OpenAI、SpaceX三家公司合计估值超5万亿美元，超越45年科技IPO总和。资金向头部VC机构高度集中，三家机构独揽三分之一新增资金。",
+      "highlights": [
+        "AI浪潮推动Anthropic、OpenAI、SpaceX三家公司合计估值超5万亿美元，超越45年科技IPO总和",
+        "资金向头部VC机构高度集中，三家机构独揽三分之一新增资金"
+      ],
+      "url": "https://wallstreetcn.com/articles/3782032",
+      "source": "wallstreetcn.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-18T04:00:00Z"
+    },
+    {
+      "id": "3f1f875dd11e",
+      "title": "Anthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞",
+      "summary": "作为首轮50家机构中，唯一已知获得访问权限的非美国实体，英国人工智能安全研究所（AISI）评估“神话”大模型后表示，该模型能够实施“需要人类专业人员数天工作”的复杂网络攻击。AISI也在上个月的一篇博客文章中指出，现在尚不清楚“神话”大模型是“与既有进展速度脱节的个别突破”，还是“更快发展趋势的一部分”。\n\nAnthropic预计，在未来6到12个月内，许多其他人工智能公司将拥有类似“神话”的模型...",
+      "highlights": [
+        "作为首轮50家机构中，唯一已知获得访问权限的非美国实体，英国人工智能安全研究所（AISI）评估“神话”大模型后表示，该模型能够实施“需要人类专业人员数天工作”的复杂网络攻击",
+        "AISI也在上个月的一篇博客文章中指出，现在尚不清楚“神话”大模型是“与既有进展速度脱节的个别突破”，还是“更快发展趋势的一部分”",
+        "Anthropic预计，在未来6到12个月内，许多其他人工智能公司将拥有类似“神话”的模型"
+      ],
+      "url": "https://www.cls.cn/detail/2388865",
+      "source": "cls.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-17T22:00:00Z"
+    },
+    {
+      "id": "208960561055",
+      "title": "物理 AI 来了！大厂豪赌机器人，落地才是最大难题",
+      "summary": "北交所频道 新京号 电子报 千龙网 贝壳财经 北京BEIJING 新京雅集 专题 商务合作 爱心模式;) 线索报料\n\n微博\n\n首页  视频  深读  公益  第一看点  时事  北京  国际  政事儿  观点  消费  娱乐  文化  体育  京彩教育  浪花资本  藻知科技  鲲纶智库  潮流智造局  城市好望角  海星生活社  图说  智库  数据  乡村\n\n# 物理 AI 来了！大厂豪赌机器...",
+      "highlights": [
+        "北交所频道 新京号 电子报 千龙网 贝壳财经 北京BEIJING 新京雅集 专题 商务合作 爱心模式;) 线索报料",
+        "首页  视频  深读  公益  第一看点  时事  北京  国际  政事儿  观点  消费  娱乐  文化  体育  京彩教育  浪花资本  藻知科技  鲲纶智库  潮流智造局  城市好望角  海星生活社  图说  智库  数据  乡村",
+        "大厂豪赌机器人，落地才是最大难题"
+      ],
+      "url": "https://www.bjnews.com.cn/detail/1789727136129112.html",
+      "source": "bjnews.com.cn",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-18T11:00:00Z"
+    },
+    {
+      "id": "59d69e32f985",
+      "title": "多智能体 | OpenAI API",
+      "summary": "### 可用平台\n\n ChatGPT 桌面应用\n 远程\n 网页版 ChatGPT\n Codex CLI\n Codex IDE 扩展\n Codex 云端\n\n### 发布\n\n 更新日志\n 功能成熟度\n 开源\n\n 概览\n\n### 工作流\n\n 项目和聊天\n 站点\n 可视化\n 计划任务\n 长时间运行的工作\n 通知\n 宠物\n Codex Micro\n\n### 能力\n\n 浏览器\n 计算机使用\n 语音\n 插件\n ...",
+      "highlights": [
+        "ChatGPT 桌面应用",
+        "网页版 ChatGPT",
+        "Codex IDE 扩展"
+      ],
+      "url": "https://developers.openai.com/zh-Hans/api/docs/guides/agents-api/multi-agent",
+      "source": "developers.openai.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-18T05:00:00Z"
+    },
+    {
+      "id": "358007a5998f",
+      "title": "汽车与具身智能加速融合|具身智能机器人|小鹏机器人|汽车产业|广州市|天河区_手机新浪网",
+      "summary": "此前，特斯拉正式停产Model S和Model X，并将加州弗里蒙特工厂产线拆除，改造成人形机器人Optimus专用产线，目标是到今年年底生产10万台。特斯拉首席执行官埃隆·马斯克称，此举是向“物理世界AI公司”的战略转向，未来特斯拉的资源将聚焦机器人、自动驾驶（如Cybercab）和AI芯片领域。\n\n从小鹏到理想，从奇瑞到比亚迪，从特斯拉到现代，据不完全统计，截至今年8月底，全球已有近20家主流...",
+      "highlights": [
+        "此前，特斯拉正式停产Model S和Model X，并将加州弗里蒙特工厂产线拆除，改造成人形机器人Optimus专用产线，目标是到今年年底生产10万台",
+        "特斯拉首席执行官埃隆·马斯克称，此举是向“物理世界AI公司”的战略转向，未来特斯拉的资源将聚焦机器人、自动驾驶（如Cybercab）和AI芯片领域",
+        "从小鹏到理想，从奇瑞到比亚迪，从特斯拉到现代，据不完全统计，截至今年8月底，全球已有近20家主流车企以自研、孵化、投资等方式驶入具身机器人赛道，累计规划投入规模超千亿元，中国车企更是本轮入局的主力"
+      ],
+      "url": "https://finance.sina.cn/2026-09-18/detail-inisewtq8712589.d.html?vt=4",
+      "source": "finance.sina.cn",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-18T06:04:27Z"
+    },
+    {
+      "id": "987901730771",
+      "title": "For AI agents, it's the best of times, it's the worst of times - SiliconANGLE",
+      "summary": "First the fears: After last week’s high-profile departures from frontier model companies of researchers worried that runaway AI could “kill us all,” talk continue to swirl about that and other, slight...",
+      "highlights": [
+        "First the fears: After last week’s high-profile departures from frontier model companies of researchers worried that runaway AI could “kill us all,” talk continue to swirl about that and other, slightly more prosaic concerns. The rising concerns prompted OpenAI CEO Sam Altman and SpaceXAI CEO Elon Musk to back Anthropic CEO Dario Amodei’s call for a slowdown in model releases, if not development. Anthropic also released metrics for monitoring how fast AI is advancing. [...] Salesforce deepens its integrations with AWS and Google Cloud to support AI agents",
+        "Copado extends Agentia agentic AI DevOps platform for Salesforce with headless automation",
+        "#### New models and services"
+      ],
+      "url": "https://siliconangle.com/2026/09/18/for-ai-agents-its-the-best-of-times-its-the-worst-of-times",
+      "source": "siliconangle.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-18T14:00:35Z"
+    },
+    {
+      "id": "08ac952c23e0",
+      "title": "算力之外拼记忆，华为云亮出企业级AI产品矩阵 - 视频 - 南方财经网",
+      "summary": "AI产品向企业落地的过程中，办公是其中一个重要落地方向。8月以来，腾讯、字节跳动、阿里巴巴等均释放出明显信号，打造主力AI办公产品。8月25日，字节跳动发布AI办公产品“豆包工作”，统一面向生产力场景的AI Agent（智能体）产品与品牌，并与协同办公应用飞书深度打通。8月3日，阿里巴巴将三款产品整合形成企业级Agent产品“千问办公”（QwenWork），并接入新发布的旗舰模型Qwen3.8。9...",
+      "highlights": [
+        "AI产品向企业落地的过程中，办公是其中一个重要落地方向",
+        "8月以来，腾讯、字节跳动、阿里巴巴等均释放出明显信号，打造主力AI办公产品",
+        "8月25日，字节跳动发布AI办公产品“豆包工作”，统一面向生产力场景的AI Agent（智能体）产品与品牌，并与协同办公应用飞书深度打通"
+      ],
+      "url": "http://www.sfccn.com/2026/9-18/zOMDE1MThfMjI0NTczOQ.html",
+      "source": "sfccn.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-18T12:00:00Z"
+    },
+    {
+      "id": "afa9faf01fac",
+      "title": "有望对标Databricks，OceanBase押注AI数据底座的万亿市场 - 智东西",
+      "summary": "这些变化正在重写整个数据市场的边界。\n\n9月10日，2026 Inclusion·外滩大会《数智进化：让多模态数据成为AI核心燃料》见解论坛上，IDC中国企业软件市场研究经理王楠发布最新研究。\n\n研究重新划定了“AI数据基础设施”的版图，并给出清晰判断：中国市场将从2025年的约149亿美元，增长到2030年的738亿美元，到2035年有望达到约1万亿人民币规模。\n\n万亿级新市场正在打开，而最先卡...",
+      "highlights": [
+        "这些变化正在重写整个数据市场的边界",
+        "9月10日，2026 Inclusion·外滩大会《数智进化：让多模态数据成为AI核心燃料》见解论坛上，IDC中国企业软件市场研究经理王楠发布最新研究",
+        "研究重新划定了“AI数据基础设施”的版图，并给出清晰判断：中国市场将从2025年的约149亿美元，增长到2030年的738亿美元，到2035年有望达到约1万亿人民币规模"
+      ],
+      "url": "https://zhidx.com/p/595365.html",
+      "source": "zhidx.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-18T12:00:00Z"
+    },
+    {
+      "id": "e9bd09c02181",
+      "title": "算力之外拼记忆，华为云亮出企业级AI产品矩阵",
+      "summary": "AI产品向企业落地的过程中，办公是其中一个重要落地方向。8月以来，腾讯、字节跳动、阿里巴巴等均释放出明显信号，打造主力AI办公产品。8月25日，字节跳动发布AI办公产品“豆包工作”，统一面向生产力场景的AI Agent（智能体）产品与品牌，并与协同办公应用飞书深度打通。8月3日，阿里巴巴将三款产品整合形成企业级Agent产品“千问办公”（QwenWork），并接入新发布的旗舰模型Qwen3.8。9...",
+      "highlights": [
+        "AI产品向企业落地的过程中，办公是其中一个重要落地方向",
+        "8月以来，腾讯、字节跳动、阿里巴巴等均释放出明显信号，打造主力AI办公产品",
+        "8月25日，字节跳动发布AI办公产品“豆包工作”，统一面向生产力场景的AI Agent（智能体）产品与品牌，并与协同办公应用飞书深度打通"
+      ],
+      "url": "https://m.21jingji.com/article/20260918/herald/27fa4c040547ee0846f7f791bb9ab6f4_zaker.html",
+      "source": "m.21jingji.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-18T22:00:00Z"
+    },
+    {
+      "id": "8d1140818116",
+      "title": "科大讯飞的盈利神话，撞到AI高墙_资讯-蓝鲸财经",
+      "summary": "对于全国产化的坚持也是关键要素。科大讯飞一直在坚持基于全国产算力训练和推理。\n\n9月7日，科大讯飞发布最新的星火X2.5大模型，就是基于全国产算力完成全流程训练及推理。\n\n现阶段，全国产算力有一定的差距，刘庆峰给出过一个量化的说法：国产算力跟 H200 相比，训练效率差距有5倍。这显然影响了科大讯飞。\n\n刘庆峰曾表示，\"这一波大模型的热潮，因为国产算力对超长上下文的限制，使得在这一波以代码和智能体...",
+      "highlights": [
+        "对于全国产化的坚持也是关键要素",
+        "科大讯飞一直在坚持基于全国产算力训练和推理",
+        "9月7日，科大讯飞发布最新的星火X2.5大模型，就是基于全国产算力完成全流程训练及推理"
+      ],
+      "url": "https://www.lanjinger.com/d/1789090136187561781",
+      "source": "lanjinger.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-18T20:00:00Z"
+    },
+    {
+      "id": "344d2c4c916e",
+      "title": "最新财新周刊｜Anthropic：AI“吹哨人”背后",
+      "summary": ":   Anthropic创始人及CEO达里奥·阿莫代伊近日发文呼吁放缓人工智能模型能力的提升速度。图为当地时间2025年1月23日，阿莫代伊参加瑞士达沃斯召开的世界经济论坛年会。\n\n《财新周刊》2026年第37期\n:   \n\n文｜财新周刊 杜知航\n\n　　“我们必须放缓人工智能（AI）模型能力的提升速度。”2026年9月12日，拥有全球性能最强AI大模型的Anthropic创始人及CEO达里奥·阿...",
+      "highlights": [
+        ":   Anthropic创始人及CEO达里奥·阿莫代伊近日发文呼吁放缓人工智能模型能力的提升速度",
+        "图为当地时间2025年1月23日，阿莫代伊参加瑞士达沃斯召开的世界经济论坛年会",
+        "《财新周刊》2026年第37期"
+      ],
+      "url": "https://weekly.caixin.com/2026-09-19/102486425.html",
+      "source": "weekly.caixin.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-19T10:00:00Z"
+    },
+    {
+      "id": "cf02b61544ae",
+      "title": "2026年度最新GEO行业报告发布：GEO服务商TOP5评测，分赛道选型策略与厂商能力拆解",
+      "summary": "(2)技术与产品实力\n\n在技术指标维度,泓动数据展现了断层领先的硬核工程化实力。其自研的 “泓智信” 全域营销大模型拥有万亿级参数规模,支撑起 99.98% 的语义精准度与 0.12 秒的极速响应。对于追求 “全平台、多模态、全球化 AI 覆盖” 的企业而言,泓动数据提供的全栈 GEO 服务不仅深度覆盖 DeepSeek、豆包、文心一言、Kimi、腾讯元宝等国内所有顶流大模型平台,更全面延伸至海外...",
+      "highlights": [
+        "在技术指标维度,泓动数据展现了断层领先的硬核工程化实力",
+        "其自研的 “泓智信” 全域营销大模型拥有万亿级参数规模,支撑起 99.98% 的语义精准度与 0.12 秒的极速响应",
+        "对于追求 “全平台、多模态、全球化 AI 覆盖” 的企业而言,泓动数据提供的全栈 GEO 服务不仅深度覆盖 DeepSeek、豆包、文心一言、Kimi、腾讯元宝等国内所有顶流大模型平台,更全面延伸至海外 Google AI Overview、ChatGPT、Perplexity 等全球主流生成式搜索与大模型生态,同时适配文生图、数字人、AI 视频等多模态大模型输出场景,确保品牌在全球多语言、全模态语境下的权威占位与心智占领"
+      ],
+      "url": "https://tech.ifeng.com/c/8wW5PsqQaCt",
+      "source": "tech.ifeng.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-18T03:00:33Z"
+    },
+    {
+      "id": "020a1274b6f3",
+      "title": "AI创投周报|Euclyd完成超2亿欧元A轮融资,OpenAI收购Glass Imaging",
+      "summary": "本周,完成大额融资的公司包括:Temporal完成5.5亿美元E轮融资... 其AIUC-1覆盖数据隐私、安全、可靠性和人工监督等风险,并针对...",
+      "highlights": [
+        "本周,完成大额融资的公司包括:Temporal完成5.5亿美元E轮融资... 其AIUC-1覆盖数据隐私、安全、可靠性和人工监督等风险,并针对..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2hPZLfdT5s2bDo8vYXCIBYPbPdoMBR-ilqXa8Fplpd9zZIVHxNlPvS1XPRyPBx9MoL64xKy990XDTD3U5rS5eSSE2agYo8gVXpLrqKLLhVxc6N8bpIVesPRf2Hyg9nMCjUXd2EBiOfuuLJ5_RYONXXViP02_Cd_XMDjZSObV180LNA88l0mdFBYtI9AJf7lVosANbCH4Vi5IK7L0-q4nDv6zvkPgoArRQ..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=4336BE3411F3998E22247AE28834774122289DCD6AAD2818",
+      "source": "微信公众号",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-18T08:59:21Z"
+    },
+    {
+      "id": "dc228b77dc68",
+      "title": "摩根大通：定制芯片2027年出货占比将超GPU，博通TPU“供应链隐身”不代表订单存疑",
+      "summary": "AI算力需求正在推动芯片产业从“GPU一家独大”走向GPU与定制芯片并行扩张。摩根大通最新发布的2026年秋季美国半导体及半导体设备行业更新报告预计，2027年ASIC/XPU在AI",
+      "highlights": [
+        "AI算力需求正在推动芯片产业从“GPU一家独大”走向GPU与定制芯片并行扩张",
+        "摩根大通最新发布的2026年秋季美国半导体及半导体设备行业更新报告预计，2027年ASIC/XPU在AI"
+      ],
+      "url": "https://wallstreetcn.com/articles/3782070",
+      "source": "wallstreetcn.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-09-18T16:00:00Z"
+    },
+    {
+      "id": "5e4b270c5acc",
+      "title": "评估生成式 AI 智能体  |  Gemini Enterprise Agent Platform  |  Google Cloud Documentation",
+      "summary": "其中，`dataset` 是以下公开数据集之一：\n\n `\"on-device\"`，用于控制家居设备的设备端家居助理。该智能体可以协助处理诸如以下一类查询：“将卧室的空调设定为在晚上 11 点至次日早上 8 点期间开启，其余时间关闭。”\n `\"customer-support\"`，客户服务智能体。该智能体可以协助处理诸如以下一类查询：“你能取消所有待处理的订单并上报所有未解决的支持服务工单吗？”\n ...",
+      "highlights": [
+        "其中，`dataset` 是以下公开数据集之一：",
+        "`\"on-device\"`，用于控制家居设备的设备端家居助理",
+        "该智能体可以协助处理诸如以下一类查询：“将卧室的空调设定为在晚上 11 点至次日早上 8 点期间开启，其余时间关闭"
+      ],
+      "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/evaluation-agents?hl=zh-cn",
+      "source": "docs.cloud.google.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-18T03:00:00Z"
+    },
+    {
+      "id": "2cb888bec1f8",
+      "title": "【立方基金通】200亿省级社保科创基金投入运营/河南算力独角兽半年盈利超21亿/AI算力芯片企业投后估值150亿",
+      "summary": "9月18日，RISC-V云端AI算力芯片企业奕行智能（EVAS Intelligence）完成新一轮融资，融资金额近20亿元，投后估值接近150亿元。本轮投资方包括华泰创新、钟鼎资本、中芯",
+      "highlights": [
+        "9月18日，RISC-V云端AI算力芯片企业奕行智能（EVAS Intelligence）完成新一轮融资，融资金额近20亿元，投后估值接近150亿元",
+        "本轮投资方包括华泰创新、钟鼎资本、中芯"
+      ],
+      "url": "https://app.dahecube.com/article.html?artid=287425%3Frecid%3D1",
+      "source": "app.dahecube.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-18T08:00:00Z"
+    },
+    {
+      "id": "4c9d4bfb7173",
+      "title": "BREAKING NEWS: Park City, Utah-based AI Startup, Hello Haven, Emerges from Stealth Mode with a $15 Million Pre-Seed Round Led by Mayfield",
+      "summary": "EXECUTIVE SUMMARY ✅ Mitsui Chemicals quietly completed its $900 million acquisition of South Jordan, Utah-based Ultradent Products on 14 August 2026, several weeks ahead of the September closing timet...",
+      "highlights": [
+        "EXECUTIVE SUMMARY ✅ Mitsui Chemicals quietly completed its $900 million acquisition of South Jordan, Utah-based Ultradent Products on 14 August 2026, several weeks ahead of the September closing timetable originally announced. ✅ Effective 1 October 2026, the newly formed South Jordan-based MC Dental Holdings America will oversee and manage Mitsui",
+        "Midvale, Utah-Based Bamboo Insurance is About to Conduct a [...] 18 September 2026 — PARK CITY, Utah — Hello Haven emerged from stealth mode yesterday (Thursday, 17 September 2026) to announce a $15 million pre-seed financing led by Mayfield, reuniting the venture firm with Frank Addante, whose earlier startups reportedly produced $1 billion in sales, two initial public offerings, and four acquisitions. [...] In the news release announcing the launch of the Haven app and Hello Haven's funding, Addante described Haven as a digital twin that \"... knows what you would do and proactively does it for you.\"",
+        "Additionally, Chau said that"
+      ],
+      "url": "https://www.utahmoneywatch.com/breaking-news-park-city-utah-based-ai-startup-hello-haven-emerges-from-stealth-mode-with-a-15-million-pre-seed-round-led-by-mayfield",
+      "source": "utahmoneywatch.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-18T13:40:18Z"
+    },
+    {
+      "id": "47b049743afe",
+      "title": "AI创投周报|Euclyd完成超2亿欧元A轮融资,OpenAI收购Glass Imaging",
+      "summary": "本周,完成大额融资的公司包括:Temporal完成5.5亿美元E轮融资... 其AIUC-1覆盖数据隐私、安全、可靠性和人工监督等风险,并针对...",
+      "highlights": [
+        "本周,完成大额融资的公司包括:Temporal完成5.5亿美元E轮融资... 其AIUC-1覆盖数据隐私、安全、可靠性和人工监督等风险,并针对..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2hPZLfdT5s29M_am-mabwsPbPdoMBR-ilqXa8Fplpd9zZIVHxNlPvS1XPRyPBx9MoL64xKy990XDTD3U5rS5eSSE2agYo8gVVNKykZCPAq2AUPT7wvxNo7NrvWzAb4-ReakDQ50Wdm3unooX5WVnCigMfhMqDocUro7yiIuotaM1z1Vpph_XOZOFijckRrwm8M9RK-qVdtLMmxonVqhzqk89kyxDwoXvg..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=4533EDBB45F0503226207CE288DB484F27D683F66AAD7C6F",
+      "source": "微信公众号",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-18T08:59:21Z"
+    },
+    {
+      "id": "24ec2c248938",
+      "title": "开启中国创新药智能体时代，Veeva发布研发与质量领域AI产品与路线图",
+      "summary": "首页\n 资讯\n 军事\n 财经\n 娱乐\n 汽车\n 游戏\n 文化\n 援藏\n 插画\n 健康\n 公益\n 优选\n 法制\n 守艺中华\n 应急中国\n 更多\n\n  佛学文史古诗词人物解梦生活商业数智\n 地方频道\n\n  湖北山东山西丝路\n\n 注册登录\n\n# 中华网 china.com\n\n湖北\n\nEnglish\n\n湖北内容 国际表达\n\n 政务\n 区域\n 文旅\n 银行\n 房产\n 教育\n 视频\n 财经\n 商会\n 健康\n ...",
+      "highlights": [
+        "佛学文史古诗词人物解梦生活商业数智",
+        "# 中华网 china.com",
+        "当前位置：湖北地方站首页 > 公司 >"
+      ],
+      "url": "https://hb.china.com/gongsi/20003196/20260917/26015047.html",
+      "source": "hb.china.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-18T00:00:00Z"
+    },
+    {
+      "id": "d335a3770c36",
+      "title": "研报 | AI芯片封装突破光罩极限，CoWoS-L稳居先进封装主流至2028年",
+      "summary": "Sep. 18, 2026 产业洞察根据TrendForce集邦咨询最新半导体先进封装产业研究，随着GPU厂商、超大型云端服务供应商（CSP）持续开发更强大、功能多元的AI芯片，2.5D封装.",
+      "highlights": [
+        "Sep. 18, 2026 产业洞察根据TrendForce集邦咨询最新半导体先进封装产业研究，随着GPU厂商、超大型云端服务供应商（CSP）持续开发更强大、功能多元的AI芯片，2.5D封装."
+      ],
+      "url": "https://www.eet-china.com/mp/a525852.html",
+      "source": "eet-china.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-09-18T07:00:00Z"
+    },
+    {
+      "id": "e50277e3ffcf",
+      "title": "对话超维动力喻杰：具身智能，没有弯道超车｜独家 - 潮起网",
+      "summary": "我在华为亲历了自动驾驶从零到百万辆以上量产的过程，这套经验放到具身行业是用得上的。\n\n创投家：这套经验具体是指什么？\n\n喻杰：第一，做AI落地，光有好的算法不够，还要有快速迭代的能力。在华为，我们花了很多精力搭基础设施，让整个系统能快速迭代，这对后来做到百万辆以上的量产帮助非常大。\n\n第二，数据能力：数据的快速回传、清洗、处理、训练，这套链路我们建得比较早，也因此很早就认识到，在早期，数据积累比算...",
+      "highlights": [
+        "我在华为亲历了自动驾驶从零到百万辆以上量产的过程，这套经验放到具身行业是用得上的",
+        "创投家：这套经验具体是指什么",
+        "喻杰：第一，做AI落地，光有好的算法不够，还要有快速迭代的能力"
+      ],
+      "url": "https://www.ichaoqi.com/guandian/2026/0918/87391.html",
+      "source": "ichaoqi.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-18T15:30:09Z"
+    },
+    {
+      "id": "ca73c9eeec1a",
+      "title": "Google’s Gemini agents hacked three companies in new AI safety incident",
+      "summary": "Most Read\n\n       OpenAI breached by researchers using Anthropic models\n       Anthropic and the golden rules of business\n       Raspberry Pi founder Eben Upton: ‘I’m an omni-geek’\n       OpenAI discl...",
+      "highlights": [
+        "OpenAI breached by researchers using Anthropic models",
+        "Anthropic and the golden rules of business",
+        "Raspberry Pi founder Eben Upton: ‘I’m an omni-geek’"
+      ],
+      "url": "https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1",
+      "source": "ft.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-19T01:29:25Z"
+    },
+    {
+      "id": "e4b0f167c9aa",
+      "title": "AI创投周报|Euclyd完成超2亿欧元A轮融资,OpenAI收购Glass Imaging",
+      "summary": "本周,完成大额融资的公司包括:Temporal完成5.5亿美元E轮融资... 其AIUC-1覆盖数据隐私、安全、可靠性和人工监督等风险,并针对...",
+      "highlights": [
+        "本周,完成大额融资的公司包括:Temporal完成5.5亿美元E轮融资... 其AIUC-1覆盖数据隐私、安全、可靠性和人工监督等风险,并针对..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoilApcGX4EVxS0oVlp6vmMr1qXa8Fplpd9HXB3PM5tiD-0L3IElFHRYiC9BihVc07xyiljinKf9cC7jDvOA1iyem5x7ekGNcwpu-Hi7hXmr6uKuraJPc3KmQVDlti3iPAkZ1PXpD-F3u2uEwiGt7EG0FYOojbZUbb-nJJ3Vwv6vC9ZRFNU5mkpOz75sOUVsUfe7EwQWn0qeute0WC6Sbi7DA..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=4B099C2FB26D13F0BFC69B140551DD27C0A0B7A36AAE7988",
+      "source": "微信公众号",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-18T08:59:21Z"
+    },
+    {
+      "id": "ece43f459dba",
+      "title": "豆包跨越「临界点」后，字节AI下一步怎么走？-36氪",
+      "summary": "2026 年 2 月 5 日，Anthropic 发布了旗下的最新模型成果 Claude Opus 4.6，并且随之宣布：\n\n在 AI 彻底改变软件编程行业的工作方式后，现在是时候进军更广泛的职场了。\n\n紧接着，这一模型发布之后，多家金融服务公司的股价在当日应声跳水。其中，金融数据和软件公司 FaceSet 跌幅超 8%，创 2020 年 3 月以来新低；老牌信息服务提供商 Thomson Reu...",
+      "highlights": [
+        "2026 年 2 月 5 日，Anthropic 发布了旗下的最新模型成果 Claude Opus 4.6，并且随之宣布：",
+        "在 AI 彻底改变软件编程行业的工作方式后，现在是时候进军更广泛的职场了",
+        "紧接着，这一模型发布之后，多家金融服务公司的股价在当日应声跳水"
+      ],
+      "url": "https://m.36kr.com/p/3867066152713092",
+      "source": "m.36kr.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-19T11:50:40Z"
+    },
+    {
+      "id": "c2e3c4a57c6e",
+      "title": "AI创投周报|Euclyd完成超2亿欧元A轮融资,OpenAI收购Glass Imaging",
+      "summary": "本周,完成大额融资的公司包括:Temporal完成5.5亿美元E轮融资... 其AIUC-1覆盖数据隐私、安全、可靠性和人工监督等风险,并针对...",
+      "highlights": [
+        "本周,完成大额融资的公司包括:Temporal完成5.5亿美元E轮融资... 其AIUC-1覆盖数据隐私、安全、可靠性和人工监督等风险,并针对..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoiXkp6IKCXVXO0oVlp6vmMr1qXa8Fplpd9HXB3PM5tiD-0L3IElFHRYiC9BihVc07xyiljinKf9cC7jDvOA1iyeqMBJ4a_bL1mpydN49_XKR4Pa5FtPyLZ6bASEi4TFLMzYKhH1cbBdH85bKnNoQkAxtYKVOGrE2UiLtLuOC04tbYervO2H9M3eKdDz-XWEP7EEPV3Ty7JzoGrCDCayYmfpA..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=4CF405CEE8C9B51D292F72F3E7DE29B22AD2E1B86AAECDF1",
+      "source": "微信公众号",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-18T08:59:21Z"
+    },
+    {
+      "id": "ff3a9959cbc5",
+      "title": "中国电信:《智能体时代AI基础设施发展研究报告2026｜信息技术研报》",
+      "summary": "# 智能体时代AI基础设施发展研究报告2026\n\n### 智能体时代AI基础设施发展及产业趋势预判\n\n#### 引言\n\n人工智能（AI）正进入以智能体为主要形态的新发展阶段，智能体让复杂AI技术隐形化、普惠化，推动AI规模化落地和应用变现。我国AI产业发展迅速，头部科技型企业AI资本支出巨大，AI将成为经济增长的重要引擎。智能体数量爆发式增长，带动Token需求激增，对算力网络、平台等底层AI基础...",
+      "highlights": [
+        "# 智能体时代AI基础设施发展研究报告2026",
+        "### 智能体时代AI基础设施发展及产业趋势预判",
+        "人工智能（AI）正进入以智能体为主要形态的新发展阶段，智能体让复杂AI技术隐形化、普惠化，推动AI规模化落地和应用变现"
+      ],
+      "url": "https://www.fxbaogao.com/detail/5707831",
+      "source": "fxbaogao.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-09-18T12:00:00Z"
+    },
+    {
+      "id": "8bc6f23cb06f",
+      "title": "Digital health funding reaches $7.4B in 2026 | Telehealth.org",
+      "summary": "U.S. digital health startups secured $7.4 billion in venture funding during the first half of 2026, driven by artificial intelligence (AI) innovation shaping investor priorities across the healthcare ...",
+      "highlights": [
+        "U.S. digital health startups secured $7.4 billion in venture funding during the first half of 2026, driven by artificial intelligence (AI) innovation shaping investor priorities across the healthcare technology landscape. [...] AI adoption is also expanding across non-clinical operations, including patient acquisition, marketing, and engagement. For example, scrutiny surrounding telehealth startup MEDVi has raised questions regarding AI-generated healthcare advertising, compliance, and accountability when AI is deployed for commercial outreach. [...] Earlier this year, Rock Health discontinued its classification of startups as “AI-enabled,” noting that the technology is now too widespread for the label to be meaningful. Instead, investors are prioritizing durable differentiators that are difficult to replicate, such as deep healthcare domain expertise, ownership of core clinical and administrative workflows, hands-on implementation capabilities, and established strategic partnerships."
+      ],
+      "url": "https://telehealth.org/news/digital-health-funding-reaches-7-4-billion-as-ai-shapes-investment",
+      "source": "telehealth.org",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-09-18T13:41:15Z"
+    },
+    {
+      "id": "a2b7c5e9b7a7",
+      "title": "AI startup Mantic raises $25 million for superhuman forecasting",
+      "summary": "Sept 18 (Reuters) - Mantic, an artificial intelligence developer that beat humans in a recent contest for forecasting ‌events, on Friday said it raised $25 million in seed funding.\n\nResults from the s...",
+      "highlights": [
+        "Sept 18 (Reuters) - Mantic, an artificial intelligence developer that beat humans in a recent contest for forecasting ‌events, on Friday said it raised $25 million in seed funding.",
+        "Results from the summer 2026 Metaculus Cup, an online forecasting tournament that wrapped up this month, showed the London-based startup had assigned probabilities to political, economic and cultural developments ​more accurately than human competitors.",
+        "Sign up here. [...] Sign up here."
+      ],
+      "url": "https://www.reuters.com/technology/ai-startup-mantic-raises-25-million-superhuman-forecasting-2026-09-18",
+      "source": "reuters.com",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-09-18T10:15:18Z"
+    }
+  ],
+  "today": [
+    {
+      "id": "344d2c4c916e",
+      "title": "最新财新周刊｜Anthropic：AI“吹哨人”背后",
+      "summary": ":   Anthropic创始人及CEO达里奥·阿莫代伊近日发文呼吁放缓人工智能模型能力的提升速度。图为当地时间2025年1月23日，阿莫代伊参加瑞士达沃斯召开的世界经济论坛年会。\n\n《财新周刊》2026年第37期\n:   \n\n文｜财新周刊 杜知航\n\n　　“我们必须放缓人工智能（AI）模型能力的提升速度。”2026年9月12日，拥有全球性能最强AI大模型的Anthropic创始人及CEO达里奥·阿...",
+      "highlights": [
+        ":   Anthropic创始人及CEO达里奥·阿莫代伊近日发文呼吁放缓人工智能模型能力的提升速度",
+        "图为当地时间2025年1月23日，阿莫代伊参加瑞士达沃斯召开的世界经济论坛年会",
+        "《财新周刊》2026年第37期"
+      ],
+      "url": "https://weekly.caixin.com/2026-09-19/102486425.html",
+      "source": "weekly.caixin.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-19T10:00:00Z"
+    },
+    {
+      "id": "ca73c9eeec1a",
+      "title": "Google’s Gemini agents hacked three companies in new AI safety incident",
+      "summary": "Most Read\n\n       OpenAI breached by researchers using Anthropic models\n       Anthropic and the golden rules of business\n       Raspberry Pi founder Eben Upton: ‘I’m an omni-geek’\n       OpenAI discl...",
+      "highlights": [
+        "OpenAI breached by researchers using Anthropic models",
+        "Anthropic and the golden rules of business",
+        "Raspberry Pi founder Eben Upton: ‘I’m an omni-geek’"
+      ],
+      "url": "https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1",
+      "source": "ft.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-19T01:29:25Z"
+    },
+    {
+      "id": "ece43f459dba",
+      "title": "豆包跨越「临界点」后，字节AI下一步怎么走？-36氪",
+      "summary": "2026 年 2 月 5 日，Anthropic 发布了旗下的最新模型成果 Claude Opus 4.6，并且随之宣布：\n\n在 AI 彻底改变软件编程行业的工作方式后，现在是时候进军更广泛的职场了。\n\n紧接着，这一模型发布之后，多家金融服务公司的股价在当日应声跳水。其中，金融数据和软件公司 FaceSet 跌幅超 8%，创 2020 年 3 月以来新低；老牌信息服务提供商 Thomson Reu...",
+      "highlights": [
+        "2026 年 2 月 5 日，Anthropic 发布了旗下的最新模型成果 Claude Opus 4.6，并且随之宣布：",
+        "在 AI 彻底改变软件编程行业的工作方式后，现在是时候进军更广泛的职场了",
+        "紧接着，这一模型发布之后，多家金融服务公司的股价在当日应声跳水"
+      ],
+      "url": "https://m.36kr.com/p/3867066152713092",
+      "source": "m.36kr.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-19T11:50:40Z"
+    },
+    {
+      "id": "f35754db90b5",
+      "title": "腾讯控股(00700) - 最新资讯",
+      "summary": "查看更多\n\n雪球及香港交易所资讯服务有限公司、其控股公司及/或该等控股公司的任何附属公司均竭力确保所提供信息的准确和可靠度，但不能保证其绝对准确和可靠，且亦不会承担因任何不准确或遗漏而引起的任何损失或损害的责任（不管是否侵权法下的责任或合约责任又或其他责任）。\n\nImage 30: 微信 Image 31: 扫一扫，关注雪球微信公众号扫一扫，关注雪球微信公众号Image 32: 微博Image 3...",
+      "highlights": [
+        "雪球及香港交易所资讯服务有限公司、其控股公司及/或该等控股公司的任何附属公司均竭力确保所提供信息的准确和可靠度，但不能保证其绝对准确和可靠，且亦不会承担因任何不准确或遗漏而引起的任何损失或损害的责任（不管是否侵权法下的责任或合约责任又或其他责任）",
+        "Image 30: 微信 Image 31: 扫一扫，关注雪球微信公众号扫一扫，关注雪球微信公众号Image 32: 微博Image 33: 邮箱",
+        "A股开户｜雪球基金｜投资者教育｜风险提示"
+      ],
+      "url": "https://xueqiu.com/S/00700/news?page=48",
+      "source": "xueqiu.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-09-19T06:00:00Z"
+    },
+    {
+      "id": "242b1bc391cf",
+      "title": "机器人行业日报(09.18) : 机器人产业爆发",
+      "summary": "养老机器人产业发展，民政部等八部门鼓励推动技术迭代。百度智能云通过提供全栈AI云技术支撑，助力具身智能企业实现模型迭代、数据采集、标注、管理、评测、推理部署等",
+      "highlights": [
+        "养老机器人产业发展，民政部等八部门鼓励推动技术迭代",
+        "百度智能云通过提供全栈AI云技术支撑，助力具身智能企业实现模型迭代、数据采集、标注、管理、评测、推理部署等"
+      ],
+      "url": "https://m.sohu.com/a/1078231241_115035?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "具身智能",
+      "importance": 2,
+      "publishedAt": "2026-09-19T08:00:00Z"
+    },
+    {
+      "id": "524413e9bc08",
+      "title": "论文周报丨Vidu S2实现实时720P数字人生成与视频编辑；NCP-ArchPreview探索LLM隐空间预训练新范式...速览一周AI前沿论文 - 智源社区",
+      "summary": "研究指出，尽管不同方向之间已经出现能力复用，但游戏规则、引擎接口、状态表示和玩家环境仍具有较强的场景依赖性，因此跨场景迁移后的有效性仍需重新验证。目前，AI 在受限游戏玩法和特定学习环境中的评估相对成熟，而持久世界状态、持续软件修订、运行时适应和自动化测试等方向仍有较大探索空间。\n\n论文及详细解读：\n\n基础模型时代的游戏人工智能\n\n数据集构成与来源：作者利用了广泛的数据集来支持玩家建模、动作接口和...",
+      "highlights": [
+        "研究指出，尽管不同方向之间已经出现能力复用，但游戏规则、引擎接口、状态表示和玩家环境仍具有较强的场景依赖性，因此跨场景迁移后的有效性仍需重新验证",
+        "目前，AI 在受限游戏玩法和特定学习环境中的评估相对成熟，而持久世界状态、持续软件修订、运行时适应和自动化测试等方向仍有较大探索空间",
+        "基础模型时代的游戏人工智能"
+      ],
+      "url": "https://hub.baai.ac.cn/view/58102",
+      "source": "hub.baai.ac.cn",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-09-19T12:00:00Z"
+    }
+  ],
+  "week": [
     {
       "id": "bd9447eef752",
       "title": "中国AI完成“本土化”跨越，真正赚钱的“微笑曲线”已经浮现 - 华尔街见闻",
@@ -181,296 +709,6 @@
       "publishedAt": "2026-09-18T22:00:00Z"
     },
     {
-      "id": "020a1274b6f3",
-      "title": "AI创投周报|Euclyd完成超2亿欧元A轮融资,OpenAI收购Glass Imaging",
-      "summary": "本周,完成大额融资的公司包括:Temporal完成5.5亿美元E轮融资... 其AIUC-1覆盖数据隐私、安全、可靠性和人工监督等风险,并针对...",
-      "highlights": [
-        "本周,完成大额融资的公司包括:Temporal完成5.5亿美元E轮融资... 其AIUC-1覆盖数据隐私、安全、可靠性和人工监督等风险,并针对..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2hPZLfdT5s2bDo8vYXCIBYPbPdoMBR-ilqXa8Fplpd9zZIVHxNlPvS1XPRyPBx9MoL64xKy990XDTD3U5rS5eSSE2agYo8gVXpLrqKLLhVxc6N8bpIVesPRf2Hyg9nMCjUXd2EBiOfuuLJ5_RYONXXViP02_Cd_XMDjZSObV180LNA88l0mdFBYtI9AJf7lVosANbCH4Vi5IK7L0-q4nDv6zvkPgoArRQ..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=4336BE3411F3998E22247AE28834774122289DCD6AAD2818",
-      "source": "微信公众号",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-09-18T08:59:21Z"
-    },
-    {
-      "id": "dc228b77dc68",
-      "title": "摩根大通：定制芯片2027年出货占比将超GPU，博通TPU“供应链隐身”不代表订单存疑",
-      "summary": "AI算力需求正在推动芯片产业从“GPU一家独大”走向GPU与定制芯片并行扩张。摩根大通最新发布的2026年秋季美国半导体及半导体设备行业更新报告预计，2027年ASIC/XPU在AI",
-      "highlights": [
-        "AI算力需求正在推动芯片产业从“GPU一家独大”走向GPU与定制芯片并行扩张",
-        "摩根大通最新发布的2026年秋季美国半导体及半导体设备行业更新报告预计，2027年ASIC/XPU在AI"
-      ],
-      "url": "https://wallstreetcn.com/articles/3782070",
-      "source": "wallstreetcn.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-09-18T16:00:00Z"
-    },
-    {
-      "id": "5e4b270c5acc",
-      "title": "评估生成式 AI 智能体  |  Gemini Enterprise Agent Platform  |  Google Cloud Documentation",
-      "summary": "其中，`dataset` 是以下公开数据集之一：\n\n `\"on-device\"`，用于控制家居设备的设备端家居助理。该智能体可以协助处理诸如以下一类查询：“将卧室的空调设定为在晚上 11 点至次日早上 8 点期间开启，其余时间关闭。”\n `\"customer-support\"`，客户服务智能体。该智能体可以协助处理诸如以下一类查询：“你能取消所有待处理的订单并上报所有未解决的支持服务工单吗？”\n ...",
-      "highlights": [
-        "其中，`dataset` 是以下公开数据集之一：",
-        "`\"on-device\"`，用于控制家居设备的设备端家居助理",
-        "该智能体可以协助处理诸如以下一类查询：“将卧室的空调设定为在晚上 11 点至次日早上 8 点期间开启，其余时间关闭"
-      ],
-      "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/evaluation-agents?hl=zh-cn",
-      "source": "docs.cloud.google.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-18T03:00:00Z"
-    },
-    {
-      "id": "2cb888bec1f8",
-      "title": "【立方基金通】200亿省级社保科创基金投入运营/河南算力独角兽半年盈利超21亿/AI算力芯片企业投后估值150亿",
-      "summary": "9月18日，RISC-V云端AI算力芯片企业奕行智能（EVAS Intelligence）完成新一轮融资，融资金额近20亿元，投后估值接近150亿元。本轮投资方包括华泰创新、钟鼎资本、中芯",
-      "highlights": [
-        "9月18日，RISC-V云端AI算力芯片企业奕行智能（EVAS Intelligence）完成新一轮融资，融资金额近20亿元，投后估值接近150亿元",
-        "本轮投资方包括华泰创新、钟鼎资本、中芯"
-      ],
-      "url": "https://app.dahecube.com/article.html?artid=287425%3Frecid%3D1",
-      "source": "app.dahecube.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-09-18T08:00:00Z"
-    },
-    {
-      "id": "4c9d4bfb7173",
-      "title": "BREAKING NEWS: Park City, Utah-based AI Startup, Hello Haven, Emerges from Stealth Mode with a $15 Million Pre-Seed Round Led by Mayfield",
-      "summary": "EXECUTIVE SUMMARY ✅ Mitsui Chemicals quietly completed its $900 million acquisition of South Jordan, Utah-based Ultradent Products on 14 August 2026, several weeks ahead of the September closing timet...",
-      "highlights": [
-        "EXECUTIVE SUMMARY ✅ Mitsui Chemicals quietly completed its $900 million acquisition of South Jordan, Utah-based Ultradent Products on 14 August 2026, several weeks ahead of the September closing timetable originally announced. ✅ Effective 1 October 2026, the newly formed South Jordan-based MC Dental Holdings America will oversee and manage Mitsui",
-        "Midvale, Utah-Based Bamboo Insurance is About to Conduct a [...] 18 September 2026 — PARK CITY, Utah — Hello Haven emerged from stealth mode yesterday (Thursday, 17 September 2026) to announce a $15 million pre-seed financing led by Mayfield, reuniting the venture firm with Frank Addante, whose earlier startups reportedly produced $1 billion in sales, two initial public offerings, and four acquisitions. [...] In the news release announcing the launch of the Haven app and Hello Haven's funding, Addante described Haven as a digital twin that \"... knows what you would do and proactively does it for you.\"",
-        "Additionally, Chau said that"
-      ],
-      "url": "https://www.utahmoneywatch.com/breaking-news-park-city-utah-based-ai-startup-hello-haven-emerges-from-stealth-mode-with-a-15-million-pre-seed-round-led-by-mayfield",
-      "source": "utahmoneywatch.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-18T13:40:18Z"
-    },
-    {
-      "id": "47b049743afe",
-      "title": "AI创投周报|Euclyd完成超2亿欧元A轮融资,OpenAI收购Glass Imaging",
-      "summary": "本周,完成大额融资的公司包括:Temporal完成5.5亿美元E轮融资... 其AIUC-1覆盖数据隐私、安全、可靠性和人工监督等风险,并针对...",
-      "highlights": [
-        "本周,完成大额融资的公司包括:Temporal完成5.5亿美元E轮融资... 其AIUC-1覆盖数据隐私、安全、可靠性和人工监督等风险,并针对..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2hPZLfdT5s29M_am-mabwsPbPdoMBR-ilqXa8Fplpd9zZIVHxNlPvS1XPRyPBx9MoL64xKy990XDTD3U5rS5eSSE2agYo8gVVNKykZCPAq2AUPT7wvxNo7NrvWzAb4-ReakDQ50Wdm3unooX5WVnCigMfhMqDocUro7yiIuotaM1z1Vpph_XOZOFijckRrwm8M9RK-qVdtLMmxonVqhzqk89kyxDwoXvg..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=4533EDBB45F0503226207CE288DB484F27D683F66AAD7C6F",
-      "source": "微信公众号",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-09-18T08:59:21Z"
-    },
-    {
-      "id": "24ec2c248938",
-      "title": "开启中国创新药智能体时代，Veeva发布研发与质量领域AI产品与路线图",
-      "summary": "首页\n 资讯\n 军事\n 财经\n 娱乐\n 汽车\n 游戏\n 文化\n 援藏\n 插画\n 健康\n 公益\n 优选\n 法制\n 守艺中华\n 应急中国\n 更多\n\n  佛学文史古诗词人物解梦生活商业数智\n 地方频道\n\n  湖北山东山西丝路\n\n 注册登录\n\n# 中华网 china.com\n\n湖北\n\nEnglish\n\n湖北内容 国际表达\n\n 政务\n 区域\n 文旅\n 银行\n 房产\n 教育\n 视频\n 财经\n 商会\n 健康\n ...",
-      "highlights": [
-        "佛学文史古诗词人物解梦生活商业数智",
-        "# 中华网 china.com",
-        "当前位置：湖北地方站首页 > 公司 >"
-      ],
-      "url": "https://hb.china.com/gongsi/20003196/20260917/26015047.html",
-      "source": "hb.china.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-18T00:00:00Z"
-    },
-    {
-      "id": "d335a3770c36",
-      "title": "研报 | AI芯片封装突破光罩极限，CoWoS-L稳居先进封装主流至2028年",
-      "summary": "Sep. 18, 2026 产业洞察根据TrendForce集邦咨询最新半导体先进封装产业研究，随着GPU厂商、超大型云端服务供应商（CSP）持续开发更强大、功能多元的AI芯片，2.5D封装.",
-      "highlights": [
-        "Sep. 18, 2026 产业洞察根据TrendForce集邦咨询最新半导体先进封装产业研究，随着GPU厂商、超大型云端服务供应商（CSP）持续开发更强大、功能多元的AI芯片，2.5D封装."
-      ],
-      "url": "https://www.eet-china.com/mp/a525852.html",
-      "source": "eet-china.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-09-18T07:00:00Z"
-    },
-    {
-      "id": "e50277e3ffcf",
-      "title": "对话超维动力喻杰：具身智能，没有弯道超车｜独家 - 潮起网",
-      "summary": "我在华为亲历了自动驾驶从零到百万辆以上量产的过程，这套经验放到具身行业是用得上的。\n\n创投家：这套经验具体是指什么？\n\n喻杰：第一，做AI落地，光有好的算法不够，还要有快速迭代的能力。在华为，我们花了很多精力搭基础设施，让整个系统能快速迭代，这对后来做到百万辆以上的量产帮助非常大。\n\n第二，数据能力：数据的快速回传、清洗、处理、训练，这套链路我们建得比较早，也因此很早就认识到，在早期，数据积累比算...",
-      "highlights": [
-        "我在华为亲历了自动驾驶从零到百万辆以上量产的过程，这套经验放到具身行业是用得上的",
-        "创投家：这套经验具体是指什么",
-        "喻杰：第一，做AI落地，光有好的算法不够，还要有快速迭代的能力"
-      ],
-      "url": "https://www.ichaoqi.com/guandian/2026/0918/87391.html",
-      "source": "ichaoqi.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-09-18T15:30:09Z"
-    },
-    {
-      "id": "ca73c9eeec1a",
-      "title": "Google’s Gemini agents hacked three companies in new AI safety incident",
-      "summary": "Most Read\n\n       OpenAI breached by researchers using Anthropic models\n       Anthropic and the golden rules of business\n       Raspberry Pi founder Eben Upton: ‘I’m an omni-geek’\n       OpenAI discl...",
-      "highlights": [
-        "OpenAI breached by researchers using Anthropic models",
-        "Anthropic and the golden rules of business",
-        "Raspberry Pi founder Eben Upton: ‘I’m an omni-geek’"
-      ],
-      "url": "https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1",
-      "source": "ft.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-19T01:29:25Z"
-    },
-    {
-      "id": "e4b0f167c9aa",
-      "title": "AI创投周报|Euclyd完成超2亿欧元A轮融资,OpenAI收购Glass Imaging",
-      "summary": "本周,完成大额融资的公司包括:Temporal完成5.5亿美元E轮融资... 其AIUC-1覆盖数据隐私、安全、可靠性和人工监督等风险,并针对...",
-      "highlights": [
-        "本周,完成大额融资的公司包括:Temporal完成5.5亿美元E轮融资... 其AIUC-1覆盖数据隐私、安全、可靠性和人工监督等风险,并针对..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoilApcGX4EVxS0oVlp6vmMr1qXa8Fplpd9HXB3PM5tiD-0L3IElFHRYiC9BihVc07xyiljinKf9cC7jDvOA1iyem5x7ekGNcwpu-Hi7hXmr6uKuraJPc3KmQVDlti3iPAkZ1PXpD-F3u2uEwiGt7EG0FYOojbZUbb-nJJ3Vwv6vC9ZRFNU5mkpOz75sOUVsUfe7EwQWn0qeute0WC6Sbi7DA..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=4B099C2FB26D13F0BFC69B140551DD27C0A0B7A36AAE7988",
-      "source": "微信公众号",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-09-18T08:59:21Z"
-    },
-    {
-      "id": "ff3a9959cbc5",
-      "title": "中国电信:《智能体时代AI基础设施发展研究报告2026｜信息技术研报》",
-      "summary": "# 智能体时代AI基础设施发展研究报告2026\n\n### 智能体时代AI基础设施发展及产业趋势预判\n\n#### 引言\n\n人工智能（AI）正进入以智能体为主要形态的新发展阶段，智能体让复杂AI技术隐形化、普惠化，推动AI规模化落地和应用变现。我国AI产业发展迅速，头部科技型企业AI资本支出巨大，AI将成为经济增长的重要引擎。智能体数量爆发式增长，带动Token需求激增，对算力网络、平台等底层AI基础...",
-      "highlights": [
-        "# 智能体时代AI基础设施发展研究报告2026",
-        "### 智能体时代AI基础设施发展及产业趋势预判",
-        "人工智能（AI）正进入以智能体为主要形态的新发展阶段，智能体让复杂AI技术隐形化、普惠化，推动AI规模化落地和应用变现"
-      ],
-      "url": "https://www.fxbaogao.com/detail/5707831",
-      "source": "fxbaogao.com",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-09-18T12:00:00Z"
-    },
-    {
-      "id": "8bc6f23cb06f",
-      "title": "Digital health funding reaches $7.4B in 2026 | Telehealth.org",
-      "summary": "U.S. digital health startups secured $7.4 billion in venture funding during the first half of 2026, driven by artificial intelligence (AI) innovation shaping investor priorities across the healthcare ...",
-      "highlights": [
-        "U.S. digital health startups secured $7.4 billion in venture funding during the first half of 2026, driven by artificial intelligence (AI) innovation shaping investor priorities across the healthcare technology landscape. [...] AI adoption is also expanding across non-clinical operations, including patient acquisition, marketing, and engagement. For example, scrutiny surrounding telehealth startup MEDVi has raised questions regarding AI-generated healthcare advertising, compliance, and accountability when AI is deployed for commercial outreach. [...] Earlier this year, Rock Health discontinued its classification of startups as “AI-enabled,” noting that the technology is now too widespread for the label to be meaningful. Instead, investors are prioritizing durable differentiators that are difficult to replicate, such as deep healthcare domain expertise, ownership of core clinical and administrative workflows, hands-on implementation capabilities, and established strategic partnerships."
-      ],
-      "url": "https://telehealth.org/news/digital-health-funding-reaches-7-4-billion-as-ai-shapes-investment",
-      "source": "telehealth.org",
-      "category": "投并购",
-      "importance": 3,
-      "publishedAt": "2026-09-18T13:41:15Z"
-    },
-    {
-      "id": "a2b7c5e9b7a7",
-      "title": "AI startup Mantic raises $25 million for superhuman forecasting",
-      "summary": "Sept 18 (Reuters) - Mantic, an artificial intelligence developer that beat humans in a recent contest for forecasting ‌events, on Friday said it raised $25 million in seed funding.\n\nResults from the s...",
-      "highlights": [
-        "Sept 18 (Reuters) - Mantic, an artificial intelligence developer that beat humans in a recent contest for forecasting ‌events, on Friday said it raised $25 million in seed funding.",
-        "Results from the summer 2026 Metaculus Cup, an online forecasting tournament that wrapped up this month, showed the London-based startup had assigned probabilities to political, economic and cultural developments ​more accurately than human competitors.",
-        "Sign up here. [...] Sign up here."
-      ],
-      "url": "https://www.reuters.com/technology/ai-startup-mantic-raises-25-million-superhuman-forecasting-2026-09-18",
-      "source": "reuters.com",
-      "category": "投并购",
-      "importance": 3,
-      "publishedAt": "2026-09-18T10:15:18Z"
-    },
-    {
-      "id": "bacf0a4f971e",
-      "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
-      "summary": "BEIJING — The Chinese artificial intelligence startup behind the Kimi model said Thursday that financial industry giants, including investment banks, funds and venture capital firms are using its Kimi...",
-      "highlights": [
-        "BEIJING — The Chinese artificial intelligence startup behind the Kimi model said Thursday that financial industry giants, including investment banks, funds and venture capital firms are using its Kimi models on AI tools.",
-        "Among the companies now using Kimi are investment bank CICC and venture capital firms such as Sequoia China, now rebranded as Hong Shan. [...] The Chinese startup has reportedly filed confidentially for a Hong Kong IPO. The company, however, has said it does not comment on market rumors or speculation. [...] The startup said Kimi can also directly access the U.S. Securities and Exchange Commission's EDGAR system for public companies' financial filings, the IMF, World Bank and the U.S. Federal Reserve Economic Data site (FRED).",
-        "While users don't have to download a separate interface, a test on Kimi's mobile app indicated different kinds of data were available to different users depending on subscription tier."
-      ],
-      "url": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
-      "source": "cnbc.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-09-17T14:30:25Z"
-    },
-    {
-      "id": "f35754db90b5",
-      "title": "腾讯控股(00700) - 最新资讯",
-      "summary": "查看更多\n\n雪球及香港交易所资讯服务有限公司、其控股公司及/或该等控股公司的任何附属公司均竭力确保所提供信息的准确和可靠度，但不能保证其绝对准确和可靠，且亦不会承担因任何不准确或遗漏而引起的任何损失或损害的责任（不管是否侵权法下的责任或合约责任又或其他责任）。\n\nImage 30: 微信 Image 31: 扫一扫，关注雪球微信公众号扫一扫，关注雪球微信公众号Image 32: 微博Image 3...",
-      "highlights": [
-        "雪球及香港交易所资讯服务有限公司、其控股公司及/或该等控股公司的任何附属公司均竭力确保所提供信息的准确和可靠度，但不能保证其绝对准确和可靠，且亦不会承担因任何不准确或遗漏而引起的任何损失或损害的责任（不管是否侵权法下的责任或合约责任又或其他责任）",
-        "Image 30: 微信 Image 31: 扫一扫，关注雪球微信公众号扫一扫，关注雪球微信公众号Image 32: 微博Image 33: 邮箱",
-        "A股开户｜雪球基金｜投资者教育｜风险提示"
-      ],
-      "url": "https://xueqiu.com/S/00700/news?page=48",
-      "source": "xueqiu.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-09-19T06:00:00Z"
-    },
-    {
-      "id": "5c94b460ecae",
-      "title": "Datavault AI files for $29M raise as investor suit alleges misleading claims",
-      "summary": "Since then, it’s been on an acquisition spree, with three planned for 2026. The company, which helps businesses monetize their data, signed a definitive agreement to acquire cybersecurity company Cybe...",
-      "highlights": [
-        "Since then, it’s been on an acquisition spree, with three planned for 2026. The company, which helps businesses monetize their data, signed a definitive agreement to acquire cybersecurity company CyberCatch Holdings in August, and bought blockchain trading platform NYIAX and entertainment technology company API Media Innovation earlier this year.",
-        "Now, despite the suit, the company plans to continue operations as usual. [...] The $11.2 million grant to the BEAT-HIV Martin Delaney Collaboratory, which Montaner co-directs, will fund its research through 2028 to detect HIV and develop treatments. A second grant for $4.3 million will support the study of immunotherapies to treat HIV for the next five years. [...] ### St. Mary’s County is using $3.5M in state grant funding to scale its public health tech network",
-        "Plus, Frederick County rejected a $110 million proposal from a data center developer, a cleantech startup nabbed seed funding and other money moves."
-      ],
-      "url": "https://technical.ly/entrepreneurship/datavault-ai-raises-29m-despite-investor-lawsuit-philadelphia-money-moves",
-      "source": "technical.ly",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-09-17T18:30:00Z"
-    },
-    {
-      "id": "08c8dda823b1",
-      "title": "今日AI大模型新闻速览(09月19日)",
-      "summary": "披露递归自我改进(RSI)最新进展,称GLM-5.3已摸到门槛,并... 这是国产大模型厂商在AI编程工具链上的开源动作,MIT协议允许...",
-      "highlights": [
-        "披露递归自我改进(RSI)最新进展,称GLM-5.3已摸到门槛,并... 这是国产大模型厂商在AI编程工具链上的开源动作,MIT协议允许..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzBrwjw9JHoiZz1rvl05yN60oVlp6vmMr1qXa8Fplpd9ks_8oXnXUATBdBR8EA7T7dk3-jSzsa9dUPi1Ga6yhXskY9H9UfgjdlpK9EjIBq1rPrd-xACDzISHog53QJAkWhl-QmnBOUhuwtu9GN8YdN-E0Olc_aVk3npkCBlO3w-8BQZ_0AolIdJQx3caUaRjQx9F7FcQQXKqhd7muf1A1K2q3X8EKMKOIA..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=4B097B6E3B989979494F119E8FD075424AB0632F6AAE7982",
-      "source": "微信公众号",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-09-18T22:24:10Z"
-    }
-  ],
-  "today": [
-    {
-      "id": "ca73c9eeec1a",
-      "title": "Google’s Gemini agents hacked three companies in new AI safety incident",
-      "summary": "Most Read\n\n       OpenAI breached by researchers using Anthropic models\n       Anthropic and the golden rules of business\n       Raspberry Pi founder Eben Upton: ‘I’m an omni-geek’\n       OpenAI discl...",
-      "highlights": [
-        "OpenAI breached by researchers using Anthropic models",
-        "Anthropic and the golden rules of business",
-        "Raspberry Pi founder Eben Upton: ‘I’m an omni-geek’"
-      ],
-      "url": "https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1",
-      "source": "ft.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-19T01:29:25Z"
-    },
-    {
-      "id": "f35754db90b5",
-      "title": "腾讯控股(00700) - 最新资讯",
-      "summary": "查看更多\n\n雪球及香港交易所资讯服务有限公司、其控股公司及/或该等控股公司的任何附属公司均竭力确保所提供信息的准确和可靠度，但不能保证其绝对准确和可靠，且亦不会承担因任何不准确或遗漏而引起的任何损失或损害的责任（不管是否侵权法下的责任或合约责任又或其他责任）。\n\nImage 30: 微信 Image 31: 扫一扫，关注雪球微信公众号扫一扫，关注雪球微信公众号Image 32: 微博Image 3...",
-      "highlights": [
-        "雪球及香港交易所资讯服务有限公司、其控股公司及/或该等控股公司的任何附属公司均竭力确保所提供信息的准确和可靠度，但不能保证其绝对准确和可靠，且亦不会承担因任何不准确或遗漏而引起的任何损失或损害的责任（不管是否侵权法下的责任或合约责任又或其他责任）",
-        "Image 30: 微信 Image 31: 扫一扫，关注雪球微信公众号扫一扫，关注雪球微信公众号Image 32: 微博Image 33: 邮箱",
-        "A股开户｜雪球基金｜投资者教育｜风险提示"
-      ],
-      "url": "https://xueqiu.com/S/00700/news?page=48",
-      "source": "xueqiu.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-09-19T06:00:00Z"
-    }
-  ],
-  "week": [
-    {
       "id": "9ee6c0cd77d1",
       "title": "AI调用量连续20周超美国，中国大模型靠什么抢市场？",
       "summary": "新浪新闻客户端\n新浪新闻客户端\n\n# 新浪看点\n\n新浪新闻客户端\n新浪新闻公众号\n新浪新闻视频号\n新浪新闻抖音\n新浪新闻快手\n新浪新闻小红书\n新浪新闻B站\n热搜时代小宇宙\n\n# AI调用量连续20周超美国，中国大模型靠什么抢市场？\n\navatar\n\n　　（来源：第一财经资讯）\n\n　　过去两周，AI行业像被按下了快进键。\n\n　　9月1日到9月11日，海内外7家头部模型厂商迭代了新模型。过去，大模型的...",
@@ -485,6 +723,38 @@
       "importance": 5,
       "publishedAt": "2026-09-17T10:04:51Z"
     },
+    {
+      "id": "10c4c7aa2a26",
+      "title": "尝到甜头之后一批港股公司开始争建“Token工厂” - 财联社",
+      "summary": "关于我们网站声明联系方式用户反馈网站地图帮助\n\n## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载\n\n尝到甜头之后 一批港股公司开始争建“Token工厂”\n\n原创\n\n港股动态\n\n2026-09-18 16:15 星期五\n\n财联社 冯轶\n\n责编 黄晓峰\n\n```\n①多加港股公司加码”Token工厂“类业务，有何看点？ ②海外算力服务商发出涨价信号，算力紧缺程度有多大？...",
+      "highlights": [
+        "关于我们网站声明联系方式用户反馈网站地图帮助",
+        "## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载",
+        "尝到甜头之后 一批港股公司开始争建“Token工厂”"
+      ],
+      "url": "https://www.cls.cn/detail/2487210",
+      "source": "cls.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-17T11:00:00Z"
+    },
+    {
+      "id": "72f35c757c1a",
+      "title": "What are the biggest AI companies and how much are they worth?",
+      "summary": "### Hardware\n\nAt the foundation of the AI industry are the companies that design and manufacture the physical chips AI runs on, along with the equipment that keeps data centres powered and cooled.\n\nTh...",
+      "highlights": [
+        "### Hardware",
+        "At the foundation of the AI industry are the companies that design and manufacture the physical chips AI runs on, along with the equipment that keeps data centres powered and cooled.",
+        "These include:"
+      ],
+      "url": "https://www.aljazeera.com/news/2026/9/17/what-are-the-biggest-ai-companies-and-how-much-are-they-worth",
+      "source": "aljazeera.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-17T05:55:22Z"
+    }
+  ],
+  "month": [
     {
       "id": "bd9447eef752",
       "title": "中国AI完成“本土化”跨越，真正赚钱的“微笑曲线”已经浮现 - 华尔街见闻",
@@ -573,21 +843,6 @@
       "category": "具身智能",
       "importance": 5,
       "publishedAt": "2026-09-18T11:00:00Z"
-    },
-    {
-      "id": "10c4c7aa2a26",
-      "title": "尝到甜头之后一批港股公司开始争建“Token工厂” - 财联社",
-      "summary": "关于我们网站声明联系方式用户反馈网站地图帮助\n\n## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载\n\n尝到甜头之后 一批港股公司开始争建“Token工厂”\n\n原创\n\n港股动态\n\n2026-09-18 16:15 星期五\n\n财联社 冯轶\n\n责编 黄晓峰\n\n```\n①多加港股公司加码”Token工厂“类业务，有何看点？ ②海外算力服务商发出涨价信号，算力紧缺程度有多大？...",
-      "highlights": [
-        "关于我们网站声明联系方式用户反馈网站地图帮助",
-        "## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载",
-        "尝到甜头之后 一批港股公司开始争建“Token工厂”"
-      ],
-      "url": "https://www.cls.cn/detail/2487210",
-      "source": "cls.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-17T11:00:00Z"
     },
     {
       "id": "59d69e32f985",
@@ -648,202 +903,6 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-09-18T12:00:00Z"
-    },
-    {
-      "id": "72f35c757c1a",
-      "title": "What are the biggest AI companies and how much are they worth?",
-      "summary": "### Hardware\n\nAt the foundation of the AI industry are the companies that design and manufacture the physical chips AI runs on, along with the equipment that keeps data centres powered and cooled.\n\nTh...",
-      "highlights": [
-        "### Hardware",
-        "At the foundation of the AI industry are the companies that design and manufacture the physical chips AI runs on, along with the equipment that keeps data centres powered and cooled.",
-        "These include:"
-      ],
-      "url": "https://www.aljazeera.com/news/2026/9/17/what-are-the-biggest-ai-companies-and-how-much-are-they-worth",
-      "source": "aljazeera.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-17T05:55:22Z"
-    },
-    {
-      "id": "ac5a1dd5398e",
-      "title": "IDC发布Agent评估报告中国电信AI全栈能力再获权威验证 - 新浪财经",
-      "summary": "新浪首页\n 新闻\n 体育\n 财经\n 娱乐\n 科技\n 博客\n 图片\n 专栏\n 更多\n\n 汽车 教育 时尚 女性 星座 健康\n 房产历史视频收藏育儿读书\n 佛学游戏旅游邮箱导航\n\n 新浪微博\n 新浪新闻\n 新浪财经\n 新浪体育\n 新浪众测\n 新浪博客\n 新浪视频\n 新浪游戏\n 天气通\n\n[](\n\n证券 > 正文\n\n# IDC发布Agent评估报告 中国电信AI全栈能力再获权威验证\n\nIDC发布Agen...",
-      "highlights": [
-        "汽车 教育 时尚 女性 星座 健康",
-        "房产历史视频收藏育儿读书",
-        "# IDC发布Agent评估报告 中国电信AI全栈能力再获权威验证"
-      ],
-      "url": "https://finance.sina.com.cn/stock/t/2026-09-17/doc-iniscekk9334243.shtml",
-      "source": "finance.sina.com.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-17T05:19:43Z"
-    },
-    {
-      "id": "64b49d2d0f5a",
-      "title": "OpenAI 将 ChatGPT 打造成广告平台，引入“赞助智能体”",
-      "summary": "Aug 24, 2026\n\n去中心化 AI 借区块链确权模型收益与治理权，将训练与推理拆层定价， 兼顾性能与可验证性，正挑战中心化巨头的封闭范式。\n\n如何使用 AI 股票交易机器人：免费工具与真实风险\n\n为什么没有自有区块链层的 AI 代理无法实现规模化\n\nAI 代理正实际管理资金并跨链操作，但传统为人类设计的钱包在密钥托管、Gas 机制和账户模型上都不适配机器。新一代链上基础设施正围绕代理账户、...",
-      "highlights": [
-        "Aug 24, 2026",
-        "去中心化 AI 借区块链确权模型收益与治理权，将训练与推理拆层定价， 兼顾性能与可验证性，正挑战中心化巨头的封闭范式",
-        "如何使用 AI 股票交易机器人：免费工具与真实风险"
-      ],
-      "url": "https://yellow.com/zh/news/openai-%E5%B0%86-chatgpt-%E6%89%93%E9%80%A0%E6%88%90%E5%B9%BF%E5%91%8A%E5%B9%B3%E5%8F%B0%EF%BC%8C%E5%BC%95%E5%85%A5%E2%80%9C%E8%B5%9E%E5%8A%A9%E6%99%BA%E8%83%BD%E4%BD%93%E2%80%9D",
-      "source": "yellow.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-16T22:18:06Z"
-    }
-  ],
-  "month": [
-    {
-      "id": "9ee6c0cd77d1",
-      "title": "AI调用量连续20周超美国，中国大模型靠什么抢市场？",
-      "summary": "新浪新闻客户端\n新浪新闻客户端\n\n# 新浪看点\n\n新浪新闻客户端\n新浪新闻公众号\n新浪新闻视频号\n新浪新闻抖音\n新浪新闻快手\n新浪新闻小红书\n新浪新闻B站\n热搜时代小宇宙\n\n# AI调用量连续20周超美国，中国大模型靠什么抢市场？\n\navatar\n\n　　（来源：第一财经资讯）\n\n　　过去两周，AI行业像被按下了快进键。\n\n　　9月1日到9月11日，海内外7家头部模型厂商迭代了新模型。过去，大模型的...",
-      "highlights": [
-        "# AI调用量连续20周超美国，中国大模型靠什么抢市场",
-        "（来源：第一财经资讯）",
-        "过去两周，AI行业像被按下了快进键"
-      ],
-      "url": "https://k.sina.com.cn/article_5952915705_162d248f906703oi7i.html",
-      "source": "k.sina.com.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-17T10:04:51Z"
-    },
-    {
-      "id": "bd9447eef752",
-      "title": "中国AI完成“本土化”跨越，真正赚钱的“微笑曲线”已经浮现 - 华尔街见闻",
-      "summary": "### 大家都在搜\n\n# 中国AI完成“本土化”跨越，真正赚钱的“微笑曲线”已经浮现\n\n中国AI产业正从政策驱动的技术追赶，迈入以商业变现为核心的生态竞争新阶段。\n\n据追风交易台，美银美林9月17日发布的最新研究报告，中国AI本土化进程已在芯片、存储、设备及大模型等多个层面取得实质性突破，而随着技术差距收窄，价值链的利润分布正在浮现出清晰的\"微笑曲线\"结构。\n\n报告指出，中国AI价值链正形成\"哑铃...",
-      "highlights": [
-        "# 中国AI完成“本土化”跨越，真正赚钱的“微笑曲线”已经浮现",
-        "中国AI产业正从政策驱动的技术追赶，迈入以商业变现为核心的生态竞争新阶段",
-        "据追风交易台，美银美林9月17日发布的最新研究报告，中国AI本土化进程已在芯片、存储、设备及大模型等多个层面取得实质性突破，而随着技术差距收窄，价值链的利润分布正在浮现出清晰的\"微笑曲线\"结构"
-      ],
-      "url": "https://wallstreetcn.com/articles/3782049",
-      "source": "wallstreetcn.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-18T02:58:22Z"
-    },
-    {
-      "id": "e0ae7641d64f",
-      "title": "华为昇腾芯片提前落地，英伟达的风险大吗？ | NAI 500",
-      "summary": "logo\n\n# 华为昇腾芯片提前落地，英伟达的风险大吗？\n\n华为AI芯片突袭！英伟达、台积电股价双双跳水\n\n作为全球高端 AI 芯片市场长期的领跑者，英伟达（NVDA）旗下顶级 GPU 产品凭借无可匹敌的性能在全球范围内收获了旺盛需求，唯独中国市场长期缺位 —— 受美国敏感技术产品出口管制规则约束，英伟达始终无法向中国客户销售其最先进的 GPU 与 AI 芯片产品。这一规则塑造的非对称竞争环境，也...",
-      "highlights": [
-        "# 华为昇腾芯片提前落地，英伟达的风险大吗",
-        "英伟达、台积电股价双双跳水",
-        "作为全球高端 AI 芯片市场长期的领跑者，英伟达（NVDA）旗下顶级 GPU 产品凭借无可匹敌的性能在全球范围内收获了旺盛需求，唯独中国市场长期缺位 —— 受美国敏感技术产品出口管制规则约束，英伟达始终无法向中国客户销售其最先进的 GPU 与 AI 芯片产品"
-      ],
-      "url": "https://nai500.com/zh-hans/blog/2026/09/%E5%8D%8E%E4%B8%BA%E6%98%87%E8%85%BE%E8%8A%AF%E7%89%87%E6%8F%90%E5%89%8D%E8%90%BD%E5%9C%B0%EF%BC%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9A%84%E9%A3%8E%E9%99%A9%E5%A4%A7%E5%90%97%EF%BC%9F",
-      "source": "nai500.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-18T01:00:00Z"
-    },
-    {
-      "id": "c407242ba912",
-      "title": "IDC通用Agent评测出炉  TeleAgent星辰超级智能体跻身前三",
-      "summary": "[](\n\n 时政\n 热点\n 政务\n 深瞳\n 访谈\n 视频\n 国际\n 地方\n 专题\n English\n 滚动\n\n[](  登录 -\n\n所在位置： 中国科技网首页 > 滚动 > 正文\n\n# IDC通用Agent评测出炉  TeleAgent星辰超级智能体跻身前三\n\n2026-09-17 22:14:37 来源:  科技日报  点击数：\n\n科技日报记者 马爱平\n\n近日，国际数据公司（IDC）发布《中国企...",
-      "highlights": [
-        "所在位置： 中国科技网首页 > 滚动 > 正文",
-        "# IDC通用Agent评测出炉  TeleAgent星辰超级智能体跻身前三",
-        "2026-09-17 22:14:37 来源:  科技日报  点击数："
-      ],
-      "url": "https://www.stdaily.com/web/gdxw/2026-09/17/content_582983.html",
-      "source": "stdaily.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-17T14:00:00Z"
-    },
-    {
-      "id": "8b6296a97aaa",
-      "title": "三家AI公司估值超5万亿美元、超过45年科技IPO首日估值总和，VC“分散投资”逻辑正在失效",
-      "summary": "AI浪潮推动Anthropic、OpenAI、SpaceX三家公司合计估值超5万亿美元，超越45年科技IPO总和。资金向头部VC机构高度集中，三家机构独揽三分之一新增资金。",
-      "highlights": [
-        "AI浪潮推动Anthropic、OpenAI、SpaceX三家公司合计估值超5万亿美元，超越45年科技IPO总和",
-        "资金向头部VC机构高度集中，三家机构独揽三分之一新增资金"
-      ],
-      "url": "https://wallstreetcn.com/articles/3782032",
-      "source": "wallstreetcn.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-18T04:00:00Z"
-    },
-    {
-      "id": "3f1f875dd11e",
-      "title": "Anthropic“神话”模型扩大全球内测范围 已揪出上万高危漏洞",
-      "summary": "作为首轮50家机构中，唯一已知获得访问权限的非美国实体，英国人工智能安全研究所（AISI）评估“神话”大模型后表示，该模型能够实施“需要人类专业人员数天工作”的复杂网络攻击。AISI也在上个月的一篇博客文章中指出，现在尚不清楚“神话”大模型是“与既有进展速度脱节的个别突破”，还是“更快发展趋势的一部分”。\n\nAnthropic预计，在未来6到12个月内，许多其他人工智能公司将拥有类似“神话”的模型...",
-      "highlights": [
-        "作为首轮50家机构中，唯一已知获得访问权限的非美国实体，英国人工智能安全研究所（AISI）评估“神话”大模型后表示，该模型能够实施“需要人类专业人员数天工作”的复杂网络攻击",
-        "AISI也在上个月的一篇博客文章中指出，现在尚不清楚“神话”大模型是“与既有进展速度脱节的个别突破”，还是“更快发展趋势的一部分”",
-        "Anthropic预计，在未来6到12个月内，许多其他人工智能公司将拥有类似“神话”的模型"
-      ],
-      "url": "https://www.cls.cn/detail/2388865",
-      "source": "cls.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-17T22:00:00Z"
-    },
-    {
-      "id": "208960561055",
-      "title": "物理 AI 来了！大厂豪赌机器人，落地才是最大难题",
-      "summary": "北交所频道 新京号 电子报 千龙网 贝壳财经 北京BEIJING 新京雅集 专题 商务合作 爱心模式;) 线索报料\n\n微博\n\n首页  视频  深读  公益  第一看点  时事  北京  国际  政事儿  观点  消费  娱乐  文化  体育  京彩教育  浪花资本  藻知科技  鲲纶智库  潮流智造局  城市好望角  海星生活社  图说  智库  数据  乡村\n\n# 物理 AI 来了！大厂豪赌机器...",
-      "highlights": [
-        "北交所频道 新京号 电子报 千龙网 贝壳财经 北京BEIJING 新京雅集 专题 商务合作 爱心模式;) 线索报料",
-        "首页  视频  深读  公益  第一看点  时事  北京  国际  政事儿  观点  消费  娱乐  文化  体育  京彩教育  浪花资本  藻知科技  鲲纶智库  潮流智造局  城市好望角  海星生活社  图说  智库  数据  乡村",
-        "大厂豪赌机器人，落地才是最大难题"
-      ],
-      "url": "https://www.bjnews.com.cn/detail/1789727136129112.html",
-      "source": "bjnews.com.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-18T11:00:00Z"
-    },
-    {
-      "id": "10c4c7aa2a26",
-      "title": "尝到甜头之后一批港股公司开始争建“Token工厂” - 财联社",
-      "summary": "关于我们网站声明联系方式用户反馈网站地图帮助\n\n## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载\n\n尝到甜头之后 一批港股公司开始争建“Token工厂”\n\n原创\n\n港股动态\n\n2026-09-18 16:15 星期五\n\n财联社 冯轶\n\n责编 黄晓峰\n\n```\n①多加港股公司加码”Token工厂“类业务，有何看点？ ②海外算力服务商发出涨价信号，算力紧缺程度有多大？...",
-      "highlights": [
-        "关于我们网站声明联系方式用户反馈网站地图帮助",
-        "## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载",
-        "尝到甜头之后 一批港股公司开始争建“Token工厂”"
-      ],
-      "url": "https://www.cls.cn/detail/2487210",
-      "source": "cls.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-17T11:00:00Z"
-    },
-    {
-      "id": "59d69e32f985",
-      "title": "多智能体 | OpenAI API",
-      "summary": "### 可用平台\n\n ChatGPT 桌面应用\n 远程\n 网页版 ChatGPT\n Codex CLI\n Codex IDE 扩展\n Codex 云端\n\n### 发布\n\n 更新日志\n 功能成熟度\n 开源\n\n 概览\n\n### 工作流\n\n 项目和聊天\n 站点\n 可视化\n 计划任务\n 长时间运行的工作\n 通知\n 宠物\n Codex Micro\n\n### 能力\n\n 浏览器\n 计算机使用\n 语音\n 插件\n ...",
-      "highlights": [
-        "ChatGPT 桌面应用",
-        "网页版 ChatGPT",
-        "Codex IDE 扩展"
-      ],
-      "url": "https://developers.openai.com/zh-Hans/api/docs/guides/agents-api/multi-agent",
-      "source": "developers.openai.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-18T05:00:00Z"
-    },
-    {
-      "id": "358007a5998f",
-      "title": "汽车与具身智能加速融合|具身智能机器人|小鹏机器人|汽车产业|广州市|天河区_手机新浪网",
-      "summary": "此前，特斯拉正式停产Model S和Model X，并将加州弗里蒙特工厂产线拆除，改造成人形机器人Optimus专用产线，目标是到今年年底生产10万台。特斯拉首席执行官埃隆·马斯克称，此举是向“物理世界AI公司”的战略转向，未来特斯拉的资源将聚焦机器人、自动驾驶（如Cybercab）和AI芯片领域。\n\n从小鹏到理想，从奇瑞到比亚迪，从特斯拉到现代，据不完全统计，截至今年8月底，全球已有近20家主流...",
-      "highlights": [
-        "此前，特斯拉正式停产Model S和Model X，并将加州弗里蒙特工厂产线拆除，改造成人形机器人Optimus专用产线，目标是到今年年底生产10万台",
-        "特斯拉首席执行官埃隆·马斯克称，此举是向“物理世界AI公司”的战略转向，未来特斯拉的资源将聚焦机器人、自动驾驶（如Cybercab）和AI芯片领域",
-        "从小鹏到理想，从奇瑞到比亚迪，从特斯拉到现代，据不完全统计，截至今年8月底，全球已有近20家主流车企以自研、孵化、投资等方式驶入具身机器人赛道，累计规划投入规模超千亿元，中国车企更是本轮入局的主力"
-      ],
-      "url": "https://finance.sina.cn/2026-09-18/detail-inisewtq8712589.d.html?vt=4",
-      "source": "finance.sina.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-18T06:04:27Z"
     }
   ]
 }
