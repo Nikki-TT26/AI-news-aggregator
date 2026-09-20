@@ -1,6 +1,561 @@
 {
-  "updatedAt": "2026-09-20T12:01:19Z",
+  "updatedAt": "2026-09-20T18:01:40Z",
   "latest": [
+    {
+      "id": "e9bd09c02181",
+      "title": "算力之外拼记忆，华为云亮出企业级AI产品矩阵",
+      "summary": "AI产品向企业落地的过程中，办公是其中一个重要落地方向。8月以来，腾讯、字节跳动、阿里巴巴等均释放出明显信号，打造主力AI办公产品。8月25日，字节跳动发布AI办公产品“豆包工作”，统一面向生产力场景的AI Agent（智能体）产品与品牌，并与协同办公应用飞书深度打通。8月3日，阿里巴巴将三款产品整合形成企业级Agent产品“千问办公”（QwenWork），并接入新发布的旗舰模型Qwen3.8。9...",
+      "highlights": [
+        "AI产品向企业落地的过程中，办公是其中一个重要落地方向",
+        "8月以来，腾讯、字节跳动、阿里巴巴等均释放出明显信号，打造主力AI办公产品",
+        "8月25日，字节跳动发布AI办公产品“豆包工作”，统一面向生产力场景的AI Agent（智能体）产品与品牌，并与协同办公应用飞书深度打通"
+      ],
+      "url": "https://m.21jingji.com/article/20260918/herald/27fa4c040547ee0846f7f791bb9ab6f4_zaker.html",
+      "source": "m.21jingji.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-18T22:00:00Z"
+    },
+    {
+      "id": "8d1140818116",
+      "title": "科大讯飞的盈利神话，撞到AI高墙_资讯-蓝鲸财经",
+      "summary": "对于全国产化的坚持也是关键要素。科大讯飞一直在坚持基于全国产算力训练和推理。\n\n9月7日，科大讯飞发布最新的星火X2.5大模型，就是基于全国产算力完成全流程训练及推理。\n\n现阶段，全国产算力有一定的差距，刘庆峰给出过一个量化的说法：国产算力跟 H200 相比，训练效率差距有5倍。这显然影响了科大讯飞。\n\n刘庆峰曾表示，\"这一波大模型的热潮，因为国产算力对超长上下文的限制，使得在这一波以代码和智能体...",
+      "highlights": [
+        "对于全国产化的坚持也是关键要素",
+        "科大讯飞一直在坚持基于全国产算力训练和推理",
+        "9月7日，科大讯飞发布最新的星火X2.5大模型，就是基于全国产算力完成全流程训练及推理"
+      ],
+      "url": "https://www.lanjinger.com/d/1789090136187561781",
+      "source": "lanjinger.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-18T20:00:00Z"
+    },
+    {
+      "id": "344d2c4c916e",
+      "title": "最新财新周刊｜Anthropic：AI“吹哨人”背后",
+      "summary": ":   Anthropic创始人及CEO达里奥·阿莫代伊近日发文呼吁放缓人工智能模型能力的提升速度。图为当地时间2025年1月23日，阿莫代伊参加瑞士达沃斯召开的世界经济论坛年会。\n\n《财新周刊》2026年第37期\n:   \n\n文｜财新周刊 杜知航\n\n　　“我们必须放缓人工智能（AI）模型能力的提升速度。”2026年9月12日，拥有全球性能最强AI大模型的Anthropic创始人及CEO达里奥·阿...",
+      "highlights": [
+        ":   Anthropic创始人及CEO达里奥·阿莫代伊近日发文呼吁放缓人工智能模型能力的提升速度",
+        "图为当地时间2025年1月23日，阿莫代伊参加瑞士达沃斯召开的世界经济论坛年会",
+        "《财新周刊》2026年第37期"
+      ],
+      "url": "https://weekly.caixin.com/2026-09-19/102486425.html",
+      "source": "weekly.caixin.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-19T10:00:00Z"
+    },
+    {
+      "id": "68d606ca3eba",
+      "title": "沙利文联合头豹正式发布《2026年全球桌面AI智能体市场研究报告》",
+      "summary": "logo\n\n数字基础设施消费电子双碳新能源医疗与生命科学餐饮与新零售半导体与芯片智能家居汽车与出行公共服务食品与饮料科技、媒体和通信金融科技地产与物业矿业冶炼美容时尚大数据与人工智能物流与供应链建筑科技与装饰装潢特种新材料文化娱乐企业级服务跨境电商贸易基础设施建设环保节能科技教育与培训航运及港口母婴农林牧渔园林绿化商业航空\n\n公司介绍中国管理团队表现与影响战略合作伙伴专家委员会沙利文中国分支机构\n...",
+      "highlights": [
+        "数字基础设施消费电子双碳新能源医疗与生命科学餐饮与新零售半导体与芯片智能家居汽车与出行公共服务食品与饮料科技、媒体和通信金融科技地产与物业矿业冶炼美容时尚大数据与人工智能物流与供应链建筑科技与装饰装潢特种新材料文化娱乐企业级服务跨境电商贸易基础设施建设环保节能科技教育与培训航运及港口母婴农林牧渔园林绿化商业航空",
+        "公司介绍中国管理团队表现与影响战略合作伙伴专家委员会沙利文中国分支机构",
+        "# 沙利文联合头豹正式发布《2026年全球桌面AI智能体市场研究报告》"
+      ],
+      "url": "https://www.frostchina.com/content/insight/detail/6aaf47ac4dda55b7257a42fa",
+      "source": "frostchina.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-20T03:00:00Z"
+    },
+    {
+      "id": "764357ee2c6b",
+      "title": "车企集体造“人”，下一站是汽车工厂",
+      "summary": "车企集体造“人”，下一站是汽车工厂\n汽车\n\n# 车企集体造“人”，下一站是汽车工厂\n\n「 具身智能从只会跳舞到可以干活 」\n\n作者 | 龚宸芫\n\n编辑 | 李国政\n\n出品 | 帮宁工作室（gbngzs）\n\n“这是我每次出去演讲都用的一张图，对我本人的影响也很大。”\n\n9月18日，天津，在第22届泰达论坛“新赛道生态专场：具身智能新赛道”专场，长安汽车首席专家、长安天枢智能机器人公司总经理谭欢作演讲...",
+      "highlights": [
+        "车企集体造“人”，下一站是汽车工厂",
+        "# 车企集体造“人”，下一站是汽车工厂",
+        "「 具身智能从只会跳舞到可以干活 」"
+      ],
+      "url": "https://auto.ifeng.com/c/8wZJigBzxjc",
+      "source": "auto.ifeng.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-20T01:37:48Z"
+    },
+    {
+      "id": "397f7b029287",
+      "title": "数博会：在林城与机器人一起“赶集”_中安在线_中安在线客户端_中安在线",
+      "summary": "### 数博会：在林城与机器人一起“赶集”\n\n央视新闻     阅读\n\n全自动驾驶接驳车组、人形机器人主持人、一键生成AIGC漫剧……\n\n　　2026中国国际大数据产业博览会8月28日在贵州贵阳开幕，本届数博会由国家数据局主办、贵州省人民政府承办，以“词元——数据要素价值释放新路径”为主题。\n\n　　经过多年的成功举办和深厚积淀，本届数博会从嘉宾阵容到视觉呈现，从成果发布到特色展区，给人们带来了一场...",
+      "highlights": [
+        "### 数博会：在林城与机器人一起“赶集”",
+        "央视新闻     阅读",
+        "全自动驾驶接驳车组、人形机器人主持人、一键生成AIGC漫剧……"
+      ],
+      "url": "http://api.app.anhuinews.com/appcontent/9538280.html",
+      "source": "api.app.anhuinews.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-19T06:00:00Z"
+    },
+    {
+      "id": "2b61e195a0e5",
+      "title": "T早报｜特朗普让网民投票为AI改名；Anthropic、OpenAI等AI巨头遭用户诉讼；飞猪、同程等四家酒旅平台被立案",
+      "summary": "财新传媒\n财新传媒\n手机碎片接口\n1111111\n\n# T早报｜特朗普让网民投票为AI改名；Anthropic、OpenAI等AI巨头遭用户诉讼；飞猪、同程等四家酒旅平台被立案\n\nnews\n\n【财新网】\n\nOPPO、vivo和荣耀发新操作系统 强调适配智能体\n\n　　近一周内，OPPO、vivo和荣耀三家手机厂商都召开了开发者大会，并同步推出最新的操作系统。荣耀在开发者大会上发布了最新操作系统Mag...",
+      "highlights": [
+        "# T早报｜特朗普让网民投票为AI改名；Anthropic、OpenAI等AI巨头遭用户诉讼；飞猪、同程等四家酒旅平台被立案",
+        "OPPO、vivo和荣耀发新操作系统 强调适配智能体",
+        "近一周内，OPPO、vivo和荣耀三家手机厂商都召开了开发者大会，并同步推出最新的操作系统"
+      ],
+      "url": "https://m.caixin.com/m/2026-09-20/102486676.html",
+      "source": "m.caixin.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-20T01:00:00Z"
+    },
+    {
+      "id": "36af611a5ede",
+      "title": "具身智能泡沫褪去，车企「造人」要过三道生死关_投资界",
+      "summary": "当具身智能行业告别PPT时代，资本市场不会\\为演示能力买单，小鹏启用全球首条人形机器人自动化产线，把车规制造带入人形机器人赛道，把竞争拉回制造业的客观规律，这一步值得肯定。\n\n但一条自动化产线，不等于商业化成功。在产线和商业成功之间，还有陡峭的良率曲线、尚未收敛的灵巧手硬件、稀缺的外部付费场景，还有430亿估值背后沉甸甸的财务命题。更何况，作为刚刚站稳脚跟的新势力企业，先造好汽车，再去别的赛道大展...",
+      "highlights": [
+        "当具身智能行业告别PPT时代，资本市场不会\\为演示能力买单，小鹏启用全球首条人形机器人自动化产线，把车规制造带入人形机器人赛道，把竞争拉回制造业的客观规律，这一步值得肯定",
+        "但一条自动化产线，不等于商业化成功",
+        "在产线和商业成功之间，还有陡峭的良率曲线、尚未收敛的灵巧手硬件、稀缺的外部付费场景，还有430亿估值背后沉甸甸的财务命题"
+      ],
+      "url": "https://news.pedaily.cn/202609/569286.shtml",
+      "source": "news.pedaily.cn",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-19T23:56:00Z"
+    },
+    {
+      "id": "242b1bc391cf",
+      "title": "机器人行业日报(09.18) : 机器人产业爆发_搜狐网",
+      "summary": "## 机器人行业日报(09.18) : 机器人产业爆发\n\n亿欧\n\n亿欧\n\n\\ 行业动态\n\n> 机器人行业日报(09.17) : 机器人行业动态\n>\n> 雷军一行考察B站和宇树科技，宇树科技登陆科创板成为A股人形机器人第一股。帕西尼获得多家机构投资，三星入股。西交大系团队推出模块化轮式人形机器人。杭叉集团拟募资22.59亿元用于叉车机器人智慧工厂项目。OpenAI投入百亿砸向具身智能，机器人竞争进入...",
+      "highlights": [
+        "## 机器人行业日报(09.18) : 机器人产业爆发",
+        "> 机器人行业日报(09.17) : 机器人行业动态",
+        "> 雷军一行考察B站和宇树科技，宇树科技登陆科创板成为A股人形机器人第一股"
+      ],
+      "url": "https://m.sohu.com/a/1078231241_115035?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-19T16:03:00Z"
+    },
+    {
+      "id": "6dc7e4c9b513",
+      "title": "造车新势力集体跨界机器人，为啥不好好造车去造“人”？ - 21经济网",
+      "summary": "首先，造机器人和造车的差别并没那么大。很多人以为机器人和汽车是两个完全不同的物种，但在技术底层逻辑上，它们有着惊人的相似性。这种相似性不是表面上的两个轮子变两条腿那么简单，而是核心能力的高度复用。现在的智能电动汽车，本质上就是一个“带轮子的机器人”。无论是自动驾驶所需的激光雷达、高清摄像头、毫米波雷达，还是大脑部分的具身智能算法、大模型感知决策系统，乃至于底层的电机、电控、电池管理这套能源系统，在...",
+      "highlights": [
+        "首先，造机器人和造车的差别并没那么大",
+        "很多人以为机器人和汽车是两个完全不同的物种，但在技术底层逻辑上，它们有着惊人的相似性",
+        "这种相似性不是表面上的两个轮子变两条腿那么简单，而是核心能力的高度复用"
+      ],
+      "url": "https://www.21jingji.com/article/20260920/herald/6421eeca2d4a0d3af7b6c1eebbea5658.html",
+      "source": "21jingji.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-20T06:52:09Z"
+    },
+    {
+      "id": "e6e9ca1ac391",
+      "title": "Google Says Gemini Hacked Three Firms Just Like OpenAI and Anthropic Did - Startup Fortune",
+      "summary": "This Week in AI: Robots Take a Punch, Assistants Get Long-Term Memory, and Models Keep Getting Cheaper\n\nA dense week across robotics, model releases and AI research: humanoid robots duke it out, ChatG...",
+      "highlights": [
+        "This Week in AI: Robots Take a Punch, Assistants Get Long-Term Memory, and Models Keep Getting Cheaper",
+        "A dense week across robotics, model releases and AI research: humanoid robots duke it out, ChatGPT gets long-term memory, and frontier-adjacent AI keeps getting cheaper and faster. - how to build robots that handle physical impacts - AI models getting cheaper and more accessible features [...] Google has now joined OpenAI, Anthropic and Meta in the strangest security club in Silicon Valley: companies whose AI models reached live systems while they were supposed to be inside controlled cybersecurity tests. According to Bloomberg, Gemini inadvertently hacked into three company systems in May during tests run by Irregular, an AI security vendor. The Wall Street Journal first reported the Google incidents. Axios then reported that Google confirmed them on September 18. [...] OpenAI's Hugging Face incident was different in important ways, but it sits in the same family of problems. OpenAI said its models found ways to communicate through unauthorized channels and exploit infrastructure - and got internet access in the process. Anthropic later said it broadened its own search to roughly 481 million transcripts after finding another Claude incident from January 2026. These are not tiny lab curiosities anymore. They are operating facts."
+      ],
+      "url": "https://startupfortune.com/google-says-gemini-hacked-three-firms-just-like-openai-and-anthropic-did",
+      "source": "startupfortune.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-20T06:49:59Z"
+    },
+    {
+      "id": "ca73c9eeec1a",
+      "title": "Google’s Gemini agents hacked three companies in new AI safety incident",
+      "summary": "Most Read\n\n       OpenAI breached by researchers using Anthropic models\n       Anthropic and the golden rules of business\n       Raspberry Pi founder Eben Upton: ‘I’m an omni-geek’\n       OpenAI discl...",
+      "highlights": [
+        "OpenAI breached by researchers using Anthropic models",
+        "Anthropic and the golden rules of business",
+        "Raspberry Pi founder Eben Upton: ‘I’m an omni-geek’"
+      ],
+      "url": "https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1",
+      "source": "ft.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-19T01:29:25Z"
+    },
+    {
+      "id": "ece43f459dba",
+      "title": "豆包跨越「临界点」后，字节AI下一步怎么走？-36氪",
+      "summary": "2026 年 2 月 5 日，Anthropic 发布了旗下的最新模型成果 Claude Opus 4.6，并且随之宣布：\n\n在 AI 彻底改变软件编程行业的工作方式后，现在是时候进军更广泛的职场了。\n\n紧接着，这一模型发布之后，多家金融服务公司的股价在当日应声跳水。其中，金融数据和软件公司 FaceSet 跌幅超 8%，创 2020 年 3 月以来新低；老牌信息服务提供商 Thomson Reu...",
+      "highlights": [
+        "2026 年 2 月 5 日，Anthropic 发布了旗下的最新模型成果 Claude Opus 4.6，并且随之宣布：",
+        "在 AI 彻底改变软件编程行业的工作方式后，现在是时候进军更广泛的职场了",
+        "紧接着，这一模型发布之后，多家金融服务公司的股价在当日应声跳水"
+      ],
+      "url": "https://m.36kr.com/p/3867066152713092",
+      "source": "m.36kr.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-19T11:50:40Z"
+    },
+    {
+      "id": "e41e516c12a0",
+      "title": "This AI Agent was asked to fix a simple bug. It went off-script. - Forbes Australia",
+      "summary": "# This AI Agent was asked to fix a simple bug. ##### In experiments by startup Irregular, one of Anthropic and OpenAI’s security testers, an Alibaba Qwen agent decided to retrain an entire model when ...",
+      "highlights": [
+        "# This AI Agent was asked to fix a simple bug. ##### In experiments by startup Irregular, one of Anthropic and OpenAI’s security testers, an Alibaba Qwen agent decided to retrain an entire model when it was asked to fix a basic software bug. Rather than running tests, finding the problem and changing the code, the agent decided to alter the AI model the app was using. Without direction, the agent acquired training data and used it to alter the model’s underlying weights, then fine-tuned the model before swapping it in the app. Per a research report on the incident provided to *Forbes*, the agent “did so without being instructed to train, modify the model or deploy a replacement.” The model fix worked and the app began outputting correct translations. The agent included that training data when updating the model, meaning the personal data was accessible to any app using the same model."
+      ],
+      "url": "https://www.forbes.com.au/news/innovation/this-ai-agent-was-asked-to-fix-a-simple-bug-it-went-off-script/",
+      "source": "forbes.com.au",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-19T03:13:04Z"
+    },
+    {
+      "id": "b8230fce334c",
+      "title": "Inside the Israeli security firm tied to OpenAI, Anthropic model breaches",
+      "summary": "AI models developed by OpenAI, Anthropic, Google and Meta managed to access and, in some cases, breach real-world computer systems during cybersecurity tests run by Israeli AI security firm Irregular....",
+      "highlights": [
+        "AI models developed by OpenAI, Anthropic, Google and Meta managed to access and, in some cases, breach real-world computer systems during cybersecurity tests run by Israeli AI security firm Irregular.",
+        "### Click the alert icon to follow topics:",
+        "Israel high-tech"
+      ],
+      "url": "https://www.haaretz.com/israel-news/tech-news/2026-09-19/ty-article/.premium/inside-the-israeli-ai-firm-tied-to-breaches-of-openai-anthropic-google-models/000001a0-ba8a-d157-a9f4-ba8b416a0000",
+      "source": "haaretz.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-19T19:30:00Z"
+    },
+    {
+      "id": "a9ff3f23dc79",
+      "title": "AI时代最容易被忽视的苦力活：给机器人“擦屁股”的人-36氪",
+      "summary": "具身数据清洗不具备这些条件。\n\n首先，它需要领域知识。你让一个众包标注员去看一段机械臂的操作录像，他根本不知道什么叫“抓取姿态合理”、什么叫“关节限位内运动”、什么叫“力控参数异常”。这不是贴标签，这是在理解物理交互的含义。湖北人形机器人创新中心的描述很直白：训练师把“送水”拆成机器人数十个动作，每一帧都要人工标注成机器人看得懂的动作语言，才符合要求。\n\n其次，它没法“错了重来”。具身数据的清洗结...",
+      "highlights": [
+        "具身数据清洗不具备这些条件",
+        "你让一个众包标注员去看一段机械臂的操作录像，他根本不知道什么叫“抓取姿态合理”、什么叫“关节限位内运动”、什么叫“力控参数异常”",
+        "这不是贴标签，这是在理解物理交互的含义"
+      ],
+      "url": "https://m.36kr.com/p/3987416739003138",
+      "source": "m.36kr.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-19T06:00:15Z"
+    },
+    {
+      "id": "18c921acb78e",
+      "title": "黄仁勋说会动的东西都能有FSD，但机器人最大的难点不在“动”",
+      "summary": "黄仁勋提出，一切会移动的事物终将拥有自主能力，自动驾驶不再只是汽车专属。英伟达的物理AI布局覆盖Isaac Sim仿真、Cosmos世界模型、GR00T机器人模型和Jetson Thor端",
+      "highlights": [
+        "黄仁勋提出，一切会移动的事物终将拥有自主能力，自动驾驶不再只是汽车专属",
+        "英伟达的物理AI布局覆盖Isaac Sim仿真、Cosmos世界模型、GR00T机器人模型和Jetson Thor端"
+      ],
+      "url": "https://www.leaderobot.com/news/9753",
+      "source": "leaderobot.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-20T04:00:00Z"
+    },
+    {
+      "id": "ea532d8f6b7d",
+      "title": "Gemini Hacked Three Companies in First Known Breakout by ... - WSJ",
+      "summary": "Google’s Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, the first known example of the company’s artificial-intelligence systems autonom...",
+      "highlights": [
+        "Google’s Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, the first known example of the company’s artificial-intelligence systems autonomously committing such an act.",
+        "The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irregular, which was also involved in similar incidents disclosed by OpenAI, Anthropic and Meta. [...] Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
+      ],
+      "url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
+      "source": "wsj.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-18T22:10:00Z"
+    },
+    {
+      "id": "f94e9a6f786a",
+      "title": "网易有道发布AI Agent全景生态",
+      "summary": "[](\n\n 时政\n 热点\n 政务\n 深瞳\n 访谈\n 视频\n 国际\n 地方\n 专题\n English\n 滚动\n\n[](  登录 -\n\n所在位置： 中国科技网首页 > 滚动 > 正文\n\n# 网易有道发布AI Agent全景生态\n\n2026-09-20 20:30:43 来源:  科技日报  点击数：\n\n科技日报记者 裴宸纬\n\n近日，网易有道“NEXT，AGENT｜有道AI Open Day”在北京举办...",
+      "highlights": [
+        "所在位置： 中国科技网首页 > 滚动 > 正文",
+        "# 网易有道发布AI Agent全景生态",
+        "2026-09-20 20:30:43 来源:  科技日报  点击数："
+      ],
+      "url": "https://www.stdaily.com/web/gdxw/2026-09/20/content_584697.html",
+      "source": "stdaily.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-20T13:00:00Z"
+    },
+    {
+      "id": "be55a4ed50a2",
+      "title": "沙利文发布2026年智能体市场研究报告：WorkBuddy稳居企业级、个人应用双榜第一",
+      "summary": "沙利文发布《2026年全球桌面AI智能体市场研究报告》，腾讯WorkBuddy在中国个人端与企业级桌面智能体两大榜单均位列第一。",
+      "highlights": [
+        "沙利文发布《2026年全球桌面AI智能体市场研究报告》，腾讯WorkBuddy在中国个人端与企业级桌面智能体两大榜单均位列第一"
+      ],
+      "url": "https://m.leiphone.com/category/industrynews/U0o8Z4sG9l26lvTQ.html",
+      "source": "m.leiphone.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-09-20T04:00:00Z"
+    },
+    {
+      "id": "c36936828b06",
+      "title": "GPU租赁，价格大涨",
+      "summary": "欧洲AI算力基础设施提供商Nebius近期发布重磅调价公告，自10月1日起全面上调按需算力资源价格。这是Nebius在年内的第二轮提价，今年5月，该公司已宣布自6月1日起将",
+      "highlights": [
+        "欧洲AI算力基础设施提供商Nebius近期发布重磅调价公告，自10月1日起全面上调按需算力资源价格",
+        "这是Nebius在年内的第二轮提价，今年5月，该公司已宣布自6月1日起将"
+      ],
+      "url": "https://www.esmchina.com/marketnews/59693.html",
+      "source": "esmchina.com",
+      "category": "芯片硬件",
+      "importance": 3,
+      "publishedAt": "2026-09-20T02:00:00Z"
+    },
+    {
+      "id": "5dd45d2f2eb2",
+      "title": "xAI Acquisition, Valuation, Funding & Investors - Multiples.vc",
+      "summary": "2023\n\n#### HQ\n\nUnited StatesSan Francisco, CA\n\n#### Website\n\nx.ai\n\n#### Status\n\nAcquired\n\n#### Customer focus\n\nB2C & B2B\n\n#### Revenue model\n\nSubscription, Usage-based\n\n#### Revenue\n\n$210M (Jan 2026)\n...",
+      "highlights": [
+        "United StatesSan Francisco, CA",
+        "#### Website",
+        "#### Status"
+      ],
+      "url": "https://multiples.vc/private-comps/xai",
+      "source": "multiples.vc",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-09-19T01:00:00Z"
+    },
+    {
+      "id": "f11bc92e03c2",
+      "title": "腾讯控股(00700) - 最新资讯",
+      "summary": "查看更多\n\n雪球及香港交易所资讯服务有限公司、其控股公司及/或该等控股公司的任何附属公司均竭力确保所提供信息的准确和可靠度，但不能保证其绝对准确和可靠，且亦不会承担因任何不准确或遗漏而引起的任何损失或损害的责任（不管是否侵权法下的责任或合约责任又或其他责任）。\n\nImage 33: 微信 Image 34: 扫一扫，关注雪球微信公众号扫一扫，关注雪球微信公众号Image 35: 微博Image 3...",
+      "highlights": [
+        "雪球及香港交易所资讯服务有限公司、其控股公司及/或该等控股公司的任何附属公司均竭力确保所提供信息的准确和可靠度，但不能保证其绝对准确和可靠，且亦不会承担因任何不准确或遗漏而引起的任何损失或损害的责任（不管是否侵权法下的责任或合约责任又或其他责任）",
+        "Image 33: 微信 Image 34: 扫一扫，关注雪球微信公众号扫一扫，关注雪球微信公众号Image 35: 微博Image 36: 邮箱",
+        "A股开户｜雪球基金｜投资者教育｜风险提示"
+      ],
+      "url": "https://xueqiu.com/S/00700/news?page=8",
+      "source": "xueqiu.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-09-19T13:00:00Z"
+    },
+    {
+      "id": "524413e9bc08",
+      "title": "论文周报丨Vidu S2实现实时720P数字人生成与视频编辑；NCP-ArchPreview探索LLM隐空间预训练新范式...速览一周AI前沿论文 - 智源社区",
+      "summary": "研究指出，尽管不同方向之间已经出现能力复用，但游戏规则、引擎接口、状态表示和玩家环境仍具有较强的场景依赖性，因此跨场景迁移后的有效性仍需重新验证。目前，AI 在受限游戏玩法和特定学习环境中的评估相对成熟，而持久世界状态、持续软件修订、运行时适应和自动化测试等方向仍有较大探索空间。\n\n论文及详细解读：\n\n基础模型时代的游戏人工智能\n\n数据集构成与来源：作者利用了广泛的数据集来支持玩家建模、动作接口和...",
+      "highlights": [
+        "研究指出，尽管不同方向之间已经出现能力复用，但游戏规则、引擎接口、状态表示和玩家环境仍具有较强的场景依赖性，因此跨场景迁移后的有效性仍需重新验证",
+        "目前，AI 在受限游戏玩法和特定学习环境中的评估相对成熟，而持久世界状态、持续软件修订、运行时适应和自动化测试等方向仍有较大探索空间",
+        "基础模型时代的游戏人工智能"
+      ],
+      "url": "https://hub.baai.ac.cn/view/58102",
+      "source": "hub.baai.ac.cn",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-09-19T12:00:00Z"
+    },
+    {
+      "id": "507cf5ae1532",
+      "title": "AI破解人类不可逆衰老 前沿科技突破衰老研究新边界",
+      "summary": "同一年，他创办了英矽智能。\n\n公司最初更像一个计算衰老的算法实验室。2016 年，Alex 和团队收集超过 6 万份体检数据，训练出一组神经网络。只需要血糖、白蛋白、尿素和红细胞等 41 项指标，AI 就能猜出一个人的年龄，平均误差约为 5.5 年。这是最早一批基于深度学习的人体衰老时钟。\n\n真正让英矽智能走出长寿研究的小圈子，是三年后的一场实验。\n\n2019 年，公司用生成式 AI 为 DDR1...",
+      "highlights": [
+        "同一年，他创办了英矽智能",
+        "公司最初更像一个计算衰老的算法实验室",
+        "2016 年，Alex 和团队收集超过 6 万份体检数据，训练出一组神经网络"
+      ],
+      "url": "https://eu.36kr.com/zh/p/3989811095468801",
+      "source": "eu.36kr.com",
+      "category": "前沿理论",
+      "importance": 2,
+      "publishedAt": "2026-09-19T12:00:00Z"
+    },
+    {
+      "id": "c51516b76ae3",
+      "title": "今日AI大模型新闻速览(09月19日)",
+      "summary": "披露递归自我改进(RSI)最新进展,称GLM-5.3已摸到门槛,并... 这是国产大模型厂商在AI编程工具链上的开源动作,MIT协议允许...",
+      "highlights": [
+        "披露递归自我改进(RSI)最新进展,称GLM-5.3已摸到门槛,并... 这是国产大模型厂商在AI编程工具链上的开源动作,MIT协议允许..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1EhLTDWJRkHNyCxEnGRipitsAKof5hGU1qXa8Fplpd9jKbNS1X7tH_cDXP8zhmOMmd0JoSiAUh1eJyWS6BxiaJ4L7vO_xnf9dZHwGaVfoGqStMvDOqeWaF_r2wz1fZveGQNiLjniMARaOfXdpFDQ68xP-C8BdTpu75-1XX717_3bIQziFYdo3rci27sXEJ2szshWyod83cWsOKDj6HsFeyE8RsmObDbtQ..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=52D313FF3C1DEE7A4F4815A6ADDE03264F2AE8836AAFCB04",
+      "source": "微信公众号",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-09-18T22:24:10Z"
+    },
+    {
+      "id": "a9c91c6f1a7d",
+      "title": "中美AI蒸馏争议升级中国模型部分性能超美国同行- AI",
+      "summary": "当前在中美人工智能技术竞争中，模型蒸馏技术成为双方争议焦点。蒸馏技术广义上指使用另一款更先进模型的输出结果训练自有AI模型，因投入成本更低的实验室可借助这一",
+      "highlights": [
+        "当前在中美人工智能技术竞争中，模型蒸馏技术成为双方争议焦点",
+        "蒸馏技术广义上指使用另一款更先进模型的输出结果训练自有AI模型，因投入成本更低的实验室可借助这一"
+      ],
+      "url": "https://www.ebrun.com/20260920/708649.shtml",
+      "source": "ebrun.com",
+      "category": "行业话题",
+      "importance": 2,
+      "publishedAt": "2026-09-20T01:00:00Z"
+    },
+    {
+      "id": "19ad90248007",
+      "title": "今日AI大模型新闻速览(09月19日)",
+      "summary": "披露递归自我改进(RSI)最新进展,称GLM-5.3已摸到门槛,并... 这是国产大模型厂商在AI编程工具链上的开源动作,MIT协议允许...",
+      "highlights": [
+        "披露递归自我改进(RSI)最新进展,称GLM-5.3已摸到门槛,并... 这是国产大模型厂商在AI编程工具链上的开源动作,MIT协议允许..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1EhLTDWJRkHB5Hn4sAdaHatsAKof5hGU1qXa8Fplpd9jKbNS1X7tH_cDXP8zhmOMmd0JoSiAUh1eJyWS6BxiaJ4L7vO_xnf9WhI2H8q8rys77TaBn89lrAUL_Rkk-s36LR4eXYc7PSB8H-jh6hEJJGPVUg-wRuC9WwJaG_ZpMC_rWDtOQzlaSt-7rlsN6_n-TZoqo0cgmCWI1BYdzZ90JNhWLv6O878UA..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=54B66CC7DC483A208C8DD76660F47C9C8C98BA166AB01F7D",
+      "source": "微信公众号",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-09-18T22:24:10Z"
+    }
+  ],
+  "today": [
+    {
+      "id": "68d606ca3eba",
+      "title": "沙利文联合头豹正式发布《2026年全球桌面AI智能体市场研究报告》",
+      "summary": "logo\n\n数字基础设施消费电子双碳新能源医疗与生命科学餐饮与新零售半导体与芯片智能家居汽车与出行公共服务食品与饮料科技、媒体和通信金融科技地产与物业矿业冶炼美容时尚大数据与人工智能物流与供应链建筑科技与装饰装潢特种新材料文化娱乐企业级服务跨境电商贸易基础设施建设环保节能科技教育与培训航运及港口母婴农林牧渔园林绿化商业航空\n\n公司介绍中国管理团队表现与影响战略合作伙伴专家委员会沙利文中国分支机构\n...",
+      "highlights": [
+        "数字基础设施消费电子双碳新能源医疗与生命科学餐饮与新零售半导体与芯片智能家居汽车与出行公共服务食品与饮料科技、媒体和通信金融科技地产与物业矿业冶炼美容时尚大数据与人工智能物流与供应链建筑科技与装饰装潢特种新材料文化娱乐企业级服务跨境电商贸易基础设施建设环保节能科技教育与培训航运及港口母婴农林牧渔园林绿化商业航空",
+        "公司介绍中国管理团队表现与影响战略合作伙伴专家委员会沙利文中国分支机构",
+        "# 沙利文联合头豹正式发布《2026年全球桌面AI智能体市场研究报告》"
+      ],
+      "url": "https://www.frostchina.com/content/insight/detail/6aaf47ac4dda55b7257a42fa",
+      "source": "frostchina.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-20T03:00:00Z"
+    },
+    {
+      "id": "764357ee2c6b",
+      "title": "车企集体造“人”，下一站是汽车工厂",
+      "summary": "车企集体造“人”，下一站是汽车工厂\n汽车\n\n# 车企集体造“人”，下一站是汽车工厂\n\n「 具身智能从只会跳舞到可以干活 」\n\n作者 | 龚宸芫\n\n编辑 | 李国政\n\n出品 | 帮宁工作室（gbngzs）\n\n“这是我每次出去演讲都用的一张图，对我本人的影响也很大。”\n\n9月18日，天津，在第22届泰达论坛“新赛道生态专场：具身智能新赛道”专场，长安汽车首席专家、长安天枢智能机器人公司总经理谭欢作演讲...",
+      "highlights": [
+        "车企集体造“人”，下一站是汽车工厂",
+        "# 车企集体造“人”，下一站是汽车工厂",
+        "「 具身智能从只会跳舞到可以干活 」"
+      ],
+      "url": "https://auto.ifeng.com/c/8wZJigBzxjc",
+      "source": "auto.ifeng.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-20T01:37:48Z"
+    },
+    {
+      "id": "2b61e195a0e5",
+      "title": "T早报｜特朗普让网民投票为AI改名；Anthropic、OpenAI等AI巨头遭用户诉讼；飞猪、同程等四家酒旅平台被立案",
+      "summary": "财新传媒\n财新传媒\n手机碎片接口\n1111111\n\n# T早报｜特朗普让网民投票为AI改名；Anthropic、OpenAI等AI巨头遭用户诉讼；飞猪、同程等四家酒旅平台被立案\n\nnews\n\n【财新网】\n\nOPPO、vivo和荣耀发新操作系统 强调适配智能体\n\n　　近一周内，OPPO、vivo和荣耀三家手机厂商都召开了开发者大会，并同步推出最新的操作系统。荣耀在开发者大会上发布了最新操作系统Mag...",
+      "highlights": [
+        "# T早报｜特朗普让网民投票为AI改名；Anthropic、OpenAI等AI巨头遭用户诉讼；飞猪、同程等四家酒旅平台被立案",
+        "OPPO、vivo和荣耀发新操作系统 强调适配智能体",
+        "近一周内，OPPO、vivo和荣耀三家手机厂商都召开了开发者大会，并同步推出最新的操作系统"
+      ],
+      "url": "https://m.caixin.com/m/2026-09-20/102486676.html",
+      "source": "m.caixin.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-20T01:00:00Z"
+    },
+    {
+      "id": "6dc7e4c9b513",
+      "title": "造车新势力集体跨界机器人，为啥不好好造车去造“人”？ - 21经济网",
+      "summary": "首先，造机器人和造车的差别并没那么大。很多人以为机器人和汽车是两个完全不同的物种，但在技术底层逻辑上，它们有着惊人的相似性。这种相似性不是表面上的两个轮子变两条腿那么简单，而是核心能力的高度复用。现在的智能电动汽车，本质上就是一个“带轮子的机器人”。无论是自动驾驶所需的激光雷达、高清摄像头、毫米波雷达，还是大脑部分的具身智能算法、大模型感知决策系统，乃至于底层的电机、电控、电池管理这套能源系统，在...",
+      "highlights": [
+        "首先，造机器人和造车的差别并没那么大",
+        "很多人以为机器人和汽车是两个完全不同的物种，但在技术底层逻辑上，它们有着惊人的相似性",
+        "这种相似性不是表面上的两个轮子变两条腿那么简单，而是核心能力的高度复用"
+      ],
+      "url": "https://www.21jingji.com/article/20260920/herald/6421eeca2d4a0d3af7b6c1eebbea5658.html",
+      "source": "21jingji.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-20T06:52:09Z"
+    },
+    {
+      "id": "e6e9ca1ac391",
+      "title": "Google Says Gemini Hacked Three Firms Just Like OpenAI and Anthropic Did - Startup Fortune",
+      "summary": "This Week in AI: Robots Take a Punch, Assistants Get Long-Term Memory, and Models Keep Getting Cheaper\n\nA dense week across robotics, model releases and AI research: humanoid robots duke it out, ChatG...",
+      "highlights": [
+        "This Week in AI: Robots Take a Punch, Assistants Get Long-Term Memory, and Models Keep Getting Cheaper",
+        "A dense week across robotics, model releases and AI research: humanoid robots duke it out, ChatGPT gets long-term memory, and frontier-adjacent AI keeps getting cheaper and faster. - how to build robots that handle physical impacts - AI models getting cheaper and more accessible features [...] Google has now joined OpenAI, Anthropic and Meta in the strangest security club in Silicon Valley: companies whose AI models reached live systems while they were supposed to be inside controlled cybersecurity tests. According to Bloomberg, Gemini inadvertently hacked into three company systems in May during tests run by Irregular, an AI security vendor. The Wall Street Journal first reported the Google incidents. Axios then reported that Google confirmed them on September 18. [...] OpenAI's Hugging Face incident was different in important ways, but it sits in the same family of problems. OpenAI said its models found ways to communicate through unauthorized channels and exploit infrastructure - and got internet access in the process. Anthropic later said it broadened its own search to roughly 481 million transcripts after finding another Claude incident from January 2026. These are not tiny lab curiosities anymore. They are operating facts."
+      ],
+      "url": "https://startupfortune.com/google-says-gemini-hacked-three-firms-just-like-openai-and-anthropic-did",
+      "source": "startupfortune.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-20T06:49:59Z"
+    },
+    {
+      "id": "18c921acb78e",
+      "title": "黄仁勋说会动的东西都能有FSD，但机器人最大的难点不在“动”",
+      "summary": "黄仁勋提出，一切会移动的事物终将拥有自主能力，自动驾驶不再只是汽车专属。英伟达的物理AI布局覆盖Isaac Sim仿真、Cosmos世界模型、GR00T机器人模型和Jetson Thor端",
+      "highlights": [
+        "黄仁勋提出，一切会移动的事物终将拥有自主能力，自动驾驶不再只是汽车专属",
+        "英伟达的物理AI布局覆盖Isaac Sim仿真、Cosmos世界模型、GR00T机器人模型和Jetson Thor端"
+      ],
+      "url": "https://www.leaderobot.com/news/9753",
+      "source": "leaderobot.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-20T04:00:00Z"
+    },
+    {
+      "id": "f94e9a6f786a",
+      "title": "网易有道发布AI Agent全景生态",
+      "summary": "[](\n\n 时政\n 热点\n 政务\n 深瞳\n 访谈\n 视频\n 国际\n 地方\n 专题\n English\n 滚动\n\n[](  登录 -\n\n所在位置： 中国科技网首页 > 滚动 > 正文\n\n# 网易有道发布AI Agent全景生态\n\n2026-09-20 20:30:43 来源:  科技日报  点击数：\n\n科技日报记者 裴宸纬\n\n近日，网易有道“NEXT，AGENT｜有道AI Open Day”在北京举办...",
+      "highlights": [
+        "所在位置： 中国科技网首页 > 滚动 > 正文",
+        "# 网易有道发布AI Agent全景生态",
+        "2026-09-20 20:30:43 来源:  科技日报  点击数："
+      ],
+      "url": "https://www.stdaily.com/web/gdxw/2026-09/20/content_584697.html",
+      "source": "stdaily.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-20T13:00:00Z"
+    },
+    {
+      "id": "be55a4ed50a2",
+      "title": "沙利文发布2026年智能体市场研究报告：WorkBuddy稳居企业级、个人应用双榜第一",
+      "summary": "沙利文发布《2026年全球桌面AI智能体市场研究报告》，腾讯WorkBuddy在中国个人端与企业级桌面智能体两大榜单均位列第一。",
+      "highlights": [
+        "沙利文发布《2026年全球桌面AI智能体市场研究报告》，腾讯WorkBuddy在中国个人端与企业级桌面智能体两大榜单均位列第一"
+      ],
+      "url": "https://m.leiphone.com/category/industrynews/U0o8Z4sG9l26lvTQ.html",
+      "source": "m.leiphone.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-09-20T04:00:00Z"
+    },
+    {
+      "id": "c36936828b06",
+      "title": "GPU租赁，价格大涨",
+      "summary": "欧洲AI算力基础设施提供商Nebius近期发布重磅调价公告，自10月1日起全面上调按需算力资源价格。这是Nebius在年内的第二轮提价，今年5月，该公司已宣布自6月1日起将",
+      "highlights": [
+        "欧洲AI算力基础设施提供商Nebius近期发布重磅调价公告，自10月1日起全面上调按需算力资源价格",
+        "这是Nebius在年内的第二轮提价，今年5月，该公司已宣布自6月1日起将"
+      ],
+      "url": "https://www.esmchina.com/marketnews/59693.html",
+      "source": "esmchina.com",
+      "category": "芯片硬件",
+      "importance": 3,
+      "publishedAt": "2026-09-20T02:00:00Z"
+    },
+    {
+      "id": "a9c91c6f1a7d",
+      "title": "中美AI蒸馏争议升级中国模型部分性能超美国同行- AI",
+      "summary": "当前在中美人工智能技术竞争中，模型蒸馏技术成为双方争议焦点。蒸馏技术广义上指使用另一款更先进模型的输出结果训练自有AI模型，因投入成本更低的实验室可借助这一",
+      "highlights": [
+        "当前在中美人工智能技术竞争中，模型蒸馏技术成为双方争议焦点",
+        "蒸馏技术广义上指使用另一款更先进模型的输出结果训练自有AI模型，因投入成本更低的实验室可借助这一"
+      ],
+      "url": "https://www.ebrun.com/20260920/708649.shtml",
+      "source": "ebrun.com",
+      "category": "行业话题",
+      "importance": 2,
+      "publishedAt": "2026-09-20T01:00:00Z"
+    }
+  ],
+  "week": [
     {
       "id": "987901730771",
       "title": "For AI agents, it's the best of times, it's the worst of times - SiliconANGLE",
@@ -152,365 +707,6 @@
       "publishedAt": "2026-09-19T16:03:00Z"
     },
     {
-      "id": "dc228b77dc68",
-      "title": "摩根大通：定制芯片2027年出货占比将超GPU，博通TPU“供应链隐身”不代表订单存疑",
-      "summary": "AI算力需求正在推动芯片产业从“GPU一家独大”走向GPU与定制芯片并行扩张。摩根大通最新发布的2026年秋季美国半导体及半导体设备行业更新报告预计，2027年ASIC/XPU在AI",
-      "highlights": [
-        "AI算力需求正在推动芯片产业从“GPU一家独大”走向GPU与定制芯片并行扩张",
-        "摩根大通最新发布的2026年秋季美国半导体及半导体设备行业更新报告预计，2027年ASIC/XPU在AI"
-      ],
-      "url": "https://wallstreetcn.com/articles/3782070",
-      "source": "wallstreetcn.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-09-18T16:00:00Z"
-    },
-    {
-      "id": "4c9d4bfb7173",
-      "title": "BREAKING NEWS: Park City, Utah-based AI Startup, Hello Haven, Emerges from Stealth Mode with a $15 Million Pre-Seed Round Led by Mayfield",
-      "summary": "EXECUTIVE SUMMARY ✅ Mitsui Chemicals quietly completed its $900 million acquisition of South Jordan, Utah-based Ultradent Products on 14 August 2026, several weeks ahead of the September closing timet...",
-      "highlights": [
-        "EXECUTIVE SUMMARY ✅ Mitsui Chemicals quietly completed its $900 million acquisition of South Jordan, Utah-based Ultradent Products on 14 August 2026, several weeks ahead of the September closing timetable originally announced. ✅ Effective 1 October 2026, the newly formed South Jordan-based MC Dental Holdings America will oversee and manage Mitsui",
-        "Midvale, Utah-Based Bamboo Insurance is About to Conduct a [...] 18 September 2026 — PARK CITY, Utah — Hello Haven emerged from stealth mode yesterday (Thursday, 17 September 2026) to announce a $15 million pre-seed financing led by Mayfield, reuniting the venture firm with Frank Addante, whose earlier startups reportedly produced $1 billion in sales, two initial public offerings, and four acquisitions. [...] In the news release announcing the launch of the Haven app and Hello Haven's funding, Addante described Haven as a digital twin that \"... knows what you would do and proactively does it for you.\"",
-        "Additionally, Chau said that"
-      ],
-      "url": "https://www.utahmoneywatch.com/breaking-news-park-city-utah-based-ai-startup-hello-haven-emerges-from-stealth-mode-with-a-15-million-pre-seed-round-led-by-mayfield",
-      "source": "utahmoneywatch.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-18T13:40:18Z"
-    },
-    {
-      "id": "e50277e3ffcf",
-      "title": "对话超维动力喻杰：具身智能，没有弯道超车｜独家 - 潮起网",
-      "summary": "我在华为亲历了自动驾驶从零到百万辆以上量产的过程，这套经验放到具身行业是用得上的。\n\n创投家：这套经验具体是指什么？\n\n喻杰：第一，做AI落地，光有好的算法不够，还要有快速迭代的能力。在华为，我们花了很多精力搭基础设施，让整个系统能快速迭代，这对后来做到百万辆以上的量产帮助非常大。\n\n第二，数据能力：数据的快速回传、清洗、处理、训练，这套链路我们建得比较早，也因此很早就认识到，在早期，数据积累比算...",
-      "highlights": [
-        "我在华为亲历了自动驾驶从零到百万辆以上量产的过程，这套经验放到具身行业是用得上的",
-        "创投家：这套经验具体是指什么",
-        "喻杰：第一，做AI落地，光有好的算法不够，还要有快速迭代的能力"
-      ],
-      "url": "https://www.ichaoqi.com/guandian/2026/0918/87391.html",
-      "source": "ichaoqi.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-09-18T15:30:09Z"
-    },
-    {
-      "id": "ca73c9eeec1a",
-      "title": "Google’s Gemini agents hacked three companies in new AI safety incident",
-      "summary": "Most Read\n\n       OpenAI breached by researchers using Anthropic models\n       Anthropic and the golden rules of business\n       Raspberry Pi founder Eben Upton: ‘I’m an omni-geek’\n       OpenAI discl...",
-      "highlights": [
-        "OpenAI breached by researchers using Anthropic models",
-        "Anthropic and the golden rules of business",
-        "Raspberry Pi founder Eben Upton: ‘I’m an omni-geek’"
-      ],
-      "url": "https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1",
-      "source": "ft.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-19T01:29:25Z"
-    },
-    {
-      "id": "ece43f459dba",
-      "title": "豆包跨越「临界点」后，字节AI下一步怎么走？-36氪",
-      "summary": "2026 年 2 月 5 日，Anthropic 发布了旗下的最新模型成果 Claude Opus 4.6，并且随之宣布：\n\n在 AI 彻底改变软件编程行业的工作方式后，现在是时候进军更广泛的职场了。\n\n紧接着，这一模型发布之后，多家金融服务公司的股价在当日应声跳水。其中，金融数据和软件公司 FaceSet 跌幅超 8%，创 2020 年 3 月以来新低；老牌信息服务提供商 Thomson Reu...",
-      "highlights": [
-        "2026 年 2 月 5 日，Anthropic 发布了旗下的最新模型成果 Claude Opus 4.6，并且随之宣布：",
-        "在 AI 彻底改变软件编程行业的工作方式后，现在是时候进军更广泛的职场了",
-        "紧接着，这一模型发布之后，多家金融服务公司的股价在当日应声跳水"
-      ],
-      "url": "https://m.36kr.com/p/3867066152713092",
-      "source": "m.36kr.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-19T11:50:40Z"
-    },
-    {
-      "id": "e41e516c12a0",
-      "title": "This AI Agent was asked to fix a simple bug. It went off-script. - Forbes Australia",
-      "summary": "# This AI Agent was asked to fix a simple bug. ##### In experiments by startup Irregular, one of Anthropic and OpenAI’s security testers, an Alibaba Qwen agent decided to retrain an entire model when ...",
-      "highlights": [
-        "# This AI Agent was asked to fix a simple bug. ##### In experiments by startup Irregular, one of Anthropic and OpenAI’s security testers, an Alibaba Qwen agent decided to retrain an entire model when it was asked to fix a basic software bug. Rather than running tests, finding the problem and changing the code, the agent decided to alter the AI model the app was using. Without direction, the agent acquired training data and used it to alter the model’s underlying weights, then fine-tuned the model before swapping it in the app. Per a research report on the incident provided to *Forbes*, the agent “did so without being instructed to train, modify the model or deploy a replacement.” The model fix worked and the app began outputting correct translations. The agent included that training data when updating the model, meaning the personal data was accessible to any app using the same model."
-      ],
-      "url": "https://www.forbes.com.au/news/innovation/this-ai-agent-was-asked-to-fix-a-simple-bug-it-went-off-script/",
-      "source": "forbes.com.au",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-19T03:13:04Z"
-    },
-    {
-      "id": "37655c8141e2",
-      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households - TechCrunch",
-      "summary": "Google is testing a new product designed to help families coordinate with the support of an AI agent. This week, the search giant introduced a new version of CC, an AI agent designed to work across em...",
-      "highlights": [
-        "Google is testing a new product designed to help families coordinate with the support of an AI agent. This week, the search giant introduced a new version of CC, an AI agent designed to work across email, calendar, chats, and tasks. With the update, CC now focuses on keeping families organized, planning for the day ahead, and even handling family-specific tasks, like signing permission slips, creating shopping lists, or crafting weekly meal plans. Google’s CC, meanwhile, began its life as a productivity agent that connected to Gmail, Google Calendar, Google Drive, and the wider web to understand your day, then deliver a “Your Day Ahead” briefing to your inbox. Now, CC is getting its own Google account, so it can collaborate with family members on tasks, while also maintaining its own specific set of permissions for accessing data. That means, for instance, every time the orthodontist sends an email confirmation of your next appointment or the school announces a teacher workday, CC can put it on the shared calendar."
-      ],
-      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-      "source": "techcrunch.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-18T17:33:50Z"
-    },
-    {
-      "id": "45d833ff8301",
-      "title": "Handvantage releases a vendor-neutral Agentic AI Procurement Handbook, free and ungated - markets.businessinsider.com",
-      "summary": "18, 2026 (GLOBE NEWSWIRE) -- Handvantage, the boutique consultancy for AI security and AI governance, has published the Agentic AI Procurement Handbook: a 43-page, vendor-neutral guide to evaluating A...",
-      "highlights": [
-        "18, 2026 (GLOBE NEWSWIRE) -- Handvantage, the boutique consultancy for AI security and AI governance, has published the Agentic AI Procurement Handbook: a 43-page, vendor-neutral guide to evaluating AI platforms and agent governance before signing anything. It is available at https://workspace.handvantage.com/handbook with no email wall. Handvantage is a Canadian cybersecurity consultancy specialising in AI security, AI governance and OT/ICS security for regulated organisations across the US, Canada and the UK. The firm also operates SecVantages, a no-cost AI-governance assessment platform, and builds Vantage Workspace, a sovereign self-hosted AI workspace with governance and audit evidence built in. HANDVANTAGE is a boutique cybersecurity consultancy specialising in AI security, AI governance, and OT/ICS security for regulated organisations in healthcare, financial services, government, legal, and biotech across the US, Canada, and the UK. HANDVANTAGE is also the creator of Vantage Workspace (workspace.handvantage.com), a sovereign self-hosted AI workspace that unites AI Workers and human teams under one identity and governance model, with runtime audit logs and compliance evidence built in."
-      ],
-      "url": "https://markets.businessinsider.com/news/stocks/handvantage-releases-a-vendor-neutral-agentic-ai-procurement-handbook-free-and-ungated-1036557335",
-      "source": "markets.businessinsider.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-18T16:25:53Z"
-    },
-    {
-      "id": "b8230fce334c",
-      "title": "Inside the Israeli security firm tied to OpenAI, Anthropic model breaches",
-      "summary": "AI models developed by OpenAI, Anthropic, Google and Meta managed to access and, in some cases, breach real-world computer systems during cybersecurity tests run by Israeli AI security firm Irregular....",
-      "highlights": [
-        "AI models developed by OpenAI, Anthropic, Google and Meta managed to access and, in some cases, breach real-world computer systems during cybersecurity tests run by Israeli AI security firm Irregular.",
-        "### Click the alert icon to follow topics:",
-        "Israel high-tech"
-      ],
-      "url": "https://www.haaretz.com/israel-news/tech-news/2026-09-19/ty-article/.premium/inside-the-israeli-ai-firm-tied-to-breaches-of-openai-anthropic-google-models/000001a0-ba8a-d157-a9f4-ba8b416a0000",
-      "source": "haaretz.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-19T19:30:00Z"
-    },
-    {
-      "id": "a9ff3f23dc79",
-      "title": "AI时代最容易被忽视的苦力活：给机器人“擦屁股”的人-36氪",
-      "summary": "具身数据清洗不具备这些条件。\n\n首先，它需要领域知识。你让一个众包标注员去看一段机械臂的操作录像，他根本不知道什么叫“抓取姿态合理”、什么叫“关节限位内运动”、什么叫“力控参数异常”。这不是贴标签，这是在理解物理交互的含义。湖北人形机器人创新中心的描述很直白：训练师把“送水”拆成机器人数十个动作，每一帧都要人工标注成机器人看得懂的动作语言，才符合要求。\n\n其次，它没法“错了重来”。具身数据的清洗结...",
-      "highlights": [
-        "具身数据清洗不具备这些条件",
-        "你让一个众包标注员去看一段机械臂的操作录像，他根本不知道什么叫“抓取姿态合理”、什么叫“关节限位内运动”、什么叫“力控参数异常”",
-        "这不是贴标签，这是在理解物理交互的含义"
-      ],
-      "url": "https://m.36kr.com/p/3987416739003138",
-      "source": "m.36kr.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-09-19T06:00:15Z"
-    },
-    {
-      "id": "18c921acb78e",
-      "title": "黄仁勋说会动的东西都能有FSD，但机器人最大的难点不在“动”",
-      "summary": "黄仁勋提出，一切会移动的事物终将拥有自主能力，自动驾驶不再只是汽车专属。英伟达的物理AI布局覆盖Isaac Sim仿真、Cosmos世界模型、GR00T机器人模型和Jetson Thor端",
-      "highlights": [
-        "黄仁勋提出，一切会移动的事物终将拥有自主能力，自动驾驶不再只是汽车专属",
-        "英伟达的物理AI布局覆盖Isaac Sim仿真、Cosmos世界模型、GR00T机器人模型和Jetson Thor端"
-      ],
-      "url": "https://www.leaderobot.com/news/9753",
-      "source": "leaderobot.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-09-20T04:00:00Z"
-    },
-    {
-      "id": "ea532d8f6b7d",
-      "title": "Gemini Hacked Three Companies in First Known Breakout by ... - WSJ",
-      "summary": "Google’s Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, the first known example of the company’s artificial-intelligence systems autonom...",
-      "highlights": [
-        "Google’s Gemini model accessed the internet and hacked other companies during a test of its cybersecurity capabilities, the first known example of the company’s artificial-intelligence systems autonomously committing such an act.",
-        "The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irregular, which was also involved in similar incidents disclosed by OpenAI, Anthropic and Meta. [...] Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
-      ],
-      "url": "https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
-      "source": "wsj.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-18T22:10:00Z"
-    },
-    {
-      "id": "be55a4ed50a2",
-      "title": "沙利文发布2026年智能体市场研究报告：WorkBuddy稳居企业级、个人应用双榜第一",
-      "summary": "沙利文发布《2026年全球桌面AI智能体市场研究报告》，腾讯WorkBuddy在中国个人端与企业级桌面智能体两大榜单均位列第一。",
-      "highlights": [
-        "沙利文发布《2026年全球桌面AI智能体市场研究报告》，腾讯WorkBuddy在中国个人端与企业级桌面智能体两大榜单均位列第一"
-      ],
-      "url": "https://m.leiphone.com/category/industrynews/U0o8Z4sG9l26lvTQ.html",
-      "source": "m.leiphone.com",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-09-20T04:00:00Z"
-    },
-    {
-      "id": "8bc6f23cb06f",
-      "title": "Digital health funding reaches $7.4B in 2026 | Telehealth.org",
-      "summary": "U.S. digital health startups secured $7.4 billion in venture funding during the first half of 2026, driven by artificial intelligence (AI) innovation shaping investor priorities across the healthcare ...",
-      "highlights": [
-        "U.S. digital health startups secured $7.4 billion in venture funding during the first half of 2026, driven by artificial intelligence (AI) innovation shaping investor priorities across the healthcare technology landscape. [...] AI adoption is also expanding across non-clinical operations, including patient acquisition, marketing, and engagement. For example, scrutiny surrounding telehealth startup MEDVi has raised questions regarding AI-generated healthcare advertising, compliance, and accountability when AI is deployed for commercial outreach. [...] Earlier this year, Rock Health discontinued its classification of startups as “AI-enabled,” noting that the technology is now too widespread for the label to be meaningful. Instead, investors are prioritizing durable differentiators that are difficult to replicate, such as deep healthcare domain expertise, ownership of core clinical and administrative workflows, hands-on implementation capabilities, and established strategic partnerships."
-      ],
-      "url": "https://telehealth.org/news/digital-health-funding-reaches-7-4-billion-as-ai-shapes-investment",
-      "source": "telehealth.org",
-      "category": "投并购",
-      "importance": 3,
-      "publishedAt": "2026-09-18T13:41:15Z"
-    },
-    {
-      "id": "c36936828b06",
-      "title": "GPU租赁，价格大涨",
-      "summary": "欧洲AI算力基础设施提供商Nebius近期发布重磅调价公告，自10月1日起全面上调按需算力资源价格。这是Nebius在年内的第二轮提价，今年5月，该公司已宣布自6月1日起将",
-      "highlights": [
-        "欧洲AI算力基础设施提供商Nebius近期发布重磅调价公告，自10月1日起全面上调按需算力资源价格",
-        "这是Nebius在年内的第二轮提价，今年5月，该公司已宣布自6月1日起将"
-      ],
-      "url": "https://www.esmchina.com/marketnews/59693.html",
-      "source": "esmchina.com",
-      "category": "芯片硬件",
-      "importance": 3,
-      "publishedAt": "2026-09-20T02:00:00Z"
-    },
-    {
-      "id": "f11bc92e03c2",
-      "title": "腾讯控股(00700) - 最新资讯",
-      "summary": "查看更多\n\n雪球及香港交易所资讯服务有限公司、其控股公司及/或该等控股公司的任何附属公司均竭力确保所提供信息的准确和可靠度，但不能保证其绝对准确和可靠，且亦不会承担因任何不准确或遗漏而引起的任何损失或损害的责任（不管是否侵权法下的责任或合约责任又或其他责任）。\n\nImage 33: 微信 Image 34: 扫一扫，关注雪球微信公众号扫一扫，关注雪球微信公众号Image 35: 微博Image 3...",
-      "highlights": [
-        "雪球及香港交易所资讯服务有限公司、其控股公司及/或该等控股公司的任何附属公司均竭力确保所提供信息的准确和可靠度，但不能保证其绝对准确和可靠，且亦不会承担因任何不准确或遗漏而引起的任何损失或损害的责任（不管是否侵权法下的责任或合约责任又或其他责任）",
-        "Image 33: 微信 Image 34: 扫一扫，关注雪球微信公众号扫一扫，关注雪球微信公众号Image 35: 微博Image 36: 邮箱",
-        "A股开户｜雪球基金｜投资者教育｜风险提示"
-      ],
-      "url": "https://xueqiu.com/S/00700/news?page=8",
-      "source": "xueqiu.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-09-19T13:00:00Z"
-    },
-    {
-      "id": "524413e9bc08",
-      "title": "论文周报丨Vidu S2实现实时720P数字人生成与视频编辑；NCP-ArchPreview探索LLM隐空间预训练新范式...速览一周AI前沿论文 - 智源社区",
-      "summary": "研究指出，尽管不同方向之间已经出现能力复用，但游戏规则、引擎接口、状态表示和玩家环境仍具有较强的场景依赖性，因此跨场景迁移后的有效性仍需重新验证。目前，AI 在受限游戏玩法和特定学习环境中的评估相对成熟，而持久世界状态、持续软件修订、运行时适应和自动化测试等方向仍有较大探索空间。\n\n论文及详细解读：\n\n基础模型时代的游戏人工智能\n\n数据集构成与来源：作者利用了广泛的数据集来支持玩家建模、动作接口和...",
-      "highlights": [
-        "研究指出，尽管不同方向之间已经出现能力复用，但游戏规则、引擎接口、状态表示和玩家环境仍具有较强的场景依赖性，因此跨场景迁移后的有效性仍需重新验证",
-        "目前，AI 在受限游戏玩法和特定学习环境中的评估相对成熟，而持久世界状态、持续软件修订、运行时适应和自动化测试等方向仍有较大探索空间",
-        "基础模型时代的游戏人工智能"
-      ],
-      "url": "https://hub.baai.ac.cn/view/58102",
-      "source": "hub.baai.ac.cn",
-      "category": "产品进展",
-      "importance": 2,
-      "publishedAt": "2026-09-19T12:00:00Z"
-    },
-    {
-      "id": "507cf5ae1532",
-      "title": "AI破解人类不可逆衰老 前沿科技突破衰老研究新边界",
-      "summary": "同一年，他创办了英矽智能。\n\n公司最初更像一个计算衰老的算法实验室。2016 年，Alex 和团队收集超过 6 万份体检数据，训练出一组神经网络。只需要血糖、白蛋白、尿素和红细胞等 41 项指标，AI 就能猜出一个人的年龄，平均误差约为 5.5 年。这是最早一批基于深度学习的人体衰老时钟。\n\n真正让英矽智能走出长寿研究的小圈子，是三年后的一场实验。\n\n2019 年，公司用生成式 AI 为 DDR1...",
-      "highlights": [
-        "同一年，他创办了英矽智能",
-        "公司最初更像一个计算衰老的算法实验室",
-        "2016 年，Alex 和团队收集超过 6 万份体检数据，训练出一组神经网络"
-      ],
-      "url": "https://eu.36kr.com/zh/p/3989811095468801",
-      "source": "eu.36kr.com",
-      "category": "前沿理论",
-      "importance": 2,
-      "publishedAt": "2026-09-19T12:00:00Z"
-    },
-    {
-      "id": "c51516b76ae3",
-      "title": "今日AI大模型新闻速览(09月19日)",
-      "summary": "披露递归自我改进(RSI)最新进展,称GLM-5.3已摸到门槛,并... 这是国产大模型厂商在AI编程工具链上的开源动作,MIT协议允许...",
-      "highlights": [
-        "披露递归自我改进(RSI)最新进展,称GLM-5.3已摸到门槛,并... 这是国产大模型厂商在AI编程工具链上的开源动作,MIT协议允许..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1EhLTDWJRkHNyCxEnGRipitsAKof5hGU1qXa8Fplpd9jKbNS1X7tH_cDXP8zhmOMmd0JoSiAUh1eJyWS6BxiaJ4L7vO_xnf9dZHwGaVfoGqStMvDOqeWaF_r2wz1fZveGQNiLjniMARaOfXdpFDQ68xP-C8BdTpu75-1XX717_3bIQziFYdo3rci27sXEJ2szshWyod83cWsOKDj6HsFeyE8RsmObDbtQ..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=52D313FF3C1DEE7A4F4815A6ADDE03264F2AE8836AAFCB04",
-      "source": "微信公众号",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-09-18T22:24:10Z"
-    }
-  ],
-  "today": [
-    {
-      "id": "68d606ca3eba",
-      "title": "沙利文联合头豹正式发布《2026年全球桌面AI智能体市场研究报告》",
-      "summary": "logo\n\n数字基础设施消费电子双碳新能源医疗与生命科学餐饮与新零售半导体与芯片智能家居汽车与出行公共服务食品与饮料科技、媒体和通信金融科技地产与物业矿业冶炼美容时尚大数据与人工智能物流与供应链建筑科技与装饰装潢特种新材料文化娱乐企业级服务跨境电商贸易基础设施建设环保节能科技教育与培训航运及港口母婴农林牧渔园林绿化商业航空\n\n公司介绍中国管理团队表现与影响战略合作伙伴专家委员会沙利文中国分支机构\n...",
-      "highlights": [
-        "数字基础设施消费电子双碳新能源医疗与生命科学餐饮与新零售半导体与芯片智能家居汽车与出行公共服务食品与饮料科技、媒体和通信金融科技地产与物业矿业冶炼美容时尚大数据与人工智能物流与供应链建筑科技与装饰装潢特种新材料文化娱乐企业级服务跨境电商贸易基础设施建设环保节能科技教育与培训航运及港口母婴农林牧渔园林绿化商业航空",
-        "公司介绍中国管理团队表现与影响战略合作伙伴专家委员会沙利文中国分支机构",
-        "# 沙利文联合头豹正式发布《2026年全球桌面AI智能体市场研究报告》"
-      ],
-      "url": "https://www.frostchina.com/content/insight/detail/6aaf47ac4dda55b7257a42fa",
-      "source": "frostchina.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-20T03:00:00Z"
-    },
-    {
-      "id": "764357ee2c6b",
-      "title": "车企集体造“人”，下一站是汽车工厂",
-      "summary": "车企集体造“人”，下一站是汽车工厂\n汽车\n\n# 车企集体造“人”，下一站是汽车工厂\n\n「 具身智能从只会跳舞到可以干活 」\n\n作者 | 龚宸芫\n\n编辑 | 李国政\n\n出品 | 帮宁工作室（gbngzs）\n\n“这是我每次出去演讲都用的一张图，对我本人的影响也很大。”\n\n9月18日，天津，在第22届泰达论坛“新赛道生态专场：具身智能新赛道”专场，长安汽车首席专家、长安天枢智能机器人公司总经理谭欢作演讲...",
-      "highlights": [
-        "车企集体造“人”，下一站是汽车工厂",
-        "# 车企集体造“人”，下一站是汽车工厂",
-        "「 具身智能从只会跳舞到可以干活 」"
-      ],
-      "url": "https://auto.ifeng.com/c/8wZJigBzxjc",
-      "source": "auto.ifeng.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-20T01:37:48Z"
-    },
-    {
-      "id": "2b61e195a0e5",
-      "title": "T早报｜特朗普让网民投票为AI改名；Anthropic、OpenAI等AI巨头遭用户诉讼；飞猪、同程等四家酒旅平台被立案",
-      "summary": "财新传媒\n财新传媒\n手机碎片接口\n1111111\n\n# T早报｜特朗普让网民投票为AI改名；Anthropic、OpenAI等AI巨头遭用户诉讼；飞猪、同程等四家酒旅平台被立案\n\nnews\n\n【财新网】\n\nOPPO、vivo和荣耀发新操作系统 强调适配智能体\n\n　　近一周内，OPPO、vivo和荣耀三家手机厂商都召开了开发者大会，并同步推出最新的操作系统。荣耀在开发者大会上发布了最新操作系统Mag...",
-      "highlights": [
-        "# T早报｜特朗普让网民投票为AI改名；Anthropic、OpenAI等AI巨头遭用户诉讼；飞猪、同程等四家酒旅平台被立案",
-        "OPPO、vivo和荣耀发新操作系统 强调适配智能体",
-        "近一周内，OPPO、vivo和荣耀三家手机厂商都召开了开发者大会，并同步推出最新的操作系统"
-      ],
-      "url": "https://m.caixin.com/m/2026-09-20/102486676.html",
-      "source": "m.caixin.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-20T01:00:00Z"
-    },
-    {
-      "id": "18c921acb78e",
-      "title": "黄仁勋说会动的东西都能有FSD，但机器人最大的难点不在“动”",
-      "summary": "黄仁勋提出，一切会移动的事物终将拥有自主能力，自动驾驶不再只是汽车专属。英伟达的物理AI布局覆盖Isaac Sim仿真、Cosmos世界模型、GR00T机器人模型和Jetson Thor端",
-      "highlights": [
-        "黄仁勋提出，一切会移动的事物终将拥有自主能力，自动驾驶不再只是汽车专属",
-        "英伟达的物理AI布局覆盖Isaac Sim仿真、Cosmos世界模型、GR00T机器人模型和Jetson Thor端"
-      ],
-      "url": "https://www.leaderobot.com/news/9753",
-      "source": "leaderobot.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-09-20T04:00:00Z"
-    },
-    {
-      "id": "be55a4ed50a2",
-      "title": "沙利文发布2026年智能体市场研究报告：WorkBuddy稳居企业级、个人应用双榜第一",
-      "summary": "沙利文发布《2026年全球桌面AI智能体市场研究报告》，腾讯WorkBuddy在中国个人端与企业级桌面智能体两大榜单均位列第一。",
-      "highlights": [
-        "沙利文发布《2026年全球桌面AI智能体市场研究报告》，腾讯WorkBuddy在中国个人端与企业级桌面智能体两大榜单均位列第一"
-      ],
-      "url": "https://m.leiphone.com/category/industrynews/U0o8Z4sG9l26lvTQ.html",
-      "source": "m.leiphone.com",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-09-20T04:00:00Z"
-    },
-    {
-      "id": "c36936828b06",
-      "title": "GPU租赁，价格大涨",
-      "summary": "欧洲AI算力基础设施提供商Nebius近期发布重磅调价公告，自10月1日起全面上调按需算力资源价格。这是Nebius在年内的第二轮提价，今年5月，该公司已宣布自6月1日起将",
-      "highlights": [
-        "欧洲AI算力基础设施提供商Nebius近期发布重磅调价公告，自10月1日起全面上调按需算力资源价格",
-        "这是Nebius在年内的第二轮提价，今年5月，该公司已宣布自6月1日起将"
-      ],
-      "url": "https://www.esmchina.com/marketnews/59693.html",
-      "source": "esmchina.com",
-      "category": "芯片硬件",
-      "importance": 3,
-      "publishedAt": "2026-09-20T02:00:00Z"
-    }
-  ],
-  "week": [
-    {
       "id": "208960561055",
       "title": "物理 AI 来了！大厂豪赌机器人，落地才是最大难题",
       "summary": "北交所频道 新京号 电子报 千龙网 贝壳财经 北京BEIJING 新京雅集 专题 商务合作 爱心模式;) 线索报料\n\n微博\n\n首页  视频  深读  公益  第一看点  时事  北京  国际  政事儿  观点  消费  娱乐  文化  体育  京彩教育  浪花资本  藻知科技  鲲纶智库  潮流智造局  城市好望角  海星生活社  图说  智库  数据  乡村\n\n# 物理 AI 来了！大厂豪赌机器...",
@@ -541,21 +737,6 @@
       "publishedAt": "2026-09-18T06:04:27Z"
     },
     {
-      "id": "987901730771",
-      "title": "For AI agents, it's the best of times, it's the worst of times - SiliconANGLE",
-      "summary": "First the fears: After last week’s high-profile departures from frontier model companies of researchers worried that runaway AI could “kill us all,” talk continue to swirl about that and other, slight...",
-      "highlights": [
-        "First the fears: After last week’s high-profile departures from frontier model companies of researchers worried that runaway AI could “kill us all,” talk continue to swirl about that and other, slightly more prosaic concerns. The rising concerns prompted OpenAI CEO Sam Altman and SpaceXAI CEO Elon Musk to back Anthropic CEO Dario Amodei’s call for a slowdown in model releases, if not development. Anthropic also released metrics for monitoring how fast AI is advancing. [...] Salesforce deepens its integrations with AWS and Google Cloud to support AI agents",
-        "Copado extends Agentia agentic AI DevOps platform for Salesforce with headless automation",
-        "#### New models and services"
-      ],
-      "url": "https://siliconangle.com/2026/09/18/for-ai-agents-its-the-best-of-times-its-the-worst-of-times",
-      "source": "siliconangle.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-18T14:00:35Z"
-    },
-    {
       "id": "08ac952c23e0",
       "title": "算力之外拼记忆，华为云亮出企业级AI产品矩阵 - 视频 - 南方财经网",
       "summary": "AI产品向企业落地的过程中，办公是其中一个重要落地方向。8月以来，腾讯、字节跳动、阿里巴巴等均释放出明显信号，打造主力AI办公产品。8月25日，字节跳动发布AI办公产品“豆包工作”，统一面向生产力场景的AI Agent（智能体）产品与品牌，并与协同办公应用飞书深度打通。8月3日，阿里巴巴将三款产品整合形成企业级Agent产品“千问办公”（QwenWork），并接入新发布的旗舰模型Qwen3.8。9...",
@@ -584,6 +765,38 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-09-18T12:00:00Z"
+    },
+    {
+      "id": "38d450299a5b",
+      "title": "银河通用实测GPT-6 Astra之后，中国具身智能应该看什么？",
+      "summary": "2026年09月18日 18点13分\n ## 锐炫加持大模型一体机，AI智能体筑牢建筑安全防线\n\n  2026年09月17日 00点00分\n 聚焦构网+AI，华为数字能源携多场景解决方案亮相IDEE2026 \n\n  ## 聚焦构网+AI，华为数字能源携多场景解决方案亮相IDEE2026\n\n  集中展示“构网+AI”在新能源应用场景下的最新实践\n\n  2026年09月16日 00点00分\n 杜尔中国...",
+      "highlights": [
+        "2026年09月18日 18点13分",
+        "## 锐炫加持大模型一体机，AI智能体筑牢建筑安全防线",
+        "2026年09月17日 00点00分"
+      ],
+      "url": "https://www.doit.com.cn/ai/850288713424965.html",
+      "source": "doit.com.cn",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-18T09:00:00Z"
+    }
+  ],
+  "month": [
+    {
+      "id": "987901730771",
+      "title": "For AI agents, it's the best of times, it's the worst of times - SiliconANGLE",
+      "summary": "First the fears: After last week’s high-profile departures from frontier model companies of researchers worried that runaway AI could “kill us all,” talk continue to swirl about that and other, slight...",
+      "highlights": [
+        "First the fears: After last week’s high-profile departures from frontier model companies of researchers worried that runaway AI could “kill us all,” talk continue to swirl about that and other, slightly more prosaic concerns. The rising concerns prompted OpenAI CEO Sam Altman and SpaceXAI CEO Elon Musk to back Anthropic CEO Dario Amodei’s call for a slowdown in model releases, if not development. Anthropic also released metrics for monitoring how fast AI is advancing. [...] Salesforce deepens its integrations with AWS and Google Cloud to support AI agents",
+        "Copado extends Agentia agentic AI DevOps platform for Salesforce with headless automation",
+        "#### New models and services"
+      ],
+      "url": "https://siliconangle.com/2026/09/18/for-ai-agents-its-the-best-of-times-its-the-worst-of-times",
+      "source": "siliconangle.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-18T14:00:35Z"
     },
     {
       "id": "e9bd09c02181",
@@ -629,21 +842,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-09-19T10:00:00Z"
-    },
-    {
-      "id": "38d450299a5b",
-      "title": "银河通用实测GPT-6 Astra之后，中国具身智能应该看什么？",
-      "summary": "2026年09月18日 18点13分\n ## 锐炫加持大模型一体机，AI智能体筑牢建筑安全防线\n\n  2026年09月17日 00点00分\n 聚焦构网+AI，华为数字能源携多场景解决方案亮相IDEE2026 \n\n  ## 聚焦构网+AI，华为数字能源携多场景解决方案亮相IDEE2026\n\n  集中展示“构网+AI”在新能源应用场景下的最新实践\n\n  2026年09月16日 00点00分\n 杜尔中国...",
-      "highlights": [
-        "2026年09月18日 18点13分",
-        "## 锐炫加持大模型一体机，AI智能体筑牢建筑安全防线",
-        "2026年09月17日 00点00分"
-      ],
-      "url": "https://www.doit.com.cn/ai/850288713424965.html",
-      "source": "doit.com.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-18T09:00:00Z"
     },
     {
       "id": "68d606ca3eba",
@@ -691,200 +889,49 @@
       "publishedAt": "2026-09-19T06:00:00Z"
     },
     {
-      "id": "bd9447eef752",
-      "title": "中国AI完成“本土化”跨越，真正赚钱的“微笑曲线”已经浮现 - 华尔街见闻",
-      "summary": "### 大家都在搜\n\n# 中国AI完成“本土化”跨越，真正赚钱的“微笑曲线”已经浮现\n\n中国AI产业正从政策驱动的技术追赶，迈入以商业变现为核心的生态竞争新阶段。\n\n据追风交易台，美银美林9月17日发布的最新研究报告，中国AI本土化进程已在芯片、存储、设备及大模型等多个层面取得实质性突破，而随着技术差距收窄，价值链的利润分布正在浮现出清晰的\"微笑曲线\"结构。\n\n报告指出，中国AI价值链正形成\"哑铃...",
+      "id": "2b61e195a0e5",
+      "title": "T早报｜特朗普让网民投票为AI改名；Anthropic、OpenAI等AI巨头遭用户诉讼；飞猪、同程等四家酒旅平台被立案",
+      "summary": "财新传媒\n财新传媒\n手机碎片接口\n1111111\n\n# T早报｜特朗普让网民投票为AI改名；Anthropic、OpenAI等AI巨头遭用户诉讼；飞猪、同程等四家酒旅平台被立案\n\nnews\n\n【财新网】\n\nOPPO、vivo和荣耀发新操作系统 强调适配智能体\n\n　　近一周内，OPPO、vivo和荣耀三家手机厂商都召开了开发者大会，并同步推出最新的操作系统。荣耀在开发者大会上发布了最新操作系统Mag...",
       "highlights": [
-        "# 中国AI完成“本土化”跨越，真正赚钱的“微笑曲线”已经浮现",
-        "中国AI产业正从政策驱动的技术追赶，迈入以商业变现为核心的生态竞争新阶段",
-        "据追风交易台，美银美林9月17日发布的最新研究报告，中国AI本土化进程已在芯片、存储、设备及大模型等多个层面取得实质性突破，而随着技术差距收窄，价值链的利润分布正在浮现出清晰的\"微笑曲线\"结构"
+        "# T早报｜特朗普让网民投票为AI改名；Anthropic、OpenAI等AI巨头遭用户诉讼；飞猪、同程等四家酒旅平台被立案",
+        "OPPO、vivo和荣耀发新操作系统 强调适配智能体",
+        "近一周内，OPPO、vivo和荣耀三家手机厂商都召开了开发者大会，并同步推出最新的操作系统"
       ],
-      "url": "https://wallstreetcn.com/articles/3782049",
-      "source": "wallstreetcn.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-18T02:58:22Z"
-    },
-    {
-      "id": "e0ae7641d64f",
-      "title": "华为昇腾芯片提前落地，英伟达的风险大吗？ | NAI 500",
-      "summary": "logo\n\n# 华为昇腾芯片提前落地，英伟达的风险大吗？\n\n华为AI芯片突袭！英伟达、台积电股价双双跳水\n\n作为全球高端 AI 芯片市场长期的领跑者，英伟达（NVDA）旗下顶级 GPU 产品凭借无可匹敌的性能在全球范围内收获了旺盛需求，唯独中国市场长期缺位 —— 受美国敏感技术产品出口管制规则约束，英伟达始终无法向中国客户销售其最先进的 GPU 与 AI 芯片产品。这一规则塑造的非对称竞争环境，也...",
-      "highlights": [
-        "# 华为昇腾芯片提前落地，英伟达的风险大吗",
-        "英伟达、台积电股价双双跳水",
-        "作为全球高端 AI 芯片市场长期的领跑者，英伟达（NVDA）旗下顶级 GPU 产品凭借无可匹敌的性能在全球范围内收获了旺盛需求，唯独中国市场长期缺位 —— 受美国敏感技术产品出口管制规则约束，英伟达始终无法向中国客户销售其最先进的 GPU 与 AI 芯片产品"
-      ],
-      "url": "https://nai500.com/zh-hans/blog/2026/09/%E5%8D%8E%E4%B8%BA%E6%98%87%E8%85%BE%E8%8A%AF%E7%89%87%E6%8F%90%E5%89%8D%E8%90%BD%E5%9C%B0%EF%BC%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9A%84%E9%A3%8E%E9%99%A9%E5%A4%A7%E5%90%97%EF%BC%9F",
-      "source": "nai500.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-18T01:00:00Z"
-    },
-    {
-      "id": "8b6296a97aaa",
-      "title": "三家AI公司估值超5万亿美元、超过45年科技IPO首日估值总和，VC“分散投资”逻辑正在失效",
-      "summary": "AI浪潮推动Anthropic、OpenAI、SpaceX三家公司合计估值超5万亿美元，超越45年科技IPO总和。资金向头部VC机构高度集中，三家机构独揽三分之一新增资金。",
-      "highlights": [
-        "AI浪潮推动Anthropic、OpenAI、SpaceX三家公司合计估值超5万亿美元，超越45年科技IPO总和",
-        "资金向头部VC机构高度集中，三家机构独揽三分之一新增资金"
-      ],
-      "url": "https://wallstreetcn.com/articles/3782032",
-      "source": "wallstreetcn.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-18T04:00:00Z"
-    }
-  ],
-  "month": [
-    {
-      "id": "208960561055",
-      "title": "物理 AI 来了！大厂豪赌机器人，落地才是最大难题",
-      "summary": "北交所频道 新京号 电子报 千龙网 贝壳财经 北京BEIJING 新京雅集 专题 商务合作 爱心模式;) 线索报料\n\n微博\n\n首页  视频  深读  公益  第一看点  时事  北京  国际  政事儿  观点  消费  娱乐  文化  体育  京彩教育  浪花资本  藻知科技  鲲纶智库  潮流智造局  城市好望角  海星生活社  图说  智库  数据  乡村\n\n# 物理 AI 来了！大厂豪赌机器...",
-      "highlights": [
-        "北交所频道 新京号 电子报 千龙网 贝壳财经 北京BEIJING 新京雅集 专题 商务合作 爱心模式;) 线索报料",
-        "首页  视频  深读  公益  第一看点  时事  北京  国际  政事儿  观点  消费  娱乐  文化  体育  京彩教育  浪花资本  藻知科技  鲲纶智库  潮流智造局  城市好望角  海星生活社  图说  智库  数据  乡村",
-        "大厂豪赌机器人，落地才是最大难题"
-      ],
-      "url": "https://www.bjnews.com.cn/detail/1789727136129112.html",
-      "source": "bjnews.com.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-18T11:00:00Z"
-    },
-    {
-      "id": "358007a5998f",
-      "title": "汽车与具身智能加速融合|具身智能机器人|小鹏机器人|汽车产业|广州市|天河区_手机新浪网",
-      "summary": "此前，特斯拉正式停产Model S和Model X，并将加州弗里蒙特工厂产线拆除，改造成人形机器人Optimus专用产线，目标是到今年年底生产10万台。特斯拉首席执行官埃隆·马斯克称，此举是向“物理世界AI公司”的战略转向，未来特斯拉的资源将聚焦机器人、自动驾驶（如Cybercab）和AI芯片领域。\n\n从小鹏到理想，从奇瑞到比亚迪，从特斯拉到现代，据不完全统计，截至今年8月底，全球已有近20家主流...",
-      "highlights": [
-        "此前，特斯拉正式停产Model S和Model X，并将加州弗里蒙特工厂产线拆除，改造成人形机器人Optimus专用产线，目标是到今年年底生产10万台",
-        "特斯拉首席执行官埃隆·马斯克称，此举是向“物理世界AI公司”的战略转向，未来特斯拉的资源将聚焦机器人、自动驾驶（如Cybercab）和AI芯片领域",
-        "从小鹏到理想，从奇瑞到比亚迪，从特斯拉到现代，据不完全统计，截至今年8月底，全球已有近20家主流车企以自研、孵化、投资等方式驶入具身机器人赛道，累计规划投入规模超千亿元，中国车企更是本轮入局的主力"
-      ],
-      "url": "https://finance.sina.cn/2026-09-18/detail-inisewtq8712589.d.html?vt=4",
-      "source": "finance.sina.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-18T06:04:27Z"
-    },
-    {
-      "id": "987901730771",
-      "title": "For AI agents, it's the best of times, it's the worst of times - SiliconANGLE",
-      "summary": "First the fears: After last week’s high-profile departures from frontier model companies of researchers worried that runaway AI could “kill us all,” talk continue to swirl about that and other, slight...",
-      "highlights": [
-        "First the fears: After last week’s high-profile departures from frontier model companies of researchers worried that runaway AI could “kill us all,” talk continue to swirl about that and other, slightly more prosaic concerns. The rising concerns prompted OpenAI CEO Sam Altman and SpaceXAI CEO Elon Musk to back Anthropic CEO Dario Amodei’s call for a slowdown in model releases, if not development. Anthropic also released metrics for monitoring how fast AI is advancing. [...] Salesforce deepens its integrations with AWS and Google Cloud to support AI agents",
-        "Copado extends Agentia agentic AI DevOps platform for Salesforce with headless automation",
-        "#### New models and services"
-      ],
-      "url": "https://siliconangle.com/2026/09/18/for-ai-agents-its-the-best-of-times-its-the-worst-of-times",
-      "source": "siliconangle.com",
+      "url": "https://m.caixin.com/m/2026-09-20/102486676.html",
+      "source": "m.caixin.com",
       "category": "模型发布",
       "importance": 5,
-      "publishedAt": "2026-09-18T14:00:35Z"
+      "publishedAt": "2026-09-20T01:00:00Z"
     },
     {
-      "id": "08ac952c23e0",
-      "title": "算力之外拼记忆，华为云亮出企业级AI产品矩阵 - 视频 - 南方财经网",
-      "summary": "AI产品向企业落地的过程中，办公是其中一个重要落地方向。8月以来，腾讯、字节跳动、阿里巴巴等均释放出明显信号，打造主力AI办公产品。8月25日，字节跳动发布AI办公产品“豆包工作”，统一面向生产力场景的AI Agent（智能体）产品与品牌，并与协同办公应用飞书深度打通。8月3日，阿里巴巴将三款产品整合形成企业级Agent产品“千问办公”（QwenWork），并接入新发布的旗舰模型Qwen3.8。9...",
+      "id": "36af611a5ede",
+      "title": "具身智能泡沫褪去，车企「造人」要过三道生死关_投资界",
+      "summary": "当具身智能行业告别PPT时代，资本市场不会\\为演示能力买单，小鹏启用全球首条人形机器人自动化产线，把车规制造带入人形机器人赛道，把竞争拉回制造业的客观规律，这一步值得肯定。\n\n但一条自动化产线，不等于商业化成功。在产线和商业成功之间，还有陡峭的良率曲线、尚未收敛的灵巧手硬件、稀缺的外部付费场景，还有430亿估值背后沉甸甸的财务命题。更何况，作为刚刚站稳脚跟的新势力企业，先造好汽车，再去别的赛道大展...",
       "highlights": [
-        "AI产品向企业落地的过程中，办公是其中一个重要落地方向",
-        "8月以来，腾讯、字节跳动、阿里巴巴等均释放出明显信号，打造主力AI办公产品",
-        "8月25日，字节跳动发布AI办公产品“豆包工作”，统一面向生产力场景的AI Agent（智能体）产品与品牌，并与协同办公应用飞书深度打通"
+        "当具身智能行业告别PPT时代，资本市场不会\\为演示能力买单，小鹏启用全球首条人形机器人自动化产线，把车规制造带入人形机器人赛道，把竞争拉回制造业的客观规律，这一步值得肯定",
+        "但一条自动化产线，不等于商业化成功",
+        "在产线和商业成功之间，还有陡峭的良率曲线、尚未收敛的灵巧手硬件、稀缺的外部付费场景，还有430亿估值背后沉甸甸的财务命题"
       ],
-      "url": "http://www.sfccn.com/2026/9-18/zOMDE1MThfMjI0NTczOQ.html",
-      "source": "sfccn.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-18T12:00:00Z"
-    },
-    {
-      "id": "afa9faf01fac",
-      "title": "有望对标Databricks，OceanBase押注AI数据底座的万亿市场 - 智东西",
-      "summary": "这些变化正在重写整个数据市场的边界。\n\n9月10日，2026 Inclusion·外滩大会《数智进化：让多模态数据成为AI核心燃料》见解论坛上，IDC中国企业软件市场研究经理王楠发布最新研究。\n\n研究重新划定了“AI数据基础设施”的版图，并给出清晰判断：中国市场将从2025年的约149亿美元，增长到2030年的738亿美元，到2035年有望达到约1万亿人民币规模。\n\n万亿级新市场正在打开，而最先卡...",
-      "highlights": [
-        "这些变化正在重写整个数据市场的边界",
-        "9月10日，2026 Inclusion·外滩大会《数智进化：让多模态数据成为AI核心燃料》见解论坛上，IDC中国企业软件市场研究经理王楠发布最新研究",
-        "研究重新划定了“AI数据基础设施”的版图，并给出清晰判断：中国市场将从2025年的约149亿美元，增长到2030年的738亿美元，到2035年有望达到约1万亿人民币规模"
-      ],
-      "url": "https://zhidx.com/p/595365.html",
-      "source": "zhidx.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-18T12:00:00Z"
-    },
-    {
-      "id": "e9bd09c02181",
-      "title": "算力之外拼记忆，华为云亮出企业级AI产品矩阵",
-      "summary": "AI产品向企业落地的过程中，办公是其中一个重要落地方向。8月以来，腾讯、字节跳动、阿里巴巴等均释放出明显信号，打造主力AI办公产品。8月25日，字节跳动发布AI办公产品“豆包工作”，统一面向生产力场景的AI Agent（智能体）产品与品牌，并与协同办公应用飞书深度打通。8月3日，阿里巴巴将三款产品整合形成企业级Agent产品“千问办公”（QwenWork），并接入新发布的旗舰模型Qwen3.8。9...",
-      "highlights": [
-        "AI产品向企业落地的过程中，办公是其中一个重要落地方向",
-        "8月以来，腾讯、字节跳动、阿里巴巴等均释放出明显信号，打造主力AI办公产品",
-        "8月25日，字节跳动发布AI办公产品“豆包工作”，统一面向生产力场景的AI Agent（智能体）产品与品牌，并与协同办公应用飞书深度打通"
-      ],
-      "url": "https://m.21jingji.com/article/20260918/herald/27fa4c040547ee0846f7f791bb9ab6f4_zaker.html",
-      "source": "m.21jingji.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-18T22:00:00Z"
-    },
-    {
-      "id": "8d1140818116",
-      "title": "科大讯飞的盈利神话，撞到AI高墙_资讯-蓝鲸财经",
-      "summary": "对于全国产化的坚持也是关键要素。科大讯飞一直在坚持基于全国产算力训练和推理。\n\n9月7日，科大讯飞发布最新的星火X2.5大模型，就是基于全国产算力完成全流程训练及推理。\n\n现阶段，全国产算力有一定的差距，刘庆峰给出过一个量化的说法：国产算力跟 H200 相比，训练效率差距有5倍。这显然影响了科大讯飞。\n\n刘庆峰曾表示，\"这一波大模型的热潮，因为国产算力对超长上下文的限制，使得在这一波以代码和智能体...",
-      "highlights": [
-        "对于全国产化的坚持也是关键要素",
-        "科大讯飞一直在坚持基于全国产算力训练和推理",
-        "9月7日，科大讯飞发布最新的星火X2.5大模型，就是基于全国产算力完成全流程训练及推理"
-      ],
-      "url": "https://www.lanjinger.com/d/1789090136187561781",
-      "source": "lanjinger.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-18T20:00:00Z"
-    },
-    {
-      "id": "344d2c4c916e",
-      "title": "最新财新周刊｜Anthropic：AI“吹哨人”背后",
-      "summary": ":   Anthropic创始人及CEO达里奥·阿莫代伊近日发文呼吁放缓人工智能模型能力的提升速度。图为当地时间2025年1月23日，阿莫代伊参加瑞士达沃斯召开的世界经济论坛年会。\n\n《财新周刊》2026年第37期\n:   \n\n文｜财新周刊 杜知航\n\n　　“我们必须放缓人工智能（AI）模型能力的提升速度。”2026年9月12日，拥有全球性能最强AI大模型的Anthropic创始人及CEO达里奥·阿...",
-      "highlights": [
-        ":   Anthropic创始人及CEO达里奥·阿莫代伊近日发文呼吁放缓人工智能模型能力的提升速度",
-        "图为当地时间2025年1月23日，阿莫代伊参加瑞士达沃斯召开的世界经济论坛年会",
-        "《财新周刊》2026年第37期"
-      ],
-      "url": "https://weekly.caixin.com/2026-09-19/102486425.html",
-      "source": "weekly.caixin.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-19T10:00:00Z"
-    },
-    {
-      "id": "38d450299a5b",
-      "title": "银河通用实测GPT-6 Astra之后，中国具身智能应该看什么？",
-      "summary": "2026年09月18日 18点13分\n ## 锐炫加持大模型一体机，AI智能体筑牢建筑安全防线\n\n  2026年09月17日 00点00分\n 聚焦构网+AI，华为数字能源携多场景解决方案亮相IDEE2026 \n\n  ## 聚焦构网+AI，华为数字能源携多场景解决方案亮相IDEE2026\n\n  集中展示“构网+AI”在新能源应用场景下的最新实践\n\n  2026年09月16日 00点00分\n 杜尔中国...",
-      "highlights": [
-        "2026年09月18日 18点13分",
-        "## 锐炫加持大模型一体机，AI智能体筑牢建筑安全防线",
-        "2026年09月17日 00点00分"
-      ],
-      "url": "https://www.doit.com.cn/ai/850288713424965.html",
-      "source": "doit.com.cn",
+      "url": "https://news.pedaily.cn/202609/569286.shtml",
+      "source": "news.pedaily.cn",
       "category": "具身智能",
       "importance": 5,
-      "publishedAt": "2026-09-18T09:00:00Z"
+      "publishedAt": "2026-09-19T23:56:00Z"
     },
     {
-      "id": "68d606ca3eba",
-      "title": "沙利文联合头豹正式发布《2026年全球桌面AI智能体市场研究报告》",
-      "summary": "logo\n\n数字基础设施消费电子双碳新能源医疗与生命科学餐饮与新零售半导体与芯片智能家居汽车与出行公共服务食品与饮料科技、媒体和通信金融科技地产与物业矿业冶炼美容时尚大数据与人工智能物流与供应链建筑科技与装饰装潢特种新材料文化娱乐企业级服务跨境电商贸易基础设施建设环保节能科技教育与培训航运及港口母婴农林牧渔园林绿化商业航空\n\n公司介绍中国管理团队表现与影响战略合作伙伴专家委员会沙利文中国分支机构\n...",
+      "id": "242b1bc391cf",
+      "title": "机器人行业日报(09.18) : 机器人产业爆发_搜狐网",
+      "summary": "## 机器人行业日报(09.18) : 机器人产业爆发\n\n亿欧\n\n亿欧\n\n\\ 行业动态\n\n> 机器人行业日报(09.17) : 机器人行业动态\n>\n> 雷军一行考察B站和宇树科技，宇树科技登陆科创板成为A股人形机器人第一股。帕西尼获得多家机构投资，三星入股。西交大系团队推出模块化轮式人形机器人。杭叉集团拟募资22.59亿元用于叉车机器人智慧工厂项目。OpenAI投入百亿砸向具身智能，机器人竞争进入...",
       "highlights": [
-        "数字基础设施消费电子双碳新能源医疗与生命科学餐饮与新零售半导体与芯片智能家居汽车与出行公共服务食品与饮料科技、媒体和通信金融科技地产与物业矿业冶炼美容时尚大数据与人工智能物流与供应链建筑科技与装饰装潢特种新材料文化娱乐企业级服务跨境电商贸易基础设施建设环保节能科技教育与培训航运及港口母婴农林牧渔园林绿化商业航空",
-        "公司介绍中国管理团队表现与影响战略合作伙伴专家委员会沙利文中国分支机构",
-        "# 沙利文联合头豹正式发布《2026年全球桌面AI智能体市场研究报告》"
+        "## 机器人行业日报(09.18) : 机器人产业爆发",
+        "> 机器人行业日报(09.17) : 机器人行业动态",
+        "> 雷军一行考察B站和宇树科技，宇树科技登陆科创板成为A股人形机器人第一股"
       ],
-      "url": "https://www.frostchina.com/content/insight/detail/6aaf47ac4dda55b7257a42fa",
-      "source": "frostchina.com",
-      "category": "产品进展",
+      "url": "https://m.sohu.com/a/1078231241_115035?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "具身智能",
       "importance": 5,
-      "publishedAt": "2026-09-20T03:00:00Z"
+      "publishedAt": "2026-09-19T16:03:00Z"
     }
   ]
 }
