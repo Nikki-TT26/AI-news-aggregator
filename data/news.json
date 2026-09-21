@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T12:01:25Z",
+  "updatedAt": "2026-09-21T18:01:45Z",
   "latest": [
     {
       "id": "68d606ca3eba",
@@ -60,21 +60,6 @@
       "category": "具身智能",
       "importance": 5,
       "publishedAt": "2026-09-19T23:56:00Z"
-    },
-    {
-      "id": "242b1bc391cf",
-      "title": "机器人行业日报(09.18) : 机器人产业爆发_搜狐网",
-      "summary": "## 机器人行业日报(09.18) : 机器人产业爆发\n\n亿欧\n\n亿欧\n\n\\ 行业动态\n\n> 机器人行业日报(09.17) : 机器人行业动态\n>\n> 雷军一行考察B站和宇树科技，宇树科技登陆科创板成为A股人形机器人第一股。帕西尼获得多家机构投资，三星入股。西交大系团队推出模块化轮式人形机器人。杭叉集团拟募资22.59亿元用于叉车机器人智慧工厂项目。OpenAI投入百亿砸向具身智能，机器人竞争进入...",
-      "highlights": [
-        "## 机器人行业日报(09.18) : 机器人产业爆发",
-        "> 机器人行业日报(09.17) : 机器人行业动态",
-        "> 雷军一行考察B站和宇树科技，宇树科技登陆科创板成为A股人形机器人第一股"
-      ],
-      "url": "https://m.sohu.com/a/1078231241_115035?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-19T16:03:00Z"
     },
     {
       "id": "6dc7e4c9b513",
@@ -181,19 +166,79 @@
       "publishedAt": "2026-09-20T07:00:00Z"
     },
     {
-      "id": "37a26b632c51",
-      "title": "小鹏发布人形机器人IRON自动化产线 面临三重商业化挑战",
-      "summary": "虎嗅嗅全新升级虎嗅嗅全新升级\n\n具身智能泡沫褪去，车企“造人”要过三道生死关\n\n# 具身智能泡沫褪去，车企“造人”要过三道生死关\n\n虎嗅杨杰\n虎嗅官方团队\n\n出品｜虎嗅汽车组\n\n作者｜杨杰\n\n题图｜小鹏微博\n\n9月17日，北京798，小鹏G9L上市发布会。全场焦点本该是定价激进、配置下放的旗舰产品G9L，但何小鹏把开场的第一幕，分给了IRON人形机器人。\n\n屏幕之上，IRON自主迈步，从自动化总装...",
+      "id": "cd957077b472",
+      "title": "想看AI芯片下一步往哪里走？没来上海峰会的人，看这篇就够了",
+      "summary": "对此，博伦智汇通过DRA Proxy连接厂商设备插件与K8S，统一转换、补全设备信息并上报，实现异构GPU的资源发现与调度。同时，其自研TOLD架构面向Token，以低时延、高吞吐、低成本为目标，进一步串联资源规划、资源管理与推理服务部署。\n\n在此基础上，博伦智汇的MIX调度平台通过复用厂商设备插件，降低芯片接入成本，让不同厂商的GPU释放算力价值。\n\n▲博伦智汇技术架构师、资深算力架构专家张磊\n...",
       "highlights": [
-        "虎嗅嗅全新升级虎嗅嗅全新升级",
-        "具身智能泡沫褪去，车企“造人”要过三道生死关",
-        "# 具身智能泡沫褪去，车企“造人”要过三道生死关"
+        "对此，博伦智汇通过DRA Proxy连接厂商设备插件与K8S，统一转换、补全设备信息并上报，实现异构GPU的资源发现与调度",
+        "同时，其自研TOLD架构面向Token，以低时延、高吞吐、低成本为目标，进一步串联资源规划、资源管理与推理服务部署",
+        "在此基础上，博伦智汇的MIX调度平台通过复用厂商设备插件，降低芯片接入成本，让不同厂商的GPU释放算力价值"
       ],
-      "url": "https://www.huxiu.com/article/4892489.html",
-      "source": "huxiu.com",
-      "category": "具身智能",
+      "url": "https://zhidx.com/p/595920.html",
+      "source": "zhidx.com",
+      "category": "产品进展",
       "importance": 5,
-      "publishedAt": "2026-09-19T12:08:45Z"
+      "publishedAt": "2026-09-21T13:00:00Z"
+    },
+    {
+      "id": "0ae9e677c7bf",
+      "title": "【明日主题前瞻】伴随推理侧需求爆发，ASIC芯片出货迎来加速期",
+      "summary": "摩根大通最新报告预计，2027年ASIC/XPU在AI加速器单元出货中的占比将升至54%，超过GPU；2028年进一步升至55%。其预计，2026年定制AI ASIC市场规模约600亿至700亿美元，未来数年复合增速超过40%至50%。目前博通和Marvell占据约90%的市占，其中博通约80%至85%，市场集中度较高。\n\n国信证券研报认为，伴随推理侧需求爆发，各公司自研芯片能力验证成熟，ASIC...",
+      "highlights": [
+        "摩根大通最新报告预计，2027年ASIC/XPU在AI加速器单元出货中的占比将升至54%，超过GPU；2028年进一步升至55%",
+        "其预计，2026年定制AI ASIC市场规模约600亿至700亿美元，未来数年复合增速超过40%至50%",
+        "目前博通和Marvell占据约90%的市占，其中博通约80%至85%，市场集中度较高"
+      ],
+      "url": "https://www.cls.cn/detail/2488882",
+      "source": "cls.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-21T11:00:00Z"
+    },
+    {
+      "id": "524f7602cd08",
+      "title": "微软和高盛齐呼：AI利润下一站，应用层！恒生互联网的AI应用价值尚未充分定价",
+      "summary": "更具战略意义的是WorkBuddy的连续迭代。9月2日，WorkBuddy开放平台正式上线，首批引入超百家生态伙伴，面向智能硬件、行业应用与开发者开放底层Agent能力。9月18日，WorkBuddy进一步上线“应用生成能力”——用户只需用自然语言描述需求，就能生成自带云数据库、文件存储、用户注册登录与AI调用能力的完整网站应用，并可一键发布上线。从“AI助手”到“Agent操作系统”，腾讯正在将...",
+      "highlights": [
+        "更具战略意义的是WorkBuddy的连续迭代",
+        "9月2日，WorkBuddy开放平台正式上线，首批引入超百家生态伙伴，面向智能硬件、行业应用与开发者开放底层Agent能力",
+        "9月18日，WorkBuddy进一步上线“应用生成能力”——用户只需用自然语言描述需求，就能生成自带云数据库、文件存储、用户注册登录与AI调用能力的完整网站应用，并可一键发布上线"
+      ],
+      "url": "https://www.caiwennews.com/article/1616087.shtml",
+      "source": "caiwennews.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-21T13:58:56Z"
+    },
+    {
+      "id": "58120709a9bd",
+      "title": "全球资金、创新资源潮涌上海，资本如何成就生物医药下一个十年_行业动态_投资界",
+      "summary": "投资界24h | 智元抢先开演机器人晚会；马斯克：是时候大规模重返月球了；惠州首富，一笔神奇回报200亿\n\n### 创投号\n\n 杨继云\n\n  杨继云\n\n  + 关注;)\n\n  纪源资本，一家老牌VC回报20亿\n 硅谷101\n\n  硅谷101\n\n  + 关注;)\n\n  深度拆解Clawdbot\n 极客公园\n\n  极客公园\n\n  + 关注;)\n\n  程序员已经用不起 Claude 了\n 量子位\n\n  ...",
+      "highlights": [
+        "投资界24h | 智元抢先开演机器人晚会；马斯克：是时候大规模重返月球了；惠州首富，一笔神奇回报200亿",
+        "纪源资本，一家老牌VC回报20亿",
+        "深度拆解Clawdbot"
+      ],
+      "url": "https://news.pedaily.cn/20260920/139365.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "629a9a78c82e",
+      "title": "OpenAI's Cash Burn, Google's Rogue AI, Spacex's FCC Nod and More: This Week in Tech — TradingView News",
+      "summary": "Google’s Gemini AI model, a product of Alphabet Inc., breached the systems of three companies during a cybersecurity test. The AI model accessed the internet and went rogue, marking Google as the late...",
+      "highlights": [
+        "Google’s Gemini AI model, a product of Alphabet Inc., breached the systems of three companies during a cybersecurity test. The AI model accessed the internet and went rogue, marking Google as the latest company to face such an issue.",
+        "Read the full article here.",
+        "Read Also:  Elon Musk’s Tesla And SpaceX Sue Nanotech Firm TERA-Print Over ‘Terafab’ Name For Planned $16.8 Billion Texas AI Chip Factory"
+      ],
+      "url": "https://www.tradingview.com/news/benzinga:7a0e10a17094b:0-openai-s-cash-burn-google-s-rogue-ai-spacex-s-fcc-nod-and-more-this-week-in-tech",
+      "source": "tradingview.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-20T13:00:28Z"
     },
     {
       "id": "b8230fce334c",
@@ -315,6 +360,21 @@
       "publishedAt": "2026-09-21T07:35:17Z"
     },
     {
+      "id": "ece43f459dba",
+      "title": "豆包跨越「临界点」后，字节AI下一步怎么走？ - 36氪",
+      "summary": "2026 年 2 月 5 日，Anthropic 发布了旗下的最新模型成果 Claude Opus 4.6，并且随之宣布：\n\n在 AI 彻底改变软件编程行业的工作方式后，现在是时候进军更广泛的职场了。\n\n紧接着，这一模型发布之后，多家金融服务公司的股价在当日应声跳水。其中，金融数据和软件公司 FaceSet 跌幅超 8%，创 2020 年 3 月以来新低；老牌信息服务提供商 Thomson Reu...",
+      "highlights": [
+        "2026 年 2 月 5 日，Anthropic 发布了旗下的最新模型成果 Claude Opus 4.6，并且随之宣布：",
+        "在 AI 彻底改变软件编程行业的工作方式后，现在是时候进军更广泛的职场了",
+        "紧接着，这一模型发布之后，多家金融服务公司的股价在当日应声跳水"
+      ],
+      "url": "https://m.36kr.com/p/3867066152713092",
+      "source": "m.36kr.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-21T14:18:49Z"
+    },
+    {
       "id": "be55a4ed50a2",
       "title": "沙利文发布2026年智能体市场研究报告：WorkBuddy稳居企业级、个人应用双榜第一",
       "summary": "沙利文发布《2026年全球桌面AI智能体市场研究报告》，腾讯WorkBuddy在中国个人端与企业级桌面智能体两大榜单均位列第一。",
@@ -383,63 +443,6 @@
       "category": "芯片硬件",
       "importance": 3,
       "publishedAt": "2026-09-21T03:00:00Z"
-    },
-    {
-      "id": "f11bc92e03c2",
-      "title": "腾讯控股(00700) - 最新资讯",
-      "summary": "查看更多\n\n雪球及香港交易所资讯服务有限公司、其控股公司及/或该等控股公司的任何附属公司均竭力确保所提供信息的准确和可靠度，但不能保证其绝对准确和可靠，且亦不会承担因任何不准确或遗漏而引起的任何损失或损害的责任（不管是否侵权法下的责任或合约责任又或其他责任）。\n\nImage 33: 微信 Image 34: 扫一扫，关注雪球微信公众号扫一扫，关注雪球微信公众号Image 35: 微博Image 3...",
-      "highlights": [
-        "雪球及香港交易所资讯服务有限公司、其控股公司及/或该等控股公司的任何附属公司均竭力确保所提供信息的准确和可靠度，但不能保证其绝对准确和可靠，且亦不会承担因任何不准确或遗漏而引起的任何损失或损害的责任（不管是否侵权法下的责任或合约责任又或其他责任）",
-        "Image 33: 微信 Image 34: 扫一扫，关注雪球微信公众号扫一扫，关注雪球微信公众号Image 35: 微博Image 36: 邮箱",
-        "A股开户｜雪球基金｜投资者教育｜风险提示"
-      ],
-      "url": "https://xueqiu.com/S/00700/news?page=8",
-      "source": "xueqiu.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-09-19T13:00:00Z"
-    },
-    {
-      "id": "a9c91c6f1a7d",
-      "title": "中美AI蒸馏争议升级中国模型部分性能超美国同行- AI",
-      "summary": "当前在中美人工智能技术竞争中，模型蒸馏技术成为双方争议焦点。蒸馏技术广义上指使用另一款更先进模型的输出结果训练自有AI模型，因投入成本更低的实验室可借助这一",
-      "highlights": [
-        "当前在中美人工智能技术竞争中，模型蒸馏技术成为双方争议焦点",
-        "蒸馏技术广义上指使用另一款更先进模型的输出结果训练自有AI模型，因投入成本更低的实验室可借助这一"
-      ],
-      "url": "https://www.ebrun.com/20260920/708649.shtml",
-      "source": "ebrun.com",
-      "category": "行业话题",
-      "importance": 2,
-      "publishedAt": "2026-09-20T01:00:00Z"
-    },
-    {
-      "id": "24dbb9484102",
-      "title": "Meta Acquires Swedish AI Startup To Boost Automated Business Messaging 09/10/2026",
-      "summary": "Meta Acquires Swedish AI Startup To Boost Automated Business Messaging - 09/10/2026.",
-      "highlights": [
-        "Meta Acquires Swedish AI Startup To Boost Automated Business Messaging - 09/10/2026."
-      ],
-      "url": "https://www.mediapost.com/publications/article/417764/meta-acquires-swedish-ai-startup-to-boost-automate.html?edition%5C%5Cu003d143800=",
-      "source": "mediapost.com",
-      "category": "前沿理论",
-      "importance": 2,
-      "publishedAt": "2026-09-20T00:00:00Z"
-    },
-    {
-      "id": "63b59ff8fcc3",
-      "title": "京东工业发布工业大模型，打造超级AI供应链",
-      "summary": "见道网 2026-09-21 11:20. 轰鸣的产线旁，老师傅不再死磕图纸，巡检员也告别了满场跑。当大模型走出虚拟空间，扎进真实的研发与运维，AI从动嘴的聊天工具，变成了动手的工业帮手，智造新局就此打开。. **在北京举办的2026京东全球科技探索者大会智能工业论坛上，京东工业推出JoyIndustrial 2.0工业模型及五大AI产品。**推动人工智能从虚拟数字空间，拓展到研发、采购、现场运维...",
-      "highlights": [
-        "见道网 2026-09-21 11:20. 轰鸣的产线旁，老师傅不再死磕图纸，巡检员也告别了满场跑",
-        "当大模型走出虚拟空间，扎进真实的研发与运维，AI从动嘴的聊天工具，变成了动手的工业帮手，智造新局就此打开",
-        ". **在北京举办的2026京东全球科技探索者大会智能工业论坛上，京东工业推出JoyIndustrial 2.0工业模型及五大AI产品"
-      ],
-      "url": "https://www.seetao.com/details/278971.html",
-      "source": "seetao.com",
-      "category": "产品进展",
-      "importance": 2,
-      "publishedAt": "2026-09-21T03:00:00Z"
     }
   ],
   "today": [
@@ -459,6 +462,51 @@
       "publishedAt": "2026-09-21T03:00:00Z"
     },
     {
+      "id": "cd957077b472",
+      "title": "想看AI芯片下一步往哪里走？没来上海峰会的人，看这篇就够了",
+      "summary": "对此，博伦智汇通过DRA Proxy连接厂商设备插件与K8S，统一转换、补全设备信息并上报，实现异构GPU的资源发现与调度。同时，其自研TOLD架构面向Token，以低时延、高吞吐、低成本为目标，进一步串联资源规划、资源管理与推理服务部署。\n\n在此基础上，博伦智汇的MIX调度平台通过复用厂商设备插件，降低芯片接入成本，让不同厂商的GPU释放算力价值。\n\n▲博伦智汇技术架构师、资深算力架构专家张磊\n...",
+      "highlights": [
+        "对此，博伦智汇通过DRA Proxy连接厂商设备插件与K8S，统一转换、补全设备信息并上报，实现异构GPU的资源发现与调度",
+        "同时，其自研TOLD架构面向Token，以低时延、高吞吐、低成本为目标，进一步串联资源规划、资源管理与推理服务部署",
+        "在此基础上，博伦智汇的MIX调度平台通过复用厂商设备插件，降低芯片接入成本，让不同厂商的GPU释放算力价值"
+      ],
+      "url": "https://zhidx.com/p/595920.html",
+      "source": "zhidx.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-21T13:00:00Z"
+    },
+    {
+      "id": "0ae9e677c7bf",
+      "title": "【明日主题前瞻】伴随推理侧需求爆发，ASIC芯片出货迎来加速期",
+      "summary": "摩根大通最新报告预计，2027年ASIC/XPU在AI加速器单元出货中的占比将升至54%，超过GPU；2028年进一步升至55%。其预计，2026年定制AI ASIC市场规模约600亿至700亿美元，未来数年复合增速超过40%至50%。目前博通和Marvell占据约90%的市占，其中博通约80%至85%，市场集中度较高。\n\n国信证券研报认为，伴随推理侧需求爆发，各公司自研芯片能力验证成熟，ASIC...",
+      "highlights": [
+        "摩根大通最新报告预计，2027年ASIC/XPU在AI加速器单元出货中的占比将升至54%，超过GPU；2028年进一步升至55%",
+        "其预计，2026年定制AI ASIC市场规模约600亿至700亿美元，未来数年复合增速超过40%至50%",
+        "目前博通和Marvell占据约90%的市占，其中博通约80%至85%，市场集中度较高"
+      ],
+      "url": "https://www.cls.cn/detail/2488882",
+      "source": "cls.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-21T11:00:00Z"
+    },
+    {
+      "id": "524f7602cd08",
+      "title": "微软和高盛齐呼：AI利润下一站，应用层！恒生互联网的AI应用价值尚未充分定价",
+      "summary": "更具战略意义的是WorkBuddy的连续迭代。9月2日，WorkBuddy开放平台正式上线，首批引入超百家生态伙伴，面向智能硬件、行业应用与开发者开放底层Agent能力。9月18日，WorkBuddy进一步上线“应用生成能力”——用户只需用自然语言描述需求，就能生成自带云数据库、文件存储、用户注册登录与AI调用能力的完整网站应用，并可一键发布上线。从“AI助手”到“Agent操作系统”，腾讯正在将...",
+      "highlights": [
+        "更具战略意义的是WorkBuddy的连续迭代",
+        "9月2日，WorkBuddy开放平台正式上线，首批引入超百家生态伙伴，面向智能硬件、行业应用与开发者开放底层Agent能力",
+        "9月18日，WorkBuddy进一步上线“应用生成能力”——用户只需用自然语言描述需求，就能生成自带云数据库、文件存储、用户注册登录与AI调用能力的完整网站应用，并可一键发布上线"
+      ],
+      "url": "https://www.caiwennews.com/article/1616087.shtml",
+      "source": "caiwennews.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-21T13:58:56Z"
+    },
+    {
       "id": "a9391657f899",
       "title": "Manus AI Targets $4 Billion Valuation as AI Agents Draw Fresh Investor Interest",
       "summary": "Agree & Join LinkedIn\n\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.\n\nSkip to main contentLinkedIn\n   Top Content\n   People\n   Lea...",
@@ -472,6 +520,21 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-09-21T07:35:17Z"
+    },
+    {
+      "id": "ece43f459dba",
+      "title": "豆包跨越「临界点」后，字节AI下一步怎么走？ - 36氪",
+      "summary": "2026 年 2 月 5 日，Anthropic 发布了旗下的最新模型成果 Claude Opus 4.6，并且随之宣布：\n\n在 AI 彻底改变软件编程行业的工作方式后，现在是时候进军更广泛的职场了。\n\n紧接着，这一模型发布之后，多家金融服务公司的股价在当日应声跳水。其中，金融数据和软件公司 FaceSet 跌幅超 8%，创 2020 年 3 月以来新低；老牌信息服务提供商 Thomson Reu...",
+      "highlights": [
+        "2026 年 2 月 5 日，Anthropic 发布了旗下的最新模型成果 Claude Opus 4.6，并且随之宣布：",
+        "在 AI 彻底改变软件编程行业的工作方式后，现在是时候进军更广泛的职场了",
+        "紧接着，这一模型发布之后，多家金融服务公司的股价在当日应声跳水"
+      ],
+      "url": "https://m.36kr.com/p/3867066152713092",
+      "source": "m.36kr.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-21T14:18:49Z"
     },
     {
       "id": "72ed13ddde54",
@@ -557,6 +620,32 @@
       "category": "前沿理论",
       "importance": 2,
       "publishedAt": "2026-09-21T04:00:00Z"
+    },
+    {
+      "id": "38b4e6c0b21d",
+      "title": "Ex-Zillow VP’s startup Truelist acquired by Mainstay in $18M expansion of real estate AI",
+      "summary": "Founded in 2024, Truelist built an AI-powered listing platform to help real estate brokers and agents manage, create, and distribute property listings",
+      "highlights": [
+        "Founded in 2024, Truelist built an AI-powered listing platform to help real estate brokers and agents manage, create, and distribute property listings"
+      ],
+      "url": "https://www.geekwire.com/2026/ex-zillow-vps-startup-truelist-acquired-by-mainstay-in-18m-expansion-of-real-estate-ai",
+      "source": "geekwire.com",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-09-21T17:00:00Z"
+    },
+    {
+      "id": "8944e2192564",
+      "title": "专业研究|人工智能产业投资并购估值探索",
+      "summary": "旨在为人工智能产业投资和并购中的企业价值估值提供参考.01人... 独立框架公司可能通过战略融资或并购实现退出;而大型科技公司...",
+      "highlights": [
+        "旨在为人工智能产业投资和并购中的企业价值估值提供参考.01人... 独立框架公司可能通过战略融资或并购实现退出;而大型科技公司..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9vj77TvILLLYhUS6RUWt-bqIEhoch9LZlqXa8Fplpd9KeZT1N5Rb7Ht6U-IB2-GjXbcx52wWPTahuD3UrBz1Dqitrjo-_b_spQhCdY08aUiqaOeV9np23nqx3MtK0DgLy2EGmDRXyMsTGsy-FZXwvEe49_E_5sTfwIczvCr3T6xelCSHz5a2yFMcFMw26qNw8yXg49YwrGQIVMTSRfY5tejotuuiAmOIg..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=5CB0D54CD5D8D7AC00065C030BEED72101F981BA6AB17107",
+      "source": "微信公众号",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-09-21T08:27:54Z"
     }
   ],
   "week": [
@@ -576,6 +665,51 @@
       "publishedAt": "2026-09-21T03:00:00Z"
     },
     {
+      "id": "cd957077b472",
+      "title": "想看AI芯片下一步往哪里走？没来上海峰会的人，看这篇就够了",
+      "summary": "对此，博伦智汇通过DRA Proxy连接厂商设备插件与K8S，统一转换、补全设备信息并上报，实现异构GPU的资源发现与调度。同时，其自研TOLD架构面向Token，以低时延、高吞吐、低成本为目标，进一步串联资源规划、资源管理与推理服务部署。\n\n在此基础上，博伦智汇的MIX调度平台通过复用厂商设备插件，降低芯片接入成本，让不同厂商的GPU释放算力价值。\n\n▲博伦智汇技术架构师、资深算力架构专家张磊\n...",
+      "highlights": [
+        "对此，博伦智汇通过DRA Proxy连接厂商设备插件与K8S，统一转换、补全设备信息并上报，实现异构GPU的资源发现与调度",
+        "同时，其自研TOLD架构面向Token，以低时延、高吞吐、低成本为目标，进一步串联资源规划、资源管理与推理服务部署",
+        "在此基础上，博伦智汇的MIX调度平台通过复用厂商设备插件，降低芯片接入成本，让不同厂商的GPU释放算力价值"
+      ],
+      "url": "https://zhidx.com/p/595920.html",
+      "source": "zhidx.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-21T13:00:00Z"
+    },
+    {
+      "id": "0ae9e677c7bf",
+      "title": "【明日主题前瞻】伴随推理侧需求爆发，ASIC芯片出货迎来加速期",
+      "summary": "摩根大通最新报告预计，2027年ASIC/XPU在AI加速器单元出货中的占比将升至54%，超过GPU；2028年进一步升至55%。其预计，2026年定制AI ASIC市场规模约600亿至700亿美元，未来数年复合增速超过40%至50%。目前博通和Marvell占据约90%的市占，其中博通约80%至85%，市场集中度较高。\n\n国信证券研报认为，伴随推理侧需求爆发，各公司自研芯片能力验证成熟，ASIC...",
+      "highlights": [
+        "摩根大通最新报告预计，2027年ASIC/XPU在AI加速器单元出货中的占比将升至54%，超过GPU；2028年进一步升至55%",
+        "其预计，2026年定制AI ASIC市场规模约600亿至700亿美元，未来数年复合增速超过40%至50%",
+        "目前博通和Marvell占据约90%的市占，其中博通约80%至85%，市场集中度较高"
+      ],
+      "url": "https://www.cls.cn/detail/2488882",
+      "source": "cls.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-21T11:00:00Z"
+    },
+    {
+      "id": "524f7602cd08",
+      "title": "微软和高盛齐呼：AI利润下一站，应用层！恒生互联网的AI应用价值尚未充分定价",
+      "summary": "更具战略意义的是WorkBuddy的连续迭代。9月2日，WorkBuddy开放平台正式上线，首批引入超百家生态伙伴，面向智能硬件、行业应用与开发者开放底层Agent能力。9月18日，WorkBuddy进一步上线“应用生成能力”——用户只需用自然语言描述需求，就能生成自带云数据库、文件存储、用户注册登录与AI调用能力的完整网站应用，并可一键发布上线。从“AI助手”到“Agent操作系统”，腾讯正在将...",
+      "highlights": [
+        "更具战略意义的是WorkBuddy的连续迭代",
+        "9月2日，WorkBuddy开放平台正式上线，首批引入超百家生态伙伴，面向智能硬件、行业应用与开发者开放底层Agent能力",
+        "9月18日，WorkBuddy进一步上线“应用生成能力”——用户只需用自然语言描述需求，就能生成自带云数据库、文件存储、用户注册登录与AI调用能力的完整网站应用，并可一键发布上线"
+      ],
+      "url": "https://www.caiwennews.com/article/1616087.shtml",
+      "source": "caiwennews.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-21T13:58:56Z"
+    },
+    {
       "id": "a9391657f899",
       "title": "Manus AI Targets $4 Billion Valuation as AI Agents Draw Fresh Investor Interest",
       "summary": "Agree & Join LinkedIn\n\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.\n\nSkip to main contentLinkedIn\n   Top Content\n   People\n   Lea...",
@@ -589,6 +723,21 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-09-21T07:35:17Z"
+    },
+    {
+      "id": "ece43f459dba",
+      "title": "豆包跨越「临界点」后，字节AI下一步怎么走？ - 36氪",
+      "summary": "2026 年 2 月 5 日，Anthropic 发布了旗下的最新模型成果 Claude Opus 4.6，并且随之宣布：\n\n在 AI 彻底改变软件编程行业的工作方式后，现在是时候进军更广泛的职场了。\n\n紧接着，这一模型发布之后，多家金融服务公司的股价在当日应声跳水。其中，金融数据和软件公司 FaceSet 跌幅超 8%，创 2020 年 3 月以来新低；老牌信息服务提供商 Thomson Reu...",
+      "highlights": [
+        "2026 年 2 月 5 日，Anthropic 发布了旗下的最新模型成果 Claude Opus 4.6，并且随之宣布：",
+        "在 AI 彻底改变软件编程行业的工作方式后，现在是时候进军更广泛的职场了",
+        "紧接着，这一模型发布之后，多家金融服务公司的股价在当日应声跳水"
+      ],
+      "url": "https://m.36kr.com/p/3867066152713092",
+      "source": "m.36kr.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-21T14:18:49Z"
     },
     {
       "id": "72ed13ddde54",
@@ -674,24 +823,35 @@
       "category": "前沿理论",
       "importance": 2,
       "publishedAt": "2026-09-21T04:00:00Z"
+    },
+    {
+      "id": "38b4e6c0b21d",
+      "title": "Ex-Zillow VP’s startup Truelist acquired by Mainstay in $18M expansion of real estate AI",
+      "summary": "Founded in 2024, Truelist built an AI-powered listing platform to help real estate brokers and agents manage, create, and distribute property listings",
+      "highlights": [
+        "Founded in 2024, Truelist built an AI-powered listing platform to help real estate brokers and agents manage, create, and distribute property listings"
+      ],
+      "url": "https://www.geekwire.com/2026/ex-zillow-vps-startup-truelist-acquired-by-mainstay-in-18m-expansion-of-real-estate-ai",
+      "source": "geekwire.com",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-09-21T17:00:00Z"
+    },
+    {
+      "id": "8944e2192564",
+      "title": "专业研究|人工智能产业投资并购估值探索",
+      "summary": "旨在为人工智能产业投资和并购中的企业价值估值提供参考.01人... 独立框架公司可能通过战略融资或并购实现退出;而大型科技公司...",
+      "highlights": [
+        "旨在为人工智能产业投资和并购中的企业价值估值提供参考.01人... 独立框架公司可能通过战略融资或并购实现退出;而大型科技公司..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9vj77TvILLLYhUS6RUWt-bqIEhoch9LZlqXa8Fplpd9KeZT1N5Rb7Ht6U-IB2-GjXbcx52wWPTahuD3UrBz1Dqitrjo-_b_spQhCdY08aUiqaOeV9np23nqx3MtK0DgLy2EGmDRXyMsTGsy-FZXwvEe49_E_5sTfwIczvCr3T6xelCSHz5a2yFMcFMw26qNw8yXg49YwrGQIVMTSRfY5tejotuuiAmOIg..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=5CB0D54CD5D8D7AC00065C030BEED72101F981BA6AB17107",
+      "source": "微信公众号",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-09-21T08:27:54Z"
     }
   ],
   "month": [
-    {
-      "id": "344d2c4c916e",
-      "title": "最新财新周刊｜Anthropic：AI“吹哨人”背后",
-      "summary": ":   Anthropic创始人及CEO达里奥·阿莫代伊近日发文呼吁放缓人工智能模型能力的提升速度。图为当地时间2025年1月23日，阿莫代伊参加瑞士达沃斯召开的世界经济论坛年会。\n\n《财新周刊》2026年第37期\n:   \n\n文｜财新周刊 杜知航\n\n　　“我们必须放缓人工智能（AI）模型能力的提升速度。”2026年9月12日，拥有全球性能最强AI大模型的Anthropic创始人及CEO达里奥·阿...",
-      "highlights": [
-        ":   Anthropic创始人及CEO达里奥·阿莫代伊近日发文呼吁放缓人工智能模型能力的提升速度",
-        "图为当地时间2025年1月23日，阿莫代伊参加瑞士达沃斯召开的世界经济论坛年会",
-        "《财新周刊》2026年第37期"
-      ],
-      "url": "https://weekly.caixin.com/2026-09-19/102486425.html",
-      "source": "weekly.caixin.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-19T10:00:00Z"
-    },
     {
       "id": "68d606ca3eba",
       "title": "沙利文联合头豹正式发布《2026年全球桌面AI智能体市场研究报告》",
@@ -825,6 +985,21 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-09-20T16:24:48Z"
+    },
+    {
+      "id": "6efa6e2bb42f",
+      "title": "是美国的4.7倍！中国AI大模型周调用量连续二十一周领跑：DeepSeek V4.1-Flash登顶，环比增长219%",
+      "summary": "《每日经济新闻》注意到，上周，全球调用量排名前五中，有四款中国AI大模型。其中，DeepSeek V4.1-Flash升至第一，周调用量达15.8万亿Token，环比增长219%。\n\n该模型于9月10日正式发布，在实现Coding与Agent能力提升的同时强化多模态理解能力。V4.1-Flash采用全新的Causal-Encoder-Decoder（因果编码器—解码器）结构，全局KV Cache降...",
+      "highlights": [
+        "《每日经济新闻》注意到，上周，全球调用量排名前五中，有四款中国AI大模型",
+        "其中，DeepSeek V4.1-Flash升至第一，周调用量达15.8万亿Token，环比增长219%",
+        "该模型于9月10日正式发布，在实现Coding与Agent能力提升的同时强化多模态理解能力"
+      ],
+      "url": "https://www.nbd.com.cn/articles/2026-09-21/4587100.html",
+      "source": "nbd.com.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-21T03:00:00Z"
     }
   ]
 }
