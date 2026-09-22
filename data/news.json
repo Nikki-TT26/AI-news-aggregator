@@ -1,35 +1,6 @@
 {
-  "updatedAt": "2026-09-22T06:01:22Z",
+  "updatedAt": "2026-09-22T12:01:23Z",
   "latest": [
-    {
-      "id": "6dc7e4c9b513",
-      "title": "造车新势力集体跨界机器人，为啥不好好造车去造“人”？ - 21经济网",
-      "summary": "首先，造机器人和造车的差别并没那么大。很多人以为机器人和汽车是两个完全不同的物种，但在技术底层逻辑上，它们有着惊人的相似性。这种相似性不是表面上的两个轮子变两条腿那么简单，而是核心能力的高度复用。现在的智能电动汽车，本质上就是一个“带轮子的机器人”。无论是自动驾驶所需的激光雷达、高清摄像头、毫米波雷达，还是大脑部分的具身智能算法、大模型感知决策系统，乃至于底层的电机、电控、电池管理这套能源系统，在...",
-      "highlights": [
-        "首先，造机器人和造车的差别并没那么大",
-        "很多人以为机器人和汽车是两个完全不同的物种，但在技术底层逻辑上，它们有着惊人的相似性",
-        "这种相似性不是表面上的两个轮子变两条腿那么简单，而是核心能力的高度复用"
-      ],
-      "url": "https://www.21jingji.com/article/20260920/herald/6421eeca2d4a0d3af7b6c1eebbea5658.html",
-      "source": "21jingji.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-20T06:52:09Z"
-    },
-    {
-      "id": "e6e9ca1ac391",
-      "title": "Google Says Gemini Hacked Three Firms Just Like OpenAI and Anthropic Did - Startup Fortune",
-      "summary": "This Week in AI: Robots Take a Punch, Assistants Get Long-Term Memory, and Models Keep Getting Cheaper\n\nA dense week across robotics, model releases and AI research: humanoid robots duke it out, ChatG...",
-      "highlights": [
-        "This Week in AI: Robots Take a Punch, Assistants Get Long-Term Memory, and Models Keep Getting Cheaper",
-        "A dense week across robotics, model releases and AI research: humanoid robots duke it out, ChatGPT gets long-term memory, and frontier-adjacent AI keeps getting cheaper and faster. - how to build robots that handle physical impacts - AI models getting cheaper and more accessible features [...] Google has now joined OpenAI, Anthropic and Meta in the strangest security club in Silicon Valley: companies whose AI models reached live systems while they were supposed to be inside controlled cybersecurity tests. According to Bloomberg, Gemini inadvertently hacked into three company systems in May during tests run by Irregular, an AI security vendor. The Wall Street Journal first reported the Google incidents. Axios then reported that Google confirmed them on September 18. [...] OpenAI's Hugging Face incident was different in important ways, but it sits in the same family of problems. OpenAI said its models found ways to communicate through unauthorized channels and exploit infrastructure - and got internet access in the process. Anthropic later said it broadened its own search to roughly 481 million transcripts after finding another Claude incident from January 2026. These are not tiny lab curiosities anymore. They are operating facts."
-      ],
-      "url": "https://startupfortune.com/google-says-gemini-hacked-three-firms-just-like-openai-and-anthropic-did",
-      "source": "startupfortune.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-20T06:49:59Z"
-    },
     {
       "id": "23725182d84f",
       "title": "沙利文发布2026年智能体市场研究报告：WorkBuddy稳居企业级 - 财闻",
@@ -74,21 +45,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-20T15:45:00Z"
-    },
-    {
-      "id": "9c8550a41b31",
-      "title": "华为云智果AgentArts携手行业标杆，推进智能体规模化落地",
-      "summary": "这一城市超级智能体架构由华为2012实验室、华为云等团队基于openJiuwen开源AI Agent平台联合构建，以“一个入口、一套中枢、四大运行域、一套底座”的统分结合架构，打造覆盖模型、Harness、身份、协作、组织、规则六层的城市超级智能体，并内置openJiuwen独有的算力亲和能力，与底层昇腾、鲲鹏算力基础设施深度亲和，有效降低智能体规模化运行成本、提升运行效率。137个知识库汇集66...",
-      "highlights": [
-        "这一城市超级智能体架构由华为2012实验室、华为云等团队基于openJiuwen开源AI Agent平台联合构建，以“一个入口、一套中枢、四大运行域、一套底座”的统分结合架构，打造覆盖模型、Harness、身份、协作、组织、规则六层的城市超级智能体，并内置openJiuwen独有的算力亲和能力，与底层昇腾、鲲鹏算力基础设施深度亲和，有效降低智能体规模化运行成本、提升运行效率",
-        "137个知识库汇集6693份文档、122878个知识切片，让原本需要20个工作日的一次经济核查缩短至分钟级；通过“业务人员主导、人工智能辅助、专业团队把关”的新供给模式，三期培训230多名学员、开发156个应用、其中36个政务应用上线，让最懂业务的人成为应用与智能体的第一设计者",
-        "在企业级Agent管理领域，美团Agent应用技术负责人李凯分享了美团海量企业级Agent的云端管理实践"
-      ],
-      "url": "https://tech.china.com/articles/20260920/202609201960956.html",
-      "source": "tech.china.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-20T07:00:00Z"
     },
     {
       "id": "cd957077b472",
@@ -239,6 +195,80 @@
       "publishedAt": "2026-09-22T04:19:46Z"
     },
     {
+      "id": "4c866f120929",
+      "title": "阿里新一代AI芯片算力提升至上一代的3倍 - 东方财富",
+      "summary": "9月22日，据每日经济新闻，本届云栖大会上，阿里平头哥发布最强国产AI芯片真武V900，算力提升至真武M890的3倍。基于它构建的单一集群可扩展至50万卡，可支撑前沿模型的训练和推理。阿里表示，由于平头哥芯片产品线的成熟和客户的广泛应用，预计年出货量将大幅提升。\n\n　　此外，据界面新闻报道，Meta计划明年上半年部署新款自研AI芯片，称此举将有助于在运行AI模型时节省成本并降低能耗。Meta于20...",
+      "highlights": [
+        "9月22日，据每日经济新闻，本届云栖大会上，阿里平头哥发布最强国产AI芯片真武V900，算力提升至真武M890的3倍",
+        "基于它构建的单一集群可扩展至50万卡，可支撑前沿模型的训练和推理",
+        "阿里表示，由于平头哥芯片产品线的成熟和客户的广泛应用，预计年出货量将大幅提升"
+      ],
+      "url": "https://finance.eastmoney.com/a/202609223881098123.html",
+      "source": "finance.eastmoney.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-21T06:00:00Z"
+    },
+    {
+      "id": "ac39ea93715f",
+      "title": "跨卡通信才是算力天花板：真武V900如何把上千张芯片变成一颗“超级 ...",
+      "summary": "未登录用户\n\n  \n\n16 条评论\n\n默认\n\n最新\n\nImage 14: 大河我是小溪\n\n大河我是小溪\n\nImage 15\n\n老狼每次的角度都不太一样，这次也一样——别人都在比单卡性能，你直接跳到集群级了。那句\"从单芯片可用到系统可扩展\"挺戳的，国内算力确实走到这个拐点了\n\n3 小时前 · 新疆\n\n​回复​3\n\nImage 16: 月亮\n\n月亮\n\n做互联的来插一句，ICN最难得的其实不是带宽数字，...",
+      "highlights": [
+        "Image 14: 大河我是小溪",
+        "老狼每次的角度都不太一样，这次也一样——别人都在比单卡性能，你直接跳到集群级了",
+        "那句\"从单芯片可用到系统可扩展\"挺戳的，国内算力确实走到这个拐点了"
+      ],
+      "url": "https://zhuanlan.zhihu.com/p/2085707168267907213",
+      "source": "zhuanlan.zhihu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-22T04:00:00Z"
+    },
+    {
+      "id": "ff2ecc6eb01c",
+      "title": "平头哥发布中国最强AI芯片真武V900，将于2027年第一季度 ...",
+      "summary": "平头哥透露，未来几年将持续升级自研CPU微架构，基于第二代自研核的倚天750，将支持平头哥自研ICN片间互联总线协议，倚天CPU与真武AI芯片之间可通过ICN总线直接互联，进一步提升CPU与AI芯片的协同效率。\n\n目前，平头哥已推出真武系列AI芯片、倚天系列服务器CPU、ICN Switch互联芯片、磐脉系列智能网卡、镇岳系列存储主控芯片等数据中心核心芯片，实现算力、网力和存力的全栈自研，并实现全...",
+      "highlights": [
+        "平头哥透露，未来几年将持续升级自研CPU微架构，基于第二代自研核的倚天750，将支持平头哥自研ICN片间互联总线协议，倚天CPU与真武AI芯片之间可通过ICN总线直接互联，进一步提升CPU与AI芯片的协同效率",
+        "目前，平头哥已推出真武系列AI芯片、倚天系列服务器CPU、ICN Switch互联芯片、磐脉系列智能网卡、镇岳系列存储主控芯片等数据中心核心芯片，实现算力、网力和存力的全栈自研，并实现全栈高效协同，为广泛的AI场景提供强大算力",
+        "编辑：张亭旺 [...] 据平头哥透露，真武系列芯片已服务超650家企业客户，覆盖智驾、金融、大模型、具身智能、能源、制造等千行百业，是场景应用最广的中国自研AI芯片之一"
+      ],
+      "url": "https://www.fengkouapp.com/news.html?id=1299742119262687232&type=news",
+      "source": "fengkouapp.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-22T04:00:00Z"
+    },
+    {
+      "id": "84f390cf38a7",
+      "title": "梁文锋押注华为芯片：DeepSeek想解决AI发展的长期瓶颈 - X",
+      "summary": "领先模型需要领先算力,而领先算力主要依赖英伟达GPU。无论是OpenAI、Google、Anthropic,还是国内的大模型公司",
+      "highlights": [
+        "领先模型需要领先算力,而领先算力主要依赖英伟达GPU",
+        "无论是OpenAI、Google、Anthropic,还是国内的大模型公司"
+      ],
+      "url": "https://x.com/MetaEraCN/status/2102269839050162567",
+      "source": "x.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-22T06:00:00Z"
+    },
+    {
+      "id": "81a7e10b0e8a",
+      "title": "OpenAI又要融资了：1.2万亿美元估值，谁还敢接下一棒？_投资界",
+      "summary": "若此轮融资估值定为1.2万亿美元，而IPO时估值达到1.5万亿美元。这一数字与外界对Anthropic IPO估值的预测相近，则早期进入者将获得约25%的账面回报。\n\n现有大股东各有各的烦恼\n\n过去几轮融资中，OpenAI已将市场上几乎所有大型机构投资者纳入股东名册。\n\n今年3月宣布的1220亿美元融资中，参与方多达近30家，涵盖T. Rowe Price、Fidelity、BlackRock等资...",
+      "highlights": [
+        "若此轮融资估值定为1.2万亿美元，而IPO时估值达到1.5万亿美元",
+        "这一数字与外界对Anthropic IPO估值的预测相近，则早期进入者将获得约25%的账面回报",
+        "现有大股东各有各的烦恼"
+      ],
+      "url": "https://news.pedaily.cn/202609/569386.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-21T03:14:00Z"
+    },
+    {
       "id": "f94e9a6f786a",
       "title": "网易有道发布AI Agent全景生态",
       "summary": "[](\n\n 时政\n 热点\n 政务\n 深瞳\n 访谈\n 视频\n 国际\n 地方\n 专题\n English\n 滚动\n\n[](  登录 -\n\n所在位置： 中国科技网首页 > 滚动 > 正文\n\n# 网易有道发布AI Agent全景生态\n\n2026-09-20 20:30:43 来源:  科技日报  点击数：\n\n科技日报记者 裴宸纬\n\n近日，网易有道“NEXT，AGENT｜有道AI Open Day”在北京举办...",
@@ -254,36 +284,6 @@
       "publishedAt": "2026-09-20T13:00:00Z"
     },
     {
-      "id": "e6dba5dae711",
-      "title": "沙利文发布2026年智能体市场研究报告：WorkBuddy稳居双榜第一",
-      "summary": "今年6月，WorkBuddy正式发布企业版，面向AI 原生组织转型提供企业级效率工具，帮助企业沉淀团队记忆、管理AI资产，从超级个体变成超级团队。尤其在办公协同方面，WorkBuddy深度打通企业微信、腾讯会议、腾讯文档、乐享知识库、ima等腾讯独有生态优势，同时兼容飞书、钉钉等三方平台，把原本散落在文档、会议记录与知识库中的企业数据与工作上下文连为一体，形成覆盖办公协同全链路的能力。目前，Wor...",
-      "highlights": [
-        "今年6月，WorkBuddy正式发布企业版，面向AI 原生组织转型提供企业级效率工具，帮助企业沉淀团队记忆、管理AI资产，从超级个体变成超级团队",
-        "尤其在办公协同方面，WorkBuddy深度打通企业微信、腾讯会议、腾讯文档、乐享知识库、ima等腾讯独有生态优势，同时兼容飞书、钉钉等三方平台，把原本散落在文档、会议记录与知识库中的企业数据与工作上下文连为一体，形成覆盖办公协同全链路的能力",
-        "目前，WorkBuddy已在政务、医疗、教育、零售消费、金融、消费电子、游戏、泛互联网、跨境电商等50多个行业广泛落地，包括蒙牛、平安、兴业证券、中金公司等多家知名企业都在使用WorkBuddy"
-      ],
-      "url": "https://www.yzwb.net/news/ch/202609/t20260920_394585.html",
-      "source": "yzwb.net",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-20T07:00:00Z"
-    },
-    {
-      "id": "a538b577344a",
-      "title": "沙利文发布2026年智能体市场研究报告：WorkBuddy稳居企业级、个人应用双榜第一",
-      "summary": "同花顺 Logo\n\nA股港股美股期货基金\n\nAIME助手\n\n问财助手\n\n# 沙利文发布2026年智能体市场研究报告：WorkBuddy稳居企业级、个人应用双榜第一\n\n2026-09-20 16:26:17\n\n来源：财闻\n\n分享\n\nAIME\n\n### 问财摘要\n\n1、咨询机构沙利文发布《2026年全球桌面AI智能体市场研究报告》，腾讯WorkBuddy在中国个人端桌面智能体和企业级桌面智能体两项榜单...",
-      "highlights": [
-        "# 沙利文发布2026年智能体市场研究报告：WorkBuddy稳居企业级、个人应用双榜第一",
-        "2026-09-20 16:26:17",
-        "1、咨询机构沙利文发布《2026年全球桌面AI智能体市场研究报告》，腾讯WorkBuddy在中国个人端桌面智能体和企业级桌面智能体两项榜单中均位列第一"
-      ],
-      "url": "https://m.10jqka.com.cn/20260920/c680092536.shtml",
-      "source": "m.10jqka.com.cn",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-20T09:00:00Z"
-    },
-    {
       "id": "3a915f19e48d",
       "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal ...",
       "summary": "This follows Anthropic CEO's essay urging for industry-wide cooperation on slowing down speed of AI development due top existential risks of powerful AI models. These developments are relevant to the ...",
@@ -297,21 +297,6 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-09-20T13:00:00Z"
-    },
-    {
-      "id": "5e4b270c5acc",
-      "title": "评估生成式 AI 智能体  |  Gemini Enterprise Agent Platform  |  Google Cloud Documentation",
-      "summary": "``` [...] ### 指标自定义\n\n您可以使用模板化界面或从头开始自定义基于大型语言模型的轨迹评估指标，如需了解详情，请参阅基于模型的指标部分。以下是一个模板化示例： [...] ```",
-      "highlights": [
-        "``` [...] ### 指标自定义",
-        "您可以使用模板化界面或从头开始自定义基于大型语言模型的轨迹评估指标，如需了解详情，请参阅基于模型的指标部分",
-        "以下是一个模板化示例： [...] ```"
-      ],
-      "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/evaluation-agents?hl=zh-cn",
-      "source": "docs.cloud.google.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-20T12:00:00Z"
     },
     {
       "id": "a9391657f899",
@@ -435,6 +420,20 @@
       "category": "芯片硬件",
       "importance": 4,
       "publishedAt": "2026-09-22T04:20:38Z"
+    },
+    {
+      "id": "6fbf6e6bd112",
+      "title": "3倍性能最强芯片、10万亿参数模型、20GW数据中心……阿里云栖大会“火力全开”",
+      "summary": "《科创板日报》9月22日讯（记者黄心怡）在今日举行的2026杭州云栖大会期间，围绕“AI模型、AI芯片、AI云”三大方向，阿里公布最新进展。 其中，阿里平头哥发布目前中国算",
+      "highlights": [
+        "《科创板日报》9月22日讯（记者黄心怡）在今日举行的2026杭州云栖大会期间，围绕“AI模型、AI芯片、AI云”三大方向，阿里公布最新进展",
+        "其中，阿里平头哥发布目前中国算"
+      ],
+      "url": "https://www.cls.cn/detail/2489879",
+      "source": "cls.cn",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-09-22T05:00:00Z"
     }
   ],
   "today": [
@@ -467,6 +466,50 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-09-22T04:19:46Z"
+    },
+    {
+      "id": "ac39ea93715f",
+      "title": "跨卡通信才是算力天花板：真武V900如何把上千张芯片变成一颗“超级 ...",
+      "summary": "未登录用户\n\n  \n\n16 条评论\n\n默认\n\n最新\n\nImage 14: 大河我是小溪\n\n大河我是小溪\n\nImage 15\n\n老狼每次的角度都不太一样，这次也一样——别人都在比单卡性能，你直接跳到集群级了。那句\"从单芯片可用到系统可扩展\"挺戳的，国内算力确实走到这个拐点了\n\n3 小时前 · 新疆\n\n​回复​3\n\nImage 16: 月亮\n\n月亮\n\n做互联的来插一句，ICN最难得的其实不是带宽数字，...",
+      "highlights": [
+        "Image 14: 大河我是小溪",
+        "老狼每次的角度都不太一样，这次也一样——别人都在比单卡性能，你直接跳到集群级了",
+        "那句\"从单芯片可用到系统可扩展\"挺戳的，国内算力确实走到这个拐点了"
+      ],
+      "url": "https://zhuanlan.zhihu.com/p/2085707168267907213",
+      "source": "zhuanlan.zhihu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-22T04:00:00Z"
+    },
+    {
+      "id": "ff2ecc6eb01c",
+      "title": "平头哥发布中国最强AI芯片真武V900，将于2027年第一季度 ...",
+      "summary": "平头哥透露，未来几年将持续升级自研CPU微架构，基于第二代自研核的倚天750，将支持平头哥自研ICN片间互联总线协议，倚天CPU与真武AI芯片之间可通过ICN总线直接互联，进一步提升CPU与AI芯片的协同效率。\n\n目前，平头哥已推出真武系列AI芯片、倚天系列服务器CPU、ICN Switch互联芯片、磐脉系列智能网卡、镇岳系列存储主控芯片等数据中心核心芯片，实现算力、网力和存力的全栈自研，并实现全...",
+      "highlights": [
+        "平头哥透露，未来几年将持续升级自研CPU微架构，基于第二代自研核的倚天750，将支持平头哥自研ICN片间互联总线协议，倚天CPU与真武AI芯片之间可通过ICN总线直接互联，进一步提升CPU与AI芯片的协同效率",
+        "目前，平头哥已推出真武系列AI芯片、倚天系列服务器CPU、ICN Switch互联芯片、磐脉系列智能网卡、镇岳系列存储主控芯片等数据中心核心芯片，实现算力、网力和存力的全栈自研，并实现全栈高效协同，为广泛的AI场景提供强大算力",
+        "编辑：张亭旺 [...] 据平头哥透露，真武系列芯片已服务超650家企业客户，覆盖智驾、金融、大模型、具身智能、能源、制造等千行百业，是场景应用最广的中国自研AI芯片之一"
+      ],
+      "url": "https://www.fengkouapp.com/news.html?id=1299742119262687232&type=news",
+      "source": "fengkouapp.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-22T04:00:00Z"
+    },
+    {
+      "id": "84f390cf38a7",
+      "title": "梁文锋押注华为芯片：DeepSeek想解决AI发展的长期瓶颈 - X",
+      "summary": "领先模型需要领先算力,而领先算力主要依赖英伟达GPU。无论是OpenAI、Google、Anthropic,还是国内的大模型公司",
+      "highlights": [
+        "领先模型需要领先算力,而领先算力主要依赖英伟达GPU",
+        "无论是OpenAI、Google、Anthropic,还是国内的大模型公司"
+      ],
+      "url": "https://x.com/MetaEraCN/status/2102269839050162567",
+      "source": "x.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-22T06:00:00Z"
     },
     {
       "id": "7f68e8178481",
@@ -511,6 +554,50 @@
       "category": "投并购",
       "importance": 4,
       "publishedAt": "2026-09-22T01:00:00Z"
+    },
+    {
+      "id": "9798c08cc017",
+      "title": "Agent版Hugging Face来了，openJiuwen发布首个开源智能体资产平台",
+      "summary": "机器之心发布. 过去一年，Agent 的讨论大多围绕模型本身展开：推理能力更强、上下文更长、工具调用更稳定。但进入真实工作流后，另一个问题开始变得更关键：Agent 的",
+      "highlights": [
+        "机器之心发布. 过去一年，Agent 的讨论大多围绕模型本身展开：推理能力更强、上下文更长、工具调用更稳定",
+        "但进入真实工作流后，另一个问题开始变得更关键：Agent 的"
+      ],
+      "url": "https://m.sohu.com/a/1079461668_129720?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-22T08:00:00Z"
+    },
+    {
+      "id": "5a71ab8c25c8",
+      "title": "极佳视界首席科学家朱政：建设“机器人造机器人”产线",
+      "summary": "自动驾驶领域，公司商业化已较为成熟。极佳视界推出自动驾驶世界模型模拟器Drive Dreamer Engine，可生成多视角一致的视频与激光雷达点云数据，完成大区域场景重建，覆盖真实路测难以采集的长尾场景；同时提供闭环仿真环境用于端侧模型的强化学习，可代替部分实车测试，降低测试成本。目前已与多家头部主机厂达成定点与量产合作。\n\n具身智能领域，极佳视界同步推进通用具身大脑GigaBrain与原生本体...",
+      "highlights": [
+        "自动驾驶领域，公司商业化已较为成熟",
+        "极佳视界推出自动驾驶世界模型模拟器Drive Dreamer Engine，可生成多视角一致的视频与激光雷达点云数据，完成大区域场景重建，覆盖真实路测难以采集的长尾场景；同时提供闭环仿真环境用于端侧模型的强化学习，可代替部分实车测试，降低测试成本",
+        "目前已与多家头部主机厂达成定点与量产合作"
+      ],
+      "url": "https://www.cs.com.cn/ssgs/01/2026/09/22/detail_2026092210040802.html",
+      "source": "cs.com.cn",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-22T00:00:00Z"
+    },
+    {
+      "id": "65622051e014",
+      "title": "车企竞逐「造人」",
+      "summary": "对此，奇瑞汽车董事长尹同跃强调，做机器人要把可靠性、成本、寿命做到能批量应用的水平，并在全球真实场景中反复打磨，先验证场景再谈规模。否则，汽车行业过去几年的产能过剩和价格战，可能在机器人领域重演。\n\n第三道坎是场景开放的含金量。整车场景、数据集的开放，涉及安全、责任和利益分配。车企开放工厂、门店等真实场景让机器人\"上岗\"，听起来是好事，但权责怎么算需要规则先行。理想汽车董事长李想提出，“自动驾驶是...",
+      "highlights": [
+        "对此，奇瑞汽车董事长尹同跃强调，做机器人要把可靠性、成本、寿命做到能批量应用的水平，并在全球真实场景中反复打磨，先验证场景再谈规模",
+        "否则，汽车行业过去几年的产能过剩和价格战，可能在机器人领域重演",
+        "第三道坎是场景开放的含金量"
+      ],
+      "url": "https://news.pedaily.cn/202609/569471.shtml",
+      "source": "news.pedaily.cn",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-22T05:54:00Z"
     },
     {
       "id": "c630266bf4a0",
@@ -675,6 +762,80 @@
       "publishedAt": "2026-09-22T04:19:46Z"
     },
     {
+      "id": "4c866f120929",
+      "title": "阿里新一代AI芯片算力提升至上一代的3倍 - 东方财富",
+      "summary": "9月22日，据每日经济新闻，本届云栖大会上，阿里平头哥发布最强国产AI芯片真武V900，算力提升至真武M890的3倍。基于它构建的单一集群可扩展至50万卡，可支撑前沿模型的训练和推理。阿里表示，由于平头哥芯片产品线的成熟和客户的广泛应用，预计年出货量将大幅提升。\n\n　　此外，据界面新闻报道，Meta计划明年上半年部署新款自研AI芯片，称此举将有助于在运行AI模型时节省成本并降低能耗。Meta于20...",
+      "highlights": [
+        "9月22日，据每日经济新闻，本届云栖大会上，阿里平头哥发布最强国产AI芯片真武V900，算力提升至真武M890的3倍",
+        "基于它构建的单一集群可扩展至50万卡，可支撑前沿模型的训练和推理",
+        "阿里表示，由于平头哥芯片产品线的成熟和客户的广泛应用，预计年出货量将大幅提升"
+      ],
+      "url": "https://finance.eastmoney.com/a/202609223881098123.html",
+      "source": "finance.eastmoney.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-21T06:00:00Z"
+    },
+    {
+      "id": "ac39ea93715f",
+      "title": "跨卡通信才是算力天花板：真武V900如何把上千张芯片变成一颗“超级 ...",
+      "summary": "未登录用户\n\n  \n\n16 条评论\n\n默认\n\n最新\n\nImage 14: 大河我是小溪\n\n大河我是小溪\n\nImage 15\n\n老狼每次的角度都不太一样，这次也一样——别人都在比单卡性能，你直接跳到集群级了。那句\"从单芯片可用到系统可扩展\"挺戳的，国内算力确实走到这个拐点了\n\n3 小时前 · 新疆\n\n​回复​3\n\nImage 16: 月亮\n\n月亮\n\n做互联的来插一句，ICN最难得的其实不是带宽数字，...",
+      "highlights": [
+        "Image 14: 大河我是小溪",
+        "老狼每次的角度都不太一样，这次也一样——别人都在比单卡性能，你直接跳到集群级了",
+        "那句\"从单芯片可用到系统可扩展\"挺戳的，国内算力确实走到这个拐点了"
+      ],
+      "url": "https://zhuanlan.zhihu.com/p/2085707168267907213",
+      "source": "zhuanlan.zhihu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-22T04:00:00Z"
+    },
+    {
+      "id": "ff2ecc6eb01c",
+      "title": "平头哥发布中国最强AI芯片真武V900，将于2027年第一季度 ...",
+      "summary": "平头哥透露，未来几年将持续升级自研CPU微架构，基于第二代自研核的倚天750，将支持平头哥自研ICN片间互联总线协议，倚天CPU与真武AI芯片之间可通过ICN总线直接互联，进一步提升CPU与AI芯片的协同效率。\n\n目前，平头哥已推出真武系列AI芯片、倚天系列服务器CPU、ICN Switch互联芯片、磐脉系列智能网卡、镇岳系列存储主控芯片等数据中心核心芯片，实现算力、网力和存力的全栈自研，并实现全...",
+      "highlights": [
+        "平头哥透露，未来几年将持续升级自研CPU微架构，基于第二代自研核的倚天750，将支持平头哥自研ICN片间互联总线协议，倚天CPU与真武AI芯片之间可通过ICN总线直接互联，进一步提升CPU与AI芯片的协同效率",
+        "目前，平头哥已推出真武系列AI芯片、倚天系列服务器CPU、ICN Switch互联芯片、磐脉系列智能网卡、镇岳系列存储主控芯片等数据中心核心芯片，实现算力、网力和存力的全栈自研，并实现全栈高效协同，为广泛的AI场景提供强大算力",
+        "编辑：张亭旺 [...] 据平头哥透露，真武系列芯片已服务超650家企业客户，覆盖智驾、金融、大模型、具身智能、能源、制造等千行百业，是场景应用最广的中国自研AI芯片之一"
+      ],
+      "url": "https://www.fengkouapp.com/news.html?id=1299742119262687232&type=news",
+      "source": "fengkouapp.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-22T04:00:00Z"
+    },
+    {
+      "id": "84f390cf38a7",
+      "title": "梁文锋押注华为芯片：DeepSeek想解决AI发展的长期瓶颈 - X",
+      "summary": "领先模型需要领先算力,而领先算力主要依赖英伟达GPU。无论是OpenAI、Google、Anthropic,还是国内的大模型公司",
+      "highlights": [
+        "领先模型需要领先算力,而领先算力主要依赖英伟达GPU",
+        "无论是OpenAI、Google、Anthropic,还是国内的大模型公司"
+      ],
+      "url": "https://x.com/MetaEraCN/status/2102269839050162567",
+      "source": "x.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-22T06:00:00Z"
+    },
+    {
+      "id": "81a7e10b0e8a",
+      "title": "OpenAI又要融资了：1.2万亿美元估值，谁还敢接下一棒？_投资界",
+      "summary": "若此轮融资估值定为1.2万亿美元，而IPO时估值达到1.5万亿美元。这一数字与外界对Anthropic IPO估值的预测相近，则早期进入者将获得约25%的账面回报。\n\n现有大股东各有各的烦恼\n\n过去几轮融资中，OpenAI已将市场上几乎所有大型机构投资者纳入股东名册。\n\n今年3月宣布的1220亿美元融资中，参与方多达近30家，涵盖T. Rowe Price、Fidelity、BlackRock等资...",
+      "highlights": [
+        "若此轮融资估值定为1.2万亿美元，而IPO时估值达到1.5万亿美元",
+        "这一数字与外界对Anthropic IPO估值的预测相近，则早期进入者将获得约25%的账面回报",
+        "现有大股东各有各的烦恼"
+      ],
+      "url": "https://news.pedaily.cn/202609/569386.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-21T03:14:00Z"
+    },
+    {
       "id": "a9391657f899",
       "title": "Manus AI Targets $4 Billion Valuation as AI Agents Draw Fresh Investor Interest",
       "summary": "Agree & Join LinkedIn\n\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.\n\nSkip to main contentLinkedIn\n   Top Content\n   People\n   Lea...",
@@ -688,121 +849,9 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-09-21T07:35:17Z"
-    },
-    {
-      "id": "ece43f459dba",
-      "title": "豆包跨越「临界点」后，字节AI下一步怎么走？ - 36氪",
-      "summary": "2026 年 2 月 5 日，Anthropic 发布了旗下的最新模型成果 Claude Opus 4.6，并且随之宣布：\n\n在 AI 彻底改变软件编程行业的工作方式后，现在是时候进军更广泛的职场了。\n\n紧接着，这一模型发布之后，多家金融服务公司的股价在当日应声跳水。其中，金融数据和软件公司 FaceSet 跌幅超 8%，创 2020 年 3 月以来新低；老牌信息服务提供商 Thomson Reu...",
-      "highlights": [
-        "2026 年 2 月 5 日，Anthropic 发布了旗下的最新模型成果 Claude Opus 4.6，并且随之宣布：",
-        "在 AI 彻底改变软件编程行业的工作方式后，现在是时候进军更广泛的职场了",
-        "紧接着，这一模型发布之后，多家金融服务公司的股价在当日应声跳水"
-      ],
-      "url": "https://m.36kr.com/p/3867066152713092",
-      "source": "m.36kr.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-21T14:18:49Z"
-    },
-    {
-      "id": "cfff59da9d2a",
-      "title": "Meta’s AI agent has been blocked from using Amazon.com - TechCrunch",
-      "summary": "# Meta’s AI agent has been blocked from using Amazon.com. Sunday night, users of Meta’s AI assistant Muse started getting a strange error message when they tried to buy goods on Amazon. As spotted by ...",
-      "highlights": [
-        "# Meta’s AI agent has been blocked from using Amazon.com. Sunday night, users of Meta’s AI assistant Muse started getting a strange error message when they tried to buy goods on Amazon. As spotted by GeekWire, the error message read: “Continued access by an unauthorized AI agent violates Amazon’s Conditions of Use, to which our customers have agreed.”. In other words, Muse isn’t welcome as a shopper — and anyone trying to buy something on Amazon through the AI agent will have to find it somewhere else. If Muse makes a bad order, Amazon is going to be the one to clean it up — dealing with both the angry customer and the angry vendor. Muse has one of the lower hallucination rates, as AI models go, but it’s still pretty far from zero. Even if Amazon sees an opportunity in agent-driven commerce, they may want to wait a few more release cycles before rolling anything out."
-      ],
-      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "source": "techcrunch.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-21T17:55:18Z"
-    },
-    {
-      "id": "e8082e558a21",
-      "title": "Why Meta Platforms Stock Skyrocketed Today - The Motley Fool",
-      "summary": "▲ S&P 500 **+---%**|▲ Stock Advisor **+---%**Join The Motley Fool. As of 11:22 a.m. ET, the stock was still up 7.1%. The catalyst that sent the social media and artificial intelligence (AI) specialist...",
-      "highlights": [
-        "▲ S&P 500 **+---%**|▲ Stock Advisor **+---%**Join The Motley Fool. As of 11:22 a.m. ET, the stock was still up 7.1%. The catalyst that sent the social media and artificial intelligence (AI) specialist higher was bullish commentary from Wall Street regarding the company's recently launched AI agent. **Wells Fargo** analyst Ken Gawrelski raised its price target on Meta to $796, up from $640, while maintaining an overweight (buy) rating on the shares. The analyst made the move ahead of Meta Connect -- the annual two-day event that kicks off on Wednesday -- which the company uses to showcase its latest advancements in AI. Meta will likely highlight the adoption of Muse, the company's personal AI agent that can perform tasks, rather than just answer questions. Step Aside, Nvidia: 1 Reason Why Meta Platforms Could Be the Best AI Stock to Buy in 2026. A Wall Street analyst highlighted the potential of Muse, the company's personal AI agent."
-      ],
-      "url": "https://www.fool.com/investing/2026/09/21/why-meta-platforms-stock-skyrocketed-today/",
-      "source": "fool.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-09-21T15:30:26Z"
-    },
-    {
-      "id": "ea352cc86789",
-      "title": "Pabau Launches Agent Workforce: AI Employees for Medical Practices - Yahoo Finance",
-      "summary": "2. Best 0% APR cards. 3. Best balance transfer cards. 2. Best high-yield savings accounts. 3. Best money market accounts. Now part of Yahoo Finance Gold. # Pabau Launches Agent Workforce: AI Employees...",
-      "highlights": [
-        "2. Best 0% APR cards. 3. Best balance transfer cards. 2. Best high-yield savings accounts. 3. Best money market accounts. Now part of Yahoo Finance Gold. # Pabau Launches Agent Workforce: AI Employees for Medical Practices. **NEW YORK, September 21, 2026**--(BUSINESS WIRE)--Pabau, the practice management platform used by 3,500+ practices, today announced Pabau Agent Workforce, a new kind of AI hire for medical and aesthetic practices. Practices hire agents by role, with a choice of four agents:. * **An AI Finance Specialist** that watches the sales ledger, and follows up on unpaid or part-paid invoices with the exact amount owed and a secure pay-by-link. * **An AI Marketeer** that reviews the website daily, checks how the practice appears in AI assistants like ChatGPT, replies to reviews and wins back lapsed patients. Pabau is an all-in-one, GDPR- and HIPAA-compliant practice management system covering clinical care, marketing, operations, and patient engagement, used by 3,500+ practices across medical aesthetics and wider healthcare in the US and in 40+ countries globally."
-      ],
-      "url": "https://finance.yahoo.com/healthcare/articles/pabau-launches-agent-workforce-ai-132300794.html",
-      "source": "finance.yahoo.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-21T13:23:00Z"
-    },
-    {
-      "id": "2437985ecc46",
-      "title": "Meta's Muse gives Zuckerberg another shot at building a real platform - Business Insider",
-      "summary": "Meta's new personal AI agent, Muse, gives Mark Zuckerberg another chance to build the kind of technology platform he has chased for years. Muse jumped to the top of the App Store last week and remaine...",
-      "highlights": [
-        "Meta's new personal AI agent, Muse, gives Mark Zuckerberg another chance to build the kind of technology platform he has chased for years. Muse jumped to the top of the App Store last week and remained the most downloaded free app on Monday, beating ChatGPT. If enough people use Muse as their main way to get things done online, developers could flock to the nascent platform, and businesses may have little choice but to engage with it. Investors appear to be betting the company has found a new way to sit between consumers and the businesses trying to reach them. Part of that ambition came into focus in 2021 when Apple made it harder for Meta to track people across apps and target ads, reminding Zuckerberg how much power platform owners have over companies that depend on them. Last week, the company opened Muse to outside developers through a new connector platform that lets businesses plug their services directly into the AI agent. Developers can create their own Muse connectors and submit them to Meta's agent platform for review."
-      ],
-      "url": "https://www.businessinsider.com/meta-muse-mark-zuckerberg-platform-opportunity-developers-2026-9",
-      "source": "businessinsider.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-21T22:16:36Z"
     }
   ],
   "month": [
-    {
-      "id": "68d606ca3eba",
-      "title": "沙利文联合头豹正式发布《2026年全球桌面AI智能体市场研究报告》",
-      "summary": "logo\n\n数字基础设施消费电子双碳新能源医疗与生命科学餐饮与新零售半导体与芯片智能家居汽车与出行公共服务食品与饮料科技、媒体和通信金融科技地产与物业矿业冶炼美容时尚大数据与人工智能物流与供应链建筑科技与装饰装潢特种新材料文化娱乐企业级服务跨境电商贸易基础设施建设环保节能科技教育与培训航运及港口母婴农林牧渔园林绿化商业航空\n\n公司介绍中国管理团队表现与影响战略合作伙伴专家委员会沙利文中国分支机构\n...",
-      "highlights": [
-        "数字基础设施消费电子双碳新能源医疗与生命科学餐饮与新零售半导体与芯片智能家居汽车与出行公共服务食品与饮料科技、媒体和通信金融科技地产与物业矿业冶炼美容时尚大数据与人工智能物流与供应链建筑科技与装饰装潢特种新材料文化娱乐企业级服务跨境电商贸易基础设施建设环保节能科技教育与培训航运及港口母婴农林牧渔园林绿化商业航空",
-        "公司介绍中国管理团队表现与影响战略合作伙伴专家委员会沙利文中国分支机构",
-        "# 沙利文联合头豹正式发布《2026年全球桌面AI智能体市场研究报告》"
-      ],
-      "url": "https://www.frostchina.com/content/insight/detail/6aaf47ac4dda55b7257a42fa",
-      "source": "frostchina.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-20T03:00:00Z"
-    },
-    {
-      "id": "764357ee2c6b",
-      "title": "车企集体造“人”，下一站是汽车工厂",
-      "summary": "车企集体造“人”，下一站是汽车工厂\n汽车\n\n# 车企集体造“人”，下一站是汽车工厂\n\n「 具身智能从只会跳舞到可以干活 」\n\n作者 | 龚宸芫\n\n编辑 | 李国政\n\n出品 | 帮宁工作室（gbngzs）\n\n“这是我每次出去演讲都用的一张图，对我本人的影响也很大。”\n\n9月18日，天津，在第22届泰达论坛“新赛道生态专场：具身智能新赛道”专场，长安汽车首席专家、长安天枢智能机器人公司总经理谭欢作演讲...",
-      "highlights": [
-        "车企集体造“人”，下一站是汽车工厂",
-        "# 车企集体造“人”，下一站是汽车工厂",
-        "「 具身智能从只会跳舞到可以干活 」"
-      ],
-      "url": "https://auto.ifeng.com/c/8wZJigBzxjc",
-      "source": "auto.ifeng.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-20T01:37:48Z"
-    },
-    {
-      "id": "2b61e195a0e5",
-      "title": "T早报｜特朗普让网民投票为AI改名；Anthropic、OpenAI等AI巨头遭用户诉讼；飞猪、同程等四家酒旅平台被立案",
-      "summary": "财新传媒\n财新传媒\n手机碎片接口\n1111111\n\n# T早报｜特朗普让网民投票为AI改名；Anthropic、OpenAI等AI巨头遭用户诉讼；飞猪、同程等四家酒旅平台被立案\n\nnews\n\n【财新网】\n\nOPPO、vivo和荣耀发新操作系统 强调适配智能体\n\n　　近一周内，OPPO、vivo和荣耀三家手机厂商都召开了开发者大会，并同步推出最新的操作系统。荣耀在开发者大会上发布了最新操作系统Mag...",
-      "highlights": [
-        "# T早报｜特朗普让网民投票为AI改名；Anthropic、OpenAI等AI巨头遭用户诉讼；飞猪、同程等四家酒旅平台被立案",
-        "OPPO、vivo和荣耀发新操作系统 强调适配智能体",
-        "近一周内，OPPO、vivo和荣耀三家手机厂商都召开了开发者大会，并同步推出最新的操作系统"
-      ],
-      "url": "https://m.caixin.com/m/2026-09-20/102486676.html",
-      "source": "m.caixin.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-20T01:00:00Z"
-    },
     {
       "id": "6dc7e4c9b513",
       "title": "造车新势力集体跨界机器人，为啥不好好造车去造“人”？ - 21经济网",
@@ -906,6 +955,51 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-09-21T13:00:00Z"
+    },
+    {
+      "id": "0ae9e677c7bf",
+      "title": "【明日主题前瞻】伴随推理侧需求爆发，ASIC芯片出货迎来加速期",
+      "summary": "摩根大通最新报告预计，2027年ASIC/XPU在AI加速器单元出货中的占比将升至54%，超过GPU；2028年进一步升至55%。其预计，2026年定制AI ASIC市场规模约600亿至700亿美元，未来数年复合增速超过40%至50%。目前博通和Marvell占据约90%的市占，其中博通约80%至85%，市场集中度较高。\n\n国信证券研报认为，伴随推理侧需求爆发，各公司自研芯片能力验证成熟，ASIC...",
+      "highlights": [
+        "摩根大通最新报告预计，2027年ASIC/XPU在AI加速器单元出货中的占比将升至54%，超过GPU；2028年进一步升至55%",
+        "其预计，2026年定制AI ASIC市场规模约600亿至700亿美元，未来数年复合增速超过40%至50%",
+        "目前博通和Marvell占据约90%的市占，其中博通约80%至85%，市场集中度较高"
+      ],
+      "url": "https://www.cls.cn/detail/2488882",
+      "source": "cls.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-21T11:00:00Z"
+    },
+    {
+      "id": "524f7602cd08",
+      "title": "微软和高盛齐呼：AI利润下一站，应用层！恒生互联网的AI应用价值尚未充分定价",
+      "summary": "更具战略意义的是WorkBuddy的连续迭代。9月2日，WorkBuddy开放平台正式上线，首批引入超百家生态伙伴，面向智能硬件、行业应用与开发者开放底层Agent能力。9月18日，WorkBuddy进一步上线“应用生成能力”——用户只需用自然语言描述需求，就能生成自带云数据库、文件存储、用户注册登录与AI调用能力的完整网站应用，并可一键发布上线。从“AI助手”到“Agent操作系统”，腾讯正在将...",
+      "highlights": [
+        "更具战略意义的是WorkBuddy的连续迭代",
+        "9月2日，WorkBuddy开放平台正式上线，首批引入超百家生态伙伴，面向智能硬件、行业应用与开发者开放底层Agent能力",
+        "9月18日，WorkBuddy进一步上线“应用生成能力”——用户只需用自然语言描述需求，就能生成自带云数据库、文件存储、用户注册登录与AI调用能力的完整网站应用，并可一键发布上线"
+      ],
+      "url": "https://www.caiwennews.com/article/1616087.shtml",
+      "source": "caiwennews.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-21T13:58:56Z"
+    },
+    {
+      "id": "58120709a9bd",
+      "title": "全球资金、创新资源潮涌上海，资本如何成就生物医药下一个十年_行业动态_投资界",
+      "summary": "投资界24h | 智元抢先开演机器人晚会；马斯克：是时候大规模重返月球了；惠州首富，一笔神奇回报200亿\n\n### 创投号\n\n 杨继云\n\n  杨继云\n\n  + 关注;)\n\n  纪源资本，一家老牌VC回报20亿\n 硅谷101\n\n  硅谷101\n\n  + 关注;)\n\n  深度拆解Clawdbot\n 极客公园\n\n  极客公园\n\n  + 关注;)\n\n  程序员已经用不起 Claude 了\n 量子位\n\n  ...",
+      "highlights": [
+        "投资界24h | 智元抢先开演机器人晚会；马斯克：是时候大规模重返月球了；惠州首富，一笔神奇回报200亿",
+        "纪源资本，一家老牌VC回报20亿",
+        "深度拆解Clawdbot"
+      ],
+      "url": "https://news.pedaily.cn/20260920/139365.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-20T18:00:00Z"
     }
   ]
 }
