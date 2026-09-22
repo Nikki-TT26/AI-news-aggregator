@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-09-22T12:01:23Z",
+  "updatedAt": "2026-09-22T18:01:43Z",
   "latest": [
-    {
-      "id": "23725182d84f",
-      "title": "沙利文发布2026年智能体市场研究报告：WorkBuddy稳居企业级 - 财闻",
-      "summary": "首页 正文\n\n# 沙利文发布2026年智能体市场研究报告：WorkBuddy稳居企业级、个人应用双榜第一\n\n财闻   顾群生  2026-09-20 16:24:48\n\n沙利文榜单\n\n沙利文榜单\n\n报告还将WorkBuddy列入面向企业的原生AI智能体产品，并与Claude Cowork等产品一同分析。沙利文认为，智能体执行框架（Harness）是桌面AI智能体的重要竞争因素，并将WorkBudd...",
-      "highlights": [
-        "# 沙利文发布2026年智能体市场研究报告：WorkBuddy稳居企业级、个人应用双榜第一",
-        "财闻   顾群生  2026-09-20 16:24:48",
-        "报告还将WorkBuddy列入面向企业的原生AI智能体产品，并与Claude Cowork等产品一同分析"
-      ],
-      "url": "https://www.caiwennews.com/article/1614713.shtml",
-      "source": "caiwennews.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-20T16:24:48Z"
-    },
     {
       "id": "6efa6e2bb42f",
       "title": "是美国的4.7倍！中国AI大模型周调用量连续二十一周领跑：DeepSeek V4.1-Flash登顶，环比增长219%",
@@ -30,21 +15,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-09-21T03:00:00Z"
-    },
-    {
-      "id": "343f758e39e4",
-      "title": "2nm一片三万美金，台积电把卖方市场焊死了_搜狐网",
-      "summary": "## 2nm一片三万美金，台积电把卖方市场焊死了\n\n通信世界\n\n通信世界\n\n2026年9月，半导体供应链传出一个标志性信号：台积电将2nm晶圆代工报价定在3万美元/片，较当前3nm制程约2万美元的价格高出50%。这并非一次简单的价格上调，而是先进制程供需格局进入新阶段的明确信号——3nm订单排至2027年，急单溢价高达50%至100%，先进制程的“卖方市场”特征已经完整显现。对正处于AI算力建设周...",
-      "highlights": [
-        "## 2nm一片三万美金，台积电把卖方市场焊死了",
-        "2026年9月，半导体供应链传出一个标志性信号：台积电将2nm晶圆代工报价定在3万美元/片，较当前3nm制程约2万美元的价格高出50%",
-        "这并非一次简单的价格上调，而是先进制程供需格局进入新阶段的明确信号——3nm订单排至2027年，急单溢价高达50%至100%，先进制程的“卖方市场”特征已经完整显现"
-      ],
-      "url": "https://m.sohu.com/a/1078597259_128075?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-20T15:45:00Z"
     },
     {
       "id": "cd957077b472",
@@ -90,36 +60,6 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-09-21T13:58:56Z"
-    },
-    {
-      "id": "58120709a9bd",
-      "title": "全球资金、创新资源潮涌上海，资本如何成就生物医药下一个十年_行业动态_投资界",
-      "summary": "投资界24h | 智元抢先开演机器人晚会；马斯克：是时候大规模重返月球了；惠州首富，一笔神奇回报200亿\n\n### 创投号\n\n 杨继云\n\n  杨继云\n\n  + 关注;)\n\n  纪源资本，一家老牌VC回报20亿\n 硅谷101\n\n  硅谷101\n\n  + 关注;)\n\n  深度拆解Clawdbot\n 极客公园\n\n  极客公园\n\n  + 关注;)\n\n  程序员已经用不起 Claude 了\n 量子位\n\n  ...",
-      "highlights": [
-        "投资界24h | 智元抢先开演机器人晚会；马斯克：是时候大规模重返月球了；惠州首富，一笔神奇回报200亿",
-        "纪源资本，一家老牌VC回报20亿",
-        "深度拆解Clawdbot"
-      ],
-      "url": "https://news.pedaily.cn/20260920/139365.shtml",
-      "source": "news.pedaily.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-20T18:00:00Z"
-    },
-    {
-      "id": "629a9a78c82e",
-      "title": "OpenAI's Cash Burn, Google's Rogue AI, Spacex's FCC Nod and More: This Week in Tech — TradingView News",
-      "summary": "Google’s Gemini AI model, a product of Alphabet Inc., breached the systems of three companies during a cybersecurity test. The AI model accessed the internet and went rogue, marking Google as the late...",
-      "highlights": [
-        "Google’s Gemini AI model, a product of Alphabet Inc., breached the systems of three companies during a cybersecurity test. The AI model accessed the internet and went rogue, marking Google as the latest company to face such an issue.",
-        "Read the full article here.",
-        "Read Also:  Elon Musk’s Tesla And SpaceX Sue Nanotech Firm TERA-Print Over ‘Terafab’ Name For Planned $16.8 Billion Texas AI Chip Factory"
-      ],
-      "url": "https://www.tradingview.com/news/benzinga:7a0e10a17094b:0-openai-s-cash-burn-google-s-rogue-ai-spacex-s-fcc-nod-and-more-this-week-in-tech",
-      "source": "tradingview.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-20T13:00:28Z"
     },
     {
       "id": "946eae874c41",
@@ -269,34 +209,109 @@
       "publishedAt": "2026-09-21T03:14:00Z"
     },
     {
-      "id": "f94e9a6f786a",
-      "title": "网易有道发布AI Agent全景生态",
-      "summary": "[](\n\n 时政\n 热点\n 政务\n 深瞳\n 访谈\n 视频\n 国际\n 地方\n 专题\n English\n 滚动\n\n[](  登录 -\n\n所在位置： 中国科技网首页 > 滚动 > 正文\n\n# 网易有道发布AI Agent全景生态\n\n2026-09-20 20:30:43 来源:  科技日报  点击数：\n\n科技日报记者 裴宸纬\n\n近日，网易有道“NEXT，AGENT｜有道AI Open Day”在北京举办...",
+      "id": "68e1ae3afd92",
+      "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数|Qwen 3|云栖大会|阿里巴巴|世界模型|千问_手机新浪网",
+      "summary": "此外，同声传译模型Qwen3.8-LiveTranslate首次登场，人类同传平均时延在4秒以上，但该模型可将时延压缩至不到2.5秒。据了解，新模型已接入千问AI眼镜、QwenNote A2、钉钉耳机等AI硬件。\n\n阿里大模型加速走向终端。AI手机全栈解决方案Qwen Intelligence发布，专为手机场景深度优化，为合作伙伴提供基于千问大模型的 Agent 技术平台，让手机能够更可靠地完成跨...",
       "highlights": [
-        "所在位置： 中国科技网首页 > 滚动 > 正文",
-        "# 网易有道发布AI Agent全景生态",
-        "2026-09-20 20:30:43 来源:  科技日报  点击数："
+        "此外，同声传译模型Qwen3.8-LiveTranslate首次登场，人类同传平均时延在4秒以上，但该模型可将时延压缩至不到2.5秒",
+        "据了解，新模型已接入千问AI眼镜、QwenNote A2、钉钉耳机等AI硬件",
+        "阿里大模型加速走向终端"
       ],
-      "url": "https://www.stdaily.com/web/gdxw/2026-09/20/content_584697.html",
-      "source": "stdaily.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-20T13:00:00Z"
+      "url": "https://news.sina.cn/ai/2026-09-22/detail-inissitp2251202.d.html?vt=4&wm=1029%3Fq",
+      "source": "news.sina.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-22T12:05:38Z"
     },
     {
-      "id": "3a915f19e48d",
-      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal ...",
-      "summary": "This follows Anthropic CEO's essay urging for industry-wide cooperation on slowing down speed of AI development due top existential risks of powerful AI models. These developments are relevant to the ...",
+      "id": "7f66e9b44d46",
+      "title": "Qwen4已在训练，下一代视频生成模型将于11月发布 - 财闻",
+      "summary": "首页 正文\n\n# 阿里大模型全面提速：Qwen4已在训练，下一代视频生成模型将于11月发布\n\n财闻   张晓迪  2026-09-22 11:58:32\n\n财闻 张晓迪 发自杭州\n\n阿里巴巴（BABA.US）正以“更高智能”与“极致性价比”为目标，加速向通用人工智能（AGI）乃至超级人工智能（ASI）迈进。\n\n本届云栖大会最受关注的焦点之一是阿里大语言模型系列的迭代路线图。Qwen LLM项目负责...",
       "highlights": [
-        "This follows Anthropic CEO's essay urging for industry-wide cooperation on slowing down speed of AI development due top existential risks of powerful AI models. These developments are relevant to the topic of AI discussion on this forum.",
-        ". These companies are also made up of humans who, individually, very much want to live. [...] Skip to main contentLawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown : r/slatestarcodex",
-        "Open menu Open navigation made an illegal deal to slow the pace of their respective AI development, violating antitrust laws, and that doing so would reduce the value consumers get for paid AI subscriptions. [...] The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier | Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?Image 60 r/law•2mo ago    ### The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier | Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law"
+        "# 阿里大模型全面提速：Qwen4已在训练，下一代视频生成模型将于11月发布",
+        "财闻   张晓迪  2026-09-22 11:58:32",
+        "财闻 张晓迪 发自杭州"
       ],
-      "url": "https://www.reddit.com/r/slatestarcodex/comments/1wlfw7l/lawsuit_says_anthropic_openai_spacexai_and_google",
-      "source": "reddit.com",
+      "url": "https://www.caiwennews.com/article/1618841.shtml",
+      "source": "caiwennews.com",
       "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-20T13:00:00Z"
+      "importance": 5,
+      "publishedAt": "2026-09-22T11:58:32Z"
+    },
+    {
+      "id": "e243afbce076",
+      "title": "Meta Muse点燃芯片股！最强国产AI芯片，阿里平头哥真武V900亮相！单集群可扩展至50万卡！芯片ETF汇添富(516920)标的指数一度涨超3%",
+      "summary": "摩根大通最新报告预计，2027年ASIC/XPU在AI加速器单元出货中的占比将升至54%，超过GPU；2028年进一步升至55%。其预计，2026年定制AI ASIC市场规模约600亿至700亿美元，未来数年复合增速超过40%至50%。目前博通和Marvell占据约90%的市占，其中博通约80%至85%，市场集中度较高。\n\n国信证券认为，伴随推理侧需求爆发，各公司自研芯片能力验证成熟，ASIC出货...",
+      "highlights": [
+        "摩根大通最新报告预计，2027年ASIC/XPU在AI加速器单元出货中的占比将升至54%，超过GPU；2028年进一步升至55%",
+        "其预计，2026年定制AI ASIC市场规模约600亿至700亿美元，未来数年复合增速超过40%至50%",
+        "目前博通和Marvell占据约90%的市占，其中博通约80%至85%，市场集中度较高"
+      ],
+      "url": "https://www.jiemian.com/article/15126716.html",
+      "source": "jiemian.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-22T06:00:00Z"
+    },
+    {
+      "id": "928f284e1ea3",
+      "title": "300324“20CM”涨停！云栖大会引爆AI芯片概念！",
+      "summary": "第二，华为昇腾的持续催化。\n\n9月17日华为已正式发布昇腾960超节点——全球首个采用NPO近封装光学技术的超节点产品，单节点可扩展至4096卡，FP8算力8EFLOPS，HBM容量高达1PB。今天盘中有消息称昇腾960超节点进展超此前预期，这意味着国产算力芯片可能更快迎来出货上升期，竞争逻辑也从\"单卡性能\"转向\"系统效率\"。叠加今天龙芯中科发布支持自研通用GPU的\"龙芯加速计算平台\"首个软件版本...",
+      "highlights": [
+        "第二，华为昇腾的持续催化",
+        "9月17日华为已正式发布昇腾960超节点——全球首个采用NPO近封装光学技术的超节点产品，单节点可扩展至4096卡，FP8算力8EFLOPS，HBM容量高达1PB",
+        "今天盘中有消息称昇腾960超节点进展超此前预期，这意味着国产算力芯片可能更快迎来出货上升期，竞争逻辑也从\"单卡性能\"转向\"系统效率\""
+      ],
+      "url": "https://static.weeklyonstock.com/26/0922/zbf152827.html",
+      "source": "static.weeklyonstock.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-22T07:00:00Z"
+    },
+    {
+      "id": "f4c9f4601c71",
+      "title": "AI新的\"杀手级应用\"出现了？Meta Muse有多火？ - 华尔街见闻",
+      "summary": "### 大家都在搜\n\n# AI新的\"杀手级应用\"出现了？Meta Muse有多火？\n\nMeta旗下AI个人智能体应用Muse上线不足两周，已在下载量和日活用户数两项关键指标上超越ChatGPT同期表现，引发市场对AI代理（AI agent）能否真正走向大众的强烈期待。\n\nMuse上线仅约五天便录得73万次下载，累计下载量在12天内突破280万次，并于上周五登顶美国iOS免费应用榜首，超越ChatG...",
+      "highlights": [
+        "# AI新的\"杀手级应用\"出现了",
+        "Meta Muse有多火",
+        "Meta旗下AI个人智能体应用Muse上线不足两周，已在下载量和日活用户数两项关键指标上超越ChatGPT同期表现，引发市场对AI代理（AI agent）能否真正走向大众的强烈期待"
+      ],
+      "url": "https://wallstreetcn.com/articles/3782258",
+      "source": "wallstreetcn.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-22T00:07:05Z"
+    },
+    {
+      "id": "0031bea25b60",
+      "title": "“帮你干活”的AI大火，扎克伯格身家一夜暴增1675亿元，美股芯片股也被带着起飞 | 每日经济新闻",
+      "summary": "Meta今年预计资本支出规模最高可达1450亿美元，大量资金投入AI数据中心、芯片和模型研发。Muse的快速增长意味着，Meta的AI投入开始出现一个真正具备大规模消费端入口潜力的产品。市场甚至已经开始提前计算它可能带来的收入空间。\n\n## 不只是聊天\n\n## Muse替用户“办事”：发邮件、购物……\n\nMeta将Muse定位为“个人AI智能体”（personal AI agent）。用户不只可以...",
+      "highlights": [
+        "Meta今年预计资本支出规模最高可达1450亿美元，大量资金投入AI数据中心、芯片和模型研发",
+        "Muse的快速增长意味着，Meta的AI投入开始出现一个真正具备大规模消费端入口潜力的产品",
+        "市场甚至已经开始提前计算它可能带来的收入空间"
+      ],
+      "url": "https://www.mrjjxw.com/articles/2026-09-22/4589266.html",
+      "source": "mrjjxw.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-22T13:00:00Z"
+    },
+    {
+      "id": "deac8e379267",
+      "title": "易鑫与北大三篇合作论文入选国际顶会EMNLP 2026-AI云资讯",
+      "summary": "### AI技术\n\n更多>>\n\n 阶跃这次够狠：AA 全球开源前二，价格打到 Claude 的 1/8\n 科大讯飞发布Spark-Audio-1.0-Preview，全国产语音基座大模型实现从“听清”到“听懂”\n 全球最强开源模型 Kimi K3 发布，参数规模 3 万亿，真的是强！\n 范式变革！东软发布AI原生软件工程白皮书，重构软件产业底层逻辑\n KAT-Coder-Pro V2.5正式发布：...",
+      "highlights": [
+        "阶跃这次够狠：AA 全球开源前二，价格打到 Claude 的 1/8",
+        "科大讯飞发布Spark-Audio-1.0-Preview，全国产语音基座大模型实现从“听清”到“听懂”",
+        "全球最强开源模型 Kimi K3 发布，参数规模 3 万亿，真的是强"
+      ],
+      "url": "https://www.icloudnews.net/a/123019.html",
+      "source": "icloudnews.net",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-22T11:00:00Z"
     },
     {
       "id": "a9391657f899",
@@ -420,20 +435,6 @@
       "category": "芯片硬件",
       "importance": 4,
       "publishedAt": "2026-09-22T04:20:38Z"
-    },
-    {
-      "id": "6fbf6e6bd112",
-      "title": "3倍性能最强芯片、10万亿参数模型、20GW数据中心……阿里云栖大会“火力全开”",
-      "summary": "《科创板日报》9月22日讯（记者黄心怡）在今日举行的2026杭州云栖大会期间，围绕“AI模型、AI芯片、AI云”三大方向，阿里公布最新进展。 其中，阿里平头哥发布目前中国算",
-      "highlights": [
-        "《科创板日报》9月22日讯（记者黄心怡）在今日举行的2026杭州云栖大会期间，围绕“AI模型、AI芯片、AI云”三大方向，阿里公布最新进展",
-        "其中，阿里平头哥发布目前中国算"
-      ],
-      "url": "https://www.cls.cn/detail/2489879",
-      "source": "cls.cn",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-09-22T05:00:00Z"
     }
   ],
   "today": [
@@ -510,6 +511,111 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-22T06:00:00Z"
+    },
+    {
+      "id": "68e1ae3afd92",
+      "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数|Qwen 3|云栖大会|阿里巴巴|世界模型|千问_手机新浪网",
+      "summary": "此外，同声传译模型Qwen3.8-LiveTranslate首次登场，人类同传平均时延在4秒以上，但该模型可将时延压缩至不到2.5秒。据了解，新模型已接入千问AI眼镜、QwenNote A2、钉钉耳机等AI硬件。\n\n阿里大模型加速走向终端。AI手机全栈解决方案Qwen Intelligence发布，专为手机场景深度优化，为合作伙伴提供基于千问大模型的 Agent 技术平台，让手机能够更可靠地完成跨...",
+      "highlights": [
+        "此外，同声传译模型Qwen3.8-LiveTranslate首次登场，人类同传平均时延在4秒以上，但该模型可将时延压缩至不到2.5秒",
+        "据了解，新模型已接入千问AI眼镜、QwenNote A2、钉钉耳机等AI硬件",
+        "阿里大模型加速走向终端"
+      ],
+      "url": "https://news.sina.cn/ai/2026-09-22/detail-inissitp2251202.d.html?vt=4&wm=1029%3Fq",
+      "source": "news.sina.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-22T12:05:38Z"
+    },
+    {
+      "id": "7f66e9b44d46",
+      "title": "Qwen4已在训练，下一代视频生成模型将于11月发布 - 财闻",
+      "summary": "首页 正文\n\n# 阿里大模型全面提速：Qwen4已在训练，下一代视频生成模型将于11月发布\n\n财闻   张晓迪  2026-09-22 11:58:32\n\n财闻 张晓迪 发自杭州\n\n阿里巴巴（BABA.US）正以“更高智能”与“极致性价比”为目标，加速向通用人工智能（AGI）乃至超级人工智能（ASI）迈进。\n\n本届云栖大会最受关注的焦点之一是阿里大语言模型系列的迭代路线图。Qwen LLM项目负责...",
+      "highlights": [
+        "# 阿里大模型全面提速：Qwen4已在训练，下一代视频生成模型将于11月发布",
+        "财闻   张晓迪  2026-09-22 11:58:32",
+        "财闻 张晓迪 发自杭州"
+      ],
+      "url": "https://www.caiwennews.com/article/1618841.shtml",
+      "source": "caiwennews.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-22T11:58:32Z"
+    },
+    {
+      "id": "e243afbce076",
+      "title": "Meta Muse点燃芯片股！最强国产AI芯片，阿里平头哥真武V900亮相！单集群可扩展至50万卡！芯片ETF汇添富(516920)标的指数一度涨超3%",
+      "summary": "摩根大通最新报告预计，2027年ASIC/XPU在AI加速器单元出货中的占比将升至54%，超过GPU；2028年进一步升至55%。其预计，2026年定制AI ASIC市场规模约600亿至700亿美元，未来数年复合增速超过40%至50%。目前博通和Marvell占据约90%的市占，其中博通约80%至85%，市场集中度较高。\n\n国信证券认为，伴随推理侧需求爆发，各公司自研芯片能力验证成熟，ASIC出货...",
+      "highlights": [
+        "摩根大通最新报告预计，2027年ASIC/XPU在AI加速器单元出货中的占比将升至54%，超过GPU；2028年进一步升至55%",
+        "其预计，2026年定制AI ASIC市场规模约600亿至700亿美元，未来数年复合增速超过40%至50%",
+        "目前博通和Marvell占据约90%的市占，其中博通约80%至85%，市场集中度较高"
+      ],
+      "url": "https://www.jiemian.com/article/15126716.html",
+      "source": "jiemian.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-22T06:00:00Z"
+    },
+    {
+      "id": "928f284e1ea3",
+      "title": "300324“20CM”涨停！云栖大会引爆AI芯片概念！",
+      "summary": "第二，华为昇腾的持续催化。\n\n9月17日华为已正式发布昇腾960超节点——全球首个采用NPO近封装光学技术的超节点产品，单节点可扩展至4096卡，FP8算力8EFLOPS，HBM容量高达1PB。今天盘中有消息称昇腾960超节点进展超此前预期，这意味着国产算力芯片可能更快迎来出货上升期，竞争逻辑也从\"单卡性能\"转向\"系统效率\"。叠加今天龙芯中科发布支持自研通用GPU的\"龙芯加速计算平台\"首个软件版本...",
+      "highlights": [
+        "第二，华为昇腾的持续催化",
+        "9月17日华为已正式发布昇腾960超节点——全球首个采用NPO近封装光学技术的超节点产品，单节点可扩展至4096卡，FP8算力8EFLOPS，HBM容量高达1PB",
+        "今天盘中有消息称昇腾960超节点进展超此前预期，这意味着国产算力芯片可能更快迎来出货上升期，竞争逻辑也从\"单卡性能\"转向\"系统效率\""
+      ],
+      "url": "https://static.weeklyonstock.com/26/0922/zbf152827.html",
+      "source": "static.weeklyonstock.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-22T07:00:00Z"
+    },
+    {
+      "id": "f4c9f4601c71",
+      "title": "AI新的\"杀手级应用\"出现了？Meta Muse有多火？ - 华尔街见闻",
+      "summary": "### 大家都在搜\n\n# AI新的\"杀手级应用\"出现了？Meta Muse有多火？\n\nMeta旗下AI个人智能体应用Muse上线不足两周，已在下载量和日活用户数两项关键指标上超越ChatGPT同期表现，引发市场对AI代理（AI agent）能否真正走向大众的强烈期待。\n\nMuse上线仅约五天便录得73万次下载，累计下载量在12天内突破280万次，并于上周五登顶美国iOS免费应用榜首，超越ChatG...",
+      "highlights": [
+        "# AI新的\"杀手级应用\"出现了",
+        "Meta Muse有多火",
+        "Meta旗下AI个人智能体应用Muse上线不足两周，已在下载量和日活用户数两项关键指标上超越ChatGPT同期表现，引发市场对AI代理（AI agent）能否真正走向大众的强烈期待"
+      ],
+      "url": "https://wallstreetcn.com/articles/3782258",
+      "source": "wallstreetcn.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-22T00:07:05Z"
+    },
+    {
+      "id": "0031bea25b60",
+      "title": "“帮你干活”的AI大火，扎克伯格身家一夜暴增1675亿元，美股芯片股也被带着起飞 | 每日经济新闻",
+      "summary": "Meta今年预计资本支出规模最高可达1450亿美元，大量资金投入AI数据中心、芯片和模型研发。Muse的快速增长意味着，Meta的AI投入开始出现一个真正具备大规模消费端入口潜力的产品。市场甚至已经开始提前计算它可能带来的收入空间。\n\n## 不只是聊天\n\n## Muse替用户“办事”：发邮件、购物……\n\nMeta将Muse定位为“个人AI智能体”（personal AI agent）。用户不只可以...",
+      "highlights": [
+        "Meta今年预计资本支出规模最高可达1450亿美元，大量资金投入AI数据中心、芯片和模型研发",
+        "Muse的快速增长意味着，Meta的AI投入开始出现一个真正具备大规模消费端入口潜力的产品",
+        "市场甚至已经开始提前计算它可能带来的收入空间"
+      ],
+      "url": "https://www.mrjjxw.com/articles/2026-09-22/4589266.html",
+      "source": "mrjjxw.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-22T13:00:00Z"
+    },
+    {
+      "id": "deac8e379267",
+      "title": "易鑫与北大三篇合作论文入选国际顶会EMNLP 2026-AI云资讯",
+      "summary": "### AI技术\n\n更多>>\n\n 阶跃这次够狠：AA 全球开源前二，价格打到 Claude 的 1/8\n 科大讯飞发布Spark-Audio-1.0-Preview，全国产语音基座大模型实现从“听清”到“听懂”\n 全球最强开源模型 Kimi K3 发布，参数规模 3 万亿，真的是强！\n 范式变革！东软发布AI原生软件工程白皮书，重构软件产业底层逻辑\n KAT-Coder-Pro V2.5正式发布：...",
+      "highlights": [
+        "阶跃这次够狠：AA 全球开源前二，价格打到 Claude 的 1/8",
+        "科大讯飞发布Spark-Audio-1.0-Preview，全国产语音基座大模型实现从“听清”到“听懂”",
+        "全球最强开源模型 Kimi K3 发布，参数规模 3 万亿，真的是强"
+      ],
+      "url": "https://www.icloudnews.net/a/123019.html",
+      "source": "icloudnews.net",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-22T11:00:00Z"
     },
     {
       "id": "7f68e8178481",
@@ -600,6 +706,21 @@
       "publishedAt": "2026-09-22T05:54:00Z"
     },
     {
+      "id": "786de4d0d056",
+      "title": "一场“蠡湖之约”，见证机器人的能力跃迁_凤凰网",
+      "summary": "在他看来，二者都强调在真实物理环境中感知、决策与执行的一体化能力，无人驾驶是物理智能踏出的坚实的第一步，而自主演进的具身智能，是这条主线的下一程。今年，AIR 新孵化的“域变换”项目正是这条主线上的最新落子。张亚勤描绘了未来的图景：将自进化具身大脑 Z-Brain 与 AIR ApolloFM 的能力结合，打造“一脑多形”的具身智能平台——轮式、四足机器人凭借高移动性、高稳定性服务巡检、抢险场景；...",
+      "highlights": [
+        "在他看来，二者都强调在真实物理环境中感知、决策与执行的一体化能力，无人驾驶是物理智能踏出的坚实的第一步，而自主演进的具身智能，是这条主线的下一程",
+        "今年，AIR 新孵化的“域变换”项目正是这条主线上的最新落子",
+        "张亚勤描绘了未来的图景：将自进化具身大脑 Z-Brain 与 AIR ApolloFM 的能力结合，打造“一脑多形”的具身智能平台——轮式、四足机器人凭借高移动性、高稳定性服务巡检、抢险场景；人形机器人以高通用性走进家庭；正在推进的 Apollo Sea 项目则将打造 Ocean Robot，服务水上与水下的各类任务场景"
+      ],
+      "url": "https://finance.ifeng.com/c/8wcl6SCCGMe",
+      "source": "finance.ifeng.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-22T09:19:38Z"
+    },
+    {
       "id": "c630266bf4a0",
       "title": "阿里巴巴发布新款AI芯片，勾勒更大规模模型发展蓝图",
       "summary": "阿里巴巴旗下芯片设计部门平头哥发布了最新AI芯片“真武V900”，其性能达到5月发布的前代产品的三倍。",
@@ -625,6 +746,20 @@
       "category": "模型发布",
       "importance": 2,
       "publishedAt": "2026-09-22T04:00:00Z"
+    },
+    {
+      "id": "03aeda5dd98e",
+      "title": "2026年轻松突破年薪30W，试试Transformer与VLM开发",
+      "summary": "多模态大模型（MLLM）是一种能同时理解和生成文本、图像、音频、视频等多种信息类型的AI系统。其核心在于通过统一的架构（通常基于强大的大语言模型）整合不同模态的",
+      "highlights": [
+        "多模态大模型（MLLM）是一种能同时理解和生成文本、图像、音频、视频等多种信息类型的AI系统",
+        "其核心在于通过统一的架构（通常基于强大的大语言模型）整合不同模态的"
+      ],
+      "url": "https://www.eet-china.com/mp/a526755.html",
+      "source": "eet-china.com",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-09-22T08:00:00Z"
     }
   ],
   "week": [
@@ -836,51 +971,22 @@
       "publishedAt": "2026-09-21T03:14:00Z"
     },
     {
-      "id": "a9391657f899",
-      "title": "Manus AI Targets $4 Billion Valuation as AI Agents Draw Fresh Investor Interest",
-      "summary": "Agree & Join LinkedIn\n\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.\n\nSkip to main contentLinkedIn\n   Top Content\n   People\n   Lea...",
+      "id": "68e1ae3afd92",
+      "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数|Qwen 3|云栖大会|阿里巴巴|世界模型|千问_手机新浪网",
+      "summary": "此外，同声传译模型Qwen3.8-LiveTranslate首次登场，人类同传平均时延在4秒以上，但该模型可将时延压缩至不到2.5秒。据了解，新模型已接入千问AI眼镜、QwenNote A2、钉钉耳机等AI硬件。\n\n阿里大模型加速走向终端。AI手机全栈解决方案Qwen Intelligence发布，专为手机场景深度优化，为合作伙伴提供基于千问大模型的 Agent 技术平台，让手机能够更可靠地完成跨...",
       "highlights": [
-        "Agree & Join LinkedIn",
-        "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.",
-        "Skip to main contentLinkedIn"
+        "此外，同声传译模型Qwen3.8-LiveTranslate首次登场，人类同传平均时延在4秒以上，但该模型可将时延压缩至不到2.5秒",
+        "据了解，新模型已接入千问AI眼镜、QwenNote A2、钉钉耳机等AI硬件",
+        "阿里大模型加速走向终端"
       ],
-      "url": "https://www.linkedin.com/posts/saurav-dhakal_manus-ai-targets-4-billion-valuation-as-activity-7507703988855738369-YAmX",
-      "source": "linkedin.com",
+      "url": "https://news.sina.cn/ai/2026-09-22/detail-inissitp2251202.d.html?vt=4&wm=1029%3Fq",
+      "source": "news.sina.cn",
       "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-21T07:35:17Z"
+      "importance": 5,
+      "publishedAt": "2026-09-22T12:05:38Z"
     }
   ],
   "month": [
-    {
-      "id": "6dc7e4c9b513",
-      "title": "造车新势力集体跨界机器人，为啥不好好造车去造“人”？ - 21经济网",
-      "summary": "首先，造机器人和造车的差别并没那么大。很多人以为机器人和汽车是两个完全不同的物种，但在技术底层逻辑上，它们有着惊人的相似性。这种相似性不是表面上的两个轮子变两条腿那么简单，而是核心能力的高度复用。现在的智能电动汽车，本质上就是一个“带轮子的机器人”。无论是自动驾驶所需的激光雷达、高清摄像头、毫米波雷达，还是大脑部分的具身智能算法、大模型感知决策系统，乃至于底层的电机、电控、电池管理这套能源系统，在...",
-      "highlights": [
-        "首先，造机器人和造车的差别并没那么大",
-        "很多人以为机器人和汽车是两个完全不同的物种，但在技术底层逻辑上，它们有着惊人的相似性",
-        "这种相似性不是表面上的两个轮子变两条腿那么简单，而是核心能力的高度复用"
-      ],
-      "url": "https://www.21jingji.com/article/20260920/herald/6421eeca2d4a0d3af7b6c1eebbea5658.html",
-      "source": "21jingji.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-20T06:52:09Z"
-    },
-    {
-      "id": "e6e9ca1ac391",
-      "title": "Google Says Gemini Hacked Three Firms Just Like OpenAI and Anthropic Did - Startup Fortune",
-      "summary": "This Week in AI: Robots Take a Punch, Assistants Get Long-Term Memory, and Models Keep Getting Cheaper\n\nA dense week across robotics, model releases and AI research: humanoid robots duke it out, ChatG...",
-      "highlights": [
-        "This Week in AI: Robots Take a Punch, Assistants Get Long-Term Memory, and Models Keep Getting Cheaper",
-        "A dense week across robotics, model releases and AI research: humanoid robots duke it out, ChatGPT gets long-term memory, and frontier-adjacent AI keeps getting cheaper and faster. - how to build robots that handle physical impacts - AI models getting cheaper and more accessible features [...] Google has now joined OpenAI, Anthropic and Meta in the strangest security club in Silicon Valley: companies whose AI models reached live systems while they were supposed to be inside controlled cybersecurity tests. According to Bloomberg, Gemini inadvertently hacked into three company systems in May during tests run by Irregular, an AI security vendor. The Wall Street Journal first reported the Google incidents. Axios then reported that Google confirmed them on September 18. [...] OpenAI's Hugging Face incident was different in important ways, but it sits in the same family of problems. OpenAI said its models found ways to communicate through unauthorized channels and exploit infrastructure - and got internet access in the process. Anthropic later said it broadened its own search to roughly 481 million transcripts after finding another Claude incident from January 2026. These are not tiny lab curiosities anymore. They are operating facts."
-      ],
-      "url": "https://startupfortune.com/google-says-gemini-hacked-three-firms-just-like-openai-and-anthropic-did",
-      "source": "startupfortune.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-20T06:49:59Z"
-    },
     {
       "id": "23725182d84f",
       "title": "沙利文发布2026年智能体市场研究报告：WorkBuddy稳居企业级 - 财闻",
@@ -925,21 +1031,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-20T15:45:00Z"
-    },
-    {
-      "id": "9c8550a41b31",
-      "title": "华为云智果AgentArts携手行业标杆，推进智能体规模化落地",
-      "summary": "这一城市超级智能体架构由华为2012实验室、华为云等团队基于openJiuwen开源AI Agent平台联合构建，以“一个入口、一套中枢、四大运行域、一套底座”的统分结合架构，打造覆盖模型、Harness、身份、协作、组织、规则六层的城市超级智能体，并内置openJiuwen独有的算力亲和能力，与底层昇腾、鲲鹏算力基础设施深度亲和，有效降低智能体规模化运行成本、提升运行效率。137个知识库汇集66...",
-      "highlights": [
-        "这一城市超级智能体架构由华为2012实验室、华为云等团队基于openJiuwen开源AI Agent平台联合构建，以“一个入口、一套中枢、四大运行域、一套底座”的统分结合架构，打造覆盖模型、Harness、身份、协作、组织、规则六层的城市超级智能体，并内置openJiuwen独有的算力亲和能力，与底层昇腾、鲲鹏算力基础设施深度亲和，有效降低智能体规模化运行成本、提升运行效率",
-        "137个知识库汇集6693份文档、122878个知识切片，让原本需要20个工作日的一次经济核查缩短至分钟级；通过“业务人员主导、人工智能辅助、专业团队把关”的新供给模式，三期培训230多名学员、开发156个应用、其中36个政务应用上线，让最懂业务的人成为应用与智能体的第一设计者",
-        "在企业级Agent管理领域，美团Agent应用技术负责人李凯分享了美团海量企业级Agent的云端管理实践"
-      ],
-      "url": "https://tech.china.com/articles/20260920/202609201960956.html",
-      "source": "tech.china.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-20T07:00:00Z"
     },
     {
       "id": "cd957077b472",
@@ -1000,6 +1091,49 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-09-20T18:00:00Z"
+    },
+    {
+      "id": "629a9a78c82e",
+      "title": "OpenAI's Cash Burn, Google's Rogue AI, Spacex's FCC Nod and More: This Week in Tech — TradingView News",
+      "summary": "Google’s Gemini AI model, a product of Alphabet Inc., breached the systems of three companies during a cybersecurity test. The AI model accessed the internet and went rogue, marking Google as the late...",
+      "highlights": [
+        "Google’s Gemini AI model, a product of Alphabet Inc., breached the systems of three companies during a cybersecurity test. The AI model accessed the internet and went rogue, marking Google as the latest company to face such an issue.",
+        "Read the full article here.",
+        "Read Also:  Elon Musk’s Tesla And SpaceX Sue Nanotech Firm TERA-Print Over ‘Terafab’ Name For Planned $16.8 Billion Texas AI Chip Factory"
+      ],
+      "url": "https://www.tradingview.com/news/benzinga:7a0e10a17094b:0-openai-s-cash-burn-google-s-rogue-ai-spacex-s-fcc-nod-and-more-this-week-in-tech",
+      "source": "tradingview.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-20T13:00:28Z"
+    },
+    {
+      "id": "946eae874c41",
+      "title": "华为追赶英伟达：把单卡之争变成一场集群战",
+      "summary": "华为追赶英伟达：把单卡之争变成一场集群战,芯片,gpu,华为全联接大会,华为商用,华为云,大模型,监事会,郭平,开源模型,OpenAI,生态,汪涛,模型,份额,成本.",
+      "highlights": [
+        "华为追赶英伟达：把单卡之争变成一场集群战,芯片,gpu,华为全联接大会,华为商用,华为云,大模型,监事会,郭平,开源模型,OpenAI,生态,汪涛,模型,份额,成本."
+      ],
+      "url": "https://k.sina.com.cn/article_2357213493_8c803935019025suk.html?from=tech",
+      "source": "k.sina.com.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-21T17:00:00Z"
+    },
+    {
+      "id": "f48d5e88bd2b",
+      "title": "阿里亮出最强底牌：真武V900发布，狂砸3800亿建AI集群",
+      "summary": "根据现场披露的量产时间表，真武V900计划于2027年第一季度正式量产并启动规模化部署，平头哥同时公布了下一代产品真武J900的排期，该芯片将于2027年第三季度正式推出，延续此前“一年一代”的迭代节奏。\n\n目前平头哥已经完成了数据中心核心芯片的全产品线布局，覆盖真武系列GPU、倚天系列CPU、磐脉系列智能网卡以及ICN互联芯片四大品类，组建超大规模AI集群所需的所有核心芯片全部实现自研覆盖。\n\n...",
+      "highlights": [
+        "根据现场披露的量产时间表，真武V900计划于2027年第一季度正式量产并启动规模化部署，平头哥同时公布了下一代产品真武J900的排期，该芯片将于2027年第三季度正式推出，延续此前“一年一代”的迭代节奏",
+        "目前平头哥已经完成了数据中心核心芯片的全产品线布局，覆盖真武系列GPU、倚天系列CPU、磐脉系列智能网卡以及ICN互联芯片四大品类，组建超大规模AI集群所需的所有核心芯片全部实现自研覆盖",
+        "阿里正在推进芯片、服务器、超节点、网络、大模型和推理系统的全链路联合调优，从底层硬件到上层软件打通全栈协同，大幅提升整个AI集群的Token产能和运行效率"
+      ],
+      "url": "https://www.eet-china.com/news/202609227841.html",
+      "source": "eet-china.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-22T04:00:00Z"
     }
   ]
 }
