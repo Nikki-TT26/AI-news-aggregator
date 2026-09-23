@@ -1,49 +1,6 @@
 {
-  "updatedAt": "2026-09-23T12:01:39Z",
+  "updatedAt": "2026-09-23T18:01:24Z",
   "latest": [
-    {
-      "id": "cd957077b472",
-      "title": "想看AI芯片下一步往哪里走？没来上海峰会的人，看这篇就够了",
-      "summary": "对此，博伦智汇通过DRA Proxy连接厂商设备插件与K8S，统一转换、补全设备信息并上报，实现异构GPU的资源发现与调度。同时，其自研TOLD架构面向Token，以低时延、高吞吐、低成本为目标，进一步串联资源规划、资源管理与推理服务部署。\n\n在此基础上，博伦智汇的MIX调度平台通过复用厂商设备插件，降低芯片接入成本，让不同厂商的GPU释放算力价值。\n\n▲博伦智汇技术架构师、资深算力架构专家张磊\n...",
-      "highlights": [
-        "对此，博伦智汇通过DRA Proxy连接厂商设备插件与K8S，统一转换、补全设备信息并上报，实现异构GPU的资源发现与调度",
-        "同时，其自研TOLD架构面向Token，以低时延、高吞吐、低成本为目标，进一步串联资源规划、资源管理与推理服务部署",
-        "在此基础上，博伦智汇的MIX调度平台通过复用厂商设备插件，降低芯片接入成本，让不同厂商的GPU释放算力价值"
-      ],
-      "url": "https://zhidx.com/p/595920.html",
-      "source": "zhidx.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-21T13:00:00Z"
-    },
-    {
-      "id": "524f7602cd08",
-      "title": "微软和高盛齐呼：AI利润下一站，应用层！恒生互联网的AI应用价值尚未充分定价",
-      "summary": "更具战略意义的是WorkBuddy的连续迭代。9月2日，WorkBuddy开放平台正式上线，首批引入超百家生态伙伴，面向智能硬件、行业应用与开发者开放底层Agent能力。9月18日，WorkBuddy进一步上线“应用生成能力”——用户只需用自然语言描述需求，就能生成自带云数据库、文件存储、用户注册登录与AI调用能力的完整网站应用，并可一键发布上线。从“AI助手”到“Agent操作系统”，腾讯正在将...",
-      "highlights": [
-        "更具战略意义的是WorkBuddy的连续迭代",
-        "9月2日，WorkBuddy开放平台正式上线，首批引入超百家生态伙伴，面向智能硬件、行业应用与开发者开放底层Agent能力",
-        "9月18日，WorkBuddy进一步上线“应用生成能力”——用户只需用自然语言描述需求，就能生成自带云数据库、文件存储、用户注册登录与AI调用能力的完整网站应用，并可一键发布上线"
-      ],
-      "url": "https://www.caiwennews.com/article/1616087.shtml",
-      "source": "caiwennews.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-21T13:58:56Z"
-    },
-    {
-      "id": "946eae874c41",
-      "title": "华为追赶英伟达：把单卡之争变成一场集群战",
-      "summary": "华为追赶英伟达：把单卡之争变成一场集群战,芯片,gpu,华为全联接大会,华为商用,华为云,大模型,监事会,郭平,开源模型,OpenAI,生态,汪涛,模型,份额,成本.",
-      "highlights": [
-        "华为追赶英伟达：把单卡之争变成一场集群战,芯片,gpu,华为全联接大会,华为商用,华为云,大模型,监事会,郭平,开源模型,OpenAI,生态,汪涛,模型,份额,成本."
-      ],
-      "url": "https://k.sina.com.cn/article_2357213493_8c803935019025suk.html?from=tech",
-      "source": "k.sina.com.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-21T17:00:00Z"
-    },
     {
       "id": "f48d5e88bd2b",
       "title": "阿里亮出最强底牌：真武V900发布，狂砸3800亿建AI集群",
@@ -432,19 +389,64 @@
       "publishedAt": "2026-09-23T06:01:13Z"
     },
     {
-      "id": "ece43f459dba",
-      "title": "豆包跨越「临界点」后，字节AI下一步怎么走？ - 36氪",
-      "summary": "2026 年 2 月 5 日，Anthropic 发布了旗下的最新模型成果 Claude Opus 4.6，并且随之宣布：\n\n在 AI 彻底改变软件编程行业的工作方式后，现在是时候进军更广泛的职场了。\n\n紧接着，这一模型发布之后，多家金融服务公司的股价在当日应声跳水。其中，金融数据和软件公司 FaceSet 跌幅超 8%，创 2020 年 3 月以来新低；老牌信息服务提供商 Thomson Reu...",
+      "id": "09de0c801270",
+      "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
+      "summary": "在最新的Artificial Analysis全球大模型排行榜上，Qwen3.8-Max从40提升到45分\n\n阿里巴巴是最早布局AI大模型的中国科技公司。从2019年起，阿里就开始着手AI大模型研究，陆续推出千问Qwen大语言模型系列，和万相Wan及HappyHorse等多模态模型系列。进入2026年，阿里大模型发布全面提速，最近1个多月时间，仅Qwen3.8系列就陆续更新迭代出4个不同模型及重大...",
       "highlights": [
-        "2026 年 2 月 5 日，Anthropic 发布了旗下的最新模型成果 Claude Opus 4.6，并且随之宣布：",
-        "在 AI 彻底改变软件编程行业的工作方式后，现在是时候进军更广泛的职场了",
-        "紧接着，这一模型发布之后，多家金融服务公司的股价在当日应声跳水"
+        "在最新的Artificial Analysis全球大模型排行榜上，Qwen3.8-Max从40提升到45分",
+        "阿里巴巴是最早布局AI大模型的中国科技公司",
+        "从2019年起，阿里就开始着手AI大模型研究，陆续推出千问Qwen大语言模型系列，和万相Wan及HappyHorse等多模态模型系列"
       ],
-      "url": "https://m.36kr.com/p/3867066152713092",
-      "source": "m.36kr.com",
+      "url": "https://www.qbitai.com/2026/09/493625.html",
+      "source": "qbitai.com",
       "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-21T14:18:49Z"
+      "importance": 5,
+      "publishedAt": "2026-09-22T03:00:00Z"
+    },
+    {
+      "id": "b38932969b5c",
+      "title": "【明日主题前瞻】高通发布双旗舰移动平台，定义AI智能体全新体验",
+      "summary": "2026骁龙峰会首日，高通推出第六代骁龙8超级至尊版与第六代骁龙8至尊版，这是其首次采用“双旗舰”布局。其中，第六代骁龙8超级至尊版专为智能体AI时代打造，搭载全球最快移动CPU，最高主频达5.0GHz，CPU、GPU、NPU均增强AI能力，为新一代安卓旗舰机提供强劲支持。第六代骁龙8至尊版则在AI、性能、游戏、影像和连接等方面实现全面升级。\n\n各大厂商在2026年9月密集推出智能体手机与系统级A...",
+      "highlights": [
+        "2026骁龙峰会首日，高通推出第六代骁龙8超级至尊版与第六代骁龙8至尊版，这是其首次采用“双旗舰”布局",
+        "其中，第六代骁龙8超级至尊版专为智能体AI时代打造，搭载全球最快移动CPU，最高主频达5.0GHz，CPU、GPU、NPU均增强AI能力，为新一代安卓旗舰机提供强劲支持",
+        "第六代骁龙8至尊版则在AI、性能、游戏、影像和连接等方面实现全面升级"
+      ],
+      "url": "https://www.cls.cn/detail/2491130",
+      "source": "cls.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-22T13:00:00Z"
+    },
+    {
+      "id": "f77c1ff866cf",
+      "title": "登顶美国应用榜，遭亚马逊“封杀”！Meta AI智能体Muse能购物、发邮件、打电话，但在复杂任务中“掉链子”，扎克伯格称Muse不靠收费赚钱 | 每经网",
+      "summary": "对于此前一直担忧Meta巨额AI投入何时能够变现的华尔街而言，Muse的爆发提供了一个新的想象空间。\n\nMeta今年预计资本支出规模最高可达1450亿美元，大量资金投入AI数据中心、芯片和模型研发。Muse的快速增长意味着，Meta的AI投入开始出现一个真正具备大规模消费端入口潜力的产品。市场甚至已经开始提前计算它可能带来的收入空间。\n\n## 不只是聊天，Muse开始替用户“办事”：发邮件、购物…...",
+      "highlights": [
+        "对于此前一直担忧Meta巨额AI投入何时能够变现的华尔街而言，Muse的爆发提供了一个新的想象空间",
+        "Meta今年预计资本支出规模最高可达1450亿美元，大量资金投入AI数据中心、芯片和模型研发",
+        "Muse的快速增长意味着，Meta的AI投入开始出现一个真正具备大规模消费端入口潜力的产品"
+      ],
+      "url": "https://www.nbd.com.cn/articles/2026-09-22/4588800.html",
+      "source": "nbd.com.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-22T18:00:00Z"
+    },
+    {
+      "id": "ec545794d95d",
+      "title": "OpenAI and Anthropic Launch New Models—They Are Fighting the Wrong Battle<!-- --> - Barron's",
+      "summary": "SHARE THIS ARTICLE\n\nTEXT SIZE\n\nSHARE THIS ARTICLE\n\nTEXT SIZE\n\n# OpenAI and Anthropic Launch New Models—They Are Fighting the Wrong Battle\n\nAnthropic and OpenAI must be scratching their heads. They jus...",
+      "highlights": [
+        "SHARE THIS ARTICLE",
+        "SHARE THIS ARTICLE",
+        "# OpenAI and Anthropic Launch New Models—They Are Fighting the Wrong Battle"
+      ],
+      "url": "https://www.barrons.com/articles/openai-anthropic-ai-models-meta-muse-a16e212a",
+      "source": "barrons.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-23T13:00:00Z"
     }
   ],
   "today": [
@@ -509,6 +511,21 @@
       "publishedAt": "2026-09-23T06:01:13Z"
     },
     {
+      "id": "ec545794d95d",
+      "title": "OpenAI and Anthropic Launch New Models—They Are Fighting the Wrong Battle<!-- --> - Barron's",
+      "summary": "SHARE THIS ARTICLE\n\nTEXT SIZE\n\nSHARE THIS ARTICLE\n\nTEXT SIZE\n\n# OpenAI and Anthropic Launch New Models—They Are Fighting the Wrong Battle\n\nAnthropic and OpenAI must be scratching their heads. They jus...",
+      "highlights": [
+        "SHARE THIS ARTICLE",
+        "SHARE THIS ARTICLE",
+        "# OpenAI and Anthropic Launch New Models—They Are Fighting the Wrong Battle"
+      ],
+      "url": "https://www.barrons.com/articles/openai-anthropic-ai-models-meta-muse-a16e212a",
+      "source": "barrons.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-23T13:00:00Z"
+    },
+    {
       "id": "28dae31ae381",
       "title": "价格战愈演愈烈！AI大模型概念景气升温这12股业绩倍增可期(名单)",
       "summary": "点击阅读全文\n\n前往东方财富APP阅读全文\n\n取消 前往\n\n分享成功\n\n#### 热门推荐\n\n即将前往东方财富APP查看原文\n\n取消 确定\n\n 分享至：\n 微信\n 朋友圈\n 微博\n\n郑重声明：东方财富发布此内容旨在传播更多信息，与本站立场无关，不构成投资建议。据此操作，风险自担。\n\n热点阅读\n:   风险拉响！美联储加息大消息！\n\n    风险拉响！美联储加息大消息！\n\n    证券时报网 158...",
@@ -522,6 +539,36 @@
       "category": "具身智能",
       "importance": 4,
       "publishedAt": "2026-09-23T01:00:00Z"
+    },
+    {
+      "id": "706e3f3eb222",
+      "title": "AI 模型使用排名| OpenCode 数据",
+      "summary": "NVIDIA+31%06\n\nmuse-spark-1.2-contributor2.6T\n\nMeta-27%07\n\nglm-5.3-flash2.5T\n\nZhipu-33%08\n\nmimo-v2.6-flash1.1T\n\nXiaomi新09\n\ndeepseek-v4-flash-vision-exp951B\n\nDeepSeek-12%10\n\ndeepseek-v4-pro640B\n\nDeepSee...",
+      "highlights": [
+        "NVIDIA+31%06",
+        "muse-spark-1.2-contributor2.6T",
+        "glm-5.3-flash2.5T"
+      ],
+      "url": "https://opencode.ai/zh/data",
+      "source": "opencode.ai",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-23T00:00:00Z"
+    },
+    {
+      "id": "9fd727aa4984",
+      "title": "汇聚全球智慧——AI Agent国际学术期刊、国际前沿论坛落地苏州工业园区",
+      "summary": "汇聚全球智慧——AI Agent国际学术期刊、国际前沿论坛落地苏州工业园区\n\n# 汇聚全球智慧——AI Agent国际学术期刊、国际前沿论坛落地苏州工业园区\n\n环球科技网\n\n来自北京\n\n2026年9月20日,AI智能体前沿研究与未来应用学术交流会在苏州独墅湖畔顺利启幕。本次会议由OAE出版公司、姑苏实验室、华北电力大学等单位联合主办,集结全球学界权威与产业界领军人才,围绕人工智能在材料、医药、化学...",
+      "highlights": [
+        "汇聚全球智慧——AI Agent国际学术期刊、国际前沿论坛落地苏州工业园区",
+        "# 汇聚全球智慧——AI Agent国际学术期刊、国际前沿论坛落地苏州工业园区",
+        "2026年9月20日,AI智能体前沿研究与未来应用学术交流会在苏州独墅湖畔顺利启幕"
+      ],
+      "url": "https://tech.ifeng.com/c/8weoWEVtMBA",
+      "source": "tech.ifeng.com",
+      "category": "前沿理论",
+      "importance": 4,
+      "publishedAt": "2026-09-23T09:21:22Z"
     },
     {
       "id": "b0102e65b933",
@@ -548,6 +595,20 @@
       "category": "产品进展",
       "importance": 3,
       "publishedAt": "2026-09-23T04:50:32Z"
+    },
+    {
+      "id": "3e0895404c25",
+      "title": "中央财经大学数字经济融合创新发展中心主任陈端：完善估值锚体系是企业外源性融资的关键前提",
+      "summary": "9月23日，北京商报社举办2026深蓝智库“从种子到IPO：新质生产力的资本路径”沙龙。中央财经大学数字经济融合创新发展中心主任、中国人工智能学会智能产品与产业工作",
+      "highlights": [
+        "9月23日，北京商报社举办2026深蓝智库“从种子到IPO：新质生产力的资本路径”沙龙",
+        "中央财经大学数字经济融合创新发展中心主任、中国人工智能学会智能产品与产业工作"
+      ],
+      "url": "https://www.21jingji.com/article/20260923/herald/0f7cf1e29d6273eed43f849960654ba6.html",
+      "source": "21jingji.com",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-09-23T14:00:00Z"
     },
     {
       "id": "6b2c278c380c",
@@ -620,21 +681,6 @@
       "publishedAt": "2026-09-21T13:00:00Z"
     },
     {
-      "id": "0ae9e677c7bf",
-      "title": "【明日主题前瞻】伴随推理侧需求爆发，ASIC芯片出货迎来加速期",
-      "summary": "摩根大通最新报告预计，2027年ASIC/XPU在AI加速器单元出货中的占比将升至54%，超过GPU；2028年进一步升至55%。其预计，2026年定制AI ASIC市场规模约600亿至700亿美元，未来数年复合增速超过40%至50%。目前博通和Marvell占据约90%的市占，其中博通约80%至85%，市场集中度较高。\n\n国信证券研报认为，伴随推理侧需求爆发，各公司自研芯片能力验证成熟，ASIC...",
-      "highlights": [
-        "摩根大通最新报告预计，2027年ASIC/XPU在AI加速器单元出货中的占比将升至54%，超过GPU；2028年进一步升至55%",
-        "其预计，2026年定制AI ASIC市场规模约600亿至700亿美元，未来数年复合增速超过40%至50%",
-        "目前博通和Marvell占据约90%的市占，其中博通约80%至85%，市场集中度较高"
-      ],
-      "url": "https://www.cls.cn/detail/2488882",
-      "source": "cls.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-21T11:00:00Z"
-    },
-    {
       "id": "524f7602cd08",
       "title": "微软和高盛齐呼：AI利润下一站，应用层！恒生互联网的AI应用价值尚未充分定价",
       "summary": "更具战略意义的是WorkBuddy的连续迭代。9月2日，WorkBuddy开放平台正式上线，首批引入超百家生态伙伴，面向智能硬件、行业应用与开发者开放底层Agent能力。9月18日，WorkBuddy进一步上线“应用生成能力”——用户只需用自然语言描述需求，就能生成自带云数据库、文件存储、用户注册登录与AI调用能力的完整网站应用，并可一键发布上线。从“AI助手”到“Agent操作系统”，腾讯正在将...",
@@ -676,21 +722,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-22T04:00:00Z"
-    },
-    {
-      "id": "f4e5aa3ecce9",
-      "title": "从渗透率到定位：中国自动驾驶与共享出行行业竞争格局演变 - Moomoo",
-      "summary": "### 专业名词及重要事件\n\n   具身智能 (Embodied AI)：指拥有物理身体并能与环境交互的人工智能系统。在汽车领域，表现为自动驾驶汽车和人形机器人，其商业化路径依赖于传感器、执行器及算法的深度整合。 \n   本地化生产 (In-market Production)：指车企在海外目标市场建立工厂进行生产，以规避关税壁垒、降低物流成本并响应本地需求。报告中指出这是2026年车企差异化的关...",
-      "highlights": [
-        "### 专业名词及重要事件",
-        "具身智能 (Embodied AI)：指拥有物理身体并能与环境交互的人工智能系统",
-        "在汽车领域，表现为自动驾驶汽车和人形机器人，其商业化路径依赖于传感器、执行器及算法的深度整合"
-      ],
-      "url": "https://www.moomoo.com/hans/news/post/76554120",
-      "source": "moomoo.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-21T11:54:09Z"
     },
     {
       "id": "953c5a1be031",
@@ -825,6 +856,36 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-09-22T00:07:05Z"
+    },
+    {
+      "id": "0031bea25b60",
+      "title": "“帮你干活”的AI大火，扎克伯格身家一夜暴增1675亿元，美股芯片股也被带着起飞 | 每日经济新闻",
+      "summary": "Meta今年预计资本支出规模最高可达1450亿美元，大量资金投入AI数据中心、芯片和模型研发。Muse的快速增长意味着，Meta的AI投入开始出现一个真正具备大规模消费端入口潜力的产品。市场甚至已经开始提前计算它可能带来的收入空间。\n\n## 不只是聊天\n\n## Muse替用户“办事”：发邮件、购物……\n\nMeta将Muse定位为“个人AI智能体”（personal AI agent）。用户不只可以...",
+      "highlights": [
+        "Meta今年预计资本支出规模最高可达1450亿美元，大量资金投入AI数据中心、芯片和模型研发",
+        "Muse的快速增长意味着，Meta的AI投入开始出现一个真正具备大规模消费端入口潜力的产品",
+        "市场甚至已经开始提前计算它可能带来的收入空间"
+      ],
+      "url": "https://www.mrjjxw.com/articles/2026-09-22/4589266.html",
+      "source": "mrjjxw.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-22T13:00:00Z"
+    },
+    {
+      "id": "deac8e379267",
+      "title": "易鑫与北大三篇合作论文入选国际顶会EMNLP 2026-AI云资讯",
+      "summary": "### AI技术\n\n更多>>\n\n 阶跃这次够狠：AA 全球开源前二，价格打到 Claude 的 1/8\n 科大讯飞发布Spark-Audio-1.0-Preview，全国产语音基座大模型实现从“听清”到“听懂”\n 全球最强开源模型 Kimi K3 发布，参数规模 3 万亿，真的是强！\n 范式变革！东软发布AI原生软件工程白皮书，重构软件产业底层逻辑\n KAT-Coder-Pro V2.5正式发布：...",
+      "highlights": [
+        "阶跃这次够狠：AA 全球开源前二，价格打到 Claude 的 1/8",
+        "科大讯飞发布Spark-Audio-1.0-Preview，全国产语音基座大模型实现从“听清”到“听懂”",
+        "全球最强开源模型 Kimi K3 发布，参数规模 3 万亿，真的是强"
+      ],
+      "url": "https://www.icloudnews.net/a/123019.html",
+      "source": "icloudnews.net",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-22T11:00:00Z"
     }
   ],
   "month": [
@@ -842,21 +903,6 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-09-21T13:00:00Z"
-    },
-    {
-      "id": "0ae9e677c7bf",
-      "title": "【明日主题前瞻】伴随推理侧需求爆发，ASIC芯片出货迎来加速期",
-      "summary": "摩根大通最新报告预计，2027年ASIC/XPU在AI加速器单元出货中的占比将升至54%，超过GPU；2028年进一步升至55%。其预计，2026年定制AI ASIC市场规模约600亿至700亿美元，未来数年复合增速超过40%至50%。目前博通和Marvell占据约90%的市占，其中博通约80%至85%，市场集中度较高。\n\n国信证券研报认为，伴随推理侧需求爆发，各公司自研芯片能力验证成熟，ASIC...",
-      "highlights": [
-        "摩根大通最新报告预计，2027年ASIC/XPU在AI加速器单元出货中的占比将升至54%，超过GPU；2028年进一步升至55%",
-        "其预计，2026年定制AI ASIC市场规模约600亿至700亿美元，未来数年复合增速超过40%至50%",
-        "目前博通和Marvell占据约90%的市占，其中博通约80%至85%，市场集中度较高"
-      ],
-      "url": "https://www.cls.cn/detail/2488882",
-      "source": "cls.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-21T11:00:00Z"
     },
     {
       "id": "524f7602cd08",
@@ -900,21 +946,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-22T04:00:00Z"
-    },
-    {
-      "id": "f4e5aa3ecce9",
-      "title": "从渗透率到定位：中国自动驾驶与共享出行行业竞争格局演变 - Moomoo",
-      "summary": "### 专业名词及重要事件\n\n   具身智能 (Embodied AI)：指拥有物理身体并能与环境交互的人工智能系统。在汽车领域，表现为自动驾驶汽车和人形机器人，其商业化路径依赖于传感器、执行器及算法的深度整合。 \n   本地化生产 (In-market Production)：指车企在海外目标市场建立工厂进行生产，以规避关税壁垒、降低物流成本并响应本地需求。报告中指出这是2026年车企差异化的关...",
-      "highlights": [
-        "### 专业名词及重要事件",
-        "具身智能 (Embodied AI)：指拥有物理身体并能与环境交互的人工智能系统",
-        "在汽车领域，表现为自动驾驶汽车和人形机器人，其商业化路径依赖于传感器、执行器及算法的深度整合"
-      ],
-      "url": "https://www.moomoo.com/hans/news/post/76554120",
-      "source": "moomoo.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-21T11:54:09Z"
     },
     {
       "id": "953c5a1be031",
@@ -974,6 +1005,36 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-22T06:00:00Z"
+    },
+    {
+      "id": "68e1ae3afd92",
+      "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数|Qwen 3|云栖大会|阿里巴巴|世界模型|千问_手机新浪网",
+      "summary": "此外，同声传译模型Qwen3.8-LiveTranslate首次登场，人类同传平均时延在4秒以上，但该模型可将时延压缩至不到2.5秒。据了解，新模型已接入千问AI眼镜、QwenNote A2、钉钉耳机等AI硬件。\n\n阿里大模型加速走向终端。AI手机全栈解决方案Qwen Intelligence发布，专为手机场景深度优化，为合作伙伴提供基于千问大模型的 Agent 技术平台，让手机能够更可靠地完成跨...",
+      "highlights": [
+        "此外，同声传译模型Qwen3.8-LiveTranslate首次登场，人类同传平均时延在4秒以上，但该模型可将时延压缩至不到2.5秒",
+        "据了解，新模型已接入千问AI眼镜、QwenNote A2、钉钉耳机等AI硬件",
+        "阿里大模型加速走向终端"
+      ],
+      "url": "https://news.sina.cn/ai/2026-09-22/detail-inissitp2251202.d.html?vt=4&wm=1029%3Fq",
+      "source": "news.sina.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-22T12:05:38Z"
+    },
+    {
+      "id": "7f66e9b44d46",
+      "title": "Qwen4已在训练，下一代视频生成模型将于11月发布 - 财闻",
+      "summary": "首页 正文\n\n# 阿里大模型全面提速：Qwen4已在训练，下一代视频生成模型将于11月发布\n\n财闻   张晓迪  2026-09-22 11:58:32\n\n财闻 张晓迪 发自杭州\n\n阿里巴巴（BABA.US）正以“更高智能”与“极致性价比”为目标，加速向通用人工智能（AGI）乃至超级人工智能（ASI）迈进。\n\n本届云栖大会最受关注的焦点之一是阿里大语言模型系列的迭代路线图。Qwen LLM项目负责...",
+      "highlights": [
+        "# 阿里大模型全面提速：Qwen4已在训练，下一代视频生成模型将于11月发布",
+        "财闻   张晓迪  2026-09-22 11:58:32",
+        "财闻 张晓迪 发自杭州"
+      ],
+      "url": "https://www.caiwennews.com/article/1618841.shtml",
+      "source": "caiwennews.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-22T11:58:32Z"
     }
   ]
 }
