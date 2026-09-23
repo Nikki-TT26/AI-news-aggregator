@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T06:01:24Z",
+  "updatedAt": "2026-09-23T12:01:39Z",
   "latest": [
     {
       "id": "cd957077b472",
@@ -15,21 +15,6 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-09-21T13:00:00Z"
-    },
-    {
-      "id": "0ae9e677c7bf",
-      "title": "【明日主题前瞻】伴随推理侧需求爆发，ASIC芯片出货迎来加速期",
-      "summary": "摩根大通最新报告预计，2027年ASIC/XPU在AI加速器单元出货中的占比将升至54%，超过GPU；2028年进一步升至55%。其预计，2026年定制AI ASIC市场规模约600亿至700亿美元，未来数年复合增速超过40%至50%。目前博通和Marvell占据约90%的市占，其中博通约80%至85%，市场集中度较高。\n\n国信证券研报认为，伴随推理侧需求爆发，各公司自研芯片能力验证成熟，ASIC...",
-      "highlights": [
-        "摩根大通最新报告预计，2027年ASIC/XPU在AI加速器单元出货中的占比将升至54%，超过GPU；2028年进一步升至55%",
-        "其预计，2026年定制AI ASIC市场规模约600亿至700亿美元，未来数年复合增速超过40%至50%",
-        "目前博通和Marvell占据约90%的市占，其中博通约80%至85%，市场集中度较高"
-      ],
-      "url": "https://www.cls.cn/detail/2488882",
-      "source": "cls.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-21T11:00:00Z"
     },
     {
       "id": "524f7602cd08",
@@ -73,21 +58,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-22T04:00:00Z"
-    },
-    {
-      "id": "f4e5aa3ecce9",
-      "title": "从渗透率到定位：中国自动驾驶与共享出行行业竞争格局演变 - Moomoo",
-      "summary": "### 专业名词及重要事件\n\n   具身智能 (Embodied AI)：指拥有物理身体并能与环境交互的人工智能系统。在汽车领域，表现为自动驾驶汽车和人形机器人，其商业化路径依赖于传感器、执行器及算法的深度整合。 \n   本地化生产 (In-market Production)：指车企在海外目标市场建立工厂进行生产，以规避关税壁垒、降低物流成本并响应本地需求。报告中指出这是2026年车企差异化的关...",
-      "highlights": [
-        "### 专业名词及重要事件",
-        "具身智能 (Embodied AI)：指拥有物理身体并能与环境交互的人工智能系统",
-        "在汽车领域，表现为自动驾驶汽车和人形机器人，其商业化路径依赖于传感器、执行器及算法的深度整合"
-      ],
-      "url": "https://www.moomoo.com/hans/news/post/76554120",
-      "source": "moomoo.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-21T11:54:09Z"
     },
     {
       "id": "953c5a1be031",
@@ -372,19 +342,94 @@
       "publishedAt": "2026-09-22T04:03:33Z"
     },
     {
-      "id": "a9391657f899",
-      "title": "Manus AI Targets $4 Billion Valuation as AI Agents Draw Fresh Investor Interest",
-      "summary": "Agree & Join LinkedIn\n\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.\n\nSkip to main contentLinkedIn\n   Top Content\n   People\n   Lea...",
+      "id": "7a8aee9ef1a0",
+      "title": "阿里公布全模态模型最新进展：Qwen4和下代视频模型均在训练中",
+      "summary": "## 新浪科技\n\n    \n\n# 阿里公布全模态模型最新进展：Qwen4和下代视频模型均在训练中\n\n \n\n## 快科技官方\n\n关注)\n\n快科技9月22日消息，今日2026云栖大会开幕，阿里巴巴公布了大模型的最新进展。\n\n据悉，从2019年起，阿里就开始着手AI大模型研究，陆续推出千问Qwen大语言模型系列，和万相Wan及HappyHorse等多模态模型系列。\n\n进入2026年，阿里大模型发布全面提...",
       "highlights": [
-        "Agree & Join LinkedIn",
-        "By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.",
-        "Skip to main contentLinkedIn"
+        "# 阿里公布全模态模型最新进展：Qwen4和下代视频模型均在训练中",
+        "快科技9月22日消息，今日2026云栖大会开幕，阿里巴巴公布了大模型的最新进展",
+        "据悉，从2019年起，阿里就开始着手AI大模型研究，陆续推出千问Qwen大语言模型系列，和万相Wan及HappyHorse等多模态模型系列"
       ],
-      "url": "https://www.linkedin.com/posts/saurav-dhakal_manus-ai-targets-4-billion-valuation-as-activity-7507703988855738369-YAmX",
-      "source": "linkedin.com",
+      "url": "https://finance.sina.cn/tech/2026-09-22/detail-inissitm5734586.d.html?oid=WA+0859+3970+0884+Rincian+Pembangunan+Rumah+Kayu+Minimalis+4x6+Berpengalaman++Solo&vt=4",
+      "source": "finance.sina.cn",
       "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-21T07:35:17Z"
+      "importance": 5,
+      "publishedAt": "2026-09-22T11:53:04Z"
+    },
+    {
+      "id": "a84b9d704629",
+      "title": "OpenAI 发布 GPT-6 Sol 和 Luna；传字节跳动豆包收缩对话团队；千问发布AI 手机全栈解决方案| 极客早知道",
+      "summary": "盖茨透露，大约一年前，AI 的进展速度令他震惊，这项技术如今已能完成他年轻时需耗费大量时间才能掌握的编程工作。更进一步，AI 既能编写代码，也能研究代码、查找漏洞，「也可能入侵各类系统」。\n\n但他的担忧不止于技术本身，盖茨明确指出，面对这种指数级进步，社会层面的广泛参与和讨论远远不够，科技行业内部已经在谈风险，但更广大的公众尚未真正进场。在他看来，人类未来走向何方，取决于整个社会如何对待这项技术。...",
+      "highlights": [
+        "盖茨透露，大约一年前，AI 的进展速度令他震惊，这项技术如今已能完成他年轻时需耗费大量时间才能掌握的编程工作",
+        "更进一步，AI 既能编写代码，也能研究代码、查找漏洞，「也可能入侵各类系统」",
+        "但他的担忧不止于技术本身，盖茨明确指出，面对这种指数级进步，社会层面的广泛参与和讨论远远不够，科技行业内部已经在谈风险，但更广大的公众尚未真正进场"
+      ],
+      "url": "https://www.geekpark.net/news/370829",
+      "source": "geekpark.net",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-23T03:00:00Z"
+    },
+    {
+      "id": "753190541d7c",
+      "title": "阿里CEO发布“性能最强国产AI芯片”",
+      "summary": "同时，我们正在对芯片、服务器、超节点、网络、模型和推理系统进行联合调优，不断提升整个AI集群的 Token 产能和效率。阿里自研的M890 AI超节点，已经成功支撑超过2万亿参数大模型的高效推理，是全球极少数具备这样能力的公司之一。本季度开始，阿里云已经规模化上架我们的AI超节点。\n\n  今天，我们将发布新一代AI 芯片真武 V900。这是目前中国算力性能最强的AI芯片，性能达到M890的3倍，基...",
+      "highlights": [
+        "同时，我们正在对芯片、服务器、超节点、网络、模型和推理系统进行联合调优，不断提升整个AI集群的 Token 产能和效率",
+        "阿里自研的M890 AI超节点，已经成功支撑超过2万亿参数大模型的高效推理，是全球极少数具备这样能力的公司之一",
+        "本季度开始，阿里云已经规模化上架我们的AI超节点"
+      ],
+      "url": "https://www.guancha.cn/CaiJing/2026_09_22_901679.shtml",
+      "source": "guancha.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-22T03:00:00Z"
+    },
+    {
+      "id": "24a43f64abd2",
+      "title": "阿里新一代AI芯片算力提升至上一代的3倍，今年AI服务器本土AI芯片份额有望达50%丨盘中雷达",
+      "summary": "本文机构观点来自持牌证券机构，不构成任何投资建议，亦不代表平台观点，请投资人独立判断和决策。\n\n（作者：崔海花 编辑：梁明）\n\n阿里新一代AI芯片真武V900算力提升至上一代的3倍\n\n9月22日，据每日经济新闻，本届云栖大会上，阿里平头哥发布最强国产AI芯片真武V900，算力提升至真武M890的3倍。基于它构建的单一集群可扩展至50万卡，可支撑前沿模型的训练和推理。阿里表示，由于平头哥芯片产品线的...",
+      "highlights": [
+        "本文机构观点来自持牌证券机构，不构成任何投资建议，亦不代表平台观点，请投资人独立判断和决策",
+        "（作者：崔海花 编辑：梁明）",
+        "阿里新一代AI芯片真武V900算力提升至上一代的3倍"
+      ],
+      "url": "https://m.21jingji.com/article/20260922/herald/bae718334b0c7d6f2324c25811563531_zaker.html",
+      "source": "m.21jingji.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-23T07:00:00Z"
+    },
+    {
+      "id": "4ef186b49bab",
+      "title": "Muse下载量登顶点燃引爆AI Agent！ 机构：基础软件有望率先受益 - 21经济网",
+      "summary": "模型侧，推理成本被“重写”，Agent渗透的经济门槛下降。\n\nDeepSeek V4.1 Flash采用552B参数MoE主干、输入/输出分别激活约8B/16B参数，并将KV Cache对HBM、SSD的资源需求分别压缩至约1/4、1/8，主要面向长上下文、频繁工具调用的Agent工作负载。\n\n智谱GLM5.3 Flash依托十万级国产芯片推理资源池，端到端性能较硬件原始基线提升约3倍，单Toke...",
+      "highlights": [
+        "模型侧，推理成本被“重写”，Agent渗透的经济门槛下降",
+        "DeepSeek V4.1 Flash采用552B参数MoE主干、输入/输出分别激活约8B/16B参数，并将KV Cache对HBM、SSD的资源需求分别压缩至约1/4、1/8，主要面向长上下文、频繁工具调用的Agent工作负载",
+        "智谱GLM5.3 Flash依托十万级国产芯片推理资源池，端到端性能较硬件原始基线提升约3倍，单Token推理成本已可比肩主流英伟达GPU"
+      ],
+      "url": "https://www.21jingji.com/article/20260922/herald/cb847efdeb0c128d5b576143152eda4d.html",
+      "source": "21jingji.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-22T02:00:00Z"
+    },
+    {
+      "id": "04c677e92d3e",
+      "title": "全球唯一非侵入穿颅读脑突破，这家中国公司想成为脑科学的“英伟达”-36氪",
+      "summary": "两条线合流，决定了这家公司的组织形态：它不是从一个应用场景出发找技术，而是从一个过去做不到的物理问题出发做产品。“这个问题在学校里可以研究，” 刘家家说，“但在一个拥有工程交付能力和商业化能力的组织里做，带来的是完全不同的速度和资源密度。”\n\n本质上，鲲为是一家有商业化能力的声学空间智能 Neo Lab—— 这家公司把蝙蝠用声波感知空间的能力，第一次做成可计算、可规模化的产品。\n\n这个时间线还有一...",
+      "highlights": [
+        "两条线合流，决定了这家公司的组织形态：它不是从一个应用场景出发找技术，而是从一个过去做不到的物理问题出发做产品",
+        "“这个问题在学校里可以研究，” 刘家家说，“但在一个拥有工程交付能力和商业化能力的组织里做，带来的是完全不同的速度和资源密度",
+        "本质上，鲲为是一家有商业化能力的声学空间智能 Neo Lab—— 这家公司把蝙蝠用声波感知空间的能力，第一次做成可计算、可规模化的产品"
+      ],
+      "url": "https://m.36kr.com/p/3994001698372611",
+      "source": "m.36kr.com",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-09-23T06:01:13Z"
     },
     {
       "id": "ece43f459dba",
@@ -400,45 +445,6 @@
       "category": "产品进展",
       "importance": 4,
       "publishedAt": "2026-09-21T14:18:49Z"
-    },
-    {
-      "id": "cfff59da9d2a",
-      "title": "Meta’s AI agent has been blocked from using Amazon.com - TechCrunch",
-      "summary": "# Meta’s AI agent has been blocked from using Amazon.com. Sunday night, users of Meta’s AI assistant Muse started getting a strange error message when they tried to buy goods on Amazon. As spotted by ...",
-      "highlights": [
-        "# Meta’s AI agent has been blocked from using Amazon.com. Sunday night, users of Meta’s AI assistant Muse started getting a strange error message when they tried to buy goods on Amazon. As spotted by GeekWire, the error message read: “Continued access by an unauthorized AI agent violates Amazon’s Conditions of Use, to which our customers have agreed.”. In other words, Muse isn’t welcome as a shopper — and anyone trying to buy something on Amazon through the AI agent will have to find it somewhere else. If Muse makes a bad order, Amazon is going to be the one to clean it up — dealing with both the angry customer and the angry vendor. Muse has one of the lower hallucination rates, as AI models go, but it’s still pretty far from zero. Even if Amazon sees an opportunity in agent-driven commerce, they may want to wait a few more release cycles before rolling anything out."
-      ],
-      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "source": "techcrunch.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-21T17:55:18Z"
-    },
-    {
-      "id": "e8082e558a21",
-      "title": "Why Meta Platforms Stock Skyrocketed Today - The Motley Fool",
-      "summary": "▲ S&P 500 **+---%**|▲ Stock Advisor **+---%**Join The Motley Fool. As of 11:22 a.m. ET, the stock was still up 7.1%. The catalyst that sent the social media and artificial intelligence (AI) specialist...",
-      "highlights": [
-        "▲ S&P 500 **+---%**|▲ Stock Advisor **+---%**Join The Motley Fool. As of 11:22 a.m. ET, the stock was still up 7.1%. The catalyst that sent the social media and artificial intelligence (AI) specialist higher was bullish commentary from Wall Street regarding the company's recently launched AI agent. **Wells Fargo** analyst Ken Gawrelski raised its price target on Meta to $796, up from $640, while maintaining an overweight (buy) rating on the shares. The analyst made the move ahead of Meta Connect -- the annual two-day event that kicks off on Wednesday -- which the company uses to showcase its latest advancements in AI. Meta will likely highlight the adoption of Muse, the company's personal AI agent that can perform tasks, rather than just answer questions. Step Aside, Nvidia: 1 Reason Why Meta Platforms Could Be the Best AI Stock to Buy in 2026. A Wall Street analyst highlighted the potential of Muse, the company's personal AI agent."
-      ],
-      "url": "https://www.fool.com/investing/2026/09/21/why-meta-platforms-stock-skyrocketed-today/",
-      "source": "fool.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-09-21T15:30:26Z"
-    },
-    {
-      "id": "ea352cc86789",
-      "title": "Pabau Launches Agent Workforce: AI Employees for Medical Practices - Yahoo Finance",
-      "summary": "2. Best 0% APR cards. 3. Best balance transfer cards. 2. Best high-yield savings accounts. 3. Best money market accounts. Now part of Yahoo Finance Gold. # Pabau Launches Agent Workforce: AI Employees...",
-      "highlights": [
-        "2. Best 0% APR cards. 3. Best balance transfer cards. 2. Best high-yield savings accounts. 3. Best money market accounts. Now part of Yahoo Finance Gold. # Pabau Launches Agent Workforce: AI Employees for Medical Practices. **NEW YORK, September 21, 2026**--(BUSINESS WIRE)--Pabau, the practice management platform used by 3,500+ practices, today announced Pabau Agent Workforce, a new kind of AI hire for medical and aesthetic practices. Practices hire agents by role, with a choice of four agents:. * **An AI Finance Specialist** that watches the sales ledger, and follows up on unpaid or part-paid invoices with the exact amount owed and a secure pay-by-link. * **An AI Marketeer** that reviews the website daily, checks how the practice appears in AI assistants like ChatGPT, replies to reviews and wins back lapsed patients. Pabau is an all-in-one, GDPR- and HIPAA-compliant practice management system covering clinical care, marketing, operations, and patient engagement, used by 3,500+ practices across medical aesthetics and wider healthcare in the US and in 40+ countries globally."
-      ],
-      "url": "https://finance.yahoo.com/healthcare/articles/pabau-launches-agent-workforce-ai-132300794.html",
-      "source": "finance.yahoo.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-21T13:23:00Z"
     }
   ],
   "today": [
@@ -458,6 +464,66 @@
       "publishedAt": "2026-09-23T02:57:39Z"
     },
     {
+      "id": "a84b9d704629",
+      "title": "OpenAI 发布 GPT-6 Sol 和 Luna；传字节跳动豆包收缩对话团队；千问发布AI 手机全栈解决方案| 极客早知道",
+      "summary": "盖茨透露，大约一年前，AI 的进展速度令他震惊，这项技术如今已能完成他年轻时需耗费大量时间才能掌握的编程工作。更进一步，AI 既能编写代码，也能研究代码、查找漏洞，「也可能入侵各类系统」。\n\n但他的担忧不止于技术本身，盖茨明确指出，面对这种指数级进步，社会层面的广泛参与和讨论远远不够，科技行业内部已经在谈风险，但更广大的公众尚未真正进场。在他看来，人类未来走向何方，取决于整个社会如何对待这项技术。...",
+      "highlights": [
+        "盖茨透露，大约一年前，AI 的进展速度令他震惊，这项技术如今已能完成他年轻时需耗费大量时间才能掌握的编程工作",
+        "更进一步，AI 既能编写代码，也能研究代码、查找漏洞，「也可能入侵各类系统」",
+        "但他的担忧不止于技术本身，盖茨明确指出，面对这种指数级进步，社会层面的广泛参与和讨论远远不够，科技行业内部已经在谈风险，但更广大的公众尚未真正进场"
+      ],
+      "url": "https://www.geekpark.net/news/370829",
+      "source": "geekpark.net",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-23T03:00:00Z"
+    },
+    {
+      "id": "24a43f64abd2",
+      "title": "阿里新一代AI芯片算力提升至上一代的3倍，今年AI服务器本土AI芯片份额有望达50%丨盘中雷达",
+      "summary": "本文机构观点来自持牌证券机构，不构成任何投资建议，亦不代表平台观点，请投资人独立判断和决策。\n\n（作者：崔海花 编辑：梁明）\n\n阿里新一代AI芯片真武V900算力提升至上一代的3倍\n\n9月22日，据每日经济新闻，本届云栖大会上，阿里平头哥发布最强国产AI芯片真武V900，算力提升至真武M890的3倍。基于它构建的单一集群可扩展至50万卡，可支撑前沿模型的训练和推理。阿里表示，由于平头哥芯片产品线的...",
+      "highlights": [
+        "本文机构观点来自持牌证券机构，不构成任何投资建议，亦不代表平台观点，请投资人独立判断和决策",
+        "（作者：崔海花 编辑：梁明）",
+        "阿里新一代AI芯片真武V900算力提升至上一代的3倍"
+      ],
+      "url": "https://m.21jingji.com/article/20260922/herald/bae718334b0c7d6f2324c25811563531_zaker.html",
+      "source": "m.21jingji.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-23T07:00:00Z"
+    },
+    {
+      "id": "04c677e92d3e",
+      "title": "全球唯一非侵入穿颅读脑突破，这家中国公司想成为脑科学的“英伟达”-36氪",
+      "summary": "两条线合流，决定了这家公司的组织形态：它不是从一个应用场景出发找技术，而是从一个过去做不到的物理问题出发做产品。“这个问题在学校里可以研究，” 刘家家说，“但在一个拥有工程交付能力和商业化能力的组织里做，带来的是完全不同的速度和资源密度。”\n\n本质上，鲲为是一家有商业化能力的声学空间智能 Neo Lab—— 这家公司把蝙蝠用声波感知空间的能力，第一次做成可计算、可规模化的产品。\n\n这个时间线还有一...",
+      "highlights": [
+        "两条线合流，决定了这家公司的组织形态：它不是从一个应用场景出发找技术，而是从一个过去做不到的物理问题出发做产品",
+        "“这个问题在学校里可以研究，” 刘家家说，“但在一个拥有工程交付能力和商业化能力的组织里做，带来的是完全不同的速度和资源密度",
+        "本质上，鲲为是一家有商业化能力的声学空间智能 Neo Lab—— 这家公司把蝙蝠用声波感知空间的能力，第一次做成可计算、可规模化的产品"
+      ],
+      "url": "https://m.36kr.com/p/3994001698372611",
+      "source": "m.36kr.com",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-09-23T06:01:13Z"
+    },
+    {
+      "id": "28dae31ae381",
+      "title": "价格战愈演愈烈！AI大模型概念景气升温这12股业绩倍增可期(名单)",
+      "summary": "点击阅读全文\n\n前往东方财富APP阅读全文\n\n取消 前往\n\n分享成功\n\n#### 热门推荐\n\n即将前往东方财富APP查看原文\n\n取消 确定\n\n 分享至：\n 微信\n 朋友圈\n 微博\n\n郑重声明：东方财富发布此内容旨在传播更多信息，与本站立场无关，不构成投资建议。据此操作，风险自担。\n\n热点阅读\n:   风险拉响！美联储加息大消息！\n\n    风险拉响！美联储加息大消息！\n\n    证券时报网 158...",
+      "highlights": [
+        "前往东方财富APP阅读全文",
+        "即将前往东方财富APP查看原文",
+        "郑重声明：东方财富发布此内容旨在传播更多信息，与本站立场无关，不构成投资建议"
+      ],
+      "url": "https://wap.eastmoney.com/a/202609233881922070.html",
+      "source": "wap.eastmoney.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-23T01:00:00Z"
+    },
+    {
       "id": "b0102e65b933",
       "title": "DNA技術突破｜全球首部DNA電腦 藉熱力運算",
       "summary": "愛爾蘭國立梅努斯大學（Maynoth University）研究團隊取得重大運算技術突破，研發全球首創的「支架式DNA（脫氧核糖核酸）電腦」（Scaffolded DNA Computer，SDC）。",
@@ -469,6 +535,19 @@
       "category": "前沿理论",
       "importance": 3,
       "publishedAt": "2026-09-23T03:00:00Z"
+    },
+    {
+      "id": "d948169bc589",
+      "title": "Pateo and Arm sign MoU to develop physical AI for cars - Automotive World",
+      "summary": "Chinese OEMs record 12% EU share on hybrids, tariff Pateo and Arm sign MoU to develop physical AI for cars Mercedes-Benz signs production deal for Wayve AI Driver Pirelli plans six million tyres a yea...",
+      "highlights": [
+        "Chinese OEMs record 12% EU share on hybrids, tariff Pateo and Arm sign MoU to develop physical AI for cars Mercedes-Benz signs production deal for Wayve AI Driver Pirelli plans six million tyres a year at its Georgia site Rivian says R2 meets 2030 carbon goal four years early California signs six bills to speed EV adoption, charging German auto workers protest in wake of VW profit warning Chery reportedly weighs bringing Omoda, Jaecoo to China SAIC Roewe launches Jiayue 07 with Doubao AI agent JSW Group launches electric bus and truck brand Ampstar. “Our goal is to help stakeholders understand the future of mobility.”. Home › News › Pateo and Arm sign MoU to develop physical AI for cars. # Pateo and Arm sign MoU to develop physical AI for cars. “The Arm compute platform is already widely deployed across the automotive industry, adopted by a broad software ecosystem, and the company shares a clear vision for the future of physical AI. https://www.automotiveworld.com/news/pateo-and-arm-sign-mou-to-develop-physical-ai-for-cars/."
+      ],
+      "url": "https://www.automotiveworld.com/news/pateo-and-arm-sign-mou-to-develop-physical-ai-for-cars/",
+      "source": "automotiveworld.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-09-23T04:50:32Z"
     },
     {
       "id": "6b2c278c380c",
@@ -483,24 +562,48 @@
       "category": "投并购",
       "importance": 2,
       "publishedAt": "2026-09-23T02:00:00Z"
+    },
+    {
+      "id": "69ac2d7c6c62",
+      "title": "上证面对面 | 高盛范翔：进一步发挥双向开放桥梁作用 陪伴中国企业深度融入全球市场",
+      "summary": "范翔认为，面向未来五年，并购整合、跨境资本流动将成为两大核心机遇：AI浪潮驱动全球产业整合，国内上市公司通过并购实现产业出清、做大做强，和国际趋势高度契合；",
+      "highlights": [
+        "范翔认为，面向未来五年，并购整合、跨境资本流动将成为两大核心机遇：AI浪潮驱动全球产业整合，国内上市公司通过并购实现产业出清、做大做强，和国际趋势高度契合；"
+      ],
+      "url": "https://m.sohu.com/a/1080014026_120988576?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-09-23T10:00:00Z"
+    },
+    {
+      "id": "919cf6e6a762",
+      "title": "高盛：AI将通过手续费收入和降本增效推动银行盈利",
+      "summary": "高盛认为，人工智能的发展整体上对银行业信用基本面构成利好，其影响主要通过两条路径体现：一是AI投资周期为银行带来更多融资和手续费收入，二是银行自身应用AI提高",
+      "highlights": [
+        "高盛认为，人工智能的发展整体上对银行业信用基本面构成利好，其影响主要通过两条路径体现：一是AI投资周期为银行带来更多融资和手续费收入，二是银行自身应用AI提高"
+      ],
+      "url": "https://www.moomoo.com/hans/news/post/1000071252",
+      "source": "moomoo.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-09-23T06:00:00Z"
+    },
+    {
+      "id": "2187891ea7b6",
+      "title": "Maygrove AI Growbot Brings a Smarter, Easier Way to Grow Fresh Plants at Home - markets.businessinsider.com",
+      "summary": "# Maygrove AI Growbot Brings a Smarter, Easier Way to Grow Fresh Plants at Home. For people who love the idea of fresh herbs and greens at home but do not necessarily have a green thumb—or simply do n...",
+      "highlights": [
+        "# Maygrove AI Growbot Brings a Smarter, Easier Way to Grow Fresh Plants at Home. For people who love the idea of fresh herbs and greens at home but do not necessarily have a green thumb—or simply do not have the time to monitor plants every day—indoor gardening has often required more attention than expected. Maygrove announces the new product with the Maygrove AI Growbot Verti 30, which is taking a different approach and bringing automation and AI into indoor growing to make the process easier to understand, easier to manage, and more enjoyable to live with. When people are struggling with having a big garden to become expert gardeners, the technology behind Maygrove is simple; it takes care of many of the details that normally require constant attention. With Maygrove, the technology handles much of the routine work while people get to enjoy the part that makes indoor gardening rewarding: watching something grow, harvesting it when it is ready, and bringing a little more greenery into everyday life."
+      ],
+      "url": "https://markets.businessinsider.com/news/stocks/maygrove-ai-growbot-brings-a-smarter-easier-way-to-grow-fresh-plants-at-home-1036566086",
+      "source": "markets.businessinsider.com",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-09-23T04:17:42Z"
     }
   ],
   "week": [
-    {
-      "id": "6efa6e2bb42f",
-      "title": "是美国的4.7倍！中国AI大模型周调用量连续二十一周领跑：DeepSeek V4.1-Flash登顶，环比增长219%",
-      "summary": "《每日经济新闻》注意到，上周，全球调用量排名前五中，有四款中国AI大模型。其中，DeepSeek V4.1-Flash升至第一，周调用量达15.8万亿Token，环比增长219%。\n\n该模型于9月10日正式发布，在实现Coding与Agent能力提升的同时强化多模态理解能力。V4.1-Flash采用全新的Causal-Encoder-Decoder（因果编码器—解码器）结构，全局KV Cache降...",
-      "highlights": [
-        "《每日经济新闻》注意到，上周，全球调用量排名前五中，有四款中国AI大模型",
-        "其中，DeepSeek V4.1-Flash升至第一，周调用量达15.8万亿Token，环比增长219%",
-        "该模型于9月10日正式发布，在实现Coding与Agent能力提升的同时强化多模态理解能力"
-      ],
-      "url": "https://www.nbd.com.cn/articles/2026-09-21/4587100.html",
-      "source": "nbd.com.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-21T03:00:00Z"
-    },
     {
       "id": "cd957077b472",
       "title": "想看AI芯片下一步往哪里走？没来上海峰会的人，看这篇就够了",
@@ -575,21 +678,6 @@
       "publishedAt": "2026-09-22T04:00:00Z"
     },
     {
-      "id": "0edcd148e99f",
-      "title": "Muse上线两周登顶美国App Store：下载量超73万，超越ChatGPT",
-      "summary": "tradingkey.logo\n\n搜索\n\n\n\n一键诊股 让投资更聪明\n\n\n\nTradingKey\n\n作者Andy Chen\n\n2026年9月21日 18:51\n\nAI播客\n\nfacebooktwitterlinkedin\n\nMeta推出的个人AI智能体应用Muse上线不足两周便登顶美国iOS免费应用榜，下载量超同期的ChatGPT等竞品。该应用主打跨网页数字助理功能，提供免费及多档订阅模式，开...",
-      "highlights": [
-        "tradingkey.logo",
-        "一键诊股 让投资更聪明",
-        "作者Andy Chen"
-      ],
-      "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262178989-muse-app-tops-app-store-chatgpt-meta-ai-agent-downloads-tradingkey",
-      "source": "tradingkey.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-21T06:00:00Z"
-    },
-    {
       "id": "f4e5aa3ecce9",
       "title": "从渗透率到定位：中国自动驾驶与共享出行行业竞争格局演变 - Moomoo",
       "summary": "### 专业名词及重要事件\n\n   具身智能 (Embodied AI)：指拥有物理身体并能与环境交互的人工智能系统。在汽车领域，表现为自动驾驶汽车和人形机器人，其商业化路径依赖于传感器、执行器及算法的深度整合。 \n   本地化生产 (In-market Production)：指车企在海外目标市场建立工厂进行生产，以规避关税壁垒、降低物流成本并响应本地需求。报告中指出这是2026年车企差异化的关...",
@@ -618,21 +706,6 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-09-22T04:19:46Z"
-    },
-    {
-      "id": "4c866f120929",
-      "title": "阿里新一代AI芯片算力提升至上一代的3倍 - 东方财富",
-      "summary": "9月22日，据每日经济新闻，本届云栖大会上，阿里平头哥发布最强国产AI芯片真武V900，算力提升至真武M890的3倍。基于它构建的单一集群可扩展至50万卡，可支撑前沿模型的训练和推理。阿里表示，由于平头哥芯片产品线的成熟和客户的广泛应用，预计年出货量将大幅提升。\n\n　　此外，据界面新闻报道，Meta计划明年上半年部署新款自研AI芯片，称此举将有助于在运行AI模型时节省成本并降低能耗。Meta于20...",
-      "highlights": [
-        "9月22日，据每日经济新闻，本届云栖大会上，阿里平头哥发布最强国产AI芯片真武V900，算力提升至真武M890的3倍",
-        "基于它构建的单一集群可扩展至50万卡，可支撑前沿模型的训练和推理",
-        "阿里表示，由于平头哥芯片产品线的成熟和客户的广泛应用，预计年出货量将大幅提升"
-      ],
-      "url": "https://finance.eastmoney.com/a/202609223881098123.html",
-      "source": "finance.eastmoney.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-21T06:00:00Z"
     },
     {
       "id": "ac39ea93715f",
@@ -679,21 +752,6 @@
       "publishedAt": "2026-09-22T06:00:00Z"
     },
     {
-      "id": "81a7e10b0e8a",
-      "title": "OpenAI又要融资了：1.2万亿美元估值，谁还敢接下一棒？_投资界",
-      "summary": "若此轮融资估值定为1.2万亿美元，而IPO时估值达到1.5万亿美元。这一数字与外界对Anthropic IPO估值的预测相近，则早期进入者将获得约25%的账面回报。\n\n现有大股东各有各的烦恼\n\n过去几轮融资中，OpenAI已将市场上几乎所有大型机构投资者纳入股东名册。\n\n今年3月宣布的1220亿美元融资中，参与方多达近30家，涵盖T. Rowe Price、Fidelity、BlackRock等资...",
-      "highlights": [
-        "若此轮融资估值定为1.2万亿美元，而IPO时估值达到1.5万亿美元",
-        "这一数字与外界对Anthropic IPO估值的预测相近，则早期进入者将获得约25%的账面回报",
-        "现有大股东各有各的烦恼"
-      ],
-      "url": "https://news.pedaily.cn/202609/569386.shtml",
-      "source": "news.pedaily.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-21T03:14:00Z"
-    },
-    {
       "id": "68e1ae3afd92",
       "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数|Qwen 3|云栖大会|阿里巴巴|世界模型|千问_手机新浪网",
       "summary": "此外，同声传译模型Qwen3.8-LiveTranslate首次登场，人类同传平均时延在4秒以上，但该模型可将时延压缩至不到2.5秒。据了解，新模型已接入千问AI眼镜、QwenNote A2、钉钉耳机等AI硬件。\n\n阿里大模型加速走向终端。AI手机全栈解决方案Qwen Intelligence发布，专为手机场景深度优化，为合作伙伴提供基于千问大模型的 Agent 技术平台，让手机能够更可靠地完成跨...",
@@ -707,24 +765,69 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-09-22T12:05:38Z"
+    },
+    {
+      "id": "7f66e9b44d46",
+      "title": "Qwen4已在训练，下一代视频生成模型将于11月发布 - 财闻",
+      "summary": "首页 正文\n\n# 阿里大模型全面提速：Qwen4已在训练，下一代视频生成模型将于11月发布\n\n财闻   张晓迪  2026-09-22 11:58:32\n\n财闻 张晓迪 发自杭州\n\n阿里巴巴（BABA.US）正以“更高智能”与“极致性价比”为目标，加速向通用人工智能（AGI）乃至超级人工智能（ASI）迈进。\n\n本届云栖大会最受关注的焦点之一是阿里大语言模型系列的迭代路线图。Qwen LLM项目负责...",
+      "highlights": [
+        "# 阿里大模型全面提速：Qwen4已在训练，下一代视频生成模型将于11月发布",
+        "财闻   张晓迪  2026-09-22 11:58:32",
+        "财闻 张晓迪 发自杭州"
+      ],
+      "url": "https://www.caiwennews.com/article/1618841.shtml",
+      "source": "caiwennews.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-22T11:58:32Z"
+    },
+    {
+      "id": "e243afbce076",
+      "title": "Meta Muse点燃芯片股！最强国产AI芯片，阿里平头哥真武V900亮相！单集群可扩展至50万卡！芯片ETF汇添富(516920)标的指数一度涨超3%",
+      "summary": "摩根大通最新报告预计，2027年ASIC/XPU在AI加速器单元出货中的占比将升至54%，超过GPU；2028年进一步升至55%。其预计，2026年定制AI ASIC市场规模约600亿至700亿美元，未来数年复合增速超过40%至50%。目前博通和Marvell占据约90%的市占，其中博通约80%至85%，市场集中度较高。\n\n国信证券认为，伴随推理侧需求爆发，各公司自研芯片能力验证成熟，ASIC出货...",
+      "highlights": [
+        "摩根大通最新报告预计，2027年ASIC/XPU在AI加速器单元出货中的占比将升至54%，超过GPU；2028年进一步升至55%",
+        "其预计，2026年定制AI ASIC市场规模约600亿至700亿美元，未来数年复合增速超过40%至50%",
+        "目前博通和Marvell占据约90%的市占，其中博通约80%至85%，市场集中度较高"
+      ],
+      "url": "https://www.jiemian.com/article/15126716.html",
+      "source": "jiemian.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-22T06:00:00Z"
+    },
+    {
+      "id": "928f284e1ea3",
+      "title": "300324“20CM”涨停！云栖大会引爆AI芯片概念！",
+      "summary": "第二，华为昇腾的持续催化。\n\n9月17日华为已正式发布昇腾960超节点——全球首个采用NPO近封装光学技术的超节点产品，单节点可扩展至4096卡，FP8算力8EFLOPS，HBM容量高达1PB。今天盘中有消息称昇腾960超节点进展超此前预期，这意味着国产算力芯片可能更快迎来出货上升期，竞争逻辑也从\"单卡性能\"转向\"系统效率\"。叠加今天龙芯中科发布支持自研通用GPU的\"龙芯加速计算平台\"首个软件版本...",
+      "highlights": [
+        "第二，华为昇腾的持续催化",
+        "9月17日华为已正式发布昇腾960超节点——全球首个采用NPO近封装光学技术的超节点产品，单节点可扩展至4096卡，FP8算力8EFLOPS，HBM容量高达1PB",
+        "今天盘中有消息称昇腾960超节点进展超此前预期，这意味着国产算力芯片可能更快迎来出货上升期，竞争逻辑也从\"单卡性能\"转向\"系统效率\""
+      ],
+      "url": "https://static.weeklyonstock.com/26/0922/zbf152827.html",
+      "source": "static.weeklyonstock.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-22T07:00:00Z"
+    },
+    {
+      "id": "f4c9f4601c71",
+      "title": "AI新的\"杀手级应用\"出现了？Meta Muse有多火？ - 华尔街见闻",
+      "summary": "### 大家都在搜\n\n# AI新的\"杀手级应用\"出现了？Meta Muse有多火？\n\nMeta旗下AI个人智能体应用Muse上线不足两周，已在下载量和日活用户数两项关键指标上超越ChatGPT同期表现，引发市场对AI代理（AI agent）能否真正走向大众的强烈期待。\n\nMuse上线仅约五天便录得73万次下载，累计下载量在12天内突破280万次，并于上周五登顶美国iOS免费应用榜首，超越ChatG...",
+      "highlights": [
+        "# AI新的\"杀手级应用\"出现了",
+        "Meta Muse有多火",
+        "Meta旗下AI个人智能体应用Muse上线不足两周，已在下载量和日活用户数两项关键指标上超越ChatGPT同期表现，引发市场对AI代理（AI agent）能否真正走向大众的强烈期待"
+      ],
+      "url": "https://wallstreetcn.com/articles/3782258",
+      "source": "wallstreetcn.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-22T00:07:05Z"
     }
   ],
   "month": [
-    {
-      "id": "6efa6e2bb42f",
-      "title": "是美国的4.7倍！中国AI大模型周调用量连续二十一周领跑：DeepSeek V4.1-Flash登顶，环比增长219%",
-      "summary": "《每日经济新闻》注意到，上周，全球调用量排名前五中，有四款中国AI大模型。其中，DeepSeek V4.1-Flash升至第一，周调用量达15.8万亿Token，环比增长219%。\n\n该模型于9月10日正式发布，在实现Coding与Agent能力提升的同时强化多模态理解能力。V4.1-Flash采用全新的Causal-Encoder-Decoder（因果编码器—解码器）结构，全局KV Cache降...",
-      "highlights": [
-        "《每日经济新闻》注意到，上周，全球调用量排名前五中，有四款中国AI大模型",
-        "其中，DeepSeek V4.1-Flash升至第一，周调用量达15.8万亿Token，环比增长219%",
-        "该模型于9月10日正式发布，在实现Coding与Agent能力提升的同时强化多模态理解能力"
-      ],
-      "url": "https://www.nbd.com.cn/articles/2026-09-21/4587100.html",
-      "source": "nbd.com.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-21T03:00:00Z"
-    },
     {
       "id": "cd957077b472",
       "title": "想看AI芯片下一步往哪里走？没来上海峰会的人，看这篇就够了",
@@ -799,21 +902,6 @@
       "publishedAt": "2026-09-22T04:00:00Z"
     },
     {
-      "id": "0edcd148e99f",
-      "title": "Muse上线两周登顶美国App Store：下载量超73万，超越ChatGPT",
-      "summary": "tradingkey.logo\n\n搜索\n\n\n\n一键诊股 让投资更聪明\n\n\n\nTradingKey\n\n作者Andy Chen\n\n2026年9月21日 18:51\n\nAI播客\n\nfacebooktwitterlinkedin\n\nMeta推出的个人AI智能体应用Muse上线不足两周便登顶美国iOS免费应用榜，下载量超同期的ChatGPT等竞品。该应用主打跨网页数字助理功能，提供免费及多档订阅模式，开...",
-      "highlights": [
-        "tradingkey.logo",
-        "一键诊股 让投资更聪明",
-        "作者Andy Chen"
-      ],
-      "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262178989-muse-app-tops-app-store-chatgpt-meta-ai-agent-downloads-tradingkey",
-      "source": "tradingkey.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-21T06:00:00Z"
-    },
-    {
       "id": "f4e5aa3ecce9",
       "title": "从渗透率到定位：中国自动驾驶与共享出行行业竞争格局演变 - Moomoo",
       "summary": "### 专业名词及重要事件\n\n   具身智能 (Embodied AI)：指拥有物理身体并能与环境交互的人工智能系统。在汽车领域，表现为自动驾驶汽车和人形机器人，其商业化路径依赖于传感器、执行器及算法的深度整合。 \n   本地化生产 (In-market Production)：指车企在海外目标市场建立工厂进行生产，以规避关税壁垒、降低物流成本并响应本地需求。报告中指出这是2026年车企差异化的关...",
@@ -844,19 +932,48 @@
       "publishedAt": "2026-09-22T04:19:46Z"
     },
     {
-      "id": "4c866f120929",
-      "title": "阿里新一代AI芯片算力提升至上一代的3倍 - 东方财富",
-      "summary": "9月22日，据每日经济新闻，本届云栖大会上，阿里平头哥发布最强国产AI芯片真武V900，算力提升至真武M890的3倍。基于它构建的单一集群可扩展至50万卡，可支撑前沿模型的训练和推理。阿里表示，由于平头哥芯片产品线的成熟和客户的广泛应用，预计年出货量将大幅提升。\n\n　　此外，据界面新闻报道，Meta计划明年上半年部署新款自研AI芯片，称此举将有助于在运行AI模型时节省成本并降低能耗。Meta于20...",
+      "id": "ac39ea93715f",
+      "title": "跨卡通信才是算力天花板：真武V900如何把上千张芯片变成一颗“超级 ...",
+      "summary": "未登录用户\n\n  \n\n16 条评论\n\n默认\n\n最新\n\nImage 14: 大河我是小溪\n\n大河我是小溪\n\nImage 15\n\n老狼每次的角度都不太一样，这次也一样——别人都在比单卡性能，你直接跳到集群级了。那句\"从单芯片可用到系统可扩展\"挺戳的，国内算力确实走到这个拐点了\n\n3 小时前 · 新疆\n\n​回复​3\n\nImage 16: 月亮\n\n月亮\n\n做互联的来插一句，ICN最难得的其实不是带宽数字，...",
       "highlights": [
-        "9月22日，据每日经济新闻，本届云栖大会上，阿里平头哥发布最强国产AI芯片真武V900，算力提升至真武M890的3倍",
-        "基于它构建的单一集群可扩展至50万卡，可支撑前沿模型的训练和推理",
-        "阿里表示，由于平头哥芯片产品线的成熟和客户的广泛应用，预计年出货量将大幅提升"
+        "Image 14: 大河我是小溪",
+        "老狼每次的角度都不太一样，这次也一样——别人都在比单卡性能，你直接跳到集群级了",
+        "那句\"从单芯片可用到系统可扩展\"挺戳的，国内算力确实走到这个拐点了"
       ],
-      "url": "https://finance.eastmoney.com/a/202609223881098123.html",
-      "source": "finance.eastmoney.com",
+      "url": "https://zhuanlan.zhihu.com/p/2085707168267907213",
+      "source": "zhuanlan.zhihu.com",
       "category": "芯片硬件",
       "importance": 5,
-      "publishedAt": "2026-09-21T06:00:00Z"
+      "publishedAt": "2026-09-22T04:00:00Z"
+    },
+    {
+      "id": "ff2ecc6eb01c",
+      "title": "平头哥发布中国最强AI芯片真武V900，将于2027年第一季度 ...",
+      "summary": "平头哥透露，未来几年将持续升级自研CPU微架构，基于第二代自研核的倚天750，将支持平头哥自研ICN片间互联总线协议，倚天CPU与真武AI芯片之间可通过ICN总线直接互联，进一步提升CPU与AI芯片的协同效率。\n\n目前，平头哥已推出真武系列AI芯片、倚天系列服务器CPU、ICN Switch互联芯片、磐脉系列智能网卡、镇岳系列存储主控芯片等数据中心核心芯片，实现算力、网力和存力的全栈自研，并实现全...",
+      "highlights": [
+        "平头哥透露，未来几年将持续升级自研CPU微架构，基于第二代自研核的倚天750，将支持平头哥自研ICN片间互联总线协议，倚天CPU与真武AI芯片之间可通过ICN总线直接互联，进一步提升CPU与AI芯片的协同效率",
+        "目前，平头哥已推出真武系列AI芯片、倚天系列服务器CPU、ICN Switch互联芯片、磐脉系列智能网卡、镇岳系列存储主控芯片等数据中心核心芯片，实现算力、网力和存力的全栈自研，并实现全栈高效协同，为广泛的AI场景提供强大算力",
+        "编辑：张亭旺 [...] 据平头哥透露，真武系列芯片已服务超650家企业客户，覆盖智驾、金融、大模型、具身智能、能源、制造等千行百业，是场景应用最广的中国自研AI芯片之一"
+      ],
+      "url": "https://www.fengkouapp.com/news.html?id=1299742119262687232&type=news",
+      "source": "fengkouapp.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-22T04:00:00Z"
+    },
+    {
+      "id": "84f390cf38a7",
+      "title": "梁文锋押注华为芯片：DeepSeek想解决AI发展的长期瓶颈 - X",
+      "summary": "领先模型需要领先算力,而领先算力主要依赖英伟达GPU。无论是OpenAI、Google、Anthropic,还是国内的大模型公司",
+      "highlights": [
+        "领先模型需要领先算力,而领先算力主要依赖英伟达GPU",
+        "无论是OpenAI、Google、Anthropic,还是国内的大模型公司"
+      ],
+      "url": "https://x.com/MetaEraCN/status/2102269839050162567",
+      "source": "x.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-22T06:00:00Z"
     }
   ]
 }
