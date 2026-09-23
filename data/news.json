@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-09-23T00:01:33Z",
+  "updatedAt": "2026-09-23T06:01:24Z",
   "latest": [
-    {
-      "id": "6efa6e2bb42f",
-      "title": "是美国的4.7倍！中国AI大模型周调用量连续二十一周领跑：DeepSeek V4.1-Flash登顶，环比增长219%",
-      "summary": "《每日经济新闻》注意到，上周，全球调用量排名前五中，有四款中国AI大模型。其中，DeepSeek V4.1-Flash升至第一，周调用量达15.8万亿Token，环比增长219%。\n\n该模型于9月10日正式发布，在实现Coding与Agent能力提升的同时强化多模态理解能力。V4.1-Flash采用全新的Causal-Encoder-Decoder（因果编码器—解码器）结构，全局KV Cache降...",
-      "highlights": [
-        "《每日经济新闻》注意到，上周，全球调用量排名前五中，有四款中国AI大模型",
-        "其中，DeepSeek V4.1-Flash升至第一，周调用量达15.8万亿Token，环比增长219%",
-        "该模型于9月10日正式发布，在实现Coding与Agent能力提升的同时强化多模态理解能力"
-      ],
-      "url": "https://www.nbd.com.cn/articles/2026-09-21/4587100.html",
-      "source": "nbd.com.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-21T03:00:00Z"
-    },
     {
       "id": "cd957077b472",
       "title": "想看AI芯片下一步往哪里走？没来上海峰会的人，看这篇就够了",
@@ -90,21 +75,6 @@
       "publishedAt": "2026-09-22T04:00:00Z"
     },
     {
-      "id": "0edcd148e99f",
-      "title": "Muse上线两周登顶美国App Store：下载量超73万，超越ChatGPT",
-      "summary": "tradingkey.logo\n\n搜索\n\n\n\n一键诊股 让投资更聪明\n\n\n\nTradingKey\n\n作者Andy Chen\n\n2026年9月21日 18:51\n\nAI播客\n\nfacebooktwitterlinkedin\n\nMeta推出的个人AI智能体应用Muse上线不足两周便登顶美国iOS免费应用榜，下载量超同期的ChatGPT等竞品。该应用主打跨网页数字助理功能，提供免费及多档订阅模式，开...",
-      "highlights": [
-        "tradingkey.logo",
-        "一键诊股 让投资更聪明",
-        "作者Andy Chen"
-      ],
-      "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262178989-muse-app-tops-app-store-chatgpt-meta-ai-agent-downloads-tradingkey",
-      "source": "tradingkey.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-21T06:00:00Z"
-    },
-    {
       "id": "f4e5aa3ecce9",
       "title": "从渗透率到定位：中国自动驾驶与共享出行行业竞争格局演变 - Moomoo",
       "summary": "### 专业名词及重要事件\n\n   具身智能 (Embodied AI)：指拥有物理身体并能与环境交互的人工智能系统。在汽车领域，表现为自动驾驶汽车和人形机器人，其商业化路径依赖于传感器、执行器及算法的深度整合。 \n   本地化生产 (In-market Production)：指车企在海外目标市场建立工厂进行生产，以规避关税壁垒、降低物流成本并响应本地需求。报告中指出这是2026年车企差异化的关...",
@@ -133,21 +103,6 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-09-22T04:19:46Z"
-    },
-    {
-      "id": "4c866f120929",
-      "title": "阿里新一代AI芯片算力提升至上一代的3倍 - 东方财富",
-      "summary": "9月22日，据每日经济新闻，本届云栖大会上，阿里平头哥发布最强国产AI芯片真武V900，算力提升至真武M890的3倍。基于它构建的单一集群可扩展至50万卡，可支撑前沿模型的训练和推理。阿里表示，由于平头哥芯片产品线的成熟和客户的广泛应用，预计年出货量将大幅提升。\n\n　　此外，据界面新闻报道，Meta计划明年上半年部署新款自研AI芯片，称此举将有助于在运行AI模型时节省成本并降低能耗。Meta于20...",
-      "highlights": [
-        "9月22日，据每日经济新闻，本届云栖大会上，阿里平头哥发布最强国产AI芯片真武V900，算力提升至真武M890的3倍",
-        "基于它构建的单一集群可扩展至50万卡，可支撑前沿模型的训练和推理",
-        "阿里表示，由于平头哥芯片产品线的成熟和客户的广泛应用，预计年出货量将大幅提升"
-      ],
-      "url": "https://finance.eastmoney.com/a/202609223881098123.html",
-      "source": "finance.eastmoney.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-21T06:00:00Z"
     },
     {
       "id": "ac39ea93715f",
@@ -192,21 +147,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-22T06:00:00Z"
-    },
-    {
-      "id": "81a7e10b0e8a",
-      "title": "OpenAI又要融资了：1.2万亿美元估值，谁还敢接下一棒？_投资界",
-      "summary": "若此轮融资估值定为1.2万亿美元，而IPO时估值达到1.5万亿美元。这一数字与外界对Anthropic IPO估值的预测相近，则早期进入者将获得约25%的账面回报。\n\n现有大股东各有各的烦恼\n\n过去几轮融资中，OpenAI已将市场上几乎所有大型机构投资者纳入股东名册。\n\n今年3月宣布的1220亿美元融资中，参与方多达近30家，涵盖T. Rowe Price、Fidelity、BlackRock等资...",
-      "highlights": [
-        "若此轮融资估值定为1.2万亿美元，而IPO时估值达到1.5万亿美元",
-        "这一数字与外界对Anthropic IPO估值的预测相近，则早期进入者将获得约25%的账面回报",
-        "现有大股东各有各的烦恼"
-      ],
-      "url": "https://news.pedaily.cn/202609/569386.shtml",
-      "source": "news.pedaily.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-21T03:14:00Z"
     },
     {
       "id": "68e1ae3afd92",
@@ -327,6 +267,111 @@
       "publishedAt": "2026-09-22T07:37:23Z"
     },
     {
+      "id": "7d5f8c562543",
+      "title": "阿里公布全模态模型最新进展：Qwen4和下代视频模型均在训练中_搜狐网",
+      "summary": "## 阿里公布全模态模型最新进展：Qwen4和下代视频模型均在训练中\n\n快科技\n\n快科技\n\n快科技9月22日消息，今日2026云栖大会开幕，阿里巴巴公布了大模型的最新进展。\n\n据悉，从2019年起，阿里就开始着手AI大模型研究，陆续推出千问Qwen大语言模型系列，和万相Wan及HappyHorse等多模态模型系列。\n\n进入2026年，阿里大模型发布全面提速，最近1个多月时间，仅Qwen3.8系列就...",
+      "highlights": [
+        "## 阿里公布全模态模型最新进展：Qwen4和下代视频模型均在训练中",
+        "快科技9月22日消息，今日2026云栖大会开幕，阿里巴巴公布了大模型的最新进展",
+        "据悉，从2019年起，阿里就开始着手AI大模型研究，陆续推出千问Qwen大语言模型系列，和万相Wan及HappyHorse等多模态模型系列"
+      ],
+      "url": "https://m.sohu.com/a/1079392773_258768?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-22T11:53:04Z"
+    },
+    {
+      "id": "6fbf6e6bd112",
+      "title": "10万亿参数模型、20GW数据中心……阿里云栖大会“火力全开” - 财联社",
+      "summary": "他判断，今天机器思考的总量大概不到人类的3%。如果未来机器思考总量是人类的1000倍，机器思考至少还有几万倍增长空间。AI Coding可能只是机器智能时代早期的“电灯”，替代的是现有工作；当机器智能供给无限充沛，其意义将远远超出对现有脑力劳动的替代。\n\n大会现场，阿里展示了大模型核心领域的系列技术创新。据介绍，Qwen4模型正采用全新架构展开训练，Qwen4.5、Qwen5均在稳步推进中。图像生...",
+      "highlights": [
+        "他判断，今天机器思考的总量大概不到人类的3%",
+        "如果未来机器思考总量是人类的1000倍，机器思考至少还有几万倍增长空间",
+        "AI Coding可能只是机器智能时代早期的“电灯”，替代的是现有工作；当机器智能供给无限充沛，其意义将远远超出对现有脑力劳动的替代"
+      ],
+      "url": "https://www.cls.cn/detail/2489879",
+      "source": "cls.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-22T05:00:00Z"
+    },
+    {
+      "id": "df6a644df2dc",
+      "title": "当AI开始“自己教自己”：Opus 5.5是首个RSI训练出的大模型？",
+      "summary": "[](\n   首页\n   资讯\n   快讯\n   行情\n   日历\n   APP\n   VIP会员\n   大师课\n   生活家\n\n登录 / 注册\n\n   120 \n   收藏 \n\n   Image 1: qrcode\n   [](\n\n# 当AI开始“自己教自己”：Opus 5.5是首个RSI训练出的大模型？\n\nImage 2: 鲍奕龙鲍奕龙 09-23 02:57 \n\n谷歌工程师Patrick推测...",
+      "highlights": [
+        "Image 1: qrcode",
+        "# 当AI开始“自己教自己”：Opus 5.5是首个RSI训练出的大模型",
+        "Image 2: 鲍奕龙鲍奕龙 09-23 02:57"
+      ],
+      "url": "https://wallstreetcn.com/articles/3782340",
+      "source": "wallstreetcn.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-23T02:57:39Z"
+    },
+    {
+      "id": "9ea1e61af4a6",
+      "title": "想看AI芯片下一步往哪里走？没来上海峰会的人，看这篇就够了 - 智东西",
+      "summary": "对此，博伦智汇通过DRA Proxy连接厂商设备插件与K8S，统一转换、补全设备信息并上报，实现异构GPU的资源发现与调度。同时，其自研TOLD架构面向Token，以低时延、高吞吐、低成本为目标，进一步串联资源规划、资源管理与推理服务部署。\n\n在此基础上，博伦智汇的MIX调度平台通过复用厂商设备插件，降低芯片接入成本，让不同厂商的GPU释放算力价值。\n\n▲博伦智汇技术架构师、资深算力架构专家张磊\n...",
+      "highlights": [
+        "对此，博伦智汇通过DRA Proxy连接厂商设备插件与K8S，统一转换、补全设备信息并上报，实现异构GPU的资源发现与调度",
+        "同时，其自研TOLD架构面向Token，以低时延、高吞吐、低成本为目标，进一步串联资源规划、资源管理与推理服务部署",
+        "在此基础上，博伦智汇的MIX调度平台通过复用厂商设备插件，降低芯片接入成本，让不同厂商的GPU释放算力价值"
+      ],
+      "url": "https://m.zhidx.com/p/595920.html",
+      "source": "m.zhidx.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-22T06:00:00Z"
+    },
+    {
+      "id": "9b48d31e3317",
+      "title": "AI芯片、AI云三大基石，阿里巴巴发布机器智能时代战略 - 财闻",
+      "summary": "在终端布局方面，桌面端开源的Qwen3.8-27B模型可流畅运行，支持开发者和企业本地化部署；移动端阿里正式发布Qwen Intelligence，为合作伙伴提供AI解决方案，让手机能完成各类复杂任务。\n\nAI芯片：发布新一代真武V900，算力提升至3倍\n\n平头哥已对数据中心芯片进行全面布局，包括真武系列GPU、倚天系列CPU、磐脉系列智能网卡以及ICN互联芯片，组建超大规模AI集群所需的核心芯片...",
+      "highlights": [
+        "在终端布局方面，桌面端开源的Qwen3.8-27B模型可流畅运行，支持开发者和企业本地化部署；移动端阿里正式发布Qwen Intelligence，为合作伙伴提供AI解决方案，让手机能完成各类复杂任务",
+        "AI芯片：发布新一代真武V900，算力提升至3倍",
+        "平头哥已对数据中心芯片进行全面布局，包括真武系列GPU、倚天系列CPU、磐脉系列智能网卡以及ICN互联芯片，组建超大规模AI集群所需的核心芯片已全面覆盖"
+      ],
+      "url": "https://www.caiwennews.com/article/1618754.shtml",
+      "source": "caiwennews.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-22T11:22:35Z"
+    },
+    {
+      "id": "c01202710b61",
+      "title": "两周登顶App Store榜首，Meta Muse智能体应用爆红",
+      "summary": "据Meta官方发布信息，Muse并非传统问答式聊天机器人，而是运行在独立云端虚拟机之上的个人AI代理，依托Muse Spark模型驱动，允许AI替用户完成邮件整理、表单填写、餐厅预订、网购清单生成等一系列实操类网络行为。\n\nMeta的CEO扎克伯格在社交平台上发文，将Muse定义为一款“能够理解用户目标，并全天候替用户完成任务的个人 Agent”。\n\n产品初期仅面向美国、加拿大地区18岁以上用户开...",
+      "highlights": [
+        "据Meta官方发布信息，Muse并非传统问答式聊天机器人，而是运行在独立云端虚拟机之上的个人AI代理，依托Muse Spark模型驱动，允许AI替用户完成邮件整理、表单填写、餐厅预订、网购清单生成等一系列实操类网络行为",
+        "Meta的CEO扎克伯格在社交平台上发文，将Muse定义为一款“能够理解用户目标，并全天候替用户完成任务的个人 Agent”",
+        "产品初期仅面向美国、加拿大地区18岁以上用户开放，覆盖iOS、安卓、网页端，后续计划接入Facebook、Instagram以及Meta智能眼镜硬件生态"
+      ],
+      "url": "https://www.jiemian.com/article/15127574.html",
+      "source": "jiemian.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-22T07:00:00Z"
+    },
+    {
+      "id": "d48ca4f3d4c5",
+      "title": "Coopetition: Why’s NVIDIA Building AI Models to Compete With Customers It Sells Chips To? - Sify",
+      "summary": "And those customers are reacting by trying to build their own chips: Anthropic hired a chip expert who led Google’s TPU development, and OpenAI has partnered with Broadcom on inference chips. [...] Th...",
+      "highlights": [
+        "And those customers are reacting by trying to build their own chips: Anthropic hired a chip expert who led Google’s TPU development, and OpenAI has partnered with Broadcom on inference chips. [...] The Weight of the World: Why the Open vs. Closed AI War Is Really About Who Controls the Future",
+        "NVIDIA’s Strategic Pivot to Drive our Autonomous Future with Innovative Chips",
+        "Anthropic, OpenAI, Meta, – Why are Companies Hyping Up Their Rogue AI?"
+      ],
+      "url": "https://www.sify.com/uncategorized/coopetition-whys-nvidia-building-ai-models-to-compete-with-customers-it-sells-chips-to",
+      "source": "sify.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-22T04:03:33Z"
+    },
+    {
       "id": "a9391657f899",
       "title": "Manus AI Targets $4 Billion Valuation as AI Agents Draw Fresh Investor Interest",
       "summary": "Agree & Join LinkedIn\n\nBy clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.\n\nSkip to main contentLinkedIn\n   Top Content\n   People\n   Lea...",
@@ -394,48 +439,52 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-09-21T13:23:00Z"
-    },
-    {
-      "id": "2437985ecc46",
-      "title": "Meta's Muse gives Zuckerberg another shot at building a real platform - Business Insider",
-      "summary": "Meta's new personal AI agent, Muse, gives Mark Zuckerberg another chance to build the kind of technology platform he has chased for years. Muse jumped to the top of the App Store last week and remaine...",
-      "highlights": [
-        "Meta's new personal AI agent, Muse, gives Mark Zuckerberg another chance to build the kind of technology platform he has chased for years. Muse jumped to the top of the App Store last week and remained the most downloaded free app on Monday, beating ChatGPT. If enough people use Muse as their main way to get things done online, developers could flock to the nascent platform, and businesses may have little choice but to engage with it. Investors appear to be betting the company has found a new way to sit between consumers and the businesses trying to reach them. Part of that ambition came into focus in 2021 when Apple made it harder for Meta to track people across apps and target ads, reminding Zuckerberg how much power platform owners have over companies that depend on them. Last week, the company opened Muse to outside developers through a new connector platform that lets businesses plug their services directly into the AI agent. Developers can create their own Muse connectors and submit them to Meta's agent platform for review."
-      ],
-      "url": "https://www.businessinsider.com/meta-muse-mark-zuckerberg-platform-opportunity-developers-2026-9",
-      "source": "businessinsider.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-21T22:16:36Z"
-    },
-    {
-      "id": "111cd105b99f",
-      "title": "Australia's Firmus to launch $7 billion IPO on October 6 - itnews.com.au",
-      "summary": "## Suncorp Group brings AI into its risk function ## Poor data sharing undermining EU cyber defences ## Australia's Firmus to launch $7 billion IPO on October 6 ## Australian mid-market businesses to ...",
-      "highlights": [
-        "## Suncorp Group brings AI into its risk function ## Poor data sharing undermining EU cyber defences ## Australia's Firmus to launch $7 billion IPO on October 6 ## Australian mid-market businesses to access deeper AI and security expertise with First Focus-Integris partnership ## Aussie mobile telcos face 'automatic' customer compensation for outages. # Australia's Firmus to launch $7 billion IPO on October 6. Australian data centre ⁠operator ⁠Firmus will launch its initial public offering on October 6, according to a term sheet reviewed by *Reuters,* seeking to raise $7 billion in the second-largest IPO in Australia's history. A term sheet ‌sent to investors on Monday said the institutional ‌bookbuild ‌would start on October 6 and close ‌on October 7, with a prospectus expected ⁠to be lodged on October 8. The company's shares will start trading on the ​Australian Securities Exchange on October 22, according to the term sheet."
-      ],
-      "url": "https://www.itnews.com.au/news/australias-firmus-to-launch-7-billion-ipo-on-october-6-629079",
-      "source": "itnews.com.au",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-21T20:39:00Z"
-    },
-    {
-      "id": "a6516909256b",
-      "title": "Specialty Insurer Orion180 Falls 2.8% After $240 Million IPO - insurancejournal.com",
-      "summary": "Founded in 2018, Orion180 operates as an insurer and a managing general agent for other carriers, providing both excess and surplus and state-regulated lines of home insurance, as well as private floo...",
-      "highlights": [
-        "Founded in 2018, Orion180 operates as an insurer and a managing general agent for other carriers, providing both excess and surplus and state-regulated lines of home insurance, as well as private flood insurance, through a network of more than 14,000 independent agents. Excess and surplus lines of insurance, which are generally not subject to regulations on premium rates or policy language, represent a small but fast-growing subset of the $187 billion US homeowners insurance market, according to data from S&P Global Market Intelligence cited in Orion180’s filings. The funds raised in the IPO may be used to repay a new credit facility that substantially funded both the September dividend and a separate $151 million payout in May. Orion180’s IPO comes ahead of next week’s expected listing of another home insurance company, Bamboo Insurance Services Inc., whose existing shareholders including private equity firm CVC Capital Partners are seeking to sell as much as $700 million of shares."
-      ],
-      "url": "https://www.insurancejournal.com/news/southeast/2026/09/21/886262.htm",
-      "source": "insurancejournal.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-09-21T15:50:36Z"
     }
   ],
-  "today": [],
+  "today": [
+    {
+      "id": "df6a644df2dc",
+      "title": "当AI开始“自己教自己”：Opus 5.5是首个RSI训练出的大模型？",
+      "summary": "[](\n   首页\n   资讯\n   快讯\n   行情\n   日历\n   APP\n   VIP会员\n   大师课\n   生活家\n\n登录 / 注册\n\n   120 \n   收藏 \n\n   Image 1: qrcode\n   [](\n\n# 当AI开始“自己教自己”：Opus 5.5是首个RSI训练出的大模型？\n\nImage 2: 鲍奕龙鲍奕龙 09-23 02:57 \n\n谷歌工程师Patrick推测...",
+      "highlights": [
+        "Image 1: qrcode",
+        "# 当AI开始“自己教自己”：Opus 5.5是首个RSI训练出的大模型",
+        "Image 2: 鲍奕龙鲍奕龙 09-23 02:57"
+      ],
+      "url": "https://wallstreetcn.com/articles/3782340",
+      "source": "wallstreetcn.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-23T02:57:39Z"
+    },
+    {
+      "id": "b0102e65b933",
+      "title": "DNA技術突破｜全球首部DNA電腦 藉熱力運算",
+      "summary": "愛爾蘭國立梅努斯大學（Maynoth University）研究團隊取得重大運算技術突破，研發全球首創的「支架式DNA（脫氧核糖核酸）電腦」（Scaffolded DNA Computer，SDC）。",
+      "highlights": [
+        "愛爾蘭國立梅努斯大學（Maynoth University）研究團隊取得重大運算技術突破，研發全球首創的「支架式DNA（脫氧核糖核酸）電腦」（Scaffolded DNA Computer，SDC）"
+      ],
+      "url": "https://www.ejtech.ai/ceoai/dna-%E6%8A%80%E8%A1%93-%E7%AA%81%E7%A0%B4-%E5%85%A8%E7%90%83-%E9%A6%96%E9%83%A8-dna%E9%9B%BB%E8%85%A6-%E7%86%B1%E5%8A%9B-%E9%81%8B%E7%AE%97",
+      "source": "ejtech.ai",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-09-23T03:00:00Z"
+    },
+    {
+      "id": "6b2c278c380c",
+      "title": "潮起香江聚势共赢”2026深圳企业赴港上市与基石投资者专题交流会成功举办",
+      "summary": "证券时报，证券时报网，由人民日报社主管主办，是证券市场权威信息披露媒体，也是中国资本市场的重要信息披露平台。提供全天候7*24小时财经证券类资讯，内容丰富，",
+      "highlights": [
+        "证券时报，证券时报网，由人民日报社主管主办，是证券市场权威信息披露媒体，也是中国资本市场的重要信息披露平台",
+        "提供全天候7*24小时财经证券类资讯，内容丰富，"
+      ],
+      "url": "https://www.stcn.com/article/detail/4195950.html",
+      "source": "stcn.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-09-23T02:00:00Z"
+    }
+  ],
   "week": [
     {
       "id": "6efa6e2bb42f",
