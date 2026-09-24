@@ -1,80 +1,6 @@
 {
-  "updatedAt": "2026-09-24T00:01:24Z",
+  "updatedAt": "2026-09-24T06:01:42Z",
   "latest": [
-    {
-      "id": "f48d5e88bd2b",
-      "title": "阿里亮出最强底牌：真武V900发布，狂砸3800亿建AI集群",
-      "summary": "根据现场披露的量产时间表，真武V900计划于2027年第一季度正式量产并启动规模化部署，平头哥同时公布了下一代产品真武J900的排期，该芯片将于2027年第三季度正式推出，延续此前“一年一代”的迭代节奏。\n\n目前平头哥已经完成了数据中心核心芯片的全产品线布局，覆盖真武系列GPU、倚天系列CPU、磐脉系列智能网卡以及ICN互联芯片四大品类，组建超大规模AI集群所需的所有核心芯片全部实现自研覆盖。\n\n...",
-      "highlights": [
-        "根据现场披露的量产时间表，真武V900计划于2027年第一季度正式量产并启动规模化部署，平头哥同时公布了下一代产品真武J900的排期，该芯片将于2027年第三季度正式推出，延续此前“一年一代”的迭代节奏",
-        "目前平头哥已经完成了数据中心核心芯片的全产品线布局，覆盖真武系列GPU、倚天系列CPU、磐脉系列智能网卡以及ICN互联芯片四大品类，组建超大规模AI集群所需的所有核心芯片全部实现自研覆盖",
-        "阿里正在推进芯片、服务器、超节点、网络、大模型和推理系统的全链路联合调优，从底层硬件到上层软件打通全栈协同，大幅提升整个AI集群的Token产能和运行效率"
-      ],
-      "url": "https://www.eet-china.com/news/202609227841.html",
-      "source": "eet-china.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-22T04:00:00Z"
-    },
-    {
-      "id": "953c5a1be031",
-      "title": "车企竞逐“造人”|人形|特斯拉|机器人|自动驾驶|智能汽车_网易订阅",
-      "summary": "对此，奇瑞汽车董事长尹同跃强调，做机器人要把可靠性、成本、寿命做到能批量应用的水平，并在全球真实场景中反复打磨，先验证场景再谈规模。否则，汽车行业过去几年的产能过剩和价格战，可能在机器人领域重演。\n\n第三道坎是场景开放的含金量。整车场景、数据集的开放，涉及安全、责任和利益分配。车企开放工厂、门店等真实场景让机器人\"上岗\"，听起来是好事，但权责怎么算需要规则先行。理想汽车董事长李想提出，“自动驾驶是...",
-      "highlights": [
-        "对此，奇瑞汽车董事长尹同跃强调，做机器人要把可靠性、成本、寿命做到能批量应用的水平，并在全球真实场景中反复打磨，先验证场景再谈规模",
-        "否则，汽车行业过去几年的产能过剩和价格战，可能在机器人领域重演",
-        "第三道坎是场景开放的含金量"
-      ],
-      "url": "https://www.163.com/dy/article/L7E9R34305568W0A.html",
-      "source": "163.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-22T04:19:46Z"
-    },
-    {
-      "id": "ac39ea93715f",
-      "title": "跨卡通信才是算力天花板：真武V900如何把上千张芯片变成一颗“超级 ...",
-      "summary": "未登录用户\n\n  \n\n16 条评论\n\n默认\n\n最新\n\nImage 14: 大河我是小溪\n\n大河我是小溪\n\nImage 15\n\n老狼每次的角度都不太一样，这次也一样——别人都在比单卡性能，你直接跳到集群级了。那句\"从单芯片可用到系统可扩展\"挺戳的，国内算力确实走到这个拐点了\n\n3 小时前 · 新疆\n\n​回复​3\n\nImage 16: 月亮\n\n月亮\n\n做互联的来插一句，ICN最难得的其实不是带宽数字，...",
-      "highlights": [
-        "Image 14: 大河我是小溪",
-        "老狼每次的角度都不太一样，这次也一样——别人都在比单卡性能，你直接跳到集群级了",
-        "那句\"从单芯片可用到系统可扩展\"挺戳的，国内算力确实走到这个拐点了"
-      ],
-      "url": "https://zhuanlan.zhihu.com/p/2085707168267907213",
-      "source": "zhuanlan.zhihu.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-22T04:00:00Z"
-    },
-    {
-      "id": "ff2ecc6eb01c",
-      "title": "平头哥发布中国最强AI芯片真武V900，将于2027年第一季度 ...",
-      "summary": "平头哥透露，未来几年将持续升级自研CPU微架构，基于第二代自研核的倚天750，将支持平头哥自研ICN片间互联总线协议，倚天CPU与真武AI芯片之间可通过ICN总线直接互联，进一步提升CPU与AI芯片的协同效率。\n\n目前，平头哥已推出真武系列AI芯片、倚天系列服务器CPU、ICN Switch互联芯片、磐脉系列智能网卡、镇岳系列存储主控芯片等数据中心核心芯片，实现算力、网力和存力的全栈自研，并实现全...",
-      "highlights": [
-        "平头哥透露，未来几年将持续升级自研CPU微架构，基于第二代自研核的倚天750，将支持平头哥自研ICN片间互联总线协议，倚天CPU与真武AI芯片之间可通过ICN总线直接互联，进一步提升CPU与AI芯片的协同效率",
-        "目前，平头哥已推出真武系列AI芯片、倚天系列服务器CPU、ICN Switch互联芯片、磐脉系列智能网卡、镇岳系列存储主控芯片等数据中心核心芯片，实现算力、网力和存力的全栈自研，并实现全栈高效协同，为广泛的AI场景提供强大算力",
-        "编辑：张亭旺 [...] 据平头哥透露，真武系列芯片已服务超650家企业客户，覆盖智驾、金融、大模型、具身智能、能源、制造等千行百业，是场景应用最广的中国自研AI芯片之一"
-      ],
-      "url": "https://www.fengkouapp.com/news.html?id=1299742119262687232&type=news",
-      "source": "fengkouapp.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-22T04:00:00Z"
-    },
-    {
-      "id": "84f390cf38a7",
-      "title": "梁文锋押注华为芯片：DeepSeek想解决AI发展的长期瓶颈 - X",
-      "summary": "领先模型需要领先算力,而领先算力主要依赖英伟达GPU。无论是OpenAI、Google、Anthropic,还是国内的大模型公司",
-      "highlights": [
-        "领先模型需要领先算力,而领先算力主要依赖英伟达GPU",
-        "无论是OpenAI、Google、Anthropic,还是国内的大模型公司"
-      ],
-      "url": "https://x.com/MetaEraCN/status/2102269839050162567",
-      "source": "x.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-22T06:00:00Z"
-    },
     {
       "id": "68e1ae3afd92",
       "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数|Qwen 3|云栖大会|阿里巴巴|世界模型|千问_手机新浪网",
@@ -106,21 +32,6 @@
       "publishedAt": "2026-09-22T11:58:32Z"
     },
     {
-      "id": "e243afbce076",
-      "title": "Meta Muse点燃芯片股！最强国产AI芯片，阿里平头哥真武V900亮相！单集群可扩展至50万卡！芯片ETF汇添富(516920)标的指数一度涨超3%",
-      "summary": "摩根大通最新报告预计，2027年ASIC/XPU在AI加速器单元出货中的占比将升至54%，超过GPU；2028年进一步升至55%。其预计，2026年定制AI ASIC市场规模约600亿至700亿美元，未来数年复合增速超过40%至50%。目前博通和Marvell占据约90%的市占，其中博通约80%至85%，市场集中度较高。\n\n国信证券认为，伴随推理侧需求爆发，各公司自研芯片能力验证成熟，ASIC出货...",
-      "highlights": [
-        "摩根大通最新报告预计，2027年ASIC/XPU在AI加速器单元出货中的占比将升至54%，超过GPU；2028年进一步升至55%",
-        "其预计，2026年定制AI ASIC市场规模约600亿至700亿美元，未来数年复合增速超过40%至50%",
-        "目前博通和Marvell占据约90%的市占，其中博通约80%至85%，市场集中度较高"
-      ],
-      "url": "https://www.jiemian.com/article/15126716.html",
-      "source": "jiemian.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-22T06:00:00Z"
-    },
-    {
       "id": "928f284e1ea3",
       "title": "300324“20CM”涨停！云栖大会引爆AI芯片概念！",
       "summary": "第二，华为昇腾的持续催化。\n\n9月17日华为已正式发布昇腾960超节点——全球首个采用NPO近封装光学技术的超节点产品，单节点可扩展至4096卡，FP8算力8EFLOPS，HBM容量高达1PB。今天盘中有消息称昇腾960超节点进展超此前预期，这意味着国产算力芯片可能更快迎来出货上升期，竞争逻辑也从\"单卡性能\"转向\"系统效率\"。叠加今天龙芯中科发布支持自研通用GPU的\"龙芯加速计算平台\"首个软件版本...",
@@ -134,21 +45,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-22T07:00:00Z"
-    },
-    {
-      "id": "f4c9f4601c71",
-      "title": "AI新的\"杀手级应用\"出现了？Meta Muse有多火？ - 华尔街见闻",
-      "summary": "### 大家都在搜\n\n# AI新的\"杀手级应用\"出现了？Meta Muse有多火？\n\nMeta旗下AI个人智能体应用Muse上线不足两周，已在下载量和日活用户数两项关键指标上超越ChatGPT同期表现，引发市场对AI代理（AI agent）能否真正走向大众的强烈期待。\n\nMuse上线仅约五天便录得73万次下载，累计下载量在12天内突破280万次，并于上周五登顶美国iOS免费应用榜首，超越ChatG...",
-      "highlights": [
-        "# AI新的\"杀手级应用\"出现了",
-        "Meta Muse有多火",
-        "Meta旗下AI个人智能体应用Muse上线不足两周，已在下载量和日活用户数两项关键指标上超越ChatGPT同期表现，引发市场对AI代理（AI agent）能否真正走向大众的强烈期待"
-      ],
-      "url": "https://wallstreetcn.com/articles/3782258",
-      "source": "wallstreetcn.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-22T00:07:05Z"
     },
     {
       "id": "0031bea25b60",
@@ -209,21 +105,6 @@
       "publishedAt": "2026-09-22T11:53:04Z"
     },
     {
-      "id": "6fbf6e6bd112",
-      "title": "10万亿参数模型、20GW数据中心……阿里云栖大会“火力全开” - 财联社",
-      "summary": "他判断，今天机器思考的总量大概不到人类的3%。如果未来机器思考总量是人类的1000倍，机器思考至少还有几万倍增长空间。AI Coding可能只是机器智能时代早期的“电灯”，替代的是现有工作；当机器智能供给无限充沛，其意义将远远超出对现有脑力劳动的替代。\n\n大会现场，阿里展示了大模型核心领域的系列技术创新。据介绍，Qwen4模型正采用全新架构展开训练，Qwen4.5、Qwen5均在稳步推进中。图像生...",
-      "highlights": [
-        "他判断，今天机器思考的总量大概不到人类的3%",
-        "如果未来机器思考总量是人类的1000倍，机器思考至少还有几万倍增长空间",
-        "AI Coding可能只是机器智能时代早期的“电灯”，替代的是现有工作；当机器智能供给无限充沛，其意义将远远超出对现有脑力劳动的替代"
-      ],
-      "url": "https://www.cls.cn/detail/2489879",
-      "source": "cls.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-22T05:00:00Z"
-    },
-    {
       "id": "df6a644df2dc",
       "title": "当AI开始“自己教自己”：Opus 5.5是首个RSI训练出的大模型？",
       "summary": "[](\n   首页\n   资讯\n   快讯\n   行情\n   日历\n   APP\n   VIP会员\n   大师课\n   生活家\n\n登录 / 注册\n\n   120 \n   收藏 \n\n   Image 1: qrcode\n   [](\n\n# 当AI开始“自己教自己”：Opus 5.5是首个RSI训练出的大模型？\n\nImage 2: 鲍奕龙鲍奕龙 09-23 02:57 \n\n谷歌工程师Patrick推测...",
@@ -237,21 +118,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-09-23T02:57:39Z"
-    },
-    {
-      "id": "9ea1e61af4a6",
-      "title": "想看AI芯片下一步往哪里走？没来上海峰会的人，看这篇就够了 - 智东西",
-      "summary": "对此，博伦智汇通过DRA Proxy连接厂商设备插件与K8S，统一转换、补全设备信息并上报，实现异构GPU的资源发现与调度。同时，其自研TOLD架构面向Token，以低时延、高吞吐、低成本为目标，进一步串联资源规划、资源管理与推理服务部署。\n\n在此基础上，博伦智汇的MIX调度平台通过复用厂商设备插件，降低芯片接入成本，让不同厂商的GPU释放算力价值。\n\n▲博伦智汇技术架构师、资深算力架构专家张磊\n...",
-      "highlights": [
-        "对此，博伦智汇通过DRA Proxy连接厂商设备插件与K8S，统一转换、补全设备信息并上报，实现异构GPU的资源发现与调度",
-        "同时，其自研TOLD架构面向Token，以低时延、高吞吐、低成本为目标，进一步串联资源规划、资源管理与推理服务部署",
-        "在此基础上，博伦智汇的MIX调度平台通过复用厂商设备插件，降低芯片接入成本，让不同厂商的GPU释放算力价值"
-      ],
-      "url": "https://m.zhidx.com/p/595920.html",
-      "source": "m.zhidx.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-22T06:00:00Z"
     },
     {
       "id": "9b48d31e3317",
@@ -284,21 +150,6 @@
       "publishedAt": "2026-09-22T07:00:00Z"
     },
     {
-      "id": "d48ca4f3d4c5",
-      "title": "Coopetition: Why’s NVIDIA Building AI Models to Compete With Customers It Sells Chips To? - Sify",
-      "summary": "And those customers are reacting by trying to build their own chips: Anthropic hired a chip expert who led Google’s TPU development, and OpenAI has partnered with Broadcom on inference chips. [...] Th...",
-      "highlights": [
-        "And those customers are reacting by trying to build their own chips: Anthropic hired a chip expert who led Google’s TPU development, and OpenAI has partnered with Broadcom on inference chips. [...] The Weight of the World: Why the Open vs. Closed AI War Is Really About Who Controls the Future",
-        "NVIDIA’s Strategic Pivot to Drive our Autonomous Future with Innovative Chips",
-        "Anthropic, OpenAI, Meta, – Why are Companies Hyping Up Their Rogue AI?"
-      ],
-      "url": "https://www.sify.com/uncategorized/coopetition-whys-nvidia-building-ai-models-to-compete-with-customers-it-sells-chips-to",
-      "source": "sify.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-22T04:03:33Z"
-    },
-    {
       "id": "7a8aee9ef1a0",
       "title": "阿里公布全模态模型最新进展：Qwen4和下代视频模型均在训练中",
       "summary": "## 新浪科技\n\n    \n\n# 阿里公布全模态模型最新进展：Qwen4和下代视频模型均在训练中\n\n \n\n## 快科技官方\n\n关注)\n\n快科技9月22日消息，今日2026云栖大会开幕，阿里巴巴公布了大模型的最新进展。\n\n据悉，从2019年起，阿里就开始着手AI大模型研究，陆续推出千问Qwen大语言模型系列，和万相Wan及HappyHorse等多模态模型系列。\n\n进入2026年，阿里大模型发布全面提...",
@@ -329,21 +180,6 @@
       "publishedAt": "2026-09-23T03:00:00Z"
     },
     {
-      "id": "753190541d7c",
-      "title": "阿里CEO发布“性能最强国产AI芯片”",
-      "summary": "同时，我们正在对芯片、服务器、超节点、网络、模型和推理系统进行联合调优，不断提升整个AI集群的 Token 产能和效率。阿里自研的M890 AI超节点，已经成功支撑超过2万亿参数大模型的高效推理，是全球极少数具备这样能力的公司之一。本季度开始，阿里云已经规模化上架我们的AI超节点。\n\n  今天，我们将发布新一代AI 芯片真武 V900。这是目前中国算力性能最强的AI芯片，性能达到M890的3倍，基...",
-      "highlights": [
-        "同时，我们正在对芯片、服务器、超节点、网络、模型和推理系统进行联合调优，不断提升整个AI集群的 Token 产能和效率",
-        "阿里自研的M890 AI超节点，已经成功支撑超过2万亿参数大模型的高效推理，是全球极少数具备这样能力的公司之一",
-        "本季度开始，阿里云已经规模化上架我们的AI超节点"
-      ],
-      "url": "https://www.guancha.cn/CaiJing/2026_09_22_901679.shtml",
-      "source": "guancha.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-22T03:00:00Z"
-    },
-    {
       "id": "24a43f64abd2",
       "title": "阿里新一代AI芯片算力提升至上一代的3倍，今年AI服务器本土AI芯片份额有望达50%丨盘中雷达",
       "summary": "本文机构观点来自持牌证券机构，不构成任何投资建议，亦不代表平台观点，请投资人独立判断和决策。\n\n（作者：崔海花 编辑：梁明）\n\n阿里新一代AI芯片真武V900算力提升至上一代的3倍\n\n9月22日，据每日经济新闻，本届云栖大会上，阿里平头哥发布最强国产AI芯片真武V900，算力提升至真武M890的3倍。基于它构建的单一集群可扩展至50万卡，可支撑前沿模型的训练和推理。阿里表示，由于平头哥芯片产品线的...",
@@ -359,21 +195,6 @@
       "publishedAt": "2026-09-23T07:00:00Z"
     },
     {
-      "id": "4ef186b49bab",
-      "title": "Muse下载量登顶点燃引爆AI Agent！ 机构：基础软件有望率先受益 - 21经济网",
-      "summary": "模型侧，推理成本被“重写”，Agent渗透的经济门槛下降。\n\nDeepSeek V4.1 Flash采用552B参数MoE主干、输入/输出分别激活约8B/16B参数，并将KV Cache对HBM、SSD的资源需求分别压缩至约1/4、1/8，主要面向长上下文、频繁工具调用的Agent工作负载。\n\n智谱GLM5.3 Flash依托十万级国产芯片推理资源池，端到端性能较硬件原始基线提升约3倍，单Toke...",
-      "highlights": [
-        "模型侧，推理成本被“重写”，Agent渗透的经济门槛下降",
-        "DeepSeek V4.1 Flash采用552B参数MoE主干、输入/输出分别激活约8B/16B参数，并将KV Cache对HBM、SSD的资源需求分别压缩至约1/4、1/8，主要面向长上下文、频繁工具调用的Agent工作负载",
-        "智谱GLM5.3 Flash依托十万级国产芯片推理资源池，端到端性能较硬件原始基线提升约3倍，单Token推理成本已可比肩主流英伟达GPU"
-      ],
-      "url": "https://www.21jingji.com/article/20260922/herald/cb847efdeb0c128d5b576143152eda4d.html",
-      "source": "21jingji.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-22T02:00:00Z"
-    },
-    {
       "id": "04c677e92d3e",
       "title": "全球唯一非侵入穿颅读脑突破，这家中国公司想成为脑科学的“英伟达”-36氪",
       "summary": "两条线合流，决定了这家公司的组织形态：它不是从一个应用场景出发找技术，而是从一个过去做不到的物理问题出发做产品。“这个问题在学校里可以研究，” 刘家家说，“但在一个拥有工程交付能力和商业化能力的组织里做，带来的是完全不同的速度和资源密度。”\n\n本质上，鲲为是一家有商业化能力的声学空间智能 Neo Lab—— 这家公司把蝙蝠用声波感知空间的能力，第一次做成可计算、可规模化的产品。\n\n这个时间线还有一...",
@@ -387,21 +208,6 @@
       "category": "前沿理论",
       "importance": 5,
       "publishedAt": "2026-09-23T06:01:13Z"
-    },
-    {
-      "id": "09de0c801270",
-      "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
-      "summary": "在最新的Artificial Analysis全球大模型排行榜上，Qwen3.8-Max从40提升到45分\n\n阿里巴巴是最早布局AI大模型的中国科技公司。从2019年起，阿里就开始着手AI大模型研究，陆续推出千问Qwen大语言模型系列，和万相Wan及HappyHorse等多模态模型系列。进入2026年，阿里大模型发布全面提速，最近1个多月时间，仅Qwen3.8系列就陆续更新迭代出4个不同模型及重大...",
-      "highlights": [
-        "在最新的Artificial Analysis全球大模型排行榜上，Qwen3.8-Max从40提升到45分",
-        "阿里巴巴是最早布局AI大模型的中国科技公司",
-        "从2019年起，阿里就开始着手AI大模型研究，陆续推出千问Qwen大语言模型系列，和万相Wan及HappyHorse等多模态模型系列"
-      ],
-      "url": "https://www.qbitai.com/2026/09/493625.html",
-      "source": "qbitai.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-22T03:00:00Z"
     },
     {
       "id": "b38932969b5c",
@@ -447,9 +253,280 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-09-23T13:00:00Z"
+    },
+    {
+      "id": "954037fdc41c",
+      "title": "AI重塑终端体验 小米开启智能手机全新升级-经济参考网 _ 新华社《经济参考报》官方网站",
+      "summary": "家电正在从“被动响应”走向“主动服务”。 洪勇认为，手机、汽车、家电等终端，正成为AI进入物理世界的重要入口。未来，AI能否准确理解用户需求，并在不同设备和场景之间有效协同，将成为影响智能终端体验的关键因素。\n\n体系化自研夯实技术底座\n\nAI赋能不是把大模型装进手机那么简单。真正决定体验上限的，是底层能力是否掌握在自己手里。小米给出的答案是“体系化自研”。\n\n过去五年，小米累计研发投入1055亿元...",
+      "highlights": [
+        "家电正在从“被动响应”走向“主动服务”",
+        "洪勇认为，手机、汽车、家电等终端，正成为AI进入物理世界的重要入口",
+        "未来，AI能否准确理解用户需求，并在不同设备和场景之间有效协同，将成为影响智能终端体验的关键因素"
+      ],
+      "url": "http://jjckb.xinhuanet.com/20260924/78d5206399da42ca990386c18154a5b3/c.html",
+      "source": "jjckb.xinhuanet.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-24T00:00:00Z"
+    },
+    {
+      "id": "5ce8befada13",
+      "title": "华创证券:《燧原科技-U（688801）深度研究报告：全栈自研筑算力底座，万卡集群启AI新篇》-发现报告",
+      "summary": "当前AI算力市场正处于高速发展阶段，全球算力需求因AI大模型训练与多模态应用加速落地而进入指数级增长阶段。中国AI加速卡市场规模预计将持续扩大，云端AI芯片占据主导地位。推理场景成为算力增长的核心引擎，中国推理用AI加速卡市场增速显著。美国对高端GPU的出口限制进一步推动了高性能AI加速芯片行业的快速发展，为我国本土厂商提供了重要的发展机遇。中国AI加速卡市场规模预计将从2024年的2164.77...",
+      "highlights": [
+        "当前AI算力市场正处于高速发展阶段，全球算力需求因AI大模型训练与多模态应用加速落地而进入指数级增长阶段",
+        "中国AI加速卡市场规模预计将持续扩大，云端AI芯片占据主导地位",
+        "推理场景成为算力增长的核心引擎，中国推理用AI加速卡市场增速显著"
+      ],
+      "url": "https://www.fxbaogao.com/detail/5721310",
+      "source": "fxbaogao.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-23T06:00:00Z"
+    },
+    {
+      "id": "a95e59c50c2d",
+      "title": "推理算力赛道分化：通用GPU与定制ASIC的路线博弈-虎嗅网",
+      "summary": "AI原生企业与公有云服务商也在加速定制硬件的布局，不再单纯依赖外部采购通用GPU。OpenAI对外披露与博通、Celestica合作开发的Jalapeno推理处理器，后续会释放出更多性能细节，补齐自身推理硬件能力。Anthropic也传出与三星洽谈合作，计划利用其2纳米制程与封装技术开发AI训练芯片，即便推进自研项目，企业依旧会继续采购英伟达、谷歌、亚马逊的算力产品，保持算力供给的多元结构。\n\n各...",
+      "highlights": [
+        "AI原生企业与公有云服务商也在加速定制硬件的布局，不再单纯依赖外部采购通用GPU",
+        "OpenAI对外披露与博通、Celestica合作开发的Jalapeno推理处理器，后续会释放出更多性能细节，补齐自身推理硬件能力",
+        "Anthropic也传出与三星洽谈合作，计划利用其2纳米制程与封装技术开发AI训练芯片，即便推进自研项目，企业依旧会继续采购英伟达、谷歌、亚马逊的算力产品，保持算力供给的多元结构"
+      ],
+      "url": "https://www.huxiu.com/article/4893639.html",
+      "source": "huxiu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-24T00:11:31Z"
+    },
+    {
+      "id": "9696c30b1dec",
+      "title": "千问加速打造Personal Agent，让每个人拥有更懂自己的AI 助理- 财闻网",
+      "summary": "首页 正文\n\n# 千问加速打造 Personal Agent，让每个人拥有更懂自己的 AI 助理\n\n财闻   张静伦  2026-09-22 16:47:15\n\n### 千问产品负责人郑嗣寿表示，自去年上线以来，让每个人拥有自己的 AI 助理，始终是千问不变的目标。\n\n9月22日，在2026年云栖大会上，千问宣布将加速打造 Personal Agent。千问产品负责人郑嗣寿表示，自去年上线以来，让...",
+      "highlights": [
+        "# 千问加速打造 Personal Agent，让每个人拥有更懂自己的 AI 助理",
+        "财闻   张静伦  2026-09-22 16:47:15",
+        "### 千问产品负责人郑嗣寿表示，自去年上线以来，让每个人拥有自己的 AI 助理，始终是千问不变的目标"
+      ],
+      "url": "https://www.caiwennews.com/article/1620157.shtml",
+      "source": "caiwennews.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-22T16:47:15Z"
+    },
+    {
+      "id": "712618201698",
+      "title": "新烛时代完成天使+轮融资，聚焦AI驱动聚变产业 - 投资界",
+      "summary": "顺创产投表示：顺创产投始终坚持面向科技前沿、国家战略和产业未来开展投资布局。新烛时代汇聚了兼具前沿人工智能科研能力、聚变产业认知与科技成果转化经验的复合型团队，人才与技术资源具有较强稀缺性。公司以AI for Science为技术底座，前瞻布局聚变装置智能控制这一关键环节，致力于提升聚变实验与装置运行的安全性、稳定性和研发效率。顺创产投很高兴参与本轮融资，期待新烛时代持续突破核心技术，巩固在聚变智...",
+      "highlights": [
+        "顺创产投表示：顺创产投始终坚持面向科技前沿、国家战略和产业未来开展投资布局",
+        "新烛时代汇聚了兼具前沿人工智能科研能力、聚变产业认知与科技成果转化经验的复合型团队，人才与技术资源具有较强稀缺性",
+        "公司以AI for Science为技术底座，前瞻布局聚变装置智能控制这一关键环节，致力于提升聚变实验与装置运行的安全性、稳定性和研发效率"
+      ],
+      "url": "https://news.pedaily.cn/202609/569595.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-24T03:13:00Z"
+    },
+    {
+      "id": "46acf499213e",
+      "title": "Manus的增长曲线，如何画下去？-36氪",
+      "summary": "“这个案子的实质是，换个壳子往外卖，这条路已经走不通了。”一位专注AI Agent商业化的企业战略顾问对《凤凰WEEKLY财经》表示，Manus团队、数据、研发本来都在国内，后来把总部迁到新加坡，并剥离中国子公司，同时将数据传到境外，再卖给Meta，触碰了核心技术外流与数据出境两条红线。\n\n“对其他有外资背景的AI公司来说，想靠‘换个马甲出海’卖给外资，这个模式已经不可行了。”他表示。\n\n郭涛指出...",
+      "highlights": [
+        "“这个案子的实质是，换个壳子往外卖，这条路已经走不通了",
+        "”一位专注AI Agent商业化的企业战略顾问对《凤凰WEEKLY财经》表示，Manus团队、数据、研发本来都在国内，后来把总部迁到新加坡，并剥离中国子公司，同时将数据传到境外，再卖给Meta，触碰了核心技术外流与数据出境两条红线",
+        "“对其他有外资背景的AI公司来说，想靠‘换个马甲出海’卖给外资，这个模式已经不可行了"
+      ],
+      "url": "https://m.36kr.com/p/3995933413003140",
+      "source": "m.36kr.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-24T00:00:13Z"
+    },
+    {
+      "id": "cb8eb62dca42",
+      "title": "梁文锋署名！DeepSeek发新论文，剑指大规模Agent训练；台积电据报明年起上调晶圆代工价格3%至6%｜全球科技早参 | 每日经济新闻",
+      "summary": "当地时间9月23日，OpenAI CEO萨姆·奥尔特曼（Sam Altman）与Anthropic CEO达里奥·阿莫代伊（Dario Amodei）在联合国安理会发言，均呼吁加强国际合作，应对AI可能带来的风险。奥尔特曼表示，竞争中的国家也可以围绕强大新技术开展合作，并称OpenAI过去曾主动放缓，未来也会如此。阿莫代伊则重申此前提出的放缓AI开发计划，呼吁各国共同制定AI安全标准。此前，Ope...",
+      "highlights": [
+        "当地时间9月23日，OpenAI CEO萨姆·奥尔特曼（Sam Altman）与Anthropic CEO达里奥·阿莫代伊（Dario Amodei）在联合国安理会发言，均呼吁加强国际合作，应对AI可能带来的风险",
+        "奥尔特曼表示，竞争中的国家也可以围绕强大新技术开展合作，并称OpenAI过去曾主动放缓，未来也会如此",
+        "阿莫代伊则重申此前提出的放缓AI开发计划，呼吁各国共同制定AI安全标准"
+      ],
+      "url": "https://www.mrjjxw.com/articles/2026-09-24/4590711.html",
+      "source": "mrjjxw.com",
+      "category": "行业话题",
+      "importance": 5,
+      "publishedAt": "2026-09-24T00:00:00Z"
+    },
+    {
+      "id": "d0325ae89c88",
+      "title": "Anthropic Blocks Huawei Chips From Using Latest Opus 5.5 to Develop AI Models, Yet Amazon Appears To Have Gotten Caught in the Crossfire",
+      "summary": "Opus 5.5 does not appear to be limited only to training frontier models, as Anthropic adds that it and Opus 5 have also placed classifiers to prevent users from extracting their complete reasoning pro...",
+      "highlights": [
+        "Opus 5.5 does not appear to be limited only to training frontier models, as Anthropic adds that it and Opus 5 have also placed classifiers to prevent users from extracting their complete reasoning processes. Distilling of US AI models by Chinese entities is quite common and has seen Anthorpic, OpenAI and Google's products being targeted. [...] Follow Wccftech on Google to get more of our news coverage in your feeds.",
+        "### Further Reading",
+        "I'm sorry, I can't identify the people in this image."
+      ],
+      "url": "https://wccftech.com/anthropic-blocks-huawei-chips-from-using-latest-opus-5-5-to-develop-ai-models-yet-amazon-appears-to-have-gotten-caught-in-the-crossfire",
+      "source": "wccftech.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-23T16:00:12Z"
+    },
+    {
+      "id": "4b98c0faee51",
+      "title": "‘Stick to Your Knitting’ in AI. Models, YouTube & Amazon. ARD #169",
+      "summary": "Some examples.\n\nOpenAI released GPT-6 Sol and GPT-6 Luna, its lesser tier models, and for its top business customers the price is half of what the previous versions cost. That is notable.\n\nAnthropic r...",
+      "highlights": [
+        "Some examples.",
+        "OpenAI released GPT-6 Sol and GPT-6 Luna, its lesser tier models, and for its top business customers the price is half of what the previous versions cost. That is notable.",
+        "Anthropic released Claude Opus 5.5, up from 5.0, yesterday. Anthropic says it costs about 40 percent less to run than Opus 5, at the same top level of intelligence. It is the model I am using to do the work for today’s episode, as an example, and qualitatively it feels a little bit better. [...] First, the AI models. Whether you are talking about open or closed, frontier or not so frontier, they are all getting better. Every company is focused on its knitting, improving these things from the bottom up and getting cheaper by the week. And that is good to see."
+      ],
+      "url": "https://michaelparekh.substack.com/p/stick-to-your-knitting-in-ai-models",
+      "source": "michaelparekh.substack.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-23T21:00:00Z"
+    },
+    {
+      "id": "4e1a6092b477",
+      "title": "小米数字系列迎来史上最大升级，卢伟冰：AI全面改造智能 ...",
+      "summary": "过去五年，小米累计研发投入1055亿元，全球授权专利数超 4.7 万项。未来五年计划再投入至少2000亿元，未来三年AI领域累计投入不少于600亿元，持续构建技术护城河。\n\nAI大模型方面，小米MiMo完成语言、多模态、语音全系列模型矩阵布局。9月22日，小米发布并开源全新一代MiMo大模型：全模态旗舰模型Xiaomi MiMo-V2.6-Pro、高效推理模型Xiaomi MiMo-V2.6-Fl...",
+      "highlights": [
+        "过去五年，小米累计研发投入1055亿元，全球授权专利数超 4.7 万项",
+        "未来五年计划再投入至少2000亿元，未来三年AI领域累计投入不少于600亿元，持续构建技术护城河",
+        "AI大模型方面，小米MiMo完成语言、多模态、语音全系列模型矩阵布局"
+      ],
+      "url": "https://www.yzwb.net/news/ch/202609/t20260923_396121.html",
+      "source": "yzwb.net",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-09-23T14:00:00Z"
+    },
+    {
+      "id": "28dae31ae381",
+      "title": "价格战愈演愈烈！AI大模型概念景气升温这12股业绩倍增可期(名单)",
+      "summary": "点击阅读全文\n\n前往东方财富APP阅读全文\n\n取消 前往\n\n分享成功\n\n#### 热门推荐\n\n即将前往东方财富APP查看原文\n\n取消 确定\n\n 分享至：\n 微信\n 朋友圈\n 微博\n\n郑重声明：东方财富发布此内容旨在传播更多信息，与本站立场无关，不构成投资建议。据此操作，风险自担。\n\n热点阅读\n:   风险拉响！美联储加息大消息！\n\n    风险拉响！美联储加息大消息！\n\n    证券时报网 158...",
+      "highlights": [
+        "前往东方财富APP阅读全文",
+        "即将前往东方财富APP查看原文",
+        "郑重声明：东方财富发布此内容旨在传播更多信息，与本站立场无关，不构成投资建议"
+      ],
+      "url": "https://wap.eastmoney.com/a/202609233881922070.html",
+      "source": "wap.eastmoney.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-23T01:00:00Z"
+    },
+    {
+      "id": "3e0895404c25",
+      "title": "中央财经大学数字经济融合创新发展中心主任陈端：完善估值锚体系是企业外源性融资的关键前提 - 21经济网",
+      "summary": "站在收购方上市公司角度，并购AI标的可以获得两层回报。第一层业务生态层面，补齐技术、算力、行业数据，完善产业链闭环，夯实自身的行业生态位锚；第二层是二级市场市值管理层面，获得AI叙事乘数，改善市场对企业的认知与预期。但这里存在巨大陷阱：仅仅买来“AI概念”，没有实现业务、数据、人才真正协同，只会带来短期股价脉冲，无法转化为基本面硬锚，甚至可能会形成商誉爆雷。此外，上市公司如果是通过定增募资投AI项...",
+      "highlights": [
+        "站在收购方上市公司角度，并购AI标的可以获得两层回报",
+        "第一层业务生态层面，补齐技术、算力、行业数据，完善产业链闭环，夯实自身的行业生态位锚；第二层是二级市场市值管理层面，获得AI叙事乘数，改善市场对企业的认知与预期",
+        "但这里存在巨大陷阱：仅仅买来“AI概念”，没有实现业务、数据、人才真正协同，只会带来短期股价脉冲，无法转化为基本面硬锚，甚至可能会形成商誉爆雷"
+      ],
+      "url": "https://www.21jingji.com/article/20260923/herald/0f7cf1e29d6273eed43f849960654ba6.html",
+      "source": "21jingji.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-23T14:00:00Z"
+    },
+    {
+      "id": "6b2c278c380c",
+      "title": "潮起香江聚势共赢”2026深圳企业赴港上市与基石投资者专题交流会成功举办",
+      "summary": "彭博数据显示，截至9月7日，年内港股IPO项目引入基石投资者的比例达81.9%，基石认购规模达1460亿港元，占港股IPO募资总额的比例约41%。从赛道分布来看，信息技术、人工智能领域吸纳基石资本最多，新能源、先进制造两大赛道紧随其后。\n\n值得关注的是，财务投资人正持续回流港股市场，广发国际权益研究总监吴鹏表示，主权基金、国际长线基金、头部公募基金、保险机构等优质财务投资人纷纷布局港股IPO项目，...",
+      "highlights": [
+        "彭博数据显示，截至9月7日，年内港股IPO项目引入基石投资者的比例达81.9%，基石认购规模达1460亿港元，占港股IPO募资总额的比例约41%",
+        "从赛道分布来看，信息技术、人工智能领域吸纳基石资本最多，新能源、先进制造两大赛道紧随其后",
+        "值得关注的是，财务投资人正持续回流港股市场，广发国际权益研究总监吴鹏表示，主权基金、国际长线基金、头部公募基金、保险机构等优质财务投资人纷纷布局港股IPO项目，为优质企业合理定价、稳定发行节奏提供了坚实的资本支撑"
+      ],
+      "url": "https://www.stcn.com/article/detail/4195950.html",
+      "source": "stcn.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-23T06:00:00Z"
     }
   ],
-  "today": [],
+  "today": [
+    {
+      "id": "954037fdc41c",
+      "title": "AI重塑终端体验 小米开启智能手机全新升级-经济参考网 _ 新华社《经济参考报》官方网站",
+      "summary": "家电正在从“被动响应”走向“主动服务”。 洪勇认为，手机、汽车、家电等终端，正成为AI进入物理世界的重要入口。未来，AI能否准确理解用户需求，并在不同设备和场景之间有效协同，将成为影响智能终端体验的关键因素。\n\n体系化自研夯实技术底座\n\nAI赋能不是把大模型装进手机那么简单。真正决定体验上限的，是底层能力是否掌握在自己手里。小米给出的答案是“体系化自研”。\n\n过去五年，小米累计研发投入1055亿元...",
+      "highlights": [
+        "家电正在从“被动响应”走向“主动服务”",
+        "洪勇认为，手机、汽车、家电等终端，正成为AI进入物理世界的重要入口",
+        "未来，AI能否准确理解用户需求，并在不同设备和场景之间有效协同，将成为影响智能终端体验的关键因素"
+      ],
+      "url": "http://jjckb.xinhuanet.com/20260924/78d5206399da42ca990386c18154a5b3/c.html",
+      "source": "jjckb.xinhuanet.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-24T00:00:00Z"
+    },
+    {
+      "id": "a95e59c50c2d",
+      "title": "推理算力赛道分化：通用GPU与定制ASIC的路线博弈-虎嗅网",
+      "summary": "AI原生企业与公有云服务商也在加速定制硬件的布局，不再单纯依赖外部采购通用GPU。OpenAI对外披露与博通、Celestica合作开发的Jalapeno推理处理器，后续会释放出更多性能细节，补齐自身推理硬件能力。Anthropic也传出与三星洽谈合作，计划利用其2纳米制程与封装技术开发AI训练芯片，即便推进自研项目，企业依旧会继续采购英伟达、谷歌、亚马逊的算力产品，保持算力供给的多元结构。\n\n各...",
+      "highlights": [
+        "AI原生企业与公有云服务商也在加速定制硬件的布局，不再单纯依赖外部采购通用GPU",
+        "OpenAI对外披露与博通、Celestica合作开发的Jalapeno推理处理器，后续会释放出更多性能细节，补齐自身推理硬件能力",
+        "Anthropic也传出与三星洽谈合作，计划利用其2纳米制程与封装技术开发AI训练芯片，即便推进自研项目，企业依旧会继续采购英伟达、谷歌、亚马逊的算力产品，保持算力供给的多元结构"
+      ],
+      "url": "https://www.huxiu.com/article/4893639.html",
+      "source": "huxiu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-24T00:11:31Z"
+    },
+    {
+      "id": "712618201698",
+      "title": "新烛时代完成天使+轮融资，聚焦AI驱动聚变产业 - 投资界",
+      "summary": "顺创产投表示：顺创产投始终坚持面向科技前沿、国家战略和产业未来开展投资布局。新烛时代汇聚了兼具前沿人工智能科研能力、聚变产业认知与科技成果转化经验的复合型团队，人才与技术资源具有较强稀缺性。公司以AI for Science为技术底座，前瞻布局聚变装置智能控制这一关键环节，致力于提升聚变实验与装置运行的安全性、稳定性和研发效率。顺创产投很高兴参与本轮融资，期待新烛时代持续突破核心技术，巩固在聚变智...",
+      "highlights": [
+        "顺创产投表示：顺创产投始终坚持面向科技前沿、国家战略和产业未来开展投资布局",
+        "新烛时代汇聚了兼具前沿人工智能科研能力、聚变产业认知与科技成果转化经验的复合型团队，人才与技术资源具有较强稀缺性",
+        "公司以AI for Science为技术底座，前瞻布局聚变装置智能控制这一关键环节，致力于提升聚变实验与装置运行的安全性、稳定性和研发效率"
+      ],
+      "url": "https://news.pedaily.cn/202609/569595.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-24T03:13:00Z"
+    },
+    {
+      "id": "46acf499213e",
+      "title": "Manus的增长曲线，如何画下去？-36氪",
+      "summary": "“这个案子的实质是，换个壳子往外卖，这条路已经走不通了。”一位专注AI Agent商业化的企业战略顾问对《凤凰WEEKLY财经》表示，Manus团队、数据、研发本来都在国内，后来把总部迁到新加坡，并剥离中国子公司，同时将数据传到境外，再卖给Meta，触碰了核心技术外流与数据出境两条红线。\n\n“对其他有外资背景的AI公司来说，想靠‘换个马甲出海’卖给外资，这个模式已经不可行了。”他表示。\n\n郭涛指出...",
+      "highlights": [
+        "“这个案子的实质是，换个壳子往外卖，这条路已经走不通了",
+        "”一位专注AI Agent商业化的企业战略顾问对《凤凰WEEKLY财经》表示，Manus团队、数据、研发本来都在国内，后来把总部迁到新加坡，并剥离中国子公司，同时将数据传到境外，再卖给Meta，触碰了核心技术外流与数据出境两条红线",
+        "“对其他有外资背景的AI公司来说，想靠‘换个马甲出海’卖给外资，这个模式已经不可行了"
+      ],
+      "url": "https://m.36kr.com/p/3995933413003140",
+      "source": "m.36kr.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-24T00:00:13Z"
+    },
+    {
+      "id": "cb8eb62dca42",
+      "title": "梁文锋署名！DeepSeek发新论文，剑指大规模Agent训练；台积电据报明年起上调晶圆代工价格3%至6%｜全球科技早参 | 每日经济新闻",
+      "summary": "当地时间9月23日，OpenAI CEO萨姆·奥尔特曼（Sam Altman）与Anthropic CEO达里奥·阿莫代伊（Dario Amodei）在联合国安理会发言，均呼吁加强国际合作，应对AI可能带来的风险。奥尔特曼表示，竞争中的国家也可以围绕强大新技术开展合作，并称OpenAI过去曾主动放缓，未来也会如此。阿莫代伊则重申此前提出的放缓AI开发计划，呼吁各国共同制定AI安全标准。此前，Ope...",
+      "highlights": [
+        "当地时间9月23日，OpenAI CEO萨姆·奥尔特曼（Sam Altman）与Anthropic CEO达里奥·阿莫代伊（Dario Amodei）在联合国安理会发言，均呼吁加强国际合作，应对AI可能带来的风险",
+        "奥尔特曼表示，竞争中的国家也可以围绕强大新技术开展合作，并称OpenAI过去曾主动放缓，未来也会如此",
+        "阿莫代伊则重申此前提出的放缓AI开发计划，呼吁各国共同制定AI安全标准"
+      ],
+      "url": "https://www.mrjjxw.com/articles/2026-09-24/4590711.html",
+      "source": "mrjjxw.com",
+      "category": "行业话题",
+      "importance": 5,
+      "publishedAt": "2026-09-24T00:00:00Z"
+    }
+  ],
   "week": [
     {
       "id": "f48d5e88bd2b",
