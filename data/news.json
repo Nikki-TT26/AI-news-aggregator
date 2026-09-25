@@ -1,6 +1,562 @@
 {
-  "updatedAt": "2026-09-25T10:38:29Z",
+  "updatedAt": "2026-09-25T15:59:34Z",
   "latest": [
+    {
+      "id": "954037fdc41c",
+      "title": "AI重塑终端体验 小米开启智能手机全新升级-经济参考网 _ 新华社《经济参考报》官方网站",
+      "summary": "家电正在从“被动响应”走向“主动服务”。 洪勇认为，手机、汽车、家电等终端，正成为AI进入物理世界的重要入口。未来，AI能否准确理解用户需求，并在不同设备和场景之间有效协同，将成为影响智能终端体验的关键因素。\n\n体系化自研夯实技术底座\n\nAI赋能不是把大模型装进手机那么简单。真正决定体验上限的，是底层能力是否掌握在自己手里。小米给出的答案是“体系化自研”。\n\n过去五年，小米累计研发投入1055亿元...",
+      "highlights": [
+        "家电正在从“被动响应”走向“主动服务”",
+        "洪勇认为，手机、汽车、家电等终端，正成为AI进入物理世界的重要入口",
+        "未来，AI能否准确理解用户需求，并在不同设备和场景之间有效协同，将成为影响智能终端体验的关键因素"
+      ],
+      "url": "http://jjckb.xinhuanet.com/20260924/78d5206399da42ca990386c18154a5b3/c.html",
+      "source": "jjckb.xinhuanet.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-24T00:00:00Z"
+    },
+    {
+      "id": "a95e59c50c2d",
+      "title": "推理算力赛道分化：通用GPU与定制ASIC的路线博弈-虎嗅网",
+      "summary": "AI原生企业与公有云服务商也在加速定制硬件的布局，不再单纯依赖外部采购通用GPU。OpenAI对外披露与博通、Celestica合作开发的Jalapeno推理处理器，后续会释放出更多性能细节，补齐自身推理硬件能力。Anthropic也传出与三星洽谈合作，计划利用其2纳米制程与封装技术开发AI训练芯片，即便推进自研项目，企业依旧会继续采购英伟达、谷歌、亚马逊的算力产品，保持算力供给的多元结构。\n\n各...",
+      "highlights": [
+        "AI原生企业与公有云服务商也在加速定制硬件的布局，不再单纯依赖外部采购通用GPU",
+        "OpenAI对外披露与博通、Celestica合作开发的Jalapeno推理处理器，后续会释放出更多性能细节，补齐自身推理硬件能力",
+        "Anthropic也传出与三星洽谈合作，计划利用其2纳米制程与封装技术开发AI训练芯片，即便推进自研项目，企业依旧会继续采购英伟达、谷歌、亚马逊的算力产品，保持算力供给的多元结构"
+      ],
+      "url": "https://www.huxiu.com/article/4893639.html",
+      "source": "huxiu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-24T00:11:31Z"
+    },
+    {
+      "id": "712618201698",
+      "title": "新烛时代完成天使+轮融资，聚焦AI驱动聚变产业 - 投资界",
+      "summary": "顺创产投表示：顺创产投始终坚持面向科技前沿、国家战略和产业未来开展投资布局。新烛时代汇聚了兼具前沿人工智能科研能力、聚变产业认知与科技成果转化经验的复合型团队，人才与技术资源具有较强稀缺性。公司以AI for Science为技术底座，前瞻布局聚变装置智能控制这一关键环节，致力于提升聚变实验与装置运行的安全性、稳定性和研发效率。顺创产投很高兴参与本轮融资，期待新烛时代持续突破核心技术，巩固在聚变智...",
+      "highlights": [
+        "顺创产投表示：顺创产投始终坚持面向科技前沿、国家战略和产业未来开展投资布局",
+        "新烛时代汇聚了兼具前沿人工智能科研能力、聚变产业认知与科技成果转化经验的复合型团队，人才与技术资源具有较强稀缺性",
+        "公司以AI for Science为技术底座，前瞻布局聚变装置智能控制这一关键环节，致力于提升聚变实验与装置运行的安全性、稳定性和研发效率"
+      ],
+      "url": "https://news.pedaily.cn/202609/569595.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-24T03:13:00Z"
+    },
+    {
+      "id": "46acf499213e",
+      "title": "Manus的增长曲线，如何画下去？-36氪",
+      "summary": "“这个案子的实质是，换个壳子往外卖，这条路已经走不通了。”一位专注AI Agent商业化的企业战略顾问对《凤凰WEEKLY财经》表示，Manus团队、数据、研发本来都在国内，后来把总部迁到新加坡，并剥离中国子公司，同时将数据传到境外，再卖给Meta，触碰了核心技术外流与数据出境两条红线。\n\n“对其他有外资背景的AI公司来说，想靠‘换个马甲出海’卖给外资，这个模式已经不可行了。”他表示。\n\n郭涛指出...",
+      "highlights": [
+        "“这个案子的实质是，换个壳子往外卖，这条路已经走不通了",
+        "”一位专注AI Agent商业化的企业战略顾问对《凤凰WEEKLY财经》表示，Manus团队、数据、研发本来都在国内，后来把总部迁到新加坡，并剥离中国子公司，同时将数据传到境外，再卖给Meta，触碰了核心技术外流与数据出境两条红线",
+        "“对其他有外资背景的AI公司来说，想靠‘换个马甲出海’卖给外资，这个模式已经不可行了"
+      ],
+      "url": "https://m.36kr.com/p/3995933413003140",
+      "source": "m.36kr.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-24T00:00:13Z"
+    },
+    {
+      "id": "cb8eb62dca42",
+      "title": "梁文锋署名！DeepSeek发新论文，剑指大规模Agent训练；台积电据报明年起上调晶圆代工价格3%至6%｜全球科技早参 | 每日经济新闻",
+      "summary": "当地时间9月23日，OpenAI CEO萨姆·奥尔特曼（Sam Altman）与Anthropic CEO达里奥·阿莫代伊（Dario Amodei）在联合国安理会发言，均呼吁加强国际合作，应对AI可能带来的风险。奥尔特曼表示，竞争中的国家也可以围绕强大新技术开展合作，并称OpenAI过去曾主动放缓，未来也会如此。阿莫代伊则重申此前提出的放缓AI开发计划，呼吁各国共同制定AI安全标准。此前，Ope...",
+      "highlights": [
+        "当地时间9月23日，OpenAI CEO萨姆·奥尔特曼（Sam Altman）与Anthropic CEO达里奥·阿莫代伊（Dario Amodei）在联合国安理会发言，均呼吁加强国际合作，应对AI可能带来的风险",
+        "奥尔特曼表示，竞争中的国家也可以围绕强大新技术开展合作，并称OpenAI过去曾主动放缓，未来也会如此",
+        "阿莫代伊则重申此前提出的放缓AI开发计划，呼吁各国共同制定AI安全标准"
+      ],
+      "url": "https://www.mrjjxw.com/articles/2026-09-24/4590711.html",
+      "source": "mrjjxw.com",
+      "category": "行业话题",
+      "importance": 5,
+      "publishedAt": "2026-09-24T00:00:00Z"
+    },
+    {
+      "id": "d0325ae89c88",
+      "title": "Anthropic Blocks Huawei Chips From Using Latest Opus 5.5 to Develop AI Models, Yet Amazon Appears To Have Gotten Caught in the Crossfire",
+      "summary": "Opus 5.5 does not appear to be limited only to training frontier models, as Anthropic adds that it and Opus 5 have also placed classifiers to prevent users from extracting their complete reasoning pro...",
+      "highlights": [
+        "Opus 5.5 does not appear to be limited only to training frontier models, as Anthropic adds that it and Opus 5 have also placed classifiers to prevent users from extracting their complete reasoning processes. Distilling of US AI models by Chinese entities is quite common and has seen Anthorpic, OpenAI and Google's products being targeted. [...] Follow Wccftech on Google to get more of our news coverage in your feeds.",
+        "### Further Reading",
+        "I'm sorry, I can't identify the people in this image."
+      ],
+      "url": "https://wccftech.com/anthropic-blocks-huawei-chips-from-using-latest-opus-5-5-to-develop-ai-models-yet-amazon-appears-to-have-gotten-caught-in-the-crossfire",
+      "source": "wccftech.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-23T16:00:12Z"
+    },
+    {
+      "id": "4b98c0faee51",
+      "title": "‘Stick to Your Knitting’ in AI. Models, YouTube & Amazon. ARD #169",
+      "summary": "Some examples.\n\nOpenAI released GPT-6 Sol and GPT-6 Luna, its lesser tier models, and for its top business customers the price is half of what the previous versions cost. That is notable.\n\nAnthropic r...",
+      "highlights": [
+        "Some examples.",
+        "OpenAI released GPT-6 Sol and GPT-6 Luna, its lesser tier models, and for its top business customers the price is half of what the previous versions cost. That is notable.",
+        "Anthropic released Claude Opus 5.5, up from 5.0, yesterday. Anthropic says it costs about 40 percent less to run than Opus 5, at the same top level of intelligence. It is the model I am using to do the work for today’s episode, as an example, and qualitatively it feels a little bit better. [...] First, the AI models. Whether you are talking about open or closed, frontier or not so frontier, they are all getting better. Every company is focused on its knitting, improving these things from the bottom up and getting cheaper by the week. And that is good to see."
+      ],
+      "url": "https://michaelparekh.substack.com/p/stick-to-your-knitting-in-ai-models",
+      "source": "michaelparekh.substack.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-23T21:00:00Z"
+    },
+    {
+      "id": "6cae3fb63c0b",
+      "title": "阿里加码AI办公场景争夺千问办公软硬件新产品齐发布 - 公司",
+      "summary": ":   2026年9月22日，杭州，2026云栖大会上，千问办公CEO陈宇森正式发布AI硬件QwenNote A2。图：视觉中国\n\n相关报道\n:   腾讯发模型Hy4 preview瞄准办公场景 模型迭代加速\n:   百度智能体应用“百度搭子”主攻专业办公 发布15个行业套件\n:   AI办公应用大战正酣 字节整合相关团队推出“豆包工作”\n:   阿里发布2.4万亿参数大模型Qwen3.8 企业级...",
+      "highlights": [
+        ":   2026年9月22日，杭州，2026云栖大会上，千问办公CEO陈宇森正式发布AI硬件QwenNote A2",
+        ":   腾讯发模型Hy4 preview瞄准办公场景 模型迭代加速",
+        ":   百度智能体应用“百度搭子”主攻专业办公 发布15个行业套件"
+      ],
+      "url": "https://companies.caixin.com/2026-09-24/102488332.html",
+      "source": "companies.caixin.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-24T05:00:00Z"
+    },
+    {
+      "id": "9ec37c10cd28",
+      "title": "Gemini 4 Expected to Launch Early: Can Google Catch Up With ...",
+      "summary": "Google DeepMind’s next-generation flagship AI model, Gemini 4, has entered the post-training phase and is expected to launch well before the end of 2026. Aiming to close the gap with OpenAI and Anthro...",
+      "highlights": [
+        "Google DeepMind’s next-generation flagship AI model, Gemini 4, has entered the post-training phase and is expected to launch well before the end of 2026. Aiming to close the gap with OpenAI and Anthropic, Google plans to release the model in stages, prioritizing rapid iteration based on user feedback. While Gemini 4 leverages Google's vast ecosystem—including Search, Cloud, and Workspace—for swift commercialization, its ultimate success depends on outperforming competitors in core capabilities [...] ## Can Gemini 4 Help Google Regain Its AI Competitive Advantage?",
+        "Gemini 4 faces a far more intense competitive environment than its predecessors.",
+        "OpenAI and Anthropic have already established strong market recognition in areas such as complex reasoning, code generation, and AI agents. Enterprise clients are also increasingly focusing on whether models can reliably execute multi-step tasks rather than just answering questions or generating text. [...] AI-generated summary"
+      ],
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262184058-gemini-4-launch-fast-google-openai-anthropic-tradingkey",
+      "source": "tradingkey.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-24T04:00:00Z"
+    },
+    {
+      "id": "a2c414c52c6d",
+      "title": "投资界AI周报| DeepSeek又融资500亿",
+      "summary": "字节跳动又花26亿买下北京一块地\n\n独家｜严文韬正式入职DeepSeek\n\n首发| 火星登陆两轮融资数千万元，00后团队押注机器「类脑架构」\n\nAI投资动态周报\n\n 晶能微电子—— 6.3亿元 —— 芯片半导体\n\n  投资方：未披露\n 智冉医疗—— 6亿人民币 —— 侵入式脑机接口医疗器械\n\n  投资方：顺禧基金，济峰资本，君联资本，HongShan红杉中国，国寿投资，元生创投，顺为资本，美团龙珠...",
+      "highlights": [
+        "字节跳动又花26亿买下北京一块地",
+        "独家｜严文韬正式入职DeepSeek",
+        "首发| 火星登陆两轮融资数千万元，00后团队押注机器「类脑架构」"
+      ],
+      "url": "https://news.pedaily.cn/202609/569619.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-24T13:36:00Z"
+    },
+    {
+      "id": "96125d687abc",
+      "title": "阿里加码AI办公场景争夺 千问办公软硬件新产品齐发布",
+      "summary": "【财新网】用智能体投入办公场景已经成为科技巨头继聊天机器人之后另一个共识。在9月22日-24日云栖大会期间，阿里旗下千问办公推出面向企业的上下文数据管理的产品“企业上下文”（Enterprise Context）以及AI Agent硬件产品QwenNote。\n\n　　7月，阿里巴巴将QoderWork、悟空、骡子快跑三款智能体产品合并成“千问办公”，陈宇森任CEO，千问办公上线30天内更新120个版...",
+      "highlights": [
+        "【财新网】用智能体投入办公场景已经成为科技巨头继聊天机器人之后另一个共识",
+        "在9月22日-24日云栖大会期间，阿里旗下千问办公推出面向企业的上下文数据管理的产品“企业上下文”（Enterprise Context）以及AI Agent硬件产品QwenNote",
+        "7月，阿里巴巴将QoderWork、悟空、骡子快跑三款智能体产品合并成“千问办公”，陈宇森任CEO，千问办公上线30天内更新120个版本，结合与钉钉等IM（即时通信）软件的打通，用户数量在9月4日突破3000万"
+      ],
+      "url": "https://companies.caixin.com/m/2026-09-24/102488332.html",
+      "source": "companies.caixin.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-24T05:00:00Z"
+    },
+    {
+      "id": "41c869c2e330",
+      "title": "中央财经大学数字经济融合创新发展中心主任陈端：完善估值锚体系是企业外源性融资的关键前提|Anthropic|AI投资|北京商报|IPO|可持续发展_手机新浪网",
+      "summary": "站在收购方上市公司角度，并购AI标的可以获得两层回报。第一层业务生态层面，补齐技术、算力、行业数据，完善产业链闭环，夯实自身的行业生态位锚；第二层是二级市场市值管理层面，获得AI叙事乘数，改善市场对企业的认知与预期。但这里存在巨大陷阱：仅仅买来“AI概念”，没有实现业务、数据、人才真正协同，只会带来短期股价脉冲，无法转化为基本面硬锚，甚至可能会形成商誉爆雷。此外，上市公司如果是通过定增募资投AI项...",
+      "highlights": [
+        "站在收购方上市公司角度，并购AI标的可以获得两层回报",
+        "第一层业务生态层面，补齐技术、算力、行业数据，完善产业链闭环，夯实自身的行业生态位锚；第二层是二级市场市值管理层面，获得AI叙事乘数，改善市场对企业的认知与预期",
+        "但这里存在巨大陷阱：仅仅买来“AI概念”，没有实现业务、数据、人才真正协同，只会带来短期股价脉冲，无法转化为基本面硬锚，甚至可能会形成商誉爆雷"
+      ],
+      "url": "https://finance.sina.cn/2026-09-23/detail-inisvqcx5295663.d.html?vt=4&wm=2281_0377%3Fn",
+      "source": "finance.sina.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-23T21:21:23Z"
+    },
+    {
+      "id": "c040141bf9c2",
+      "title": "中国A股IPO规模将超越2025年水平；香港全力冲刺2010年历史融资 ...",
+      "summary": "德勤中国资本市场服务部今天发布《2026年前三季度中国内地及香港IPO市场回顾与前景展望》。\n\n全球商业对人工智能（AI）的强劲需求显著推动 2026 年第三季度AI 及科技价值链相关上市项目的融资意欲。尽管面对严峻的地缘政治与宏观经济逆风，当中包括美以伊军事行动、能源及资源价格波动，以及全球潜在的通胀压力，这股发展势头仍然进一步推高了 2026 年前三季度这些板块在全球新股的活动及融资规模，并促...",
+      "highlights": [
+        "德勤中国资本市场服务部今天发布《2026年前三季度中国内地及香港IPO市场回顾与前景展望》",
+        "全球商业对人工智能（AI）的强劲需求显著推动 2026 年第三季度AI 及科技价值链相关上市项目的融资意欲",
+        "尽管面对严峻的地缘政治与宏观经济逆风，当中包括美以伊军事行动、能源及资源价格波动，以及全球潜在的通胀压力，这股发展势头仍然进一步推高了 2026 年前三季度这些板块在全球新股的活动及融资规模，并促使两者按年增长"
+      ],
+      "url": "https://www.deloitte.com/cn/zh/about/press-room/china-a-share-ipos-outpace-2025-levels.html",
+      "source": "deloitte.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-25T04:00:00Z"
+    },
+    {
+      "id": "fbaa0cff4a92",
+      "title": "AI智能体前沿研究与未来应用学术交流会召开—新闻—科学网",
+      "summary": "|  1  高校校长为何集体忧虑AI   2  OpenAI、Anthropic掌门人呼吁警惕AI发展过快风险   3  最大规模人脑基因表达图谱探析发育衰老、退化和疾病   4  教育部部署2027年全国硕士研究生考试招生工作   5  DeepSeek最新智能体论文：梁文锋署名   6  去月球种菜，离我们有多远？   7  不挨饿也能长寿的“开关”找到了   8  海南热带海洋学院原副院长吴...",
+      "highlights": [
+        "|  1  高校校长为何集体忧虑AI   2  OpenAI、Anthropic掌门人呼吁警惕AI发展过快风险   3  最大规模人脑基因表达图谱探析发育衰老、退化和疾病   4  教育部部署2027年全国硕士研究生考试招生工作   5  DeepSeek最新智能体论文：梁文锋署名   6  去月球种菜，离我们有多远",
+        "7  不挨饿也能长寿的“开关”找到了   8  海南热带海洋学院原副院长吴清江接受审查调查   1  宁夏大学王帅琦、刘宽冠、福建师大林正欢Angew：氢键调控FRET黏合策略构筑长余辉高量子产率银簇   2  GEB | 云南大学团队揭示青藏高原裂腹鱼类系统发育与分类热点间存在显著的空间错配特征   3  RAQ | 上海海洋大学：系统综述揭示气候变化、污染物与微生物组变化如何共同塑造海洋双壳类动物的恢复力   4  暨南大学巢晖教授团队最新Angew综述：双光子激活金属配合物赋能肿瘤精准光动力治疗   5  AOM | 前沿聚焦：室温、一分钟、克级量产——江苏大学突破稀土纳米晶绿色合成新路径   6  Advanced Science | [...] | |  |  | 作者：张思玮 来源：中国科学报 发布时间：2026/9/24 13:49:47  选择字号：小 中  大 | | |  |  |  | |  | | AI智能体前沿研究与未来应用学术交流会召开 | |  |     近日，由OAE出版公司、姑苏实验室、华北电力大学等单位联合主办的AI智能体前沿研究与未来应用学术交流会在苏州开幕",
+        "与会专家围绕行业数据基座搭建、垂类大模型研发迭代、AI智能体核心技术突破、智能实验室体系建设等前沿课题开展研讨"
+      ],
+      "url": "https://news.sciencenet.cn/htmlnews/2026/9/572075.shtm",
+      "source": "news.sciencenet.cn",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-09-24T05:00:00Z"
+    },
+    {
+      "id": "76a53f5cc6ca",
+      "title": "White House asks OpenAI and Anthropic to hold new AI ...",
+      "summary": "Google’s Project Suncatcher will test AI chips in orbit to assess whether space can support large-scale computing powered by continuous sunlight.\n\n1 min read\n\n### Google, OpenAI and Anthropic plan joi...",
+      "highlights": [
+        "Google’s Project Suncatcher will test AI chips in orbit to assess whether space can support large-scale computing powered by continuous sunlight.",
+        "### Google, OpenAI and Anthropic plan joint AI safety group amid growing AI concerns: Report",
+        "Google, OpenAI and Anthropic are moving towards a cross-company AI safety body as concerns over AI risks and calls for stronger global guardrails grow. [...] As per the report, Anthropic appears to have agreed to the request so far. It did not provide its Claude Mythos 5.1 model to the UK AISI, saying in its announcement that the model was only available to a set of US organizations. The lack of access to Anthropic’s models was also acknowledged by AISI Director Henry De Zoete. Anthropic’s own website currently says Mythos 5.1 is available only to vetted organizations through its trusted access programmes, with access initially limited to US [...] More from Tech"
+      ],
+      "url": "https://www.firstpost.com/tech/white-house-asks-openai-and-anthropic-to-hold-new-ai-models-from-uk-testers-until-us-review-report-14048195.html/amp",
+      "source": "firstpost.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-24T18:00:00Z"
+    },
+    {
+      "id": "051dd9afcc07",
+      "title": "OpenAI May Announce New Security Model, GPT-6 Cyber, Within Days",
+      "summary": "The announcement is particularly notable as CEO Sam Altman has joined Anthropic CEO Dario Amodei in calling for an AI slowdown after models at Anthropic, Google, OpenAI, and Meta frontier labs all lau...",
+      "highlights": [
+        "The announcement is particularly notable as CEO Sam Altman has joined Anthropic CEO Dario Amodei in calling for an AI slowdown after models at Anthropic, Google, OpenAI, and Meta frontier labs all launched cyber attacks. Sources told Fortune that GPT-6 Cyber will likely preview at OpenAI’s Dev Day on Sept. 29, or possibly sooner, and launch within months. [...] OpenAI is competing with other frontier labs, like Anthropic, to deliver powerful AI capabilities at a manageable cost.",
+        "### OpenAI Releases New GPT-6 Sol and Luna Models, Sells Them as Mini-Astras",
+        "Cost-effectiveness is becoming the most important AI benchmark."
+      ],
+      "url": "https://gizmodo.com/openai-may-announce-new-security-model-gpt-6-cyber-within-days-2000817143",
+      "source": "gizmodo.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-25T02:49:45Z"
+    },
+    {
+      "id": "82f414802a30",
+      "title": "Token串起AI产业链，数贸会有了新形态 - 宏观 - 南方财经网",
+      "summary": "“数贸·芯场景”则围绕人工智能数据中心（AIDC）这一未来产业核心场景，创新打造“一条Token的闯关旅程”主题展示路线，重点呈现算力芯片、算力材料、光电共封、AI边缘四大产业方向。\n\n当前智算中心需要怎样的芯片？企业如何参与AI发展进程？\n\n中昊芯英创始于2018年，是国内唯一掌握高性能TPU架构AI专用算力芯片核心技术并实现芯片量产的公司。\n\n中昊芯英相关负责人告诉记者，今年，企业带来了新一代...",
+      "highlights": [
+        "“数贸·芯场景”则围绕人工智能数据中心（AIDC）这一未来产业核心场景，创新打造“一条Token的闯关旅程”主题展示路线，重点呈现算力芯片、算力材料、光电共封、AI边缘四大产业方向",
+        "当前智算中心需要怎样的芯片",
+        "企业如何参与AI发展进程"
+      ],
+      "url": "https://www.sfccn.com/2026/9-24/xNMDE0MDVfMjI1MjIxNg.html",
+      "source": "sfccn.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-24T15:00:00Z"
+    },
+    {
+      "id": "fc16d70051f1",
+      "title": "Anthropic, OpenAI Release Cheaper AI Even as Safety Fears Grow",
+      "summary": "Anthropic also said that, based on its own testing, Opus 5.5 is the best-performing model it has tested to date on alignment -- that is, how closely it adheres to what its designers intend.\n\nBut the m...",
+      "highlights": [
+        "Anthropic also said that, based on its own testing, Opus 5.5 is the best-performing model it has tested to date on alignment -- that is, how closely it adheres to what its designers intend.",
+        "But the model also showed signs that it often suspects it is being evaluated, which the company acknowledged makes it harder to predict how it will behave in real-life use.",
+        "### Most Viewed"
+      ],
+      "url": "https://english.aawsat.com/technology/5321524-anthropic-openai-release-cheaper-ai-even-safety-fears-grow",
+      "source": "english.aawsat.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-24T21:00:00Z"
+    },
+    {
+      "id": "7f11227fa0f0",
+      "title": "Google, OpenAI and Anthropic plan AI body; three AI giants ...",
+      "summary": "OpenAI/ specialized cybersecurity model launch OpenAI released GPT-5.4-Cyber, a version of its newest model designed for defensive security teams. Access is",
+      "highlights": [
+        "OpenAI/ specialized cybersecurity model launch OpenAI released GPT-5.4-Cyber, a version of its newest model designed for defensive security teams. Access is"
+      ],
+      "url": "https://www.facebook.com/WIONews/posts/google-openai-and-anthropic-plan-ai-body-three-ai-giants-could-launch-safa-by-ea/1457374296501740",
+      "source": "facebook.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-25T15:59:34Z"
+    },
+    {
+      "id": "59219e45ac09",
+      "title": "White House asks OpenAI and Anthropic to hold new AI models from ...",
+      "summary": "1 min read\n\n## Google takes AI computing to space with first orbital test under Project Suncatcher\n\nGoogle’s Project Suncatcher will test AI chips in orbit to assess whether space can support large-sc...",
+      "highlights": [
+        "## Google takes AI computing to space with first orbital test under Project Suncatcher",
+        "Google’s Project Suncatcher will test AI chips in orbit to assess whether space can support large-scale computing powered by continuous sunlight.",
+        "### Google, OpenAI and Anthropic plan joint AI safety group amid growing AI concerns: Report [...] techMore from Tech"
+      ],
+      "url": "https://www.firstpost.com/tech/white-house-asks-openai-and-anthropic-to-hold-new-ai-models-from-uk-testers-until-us-review-report-14048195.html",
+      "source": "firstpost.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-24T18:00:00Z"
+    },
+    {
+      "id": "5cf7ba026b95",
+      "title": "first AI chips leaving Earth, a satellite ...",
+      "summary": "Anthropic: new drop Opus model. - OpenAI: new drop GPT-6. - Google: first AI chips leaving Earth, a satellite carrying 4 TPUs, launching Oct 1. Google plans",
+      "highlights": [
+        "Anthropic: new drop Opus model. - OpenAI: new drop GPT-6. - Google: first AI chips leaving Earth, a satellite carrying 4 TPUs, launching Oct 1. Google plans"
+      ],
+      "url": "https://www.facebook.com/0xSojalSec/posts/-anthropic-new-drop-opus-model-openai-new-drop-gpt-6-google-first-ai-chips-leavi/1633472734973790",
+      "source": "facebook.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-25T15:59:34Z"
+    },
+    {
+      "id": "e3607f521719",
+      "title": "🚀 OpenAI and Anthropic launches New Models",
+      "summary": "View our database of all the best AI tools for your needs: aitoolsup.com\n\nHave cool resources to share?Submit AI tool\n\n### A.I. Generated Image of the Day\n\n👀 Shell crowned, glassy eyes, ocean gaze\n\n##...",
+      "highlights": [
+        "View our database of all the best AI tools for your needs: aitoolsup.com",
+        "Have cool resources to share?Submit AI tool",
+        "### A.I. Generated Image of the Day"
+      ],
+      "url": "https://www.bigdatanewsweekly.com/p/openai-and-anthropic-launches-new-models",
+      "source": "bigdatanewsweekly.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-23T21:00:00Z"
+    },
+    {
+      "id": "a61350b4f605",
+      "title": "New frontier AI models, TypeSafe's Jev AI, & NASA's ...",
+      "summary": "1. Discuss what all these releases have in common: efficiency.\n2. We start with the model release pile-up. Anthropic shipped Claude Opus 5.5, and OpenAI launched GPT-6 Sol and Luna. Opus 5.5 is 20% ch...",
+      "highlights": [
+        "1. Discuss what all these releases have in common: efficiency.",
+        "2. We start with the model release pile-up. Anthropic shipped Claude Opus 5.5, and OpenAI launched GPT-6 Sol and Luna. Opus 5.5 is 20% cheaper than earlier Opus models, while GPT-6 Luna costs half what its predecessor did, at just 10 cents per million input tokens. We look at what a real price war means for developers building on these models and the companies racing to lower costs. [...] Watch episode",
+        "Mixture of Experts podcast artwork"
+      ],
+      "url": "https://www.ibm.com/think/podcasts/mixture-of-experts/new-frontier-ai-models",
+      "source": "ibm.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-25T00:00:00Z"
+    },
+    {
+      "id": "8f216800e4e8",
+      "title": "企业级Agent有哪些厂商丨《人工智能安全治理框架3.0》重磅发布",
+      "summary": "九科信息bit-Agent：“自主可控+内生安全”\n\n1.智能体身份与最小权限管控\n\n·《框架3.0》要求：\n\n每一个智能体分配全局唯一身份标识，配套加密身份凭证，全程身份鉴别；\n\n严格执行最小权限，仅开放完成当前任务必需的接口、文件、数据访问权限；\n\n凭证动态管理，临时授权、过期自动失效、下线智能体即时吊销凭证；\n\n多智能体集群隔离，禁止跨主体无授权访问。\n\n·九科bitAgent已上线功能：\n...",
+      "highlights": [
+        "九科信息bit-Agent：“自主可控+内生安全”",
+        "1.智能体身份与最小权限管控",
+        "·《框架3.0》要求："
+      ],
+      "url": "https://tech.tom.com/202609/4068735863.html",
+      "source": "tech.tom.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-24T03:00:00Z"
+    },
+    {
+      "id": "fc79b1b3d31f",
+      "title": "雷军投的机器人创企，拟8.1亿元入主A股公司",
+      "summary": "日前，*ST美芝(002856)发布公告称，由北京深朴智能科技有限公司（以下简称“深朴智能”）担任产业投资人、联合体牵头方的投资联合体，已被确定为公司庭外重组及后续司法",
+      "highlights": [
+        "日前，*ST美芝(002856)发布公告称，由北京深朴智能科技有限公司（以下简称“深朴智能”）担任产业投资人、联合体牵头方的投资联合体，已被确定为公司庭外重组及后续司法"
+      ],
+      "url": "https://finance.eastmoney.com/a/202609243883902537.html",
+      "source": "finance.eastmoney.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-23T23:00:00Z"
+    },
+    {
+      "id": "a20608f16fff",
+      "title": "数据：上半年加密一级市场融资金额达 86.58 亿美元，融资事件 259 起",
+      "summary": "整体来看，2026 年上半年加密一级市场并未完全停滞，但市场结构已经发生变化：融资总额仍由少数大额交易支撑，机构出手更加集中，赛道偏好更加务实，并购成为行业整合的重要方式。资金转向围绕基础设施、DeFi、CeFi、支付、AI 和 RWA 等结构性配置。\n\n作者：RootData\n\n本文为PANews入驻专栏作者的观点，不代表PANews立场，不承担法律责任。\n\n文章及观点也不构成投资意见\n\n图片来...",
+      "highlights": [
+        "整体来看，2026 年上半年加密一级市场并未完全停滞，但市场结构已经发生变化：融资总额仍由少数大额交易支撑，机构出手更加集中，赛道偏好更加务实，并购成为行业整合的重要方式",
+        "资金转向围绕基础设施、DeFi、CeFi、支付、AI 和 RWA 等结构性配置",
+        "作者：RootData"
+      ],
+      "url": "https://www.panewslab.com/zh/articles/01a0d2d4-672d-7030-9b0c-093d1507cb5d",
+      "source": "panewslab.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-24T09:54:00Z"
+    },
+    {
+      "id": "bd6c94c32f9c",
+      "title": "零代码配置多Agent，腾讯云正式发布“智能体开发平台”",
+      "summary": "发布“智能体开发平台” 可在复杂工作流中实现智能节点跳转,显著提升对话智能与业务契合度。 智能体发布上线,到后续的运营监控、配置管理,平台都有完善的OP系统支持。",
+      "highlights": [
+        "发布“智能体开发平台” 可在复杂工作流中实现智能节点跳转,显著提升对话智能与业务契合度",
+        "智能体发布上线,到后续的运营监控、配置管理,平台都有完善的OP系统支持"
+      ],
+      "url": "https://feihexieaa.com/news/anhui10364",
+      "source": "feihexieaa.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-24T10:00:00Z"
+    },
+    {
+      "id": "a1d7c315b9d8",
+      "title": "高通发布双旗舰移动平台，定义AI智能体全新体验 - 清一色财经",
+      "summary": "各大厂商在2026年9月密集推出智能体手机与系统级Agent框架。东吴证券研报指出，端侧AI应用进入加速落地期，国内厂商生态呈现百花齐放：2026年国产手机厂商开始在OS",
+      "highlights": [
+        "各大厂商在2026年9月密集推出智能体手机与系统级Agent框架",
+        "东吴证券研报指出，端侧AI应用进入加速落地期，国内厂商生态呈现百花齐放：2026年国产手机厂商开始在OS"
+      ],
+      "url": "https://www.qingyise.net/archives/3064523.html",
+      "source": "qingyise.net",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-24T10:00:00Z"
+    },
+    {
+      "id": "d0f5a89e9e66",
+      "title": "沪市价值发现｜中信建投证券：以“三ZHI一新一化”答一流投行之问 中国基金报",
+      "summary": "支撑这一转型的，是“四投联动”机制的深度落地。所谓“四投联动”服务链条，就是把投研、投资、投行、投顾四方面能力整合起来，围绕一家企业从初创期到成长期再到成熟期的全过程提供陪伴式服务，顺应企业不同阶段的金融需求。投研先行，依托产业投资地图看准前沿赛道；投资做纽带，早期投入做有耐心的长期资本；投行做牵引，为企业提供从IPO到再融资、并购重组的全周期服务；投顾做延伸，长期陪伴上市公司发展壮大。\n\n这套服...",
+      "highlights": [
+        "支撑这一转型的，是“四投联动”机制的深度落地",
+        "所谓“四投联动”服务链条，就是把投研、投资、投行、投顾四方面能力整合起来，围绕一家企业从初创期到成长期再到成熟期的全过程提供陪伴式服务，顺应企业不同阶段的金融需求",
+        "投研先行，依托产业投资地图看准前沿赛道；投资做纽带，早期投入做有耐心的长期资本；投行做牵引，为企业提供从IPO到再融资、并购重组的全周期服务；投顾做延伸，长期陪伴上市公司发展壮大"
+      ],
+      "url": "https://www.chnfund.com/article/AR7d42515c-ff1c-3910-fec4-3a23e5018641",
+      "source": "chnfund.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-24T14:00:00Z"
+    },
+    {
+      "id": "7fbf8d2a8012",
+      "title": "Google, OpenAI and Anthropic AI Safety Group Takes Shape",
+      "summary": "When you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site...",
+      "highlights": [
+        "When you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our [...] Under the California Consumer Privacy Act, you have the right to opt-out of the sale of your personal information to third parties. These cookies collect information for analytics and to personalize your experience with targeted ads. You may exercise your right to opt out of the sale of personal information by using this toggle switch. If you opt out we will not be able to offer you personalised ads and will not hand over your personal information to any third parties. Additionally, you may [...] User ID: 039108cb-fc7e-4ca0-b9f6-6199604eaba9",
+        "Timestamp: --",
+        "### Manage Consent Preferences"
+      ],
+      "url": "https://www.theinformation.com/articles/google-openai-anthropic-ai-safety-group-takes-shape",
+      "source": "theinformation.com",
+      "category": "行业话题",
+      "importance": 4,
+      "publishedAt": "2026-09-24T13:00:44Z"
+    }
+  ],
+  "today": [
+    {
+      "id": "c040141bf9c2",
+      "title": "中国A股IPO规模将超越2025年水平；香港全力冲刺2010年历史融资 ...",
+      "summary": "德勤中国资本市场服务部今天发布《2026年前三季度中国内地及香港IPO市场回顾与前景展望》。\n\n全球商业对人工智能（AI）的强劲需求显著推动 2026 年第三季度AI 及科技价值链相关上市项目的融资意欲。尽管面对严峻的地缘政治与宏观经济逆风，当中包括美以伊军事行动、能源及资源价格波动，以及全球潜在的通胀压力，这股发展势头仍然进一步推高了 2026 年前三季度这些板块在全球新股的活动及融资规模，并促...",
+      "highlights": [
+        "德勤中国资本市场服务部今天发布《2026年前三季度中国内地及香港IPO市场回顾与前景展望》",
+        "全球商业对人工智能（AI）的强劲需求显著推动 2026 年第三季度AI 及科技价值链相关上市项目的融资意欲",
+        "尽管面对严峻的地缘政治与宏观经济逆风，当中包括美以伊军事行动、能源及资源价格波动，以及全球潜在的通胀压力，这股发展势头仍然进一步推高了 2026 年前三季度这些板块在全球新股的活动及融资规模，并促使两者按年增长"
+      ],
+      "url": "https://www.deloitte.com/cn/zh/about/press-room/china-a-share-ipos-outpace-2025-levels.html",
+      "source": "deloitte.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-25T04:00:00Z"
+    },
+    {
+      "id": "051dd9afcc07",
+      "title": "OpenAI May Announce New Security Model, GPT-6 Cyber, Within Days",
+      "summary": "The announcement is particularly notable as CEO Sam Altman has joined Anthropic CEO Dario Amodei in calling for an AI slowdown after models at Anthropic, Google, OpenAI, and Meta frontier labs all lau...",
+      "highlights": [
+        "The announcement is particularly notable as CEO Sam Altman has joined Anthropic CEO Dario Amodei in calling for an AI slowdown after models at Anthropic, Google, OpenAI, and Meta frontier labs all launched cyber attacks. Sources told Fortune that GPT-6 Cyber will likely preview at OpenAI’s Dev Day on Sept. 29, or possibly sooner, and launch within months. [...] OpenAI is competing with other frontier labs, like Anthropic, to deliver powerful AI capabilities at a manageable cost.",
+        "### OpenAI Releases New GPT-6 Sol and Luna Models, Sells Them as Mini-Astras",
+        "Cost-effectiveness is becoming the most important AI benchmark."
+      ],
+      "url": "https://gizmodo.com/openai-may-announce-new-security-model-gpt-6-cyber-within-days-2000817143",
+      "source": "gizmodo.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-25T02:49:45Z"
+    },
+    {
+      "id": "7f11227fa0f0",
+      "title": "Google, OpenAI and Anthropic plan AI body; three AI giants ...",
+      "summary": "OpenAI/ specialized cybersecurity model launch OpenAI released GPT-5.4-Cyber, a version of its newest model designed for defensive security teams. Access is",
+      "highlights": [
+        "OpenAI/ specialized cybersecurity model launch OpenAI released GPT-5.4-Cyber, a version of its newest model designed for defensive security teams. Access is"
+      ],
+      "url": "https://www.facebook.com/WIONews/posts/google-openai-and-anthropic-plan-ai-body-three-ai-giants-could-launch-safa-by-ea/1457374296501740",
+      "source": "facebook.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-25T15:59:34Z"
+    },
+    {
+      "id": "5cf7ba026b95",
+      "title": "first AI chips leaving Earth, a satellite ...",
+      "summary": "Anthropic: new drop Opus model. - OpenAI: new drop GPT-6. - Google: first AI chips leaving Earth, a satellite carrying 4 TPUs, launching Oct 1. Google plans",
+      "highlights": [
+        "Anthropic: new drop Opus model. - OpenAI: new drop GPT-6. - Google: first AI chips leaving Earth, a satellite carrying 4 TPUs, launching Oct 1. Google plans"
+      ],
+      "url": "https://www.facebook.com/0xSojalSec/posts/-anthropic-new-drop-opus-model-openai-new-drop-gpt-6-google-first-ai-chips-leavi/1633472734973790",
+      "source": "facebook.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-25T15:59:34Z"
+    },
+    {
+      "id": "a61350b4f605",
+      "title": "New frontier AI models, TypeSafe's Jev AI, & NASA's ...",
+      "summary": "1. Discuss what all these releases have in common: efficiency.\n2. We start with the model release pile-up. Anthropic shipped Claude Opus 5.5, and OpenAI launched GPT-6 Sol and Luna. Opus 5.5 is 20% ch...",
+      "highlights": [
+        "1. Discuss what all these releases have in common: efficiency.",
+        "2. We start with the model release pile-up. Anthropic shipped Claude Opus 5.5, and OpenAI launched GPT-6 Sol and Luna. Opus 5.5 is 20% cheaper than earlier Opus models, while GPT-6 Luna costs half what its predecessor did, at just 10 cents per million input tokens. We look at what a real price war means for developers building on these models and the companies racing to lower costs. [...] Watch episode",
+        "Mixture of Experts podcast artwork"
+      ],
+      "url": "https://www.ibm.com/think/podcasts/mixture-of-experts/new-frontier-ai-models",
+      "source": "ibm.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-25T00:00:00Z"
+    },
+    {
+      "id": "cb35f232e2b9",
+      "title": "first AI chips leaving Earth, a satellite carrying 4 ...",
+      "summary": "Anthropic: new drop Opus model. - Google: first AI chips leaving Earth, a satellite carrying 4 TPUs, launching Oct 1. new family of 3 models: Sol, Terra,",
+      "highlights": [
+        "Anthropic: new drop Opus model. - Google: first AI chips leaving Earth, a satellite carrying 4 TPUs, launching Oct 1. new family of 3 models: Sol, Terra,"
+      ],
+      "url": "https://www.instagram.com/p/DdtBa80CYMg",
+      "source": "instagram.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-09-25T15:59:34Z"
+    },
+    {
+      "id": "8f6fe73c2c52",
+      "title": "Anthropic and OpenAI roll out cheaper models in first ...",
+      "summary": "Anthropic unveiled Claude Opus 5.5. Anthropic and OpenAI roll out cheaper models in first release since call. Anthropic reveals $30bn run rate and plans to use",
+      "highlights": [
+        "Anthropic unveiled Claude Opus 5.5. Anthropic and OpenAI roll out cheaper models in first release since call. Anthropic reveals $30bn run rate and plans to use"
+      ],
+      "url": "https://www.reddit.com/r/technology/comments/1wnp6ki/anthropic_and_openai_roll_out_cheaper_models_in",
+      "source": "reddit.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-25T15:59:34Z"
+    },
+    {
+      "id": "30a90f186de1",
+      "title": "跨界筹码押注 开餐厅的、卖保健品的，都去投AI了",
+      "summary": "越来越多的钱，正从餐饮、保健、食品公司的账上，批量流向AI、芯片与具身智能。",
+      "highlights": [
+        "越来越多的钱，正从餐饮、保健、食品公司的账上，批量流向AI、芯片与具身智能"
+      ],
+      "url": "https://www.wenxuecity.com/news/2026/09/25/socialnews-269658.html",
+      "source": "wenxuecity.com",
+      "category": "芯片硬件",
+      "importance": 2,
+      "publishedAt": "2026-09-25T15:00:00Z"
+    }
+  ],
+  "week": [
     {
       "id": "ec545794d95d",
       "title": "OpenAI and Anthropic Launch New Models—They Are Fighting the Wrong Battle<!-- --> - Barron's",
@@ -225,322 +781,9 @@
       "category": "具身智能",
       "importance": 5,
       "publishedAt": "2026-09-23T15:21:00Z"
-    },
-    {
-      "id": "c040141bf9c2",
-      "title": "中国A股IPO规模将超越2025年水平；香港全力冲刺2010年历史融资 ...",
-      "summary": "德勤中国资本市场服务部今天发布《2026年前三季度中国内地及香港IPO市场回顾与前景展望》。\n\n全球商业对人工智能（AI）的强劲需求显著推动 2026 年第三季度AI 及科技价值链相关上市项目的融资意欲。尽管面对严峻的地缘政治与宏观经济逆风，当中包括美以伊军事行动、能源及资源价格波动，以及全球潜在的通胀压力，这股发展势头仍然进一步推高了 2026 年前三季度这些板块在全球新股的活动及融资规模，并促...",
-      "highlights": [
-        "德勤中国资本市场服务部今天发布《2026年前三季度中国内地及香港IPO市场回顾与前景展望》",
-        "全球商业对人工智能（AI）的强劲需求显著推动 2026 年第三季度AI 及科技价值链相关上市项目的融资意欲",
-        "尽管面对严峻的地缘政治与宏观经济逆风，当中包括美以伊军事行动、能源及资源价格波动，以及全球潜在的通胀压力，这股发展势头仍然进一步推高了 2026 年前三季度这些板块在全球新股的活动及融资规模，并促使两者按年增长"
-      ],
-      "url": "https://www.deloitte.com/cn/zh/about/press-room/china-a-share-ipos-outpace-2025-levels.html",
-      "source": "deloitte.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-25T04:00:00Z"
-    },
-    {
-      "id": "fbaa0cff4a92",
-      "title": "AI智能体前沿研究与未来应用学术交流会召开—新闻—科学网",
-      "summary": "|  1  高校校长为何集体忧虑AI   2  OpenAI、Anthropic掌门人呼吁警惕AI发展过快风险   3  最大规模人脑基因表达图谱探析发育衰老、退化和疾病   4  教育部部署2027年全国硕士研究生考试招生工作   5  DeepSeek最新智能体论文：梁文锋署名   6  去月球种菜，离我们有多远？   7  不挨饿也能长寿的“开关”找到了   8  海南热带海洋学院原副院长吴...",
-      "highlights": [
-        "|  1  高校校长为何集体忧虑AI   2  OpenAI、Anthropic掌门人呼吁警惕AI发展过快风险   3  最大规模人脑基因表达图谱探析发育衰老、退化和疾病   4  教育部部署2027年全国硕士研究生考试招生工作   5  DeepSeek最新智能体论文：梁文锋署名   6  去月球种菜，离我们有多远",
-        "7  不挨饿也能长寿的“开关”找到了   8  海南热带海洋学院原副院长吴清江接受审查调查   1  宁夏大学王帅琦、刘宽冠、福建师大林正欢Angew：氢键调控FRET黏合策略构筑长余辉高量子产率银簇   2  GEB | 云南大学团队揭示青藏高原裂腹鱼类系统发育与分类热点间存在显著的空间错配特征   3  RAQ | 上海海洋大学：系统综述揭示气候变化、污染物与微生物组变化如何共同塑造海洋双壳类动物的恢复力   4  暨南大学巢晖教授团队最新Angew综述：双光子激活金属配合物赋能肿瘤精准光动力治疗   5  AOM | 前沿聚焦：室温、一分钟、克级量产——江苏大学突破稀土纳米晶绿色合成新路径   6  Advanced Science | [...] | |  |  | 作者：张思玮 来源：中国科学报 发布时间：2026/9/24 13:49:47  选择字号：小 中  大 | | |  |  |  | |  | | AI智能体前沿研究与未来应用学术交流会召开 | |  |     近日，由OAE出版公司、姑苏实验室、华北电力大学等单位联合主办的AI智能体前沿研究与未来应用学术交流会在苏州开幕",
-        "与会专家围绕行业数据基座搭建、垂类大模型研发迭代、AI智能体核心技术突破、智能实验室体系建设等前沿课题开展研讨"
-      ],
-      "url": "https://news.sciencenet.cn/htmlnews/2026/9/572075.shtm",
-      "source": "news.sciencenet.cn",
-      "category": "前沿理论",
-      "importance": 5,
-      "publishedAt": "2026-09-24T05:00:00Z"
-    },
-    {
-      "id": "76a53f5cc6ca",
-      "title": "White House asks OpenAI and Anthropic to hold new AI ...",
-      "summary": "Google’s Project Suncatcher will test AI chips in orbit to assess whether space can support large-scale computing powered by continuous sunlight.\n\n1 min read\n\n### Google, OpenAI and Anthropic plan joi...",
-      "highlights": [
-        "Google’s Project Suncatcher will test AI chips in orbit to assess whether space can support large-scale computing powered by continuous sunlight.",
-        "### Google, OpenAI and Anthropic plan joint AI safety group amid growing AI concerns: Report",
-        "Google, OpenAI and Anthropic are moving towards a cross-company AI safety body as concerns over AI risks and calls for stronger global guardrails grow. [...] As per the report, Anthropic appears to have agreed to the request so far. It did not provide its Claude Mythos 5.1 model to the UK AISI, saying in its announcement that the model was only available to a set of US organizations. The lack of access to Anthropic’s models was also acknowledged by AISI Director Henry De Zoete. Anthropic’s own website currently says Mythos 5.1 is available only to vetted organizations through its trusted access programmes, with access initially limited to US [...] More from Tech"
-      ],
-      "url": "https://www.firstpost.com/tech/white-house-asks-openai-and-anthropic-to-hold-new-ai-models-from-uk-testers-until-us-review-report-14048195.html/amp",
-      "source": "firstpost.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-24T18:00:00Z"
-    },
-    {
-      "id": "051dd9afcc07",
-      "title": "OpenAI May Announce New Security Model, GPT-6 Cyber, Within Days",
-      "summary": "The announcement is particularly notable as CEO Sam Altman has joined Anthropic CEO Dario Amodei in calling for an AI slowdown after models at Anthropic, Google, OpenAI, and Meta frontier labs all lau...",
-      "highlights": [
-        "The announcement is particularly notable as CEO Sam Altman has joined Anthropic CEO Dario Amodei in calling for an AI slowdown after models at Anthropic, Google, OpenAI, and Meta frontier labs all launched cyber attacks. Sources told Fortune that GPT-6 Cyber will likely preview at OpenAI’s Dev Day on Sept. 29, or possibly sooner, and launch within months. [...] OpenAI is competing with other frontier labs, like Anthropic, to deliver powerful AI capabilities at a manageable cost.",
-        "### OpenAI Releases New GPT-6 Sol and Luna Models, Sells Them as Mini-Astras",
-        "Cost-effectiveness is becoming the most important AI benchmark."
-      ],
-      "url": "https://gizmodo.com/openai-may-announce-new-security-model-gpt-6-cyber-within-days-2000817143",
-      "source": "gizmodo.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-25T02:49:45Z"
-    },
-    {
-      "id": "4e1a6092b477",
-      "title": "小米数字系列迎来史上最大升级，卢伟冰：AI全面改造智能 ...",
-      "summary": "过去五年，小米累计研发投入1055亿元，全球授权专利数超 4.7 万项。未来五年计划再投入至少2000亿元，未来三年AI领域累计投入不少于600亿元，持续构建技术护城河。\n\nAI大模型方面，小米MiMo完成语言、多模态、语音全系列模型矩阵布局。9月22日，小米发布并开源全新一代MiMo大模型：全模态旗舰模型Xiaomi MiMo-V2.6-Pro、高效推理模型Xiaomi MiMo-V2.6-Fl...",
-      "highlights": [
-        "过去五年，小米累计研发投入1055亿元，全球授权专利数超 4.7 万项",
-        "未来五年计划再投入至少2000亿元，未来三年AI领域累计投入不少于600亿元，持续构建技术护城河",
-        "AI大模型方面，小米MiMo完成语言、多模态、语音全系列模型矩阵布局"
-      ],
-      "url": "https://www.yzwb.net/news/ch/202609/t20260923_396121.html",
-      "source": "yzwb.net",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-09-23T14:00:00Z"
-    },
-    {
-      "id": "3e0895404c25",
-      "title": "中央财经大学数字经济融合创新发展中心主任陈端：完善估值锚体系是企业外源性融资的关键前提 - 21经济网",
-      "summary": "站在收购方上市公司角度，并购AI标的可以获得两层回报。第一层业务生态层面，补齐技术、算力、行业数据，完善产业链闭环，夯实自身的行业生态位锚；第二层是二级市场市值管理层面，获得AI叙事乘数，改善市场对企业的认知与预期。但这里存在巨大陷阱：仅仅买来“AI概念”，没有实现业务、数据、人才真正协同，只会带来短期股价脉冲，无法转化为基本面硬锚，甚至可能会形成商誉爆雷。此外，上市公司如果是通过定增募资投AI项...",
-      "highlights": [
-        "站在收购方上市公司角度，并购AI标的可以获得两层回报",
-        "第一层业务生态层面，补齐技术、算力、行业数据，完善产业链闭环，夯实自身的行业生态位锚；第二层是二级市场市值管理层面，获得AI叙事乘数，改善市场对企业的认知与预期",
-        "但这里存在巨大陷阱：仅仅买来“AI概念”，没有实现业务、数据、人才真正协同，只会带来短期股价脉冲，无法转化为基本面硬锚，甚至可能会形成商誉爆雷"
-      ],
-      "url": "https://www.21jingji.com/article/20260923/herald/0f7cf1e29d6273eed43f849960654ba6.html",
-      "source": "21jingji.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-09-23T14:00:00Z"
-    },
-    {
-      "id": "8f216800e4e8",
-      "title": "企业级Agent有哪些厂商丨《人工智能安全治理框架3.0》重磅发布",
-      "summary": "九科信息bit-Agent：“自主可控+内生安全”\n\n1.智能体身份与最小权限管控\n\n·《框架3.0》要求：\n\n每一个智能体分配全局唯一身份标识，配套加密身份凭证，全程身份鉴别；\n\n严格执行最小权限，仅开放完成当前任务必需的接口、文件、数据访问权限；\n\n凭证动态管理，临时授权、过期自动失效、下线智能体即时吊销凭证；\n\n多智能体集群隔离，禁止跨主体无授权访问。\n\n·九科bitAgent已上线功能：\n...",
-      "highlights": [
-        "九科信息bit-Agent：“自主可控+内生安全”",
-        "1.智能体身份与最小权限管控",
-        "·《框架3.0》要求："
-      ],
-      "url": "https://tech.tom.com/202609/4068735863.html",
-      "source": "tech.tom.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-24T03:00:00Z"
-    },
-    {
-      "id": "c4de7ca76e0c",
-      "title": "www.haiwaiwai.com加速困局：AI破题背后无人愿踩的刹车",
-      "summary": "www.haiwaiwai.com\n\n登录 注册\n\n1. www.haiwaiwai.com首页\n2. 新闻\n3. 美国\n\n# 加速困局：AI破题背后无人愿踩的刹车\n\n山海无痕  • • 美国\n\n声明披露了惊人的技术细节：一支由超万个AI智能体组成的团队，仅用了88小时，就攻克了人类苦思九十多年的课题。这个能力远超GPT-6 Astra的内部模型，最终交付了一份165页的学术论文，作者署名为Ope...",
-      "highlights": [
-        "www.haiwaiwai.com",
-        "1. www.haiwaiwai.com首页",
-        "# 加速困局：AI破题背后无人愿踩的刹车"
-      ],
-      "url": "https://haiwaiwai.com/news/217267",
-      "source": "haiwaiwai.com",
-      "category": "前沿理论",
-      "importance": 4,
-      "publishedAt": "2026-09-23T11:08:25Z"
-    },
-    {
-      "id": "fc79b1b3d31f",
-      "title": "雷军投的机器人创企，拟8.1亿元入主A股公司",
-      "summary": "日前，*ST美芝(002856)发布公告称，由北京深朴智能科技有限公司（以下简称“深朴智能”）担任产业投资人、联合体牵头方的投资联合体，已被确定为公司庭外重组及后续司法",
-      "highlights": [
-        "日前，*ST美芝(002856)发布公告称，由北京深朴智能科技有限公司（以下简称“深朴智能”）担任产业投资人、联合体牵头方的投资联合体，已被确定为公司庭外重组及后续司法"
-      ],
-      "url": "https://finance.eastmoney.com/a/202609243883902537.html",
-      "source": "finance.eastmoney.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-09-23T23:00:00Z"
-    },
-    {
-      "id": "a20608f16fff",
-      "title": "数据：上半年加密一级市场融资金额达 86.58 亿美元，融资事件 259 起",
-      "summary": "整体来看，2026 年上半年加密一级市场并未完全停滞，但市场结构已经发生变化：融资总额仍由少数大额交易支撑，机构出手更加集中，赛道偏好更加务实，并购成为行业整合的重要方式。资金转向围绕基础设施、DeFi、CeFi、支付、AI 和 RWA 等结构性配置。\n\n作者：RootData\n\n本文为PANews入驻专栏作者的观点，不代表PANews立场，不承担法律责任。\n\n文章及观点也不构成投资意见\n\n图片来...",
-      "highlights": [
-        "整体来看，2026 年上半年加密一级市场并未完全停滞，但市场结构已经发生变化：融资总额仍由少数大额交易支撑，机构出手更加集中，赛道偏好更加务实，并购成为行业整合的重要方式",
-        "资金转向围绕基础设施、DeFi、CeFi、支付、AI 和 RWA 等结构性配置",
-        "作者：RootData"
-      ],
-      "url": "https://www.panewslab.com/zh/articles/01a0d2d4-672d-7030-9b0c-093d1507cb5d",
-      "source": "panewslab.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-09-24T09:54:00Z"
-    },
-    {
-      "id": "bd6c94c32f9c",
-      "title": "零代码配置多Agent，腾讯云正式发布“智能体开发平台”",
-      "summary": "发布“智能体开发平台” 可在复杂工作流中实现智能节点跳转,显著提升对话智能与业务契合度。 智能体发布上线,到后续的运营监控、配置管理,平台都有完善的OP系统支持。",
-      "highlights": [
-        "发布“智能体开发平台” 可在复杂工作流中实现智能节点跳转,显著提升对话智能与业务契合度",
-        "智能体发布上线,到后续的运营监控、配置管理,平台都有完善的OP系统支持"
-      ],
-      "url": "https://feihexieaa.com/news/anhui10364",
-      "source": "feihexieaa.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-24T10:00:00Z"
-    },
-    {
-      "id": "a1d7c315b9d8",
-      "title": "高通发布双旗舰移动平台，定义AI智能体全新体验 - 清一色财经",
-      "summary": "各大厂商在2026年9月密集推出智能体手机与系统级Agent框架。东吴证券研报指出，端侧AI应用进入加速落地期，国内厂商生态呈现百花齐放：2026年国产手机厂商开始在OS",
-      "highlights": [
-        "各大厂商在2026年9月密集推出智能体手机与系统级Agent框架",
-        "东吴证券研报指出，端侧AI应用进入加速落地期，国内厂商生态呈现百花齐放：2026年国产手机厂商开始在OS"
-      ],
-      "url": "https://www.qingyise.net/archives/3064523.html",
-      "source": "qingyise.net",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-09-24T10:00:00Z"
-    },
-    {
-      "id": "d0f5a89e9e66",
-      "title": "沪市价值发现｜中信建投证券：以“三ZHI一新一化”答一流投行之问 中国基金报",
-      "summary": "支撑这一转型的，是“四投联动”机制的深度落地。所谓“四投联动”服务链条，就是把投研、投资、投行、投顾四方面能力整合起来，围绕一家企业从初创期到成长期再到成熟期的全过程提供陪伴式服务，顺应企业不同阶段的金融需求。投研先行，依托产业投资地图看准前沿赛道；投资做纽带，早期投入做有耐心的长期资本；投行做牵引，为企业提供从IPO到再融资、并购重组的全周期服务；投顾做延伸，长期陪伴上市公司发展壮大。\n\n这套服...",
-      "highlights": [
-        "支撑这一转型的，是“四投联动”机制的深度落地",
-        "所谓“四投联动”服务链条，就是把投研、投资、投行、投顾四方面能力整合起来，围绕一家企业从初创期到成长期再到成熟期的全过程提供陪伴式服务，顺应企业不同阶段的金融需求",
-        "投研先行，依托产业投资地图看准前沿赛道；投资做纽带，早期投入做有耐心的长期资本；投行做牵引，为企业提供从IPO到再融资、并购重组的全周期服务；投顾做延伸，长期陪伴上市公司发展壮大"
-      ],
-      "url": "https://www.chnfund.com/article/AR7d42515c-ff1c-3910-fec4-3a23e5018641",
-      "source": "chnfund.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-09-24T14:00:00Z"
-    },
-    {
-      "id": "7fbf8d2a8012",
-      "title": "Google, OpenAI and Anthropic AI Safety Group Takes Shape",
-      "summary": "When you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site...",
-      "highlights": [
-        "When you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our [...] Under the California Consumer Privacy Act, you have the right to opt-out of the sale of your personal information to third parties. These cookies collect information for analytics and to personalize your experience with targeted ads. You may exercise your right to opt out of the sale of personal information by using this toggle switch. If you opt out we will not be able to offer you personalised ads and will not hand over your personal information to any third parties. Additionally, you may [...] User ID: 039108cb-fc7e-4ca0-b9f6-6199604eaba9",
-        "Timestamp: --",
-        "### Manage Consent Preferences"
-      ],
-      "url": "https://www.theinformation.com/articles/google-openai-anthropic-ai-safety-group-takes-shape",
-      "source": "theinformation.com",
-      "category": "行业话题",
-      "importance": 4,
-      "publishedAt": "2026-09-24T13:00:44Z"
-    },
-    {
-      "id": "b20202587fad",
-      "title": "Seattle startup Row Zero acquired by Databricks to bring ...",
-      "summary": "GeekWire Logo\n\n##### Menu\n\nWhat happens here matters everywhere.\n\n# Seattle startup Row Zero acquired by Databricks to bring enterprise spreadsheets to AI platform\n\nChronicling the Seattle and Pacific...",
-      "highlights": [
-        "GeekWire Logo",
-        "What happens here matters everywhere.",
-        "# Seattle startup Row Zero acquired by Databricks to bring enterprise spreadsheets to AI platform"
-      ],
-      "url": "https://www.geekwire.com/2026/seattle-startup-row-zero-acquired-by-databricks-to-bring-enterprise-spreadsheets-to-ai-platform",
-      "source": "geekwire.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-24T15:09:25Z"
     }
   ],
-  "today": [
-    {
-      "id": "c040141bf9c2",
-      "title": "中国A股IPO规模将超越2025年水平；香港全力冲刺2010年历史融资 ...",
-      "summary": "德勤中国资本市场服务部今天发布《2026年前三季度中国内地及香港IPO市场回顾与前景展望》。\n\n全球商业对人工智能（AI）的强劲需求显著推动 2026 年第三季度AI 及科技价值链相关上市项目的融资意欲。尽管面对严峻的地缘政治与宏观经济逆风，当中包括美以伊军事行动、能源及资源价格波动，以及全球潜在的通胀压力，这股发展势头仍然进一步推高了 2026 年前三季度这些板块在全球新股的活动及融资规模，并促...",
-      "highlights": [
-        "德勤中国资本市场服务部今天发布《2026年前三季度中国内地及香港IPO市场回顾与前景展望》",
-        "全球商业对人工智能（AI）的强劲需求显著推动 2026 年第三季度AI 及科技价值链相关上市项目的融资意欲",
-        "尽管面对严峻的地缘政治与宏观经济逆风，当中包括美以伊军事行动、能源及资源价格波动，以及全球潜在的通胀压力，这股发展势头仍然进一步推高了 2026 年前三季度这些板块在全球新股的活动及融资规模，并促使两者按年增长"
-      ],
-      "url": "https://www.deloitte.com/cn/zh/about/press-room/china-a-share-ipos-outpace-2025-levels.html",
-      "source": "deloitte.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-25T04:00:00Z"
-    },
-    {
-      "id": "051dd9afcc07",
-      "title": "OpenAI May Announce New Security Model, GPT-6 Cyber, Within Days",
-      "summary": "The announcement is particularly notable as CEO Sam Altman has joined Anthropic CEO Dario Amodei in calling for an AI slowdown after models at Anthropic, Google, OpenAI, and Meta frontier labs all lau...",
-      "highlights": [
-        "The announcement is particularly notable as CEO Sam Altman has joined Anthropic CEO Dario Amodei in calling for an AI slowdown after models at Anthropic, Google, OpenAI, and Meta frontier labs all launched cyber attacks. Sources told Fortune that GPT-6 Cyber will likely preview at OpenAI’s Dev Day on Sept. 29, or possibly sooner, and launch within months. [...] OpenAI is competing with other frontier labs, like Anthropic, to deliver powerful AI capabilities at a manageable cost.",
-        "### OpenAI Releases New GPT-6 Sol and Luna Models, Sells Them as Mini-Astras",
-        "Cost-effectiveness is becoming the most important AI benchmark."
-      ],
-      "url": "https://gizmodo.com/openai-may-announce-new-security-model-gpt-6-cyber-within-days-2000817143",
-      "source": "gizmodo.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-25T02:49:45Z"
-    }
-  ],
-  "week": [
-    {
-      "id": "df6a644df2dc",
-      "title": "当AI开始“自己教自己”：Opus 5.5是首个RSI训练出的大模型？",
-      "summary": "[](\n   首页\n   资讯\n   快讯\n   行情\n   日历\n   APP\n   VIP会员\n   大师课\n   生活家\n\n登录 / 注册\n\n   120 \n   收藏 \n\n   Image 1: qrcode\n   [](\n\n# 当AI开始“自己教自己”：Opus 5.5是首个RSI训练出的大模型？\n\nImage 2: 鲍奕龙鲍奕龙 09-23 02:57 \n\n谷歌工程师Patrick推测...",
-      "highlights": [
-        "Image 1: qrcode",
-        "# 当AI开始“自己教自己”：Opus 5.5是首个RSI训练出的大模型",
-        "Image 2: 鲍奕龙鲍奕龙 09-23 02:57"
-      ],
-      "url": "https://wallstreetcn.com/articles/3782340",
-      "source": "wallstreetcn.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-23T02:57:39Z"
-    },
-    {
-      "id": "a84b9d704629",
-      "title": "OpenAI 发布 GPT-6 Sol 和 Luna；传字节跳动豆包收缩对话团队；千问发布AI 手机全栈解决方案| 极客早知道",
-      "summary": "盖茨透露，大约一年前，AI 的进展速度令他震惊，这项技术如今已能完成他年轻时需耗费大量时间才能掌握的编程工作。更进一步，AI 既能编写代码，也能研究代码、查找漏洞，「也可能入侵各类系统」。\n\n但他的担忧不止于技术本身，盖茨明确指出，面对这种指数级进步，社会层面的广泛参与和讨论远远不够，科技行业内部已经在谈风险，但更广大的公众尚未真正进场。在他看来，人类未来走向何方，取决于整个社会如何对待这项技术。...",
-      "highlights": [
-        "盖茨透露，大约一年前，AI 的进展速度令他震惊，这项技术如今已能完成他年轻时需耗费大量时间才能掌握的编程工作",
-        "更进一步，AI 既能编写代码，也能研究代码、查找漏洞，「也可能入侵各类系统」",
-        "但他的担忧不止于技术本身，盖茨明确指出，面对这种指数级进步，社会层面的广泛参与和讨论远远不够，科技行业内部已经在谈风险，但更广大的公众尚未真正进场"
-      ],
-      "url": "https://www.geekpark.net/news/370829",
-      "source": "geekpark.net",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-23T03:00:00Z"
-    },
-    {
-      "id": "24a43f64abd2",
-      "title": "阿里新一代AI芯片算力提升至上一代的3倍，今年AI服务器本土AI芯片份额有望达50%丨盘中雷达",
-      "summary": "本文机构观点来自持牌证券机构，不构成任何投资建议，亦不代表平台观点，请投资人独立判断和决策。\n\n（作者：崔海花 编辑：梁明）\n\n阿里新一代AI芯片真武V900算力提升至上一代的3倍\n\n9月22日，据每日经济新闻，本届云栖大会上，阿里平头哥发布最强国产AI芯片真武V900，算力提升至真武M890的3倍。基于它构建的单一集群可扩展至50万卡，可支撑前沿模型的训练和推理。阿里表示，由于平头哥芯片产品线的...",
-      "highlights": [
-        "本文机构观点来自持牌证券机构，不构成任何投资建议，亦不代表平台观点，请投资人独立判断和决策",
-        "（作者：崔海花 编辑：梁明）",
-        "阿里新一代AI芯片真武V900算力提升至上一代的3倍"
-      ],
-      "url": "https://m.21jingji.com/article/20260922/herald/bae718334b0c7d6f2324c25811563531_zaker.html",
-      "source": "m.21jingji.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-23T07:00:00Z"
-    },
-    {
-      "id": "04c677e92d3e",
-      "title": "全球唯一非侵入穿颅读脑突破，这家中国公司想成为脑科学的“英伟达”-36氪",
-      "summary": "两条线合流，决定了这家公司的组织形态：它不是从一个应用场景出发找技术，而是从一个过去做不到的物理问题出发做产品。“这个问题在学校里可以研究，” 刘家家说，“但在一个拥有工程交付能力和商业化能力的组织里做，带来的是完全不同的速度和资源密度。”\n\n本质上，鲲为是一家有商业化能力的声学空间智能 Neo Lab—— 这家公司把蝙蝠用声波感知空间的能力，第一次做成可计算、可规模化的产品。\n\n这个时间线还有一...",
-      "highlights": [
-        "两条线合流，决定了这家公司的组织形态：它不是从一个应用场景出发找技术，而是从一个过去做不到的物理问题出发做产品",
-        "“这个问题在学校里可以研究，” 刘家家说，“但在一个拥有工程交付能力和商业化能力的组织里做，带来的是完全不同的速度和资源密度",
-        "本质上，鲲为是一家有商业化能力的声学空间智能 Neo Lab—— 这家公司把蝙蝠用声波感知空间的能力，第一次做成可计算、可规模化的产品"
-      ],
-      "url": "https://m.36kr.com/p/3994001698372611",
-      "source": "m.36kr.com",
-      "category": "前沿理论",
-      "importance": 5,
-      "publishedAt": "2026-09-23T06:01:13Z"
-    },
+  "month": [
     {
       "id": "ec545794d95d",
       "title": "OpenAI and Anthropic Launch New Models—They Are Fighting the Wrong Battle<!-- --> - Barron's",
@@ -570,21 +813,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-09-24T00:00:00Z"
-    },
-    {
-      "id": "5ce8befada13",
-      "title": "华创证券:《燧原科技-U（688801）深度研究报告：全栈自研筑算力底座，万卡集群启AI新篇》-发现报告",
-      "summary": "当前AI算力市场正处于高速发展阶段，全球算力需求因AI大模型训练与多模态应用加速落地而进入指数级增长阶段。中国AI加速卡市场规模预计将持续扩大，云端AI芯片占据主导地位。推理场景成为算力增长的核心引擎，中国推理用AI加速卡市场增速显著。美国对高端GPU的出口限制进一步推动了高性能AI加速芯片行业的快速发展，为我国本土厂商提供了重要的发展机遇。中国AI加速卡市场规模预计将从2024年的2164.77...",
-      "highlights": [
-        "当前AI算力市场正处于高速发展阶段，全球算力需求因AI大模型训练与多模态应用加速落地而进入指数级增长阶段",
-        "中国AI加速卡市场规模预计将持续扩大，云端AI芯片占据主导地位",
-        "推理场景成为算力增长的核心引擎，中国推理用AI加速卡市场增速显著"
-      ],
-      "url": "https://www.fxbaogao.com/detail/5721310",
-      "source": "fxbaogao.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-23T06:00:00Z"
     },
     {
       "id": "a95e59c50c2d",
@@ -705,158 +933,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-09-24T04:00:00Z"
-    }
-  ],
-  "month": [
-    {
-      "id": "df6a644df2dc",
-      "title": "当AI开始“自己教自己”：Opus 5.5是首个RSI训练出的大模型？",
-      "summary": "[](\n   首页\n   资讯\n   快讯\n   行情\n   日历\n   APP\n   VIP会员\n   大师课\n   生活家\n\n登录 / 注册\n\n   120 \n   收藏 \n\n   Image 1: qrcode\n   [](\n\n# 当AI开始“自己教自己”：Opus 5.5是首个RSI训练出的大模型？\n\nImage 2: 鲍奕龙鲍奕龙 09-23 02:57 \n\n谷歌工程师Patrick推测...",
-      "highlights": [
-        "Image 1: qrcode",
-        "# 当AI开始“自己教自己”：Opus 5.5是首个RSI训练出的大模型",
-        "Image 2: 鲍奕龙鲍奕龙 09-23 02:57"
-      ],
-      "url": "https://wallstreetcn.com/articles/3782340",
-      "source": "wallstreetcn.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-23T02:57:39Z"
-    },
-    {
-      "id": "a84b9d704629",
-      "title": "OpenAI 发布 GPT-6 Sol 和 Luna；传字节跳动豆包收缩对话团队；千问发布AI 手机全栈解决方案| 极客早知道",
-      "summary": "盖茨透露，大约一年前，AI 的进展速度令他震惊，这项技术如今已能完成他年轻时需耗费大量时间才能掌握的编程工作。更进一步，AI 既能编写代码，也能研究代码、查找漏洞，「也可能入侵各类系统」。\n\n但他的担忧不止于技术本身，盖茨明确指出，面对这种指数级进步，社会层面的广泛参与和讨论远远不够，科技行业内部已经在谈风险，但更广大的公众尚未真正进场。在他看来，人类未来走向何方，取决于整个社会如何对待这项技术。...",
-      "highlights": [
-        "盖茨透露，大约一年前，AI 的进展速度令他震惊，这项技术如今已能完成他年轻时需耗费大量时间才能掌握的编程工作",
-        "更进一步，AI 既能编写代码，也能研究代码、查找漏洞，「也可能入侵各类系统」",
-        "但他的担忧不止于技术本身，盖茨明确指出，面对这种指数级进步，社会层面的广泛参与和讨论远远不够，科技行业内部已经在谈风险，但更广大的公众尚未真正进场"
-      ],
-      "url": "https://www.geekpark.net/news/370829",
-      "source": "geekpark.net",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-23T03:00:00Z"
-    },
-    {
-      "id": "24a43f64abd2",
-      "title": "阿里新一代AI芯片算力提升至上一代的3倍，今年AI服务器本土AI芯片份额有望达50%丨盘中雷达",
-      "summary": "本文机构观点来自持牌证券机构，不构成任何投资建议，亦不代表平台观点，请投资人独立判断和决策。\n\n（作者：崔海花 编辑：梁明）\n\n阿里新一代AI芯片真武V900算力提升至上一代的3倍\n\n9月22日，据每日经济新闻，本届云栖大会上，阿里平头哥发布最强国产AI芯片真武V900，算力提升至真武M890的3倍。基于它构建的单一集群可扩展至50万卡，可支撑前沿模型的训练和推理。阿里表示，由于平头哥芯片产品线的...",
-      "highlights": [
-        "本文机构观点来自持牌证券机构，不构成任何投资建议，亦不代表平台观点，请投资人独立判断和决策",
-        "（作者：崔海花 编辑：梁明）",
-        "阿里新一代AI芯片真武V900算力提升至上一代的3倍"
-      ],
-      "url": "https://m.21jingji.com/article/20260922/herald/bae718334b0c7d6f2324c25811563531_zaker.html",
-      "source": "m.21jingji.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-23T07:00:00Z"
-    },
-    {
-      "id": "04c677e92d3e",
-      "title": "全球唯一非侵入穿颅读脑突破，这家中国公司想成为脑科学的“英伟达”-36氪",
-      "summary": "两条线合流，决定了这家公司的组织形态：它不是从一个应用场景出发找技术，而是从一个过去做不到的物理问题出发做产品。“这个问题在学校里可以研究，” 刘家家说，“但在一个拥有工程交付能力和商业化能力的组织里做，带来的是完全不同的速度和资源密度。”\n\n本质上，鲲为是一家有商业化能力的声学空间智能 Neo Lab—— 这家公司把蝙蝠用声波感知空间的能力，第一次做成可计算、可规模化的产品。\n\n这个时间线还有一...",
-      "highlights": [
-        "两条线合流，决定了这家公司的组织形态：它不是从一个应用场景出发找技术，而是从一个过去做不到的物理问题出发做产品",
-        "“这个问题在学校里可以研究，” 刘家家说，“但在一个拥有工程交付能力和商业化能力的组织里做，带来的是完全不同的速度和资源密度",
-        "本质上，鲲为是一家有商业化能力的声学空间智能 Neo Lab—— 这家公司把蝙蝠用声波感知空间的能力，第一次做成可计算、可规模化的产品"
-      ],
-      "url": "https://m.36kr.com/p/3994001698372611",
-      "source": "m.36kr.com",
-      "category": "前沿理论",
-      "importance": 5,
-      "publishedAt": "2026-09-23T06:01:13Z"
-    },
-    {
-      "id": "ec545794d95d",
-      "title": "OpenAI and Anthropic Launch New Models—They Are Fighting the Wrong Battle<!-- --> - Barron's",
-      "summary": "SHARE THIS ARTICLE\n\nTEXT SIZE\n\nSHARE THIS ARTICLE\n\nTEXT SIZE\n\n# OpenAI and Anthropic Launch New Models—They Are Fighting the Wrong Battle\n\nAnthropic and OpenAI must be scratching their heads. They jus...",
-      "highlights": [
-        "SHARE THIS ARTICLE",
-        "SHARE THIS ARTICLE",
-        "# OpenAI and Anthropic Launch New Models—They Are Fighting the Wrong Battle"
-      ],
-      "url": "https://www.barrons.com/articles/openai-anthropic-ai-models-meta-muse-a16e212a",
-      "source": "barrons.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-23T13:00:00Z"
-    },
-    {
-      "id": "954037fdc41c",
-      "title": "AI重塑终端体验 小米开启智能手机全新升级-经济参考网 _ 新华社《经济参考报》官方网站",
-      "summary": "家电正在从“被动响应”走向“主动服务”。 洪勇认为，手机、汽车、家电等终端，正成为AI进入物理世界的重要入口。未来，AI能否准确理解用户需求，并在不同设备和场景之间有效协同，将成为影响智能终端体验的关键因素。\n\n体系化自研夯实技术底座\n\nAI赋能不是把大模型装进手机那么简单。真正决定体验上限的，是底层能力是否掌握在自己手里。小米给出的答案是“体系化自研”。\n\n过去五年，小米累计研发投入1055亿元...",
-      "highlights": [
-        "家电正在从“被动响应”走向“主动服务”",
-        "洪勇认为，手机、汽车、家电等终端，正成为AI进入物理世界的重要入口",
-        "未来，AI能否准确理解用户需求，并在不同设备和场景之间有效协同，将成为影响智能终端体验的关键因素"
-      ],
-      "url": "http://jjckb.xinhuanet.com/20260924/78d5206399da42ca990386c18154a5b3/c.html",
-      "source": "jjckb.xinhuanet.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-24T00:00:00Z"
-    },
-    {
-      "id": "5ce8befada13",
-      "title": "华创证券:《燧原科技-U（688801）深度研究报告：全栈自研筑算力底座，万卡集群启AI新篇》-发现报告",
-      "summary": "当前AI算力市场正处于高速发展阶段，全球算力需求因AI大模型训练与多模态应用加速落地而进入指数级增长阶段。中国AI加速卡市场规模预计将持续扩大，云端AI芯片占据主导地位。推理场景成为算力增长的核心引擎，中国推理用AI加速卡市场增速显著。美国对高端GPU的出口限制进一步推动了高性能AI加速芯片行业的快速发展，为我国本土厂商提供了重要的发展机遇。中国AI加速卡市场规模预计将从2024年的2164.77...",
-      "highlights": [
-        "当前AI算力市场正处于高速发展阶段，全球算力需求因AI大模型训练与多模态应用加速落地而进入指数级增长阶段",
-        "中国AI加速卡市场规模预计将持续扩大，云端AI芯片占据主导地位",
-        "推理场景成为算力增长的核心引擎，中国推理用AI加速卡市场增速显著"
-      ],
-      "url": "https://www.fxbaogao.com/detail/5721310",
-      "source": "fxbaogao.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-23T06:00:00Z"
-    },
-    {
-      "id": "a95e59c50c2d",
-      "title": "推理算力赛道分化：通用GPU与定制ASIC的路线博弈-虎嗅网",
-      "summary": "AI原生企业与公有云服务商也在加速定制硬件的布局，不再单纯依赖外部采购通用GPU。OpenAI对外披露与博通、Celestica合作开发的Jalapeno推理处理器，后续会释放出更多性能细节，补齐自身推理硬件能力。Anthropic也传出与三星洽谈合作，计划利用其2纳米制程与封装技术开发AI训练芯片，即便推进自研项目，企业依旧会继续采购英伟达、谷歌、亚马逊的算力产品，保持算力供给的多元结构。\n\n各...",
-      "highlights": [
-        "AI原生企业与公有云服务商也在加速定制硬件的布局，不再单纯依赖外部采购通用GPU",
-        "OpenAI对外披露与博通、Celestica合作开发的Jalapeno推理处理器，后续会释放出更多性能细节，补齐自身推理硬件能力",
-        "Anthropic也传出与三星洽谈合作，计划利用其2纳米制程与封装技术开发AI训练芯片，即便推进自研项目，企业依旧会继续采购英伟达、谷歌、亚马逊的算力产品，保持算力供给的多元结构"
-      ],
-      "url": "https://www.huxiu.com/article/4893639.html",
-      "source": "huxiu.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-24T00:11:31Z"
-    },
-    {
-      "id": "712618201698",
-      "title": "新烛时代完成天使+轮融资，聚焦AI驱动聚变产业 - 投资界",
-      "summary": "顺创产投表示：顺创产投始终坚持面向科技前沿、国家战略和产业未来开展投资布局。新烛时代汇聚了兼具前沿人工智能科研能力、聚变产业认知与科技成果转化经验的复合型团队，人才与技术资源具有较强稀缺性。公司以AI for Science为技术底座，前瞻布局聚变装置智能控制这一关键环节，致力于提升聚变实验与装置运行的安全性、稳定性和研发效率。顺创产投很高兴参与本轮融资，期待新烛时代持续突破核心技术，巩固在聚变智...",
-      "highlights": [
-        "顺创产投表示：顺创产投始终坚持面向科技前沿、国家战略和产业未来开展投资布局",
-        "新烛时代汇聚了兼具前沿人工智能科研能力、聚变产业认知与科技成果转化经验的复合型团队，人才与技术资源具有较强稀缺性",
-        "公司以AI for Science为技术底座，前瞻布局聚变装置智能控制这一关键环节，致力于提升聚变实验与装置运行的安全性、稳定性和研发效率"
-      ],
-      "url": "https://news.pedaily.cn/202609/569595.shtml",
-      "source": "news.pedaily.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-24T03:13:00Z"
-    },
-    {
-      "id": "46acf499213e",
-      "title": "Manus的增长曲线，如何画下去？-36氪",
-      "summary": "“这个案子的实质是，换个壳子往外卖，这条路已经走不通了。”一位专注AI Agent商业化的企业战略顾问对《凤凰WEEKLY财经》表示，Manus团队、数据、研发本来都在国内，后来把总部迁到新加坡，并剥离中国子公司，同时将数据传到境外，再卖给Meta，触碰了核心技术外流与数据出境两条红线。\n\n“对其他有外资背景的AI公司来说，想靠‘换个马甲出海’卖给外资，这个模式已经不可行了。”他表示。\n\n郭涛指出...",
-      "highlights": [
-        "“这个案子的实质是，换个壳子往外卖，这条路已经走不通了",
-        "”一位专注AI Agent商业化的企业战略顾问对《凤凰WEEKLY财经》表示，Manus团队、数据、研发本来都在国内，后来把总部迁到新加坡，并剥离中国子公司，同时将数据传到境外，再卖给Meta，触碰了核心技术外流与数据出境两条红线",
-        "“对其他有外资背景的AI公司来说，想靠‘换个马甲出海’卖给外资，这个模式已经不可行了"
-      ],
-      "url": "https://m.36kr.com/p/3995933413003140",
-      "source": "m.36kr.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-24T00:00:13Z"
     }
   ]
 }
