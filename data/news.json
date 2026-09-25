@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T15:59:34Z",
+  "updatedAt": "2026-09-25T20:47:49Z",
   "latest": [
     {
       "id": "954037fdc41c",
@@ -75,21 +75,6 @@
       "category": "行业话题",
       "importance": 5,
       "publishedAt": "2026-09-24T00:00:00Z"
-    },
-    {
-      "id": "d0325ae89c88",
-      "title": "Anthropic Blocks Huawei Chips From Using Latest Opus 5.5 to Develop AI Models, Yet Amazon Appears To Have Gotten Caught in the Crossfire",
-      "summary": "Opus 5.5 does not appear to be limited only to training frontier models, as Anthropic adds that it and Opus 5 have also placed classifiers to prevent users from extracting their complete reasoning pro...",
-      "highlights": [
-        "Opus 5.5 does not appear to be limited only to training frontier models, as Anthropic adds that it and Opus 5 have also placed classifiers to prevent users from extracting their complete reasoning processes. Distilling of US AI models by Chinese entities is quite common and has seen Anthorpic, OpenAI and Google's products being targeted. [...] Follow Wccftech on Google to get more of our news coverage in your feeds.",
-        "### Further Reading",
-        "I'm sorry, I can't identify the people in this image."
-      ],
-      "url": "https://wccftech.com/anthropic-blocks-huawei-chips-from-using-latest-opus-5-5-to-develop-ai-models-yet-amazon-appears-to-have-gotten-caught-in-the-crossfire",
-      "source": "wccftech.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-23T16:00:12Z"
     },
     {
       "id": "4b98c0faee51",
@@ -343,6 +328,36 @@
       "publishedAt": "2026-09-25T00:00:00Z"
     },
     {
+      "id": "d266cfb9847c",
+      "title": "聚力产业链协同攻坚，家用服务机器人产业生态交流会圆满召开_机器人_AI_人形机器人_家用服务机器人_具身智能_中国家电网",
+      "summary": "如果说大模型决定了机器人的“脑力”，那么如何量化评估这一能力，行业正在形成新的坐标系。千寻智能(北京)科技股份有限公司营销总监徐国强谈到，具身智能是大模型的延伸，相比自动驾驶，具身智能需要和物体进行物理接触，难度更高，“若将完整的人形机器人定义为100分，目前机械臂技术已突破50分、轮式底盘40分、灵巧手和机器人大脑仅5分。”同时，他还表示解决了AI智能化卡点问题后，具身智能即可打开远超汽车市场的...",
+      "highlights": [
+        "如果说大模型决定了机器人的“脑力”，那么如何量化评估这一能力，行业正在形成新的坐标系",
+        "千寻智能(北京)科技股份有限公司营销总监徐国强谈到，具身智能是大模型的延伸，相比自动驾驶，具身智能需要和物体进行物理接触，难度更高，“若将完整的人形机器人定义为100分，目前机械臂技术已突破50分、轮式底盘40分、灵巧手和机器人大脑仅5分",
+        "”同时，他还表示解决了AI智能化卡点问题后，具身智能即可打开远超汽车市场的历史级机会"
+      ],
+      "url": "https://m.cheaa.com/n_detail/w_659287.html",
+      "source": "m.cheaa.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-24T20:00:00Z"
+    },
+    {
+      "id": "d9d2f0f4d5b7",
+      "title": "White House Asks OpenAI and Anthropic to Withhold AI Models from UK | ForkLog",
+      "summary": "According to journalists, Anthropic agreed to the request and did not provide AISI with the Claude Mythos 5.1 model. Access was granted only to select organizations in the U.S.\n\nIn early September, AI...",
+      "highlights": [
+        "According to journalists, Anthropic agreed to the request and did not provide AISI with the Claude Mythos 5.1 model. Access was granted only to select organizations in the U.S.",
+        "In early September, AISI Director Henry de Zoute informed a parliamentary committee that the institute had not received the new model for testing. However, he noted that AISI had tested OpenAI’s GPT-6 Astra before its release. [...] Related articles",
+        "Google to Launch Satellite with AI Chips into Orbit"
+      ],
+      "url": "https://forklog.com/en/white-house-asks-openai-and-anthropic-to-withhold-ai-models-from-uk",
+      "source": "forklog.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-25T12:36:16Z"
+    },
+    {
       "id": "8f216800e4e8",
       "title": "企业级Agent有哪些厂商丨《人工智能安全治理框架3.0》重磅发布",
       "summary": "九科信息bit-Agent：“自主可控+内生安全”\n\n1.智能体身份与最小权限管控\n\n·《框架3.0》要求：\n\n每一个智能体分配全局唯一身份标识，配套加密身份凭证，全程身份鉴别；\n\n严格执行最小权限，仅开放完成当前任务必需的接口、文件、数据访问权限；\n\n凭证动态管理，临时授权、过期自动失效、下线智能体即时吊销凭证；\n\n多智能体集群隔离，禁止跨主体无授权访问。\n\n·九科bitAgent已上线功能：\n...",
@@ -427,21 +442,6 @@
       "category": "投并购",
       "importance": 4,
       "publishedAt": "2026-09-24T14:00:00Z"
-    },
-    {
-      "id": "7fbf8d2a8012",
-      "title": "Google, OpenAI and Anthropic AI Safety Group Takes Shape",
-      "summary": "When you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site...",
-      "highlights": [
-        "When you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our [...] Under the California Consumer Privacy Act, you have the right to opt-out of the sale of your personal information to third parties. These cookies collect information for analytics and to personalize your experience with targeted ads. You may exercise your right to opt out of the sale of personal information by using this toggle switch. If you opt out we will not be able to offer you personalised ads and will not hand over your personal information to any third parties. Additionally, you may [...] User ID: 039108cb-fc7e-4ca0-b9f6-6199604eaba9",
-        "Timestamp: --",
-        "### Manage Consent Preferences"
-      ],
-      "url": "https://www.theinformation.com/articles/google-openai-anthropic-ai-safety-group-takes-shape",
-      "source": "theinformation.com",
-      "category": "行业话题",
-      "importance": 4,
-      "publishedAt": "2026-09-24T13:00:44Z"
     }
   ],
   "today": [
@@ -517,6 +517,21 @@
       "publishedAt": "2026-09-25T00:00:00Z"
     },
     {
+      "id": "d9d2f0f4d5b7",
+      "title": "White House Asks OpenAI and Anthropic to Withhold AI Models from UK | ForkLog",
+      "summary": "According to journalists, Anthropic agreed to the request and did not provide AISI with the Claude Mythos 5.1 model. Access was granted only to select organizations in the U.S.\n\nIn early September, AI...",
+      "highlights": [
+        "According to journalists, Anthropic agreed to the request and did not provide AISI with the Claude Mythos 5.1 model. Access was granted only to select organizations in the U.S.",
+        "In early September, AISI Director Henry de Zoute informed a parliamentary committee that the institute had not received the new model for testing. However, he noted that AISI had tested OpenAI’s GPT-6 Astra before its release. [...] Related articles",
+        "Google to Launch Satellite with AI Chips into Orbit"
+      ],
+      "url": "https://forklog.com/en/white-house-asks-openai-and-anthropic-to-withhold-ai-models-from-uk",
+      "source": "forklog.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-25T12:36:16Z"
+    },
+    {
       "id": "cb35f232e2b9",
       "title": "first AI chips leaving Earth, a satellite carrying 4 ...",
       "summary": "Anthropic: new drop Opus model. - Google: first AI chips leaving Earth, a satellite carrying 4 TPUs, launching Oct 1. new family of 3 models: Sol, Terra,",
@@ -543,6 +558,35 @@
       "publishedAt": "2026-09-25T15:59:34Z"
     },
     {
+      "id": "c0308e5bc66b",
+      "title": "具身智能的 iPhone时刻要来了吗？-36氪",
+      "summary": "第二个是移动与导航能力。具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障。整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的。但自动驾驶汽车用在路上，比具身智能应用场景要简单，比如这个会场就比公开道路复杂的多，具身智能要在这样的场景完全泛化应用还需要不断打磨。\n\n第三个是多模态交互能力。现在大语言模型的语言交...",
+      "highlights": [
+        "第二个是移动与导航能力",
+        "具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障",
+        "整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的"
+      ],
+      "url": "https://m.36kr.com/p/3893816015878664",
+      "source": "m.36kr.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-25T16:21:47Z"
+    },
+    {
+      "id": "dc3799a819e7",
+      "title": "报道：SK海力士旗下Solidigm最快明年在美IPO，估值或高达1500亿美元",
+      "summary": "据媒体报道，Solidigm潜在估值最高达1500亿美元，目标募资规模150亿美元，有望成为美国半导体史上规模最大的IPO。Solidigm本周已与多家投行就IPO承销商举行竞标会议，",
+      "highlights": [
+        "据媒体报道，Solidigm潜在估值最高达1500亿美元，目标募资规模150亿美元，有望成为美国半导体史上规模最大的IPO",
+        "Solidigm本周已与多家投行就IPO承销商举行竞标会议，"
+      ],
+      "url": "https://awtmt.com/articles/3782555",
+      "source": "awtmt.com",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-09-25T18:00:00Z"
+    },
+    {
       "id": "30a90f186de1",
       "title": "跨界筹码押注 开餐厅的、卖保健品的，都去投AI了",
       "summary": "越来越多的钱，正从餐饮、保健、食品公司的账上，批量流向AI、芯片与具身智能。",
@@ -557,21 +601,6 @@
     }
   ],
   "week": [
-    {
-      "id": "ec545794d95d",
-      "title": "OpenAI and Anthropic Launch New Models—They Are Fighting the Wrong Battle<!-- --> - Barron's",
-      "summary": "SHARE THIS ARTICLE\n\nTEXT SIZE\n\nSHARE THIS ARTICLE\n\nTEXT SIZE\n\n# OpenAI and Anthropic Launch New Models—They Are Fighting the Wrong Battle\n\nAnthropic and OpenAI must be scratching their heads. They jus...",
-      "highlights": [
-        "SHARE THIS ARTICLE",
-        "SHARE THIS ARTICLE",
-        "# OpenAI and Anthropic Launch New Models—They Are Fighting the Wrong Battle"
-      ],
-      "url": "https://www.barrons.com/articles/openai-anthropic-ai-models-meta-muse-a16e212a",
-      "source": "barrons.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-23T13:00:00Z"
-    },
     {
       "id": "954037fdc41c",
       "title": "AI重塑终端体验 小米开启智能手机全新升级-经济参考网 _ 新华社《经济参考报》官方网站",
@@ -723,21 +752,6 @@
       "publishedAt": "2026-09-24T13:36:00Z"
     },
     {
-      "id": "e25458be1b2b",
-      "title": "阿里发布新一代AI芯片和超节点，“系统级协同”成为突破算力瓶颈的重要方向 - 与非网",
-      "summary": "电流传感器 示波器 嵌入式开发 寄存器 lcd 摄像头 Infineon IGBT 智能化 proteus仿真 ADC 智能汽车 开源 无人驾驶 自动驾驶 小米 高级驾驶辅助系统 德州仪器 ESP8266 MLCC 电源管理 继电器 电脑 GPU 定位系统 与非研究院 安卓系统 NVIDIA 连接器 拆解报告 操作系统 电源设计\n 英特尔 铜峰电子 优点科技 Evatec 长城精益 三环集团 中国...",
-      "highlights": [
-        "电流传感器 示波器 嵌入式开发 寄存器 lcd 摄像头 Infineon IGBT 智能化 proteus仿真 ADC 智能汽车 开源 无人驾驶 自动驾驶 小米 高级驾驶辅助系统 德州仪器 ESP8266 MLCC 电源管理 继电器 电脑 GPU 定位系统 与非研究院 安卓系统 NVIDIA 连接器 拆解报告 操作系统 电源设计",
-        "英特尔 铜峰电子 优点科技 Evatec 长城精益 三环集团 中国卫通 亚科鸿禹 赛灵思 东莞市惠洋科技有限公司 晶贝电子 DigiKey得捷 智华科技 科尔摩根 菊水电子 深圳市莱安科技有限公司 双桥传感 中航飞机起落架 云米 ACSL 徐州博康 纳雷科技 思佳讯 新洁能 三六零 共达电声 通用汽车 大华股份 禾川科技 MYK Vision 西埃电器 光信光电 [...] 832",
-        "06/04 15:12"
-      ],
-      "url": "https://www.eefocus.com/article/2093498.html",
-      "source": "eefocus.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-23T11:00:00Z"
-    },
-    {
       "id": "96125d687abc",
       "title": "阿里加码AI办公场景争夺 千问办公软硬件新产品齐发布",
       "summary": "【财新网】用智能体投入办公场景已经成为科技巨头继聊天机器人之后另一个共识。在9月22日-24日云栖大会期间，阿里旗下千问办公推出面向企业的上下文数据管理的产品“企业上下文”（Enterprise Context）以及AI Agent硬件产品QwenNote。\n\n　　7月，阿里巴巴将QoderWork、悟空、骡子快跑三款智能体产品合并成“千问办公”，陈宇森任CEO，千问办公上线30天内更新120个版...",
@@ -768,37 +782,52 @@
       "publishedAt": "2026-09-23T21:21:23Z"
     },
     {
-      "id": "0680f8f7b42f",
-      "title": "北京划定未来三年AI+信息通信融合发展路径",
-      "summary": "加快6G原生网络创新攻关\n\n　　在北京亦庄，自动驾驶车辆穿梭于大街小巷，在海淀，智谱、月之暗面等“开源”大模型先锋持续迭代……过去十多年，移动通信以下行带宽为核心，更多使用场景是浏览、下载、追剧的消费互联网时代。而如今，无人驾驶汽车需要实时上传感知图像分析最优路径，AI眼镜需要实时回传画面，具身机器人需要毫秒级交互，数据正在大规模“向上走”，网络底座也随之重构升级。\n\n　　对此，《行动计划》给出清...",
+      "id": "c040141bf9c2",
+      "title": "中国A股IPO规模将超越2025年水平；香港全力冲刺2010年历史融资 ...",
+      "summary": "德勤中国资本市场服务部今天发布《2026年前三季度中国内地及香港IPO市场回顾与前景展望》。\n\n全球商业对人工智能（AI）的强劲需求显著推动 2026 年第三季度AI 及科技价值链相关上市项目的融资意欲。尽管面对严峻的地缘政治与宏观经济逆风，当中包括美以伊军事行动、能源及资源价格波动，以及全球潜在的通胀压力，这股发展势头仍然进一步推高了 2026 年前三季度这些板块在全球新股的活动及融资规模，并促...",
       "highlights": [
-        "加快6G原生网络创新攻关",
-        "在北京亦庄，自动驾驶车辆穿梭于大街小巷，在海淀，智谱、月之暗面等“开源”大模型先锋持续迭代……过去十多年，移动通信以下行带宽为核心，更多使用场景是浏览、下载、追剧的消费互联网时代",
-        "而如今，无人驾驶汽车需要实时上传感知图像分析最优路径，AI眼镜需要实时回传画面，具身机器人需要毫秒级交互，数据正在大规模“向上走”，网络底座也随之重构升级"
+        "德勤中国资本市场服务部今天发布《2026年前三季度中国内地及香港IPO市场回顾与前景展望》",
+        "全球商业对人工智能（AI）的强劲需求显著推动 2026 年第三季度AI 及科技价值链相关上市项目的融资意欲",
+        "尽管面对严峻的地缘政治与宏观经济逆风，当中包括美以伊军事行动、能源及资源价格波动，以及全球潜在的通胀压力，这股发展势头仍然进一步推高了 2026 年前三季度这些板块在全球新股的活动及融资规模，并促使两者按年增长"
       ],
-      "url": "https://www.beijing.gov.cn/fuwu/lqfw/gggs/202609/t20260923_4877971.html",
-      "source": "beijing.gov.cn",
-      "category": "具身智能",
+      "url": "https://www.deloitte.com/cn/zh/about/press-room/china-a-share-ipos-outpace-2025-levels.html",
+      "source": "deloitte.com",
+      "category": "投并购",
       "importance": 5,
-      "publishedAt": "2026-09-23T15:21:00Z"
+      "publishedAt": "2026-09-25T04:00:00Z"
+    },
+    {
+      "id": "fbaa0cff4a92",
+      "title": "AI智能体前沿研究与未来应用学术交流会召开—新闻—科学网",
+      "summary": "|  1  高校校长为何集体忧虑AI   2  OpenAI、Anthropic掌门人呼吁警惕AI发展过快风险   3  最大规模人脑基因表达图谱探析发育衰老、退化和疾病   4  教育部部署2027年全国硕士研究生考试招生工作   5  DeepSeek最新智能体论文：梁文锋署名   6  去月球种菜，离我们有多远？   7  不挨饿也能长寿的“开关”找到了   8  海南热带海洋学院原副院长吴...",
+      "highlights": [
+        "|  1  高校校长为何集体忧虑AI   2  OpenAI、Anthropic掌门人呼吁警惕AI发展过快风险   3  最大规模人脑基因表达图谱探析发育衰老、退化和疾病   4  教育部部署2027年全国硕士研究生考试招生工作   5  DeepSeek最新智能体论文：梁文锋署名   6  去月球种菜，离我们有多远",
+        "7  不挨饿也能长寿的“开关”找到了   8  海南热带海洋学院原副院长吴清江接受审查调查   1  宁夏大学王帅琦、刘宽冠、福建师大林正欢Angew：氢键调控FRET黏合策略构筑长余辉高量子产率银簇   2  GEB | 云南大学团队揭示青藏高原裂腹鱼类系统发育与分类热点间存在显著的空间错配特征   3  RAQ | 上海海洋大学：系统综述揭示气候变化、污染物与微生物组变化如何共同塑造海洋双壳类动物的恢复力   4  暨南大学巢晖教授团队最新Angew综述：双光子激活金属配合物赋能肿瘤精准光动力治疗   5  AOM | 前沿聚焦：室温、一分钟、克级量产——江苏大学突破稀土纳米晶绿色合成新路径   6  Advanced Science | [...] | |  |  | 作者：张思玮 来源：中国科学报 发布时间：2026/9/24 13:49:47  选择字号：小 中  大 | | |  |  |  | |  | | AI智能体前沿研究与未来应用学术交流会召开 | |  |     近日，由OAE出版公司、姑苏实验室、华北电力大学等单位联合主办的AI智能体前沿研究与未来应用学术交流会在苏州开幕",
+        "与会专家围绕行业数据基座搭建、垂类大模型研发迭代、AI智能体核心技术突破、智能实验室体系建设等前沿课题开展研讨"
+      ],
+      "url": "https://news.sciencenet.cn/htmlnews/2026/9/572075.shtm",
+      "source": "news.sciencenet.cn",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-09-24T05:00:00Z"
+    },
+    {
+      "id": "76a53f5cc6ca",
+      "title": "White House asks OpenAI and Anthropic to hold new AI ...",
+      "summary": "Google’s Project Suncatcher will test AI chips in orbit to assess whether space can support large-scale computing powered by continuous sunlight.\n\n1 min read\n\n### Google, OpenAI and Anthropic plan joi...",
+      "highlights": [
+        "Google’s Project Suncatcher will test AI chips in orbit to assess whether space can support large-scale computing powered by continuous sunlight.",
+        "### Google, OpenAI and Anthropic plan joint AI safety group amid growing AI concerns: Report",
+        "Google, OpenAI and Anthropic are moving towards a cross-company AI safety body as concerns over AI risks and calls for stronger global guardrails grow. [...] As per the report, Anthropic appears to have agreed to the request so far. It did not provide its Claude Mythos 5.1 model to the UK AISI, saying in its announcement that the model was only available to a set of US organizations. The lack of access to Anthropic’s models was also acknowledged by AISI Director Henry De Zoete. Anthropic’s own website currently says Mythos 5.1 is available only to vetted organizations through its trusted access programmes, with access initially limited to US [...] More from Tech"
+      ],
+      "url": "https://www.firstpost.com/tech/white-house-asks-openai-and-anthropic-to-hold-new-ai-models-from-uk-testers-until-us-review-report-14048195.html/amp",
+      "source": "firstpost.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-24T18:00:00Z"
     }
   ],
   "month": [
-    {
-      "id": "ec545794d95d",
-      "title": "OpenAI and Anthropic Launch New Models—They Are Fighting the Wrong Battle<!-- --> - Barron's",
-      "summary": "SHARE THIS ARTICLE\n\nTEXT SIZE\n\nSHARE THIS ARTICLE\n\nTEXT SIZE\n\n# OpenAI and Anthropic Launch New Models—They Are Fighting the Wrong Battle\n\nAnthropic and OpenAI must be scratching their heads. They jus...",
-      "highlights": [
-        "SHARE THIS ARTICLE",
-        "SHARE THIS ARTICLE",
-        "# OpenAI and Anthropic Launch New Models—They Are Fighting the Wrong Battle"
-      ],
-      "url": "https://www.barrons.com/articles/openai-anthropic-ai-models-meta-muse-a16e212a",
-      "source": "barrons.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-23T13:00:00Z"
-    },
     {
       "id": "954037fdc41c",
       "title": "AI重塑终端体验 小米开启智能手机全新升级-经济参考网 _ 新华社《经济参考报》官方网站",
@@ -933,6 +962,21 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-09-24T04:00:00Z"
+    },
+    {
+      "id": "a2c414c52c6d",
+      "title": "投资界AI周报| DeepSeek又融资500亿",
+      "summary": "字节跳动又花26亿买下北京一块地\n\n独家｜严文韬正式入职DeepSeek\n\n首发| 火星登陆两轮融资数千万元，00后团队押注机器「类脑架构」\n\nAI投资动态周报\n\n 晶能微电子—— 6.3亿元 —— 芯片半导体\n\n  投资方：未披露\n 智冉医疗—— 6亿人民币 —— 侵入式脑机接口医疗器械\n\n  投资方：顺禧基金，济峰资本，君联资本，HongShan红杉中国，国寿投资，元生创投，顺为资本，美团龙珠...",
+      "highlights": [
+        "字节跳动又花26亿买下北京一块地",
+        "独家｜严文韬正式入职DeepSeek",
+        "首发| 火星登陆两轮融资数千万元，00后团队押注机器「类脑架构」"
+      ],
+      "url": "https://news.pedaily.cn/202609/569619.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-24T13:36:00Z"
     }
   ]
 }
