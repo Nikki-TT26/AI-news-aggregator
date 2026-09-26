@@ -1,36 +1,6 @@
 {
-  "updatedAt": "2026-09-25T20:47:49Z",
+  "updatedAt": "2026-09-26T02:09:22Z",
   "latest": [
-    {
-      "id": "954037fdc41c",
-      "title": "AI重塑终端体验 小米开启智能手机全新升级-经济参考网 _ 新华社《经济参考报》官方网站",
-      "summary": "家电正在从“被动响应”走向“主动服务”。 洪勇认为，手机、汽车、家电等终端，正成为AI进入物理世界的重要入口。未来，AI能否准确理解用户需求，并在不同设备和场景之间有效协同，将成为影响智能终端体验的关键因素。\n\n体系化自研夯实技术底座\n\nAI赋能不是把大模型装进手机那么简单。真正决定体验上限的，是底层能力是否掌握在自己手里。小米给出的答案是“体系化自研”。\n\n过去五年，小米累计研发投入1055亿元...",
-      "highlights": [
-        "家电正在从“被动响应”走向“主动服务”",
-        "洪勇认为，手机、汽车、家电等终端，正成为AI进入物理世界的重要入口",
-        "未来，AI能否准确理解用户需求，并在不同设备和场景之间有效协同，将成为影响智能终端体验的关键因素"
-      ],
-      "url": "http://jjckb.xinhuanet.com/20260924/78d5206399da42ca990386c18154a5b3/c.html",
-      "source": "jjckb.xinhuanet.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-24T00:00:00Z"
-    },
-    {
-      "id": "a95e59c50c2d",
-      "title": "推理算力赛道分化：通用GPU与定制ASIC的路线博弈-虎嗅网",
-      "summary": "AI原生企业与公有云服务商也在加速定制硬件的布局，不再单纯依赖外部采购通用GPU。OpenAI对外披露与博通、Celestica合作开发的Jalapeno推理处理器，后续会释放出更多性能细节，补齐自身推理硬件能力。Anthropic也传出与三星洽谈合作，计划利用其2纳米制程与封装技术开发AI训练芯片，即便推进自研项目，企业依旧会继续采购英伟达、谷歌、亚马逊的算力产品，保持算力供给的多元结构。\n\n各...",
-      "highlights": [
-        "AI原生企业与公有云服务商也在加速定制硬件的布局，不再单纯依赖外部采购通用GPU",
-        "OpenAI对外披露与博通、Celestica合作开发的Jalapeno推理处理器，后续会释放出更多性能细节，补齐自身推理硬件能力",
-        "Anthropic也传出与三星洽谈合作，计划利用其2纳米制程与封装技术开发AI训练芯片，即便推进自研项目，企业依旧会继续采购英伟达、谷歌、亚马逊的算力产品，保持算力供给的多元结构"
-      ],
-      "url": "https://www.huxiu.com/article/4893639.html",
-      "source": "huxiu.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-24T00:11:31Z"
-    },
     {
       "id": "712618201698",
       "title": "新烛时代完成天使+轮融资，聚焦AI驱动聚变产业 - 投资界",
@@ -45,51 +15,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-09-24T03:13:00Z"
-    },
-    {
-      "id": "46acf499213e",
-      "title": "Manus的增长曲线，如何画下去？-36氪",
-      "summary": "“这个案子的实质是，换个壳子往外卖，这条路已经走不通了。”一位专注AI Agent商业化的企业战略顾问对《凤凰WEEKLY财经》表示，Manus团队、数据、研发本来都在国内，后来把总部迁到新加坡，并剥离中国子公司，同时将数据传到境外，再卖给Meta，触碰了核心技术外流与数据出境两条红线。\n\n“对其他有外资背景的AI公司来说，想靠‘换个马甲出海’卖给外资，这个模式已经不可行了。”他表示。\n\n郭涛指出...",
-      "highlights": [
-        "“这个案子的实质是，换个壳子往外卖，这条路已经走不通了",
-        "”一位专注AI Agent商业化的企业战略顾问对《凤凰WEEKLY财经》表示，Manus团队、数据、研发本来都在国内，后来把总部迁到新加坡，并剥离中国子公司，同时将数据传到境外，再卖给Meta，触碰了核心技术外流与数据出境两条红线",
-        "“对其他有外资背景的AI公司来说，想靠‘换个马甲出海’卖给外资，这个模式已经不可行了"
-      ],
-      "url": "https://m.36kr.com/p/3995933413003140",
-      "source": "m.36kr.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-24T00:00:13Z"
-    },
-    {
-      "id": "cb8eb62dca42",
-      "title": "梁文锋署名！DeepSeek发新论文，剑指大规模Agent训练；台积电据报明年起上调晶圆代工价格3%至6%｜全球科技早参 | 每日经济新闻",
-      "summary": "当地时间9月23日，OpenAI CEO萨姆·奥尔特曼（Sam Altman）与Anthropic CEO达里奥·阿莫代伊（Dario Amodei）在联合国安理会发言，均呼吁加强国际合作，应对AI可能带来的风险。奥尔特曼表示，竞争中的国家也可以围绕强大新技术开展合作，并称OpenAI过去曾主动放缓，未来也会如此。阿莫代伊则重申此前提出的放缓AI开发计划，呼吁各国共同制定AI安全标准。此前，Ope...",
-      "highlights": [
-        "当地时间9月23日，OpenAI CEO萨姆·奥尔特曼（Sam Altman）与Anthropic CEO达里奥·阿莫代伊（Dario Amodei）在联合国安理会发言，均呼吁加强国际合作，应对AI可能带来的风险",
-        "奥尔特曼表示，竞争中的国家也可以围绕强大新技术开展合作，并称OpenAI过去曾主动放缓，未来也会如此",
-        "阿莫代伊则重申此前提出的放缓AI开发计划，呼吁各国共同制定AI安全标准"
-      ],
-      "url": "https://www.mrjjxw.com/articles/2026-09-24/4590711.html",
-      "source": "mrjjxw.com",
-      "category": "行业话题",
-      "importance": 5,
-      "publishedAt": "2026-09-24T00:00:00Z"
-    },
-    {
-      "id": "4b98c0faee51",
-      "title": "‘Stick to Your Knitting’ in AI. Models, YouTube & Amazon. ARD #169",
-      "summary": "Some examples.\n\nOpenAI released GPT-6 Sol and GPT-6 Luna, its lesser tier models, and for its top business customers the price is half of what the previous versions cost. That is notable.\n\nAnthropic r...",
-      "highlights": [
-        "Some examples.",
-        "OpenAI released GPT-6 Sol and GPT-6 Luna, its lesser tier models, and for its top business customers the price is half of what the previous versions cost. That is notable.",
-        "Anthropic released Claude Opus 5.5, up from 5.0, yesterday. Anthropic says it costs about 40 percent less to run than Opus 5, at the same top level of intelligence. It is the model I am using to do the work for today’s episode, as an example, and qualitatively it feels a little bit better. [...] First, the AI models. Whether you are talking about open or closed, frontier or not so frontier, they are all getting better. Every company is focused on its knitting, improving these things from the bottom up and getting cheaper by the week. And that is good to see."
-      ],
-      "url": "https://michaelparekh.substack.com/p/stick-to-your-knitting-in-ai-models",
-      "source": "michaelparekh.substack.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-23T21:00:00Z"
     },
     {
       "id": "6cae3fb63c0b",
@@ -150,21 +75,6 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-09-24T05:00:00Z"
-    },
-    {
-      "id": "41c869c2e330",
-      "title": "中央财经大学数字经济融合创新发展中心主任陈端：完善估值锚体系是企业外源性融资的关键前提|Anthropic|AI投资|北京商报|IPO|可持续发展_手机新浪网",
-      "summary": "站在收购方上市公司角度，并购AI标的可以获得两层回报。第一层业务生态层面，补齐技术、算力、行业数据，完善产业链闭环，夯实自身的行业生态位锚；第二层是二级市场市值管理层面，获得AI叙事乘数，改善市场对企业的认知与预期。但这里存在巨大陷阱：仅仅买来“AI概念”，没有实现业务、数据、人才真正协同，只会带来短期股价脉冲，无法转化为基本面硬锚，甚至可能会形成商誉爆雷。此外，上市公司如果是通过定增募资投AI项...",
-      "highlights": [
-        "站在收购方上市公司角度，并购AI标的可以获得两层回报",
-        "第一层业务生态层面，补齐技术、算力、行业数据，完善产业链闭环，夯实自身的行业生态位锚；第二层是二级市场市值管理层面，获得AI叙事乘数，改善市场对企业的认知与预期",
-        "但这里存在巨大陷阱：仅仅买来“AI概念”，没有实现业务、数据、人才真正协同，只会带来短期股价脉冲，无法转化为基本面硬锚，甚至可能会形成商誉爆雷"
-      ],
-      "url": "https://finance.sina.cn/2026-09-23/detail-inisvqcx5295663.d.html?vt=4&wm=2281_0377%3Fn",
-      "source": "finance.sina.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-23T21:21:23Z"
     },
     {
       "id": "c040141bf9c2",
@@ -298,21 +208,6 @@
       "publishedAt": "2026-09-25T15:59:34Z"
     },
     {
-      "id": "e3607f521719",
-      "title": "🚀 OpenAI and Anthropic launches New Models",
-      "summary": "View our database of all the best AI tools for your needs: aitoolsup.com\n\nHave cool resources to share?Submit AI tool\n\n### A.I. Generated Image of the Day\n\n👀 Shell crowned, glassy eyes, ocean gaze\n\n##...",
-      "highlights": [
-        "View our database of all the best AI tools for your needs: aitoolsup.com",
-        "Have cool resources to share?Submit AI tool",
-        "### A.I. Generated Image of the Day"
-      ],
-      "url": "https://www.bigdatanewsweekly.com/p/openai-and-anthropic-launches-new-models",
-      "source": "bigdatanewsweekly.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-23T21:00:00Z"
-    },
-    {
       "id": "a61350b4f605",
       "title": "New frontier AI models, TypeSafe's Jev AI, & NASA's ...",
       "summary": "1. Discuss what all these releases have in common: efficiency.\n2. We start with the model release pile-up. Anthropic shipped Claude Opus 5.5, and OpenAI launched GPT-6 Sol and Luna. Opus 5.5 is 20% ch...",
@@ -358,6 +253,63 @@
       "publishedAt": "2026-09-25T12:36:16Z"
     },
     {
+      "id": "398debe2b2f6",
+      "title": "9650亿！史上最大IPO来了",
+      "summary": "9650亿！史上最大IPO来了,AI,Anthropic,OpenAI,Claude,大模型,开源模型,模型,融资,估值,持续,风险,成本,人工智能,版权,收入,分歧.",
+      "highlights": [
+        "史上最大IPO来了,AI,Anthropic,OpenAI,Claude,大模型,开源模型,模型,融资,估值,持续,风险,成本,人工智能,版权,收入,分歧."
+      ],
+      "url": "https://k.sina.com.cn/article_5953740931_162dee0830670406vw.html?from=tech",
+      "source": "k.sina.com.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-25T23:00:00Z"
+    },
+    {
+      "id": "b130a79ea154",
+      "title": "报道：SK海力士旗下Solidigm考虑2027年IPO，估值可能为1500亿美元",
+      "summary": "### 大家都在搜\n\n# 报道：SK海力士旗下Solidigm最快明年在美IPO，估值或高达1500亿美元\n\nSK海力士旗下美国子公司Solidigm正在评估上市计划，潜在估值最高达1500亿美元，有望成为美国半导体史上规模最大的IPO。\n\n据路透援引知情人士透露，Solidigm本周已与多家投行举行竞标会议，就IPO承销角色展开角逐，标志着上市进程迈出实质性一步。\n\n该公司计划最早于明年完成上市...",
+      "highlights": [
+        "# 报道：SK海力士旗下Solidigm最快明年在美IPO，估值或高达1500亿美元",
+        "SK海力士旗下美国子公司Solidigm正在评估上市计划，潜在估值最高达1500亿美元，有望成为美国半导体史上规模最大的IPO",
+        "据路透援引知情人士透露，Solidigm本周已与多家投行举行竞标会议，就IPO承销角色展开角逐，标志着上市进程迈出实质性一步"
+      ],
+      "url": "https://wallstreetcn.com/articles/3782555",
+      "source": "wallstreetcn.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-25T19:10:14Z"
+    },
+    {
+      "id": "acfa32216d9b",
+      "title": "车企“造人”加速：卖车还没赚到钱，为何敢押注机器人？",
+      "summary": "加速的信号，在今年变得密集。9月16日晚，零跑技术日。创始人朱江明站在台上，说了一句不太“新势力”的话——“能溜溜的机器人不算本事，能赚钱的机器人才拿得出手。”但他同时确认，零跑已做出完全自研的机器人，电机、控制器、电池、感知算法、计算平台全部自主掌握。\n\n比零跑更早按下加速键的是小鹏。8月24日，小鹏机器人业务鹏行完成首轮超9亿美元融资，投后估值超63亿美元，刷新中国具身智能行业单轮私募股权融资...",
+      "highlights": [
+        "加速的信号，在今年变得密集",
+        "9月16日晚，零跑技术日",
+        "创始人朱江明站在台上，说了一句不太“新势力”的话——“能溜溜的机器人不算本事，能赚钱的机器人才拿得出手"
+      ],
+      "url": "https://wap.eastmoney.com/a/202609243883692649.html",
+      "source": "wap.eastmoney.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-24T08:00:00Z"
+    },
+    {
+      "id": "6b4b18cb7f2a",
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in ...",
+      "summary": "The warrant flips the more common pattern in circular AI deals, in which suppliers— chipmakers and cloud providers—invest directly in the AI labs that buy their products. Here, the supplier is instead...",
+      "highlights": [
+        "The warrant flips the more common pattern in circular AI deals, in which suppliers— chipmakers and cloud providers—invest directly in the AI labs that buy their products. Here, the supplier is instead giving its customer a potential stake, one that grows as Anthropic’s spending with Akamai does. AMD used a similar structure with OpenAI last year, tying warrants to chip-purchase milestones. [...] The deal is the largest in Akamai’s history and continues Anthropic’s compute gobbling-streak. It also represents a bet on a less-hyped corner of AI infrastructure: CPUs. Demand for CPUs, the general-purpose chips that handle work like running code and browsing the web, has grown as AI agents take on more tasks, though Akamai didn’t say what Anthropic will use them for. [...] Anthropic is no stranger to such arrangements. Amazon, Google, Microsoft, and AMD have all invested or agreed to invest in the company while selling it chips or cloud capacity. CEO Dario Amodei told the New York Times last December that Anthropic does not participate in these deals at the “same scale as some other players.”",
+        "Akamai shares rose as much as 17% in after-hours trading on Thursday, the Wall Street Journal reported."
+      ],
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
+      "source": "techcrunch.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-25T19:13:38Z"
+    },
+    {
       "id": "8f216800e4e8",
       "title": "企业级Agent有哪些厂商丨《人工智能安全治理框架3.0》重磅发布",
       "summary": "九科信息bit-Agent：“自主可控+内生安全”\n\n1.智能体身份与最小权限管控\n\n·《框架3.0》要求：\n\n每一个智能体分配全局唯一身份标识，配套加密身份凭证，全程身份鉴别；\n\n严格执行最小权限，仅开放完成当前任务必需的接口、文件、数据访问权限；\n\n凭证动态管理，临时授权、过期自动失效、下线智能体即时吊销凭证；\n\n多智能体集群隔离，禁止跨主体无授权访问。\n\n·九科bitAgent已上线功能：\n...",
@@ -371,19 +323,6 @@
       "category": "产品进展",
       "importance": 4,
       "publishedAt": "2026-09-24T03:00:00Z"
-    },
-    {
-      "id": "fc79b1b3d31f",
-      "title": "雷军投的机器人创企，拟8.1亿元入主A股公司",
-      "summary": "日前，*ST美芝(002856)发布公告称，由北京深朴智能科技有限公司（以下简称“深朴智能”）担任产业投资人、联合体牵头方的投资联合体，已被确定为公司庭外重组及后续司法",
-      "highlights": [
-        "日前，*ST美芝(002856)发布公告称，由北京深朴智能科技有限公司（以下简称“深朴智能”）担任产业投资人、联合体牵头方的投资联合体，已被确定为公司庭外重组及后续司法"
-      ],
-      "url": "https://finance.eastmoney.com/a/202609243883902537.html",
-      "source": "finance.eastmoney.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-09-23T23:00:00Z"
     },
     {
       "id": "a20608f16fff",
@@ -442,94 +381,6 @@
       "category": "投并购",
       "importance": 4,
       "publishedAt": "2026-09-24T14:00:00Z"
-    }
-  ],
-  "today": [
-    {
-      "id": "c040141bf9c2",
-      "title": "中国A股IPO规模将超越2025年水平；香港全力冲刺2010年历史融资 ...",
-      "summary": "德勤中国资本市场服务部今天发布《2026年前三季度中国内地及香港IPO市场回顾与前景展望》。\n\n全球商业对人工智能（AI）的强劲需求显著推动 2026 年第三季度AI 及科技价值链相关上市项目的融资意欲。尽管面对严峻的地缘政治与宏观经济逆风，当中包括美以伊军事行动、能源及资源价格波动，以及全球潜在的通胀压力，这股发展势头仍然进一步推高了 2026 年前三季度这些板块在全球新股的活动及融资规模，并促...",
-      "highlights": [
-        "德勤中国资本市场服务部今天发布《2026年前三季度中国内地及香港IPO市场回顾与前景展望》",
-        "全球商业对人工智能（AI）的强劲需求显著推动 2026 年第三季度AI 及科技价值链相关上市项目的融资意欲",
-        "尽管面对严峻的地缘政治与宏观经济逆风，当中包括美以伊军事行动、能源及资源价格波动，以及全球潜在的通胀压力，这股发展势头仍然进一步推高了 2026 年前三季度这些板块在全球新股的活动及融资规模，并促使两者按年增长"
-      ],
-      "url": "https://www.deloitte.com/cn/zh/about/press-room/china-a-share-ipos-outpace-2025-levels.html",
-      "source": "deloitte.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-25T04:00:00Z"
-    },
-    {
-      "id": "051dd9afcc07",
-      "title": "OpenAI May Announce New Security Model, GPT-6 Cyber, Within Days",
-      "summary": "The announcement is particularly notable as CEO Sam Altman has joined Anthropic CEO Dario Amodei in calling for an AI slowdown after models at Anthropic, Google, OpenAI, and Meta frontier labs all lau...",
-      "highlights": [
-        "The announcement is particularly notable as CEO Sam Altman has joined Anthropic CEO Dario Amodei in calling for an AI slowdown after models at Anthropic, Google, OpenAI, and Meta frontier labs all launched cyber attacks. Sources told Fortune that GPT-6 Cyber will likely preview at OpenAI’s Dev Day on Sept. 29, or possibly sooner, and launch within months. [...] OpenAI is competing with other frontier labs, like Anthropic, to deliver powerful AI capabilities at a manageable cost.",
-        "### OpenAI Releases New GPT-6 Sol and Luna Models, Sells Them as Mini-Astras",
-        "Cost-effectiveness is becoming the most important AI benchmark."
-      ],
-      "url": "https://gizmodo.com/openai-may-announce-new-security-model-gpt-6-cyber-within-days-2000817143",
-      "source": "gizmodo.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-25T02:49:45Z"
-    },
-    {
-      "id": "7f11227fa0f0",
-      "title": "Google, OpenAI and Anthropic plan AI body; three AI giants ...",
-      "summary": "OpenAI/ specialized cybersecurity model launch OpenAI released GPT-5.4-Cyber, a version of its newest model designed for defensive security teams. Access is",
-      "highlights": [
-        "OpenAI/ specialized cybersecurity model launch OpenAI released GPT-5.4-Cyber, a version of its newest model designed for defensive security teams. Access is"
-      ],
-      "url": "https://www.facebook.com/WIONews/posts/google-openai-and-anthropic-plan-ai-body-three-ai-giants-could-launch-safa-by-ea/1457374296501740",
-      "source": "facebook.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-25T15:59:34Z"
-    },
-    {
-      "id": "5cf7ba026b95",
-      "title": "first AI chips leaving Earth, a satellite ...",
-      "summary": "Anthropic: new drop Opus model. - OpenAI: new drop GPT-6. - Google: first AI chips leaving Earth, a satellite carrying 4 TPUs, launching Oct 1. Google plans",
-      "highlights": [
-        "Anthropic: new drop Opus model. - OpenAI: new drop GPT-6. - Google: first AI chips leaving Earth, a satellite carrying 4 TPUs, launching Oct 1. Google plans"
-      ],
-      "url": "https://www.facebook.com/0xSojalSec/posts/-anthropic-new-drop-opus-model-openai-new-drop-gpt-6-google-first-ai-chips-leavi/1633472734973790",
-      "source": "facebook.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-25T15:59:34Z"
-    },
-    {
-      "id": "a61350b4f605",
-      "title": "New frontier AI models, TypeSafe's Jev AI, & NASA's ...",
-      "summary": "1. Discuss what all these releases have in common: efficiency.\n2. We start with the model release pile-up. Anthropic shipped Claude Opus 5.5, and OpenAI launched GPT-6 Sol and Luna. Opus 5.5 is 20% ch...",
-      "highlights": [
-        "1. Discuss what all these releases have in common: efficiency.",
-        "2. We start with the model release pile-up. Anthropic shipped Claude Opus 5.5, and OpenAI launched GPT-6 Sol and Luna. Opus 5.5 is 20% cheaper than earlier Opus models, while GPT-6 Luna costs half what its predecessor did, at just 10 cents per million input tokens. We look at what a real price war means for developers building on these models and the companies racing to lower costs. [...] Watch episode",
-        "Mixture of Experts podcast artwork"
-      ],
-      "url": "https://www.ibm.com/think/podcasts/mixture-of-experts/new-frontier-ai-models",
-      "source": "ibm.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-25T00:00:00Z"
-    },
-    {
-      "id": "d9d2f0f4d5b7",
-      "title": "White House Asks OpenAI and Anthropic to Withhold AI Models from UK | ForkLog",
-      "summary": "According to journalists, Anthropic agreed to the request and did not provide AISI with the Claude Mythos 5.1 model. Access was granted only to select organizations in the U.S.\n\nIn early September, AI...",
-      "highlights": [
-        "According to journalists, Anthropic agreed to the request and did not provide AISI with the Claude Mythos 5.1 model. Access was granted only to select organizations in the U.S.",
-        "In early September, AISI Director Henry de Zoute informed a parliamentary committee that the institute had not received the new model for testing. However, he noted that AISI had tested OpenAI’s GPT-6 Astra before its release. [...] Related articles",
-        "Google to Launch Satellite with AI Chips into Orbit"
-      ],
-      "url": "https://forklog.com/en/white-house-asks-openai-and-anthropic-to-withhold-ai-models-from-uk",
-      "source": "forklog.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-25T12:36:16Z"
     },
     {
       "id": "cb35f232e2b9",
@@ -573,31 +424,34 @@
       "publishedAt": "2026-09-25T16:21:47Z"
     },
     {
-      "id": "dc3799a819e7",
-      "title": "报道：SK海力士旗下Solidigm最快明年在美IPO，估值或高达1500亿美元",
-      "summary": "据媒体报道，Solidigm潜在估值最高达1500亿美元，目标募资规模150亿美元，有望成为美国半导体史上规模最大的IPO。Solidigm本周已与多家投行就IPO承销商举行竞标会议，",
+      "id": "26bbba98a3a0",
+      "title": "对算力的依赖就越强，是产业链里确定性最高的卖铲人。 2. ...",
+      "summary": "别只盯着特斯拉！人形机器人万亿产业链暴富地图： 1. 英伟达$NVDA 几乎所有头部人形机器人都在用其GPU、Isaac仿真和基础模型。机器人越聪明、部署越多，对算力的依赖就",
       "highlights": [
-        "据媒体报道，Solidigm潜在估值最高达1500亿美元，目标募资规模150亿美元，有望成为美国半导体史上规模最大的IPO",
-        "Solidigm本周已与多家投行就IPO承销商举行竞标会议，"
+        "人形机器人万亿产业链暴富地图： 1. 英伟达$NVDA 几乎所有头部人形机器人都在用其GPU、Isaac仿真和基础模型",
+        "机器人越聪明、部署越多，对算力的依赖就"
       ],
-      "url": "https://awtmt.com/articles/3782555",
-      "source": "awtmt.com",
-      "category": "投并购",
-      "importance": 3,
-      "publishedAt": "2026-09-25T18:00:00Z"
-    },
-    {
-      "id": "30a90f186de1",
-      "title": "跨界筹码押注 开餐厅的、卖保健品的，都去投AI了",
-      "summary": "越来越多的钱，正从餐饮、保健、食品公司的账上，批量流向AI、芯片与具身智能。",
-      "highlights": [
-        "越来越多的钱，正从餐饮、保健、食品公司的账上，批量流向AI、芯片与具身智能"
-      ],
-      "url": "https://www.wenxuecity.com/news/2026/09/25/socialnews-269658.html",
-      "source": "wenxuecity.com",
+      "url": "https://x.com/web3annie/status/2101526872538714493",
+      "source": "x.com",
       "category": "芯片硬件",
-      "importance": 2,
-      "publishedAt": "2026-09-25T15:00:00Z"
+      "importance": 4,
+      "publishedAt": "2026-09-26T02:09:22Z"
+    }
+  ],
+  "today": [
+    {
+      "id": "26bbba98a3a0",
+      "title": "对算力的依赖就越强，是产业链里确定性最高的卖铲人。 2. ...",
+      "summary": "别只盯着特斯拉！人形机器人万亿产业链暴富地图： 1. 英伟达$NVDA 几乎所有头部人形机器人都在用其GPU、Isaac仿真和基础模型。机器人越聪明、部署越多，对算力的依赖就",
+      "highlights": [
+        "人形机器人万亿产业链暴富地图： 1. 英伟达$NVDA 几乎所有头部人形机器人都在用其GPU、Isaac仿真和基础模型",
+        "机器人越聪明、部署越多，对算力的依赖就"
+      ],
+      "url": "https://x.com/web3annie/status/2101526872538714493",
+      "source": "x.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-09-26T02:09:22Z"
     }
   ],
   "week": [
@@ -675,21 +529,6 @@
       "category": "行业话题",
       "importance": 5,
       "publishedAt": "2026-09-24T00:00:00Z"
-    },
-    {
-      "id": "d0325ae89c88",
-      "title": "Anthropic Blocks Huawei Chips From Using Latest Opus 5.5 to Develop AI Models, Yet Amazon Appears To Have Gotten Caught in the Crossfire",
-      "summary": "Opus 5.5 does not appear to be limited only to training frontier models, as Anthropic adds that it and Opus 5 have also placed classifiers to prevent users from extracting their complete reasoning pro...",
-      "highlights": [
-        "Opus 5.5 does not appear to be limited only to training frontier models, as Anthropic adds that it and Opus 5 have also placed classifiers to prevent users from extracting their complete reasoning processes. Distilling of US AI models by Chinese entities is quite common and has seen Anthorpic, OpenAI and Google's products being targeted. [...] Follow Wccftech on Google to get more of our news coverage in your feeds.",
-        "### Further Reading",
-        "I'm sorry, I can't identify the people in this image."
-      ],
-      "url": "https://wccftech.com/anthropic-blocks-huawei-chips-from-using-latest-opus-5-5-to-develop-ai-models-yet-amazon-appears-to-have-gotten-caught-in-the-crossfire",
-      "source": "wccftech.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-23T16:00:12Z"
     },
     {
       "id": "4b98c0faee51",
@@ -825,6 +664,21 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-09-24T18:00:00Z"
+    },
+    {
+      "id": "051dd9afcc07",
+      "title": "OpenAI May Announce New Security Model, GPT-6 Cyber, Within Days",
+      "summary": "The announcement is particularly notable as CEO Sam Altman has joined Anthropic CEO Dario Amodei in calling for an AI slowdown after models at Anthropic, Google, OpenAI, and Meta frontier labs all lau...",
+      "highlights": [
+        "The announcement is particularly notable as CEO Sam Altman has joined Anthropic CEO Dario Amodei in calling for an AI slowdown after models at Anthropic, Google, OpenAI, and Meta frontier labs all launched cyber attacks. Sources told Fortune that GPT-6 Cyber will likely preview at OpenAI’s Dev Day on Sept. 29, or possibly sooner, and launch within months. [...] OpenAI is competing with other frontier labs, like Anthropic, to deliver powerful AI capabilities at a manageable cost.",
+        "### OpenAI Releases New GPT-6 Sol and Luna Models, Sells Them as Mini-Astras",
+        "Cost-effectiveness is becoming the most important AI benchmark."
+      ],
+      "url": "https://gizmodo.com/openai-may-announce-new-security-model-gpt-6-cyber-within-days-2000817143",
+      "source": "gizmodo.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-25T02:49:45Z"
     }
   ],
   "month": [
@@ -904,21 +758,6 @@
       "publishedAt": "2026-09-24T00:00:00Z"
     },
     {
-      "id": "d0325ae89c88",
-      "title": "Anthropic Blocks Huawei Chips From Using Latest Opus 5.5 to Develop AI Models, Yet Amazon Appears To Have Gotten Caught in the Crossfire",
-      "summary": "Opus 5.5 does not appear to be limited only to training frontier models, as Anthropic adds that it and Opus 5 have also placed classifiers to prevent users from extracting their complete reasoning pro...",
-      "highlights": [
-        "Opus 5.5 does not appear to be limited only to training frontier models, as Anthropic adds that it and Opus 5 have also placed classifiers to prevent users from extracting their complete reasoning processes. Distilling of US AI models by Chinese entities is quite common and has seen Anthorpic, OpenAI and Google's products being targeted. [...] Follow Wccftech on Google to get more of our news coverage in your feeds.",
-        "### Further Reading",
-        "I'm sorry, I can't identify the people in this image."
-      ],
-      "url": "https://wccftech.com/anthropic-blocks-huawei-chips-from-using-latest-opus-5-5-to-develop-ai-models-yet-amazon-appears-to-have-gotten-caught-in-the-crossfire",
-      "source": "wccftech.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-23T16:00:12Z"
-    },
-    {
       "id": "4b98c0faee51",
       "title": "‘Stick to Your Knitting’ in AI. Models, YouTube & Amazon. ARD #169",
       "summary": "Some examples.\n\nOpenAI released GPT-6 Sol and GPT-6 Luna, its lesser tier models, and for its top business customers the price is half of what the previous versions cost. That is notable.\n\nAnthropic r...",
@@ -977,6 +816,21 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-09-24T13:36:00Z"
+    },
+    {
+      "id": "96125d687abc",
+      "title": "阿里加码AI办公场景争夺 千问办公软硬件新产品齐发布",
+      "summary": "【财新网】用智能体投入办公场景已经成为科技巨头继聊天机器人之后另一个共识。在9月22日-24日云栖大会期间，阿里旗下千问办公推出面向企业的上下文数据管理的产品“企业上下文”（Enterprise Context）以及AI Agent硬件产品QwenNote。\n\n　　7月，阿里巴巴将QoderWork、悟空、骡子快跑三款智能体产品合并成“千问办公”，陈宇森任CEO，千问办公上线30天内更新120个版...",
+      "highlights": [
+        "【财新网】用智能体投入办公场景已经成为科技巨头继聊天机器人之后另一个共识",
+        "在9月22日-24日云栖大会期间，阿里旗下千问办公推出面向企业的上下文数据管理的产品“企业上下文”（Enterprise Context）以及AI Agent硬件产品QwenNote",
+        "7月，阿里巴巴将QoderWork、悟空、骡子快跑三款智能体产品合并成“千问办公”，陈宇森任CEO，千问办公上线30天内更新120个版本，结合与钉钉等IM（即时通信）软件的打通，用户数量在9月4日突破3000万"
+      ],
+      "url": "https://companies.caixin.com/m/2026-09-24/102488332.html",
+      "source": "companies.caixin.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-24T05:00:00Z"
     }
   ]
 }
