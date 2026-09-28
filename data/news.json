@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-09-28T02:06:40Z",
+  "updatedAt": "2026-09-28T12:06:03Z",
   "latest": [
-    {
-      "id": "2b5d0fe8e551",
-      "title": "Google趕AI進度 年底推Gemini 4 自研晶片產量明年估倍增",
-      "summary": "Google今年资本支出上看1950亿至2050亿美元，TPU明年投片量也可望倍增，搭配辉达GPU与自研芯片双轨布局，将持续推升AI算力与服务器出货。\n\n上一则\n\n### Anthropic再花116亿美元抢算力 阿卡迈大单到手、还让出认股权\n\n下一则\n\n### 2026 年世界癌症大会 美国NCCN展示如何针对不同地区定制护理模型\n\n## 延伸阅读\n\nGoogle Gemini两款新模型上线 能...",
-      "highlights": [
-        "Google今年资本支出上看1950亿至2050亿美元，TPU明年投片量也可望倍增，搭配辉达GPU与自研芯片双轨布局，将持续推升AI算力与服务器出货",
-        "### Anthropic再花116亿美元抢算力 阿卡迈大单到手、还让出认股权",
-        "### 2026 年世界癌症大会 美国NCCN展示如何针对不同地区定制护理模型"
-      ],
-      "url": "https://www.worldjournal.com/wj/story/121208/9778804?zh-cn=",
-      "source": "worldjournal.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-26T06:00:10Z"
-    },
     {
       "id": "e16d4c1bb61e",
       "title": "从自动驾驶到具身智能，一套基础模型真的能通吃吗？-电子工程专辑",
@@ -30,21 +15,6 @@
       "category": "具身智能",
       "importance": 5,
       "publishedAt": "2026-09-27T01:00:00Z"
-    },
-    {
-      "id": "090737c0be38",
-      "title": "南方财经网 - 南方财经全媒体集团",
-      "summary": "基建端，阿里巴巴在2026云栖大会上宣布全力投入AI基础设施建设，目标到2032年阿里云运营的全球数据中心规模超过20GW。数据显示，阿里巴巴2026财年资本开支达1261亿元，同比增长46.6%，最新单季度资本开支增至677亿元，同比大增75%。会上，阿里平头哥同步发布自研AI芯片真武V900，算力较上一代提升3倍，单一集群可扩展至50万卡；基于新架构的Qwen4大模型已在训练中，后续版本参数规...",
-      "highlights": [
-        "基建端，阿里巴巴在2026云栖大会上宣布全力投入AI基础设施建设，目标到2032年阿里云运营的全球数据中心规模超过20GW",
-        "数据显示，阿里巴巴2026财年资本开支达1261亿元，同比增长46.6%，最新单季度资本开支增至677亿元，同比大增75%",
-        "会上，阿里平头哥同步发布自研AI芯片真武V900，算力较上一代提升3倍，单一集群可扩展至50万卡；基于新架构的Qwen4大模型已在训练中，后续版本参数规模将扩展至5T—10T"
-      ],
-      "url": "https://m.sfccn.com/2026/9-26/1MMDE0MDdfMjI1MzU1MQ.html",
-      "source": "m.sfccn.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-26T12:00:00Z"
     },
     {
       "id": "f648cce1b4b3",
@@ -137,18 +107,49 @@
       "publishedAt": "2026-09-28T01:00:00Z"
     },
     {
-      "id": "26bbba98a3a0",
-      "title": "对算力的依赖就越强，是产业链里确定性最高的卖铲人。 2. ...",
-      "summary": "别只盯着特斯拉！人形机器人万亿产业链暴富地图： 1. 英伟达$NVDA 几乎所有头部人形机器人都在用其GPU、Isaac仿真和基础模型。机器人越聪明、部署越多，对算力的依赖就",
+      "id": "4e8811c8423f",
+      "title": "SK海力士子公司Solidigm拟赴美上市，或创半导体IPO新纪录，投资者需关注的一些信息",
+      "summary": "AI推理扩大了模型文件、向量数据库和KV缓存的数据访问需求，推动云服务商采购高容量企业级SSD。高容量产品可减少单位存储规模所需的驱动器数量和机架空间，并降低每PB存储容量对应的电力与冷却成本。\n\n据TrendForce数据显示，2026年第二季度全球前五大企业级SSD厂商合计收入约375.9亿美元。按SK海力士与Solidigm合并口径计算，集团收入超过86.3亿美元，位居第二。\n\nSolidi...",
       "highlights": [
-        "人形机器人万亿产业链暴富地图： 1. 英伟达$NVDA 几乎所有头部人形机器人都在用其GPU、Isaac仿真和基础模型",
-        "机器人越聪明、部署越多，对算力的依赖就"
+        "AI推理扩大了模型文件、向量数据库和KV缓存的数据访问需求，推动云服务商采购高容量企业级SSD",
+        "高容量产品可减少单位存储规模所需的驱动器数量和机架空间，并降低每PB存储容量对应的电力与冷却成本",
+        "据TrendForce数据显示，2026年第二季度全球前五大企业级SSD厂商合计收入约375.9亿美元"
       ],
-      "url": "https://x.com/web3annie/status/2101526872538714493",
-      "source": "x.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-09-26T02:09:22Z"
+      "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262189263-skhynix-solidigm-ipo-us-listing-semiconductor-record-investors-tradingkey",
+      "source": "tradingkey.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-27T16:00:00Z"
+    },
+    {
+      "id": "b562097a85ad",
+      "title": "深度拆解华为最新报告：物理智能规模化，为什么偏偏卡在“协同”上？ - 智东西",
+      "summary": "## 三、云边端还需渐进落地，产业协同是最终答案\n\n架构的解法清晰了，但落地也还需要一步一步来。报告中，华为将云边端落地进程划分为三个阶段：\n\n 近期，边缘按需部署、以端加云为主，先在零售、巡检等场景跑通；\n 中期（2028—2030年）走向区域自治，边侧增加“一脑多机”，端侧增强“一机多脑”；\n 远期走向动态协同，形成一体化的分布式智能网络。\n\n在落地场景上，华为判断，物理智能要优先在制造、物流...",
+      "highlights": [
+        "## 三、云边端还需渐进落地，产业协同是最终答案",
+        "架构的解法清晰了，但落地也还需要一步一步来",
+        "报告中，华为将云边端落地进程划分为三个阶段："
+      ],
+      "url": "https://m.zhidx.com/p/597188.html",
+      "source": "m.zhidx.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-27T12:00:00Z"
+    },
+    {
+      "id": "2a8dc429fbff",
+      "title": "Nvidia Open Agent Safety Platform to stop AI agents from breaking out",
+      "summary": "In this article\n\nNvidia is rolling out a new software platform to allow AI developers to set safeguards for agents and prevent them from breaking out of containment.\n\nThe release on Monday of Nvidia's...",
+      "highlights": [
+        "In this article",
+        "Nvidia is rolling out a new software platform to allow AI developers to set safeguards for agents and prevent them from breaking out of containment.",
+        "The release on Monday of Nvidia's Open Agent Safety Platform comes after companies including OpenAI, Anthropic, Meta, and Google disclosed recent incidents in which their artificial intelligence models escaped their sandboxes and attempted to hack other companies and access their computer systems. [...] Anthropic CEO Dario Amodei set off an industry firestorm two weeks ago, urging AI model developers to slow their pace of advancement due to fears of the models spinning out of control, an argument that was supported by OpenAI's Sam Altman and SpaceX's Elon Musk."
+      ],
+      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+      "source": "cnbc.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-28T09:00:02Z"
     },
     {
       "id": "73c69de99690",
@@ -207,20 +208,6 @@
       "publishedAt": "2026-09-27T03:26:34Z"
     },
     {
-      "id": "22ae60782afa",
-      "title": "Google趕AI進度 年底推Gemini 4 自研晶片產量明年估倍增",
-      "summary": "Google传出将提前推出Gemini 4模型，计划今年底问世。云端服务业者（CSP）持续开发模型与服务，推动AI算力需求。",
-      "highlights": [
-        "Google传出将提前推出Gemini 4模型，计划今年底问世",
-        "云端服务业者（CSP）持续开发模型与服务，推动AI算力需求"
-      ],
-      "url": "https://www.worldjournal.com/wj/story/121208/9778804?from=wj_catelistnews&zh-cn=",
-      "source": "worldjournal.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-09-26T06:00:00Z"
-    },
-    {
       "id": "4adbe186720c",
       "title": "動用一萬個AI agent、歷時88 小時、耗費600 萬美元算力 ...",
       "summary": "動用一萬個AI agent、歷時88 小時、耗費600 萬美元算力，OpenAI 震撼宣布旗下系統已解出懸賞百萬美元的「千禧年難題」N-S 方程式——甚至宣稱證實了流體在極端狀況下會",
@@ -260,18 +247,58 @@
       "publishedAt": "2026-09-27T13:00:00Z"
     },
     {
-      "id": "ebb08e6ea4d3",
-      "title": "深度拆解华为最新报告：物理智能规模化，为什么偏偏卡在“协同”上？",
-      "summary": "智东西. 作者| 王涵. 编辑| 漠影. 2026年，资本正在为AI走进物理世界疯狂下注。 IT桔子数据显示，截至5月11日，国内具身智能领域今年已披露投资218起，金额超过577亿元",
+      "id": "1d0de176e156",
+      "title": "赌具身智能没有未来的人，是没有未来的 | 对谈伯克利Allen Yang博士",
+      "summary": "文｜尚莞迪8月19日，宇树科技在科创板挂牌上市。发行价150.80元，开盘直接跳到1100元，涨幅629%，盘中市值一度冲上4449亿元。按发行价计算，它的市盈率是219倍，",
       "highlights": [
-        "智东西. 作者| 王涵. 编辑| 漠影. 2026年，资本正在为AI走进物理世界疯狂下注",
-        "IT桔子数据显示，截至5月11日，国内具身智能领域今年已披露投资218起，金额超过577亿元"
+        "文｜尚莞迪8月19日，宇树科技在科创板挂牌上市",
+        "发行价150.80元，开盘直接跳到1100元，涨幅629%，盘中市值一度冲上4449亿元",
+        "按发行价计算，它的市盈率是219倍，"
       ],
-      "url": "https://m.sohu.com/a/1081314276_115978?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
+      "url": "https://www.ichaoqi.com/guandian/2026/0928/87879.html",
+      "source": "ichaoqi.com",
       "category": "具身智能",
-      "importance": 2,
-      "publishedAt": "2026-09-26T03:00:00Z"
+      "importance": 3,
+      "publishedAt": "2026-09-28T10:00:00Z"
+    },
+    {
+      "id": "4a43ff9a550d",
+      "title": "“因果先验+上下文因果学习”双技术体系发布",
+      "summary": "科技日报记者崔爽. 近日，“ICCL 自进化·物理智能——见证机器人的能力跃迁Open Day”活动在江苏无锡举行，现场正式对外发布“因果先验+上下文因果学习（ICCL）”双技术",
+      "highlights": [
+        "科技日报记者崔爽. 近日，“ICCL 自进化·物理智能——见证机器人的能力跃迁Open Day”活动在江苏无锡举行，现场正式对外发布“因果先验+上下文因果学习（ICCL）”双技术"
+      ],
+      "url": "https://www.stdaily.com/web/gdxw/2026-09/28/content_589149.html",
+      "source": "stdaily.com",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-09-28T07:00:00Z"
+    },
+    {
+      "id": "182e1d7add63",
+      "title": "感知-决策-执行:自动驾驶与具身智能的技术同源与场景分化",
+      "summary": "从“移动机器”到“操作机器”:统一框架的建立如果将车辆视为一种移动机器人,自动驾驶与具身智能在本质上共享同一套技术范式...",
+      "highlights": [
+        "从“移动机器”到“操作机器”:统一框架的建立如果将车辆视为一种移动机器人,自动驾驶与具身智能在本质上共享同一套技术范式..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9uWlCo90NVwLJ9lCSVWhjiiyxmgBKu861qXa8Fplpd9ZaImI1Xo9lR9brgVsnMT-4dXc4mDeqHtO_kditOEhRwb7gvXnu75DqWAU_j4ZplA3ZOJx1siO3_RhDk-awgji6LaT5ePCudgVLreUwvElPi6Q53BVklhPihAa-Sdofxx1IYRC7QBaL4frhogiFgQkw7_THVavImAHIWVKtt2Nh6FW6cwuUnkdA..&amp;type=2&amp;query=%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD %E6%9C%BA%E5%99%A8%E4%BA%BA %E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6&amp;token=926A386F0D5A82812D2B71A5CFFBDF9D2D531E0F6ABA582B",
+      "source": "微信公众号",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-09-27T06:40:52Z"
+    },
+    {
+      "id": "1bc7d33a4088",
+      "title": "感知-决策-执行:自动驾驶与具身智能的技术同源与场景分化",
+      "summary": "从“移动机器”到“操作机器”:统一框架的建立如果将车辆视为一种移动机器人,自动驾驶与具身智能在本质上共享同一套技术范式...",
+      "highlights": [
+        "从“移动机器”到“操作机器”:统一框架的建立如果将车辆视为一种移动机器人,自动驾驶与具身智能在本质上共享同一套技术范式..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9uWlCo90NVwpJPgQ5Xvw96iyxmgBKu861qXa8Fplpd9ZaImI1Xo9lR9brgVsnMT-4dXc4mDeqHtO_kditOEhRwb7gvXnu75DqWAU_j4ZplA3ZOJx1siO3_RhDk-awgji0aJdRYN8vq8wPvRfZ-oqhpcU3kL-kK_QYM_yrn-VrI-yGMu6HwbCNwVL32vnP7X9vA8vkTe7yd6LNaBM0s-r_0NGbbB75bUeA..&amp;type=2&amp;query=%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD %E6%9C%BA%E5%99%A8%E4%BA%BA %E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6&amp;token=926ABCC9D1865E5CF0E9B3660B1200A0F01CF8D86ABA583E",
+      "source": "微信公众号",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-09-27T06:40:52Z"
     },
     {
       "id": "a2c20cc49cea",
@@ -351,6 +378,20 @@
       "category": "投并购",
       "importance": 2,
       "publishedAt": "2026-09-27T07:00:00Z"
+    },
+    {
+      "id": "d8256ee34edf",
+      "title": "Physical AI新突破 FSD级团队首推Simate-beta模型登陆RoboDojo",
+      "summary": "AI研究AI，这次有了物理世界的答卷。 一家成立仅三个月的公司，亮出了自己的首款通用物理快系统，Simate-beta：展示记忆、长程任务、精细操作与任务适应能力，并据公司",
+      "highlights": [
+        "AI研究AI，这次有了物理世界的答卷",
+        "一家成立仅三个月的公司，亮出了自己的首款通用物理快系统，Simate-beta：展示记忆、长程任务、精细操作与任务适应能力，并据公司"
+      ],
+      "url": "https://eu.36kr.com/zh/p/3999916051157129",
+      "source": "eu.36kr.com",
+      "category": "前沿理论",
+      "importance": 2,
+      "publishedAt": "2026-09-27T12:00:00Z"
     }
   ],
   "today": [
@@ -368,6 +409,49 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-09-28T01:00:00Z"
+    },
+    {
+      "id": "2a8dc429fbff",
+      "title": "Nvidia Open Agent Safety Platform to stop AI agents from breaking out",
+      "summary": "In this article\n\nNvidia is rolling out a new software platform to allow AI developers to set safeguards for agents and prevent them from breaking out of containment.\n\nThe release on Monday of Nvidia's...",
+      "highlights": [
+        "In this article",
+        "Nvidia is rolling out a new software platform to allow AI developers to set safeguards for agents and prevent them from breaking out of containment.",
+        "The release on Monday of Nvidia's Open Agent Safety Platform comes after companies including OpenAI, Anthropic, Meta, and Google disclosed recent incidents in which their artificial intelligence models escaped their sandboxes and attempted to hack other companies and access their computer systems. [...] Anthropic CEO Dario Amodei set off an industry firestorm two weeks ago, urging AI model developers to slow their pace of advancement due to fears of the models spinning out of control, an argument that was supported by OpenAI's Sam Altman and SpaceX's Elon Musk."
+      ],
+      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+      "source": "cnbc.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-28T09:00:02Z"
+    },
+    {
+      "id": "1d0de176e156",
+      "title": "赌具身智能没有未来的人，是没有未来的 | 对谈伯克利Allen Yang博士",
+      "summary": "文｜尚莞迪8月19日，宇树科技在科创板挂牌上市。发行价150.80元，开盘直接跳到1100元，涨幅629%，盘中市值一度冲上4449亿元。按发行价计算，它的市盈率是219倍，",
+      "highlights": [
+        "文｜尚莞迪8月19日，宇树科技在科创板挂牌上市",
+        "发行价150.80元，开盘直接跳到1100元，涨幅629%，盘中市值一度冲上4449亿元",
+        "按发行价计算，它的市盈率是219倍，"
+      ],
+      "url": "https://www.ichaoqi.com/guandian/2026/0928/87879.html",
+      "source": "ichaoqi.com",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-09-28T10:00:00Z"
+    },
+    {
+      "id": "4a43ff9a550d",
+      "title": "“因果先验+上下文因果学习”双技术体系发布",
+      "summary": "科技日报记者崔爽. 近日，“ICCL 自进化·物理智能——见证机器人的能力跃迁Open Day”活动在江苏无锡举行，现场正式对外发布“因果先验+上下文因果学习（ICCL）”双技术",
+      "highlights": [
+        "科技日报记者崔爽. 近日，“ICCL 自进化·物理智能——见证机器人的能力跃迁Open Day”活动在江苏无锡举行，现场正式对外发布“因果先验+上下文因果学习（ICCL）”双技术"
+      ],
+      "url": "https://www.stdaily.com/web/gdxw/2026-09/28/content_589149.html",
+      "source": "stdaily.com",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-09-28T07:00:00Z"
     }
   ],
   "week": [
@@ -385,22 +469,52 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-09-28T01:00:00Z"
+    },
+    {
+      "id": "2a8dc429fbff",
+      "title": "Nvidia Open Agent Safety Platform to stop AI agents from breaking out",
+      "summary": "In this article\n\nNvidia is rolling out a new software platform to allow AI developers to set safeguards for agents and prevent them from breaking out of containment.\n\nThe release on Monday of Nvidia's...",
+      "highlights": [
+        "In this article",
+        "Nvidia is rolling out a new software platform to allow AI developers to set safeguards for agents and prevent them from breaking out of containment.",
+        "The release on Monday of Nvidia's Open Agent Safety Platform comes after companies including OpenAI, Anthropic, Meta, and Google disclosed recent incidents in which their artificial intelligence models escaped their sandboxes and attempted to hack other companies and access their computer systems. [...] Anthropic CEO Dario Amodei set off an industry firestorm two weeks ago, urging AI model developers to slow their pace of advancement due to fears of the models spinning out of control, an argument that was supported by OpenAI's Sam Altman and SpaceX's Elon Musk."
+      ],
+      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+      "source": "cnbc.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-28T09:00:02Z"
+    },
+    {
+      "id": "1d0de176e156",
+      "title": "赌具身智能没有未来的人，是没有未来的 | 对谈伯克利Allen Yang博士",
+      "summary": "文｜尚莞迪8月19日，宇树科技在科创板挂牌上市。发行价150.80元，开盘直接跳到1100元，涨幅629%，盘中市值一度冲上4449亿元。按发行价计算，它的市盈率是219倍，",
+      "highlights": [
+        "文｜尚莞迪8月19日，宇树科技在科创板挂牌上市",
+        "发行价150.80元，开盘直接跳到1100元，涨幅629%，盘中市值一度冲上4449亿元",
+        "按发行价计算，它的市盈率是219倍，"
+      ],
+      "url": "https://www.ichaoqi.com/guandian/2026/0928/87879.html",
+      "source": "ichaoqi.com",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-09-28T10:00:00Z"
+    },
+    {
+      "id": "4a43ff9a550d",
+      "title": "“因果先验+上下文因果学习”双技术体系发布",
+      "summary": "科技日报记者崔爽. 近日，“ICCL 自进化·物理智能——见证机器人的能力跃迁Open Day”活动在江苏无锡举行，现场正式对外发布“因果先验+上下文因果学习（ICCL）”双技术",
+      "highlights": [
+        "科技日报记者崔爽. 近日，“ICCL 自进化·物理智能——见证机器人的能力跃迁Open Day”活动在江苏无锡举行，现场正式对外发布“因果先验+上下文因果学习（ICCL）”双技术"
+      ],
+      "url": "https://www.stdaily.com/web/gdxw/2026-09/28/content_589149.html",
+      "source": "stdaily.com",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-09-28T07:00:00Z"
     }
   ],
   "month": [
-    {
-      "id": "398debe2b2f6",
-      "title": "9650亿！史上最大IPO来了",
-      "summary": "9650亿！史上最大IPO来了,AI,Anthropic,OpenAI,Claude,大模型,开源模型,模型,融资,估值,持续,风险,成本,人工智能,版权,收入,分歧.",
-      "highlights": [
-        "史上最大IPO来了,AI,Anthropic,OpenAI,Claude,大模型,开源模型,模型,融资,估值,持续,风险,成本,人工智能,版权,收入,分歧."
-      ],
-      "url": "https://k.sina.com.cn/article_5953740931_162dee0830670406vw.html?from=tech",
-      "source": "k.sina.com.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-25T23:00:00Z"
-    },
     {
       "id": "2b5d0fe8e551",
       "title": "Google趕AI進度 年底推Gemini 4 自研晶片產量明年估倍增",
@@ -522,17 +636,32 @@
       "publishedAt": "2026-09-26T12:55:04Z"
     },
     {
-      "id": "7f11227fa0f0",
-      "title": "Google, OpenAI and Anthropic plan AI body; three AI giants ...",
-      "summary": "OpenAI/ specialized cybersecurity model launch OpenAI released GPT-5.4-Cyber, a version of its newest model designed for defensive security teams. Access is",
+      "id": "aa2e99e237db",
+      "title": "刚刚，OpenAI神秘「o」代码曝光！ChatGPT要变24小时员工",
+      "summary": "所有人真正需要的是一个「交代完目标之后，能默默替我把活干完的执行者」。\n\n这就是为什么OpenAI必须做「o」。\n\n从「Chat（聊）」跨越到「Do（做）」，正是常驻智能体存在的唯一意义。\n\n下周起\n\n准备迎接你的「AI同事」\n\n实际上，这一回，OpenAI出牌晚了很多。\n\n上个月初，马斯克SpaceXAI的Grok Bot正式上线。\n\n它的核心设计极其聪明：每个Bot拥有自己的专属云电脑，登录人...",
       "highlights": [
-        "OpenAI/ specialized cybersecurity model launch OpenAI released GPT-5.4-Cyber, a version of its newest model designed for defensive security teams. Access is"
+        "所有人真正需要的是一个「交代完目标之后，能默默替我把活干完的执行者」",
+        "这就是为什么OpenAI必须做「o」",
+        "从「Chat（聊）」跨越到「Do（做）」，正是常驻智能体存在的唯一意义"
       ],
-      "url": "https://www.facebook.com/WIONews/posts/google-openai-and-anthropic-plan-ai-body-three-ai-giants-could-launch-safa-by-ea/1457374296501740",
-      "source": "facebook.com",
+      "url": "https://hub.baai.ac.cn/view/58313",
+      "source": "hub.baai.ac.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-28T01:00:00Z"
+    },
+    {
+      "id": "398debe2b2f6",
+      "title": "9650亿！史上最大IPO来了",
+      "summary": "9650亿！史上最大IPO来了,AI,Anthropic,OpenAI,Claude,大模型,开源模型,模型,融资,估值,持续,风险,成本,人工智能,版权,收入,分歧.",
+      "highlights": [
+        "史上最大IPO来了,AI,Anthropic,OpenAI,Claude,大模型,开源模型,模型,融资,估值,持续,风险,成本,人工智能,版权,收入,分歧."
+      ],
+      "url": "https://k.sina.com.cn/article_5953740931_162dee0830670406vw.html?from=tech",
+      "source": "k.sina.com.cn",
       "category": "模型发布",
       "importance": 5,
-      "publishedAt": "2026-09-25T15:59:34Z"
+      "publishedAt": "2026-09-25T23:00:00Z"
     }
   ]
 }
