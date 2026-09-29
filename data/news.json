@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-09-29T11:39:08Z",
+  "updatedAt": "2026-09-29T17:05:43Z",
   "latest": [
-    {
-      "id": "8316750eab22",
-      "title": "“从种子到IPO”，探寻新质生产力下科创企业的资本成长路_搜狐网",
-      "summary": "在当日的“新质投融资的深层转变”圆桌对话环节，北京发明互动创始人魏颍轩谈到，当下AI投资逻辑的转变主要包括三个方面。一是从讲愿景变成了讲数据、讲证据；二是从海外对标变成了回答中国问题；三是从讲创始人背景，变成了讲创始人的认知深度。\n\n“所谓AI资本投资逻辑转变，说到底是这个行业已经在从‘讲得有多好听’，变成‘做得有多实’。”魏颍轩概括道。\n\n并购整合成关键抓手\n\n“如今，AI已经从一个概念叙事阶段...",
-      "highlights": [
-        "在当日的“新质投融资的深层转变”圆桌对话环节，北京发明互动创始人魏颍轩谈到，当下AI投资逻辑的转变主要包括三个方面",
-        "一是从讲愿景变成了讲数据、讲证据；二是从海外对标变成了回答中国问题；三是从讲创始人背景，变成了讲创始人的认知深度",
-        "“所谓AI资本投资逻辑转变，说到底是这个行业已经在从‘讲得有多好听’，变成‘做得有多实’"
-      ],
-      "url": "https://m.sohu.com/a/1081359984_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-27T11:51:27Z"
-    },
     {
       "id": "aa2e99e237db",
       "title": "刚刚，OpenAI神秘「o」代码曝光！ChatGPT要变24小时员工",
@@ -30,36 +15,6 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-09-28T01:00:00Z"
-    },
-    {
-      "id": "4e8811c8423f",
-      "title": "SK海力士子公司Solidigm拟赴美上市，或创半导体IPO新纪录，投资者需关注的一些信息",
-      "summary": "AI推理扩大了模型文件、向量数据库和KV缓存的数据访问需求，推动云服务商采购高容量企业级SSD。高容量产品可减少单位存储规模所需的驱动器数量和机架空间，并降低每PB存储容量对应的电力与冷却成本。\n\n据TrendForce数据显示，2026年第二季度全球前五大企业级SSD厂商合计收入约375.9亿美元。按SK海力士与Solidigm合并口径计算，集团收入超过86.3亿美元，位居第二。\n\nSolidi...",
-      "highlights": [
-        "AI推理扩大了模型文件、向量数据库和KV缓存的数据访问需求，推动云服务商采购高容量企业级SSD",
-        "高容量产品可减少单位存储规模所需的驱动器数量和机架空间，并降低每PB存储容量对应的电力与冷却成本",
-        "据TrendForce数据显示，2026年第二季度全球前五大企业级SSD厂商合计收入约375.9亿美元"
-      ],
-      "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262189263-skhynix-solidigm-ipo-us-listing-semiconductor-record-investors-tradingkey",
-      "source": "tradingkey.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-27T16:00:00Z"
-    },
-    {
-      "id": "b562097a85ad",
-      "title": "深度拆解华为最新报告：物理智能规模化，为什么偏偏卡在“协同”上？ - 智东西",
-      "summary": "## 三、云边端还需渐进落地，产业协同是最终答案\n\n架构的解法清晰了，但落地也还需要一步一步来。报告中，华为将云边端落地进程划分为三个阶段：\n\n 近期，边缘按需部署、以端加云为主，先在零售、巡检等场景跑通；\n 中期（2028—2030年）走向区域自治，边侧增加“一脑多机”，端侧增强“一机多脑”；\n 远期走向动态协同，形成一体化的分布式智能网络。\n\n在落地场景上，华为判断，物理智能要优先在制造、物流...",
-      "highlights": [
-        "## 三、云边端还需渐进落地，产业协同是最终答案",
-        "架构的解法清晰了，但落地也还需要一步一步来",
-        "报告中，华为将云边端落地进程划分为三个阶段："
-      ],
-      "url": "https://m.zhidx.com/p/597188.html",
-      "source": "m.zhidx.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-09-27T12:00:00Z"
     },
     {
       "id": "2a8dc429fbff",
@@ -90,21 +45,6 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-09-28T11:00:00Z"
-    },
-    {
-      "id": "dd0a31162376",
-      "title": "扎克伯格谈 Muse：AI Agent 爆发，“元宇宙、智能眼镜和大模型”三大赌注完成交汇 | CryptoRank.io",
-      "summary": ">\n> 基本上，当我们——我、Nat和Alex——坐在一起，意识到这是一种神奇的体验，并且如果能把它打造成一个开箱即用的版本，让那些不懂技术、不想去自己安装Mac Mini、不想进终端折腾、也不想在出问题时调试的普通人也能用的时候，我就觉得，这将会是数十亿人都想要使用的东西。\n>\n> 从那以后，我们一直在围绕这个目标努力：专门为它调优模型，不仅构建了助理本身和运行框架，还构建了为每个助理提供独立计...",
-      "highlights": [
-        "> 基本上，当我们——我、Nat和Alex——坐在一起，意识到这是一种神奇的体验，并且如果能把它打造成一个开箱即用的版本，让那些不懂技术、不想去自己安装Mac Mini、不想进终端折腾、也不想在出问题时调试的普通人也能用的时候，我就觉得，这将会是数十亿人都想要使用的东西",
-        "> 从那以后，我们一直在围绕这个目标努力：专门为它调优模型，不仅构建了助理本身和运行框架，还构建了为每个助理提供独立计算环境的技术——我们为此构建了整套Muse安全虚拟机",
-        "> 我们内部一直觉得这很特别，内部人员也很喜欢，但你永远不知道产品发布后大家会怎么反应"
-      ],
-      "url": "https://cryptorank.io/zh/news/feed/97652-2292550",
-      "source": "cryptorank.io",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-27T17:00:00Z"
     },
     {
       "id": "7e4cedf314ab",
@@ -195,21 +135,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-28T12:00:00Z"
-    },
-    {
-      "id": "fd4226fc5261",
-      "title": "“从种子到IPO”，探寻新质生产力下科创企业的资本成长路|耐心资本|资本市场|Agent|上市公司|港股_手机新浪网",
-      "summary": "实际上，在新质生产力的核心赛道上，无论是投资方的逻辑判断，还是融资方的路径选择，都在发生深刻变化。投资端从追逐模式创新转向深耕硬科技，融资端从单一股权转向多元工具组合。\n\n在当日的“新质投融资的深层转变”圆桌对话环节，北京发明互动创始人魏颍轩谈到，当下AI投资逻辑的转变主要包括三个方面。一是从讲愿景变成了讲数据、讲证据；二是从海外对标变成了回答中国问题；三是从讲创始人背景，变成了讲创始人的认知深度...",
-      "highlights": [
-        "实际上，在新质生产力的核心赛道上，无论是投资方的逻辑判断，还是融资方的路径选择，都在发生深刻变化",
-        "投资端从追逐模式创新转向深耕硬科技，融资端从单一股权转向多元工具组合",
-        "在当日的“新质投融资的深层转变”圆桌对话环节，北京发明互动创始人魏颍轩谈到，当下AI投资逻辑的转变主要包括三个方面"
-      ],
-      "url": "https://finance.sina.cn/2026-09-27/detail-initftkf9692905.d.html?oid=%E8%8A%9D%E5%8A%A0%E5%93%A5%E5%93%81%E8%8C%B6%E5%A4%96%E5%8D%96%E4%B8%8A%E9%97%A8%EF%BC%88%E9%A1%B6%E7%BA%A7%E5%B0%8F%E5%A7%90%EF%BC%89%E5%A8%81%E5%85%B4%EF%BC%9A%EF%BC%8818649688694%EF%BC%89%E6%94%AF%E6%8C%81%E5%BD%93%E9%9D%A2%E7%8E%B0%E9%87%91&vt=4",
-      "source": "finance.sina.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-09-27T12:20:58Z"
     },
     {
       "id": "b1efa3b18557",
@@ -317,17 +242,78 @@
       "publishedAt": "2026-09-29T00:17:00Z"
     },
     {
-      "id": "4323a1a1c6d0",
-      "title": "Google, OpenAI and Anthropic are reportedly forming their ...",
-      "summary": "Google, OpenAI and Anthropic are reportedly forming their own frontier-AI safety authority, potentially testing models before release without government",
+      "id": "394be35d710f",
+      "title": "每天都在改变世界！这绝对是 AI 史上最疯狂的一周 | 极客公园",
+      "summary": "Google 一度是互联网公司在 AI 领域的半壁江山，但在这疯狂的一周里，它的发布却没有引起预期中的关注（推特互动数与 OpenAI 相差 20 倍）。\n\n周四\n\n#### 训练速度：Pytorch 2.0 正式版发布\n\n一行代码，训练模型 2 倍速！\n\nPyTorch 是一个开源的 Python 机器学习库，用于构建和训练深度学习模型，比如各类 GPT 预训练语言模型，目前 TensorFlo...",
       "highlights": [
-        "Google, OpenAI and Anthropic are reportedly forming their own frontier-AI safety authority, potentially testing models before release without government"
+        "Google 一度是互联网公司在 AI 领域的半壁江山，但在这疯狂的一周里，它的发布却没有引起预期中的关注（推特互动数与 OpenAI 相差 20 倍）",
+        "#### 训练速度：Pytorch 2.0 正式版发布",
+        "一行代码，训练模型 2 倍速"
       ],
-      "url": "https://www.reddit.com/r/singularity/comments/1wp7lhu/google_openai_and_anthropic_are_reportedly",
-      "source": "reddit.com",
+      "url": "https://www.geekpark.net/news/371459",
+      "source": "geekpark.net",
       "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-09-27T15:52:18Z"
+      "importance": 5,
+      "publishedAt": "2026-09-29T03:00:00Z"
+    },
+    {
+      "id": "2b9c9daf8c2d",
+      "title": "推理占62%、国产份额41%：2026年的中国AI芯片，赢在份额、难在算子|gpu_网易订阅",
+      "summary": "### 新闻\n\n### 体育\n\n### 娱乐\n\n### 财经\n\n### 汽车\n\n### 科技\n\n### 时尚\n\n### 手机 / 数码\n\n### 房产 / 家居\n\n### 教育\n\n# 推理占62%、国产份额41%：2026年的中国AI芯片，赢在份额、难在算子\n\n用微信扫码二维码\n\n分享至好友和朋友圈\n\n  \n 封面图｜一枚 AI 芯片与它周围的算力网络（AI 生成）\n\n2500 亿市场只是中场休息...",
+      "highlights": [
+        "### 手机 / 数码",
+        "### 房产 / 家居",
+        "# 推理占62%、国产份额41%：2026年的中国AI芯片，赢在份额、难在算子"
+      ],
+      "url": "https://www.163.com/dy/article/L80FF40E0556GROA.html",
+      "source": "163.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-29T05:44:24Z"
+    },
+    {
+      "id": "401c123d5479",
+      "title": "🚨 AI 芯片市场被看到US$860B，但韩国今天点出了NVIDIA ...",
+      "summary": "... AI 从“训练”走向“推理”后，客户会越来越在意电费和成本过去两年讲AI Chip，市场第一反应几乎就是NVIDIA GPU。 因为训练GPT、Claude 这种大型模型，需要非常强的算力。",
+      "highlights": [
+        "... AI 从“训练”走向“推理”后，客户会越来越在意电费和成本过去两年讲AI Chip，市场第一反应几乎就是NVIDIA GPU",
+        "因为训练GPT、Claude 这种大型模型，需要非常强的算力"
+      ],
+      "url": "https://www.facebook.com/iwealthnote/posts/-ai-%E8%8A%AF%E7%89%87%E5%B8%82%E5%9C%BA%E8%A2%AB%E7%9C%8B%E5%88%B0-us860b%E4%BD%86%E9%9F%A9%E5%9B%BD%E4%BB%8A%E5%A4%A9%E7%82%B9%E5%87%BA%E4%BA%86-nvidia-%E6%9C%80%E9%9C%80%E8%A6%81%E9%98%B2%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8Bai-%E4%BB%8E%E8%AE%AD%E7%BB%83%E8%B5%B0%E5%90%91%E6%8E%A8%E7%90%86%E5%90%8E%E5%AE%A2%E6%88%B7%E4%BC%9A%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%9C%A8%E6%84%8F%E7%94%B5%E8%B4%B9%E5%92%8C%E6%88%90%E6%9C%AC%E8%BF%87%E5%8E%BB%E4%B8%A4%E5%B9%B4%E8%AE%B2-ai-chip%E5%B8%82/1641462534435496",
+      "source": "facebook.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-29T17:05:43Z"
+    },
+    {
+      "id": "4a43ff9a550d",
+      "title": "“因果先验+上下文因果学习”双技术体系发布",
+      "summary": "[](\n\n 时政\n 热点\n 政务\n 深瞳\n 访谈\n 视频\n 国际\n 地方\n 专题\n English\n 滚动\n\n[](  登录 -\n\n所在位置： 中国科技网首页 > 滚动 > 正文\n\n# “因果先验+上下文因果学习”双技术体系发布\n\n2026-09-28 15:11:44 来源:  科技日报  点击数：\n\n科技日报记者 崔爽\n\n近日，“ICCL 自进化·物理智能——见证机器人的能力跃迁Open Da...",
+      "highlights": [
+        "所在位置： 中国科技网首页 > 滚动 > 正文",
+        "# “因果先验+上下文因果学习”双技术体系发布",
+        "2026-09-28 15:11:44 来源:  科技日报  点击数："
+      ],
+      "url": "https://www.stdaily.com/web/gdxw/2026-09/28/content_589149.html",
+      "source": "stdaily.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-09-28T17:00:00Z"
+    },
+    {
+      "id": "04a9b877be0e",
+      "title": "Nvidia is set to challenge Anthropic and OpenAI with a new product - TheStreet",
+      "summary": "The launch follows a run of sandbox escapes. OpenAI, Anthropic, Meta, and Google have all been linked to recent incidents. The best-known case involved OpenAI models that got out of containment, reach...",
+      "highlights": [
+        "The launch follows a run of sandbox escapes. OpenAI, Anthropic, Meta, and Google have all been linked to recent incidents. The best-known case involved OpenAI models that got out of containment, reached the open internet, and breached Hugging Face.",
+        "The scale was large. Boitano told reporters that Hugging Face reported more than 17,000 actions over the course of the intrusion. Investigations estimated that about 700 AI agents participated in the attack. [...] That overlap raised a governance question. The company whose chips train most frontier models would also own a neutral hub where rival labs host and test theirs.",
+        "Huang tried to defuse it, saying, “NVIDIA compute will not be required to build on or deploy through Hugging Face.”"
+      ],
+      "url": "https://www.thestreet.com/technology/nvidia-open-agent-safety-platform-ai-quarantine-challenge-anthropic-openai",
+      "source": "thestreet.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-29T13:47:00Z"
     },
     {
       "id": "2f446f8e3c27",
@@ -445,6 +431,20 @@
       "category": "投并购",
       "importance": 4,
       "publishedAt": "2026-09-29T10:18:32Z"
+    },
+    {
+      "id": "a65b7e3c406a",
+      "title": "121万颗GPU！马斯克疯狂扩张AI算力",
+      "summary": "Amazon、Google等科技巨頭紛紛自研AI晶片，想降低對輝達的依賴。 但黃仁勳沒有 ... 這也與NVIDIA 最新警告相互呼應：AI 算力需求還在快速成長，但記憶體零組件",
+      "highlights": [
+        "Amazon、Google等科技巨頭紛紛自研AI晶片，想降低對輝達的依賴",
+        "但黃仁勳沒有 ... 這也與NVIDIA 最新警告相互呼應：AI 算力需求還在快速成長，但記憶體零組件"
+      ],
+      "url": "https://www.instagram.com/reel/Ddz4ZEkTALl",
+      "source": "instagram.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-09-29T17:05:43Z"
     }
   ],
   "today": [
@@ -524,6 +524,65 @@
       "publishedAt": "2026-09-29T00:17:00Z"
     },
     {
+      "id": "394be35d710f",
+      "title": "每天都在改变世界！这绝对是 AI 史上最疯狂的一周 | 极客公园",
+      "summary": "Google 一度是互联网公司在 AI 领域的半壁江山，但在这疯狂的一周里，它的发布却没有引起预期中的关注（推特互动数与 OpenAI 相差 20 倍）。\n\n周四\n\n#### 训练速度：Pytorch 2.0 正式版发布\n\n一行代码，训练模型 2 倍速！\n\nPyTorch 是一个开源的 Python 机器学习库，用于构建和训练深度学习模型，比如各类 GPT 预训练语言模型，目前 TensorFlo...",
+      "highlights": [
+        "Google 一度是互联网公司在 AI 领域的半壁江山，但在这疯狂的一周里，它的发布却没有引起预期中的关注（推特互动数与 OpenAI 相差 20 倍）",
+        "#### 训练速度：Pytorch 2.0 正式版发布",
+        "一行代码，训练模型 2 倍速"
+      ],
+      "url": "https://www.geekpark.net/news/371459",
+      "source": "geekpark.net",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-29T03:00:00Z"
+    },
+    {
+      "id": "2b9c9daf8c2d",
+      "title": "推理占62%、国产份额41%：2026年的中国AI芯片，赢在份额、难在算子|gpu_网易订阅",
+      "summary": "### 新闻\n\n### 体育\n\n### 娱乐\n\n### 财经\n\n### 汽车\n\n### 科技\n\n### 时尚\n\n### 手机 / 数码\n\n### 房产 / 家居\n\n### 教育\n\n# 推理占62%、国产份额41%：2026年的中国AI芯片，赢在份额、难在算子\n\n用微信扫码二维码\n\n分享至好友和朋友圈\n\n  \n 封面图｜一枚 AI 芯片与它周围的算力网络（AI 生成）\n\n2500 亿市场只是中场休息...",
+      "highlights": [
+        "### 手机 / 数码",
+        "### 房产 / 家居",
+        "# 推理占62%、国产份额41%：2026年的中国AI芯片，赢在份额、难在算子"
+      ],
+      "url": "https://www.163.com/dy/article/L80FF40E0556GROA.html",
+      "source": "163.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-29T05:44:24Z"
+    },
+    {
+      "id": "401c123d5479",
+      "title": "🚨 AI 芯片市场被看到US$860B，但韩国今天点出了NVIDIA ...",
+      "summary": "... AI 从“训练”走向“推理”后，客户会越来越在意电费和成本过去两年讲AI Chip，市场第一反应几乎就是NVIDIA GPU。 因为训练GPT、Claude 这种大型模型，需要非常强的算力。",
+      "highlights": [
+        "... AI 从“训练”走向“推理”后，客户会越来越在意电费和成本过去两年讲AI Chip，市场第一反应几乎就是NVIDIA GPU",
+        "因为训练GPT、Claude 这种大型模型，需要非常强的算力"
+      ],
+      "url": "https://www.facebook.com/iwealthnote/posts/-ai-%E8%8A%AF%E7%89%87%E5%B8%82%E5%9C%BA%E8%A2%AB%E7%9C%8B%E5%88%B0-us860b%E4%BD%86%E9%9F%A9%E5%9B%BD%E4%BB%8A%E5%A4%A9%E7%82%B9%E5%87%BA%E4%BA%86-nvidia-%E6%9C%80%E9%9C%80%E8%A6%81%E9%98%B2%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8Bai-%E4%BB%8E%E8%AE%AD%E7%BB%83%E8%B5%B0%E5%90%91%E6%8E%A8%E7%90%86%E5%90%8E%E5%AE%A2%E6%88%B7%E4%BC%9A%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%9C%A8%E6%84%8F%E7%94%B5%E8%B4%B9%E5%92%8C%E6%88%90%E6%9C%AC%E8%BF%87%E5%8E%BB%E4%B8%A4%E5%B9%B4%E8%AE%B2-ai-chip%E5%B8%82/1641462534435496",
+      "source": "facebook.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-29T17:05:43Z"
+    },
+    {
+      "id": "04a9b877be0e",
+      "title": "Nvidia is set to challenge Anthropic and OpenAI with a new product - TheStreet",
+      "summary": "The launch follows a run of sandbox escapes. OpenAI, Anthropic, Meta, and Google have all been linked to recent incidents. The best-known case involved OpenAI models that got out of containment, reach...",
+      "highlights": [
+        "The launch follows a run of sandbox escapes. OpenAI, Anthropic, Meta, and Google have all been linked to recent incidents. The best-known case involved OpenAI models that got out of containment, reached the open internet, and breached Hugging Face.",
+        "The scale was large. Boitano told reporters that Hugging Face reported more than 17,000 actions over the course of the intrusion. Investigations estimated that about 700 AI agents participated in the attack. [...] That overlap raised a governance question. The company whose chips train most frontier models would also own a neutral hub where rival labs host and test theirs.",
+        "Huang tried to defuse it, saying, “NVIDIA compute will not be required to build on or deploy through Hugging Face.”"
+      ],
+      "url": "https://www.thestreet.com/technology/nvidia-open-agent-safety-platform-ai-quarantine-challenge-anthropic-openai",
+      "source": "thestreet.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-29T13:47:00Z"
+    },
+    {
       "id": "24f052056836",
       "title": "AI Agent竞赛提速，受益坐标已经分层_科技要闻_科技",
       "summary": "9月8日，Meta的个人智能体Muse在北美上线。十二天，约280万次下载，日活64.2万。同样上线初期的十二天里，ChatGPT移动端当年的成绩是130万下载、23.1万日活。",
@@ -561,6 +620,104 @@
         "专用边缘硅成并购与融资双热点.价值点评:SiMa.ai被Fidelity、J.... 《人工智能安全治理框架3.0》与生成式AI服务备案同步落地.行业..."
       ],
       "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-flhjqCJ9XVR8Ctuwu2OKqSb8KBKAa8rFqXa8Fplpd93UyWy3enAQzt5QK4NF1QqchlelGrVxDpcZMRC49CCVAK5oWzjAOgW-h2nldmF2QBTtmJuahH46EC0SWp_Q4Yo4Y4wqIfBQjgfdAVZME48PI3F5AxY4_EMa5902JMYRrGuMTayEmkc2pB7ldJhNp85y5TF0fPAbL0JmqVL-xm-lPm0CtGSSkZQQ..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=9A8CB8D28EF279DAEFE9B3734EA8DFBFEFF26E366ABBA359",
+      "source": "微信公众号",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-29T10:18:32Z"
+    },
+    {
+      "id": "a65b7e3c406a",
+      "title": "121万颗GPU！马斯克疯狂扩张AI算力",
+      "summary": "Amazon、Google等科技巨頭紛紛自研AI晶片，想降低對輝達的依賴。 但黃仁勳沒有 ... 這也與NVIDIA 最新警告相互呼應：AI 算力需求還在快速成長，但記憶體零組件",
+      "highlights": [
+        "Amazon、Google等科技巨頭紛紛自研AI晶片，想降低對輝達的依賴",
+        "但黃仁勳沒有 ... 這也與NVIDIA 最新警告相互呼應：AI 算力需求還在快速成長，但記憶體零組件"
+      ],
+      "url": "https://www.instagram.com/reel/Ddz4ZEkTALl",
+      "source": "instagram.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-09-29T17:05:43Z"
+    },
+    {
+      "id": "36abdd6215b8",
+      "title": "【原厂入驻】携手共建国产算力生态！凌久微全系列智算产品重磅上线iCEasy商城-国际电子商情",
+      "summary": "NSSesmc\n\n从信创计算机桌面替代到防务显控终端，从高可靠工业控制主机到海洋无人装备端侧智算，从智算服务器大模型训推到科研教学原型验证，凌久微全系列自研 GPU / SoC / NPU 芯片及显卡、整机产品凭借梯度化的算力配置、全自主指令系统与驱动栈、灵活的多国产平台适配性，为各类自主算力系统提供精准的图形与智能计算核心支撑，是国产自主图形算力与端侧智算方案的优选器件。NSSesmc\n\nNSS...",
+      "highlights": [
+        "从信创计算机桌面替代到防务显控终端，从高可靠工业控制主机到海洋无人装备端侧智算，从智算服务器大模型训推到科研教学原型验证，凌久微全系列自研 GPU / SoC / NPU 芯片及显卡、整机产品凭借梯度化的算力配置、全自主指令系统与驱动栈、灵活的多国产平台适配性，为各类自主算力系统提供精准的图形与智能计算核心支撑，是国产自主图形算力与端侧智算方案的优选器件",
+        "凌久微专区专区：NSSesmc",
+        "本文为国际电子商情原创文章，未经授权禁止转载"
+      ],
+      "url": "https://www.esmchina.com/info/59824.html",
+      "source": "esmchina.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-09-29T02:00:00Z"
+    },
+    {
+      "id": "1b46df063489",
+      "title": "Lucy L. on X: \"想再聊聊自研芯片。二供再往前一步，其实就是 ...",
+      "summary": "比如阿里今年最新披露，平头哥已经覆盖GPU、CPU、智能网卡和互联芯片，新一代真武V900 计划用于超大规模AI 集群，此前真武芯片已经在阿里云规模部署，并服务数百家外部客户",
+      "highlights": [
+        "比如阿里今年最新披露，平头哥已经覆盖GPU、CPU、智能网卡和互联芯片，新一代真武V900 计划用于超大规模AI 集群，此前真武芯片已经在阿里云规模部署，并服务数百家外部客户"
+      ],
+      "url": "https://x.com/LucyBuilding/status/2104578557121061314",
+      "source": "x.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-09-29T17:05:43Z"
+    },
+    {
+      "id": "8c51cab1459e",
+      "title": "超维动力：构建面向通用具身智能的数据系统 | 盖世汽车",
+      "summary": "数据标注也是容易被忽视却至关重要的环节，原始数据需要经过任务切片、分层语义标签标注，让模型理解完整的工作环境与任务逻辑，避免模型出现简单动作模仿复刻。超维Kai Embodied AI Infra拥有自动化的多模态数据标注管线，每日可处理上万小时原始数据，目前已经积累数十万小时人类世界Ego数据，也非常欢迎行业伙伴一起开展数据层面的合作。\n\nEmbodied AI Infra加速具身智能体进化\n\n...",
+      "highlights": [
+        "数据标注也是容易被忽视却至关重要的环节，原始数据需要经过任务切片、分层语义标签标注，让模型理解完整的工作环境与任务逻辑，避免模型出现简单动作模仿复刻",
+        "超维Kai Embodied AI Infra拥有自动化的多模态数据标注管线，每日可处理上万小时原始数据，目前已经积累数十万小时人类世界Ego数据，也非常欢迎行业伙伴一起开展数据层面的合作",
+        "Embodied AI Infra加速具身智能体进化"
+      ],
+      "url": "https://www.gasgoo.com/robot/news/70473480-%E8%B6%85%E7%BB%B4%E5%8A%A8%E5%8A%9B-%E6%9E%84%E5%BB%BA%E9%9D%A2%E5%90%91%E9%80%9A%E7%94%A8%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84%E6%95%B0%E6%8D%AE%E7%B3%BB%E7%BB%9F",
+      "source": "gasgoo.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-29T09:00:00Z"
+    },
+    {
+      "id": "3bdb0bbb3d04",
+      "title": "中国科学院启动前沿科学突破计划 首批立项10项 - Shangbao Indonesia",
+      "summary": "拥抱“变革之势”方面，主动拥抱人工智能驱动的科研新范式，加速从“经验试错”到“智能预测”的变革，共同开辟科学探索的新疆域。  \n    \n 中国科学院表示，愿与全球科学家一道，共同构建长周期、高容错的协同攻关机制，鼓励跨学科、跨部门深度合作，支持原始创新不断取得新突破。 [...] 【中新网北京9月29日电】中国科学院9月29日在北京举行新闻发布会，正式启动实施科学前沿极限突破计划，并向全球科学界...",
+      "highlights": [
+        "拥抱“变革之势”方面，主动拥抱人工智能驱动的科研新范式，加速从“经验试错”到“智能预测”的变革，共同开辟科学探索的新疆域",
+        "中国科学院表示，愿与全球科学家一道，共同构建长周期、高容错的协同攻关机制，鼓励跨学科、跨部门深度合作，支持原始创新不断取得新突破",
+        "[...] 【中新网北京9月29日电】中国科学院9月29日在北京举行新闻发布会，正式启动实施科学前沿极限突破计划，并向全球科学界发出直面“极限之问”、共筑“开放之桥”、拥抱“变革之势”的倡议，呼吁推动全球科研共同体深度协作"
+      ],
+      "url": "https://www.shangbaoindonesia.com/read/2026/09/29/berita-luar-negeri-1790688078",
+      "source": "shangbaoindonesia.com",
+      "category": "前沿理论",
+      "importance": 4,
+      "publishedAt": "2026-09-29T12:00:00Z"
+    },
+    {
+      "id": "6bbd90dd4aee",
+      "title": "What's driving the current surge in digital health M&A",
+      "summary": "Health tech and digital health merger and acquisition activity remains a major force in 2026, driven by strategic expansion and the race for competitive artificial intelligence capabilities. [...] Som...",
+      "highlights": [
+        "Health tech and digital health merger and acquisition activity remains a major force in 2026, driven by strategic expansion and the race for competitive artificial intelligence capabilities. [...] Some deals are more strategic talent-driven acquisitions, or what's called acqui-hires, to add specialized engineering and executive teams to scale AI and digital infrastructure. In January, OpenAI acquired Torch, a healthcare startup that unifies lab results, medications and recordings from doctor visits, to serve as the foundation for ChatGPT Health. Hippocratic AI picked up Grove AI, a startup that offers agentic AI for pharma R&D and clinical trial operations, and also brought its team on [...] Case in point, healthcare AI startup Abridge raised $300 million in June 2025 and toldBusiness Insider it was looking to fund M&A. Two months ago, the company bought Altrina to boost agentic AI for clinical workflows. Altrina co-founders Mo Nasir and Harvey Hu, along with founding engineer Karthik Prasad, joined Abridge as part of the deal."
+      ],
+      "url": "https://www.fiercehealthcare.com/health-tech/health-tech-ma-accelerates-firms-chase-scale-and-profitable-growth",
+      "source": "fiercehealthcare.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-09-29T16:00:00Z"
+    },
+    {
+      "id": "520bd1ca47a9",
+      "title": "9月29日AI速报:AMD以82亿美元收购李飞飞World Labs;帕西尼完成超10亿元B轮融资;智能体成AI增长新引擎...",
+      "summary": "专用边缘硅成并购与融资双热点.价值点评:SiMa.ai被Fidelity、J.... 《人工智能安全治理框架3.0》与生成式AI服务备案同步落地.行业...",
+      "highlights": [
+        "专用边缘硅成并购与融资双热点.价值点评:SiMa.ai被Fidelity、J.... 《人工智能安全治理框架3.0》与生成式AI服务备案同步落地.行业..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9ywPCwteS2Ky0C7R_5c4gWSb8KBKAa8rFqXa8Fplpd93UyWy3enAQzt5QK4NF1QqchlelGrVxDpcZMRC49CCVAK5oWzjAOgW0nCMMCL4NvzozQa8Fw4Xj0LcVuUbkt_LZ3on-0ZJmMVZX9pB3ZOsY-WcDaibHiVqS41sCvY--Q01aaGdhw8ZWSb4zm668rX8jEup9gYJocrCHScosus9ppQ_LeJW-Rhtg..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=9C733A762DB79F50656339C75425BBB56595EF6F6ABBEFE5",
       "source": "微信公众号",
       "category": "投并购",
       "importance": 4,
@@ -605,6 +762,20 @@
       "category": "具身智能",
       "importance": 2,
       "publishedAt": "2026-09-29T09:00:00Z"
+    },
+    {
+      "id": "d505b3538271",
+      "title": "长沙：工程机械产业沃土长出物理AI新枝",
+      "summary": "新华社北京9月29日电9月29日,《新华每日电讯》发表题为《长沙：工程机械产业沃土长出物理AI新枝》的报道。 上月举行的2026世界机器人大会上，中联重科展台前人流如织。",
+      "highlights": [
+        "新华社北京9月29日电9月29日,《新华每日电讯》发表题为《长沙：工程机械产业沃土长出物理AI新枝》的报道",
+        "上月举行的2026世界机器人大会上，中联重科展台前人流如织"
+      ],
+      "url": "https://m.sohu.com/a/1082342103_267106?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "具身智能",
+      "importance": 2,
+      "publishedAt": "2026-09-29T10:00:00Z"
     }
   ],
   "week": [
