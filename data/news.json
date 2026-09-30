@@ -1,36 +1,6 @@
 {
-  "updatedAt": "2026-09-30T02:34:26Z",
+  "updatedAt": "2026-09-30T11:26:38Z",
   "latest": [
-    {
-      "id": "2a8dc429fbff",
-      "title": "Nvidia Open Agent Safety Platform to stop AI agents from breaking out",
-      "summary": "In this article\n\nNvidia is rolling out a new software platform to allow AI developers to set safeguards for agents and prevent them from breaking out of containment.\n\nThe release on Monday of Nvidia's...",
-      "highlights": [
-        "In this article",
-        "Nvidia is rolling out a new software platform to allow AI developers to set safeguards for agents and prevent them from breaking out of containment.",
-        "The release on Monday of Nvidia's Open Agent Safety Platform comes after companies including OpenAI, Anthropic, Meta, and Google disclosed recent incidents in which their artificial intelligence models escaped their sandboxes and attempted to hack other companies and access their computer systems. [...] Anthropic CEO Dario Amodei set off an industry firestorm two weeks ago, urging AI model developers to slow their pace of advancement due to fears of the models spinning out of control, an argument that was supported by OpenAI's Sam Altman and SpaceX's Elon Musk."
-      ],
-      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-      "source": "cnbc.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-09-28T09:00:02Z"
-    },
-    {
-      "id": "3be9d72808cf",
-      "title": "2026「中国 AGI 创新影响力机构 TOP 30」发布 | 极客公园",
-      "summary": "## eclicktech 易点天下\n\n易点天下以 Global Growth AI OS 为核心技术架构，将 AI 模型、全球数据与市场触点整合为一套持续迭代的智能增长系统。系统可智能洞察全球多区域用户偏好与成本水位，选准切入时机与市场；依托全球化创意产能规模化生产多语言、本地化内容，并通过多版本并行测试高效筛选爆款素材；智能投放体系实时追踪转化数据，动态调优预算、人群与素材策略。从市场洞察、内...",
-      "highlights": [
-        "## eclicktech 易点天下",
-        "易点天下以 Global Growth AI OS 为核心技术架构，将 AI 模型、全球数据与市场触点整合为一套持续迭代的智能增长系统",
-        "系统可智能洞察全球多区域用户偏好与成本水位，选准切入时机与市场；依托全球化创意产能规模化生产多语言、本地化内容，并通过多版本并行测试高效筛选爆款素材；智能投放体系实时追踪转化数据，动态调优预算、人群与素材策略"
-      ],
-      "url": "https://www.geekpark.net/news/371160",
-      "source": "geekpark.net",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-28T11:00:00Z"
-    },
     {
       "id": "7e4cedf314ab",
       "title": "给年轻founder的早期融资指南：融多少、怎么融、怎么Pitch投资人，都有策略 | 极客公园",
@@ -120,21 +90,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-28T12:00:00Z"
-    },
-    {
-      "id": "b1efa3b18557",
-      "title": "盖世汽车",
-      "summary": "速腾\n NVIDIA\n\n 8\n 微信\n 朋友圈\n\n相关文章\n\n标配10颗速腾聚创激光雷达，滴滴Robotaxi R2开启载客服务 吴宇\n:   \n\n速腾聚创智能制造体系：从车规级量产到具身新品大规模交付 忻文\n:   \n\n英伟达推出新一代Jetson Thor计算平台 推动主流机器人与边缘AI发展 言奇\n:   \n\n英伟达重磅亮相链博会，51Sim作为物理AI仿真领域唯一合作伙伴联合展出，自动驾驶...",
-      "highlights": [
-        "标配10颗速腾聚创激光雷达，滴滴Robotaxi R2开启载客服务 吴宇",
-        "速腾聚创智能制造体系：从车规级量产到具身新品大规模交付 忻文",
-        "英伟达推出新一代Jetson Thor计算平台 推动主流机器人与边缘AI发展 言奇"
-      ],
-      "url": "https://m.gasgoo.com/news/70473452.html",
-      "source": "m.gasgoo.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-09-28T03:00:00Z"
     },
     {
       "id": "32e23470145f",
@@ -417,37 +372,127 @@
       "publishedAt": "2026-09-29T10:00:00Z"
     },
     {
-      "id": "c7e4b5f375d9",
-      "title": "AI热潮最危险的时刻，不是估值飙升，而是资本不愿接盘|融资|ipo|ai热潮|资本市场_网易订阅",
-      "summary": "这些变化目前更像是融资节奏放缓，而非资本窗口彻底关闭。相关企业即使暂时不上市，仍可以通过私人市场筹集资金；Holtec本身已经实现盈利，也拥有成熟的核能业务，因此其IPO暂停并不能直接视为AI行业融资危机。\n\n真正难以判断的是OpenAI和Anthropic。两家公司财务信息并未公开，外部投资者很难准确评估其现金消耗速度、未来融资需求以及何时能够实现传统意义上的盈利。\n\n一家公司的融资能力，可能牵...",
+      "id": "910d7b868561",
+      "title": "GPT-6 and Claude Opus 5.5 Released Same Day",
+      "summary": "2026年9月23日，OpenAI与Anthropic同日发布新模型：GPT-6 Sol/Luna与Claude Opus 5.5。本次发布的核心不再是单纯比拼性能，而是转向单位任务成本竞争。GPT-6 Sol/Luna",
       "highlights": [
-        "这些变化目前更像是融资节奏放缓，而非资本窗口彻底关闭",
-        "相关企业即使暂时不上市，仍可以通过私人市场筹集资金；Holtec本身已经实现盈利，也拥有成熟的核能业务，因此其IPO暂停并不能直接视为AI行业融资危机",
-        "真正难以判断的是OpenAI和Anthropic"
+        "2026年9月23日，OpenAI与Anthropic同日发布新模型：GPT-6 Sol/Luna与Claude Opus 5.5",
+        "本次发布的核心不再是单纯比拼性能，而是转向单位任务成本竞争",
+        "GPT-6 Sol/Luna"
       ],
-      "url": "https://www.163.com/dy/article/L7TVOBTF0519QIKK.html",
-      "source": "163.com",
-      "category": "投并购",
+      "url": "https://www.youtube.com/watch?v=ruogKhvrO98",
+      "source": "youtube.com",
+      "category": "模型发布",
       "importance": 5,
-      "publishedAt": "2026-09-28T06:31:21Z"
+      "publishedAt": "2026-09-30T11:26:38Z"
     },
     {
-      "id": "d88a775d1103",
-      "title": "Anthropic提交IPO招股书：2025年营收增长12倍 净亏损420亿美元",
-      "summary": "该公司去年的净亏损近420亿美元，其中约340亿美元为非现金会计费用，反映的是先前融资安排中发行的可转换工具公允价值按市值计价的增加，而非经营现金流出。截至去年12月31日，Anthropic拥有现金、现金等价物以及短期投资总额202.8亿美元。\n\nAnthropic的支出主要集中在算力和基础设施方面的投资，高达73.3亿美元，同比增长近一倍，占到其当年126.5亿美元总运营支出的一半以上。Ant...",
+      "id": "90aabd0ad83d",
+      "title": "隆重推出 GPT-6 Sol 和 Luna | OpenAI",
+      "summary": "# 隆重推出 GPT‑6 Sol 和 Luna\n\n以更多方式将前沿智能融入你的日常工作\n\n本月早些时候，我们推出了全球迄今最智能、对齐程度最高的模型 GPT‑6 Astra。要求更高的重要项目仍需充分发挥 Astra 的强大能力，但不同工作有着不同的规模、节奏和预算。\n\n因此，我们推出 GPT‑6 Sol 和 GPT‑6 Luna。GPT‑6 Astra 开启了新一代智能，而这些模型进一步拓展成本...",
       "highlights": [
-        "该公司去年的净亏损近420亿美元，其中约340亿美元为非现金会计费用，反映的是先前融资安排中发行的可转换工具公允价值按市值计价的增加，而非经营现金流出",
-        "截至去年12月31日，Anthropic拥有现金、现金等价物以及短期投资总额202.8亿美元",
-        "Anthropic的支出主要集中在算力和基础设施方面的投资，高达73.3亿美元，同比增长近一倍，占到其当年126.5亿美元总运营支出的一半以上"
+        "# 隆重推出 GPT‑6 Sol 和 Luna",
+        "以更多方式将前沿智能融入你的日常工作",
+        "本月早些时候，我们推出了全球迄今最智能、对齐程度最高的模型 GPT‑6 Astra"
       ],
-      "url": "https://www.chinastarmarket.cn/detail/2494833",
-      "source": "chinastarmarket.cn",
-      "category": "投并购",
+      "url": "https://openai.com/zh-Hans-CN/index/introducing-gpt-6-sol-and-luna",
+      "source": "openai.com",
+      "category": "模型发布",
       "importance": 5,
-      "publishedAt": "2026-09-28T11:00:00Z"
+      "publishedAt": "2026-09-29T10:00:00Z"
+    },
+    {
+      "id": "0b97fd87d7e3",
+      "title": "个人AI Agent，巨头们的新赛场|21世纪经济报道|App Store|ChatGPT|Meta|智能体_新浪新闻",
+      "summary": "近日，Meta推出个人AI Agent（智能体）Muse。用户授权后，它可代为处理邮件、在线购物和出行预订等事务，关闭应用后任务仍可在云端继续执行。截至记者发稿时，Muse仍高居美国苹果App Store排行榜榜首，市场热度高涨。应用数据机构Sensor Tower统计显示，截至9月24日，Muse下载量已超过340万次。\n\n　　Muse的发布提振了过去一年Meta萎靡的股价，9月8日至今，Met...",
+      "highlights": [
+        "近日，Meta推出个人AI Agent（智能体）Muse",
+        "用户授权后，它可代为处理邮件、在线购物和出行预订等事务，关闭应用后任务仍可在云端继续执行",
+        "截至记者发稿时，Muse仍高居美国苹果App Store排行榜榜首，市场热度高涨"
+      ],
+      "url": "https://k.sina.com.cn/article_5953740931_162dee083067040esw.html?from=tech",
+      "source": "k.sina.com.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-28T21:19:38Z"
+    },
+    {
+      "id": "a58834d2e2bb",
+      "title": "智能体电脑时代的企业 AI 算力革命",
+      "summary": "Quark AI Agent Skills（Quark AI 智能体技能包）提供了一种引导式、对话式的模型量化方案，让用户可依托基于 Quark 官方文档与源代码构建的安全分步工作流程，轻松地对 PyTorch 和 ONNX 模型进行准备处理以适配 AMD 硬件。\n\n  August 24, 2026\n 在AMD 锐龙 AI Max 智能体PC和Radeon 显卡上运行Qwen3.8 27B模型 ...",
+      "highlights": [
+        "Quark AI Agent Skills（Quark AI 智能体技能包）提供了一种引导式、对话式的模型量化方案，让用户可依托基于 Quark 官方文档与源代码构建的安全分步工作流程，轻松地对 PyTorch 和 ONNX 模型进行准备处理以适配 AMD 硬件",
+        "August 24, 2026",
+        "在AMD 锐龙 AI Max 智能体PC和Radeon 显卡上运行Qwen3.8 27B模型"
+      ],
+      "url": "https://www.amd.com/zh-cn/blogs/2026/agentic-pc-era-enterprise-ai-compute-revolution.html",
+      "source": "amd.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-28T15:00:00Z"
+    },
+    {
+      "id": "bd9abaac078b",
+      "title": "个人AI Agent 巨头们的新赛场 _ 东方财富网",
+      "summary": "# 个人AI Agent 巨头们的新赛场\n\n21世纪经济报道 20小时前 评论\n\nMeta的AI智能体Muse爆火，正掀起新一轮的科技巨头竞争热潮。\n\n近日，Meta推出个人AI Agent（智能体）Muse。用户授权后，它可代为处理邮件、在线购物和出行预订等事务，关闭应用后任务仍可在云端继续执行。截至记者发稿时，Muse仍高居美国苹果App Store排行榜榜首，市场热度高涨。应用数据机构Sen...",
+      "highlights": [
+        "# 个人AI Agent 巨头们的新赛场",
+        "21世纪经济报道 20小时前 评论",
+        "Meta的AI智能体Muse爆火，正掀起新一轮的科技巨头竞争热潮"
+      ],
+      "url": "https://wap.eastmoney.com/a/202609283885418295.html",
+      "source": "wap.eastmoney.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-09-28T16:00:00Z"
     }
   ],
   "today": [
+    {
+      "id": "910d7b868561",
+      "title": "GPT-6 and Claude Opus 5.5 Released Same Day",
+      "summary": "2026年9月23日，OpenAI与Anthropic同日发布新模型：GPT-6 Sol/Luna与Claude Opus 5.5。本次发布的核心不再是单纯比拼性能，而是转向单位任务成本竞争。GPT-6 Sol/Luna",
+      "highlights": [
+        "2026年9月23日，OpenAI与Anthropic同日发布新模型：GPT-6 Sol/Luna与Claude Opus 5.5",
+        "本次发布的核心不再是单纯比拼性能，而是转向单位任务成本竞争",
+        "GPT-6 Sol/Luna"
+      ],
+      "url": "https://www.youtube.com/watch?v=ruogKhvrO98",
+      "source": "youtube.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-30T11:26:38Z"
+    },
+    {
+      "id": "aaf18d8844d5",
+      "title": "投资界AI周报|苏姿丰打包买走员工_投资界",
+      "summary": "一周重磅\n\n头条抢先看\n\n OpenAI拟融资300亿美元，估值目标达1.4万亿美元\n 消息称小米大模型负责人罗福莉晋升至22级，已是小米职级体系最高级别\n Anthropic IPO招股书曝光，2025财年营收达45.9亿美元\n 贝恩据悉考虑竞购美国数据中心公司Edged，交易估值或超150亿美元\n AI代理初创公司Instinct以100亿美元估值完成10亿美元融资\n Manus面向海外市场发...",
+      "highlights": [
+        "OpenAI拟融资300亿美元，估值目标达1.4万亿美元",
+        "消息称小米大模型负责人罗福莉晋升至22级，已是小米职级体系最高级别",
+        "Anthropic IPO招股书曝光，2025财年营收达45.9亿美元"
+      ],
+      "url": "https://news.pedaily.cn/202609/569816.shtml",
+      "source": "news.pedaily.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-30T07:46:00Z"
+    },
+    {
+      "id": "0377f1ce3763",
+      "title": "當 AI 突破物理學計算極限：Claude 成功計算「九圈散射振幅」背後的科學革命、低垂果實與思維省思",
+      "summary": "Claude 正式攻克。這不僅是 AI 在前沿物理計算上的一大里程碑，更引發了一場關於「科學界如何看待 AI 自主研究能力」的深遠討論。 [...] 2. 形式因子法（Form-Factor Approach）： 一種更為間接但計算上相對精簡的相關物理量轉換法。Claude 自動編寫了 Python 程式碼，並利用開放原始碼符號計算庫 `SymPy` 進行運算。\n\n3. 計算經濟學（Compute...",
+      "highlights": [
+        "Claude 正式攻克",
+        "這不僅是 AI 在前沿物理計算上的一大里程碑，更引發了一場關於「科學界如何看待 AI 自主研究能力」的深遠討論",
+        "[...] 2. 形式因子法（Form-Factor Approach）： 一種更為間接但計算上相對精簡的相關物理量轉換法"
+      ],
+      "url": "https://www.ibco.com.tw/turing-college/%E7%95%B6-AI-%E7%AA%81%E7%A0%B4%E7%89%A9%E7%90%86%E5%AD%B8%E8%A8%88%E7%AE%97%E6%A5%B5%E9%99%90Claude-%E6%88%90%E5%8A%9F%E8%A8%88%E7%AE%97%E4%B9%9D%E5%9C%88%E6%95%A3%E5%B0%84%E6%8C%AF%E5%B9%85%E8%83%8C%E5%BE%8C%E7%9A%84%E7%A7%91%E5%AD%B8%E9%9D%A9%E5%91%BD%E4%BD%8E%E5%9E%82%E6%9E%9C%E5%AF%A6%E8%88%87%E6%80%9D%E7%B6%AD%E7%9C%81%E6%80%9D",
+      "source": "ibco.com.tw",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-09-30T02:00:00Z"
+    },
     {
       "id": "15f8ff84e2e5",
       "title": "又一款个人AI产品爆火，一年估值百亿美金，它甚至都没做APP",
@@ -478,6 +523,120 @@
       "publishedAt": "2026-09-30T00:00:00Z"
     },
     {
+      "id": "706e3f3eb222",
+      "title": "AI 模型使用排名 | OpenCode 数据",
+      "summary": "24TSEP 25SEP 25\n\n21TSEP 26SEP 26\n\n22TSEP 27SEP 27\n\n26TSEP 28SEP 28\n\n26TSEP 29SEP 29\n\n5.4TSEP 30SEP 30\n\n01\n\nspace-bunny52T\n\n新02\n\ndeepseek-v4.1-flash34T\n\nDeepSeek-38%03\n\nmuse-spark-1.3-contributor32T\n\nM...",
+      "highlights": [
+        "24TSEP 25SEP 25",
+        "21TSEP 26SEP 26",
+        "22TSEP 27SEP 27"
+      ],
+      "url": "https://opencode.ai/zh/data",
+      "source": "opencode.ai",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-30T01:00:00Z"
+    },
+    {
+      "id": "475d53755606",
+      "title": "AI 大模型世界",
+      "summary": "今日格局 ; 最聪明 · GPT-6 Astra. OpenAI. ECI 167. 综合智力指数，208 个受测模型中第一 ; 最会编程. Claude Opus 5.5. Anthropic. 前1%. 3 个第三方编程榜的平均排名最高.",
+      "highlights": [
+        "今日格局 ; 最聪明 · GPT-6 Astra. OpenAI. ECI 167. 综合智力指数，208 个受测模型中第一 ; 最会编程. Claude Opus 5.5. Anthropic. 前1%. 3 个第三方编程榜的平均排名最高."
+      ],
+      "url": "https://www.bilibili.com/toy/ai-model-world",
+      "source": "bilibili.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-09-30T08:00:00Z"
+    },
+    {
+      "id": "d184063324cc",
+      "title": "又一款个人AI产品爆火，一年估值百亿美金，它甚至都没做APP",
+      "summary": "9 月8 日，Meta 发布个人智能体Muse；9 月28 日，Manus 发布了其2.0 版本产品，同时推出独立的个人智能体应用Cue，为每个智能体配备单独的邮箱、电话号码和数字钱包。 就在",
+      "highlights": [
+        "9 月8 日，Meta 发布个人智能体Muse；9 月28 日，Manus 发布了其2.0 版本产品，同时推出独立的个人智能体应用Cue，为每个智能体配备单独的邮箱、电话号码和数字钱包"
+      ],
+      "url": "https://zhuanlan.zhihu.com/p/2088562820296320060",
+      "source": "zhuanlan.zhihu.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-09-30T02:00:00Z"
+    },
+    {
+      "id": "b464f3188d0d",
+      "title": "具身智能、VLA、世界大模型，这三个词意味着啥？_车家号_发现车生活_汽车之家",
+      "summary": "先说最外层的具身智能。传统AI比如ChatGPT，只活在文本和对话里，智能存在于算法和数据中；具身智能则是把AI装进一个物理实体，机器人、自动驾驶汽车都是它的载体，核心是让身体和环境不断交互，通过感知、决策、行动来学习真实世界的规律。它不再只是\"听懂人话\"，而是\"能动手干活\"。目前应用最成熟的是工业柔性生产线，ABB这类工业机器人已经集成视觉系统，听到\"把零件A装到零件B上\"的指令，就能自己识别位...",
+      "highlights": [
+        "传统AI比如ChatGPT，只活在文本和对话里，智能存在于算法和数据中；具身智能则是把AI装进一个物理实体，机器人、自动驾驶汽车都是它的载体，核心是让身体和环境不断交互，通过感知、决策、行动来学习真实世界的规律",
+        "它不再只是\"听懂人话\"，而是\"能动手干活\"",
+        "目前应用最成熟的是工业柔性生产线，ABB这类工业机器人已经集成视觉系统，听到\"把零件A装到零件B上\"的指令，就能自己识别位置、调整动作，小批量定制化生产不再需要重新写程序"
+      ],
+      "url": "https://chejiahao.autohome.com.cn/info/26575335",
+      "source": "chejiahao.autohome.com.cn",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-30T01:00:00Z"
+    },
+    {
+      "id": "d2c415bc1481",
+      "title": "具身智能汽车：一位职业司机，一台 AI 计算机|具身智能|世界大模型|vla|vlaw_新浪新闻",
+      "summary": "汽车 本地生活 旅游 数码 娱乐 影视\n\n敢动派\n\n26-09-30 08:48 微博认证：汽车达人\n\n具身智能、VLA、世界大模型构成AI走进物理世界的完整技术链条。具身智能是AI搭载实体载体，通过感知、决策、行动和现实环境交互，不再局限文本对话，工业机器人、自动驾驶汽车、人形机器人都属于该范畴。VLA即视觉‑语言‑动作模型，相当于具身智能的大脑，把视觉画面、人类语言、执行动作统一训练，摆脱传统...",
+      "highlights": [
+        "汽车 本地生活 旅游 数码 娱乐 影视",
+        "26-09-30 08:48 微博认证：汽车达人",
+        "具身智能、VLA、世界大模型构成AI走进物理世界的完整技术链条"
+      ],
+      "url": "https://www.sina.cn/news/detail/5348768736084767.html",
+      "source": "sina.cn",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-09-30T00:00:00Z"
+    },
+    {
+      "id": "67036075716f",
+      "title": "中国科学院启动实施“科学前沿极限突破计划”：首批部署“新元素合成”等重大任务，依托大科学装置集群冲击核物理与物质科学极限",
+      "summary": "在发布的“四极”突破任务布局中，首批遴选启动的10个重大突破项目中，面向极微观与极端条件的“新元素合成”(超重核合成)被确立为核心攻坚方向之一。新元素合成旨在向元素周期表未知领域推进，通过重离子加速器驱动高能重离子核反应，挑战极端核物理条件下的原子核结合能极限，验证核物理理论中的“超重稳定岛”假说，代表了当代核物理与重离子大科学工程的巅峰水平。首批项目还同步涵盖了暗物质与暗能量本质探测、化学键微观...",
+      "highlights": [
+        "在发布的“四极”突破任务布局中，首批遴选启动的10个重大突破项目中，面向极微观与极端条件的“新元素合成”(超重核合成)被确立为核心攻坚方向之一",
+        "新元素合成旨在向元素周期表未知领域推进，通过重离子加速器驱动高能重离子核反应，挑战极端核物理条件下的原子核结合能极限，验证核物理理论中的“超重稳定岛”假说，代表了当代核物理与重离子大科学工程的巅峰水平",
+        "首批项目还同步涵盖了暗物质与暗能量本质探测、化学键微观动态测量及人工合成细胞等重大前沿难题"
+      ],
+      "url": "https://www.cinie.net/article/66439.html",
+      "source": "cinie.net",
+      "category": "前沿理论",
+      "importance": 4,
+      "publishedAt": "2026-09-30T06:00:00Z"
+    },
+    {
+      "id": "f297633ee3a2",
+      "title": "科技巨头为何加速自研AI芯片？-千家网",
+      "summary": "文明上网，理性发言\n\n登录\n\n## 猜你喜欢\n\n## 智客号推荐\n\n加入智客号\n\n我要投稿\n\n#### 提示\n\n### 提交成功！\n\n我们会尽快安排人员与您联系\n\n安装  \n优选\n\n安装优选\n\n智能家居安装  \n与售后服务平台\n\n寻求  \n报道\n\n我要  \n投稿\n\n手机访问此页面  \n转发分享更轻松\n\n寻求报道/合作\n\n如您有任何相关资讯或品牌推广计划  \n可通过以下方式与我们联系，会有专人与您沟...",
+      "highlights": [
+        "我们会尽快安排人员与您联系",
+        "如您有任何相关资讯或品牌推广计划",
+        "可通过以下方式与我们联系，会有专人与您沟通洽谈"
+      ],
+      "url": "https://www.qianjia.com/html/2026-09/30_427839.html",
+      "source": "qianjia.com",
+      "category": "芯片硬件",
+      "importance": 3,
+      "publishedAt": "2026-09-30T02:00:00Z"
+    },
+    {
+      "id": "6a0e559666bf",
+      "title": "AI 智能体（AI Agent）的开发与上线，是指构建一个能够自主 ...",
+      "summary": "AI 智能体（AI Agent）的开发与上线，是指构建一个能够自主感知环境、进行规划决策、调用外部工具，并持续执行任务以达成特定目标的智能化系统。",
+      "highlights": [
+        "AI 智能体（AI Agent）的开发与上线，是指构建一个能够自主感知环境、进行规划决策、调用外部工具，并持续执行任务以达成特定目标的智能化系统"
+      ],
+      "url": "https://www.instagram.com/p/Dd2xTvwlPCn",
+      "source": "instagram.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-09-30T11:26:38Z"
+    },
+    {
       "id": "57ccff310e8e",
       "title": "公司有獲利，為什麼還是缺現金？ 從併購、融資到AI 投資 ...",
       "summary": "從併購、融資到AI 投資，策略能不能落地，最後都要回到現金流。 本期GP Intelligence 用投資銀行× 管理顧問的視角，拆解三個問題： ▪️ 併購價格談不攏，交易條件怎麼設計",
@@ -490,24 +649,22 @@
       "category": "行业话题",
       "importance": 2,
       "publishedAt": "2026-09-30T02:34:26Z"
+    },
+    {
+      "id": "f868eeee7526",
+      "title": "【立方基金通】洛阳国资基金入股拟IPO企业/省级商业航天基金遴选GP",
+      "summary": "据洛创投，近日洛阳创业投资有限公司在管基金——洛阳制高转型升级基金、洛阳光联产业投资基金完成对赛炜科技（河南）集团股份有限公司的投资。",
+      "highlights": [
+        "据洛创投，近日洛阳创业投资有限公司在管基金——洛阳制高转型升级基金、洛阳光联产业投资基金完成对赛炜科技（河南）集团股份有限公司的投资"
+      ],
+      "url": "https://app.dahecube.com/article.html?artid=288654%3Frecid%3D1",
+      "source": "app.dahecube.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-09-30T08:00:00Z"
     }
   ],
   "week": [
-    {
-      "id": "aa2e99e237db",
-      "title": "刚刚，OpenAI神秘「o」代码曝光！ChatGPT要变24小时员工",
-      "summary": "所有人真正需要的是一个「交代完目标之后，能默默替我把活干完的执行者」。\n\n这就是为什么OpenAI必须做「o」。\n\n从「Chat（聊）」跨越到「Do（做）」，正是常驻智能体存在的唯一意义。\n\n下周起\n\n准备迎接你的「AI同事」\n\n实际上，这一回，OpenAI出牌晚了很多。\n\n上个月初，马斯克SpaceXAI的Grok Bot正式上线。\n\n它的核心设计极其聪明：每个Bot拥有自己的专属云电脑，登录人...",
-      "highlights": [
-        "所有人真正需要的是一个「交代完目标之后，能默默替我把活干完的执行者」",
-        "这就是为什么OpenAI必须做「o」",
-        "从「Chat（聊）」跨越到「Do（做）」，正是常驻智能体存在的唯一意义"
-      ],
-      "url": "https://hub.baai.ac.cn/view/58313",
-      "source": "hub.baai.ac.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-28T01:00:00Z"
-    },
     {
       "id": "2a8dc429fbff",
       "title": "Nvidia Open Agent Safety Platform to stop AI agents from breaking out",
@@ -642,21 +799,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-28T03:00:00Z"
-    },
-    {
-      "id": "d8256ee34edf",
-      "title": "Physical AI新突破 FSD级团队首推Simate-beta模型登陆RoboDojo",
-      "summary": "如果说SiPAI提供了一份静态说明书，那么AutoResearch解决的就是动态信息差：\n\n研究推进到哪了？以前踩过什么坑？最新的证据是什么？\n\n它将外部前沿论文、团队内部研讨材料、模型代码、数据配比、历史实验日志与最新的评测反馈，全部打通并汇入同一份动态研究Context中。\n\n不管是发了新论文、内部代码提交了新版本，还是最新的实验数据推翻了旧假设，这份Context都会实时刷新。\n\n这样，Ag...",
-      "highlights": [
-        "如果说SiPAI提供了一份静态说明书，那么AutoResearch解决的就是动态信息差：",
-        "它将外部前沿论文、团队内部研讨材料、模型代码、数据配比、历史实验日志与最新的评测反馈，全部打通并汇入同一份动态研究Context中",
-        "不管是发了新论文、内部代码提交了新版本，还是最新的实验数据推翻了旧假设，这份Context都会实时刷新"
-      ],
-      "url": "https://eu.36kr.com/zh/p/3999916051157129",
-      "source": "eu.36kr.com",
-      "category": "前沿理论",
-      "importance": 5,
-      "publishedAt": "2026-09-28T02:00:00Z"
     },
     {
       "id": "32e23470145f",
@@ -717,24 +859,39 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-09-29T01:00:00Z"
+    },
+    {
+      "id": "12c92b122a63",
+      "title": "投资界24h | 550亿，李飞飞世界模型被卖了；李书福，重仓李斌；七匹狼做LP , 拟投CPE源峰_投资界",
+      "summary": "2026/09/29\n 收入暴涨16倍，融资23亿：一家AI数据公司爆了\n\n  ### 收入暴涨16倍，融资23亿：一家AI数据公司爆了\n\n  2026/09/29\n 当AI学会抬杠，人类做喷子都需要门槛了\n\n  ### 当AI学会抬杠，人类做喷子都需要门槛了\n\n  2026/09/29\n 刚刚，苏妈李飞飞两大女王合体！AMD 550亿吞下世界模型\n\n  ### 刚刚，苏妈李飞飞两大女王合体！AM...",
+      "highlights": [
+        "收入暴涨16倍，融资23亿：一家AI数据公司爆了",
+        "### 收入暴涨16倍，融资23亿：一家AI数据公司爆了",
+        "当AI学会抬杠，人类做喷子都需要门槛了"
+      ],
+      "url": "https://news.pedaily.cn/202609/569721.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-09-29T00:17:00Z"
+    },
+    {
+      "id": "394be35d710f",
+      "title": "每天都在改变世界！这绝对是 AI 史上最疯狂的一周 | 极客公园",
+      "summary": "Google 一度是互联网公司在 AI 领域的半壁江山，但在这疯狂的一周里，它的发布却没有引起预期中的关注（推特互动数与 OpenAI 相差 20 倍）。\n\n周四\n\n#### 训练速度：Pytorch 2.0 正式版发布\n\n一行代码，训练模型 2 倍速！\n\nPyTorch 是一个开源的 Python 机器学习库，用于构建和训练深度学习模型，比如各类 GPT 预训练语言模型，目前 TensorFlo...",
+      "highlights": [
+        "Google 一度是互联网公司在 AI 领域的半壁江山，但在这疯狂的一周里，它的发布却没有引起预期中的关注（推特互动数与 OpenAI 相差 20 倍）",
+        "#### 训练速度：Pytorch 2.0 正式版发布",
+        "一行代码，训练模型 2 倍速"
+      ],
+      "url": "https://www.geekpark.net/news/371459",
+      "source": "geekpark.net",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-29T03:00:00Z"
     }
   ],
   "month": [
-    {
-      "id": "aa2e99e237db",
-      "title": "刚刚，OpenAI神秘「o」代码曝光！ChatGPT要变24小时员工",
-      "summary": "所有人真正需要的是一个「交代完目标之后，能默默替我把活干完的执行者」。\n\n这就是为什么OpenAI必须做「o」。\n\n从「Chat（聊）」跨越到「Do（做）」，正是常驻智能体存在的唯一意义。\n\n下周起\n\n准备迎接你的「AI同事」\n\n实际上，这一回，OpenAI出牌晚了很多。\n\n上个月初，马斯克SpaceXAI的Grok Bot正式上线。\n\n它的核心设计极其聪明：每个Bot拥有自己的专属云电脑，登录人...",
-      "highlights": [
-        "所有人真正需要的是一个「交代完目标之后，能默默替我把活干完的执行者」",
-        "这就是为什么OpenAI必须做「o」",
-        "从「Chat（聊）」跨越到「Do（做）」，正是常驻智能体存在的唯一意义"
-      ],
-      "url": "https://hub.baai.ac.cn/view/58313",
-      "source": "hub.baai.ac.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-09-28T01:00:00Z"
-    },
     {
       "id": "2a8dc429fbff",
       "title": "Nvidia Open Agent Safety Platform to stop AI agents from breaking out",
@@ -869,6 +1026,21 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-09-28T03:00:00Z"
+    },
+    {
+      "id": "32e23470145f",
+      "title": "OpenAI发布“o”AI助手，或回应Meta Muse！云计算ETF汇添富(159273)标的指数震荡飘红！Anthropic 拟5180亿美元加码算力基础设施|界面新闻",
+      "summary": "与此同时，Agent又把这种需求从研发侧推向应用侧。招商证券指出，近期OpenAI与Anthropic新一代模型在能力提升的同时优化Token使用效率，中端及轻量化模型进一步降价，缓存机制升级显著降低高频调用成本，模型性能与推理性价比同步改善，为企业级智能体的规模化部署创造条件；随着AI智能体逐步落地，有望带动服务器CPU需求与价值量增长，并使AI Agent加速向消费级应用渗透。\n\n于是，算力增...",
+      "highlights": [
+        "与此同时，Agent又把这种需求从研发侧推向应用侧",
+        "招商证券指出，近期OpenAI与Anthropic新一代模型在能力提升的同时优化Token使用效率，中端及轻量化模型进一步降价，缓存机制升级显著降低高频调用成本，模型性能与推理性价比同步改善，为企业级智能体的规模化部署创造条件；随着AI智能体逐步落地，有望带动服务器CPU需求与价值量增长，并使AI Agent加速向消费级应用渗透",
+        "于是，算力增长的发动机正在从单一训练向更多环节扩散：训练决定模型能力上限，RSI提高研发迭代频率，Agent则提高模型在真实任务中的调用频率"
+      ],
+      "url": "https://www.jiemian.com/article/15150451.html",
+      "source": "jiemian.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-09-29T07:00:00Z"
     }
   ]
 }
