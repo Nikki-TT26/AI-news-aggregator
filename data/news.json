@@ -1,6 +1,530 @@
 {
-  "updatedAt": "2026-10-03T10:42:33Z",
+  "updatedAt": "2026-10-03T15:17:09Z",
   "latest": [
+    {
+      "id": "8684defde780",
+      "title": "华为芯片接连突破，国产模型四处找货-虎嗅网",
+      "summary": "这不是国产与海外二选一，而是国内买，海外也买。模型要继续训练，用户要继续服务，采购部门不能只准备一条路。\n\n除了向华为采购，大厂还在各自扶持、建设国产供应链。腾讯早已在为燧原的商业化买单。按燧原招股材料披露，2025年腾讯相关业务贡献其约83.79%的收入。\n\n阿里更直接，自己下场造。阿里在今年3月披露，平头哥自研GPU累计交付47万片，已经大规模用于千问的训练和推理，也通过阿里云服务外部客户。\n...",
+      "highlights": [
+        "这不是国产与海外二选一，而是国内买，海外也买",
+        "模型要继续训练，用户要继续服务，采购部门不能只准备一条路",
+        "除了向华为采购，大厂还在各自扶持、建设国产供应链"
+      ],
+      "url": "https://m.huxiu.com/article/4895142.html",
+      "source": "m.huxiu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-02T07:37:49Z"
+    },
+    {
+      "id": "f80da97d6302",
+      "title": "2026，AI重写风投_投资界",
+      "summary": "反对的声音同样有力。\n\n总量指标处于历史\\区间：2025 年以来全球交易规模强劲反弹，IPO 市场重新打开，2026 年上半年美国 IPO 募资超过 1400 亿美元，约为 2025 年全年的三倍（Carta）；风投支持企业的退出总价值突破 2 万亿美元，上半年并购退出 421 起，为史上最忙的上半年。SpaceX 6 月以 1.77 万亿美元估值上市，AI 芯片公司 Cerebras 也以约 4...",
+      "highlights": [
+        "总量指标处于历史\\区间：2025 年以来全球交易规模强劲反弹，IPO 市场重新打开，2026 年上半年美国 IPO 募资超过 1400 亿美元，约为 2025 年全年的三倍（Carta）；风投支持企业的退出总价值突破 2 万亿美元，上半年并购退出 421 起，为史上最忙的上半年",
+        "SpaceX 6 月以 1.77 万亿美元估值上市，AI 芯片公司 Cerebras 也以约 406 亿美元估值挂牌；Anthropic 已秘密递交上市文件，最快 10 月以约 2 万亿美元估值 IPO",
+        "退出渠道重新打开，流动性确实好转——只是能迈过上市门槛的仍是头部少数"
+      ],
+      "url": "https://news.pedaily.cn/202610/569828.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-02T07:42:00Z"
+    },
+    {
+      "id": "a2b176256c40",
+      "title": "Does Google's new model catch up to OpenAI, Anthropic at the frontier?",
+      "summary": "Google will undoubtedly be hoping the release of a new flagship model, Gemini 4 Argon, changes that.\n\nWhen Demis Hassabis stepped down as CEO of DeepMind, Google's AI lab, in August, I wrote that new ...",
+      "highlights": [
+        "Google will undoubtedly be hoping the release of a new flagship model, Gemini 4 Argon, changes that.",
+        "When Demis Hassabis stepped down as CEO of DeepMind, Google's AI lab, in August, I wrote that new boss Koray Kavukcuoglu was inheriting a race to catch-up with Sam Altman and Dario Amodei's companies.",
+        "Now Google has touted the model as performing better than top OpenAI and Anthropic offerings in some benchmarks. [...] In this article"
+      ],
+      "url": "https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html",
+      "source": "cnbc.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-02T11:00:01Z"
+    },
+    {
+      "id": "5ce896e6c514",
+      "title": "OpenAI's Undeniable Resurgence and the Coming Liftoff of Personal AI Agents",
+      "summary": "On Tuesday, OpenAI hosted its annual DevDay and announced a flurry of products. These include a new AI model, GPT-6.1 Sol, which the startup says has near-Astra capabilities at 20% of the cost, and Ch...",
+      "highlights": [
+        "On Tuesday, OpenAI hosted its annual DevDay and announced a flurry of products. These include a new AI model, GPT-6.1 Sol, which the startup says has near-Astra capabilities at 20% of the cost, and ChatGPT Space, office productivity software that seems like a combination of Google Docs and Notion, where colleagues and their AI agents can work on documents together. OpenAI says slides functionality will come later. GPT-6.1 Sol is already a big hit, with Sam Altman calling it the fastest-growing [...] the fastest-growing OpenAI model release ever. [...] But this DevDay will likely go down in history as the event that launched Dots, OpenAI’s new always-on AI personal assistant, which is powered by GPT-6 Astra and gives each Dot a cloud computer. Dots comes three weeks after Meta launched Muse, which had already sparked a wave of excitement among users and investors about the potential and promise of digital agents."
+      ],
+      "url": "https://taekim.substack.com/p/openais-undeniable-resurgence-and",
+      "source": "taekim.substack.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-02T07:00:00Z"
+    },
+    {
+      "id": "be87884444f3",
+      "title": "Does Google's new model catch up to OpenAI, Anthropic at the frontier?",
+      "summary": "Google will undoubtedly be hoping the release of a new flagship model, Gemini 4 Argon, changes that.\n\nWhen Demis Hassabis stepped down as CEO of DeepMind, Google's AI lab, in August, I wrote that new ...",
+      "highlights": [
+        "Google will undoubtedly be hoping the release of a new flagship model, Gemini 4 Argon, changes that.",
+        "When Demis Hassabis stepped down as CEO of DeepMind, Google's AI lab, in August, I wrote that new boss Koray Kavukcuoglu was inheriting a race to catch-up with Sam Altman and Dario Amodei's companies.",
+        "Now Google has touted the model as performing better than top OpenAI and Anthropic offerings in some benchmarks. [...] In this article"
+      ],
+      "url": "https://www.cnbc.com/amp/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html",
+      "source": "cnbc.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-02T11:00:01Z"
+    },
+    {
+      "id": "9736c32c0c90",
+      "title": "Despite IPO jitters and AI safety worries, Anthropic sticks to a 2026 offering - SiliconANGLE",
+      "summary": "OpenAI launches Dots, always-on AI agents in ChatGPT with their own cloud computers\n\nOpenAI’s GPT-6.1 Sol delivers Astra-like performance at a dramatically lower price\n\nOpenAI’s Codex gets reusable cl...",
+      "highlights": [
+        "OpenAI launches Dots, always-on AI agents in ChatGPT with their own cloud computers",
+        "OpenAI’s GPT-6.1 Sol delivers Astra-like performance at a dramatically lower price",
+        "OpenAI’s Codex gets reusable cloud environments that follow developers across devices"
+      ],
+      "url": "https://siliconangle.com/2026/10/02/despite-ipo-jitters-and-ai-safety-worries-anthropic-sticks-to-a-2026-offering",
+      "source": "siliconangle.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-02T14:00:15Z"
+    },
+    {
+      "id": "335ea007fa27",
+      "title": "4.3K views · 51 reactions | Nvidia announced the Open Agent Safety Platform to prevent the type of breakout that occurred when OpenAI models accessed HuggingFace.\n\nOpenAI, Anthropic, Meta, and Google have all disclosed recent incidents where their AI models escaped their sandboxes.\n\nNvidia said Cisco, Microsoft, Oracle, CoreWeave, Dell, HPE, Lenovo, ARM and Intel are partners.\n\nRead the latest here: cnb.cx/4hi2OXl | CNBC",
+      "summary": "[](\n\nOpenAI said over the weekend that it is carrying out an extensive review of its models' actions and has paused training of the most powerful models. Read more: cnb.cx/4ydH8l0\n\nCNBC\n\n674 views\n\n ·...",
+      "highlights": [
+        "OpenAI said over the weekend that it is carrying out an extensive review of its models' actions and has paused training of the most powerful models. Read more: cnb.cx/4ydH8l0",
+        "Image 16: Video thumbnail 1:31",
+        "Supply glut, lab-grown alternatives: What's behind the fall of diamond prices to record lows"
+      ],
+      "url": "https://www.facebook.com/cnbc/videos/nvidia-announced-the-open-agent-safety-platform-to-prevent-the-type-of-breakout-/28847488928270273",
+      "source": "facebook.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-03T02:28:52Z"
+    },
+    {
+      "id": "89c5962af2cb",
+      "title": "Holy smoke! Google cooked OpenAI and Anthropic",
+      "summary": "Google cooked OpenAI and Anthropic 3 frontier models in a month! Anthropic will have released models that outperform it. it would be made more widely available",
+      "highlights": [
+        "Google cooked OpenAI and Anthropic 3 frontier models in a month! Anthropic will have released models that outperform it. it would be made more widely available"
+      ],
+      "url": "https://www.reddit.com/r/GeminiAI/comments/1wufg38/holy_smoke_google_cooked_openai_and_anthropic",
+      "source": "reddit.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-03T02:28:52Z"
+    },
+    {
+      "id": "dbb2dc712a8c",
+      "title": "Nvidia announced the Open Agent Safety Platform ...",
+      "summary": "OpenAI, Anthropic, Meta, and Google have all disclosed recent incidents where their AI models escaped their sandboxes.",
+      "highlights": [
+        "OpenAI, Anthropic, Meta, and Google have all disclosed recent incidents where their AI models escaped their sandboxes."
+      ],
+      "url": "https://www.instagram.com/reel/Dd1BVW-jBae",
+      "source": "instagram.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-03T02:28:52Z"
+    },
+    {
+      "id": "95796ced730b",
+      "title": "谷歌一直在追赶OpenAI与Anthropic，其全新旗舰模型真能跻身前沿梯队吗？_新浪财经_新浪网",
+      "summary": "新浪首页\n 新闻\n 体育\n 财经\n 娱乐\n 科技\n 博客\n 图片\n 专栏\n 更多\n\n 汽车 教育 时尚 女性 星座 健康\n 房产历史视频收藏育儿读书\n 佛学游戏旅游邮箱导航\n\n 新浪微博\n 新浪新闻\n 新浪财经\n 新浪体育\n 新浪众测\n 新浪博客\n 新浪视频\n 新浪游戏\n 天气通\n\n[](\n\n美股 > 正文\n\n# 谷歌一直在追赶OpenAI与Anthropic，其全新旗舰模型真能跻身前沿梯队吗？\n...",
+      "highlights": [
+        "汽车 教育 时尚 女性 星座 健康",
+        "房产历史视频收藏育儿读书",
+        "# 谷歌一直在追赶OpenAI与Anthropic，其全新旗舰模型真能跻身前沿梯队吗"
+      ],
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-02/doc-initwenz7051030.shtml",
+      "source": "finance.sina.com.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-02T15:19:09Z"
+    },
+    {
+      "id": "85a40a87999b",
+      "title": "又一个00后造富神话-虎嗅网",
+      "summary": "## 23岁辍学生创业\n\nShinn不是突然冒出来的。\n\n本科就读于美国东北大学期间，他在校内的编程语言研究组从事类型预测和代码生成研究，也在MIT参与过机器学习与编程语言的交叉工作。\n\n真正让他在学术圈扬名的，是一篇论文。2023年，他以一作身份在NeurIPS发表了Reflexion，提出让AI智能体在任务失败后，用自然语言复盘错误、存入记忆，在后续任务中复用经验。这篇论文被视为AI Agen...",
+      "highlights": [
+        "## 23岁辍学生创业",
+        "Shinn不是突然冒出来的",
+        "本科就读于美国东北大学期间，他在校内的编程语言研究组从事类型预测和代码生成研究，也在MIT参与过机器学习与编程语言的交叉工作"
+      ],
+      "url": "https://m.huxiu.com/article/4895259.html?type=text",
+      "source": "m.huxiu.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-03T07:06:59Z"
+    },
+    {
+      "id": "4e86453759fe",
+      "title": "Anthropic launched Claude Opus 5.5, its latest flagship ...",
+      "summary": "From OpenAI's GPT-6 models and Anthropic's Claude Opus 5.5 to Microsoft's fourth India cloud region, Grok 4.7, Gemini's Live Avatar, and Alibaba's Zhenwu V900,",
+      "highlights": [
+        "From OpenAI's GPT-6 models and Anthropic's Claude Opus 5.5 to Microsoft's fourth India cloud region, Grok 4.7, Gemini's Live Avatar, and Alibaba's Zhenwu V900,"
+      ],
+      "url": "https://www.instagram.com/reel/Dd5esyhAlex",
+      "source": "instagram.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-03T15:17:09Z"
+    },
+    {
+      "id": "6a0e559666bf",
+      "title": "Instagram",
+      "summary": "AI 智能体（AI Agent）的开发与上线，是指构建一个能够自主感知环境、进行规划决策、调用外部工具，并持续执行任务以达成特定目标的智能化系统。相比于传统的单次问答大模型应用，智能体项目更注重状态管理、长链条推理、工具集成与工程化稳定性。北京木奇科技有限公司，专业的智能体开发公司，欢迎交流合作。商务合作加V：muqi2026  \n  \n一个完整的 AI 智能体项目生命周期通常分为以下六个核心阶段...",
+      "highlights": [
+        "AI 智能体（AI Agent）的开发与上线，是指构建一个能够自主感知环境、进行规划决策、调用外部工具，并持续执行任务以达成特定目标的智能化系统",
+        "相比于传统的单次问答大模型应用，智能体项目更注重状态管理、长链条推理、工具集成与工程化稳定性",
+        "北京木奇科技有限公司，专业的智能体开发公司，欢迎交流合作"
+      ],
+      "url": "https://www.instagram.com/p/Dd2xTvwlPCn",
+      "source": "instagram.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-02T11:26:04Z"
+    },
+    {
+      "id": "efeaceb97e8e",
+      "title": "2026 中国AI Agent 产业全景：全面跟进全球“行动式AI”新范式",
+      "summary": "其最大特色是身份化智能体：每个Agent 可独立持有邮箱、手机号、钱包、云电脑 ... 智能体产品矩阵。海外三家定义范式，国内全产业 链快速跟进、场景本土化超越",
+      "highlights": [
+        "其最大特色是身份化智能体：每个Agent 可独立持有邮箱、手机号、钱包、云电脑 ... 智能体产品矩阵",
+        "海外三家定义范式，国内全产业 链快速跟进、场景本土化超越"
+      ],
+      "url": "https://www.facebook.com/groups/370716739681554/posts/28448934308099754",
+      "source": "facebook.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-02T11:26:04Z"
+    },
+    {
+      "id": "712727c41b21",
+      "title": "谷歌机器人战略：软件优先，复制安卓打法布局具身智能",
+      "summary": "这一策略与谷歌当年推广安卓的路径如出一辙。报道指出，2007至2008年间，谷歌联合创始人Sergey Brin也曾以类似思路回应谷歌是否会自建手机的问题。当时谷歌正与T-Mobile和HTC合作推出安卓设备，之后才逐步发展出Pixel硬件业务。\n\n目前，Kavukcuoglu并未完全排除谷歌未来打造人形机器人的可能性，但强调现阶段重点仍是模型能力和合作生态。\n\n## Gemini走向物理世界，模...",
+      "highlights": [
+        "这一策略与谷歌当年推广安卓的路径如出一辙",
+        "报道指出，2007至2008年间，谷歌联合创始人Sergey Brin也曾以类似思路回应谷歌是否会自建手机的问题",
+        "当时谷歌正与T-Mobile和HTC合作推出安卓设备，之后才逐步发展出Pixel硬件业务"
+      ],
+      "url": "https://wallstreetcn.com/articles/3782916",
+      "source": "wallstreetcn.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-10-02T03:28:43Z"
+    },
+    {
+      "id": "6f94b2458b2e",
+      "title": "谷歌一直在追赶OpenAI与Anthropic，其全新旗舰模型真能跻身前沿梯队吗？",
+      "summary": "来源：环球市场播报. 核心要点. 谷歌本周发布最新旗舰大模型Gemini 4 Argon，希望在前沿AI 赛道与OpenAI、Anthropic 同台竞争。 分析师看好Argon，该模型在基准评测榜",
+      "highlights": [
+        "来源：环球市场播报. 核心要点. 谷歌本周发布最新旗舰大模型Gemini 4 Argon，希望在前沿AI 赛道与OpenAI、Anthropic 同台竞争",
+        "分析师看好Argon，该模型在基准评测榜"
+      ],
+      "url": "https://m.sohu.com/a/1083478118_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-02T14:00:00Z"
+    },
+    {
+      "id": "5ece5c6a1db3",
+      "title": "Trump Sends Strong Signal on Google's New Gemini Model - Yahoo Finance",
+      "summary": "2. Best 0% APR cards. 3. Best balance transfer cards. 2. Best high-yield savings accounts. 3. Best money market accounts. 4. Best free checking accounts. # Trump Sends Strong Signal on Google's New Ge...",
+      "highlights": [
+        "2. Best 0% APR cards. 3. Best balance transfer cards. 2. Best high-yield savings accounts. 3. Best money market accounts. 4. Best free checking accounts. # Trump Sends Strong Signal on Google's New Gemini Model. Alphabet (NASDAQ:GOOGL) shares gained after Google unveiled Gemini 4 Argon, its latest frontier AI model, while CEO Sundar Pichai drew unusual praise from President Donald Trump at a White House technology summit. The more consequential development for investors is Argon itself, which strengthens Google's position against OpenAI and Anthropic in high-value enterprise AI workloads such as coding, finance, legal research and cybersecurity. Investors should monitor the pace of Argon's broader rollout, Gemini API adoption, enterprise workloads and whether Google Cloud converts stronger AI capabilities into faster revenue growth. For Alphabet, the investor thesis is less about Trump's praise of Pichai and more about whether Gemini 4 Argon can convert technical leadership into durable cloud and AI monetization."
+      ],
+      "url": "https://finance.yahoo.com/technology/ai/articles/trump-sends-strong-signal-googles-162036569.html",
+      "source": "finance.yahoo.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-01T16:20:36Z"
+    },
+    {
+      "id": "475d53755606",
+      "title": "AI 大模型世界",
+      "summary": "大模型世界数据更新于10 月2 日· 611 个模型· 65 家厂商. Claude Opus 5.5 Anthropic … 最新发布Ling 3.1 Flash 6",
+      "highlights": [
+        "大模型世界数据更新于10 月2 日· 611 个模型· 65 家厂商. Claude Opus 5.5 Anthropic … 最新发布Ling 3.1 Flash 6"
+      ],
+      "url": "https://www.bilibili.com/toy/ai-model-world",
+      "source": "bilibili.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-02T20:00:00Z"
+    },
+    {
+      "id": "a8837e1304e2",
+      "title": "发布23天引爆消费级Agent！大摩深度解读“Muse 6大焦点问题”",
+      "summary": "[](\n   首页\n   资讯\n   快讯\n   行情\n   日历\n   APP\n   VIP会员\n   大师课\n   生活家\n\n登录 / 注册\n\n   109 \n   收藏 \n\n   Image 1: qrcode\n   [](\n\n# 发布23天引爆消费级Agent！大摩深度解读“Muse 6大焦点问题”\n\nImage 2: 李佳李佳 10-02 10:11 \n\n摩根士丹利认为，Muse短期应聚...",
+      "highlights": [
+        "Image 1: qrcode",
+        "# 发布23天引爆消费级Agent",
+        "大摩深度解读“Muse 6大焦点问题”"
+      ],
+      "url": "https://wallstreetcn.com/articles/3782917",
+      "source": "wallstreetcn.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-02T10:11:16Z"
+    },
+    {
+      "id": "d68494ba1377",
+      "title": "The Top AI Investors & VC Firms for Startups in 2026",
+      "summary": "AI is pulling in more capital than any other sector right now, according to Crunchbase. In 2025, nearly half of all global venture funding went into AI (up from roughly a third the year before). More ...",
+      "highlights": [
+        "AI is pulling in more capital than any other sector right now, according to Crunchbase. In 2025, nearly half of all global venture funding went into AI (up from roughly a third the year before). More than $200 billion has already flowed into AI across infrastructure, foundation models, and application-layer companies.",
+        "Additionally, a report from Goldman Sachs explains how AI companies’ capital spending may surpass $500 billion in 2026.",
+        "### Investor Behavior and Expectations [...] Some examples of startups that successfully secured funding through OpenVC include Mobly (2.5M seed), Paxum ($1.2M seed), and Laennec AI ($400k pre-seed). OpenVC startups have gone on to raise more than $1 billion from top venture capital firms like YC, Sequoia, Google Ventures, and M12."
+      ],
+      "url": "https://www.openvc.app/investor-lists/ai-investors",
+      "source": "openvc.app",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-10-02T08:00:00Z"
+    },
+    {
+      "id": "ec2a845c5eca",
+      "title": "43K views · 388 reactions | Chipmaker AMD agreed to acquire World Labs for $8.2 billion, gaining an AI startup founded by industry pioneer and researcher Fei-Fei Li. Ed Ludlow explains why this is such a big deal for both companies bloom.bg/3VVSP1i | Bloomberg",
+      "summary": "[](\n\nKen Griffin is donating $3 billion to Carnegie Mellon University, including funding for a new Miami campus, in the largest single gift ever to a US university and the latest expansion of his infl...",
+      "highlights": [
+        "Ken Griffin is donating $3 billion to Carnegie Mellon University, including funding for a new Miami campus, in the largest single gift ever to a US university and the latest expansion of his influence in South Florida. Janet Lorin reports bloom.bg/4hW0EN2",
+        "Media/news company",
+        "View Transcript"
+      ],
+      "url": "https://www.facebook.com/bloombergbusiness/videos/chipmaker-amd-agreed-to-acquire-world-labs-for-82-billion-gaining-an-ai-startup-/1579073336765232",
+      "source": "facebook.com",
+      "category": "芯片硬件",
+      "importance": 3,
+      "publishedAt": "2026-10-02T16:53:01Z"
+    },
+    {
+      "id": "c99820b9e65a",
+      "title": "从智能驾驶到具身智能：28圈官网版下载2.0以“算力心脏”开启国产AI新篇章",
+      "summary": "本文来源：共青团中央作者：陈欣. 2026年，大模型正在加速从云端走向物理世界。无论是自动驾驶出租车穿梭于城市街道，还是仓储机器人灵活分拣包裹，背后都需要实实在在",
+      "highlights": [
+        "本文来源：共青团中央作者：陈欣. 2026年，大模型正在加速从云端走向物理世界",
+        "无论是自动驾驶出租车穿梭于城市街道，还是仓储机器人灵活分拣包裹，背后都需要实实在在"
+      ],
+      "url": "https://www.donews.com/sp/staticzt/dnaudit/dnprobe61002/87124266.html",
+      "source": "donews.com",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-10-02T02:00:00Z"
+    },
+    {
+      "id": "512e2ed312fe",
+      "title": "Will hardware-level enforcement stop AI models from ...",
+      "summary": "Another OpenAI deployment executed a hack against Hugging Face. Anthropic recorded three incidents where testing software infiltrated external companies. In",
+      "highlights": [
+        "Another OpenAI deployment executed a hack against Hugging Face. Anthropic recorded three incidents where testing software infiltrated external companies. In"
+      ],
+      "url": "https://www.facebook.com/groups/FinTechForum/posts/4391443174454029",
+      "source": "facebook.com",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-10-03T02:28:52Z"
+    },
+    {
+      "id": "b1e7c2ecaf94",
+      "title": "当智能体成为产品AI Agent的产品化与商业化",
+      "summary": "当智能体成为产品AI Agent的产品化与商业化云途数创 · 行业洞察◆  ◆  ◆上一期我们讲了AIGC如何走进千行百业,而当行业真正开...",
+      "highlights": [
+        "当智能体成为产品AI Agent的产品化与商业化云途数创 · 行业洞察◆  ◆  ◆上一期我们讲了AIGC如何走进千行百业,而当行业真正开..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9q2rPc8anW1Ha6oy56zrm1Av6Veh1YUF1qXa8Fplpd9rhD3AXnJV5abtairoizve5tuIc_nz8rqPd_pRB_-W7HMZgDuXDzGzc-MnvFGxRpY_Uo0Wl7hcpudFyh80HLTuuBcdxnnNJtejg4LlINm2Oa9-yziExg-W6UV1u_b0DBCM5WRXB9sjWZGFkW6J_pl1DXfkADZB7_6sOx5OekKpb1hWLv6O878UA..&amp;type=2&amp;query=AI Agent %E6%99%BA%E8%83%BD%E4%BD%93 %E4%BA%A7%E5%93%81&amp;token=BB31CF3DD2DB9184282E74C56668CFCF28E75F166AC0DC16",
+      "source": "微信公众号",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-10-02T01:05:02Z"
+    },
+    {
+      "id": "981dd6fff75f",
+      "title": "The Week’s 10 Biggest Funding Rounds: Almost All About AI",
+      "summary": "# The Week’s 10 Biggest Funding Rounds: Almost All About AI\n\nJoanna Glasner\n\nOctober 2, 2026\n\nIllustration of gardener holding a rake. Venture\n\n Joanna Glasner jglasner\n\n Email\n Facebook\n Twitter\n Lin...",
+      "highlights": [
+        "# The Week’s 10 Biggest Funding Rounds: Almost All About AI",
+        "Joanna Glasner",
+        "October 2, 2026"
+      ],
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-cyber-real-estate-instinct",
+      "source": "news.crunchbase.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-02T18:24:26Z"
+    },
+    {
+      "id": "f8de1e5ef3f8",
+      "title": "$162.8B went into U.S. startups in the first half of 2025, up ...",
+      "summary": "US startups raised a record $412.7 billion in the first half of 2026, and AI companies took $355.9 billion of it. Rounds of $100 million or more took 87.5% of",
+      "highlights": [
+        "US startups raised a record $412.7 billion in the first half of 2026, and AI companies took $355.9 billion of it. Rounds of $100 million or more took 87.5% of"
+      ],
+      "url": "https://www.instagram.com/reel/DeAFH4LDyTq",
+      "source": "instagram.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-03T15:17:09Z"
+    },
+    {
+      "id": "eb8a5f2f4583",
+      "title": "Instagram",
+      "summary": "Salesforce has signed a definitive agreement to acquire Listen Labs, an AI-powered customer research and human simulation platform that uses AI agents to design studies, conduct research and synthesiz...",
+      "highlights": [
+        "Salesforce has signed a definitive agreement to acquire Listen Labs, an AI-powered customer research and human simulation platform that uses AI agents to design studies, conduct research and synthesize customer feedback. The deal will expand Salesforce’s customer and user understanding capabilities across Marketing Cloud, Service Cloud and its broader AI portfolio, with the transaction expected to close in fiscal Q4 2027; Listen Labs CEO and Co-Founder Alfred Wahlforss said the combination will [...] Video by Traded: Venture Capital 🦄 on November 05, 2025.",
+        "Photo by Traded: Venture Capital 🦄 on October 01, 2026.",
+        "Photo by Traded: Venture Capital 🦄 on October 01, 2026."
+      ],
+      "url": "https://www.instagram.com/p/Dd9jrO1CTKo",
+      "source": "instagram.com",
+      "category": "前沿理论",
+      "importance": 2,
+      "publishedAt": "2026-10-03T15:17:09Z"
+    },
+    {
+      "id": "a676de3db73b",
+      "title": "AI funding isn't slowing — it's concentrating. $178B into ...",
+      "summary": "Public AI startups raised $104.3 billion in the U.S. in the first half of this year, nearly matching the $104.4 billion total for all of 2024.",
+      "highlights": [
+        "Public AI startups raised $104.3 billion in the U.S. in the first half of this year, nearly matching the $104.4 billion total for all of 2024."
+      ],
+      "url": "https://www.facebook.com/61591321656064/videos/ai-funding-isnt-slowing-its-concentrating-178b-into-foundational-ai-in-q1-560-va/1098869319276333",
+      "source": "facebook.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-03T15:17:09Z"
+    }
+  ],
+  "today": [
+    {
+      "id": "335ea007fa27",
+      "title": "4.3K views · 51 reactions | Nvidia announced the Open Agent Safety Platform to prevent the type of breakout that occurred when OpenAI models accessed HuggingFace.\n\nOpenAI, Anthropic, Meta, and Google have all disclosed recent incidents where their AI models escaped their sandboxes.\n\nNvidia said Cisco, Microsoft, Oracle, CoreWeave, Dell, HPE, Lenovo, ARM and Intel are partners.\n\nRead the latest here: cnb.cx/4hi2OXl | CNBC",
+      "summary": "[](\n\nOpenAI said over the weekend that it is carrying out an extensive review of its models' actions and has paused training of the most powerful models. Read more: cnb.cx/4ydH8l0\n\nCNBC\n\n674 views\n\n ·...",
+      "highlights": [
+        "OpenAI said over the weekend that it is carrying out an extensive review of its models' actions and has paused training of the most powerful models. Read more: cnb.cx/4ydH8l0",
+        "Image 16: Video thumbnail 1:31",
+        "Supply glut, lab-grown alternatives: What's behind the fall of diamond prices to record lows"
+      ],
+      "url": "https://www.facebook.com/cnbc/videos/nvidia-announced-the-open-agent-safety-platform-to-prevent-the-type-of-breakout-/28847488928270273",
+      "source": "facebook.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-03T02:28:52Z"
+    },
+    {
+      "id": "89c5962af2cb",
+      "title": "Holy smoke! Google cooked OpenAI and Anthropic",
+      "summary": "Google cooked OpenAI and Anthropic 3 frontier models in a month! Anthropic will have released models that outperform it. it would be made more widely available",
+      "highlights": [
+        "Google cooked OpenAI and Anthropic 3 frontier models in a month! Anthropic will have released models that outperform it. it would be made more widely available"
+      ],
+      "url": "https://www.reddit.com/r/GeminiAI/comments/1wufg38/holy_smoke_google_cooked_openai_and_anthropic",
+      "source": "reddit.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-03T02:28:52Z"
+    },
+    {
+      "id": "dbb2dc712a8c",
+      "title": "Nvidia announced the Open Agent Safety Platform ...",
+      "summary": "OpenAI, Anthropic, Meta, and Google have all disclosed recent incidents where their AI models escaped their sandboxes.",
+      "highlights": [
+        "OpenAI, Anthropic, Meta, and Google have all disclosed recent incidents where their AI models escaped their sandboxes."
+      ],
+      "url": "https://www.instagram.com/reel/Dd1BVW-jBae",
+      "source": "instagram.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-03T02:28:52Z"
+    },
+    {
+      "id": "85a40a87999b",
+      "title": "又一个00后造富神话-虎嗅网",
+      "summary": "## 23岁辍学生创业\n\nShinn不是突然冒出来的。\n\n本科就读于美国东北大学期间，他在校内的编程语言研究组从事类型预测和代码生成研究，也在MIT参与过机器学习与编程语言的交叉工作。\n\n真正让他在学术圈扬名的，是一篇论文。2023年，他以一作身份在NeurIPS发表了Reflexion，提出让AI智能体在任务失败后，用自然语言复盘错误、存入记忆，在后续任务中复用经验。这篇论文被视为AI Agen...",
+      "highlights": [
+        "## 23岁辍学生创业",
+        "Shinn不是突然冒出来的",
+        "本科就读于美国东北大学期间，他在校内的编程语言研究组从事类型预测和代码生成研究，也在MIT参与过机器学习与编程语言的交叉工作"
+      ],
+      "url": "https://m.huxiu.com/article/4895259.html?type=text",
+      "source": "m.huxiu.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-03T07:06:59Z"
+    },
+    {
+      "id": "4e86453759fe",
+      "title": "Anthropic launched Claude Opus 5.5, its latest flagship ...",
+      "summary": "From OpenAI's GPT-6 models and Anthropic's Claude Opus 5.5 to Microsoft's fourth India cloud region, Grok 4.7, Gemini's Live Avatar, and Alibaba's Zhenwu V900,",
+      "highlights": [
+        "From OpenAI's GPT-6 models and Anthropic's Claude Opus 5.5 to Microsoft's fourth India cloud region, Grok 4.7, Gemini's Live Avatar, and Alibaba's Zhenwu V900,"
+      ],
+      "url": "https://www.instagram.com/reel/Dd5esyhAlex",
+      "source": "instagram.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-03T15:17:09Z"
+    },
+    {
+      "id": "512e2ed312fe",
+      "title": "Will hardware-level enforcement stop AI models from ...",
+      "summary": "Another OpenAI deployment executed a hack against Hugging Face. Anthropic recorded three incidents where testing software infiltrated external companies. In",
+      "highlights": [
+        "Another OpenAI deployment executed a hack against Hugging Face. Anthropic recorded three incidents where testing software infiltrated external companies. In"
+      ],
+      "url": "https://www.facebook.com/groups/FinTechForum/posts/4391443174454029",
+      "source": "facebook.com",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-10-03T02:28:52Z"
+    },
+    {
+      "id": "f8de1e5ef3f8",
+      "title": "$162.8B went into U.S. startups in the first half of 2025, up ...",
+      "summary": "US startups raised a record $412.7 billion in the first half of 2026, and AI companies took $355.9 billion of it. Rounds of $100 million or more took 87.5% of",
+      "highlights": [
+        "US startups raised a record $412.7 billion in the first half of 2026, and AI companies took $355.9 billion of it. Rounds of $100 million or more took 87.5% of"
+      ],
+      "url": "https://www.instagram.com/reel/DeAFH4LDyTq",
+      "source": "instagram.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-03T15:17:09Z"
+    },
+    {
+      "id": "eb8a5f2f4583",
+      "title": "Instagram",
+      "summary": "Salesforce has signed a definitive agreement to acquire Listen Labs, an AI-powered customer research and human simulation platform that uses AI agents to design studies, conduct research and synthesiz...",
+      "highlights": [
+        "Salesforce has signed a definitive agreement to acquire Listen Labs, an AI-powered customer research and human simulation platform that uses AI agents to design studies, conduct research and synthesize customer feedback. The deal will expand Salesforce’s customer and user understanding capabilities across Marketing Cloud, Service Cloud and its broader AI portfolio, with the transaction expected to close in fiscal Q4 2027; Listen Labs CEO and Co-Founder Alfred Wahlforss said the combination will [...] Video by Traded: Venture Capital 🦄 on November 05, 2025.",
+        "Photo by Traded: Venture Capital 🦄 on October 01, 2026.",
+        "Photo by Traded: Venture Capital 🦄 on October 01, 2026."
+      ],
+      "url": "https://www.instagram.com/p/Dd9jrO1CTKo",
+      "source": "instagram.com",
+      "category": "前沿理论",
+      "importance": 2,
+      "publishedAt": "2026-10-03T15:17:09Z"
+    },
+    {
+      "id": "a676de3db73b",
+      "title": "AI funding isn't slowing — it's concentrating. $178B into ...",
+      "summary": "Public AI startups raised $104.3 billion in the U.S. in the first half of this year, nearly matching the $104.4 billion total for all of 2024.",
+      "highlights": [
+        "Public AI startups raised $104.3 billion in the U.S. in the first half of this year, nearly matching the $104.4 billion total for all of 2024."
+      ],
+      "url": "https://www.facebook.com/61591321656064/videos/ai-funding-isnt-slowing-its-concentrating-178b-into-foundational-ai-in-q1-560-va/1098869319276333",
+      "source": "facebook.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-03T15:17:09Z"
+    }
+  ],
+  "week": [
     {
       "id": "e860998f3503",
       "title": "Broadcom AI Chip Revenue Hits $16.7B, Up 221% [2026]",
@@ -189,286 +713,6 @@
       "publishedAt": "2026-10-02T15:19:09Z"
     },
     {
-      "id": "6a0e559666bf",
-      "title": "Instagram",
-      "summary": "AI 智能体（AI Agent）的开发与上线，是指构建一个能够自主感知环境、进行规划决策、调用外部工具，并持续执行任务以达成特定目标的智能化系统。相比于传统的单次问答大模型应用，智能体项目更注重状态管理、长链条推理、工具集成与工程化稳定性。北京木奇科技有限公司，专业的智能体开发公司，欢迎交流合作。商务合作加V：muqi2026  \n  \n一个完整的 AI 智能体项目生命周期通常分为以下六个核心阶段...",
-      "highlights": [
-        "AI 智能体（AI Agent）的开发与上线，是指构建一个能够自主感知环境、进行规划决策、调用外部工具，并持续执行任务以达成特定目标的智能化系统",
-        "相比于传统的单次问答大模型应用，智能体项目更注重状态管理、长链条推理、工具集成与工程化稳定性",
-        "北京木奇科技有限公司，专业的智能体开发公司，欢迎交流合作"
-      ],
-      "url": "https://www.instagram.com/p/Dd2xTvwlPCn",
-      "source": "instagram.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-02T11:26:04Z"
-    },
-    {
-      "id": "efeaceb97e8e",
-      "title": "2026 中国AI Agent 产业全景：全面跟进全球“行动式AI”新范式",
-      "summary": "其最大特色是身份化智能体：每个Agent 可独立持有邮箱、手机号、钱包、云电脑 ... 智能体产品矩阵。海外三家定义范式，国内全产业 链快速跟进、场景本土化超越",
-      "highlights": [
-        "其最大特色是身份化智能体：每个Agent 可独立持有邮箱、手机号、钱包、云电脑 ... 智能体产品矩阵",
-        "海外三家定义范式，国内全产业 链快速跟进、场景本土化超越"
-      ],
-      "url": "https://www.facebook.com/groups/370716739681554/posts/28448934308099754",
-      "source": "facebook.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-02T11:26:04Z"
-    },
-    {
-      "id": "712727c41b21",
-      "title": "谷歌机器人战略：软件优先，复制安卓打法布局具身智能",
-      "summary": "这一策略与谷歌当年推广安卓的路径如出一辙。报道指出，2007至2008年间，谷歌联合创始人Sergey Brin也曾以类似思路回应谷歌是否会自建手机的问题。当时谷歌正与T-Mobile和HTC合作推出安卓设备，之后才逐步发展出Pixel硬件业务。\n\n目前，Kavukcuoglu并未完全排除谷歌未来打造人形机器人的可能性，但强调现阶段重点仍是模型能力和合作生态。\n\n## Gemini走向物理世界，模...",
-      "highlights": [
-        "这一策略与谷歌当年推广安卓的路径如出一辙",
-        "报道指出，2007至2008年间，谷歌联合创始人Sergey Brin也曾以类似思路回应谷歌是否会自建手机的问题",
-        "当时谷歌正与T-Mobile和HTC合作推出安卓设备，之后才逐步发展出Pixel硬件业务"
-      ],
-      "url": "https://wallstreetcn.com/articles/3782916",
-      "source": "wallstreetcn.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-10-02T03:28:43Z"
-    },
-    {
-      "id": "6f94b2458b2e",
-      "title": "谷歌一直在追赶OpenAI与Anthropic，其全新旗舰模型真能跻身前沿梯队吗？",
-      "summary": "来源：环球市场播报. 核心要点. 谷歌本周发布最新旗舰大模型Gemini 4 Argon，希望在前沿AI 赛道与OpenAI、Anthropic 同台竞争。 分析师看好Argon，该模型在基准评测榜",
-      "highlights": [
-        "来源：环球市场播报. 核心要点. 谷歌本周发布最新旗舰大模型Gemini 4 Argon，希望在前沿AI 赛道与OpenAI、Anthropic 同台竞争",
-        "分析师看好Argon，该模型在基准评测榜"
-      ],
-      "url": "https://m.sohu.com/a/1083478118_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-02T14:00:00Z"
-    },
-    {
-      "id": "38f955cf0da1",
-      "title": "The 6G core divide - Light Reading",
-      "summary": "# The 6G core divide. Three competing 6G core architectures threaten to splinter the global standard. * Direction 1 – Separate AI domain: A dedicated AI domain for intent handling independent of the p...",
-      "highlights": [
-        "# The 6G core divide. Three competing 6G core architectures threaten to splinter the global standard. * Direction 1 – Separate AI domain: A dedicated AI domain for intent handling independent of the packet-switched network, with the AMF routing NAS signaling while AI fulfillment occurs via SBI; backed by Nokia, T-Mobile USA, Verizon, NVIDIA, Deutsche Telekom, Apple\\*, Qualcomm, Ericsson and NEC, though implementation requires complex UE AI domain client integration. Delegates are discussing a compromise: a partial merge of Directions 1 and 2 (AI functionality in 6G NFs), in which operators could separate the AI domain while introducing modular routing to prevent potential chokepoints in the AMF. By formalizing an intent-driven AI domain in the core network and device (Direction 1), 3GPP is fundamentally changing device architecture. It standardizes UE AI domain client interfaces to the core by creating an application-layer intent client to understand what the user or agent wants and a 3GPP AI domain client to translate that into secure network signaling."
-      ],
-      "url": "https://www.lightreading.com/6g/the-6g-core-divide",
-      "source": "lightreading.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-01T13:00:31Z"
-    },
-    {
-      "id": "5ece5c6a1db3",
-      "title": "Trump Sends Strong Signal on Google's New Gemini Model - Yahoo Finance",
-      "summary": "2. Best 0% APR cards. 3. Best balance transfer cards. 2. Best high-yield savings accounts. 3. Best money market accounts. 4. Best free checking accounts. # Trump Sends Strong Signal on Google's New Ge...",
-      "highlights": [
-        "2. Best 0% APR cards. 3. Best balance transfer cards. 2. Best high-yield savings accounts. 3. Best money market accounts. 4. Best free checking accounts. # Trump Sends Strong Signal on Google's New Gemini Model. Alphabet (NASDAQ:GOOGL) shares gained after Google unveiled Gemini 4 Argon, its latest frontier AI model, while CEO Sundar Pichai drew unusual praise from President Donald Trump at a White House technology summit. The more consequential development for investors is Argon itself, which strengthens Google's position against OpenAI and Anthropic in high-value enterprise AI workloads such as coding, finance, legal research and cybersecurity. Investors should monitor the pace of Argon's broader rollout, Gemini API adoption, enterprise workloads and whether Google Cloud converts stronger AI capabilities into faster revenue growth. For Alphabet, the investor thesis is less about Trump's praise of Pichai and more about whether Gemini 4 Argon can convert technical leadership into durable cloud and AI monetization."
-      ],
-      "url": "https://finance.yahoo.com/technology/ai/articles/trump-sends-strong-signal-googles-162036569.html",
-      "source": "finance.yahoo.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-01T16:20:36Z"
-    },
-    {
-      "id": "ae23e83b39cf",
-      "title": "Google’s latest launch puts its AI ambitions to the test - Los Angeles Times",
-      "summary": "Alphabet Inc.’s Google has begun rolling out Gemini 4 Argon, its long-awaited flagship artificial intelligence model, but the company is grappling with internal skepticism over how well it performs in...",
-      "highlights": [
-        "Alphabet Inc.’s Google has begun rolling out Gemini 4 Argon, its long-awaited flagship artificial intelligence model, but the company is grappling with internal skepticism over how well it performs in key areas, such as coding. While Gemini 4 has performed well on benchmarks widely used to gauge model efficacy, it does less well when employees actually put it to work, according to people with direct access to the effort. Google said it would be inaccurate to say that Gemini 4 is underperforming in areas such as coding. A Google employee familiar with model development said there is “large consensus” internally at the company that Gemini 4 is at the frontier. In response to questions from Bloomberg, Google said that even though its last Pro model was released in February, the company has since seen growth in its AI products, including the enterprise version of Gemini as well as its consumer chatbot app and AI Mode in Google Search, the last two of which have crossed 1 billion users."
-      ],
-      "url": "https://www.latimes.com/business/story/2026-10-01/googles-latest-launch-puts-its-ai-ambitions-to-test",
-      "source": "latimes.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-01T14:12:13Z"
-    },
-    {
-      "id": "bdd8a8c19348",
-      "title": "Google stands by Gemini 4 performance as some claim it ‘struggles’ in real-world use - 9to5Google",
-      "summary": "The report cites Googlers who found that the model “does less well when employees actually put it to work,” and that it “struggles to handle certain coding tasks.” Google, speaking to *Bloomberg* on t...",
-      "highlights": [
-        "The report cites Googlers who found that the model “does less well when employees actually put it to work,” and that it “struggles to handle certain coding tasks.” Google, speaking to *Bloomberg* on the claims, said that it “would be inaccurate to say that Gemini 4 is underperforming in areas such as coding,” also referencing comments from Koray Kavukcuoglu, the head of Google DeepMind, from late September, when he said that “it’s a certainty that we are always gonna be at the frontier.” The report cites one Googler who said that there’s a “large consensus” that Gemini 4 is at the frontier amongst employees, while others are concerned that Gemini “will still lag behind” competing models from Anthropic and OpenAI. Gemini 4 Argon brings welcome upgrades to the model, including an expanded output limit of up to 1 million tokens, while Google also explained that the model is “highly capable at cybersecurity defense” and shows “leading performance” in other use cases."
-      ],
-      "url": "https://9to5google.com/2026/10/01/gemini-4-struggle-report/",
-      "source": "9to5google.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-01T14:10:00Z"
-    },
-    {
-      "id": "475d53755606",
-      "title": "AI 大模型世界",
-      "summary": "大模型世界数据更新于10 月2 日· 611 个模型· 65 家厂商. Claude Opus 5.5 Anthropic … 最新发布Ling 3.1 Flash 6",
-      "highlights": [
-        "大模型世界数据更新于10 月2 日· 611 个模型· 65 家厂商. Claude Opus 5.5 Anthropic … 最新发布Ling 3.1 Flash 6"
-      ],
-      "url": "https://www.bilibili.com/toy/ai-model-world",
-      "source": "bilibili.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-02T20:00:00Z"
-    },
-    {
-      "id": "a8837e1304e2",
-      "title": "发布23天引爆消费级Agent！大摩深度解读“Muse 6大焦点问题”",
-      "summary": "[](\n   首页\n   资讯\n   快讯\n   行情\n   日历\n   APP\n   VIP会员\n   大师课\n   生活家\n\n登录 / 注册\n\n   109 \n   收藏 \n\n   Image 1: qrcode\n   [](\n\n# 发布23天引爆消费级Agent！大摩深度解读“Muse 6大焦点问题”\n\nImage 2: 李佳李佳 10-02 10:11 \n\n摩根士丹利认为，Muse短期应聚...",
-      "highlights": [
-        "Image 1: qrcode",
-        "# 发布23天引爆消费级Agent",
-        "大摩深度解读“Muse 6大焦点问题”"
-      ],
-      "url": "https://wallstreetcn.com/articles/3782917",
-      "source": "wallstreetcn.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-02T10:11:16Z"
-    },
-    {
-      "id": "d68494ba1377",
-      "title": "The Top AI Investors & VC Firms for Startups in 2026",
-      "summary": "AI is pulling in more capital than any other sector right now, according to Crunchbase. In 2025, nearly half of all global venture funding went into AI (up from roughly a third the year before). More ...",
-      "highlights": [
-        "AI is pulling in more capital than any other sector right now, according to Crunchbase. In 2025, nearly half of all global venture funding went into AI (up from roughly a third the year before). More than $200 billion has already flowed into AI across infrastructure, foundation models, and application-layer companies.",
-        "Additionally, a report from Goldman Sachs explains how AI companies’ capital spending may surpass $500 billion in 2026.",
-        "### Investor Behavior and Expectations [...] Some examples of startups that successfully secured funding through OpenVC include Mobly (2.5M seed), Paxum ($1.2M seed), and Laennec AI ($400k pre-seed). OpenVC startups have gone on to raise more than $1 billion from top venture capital firms like YC, Sequoia, Google Ventures, and M12."
-      ],
-      "url": "https://www.openvc.app/investor-lists/ai-investors",
-      "source": "openvc.app",
-      "category": "投并购",
-      "importance": 3,
-      "publishedAt": "2026-10-02T08:00:00Z"
-    },
-    {
-      "id": "ec2a845c5eca",
-      "title": "43K views · 388 reactions | Chipmaker AMD agreed to acquire World Labs for $8.2 billion, gaining an AI startup founded by industry pioneer and researcher Fei-Fei Li. Ed Ludlow explains why this is such a big deal for both companies bloom.bg/3VVSP1i | Bloomberg",
-      "summary": "[](\n\nKen Griffin is donating $3 billion to Carnegie Mellon University, including funding for a new Miami campus, in the largest single gift ever to a US university and the latest expansion of his infl...",
-      "highlights": [
-        "Ken Griffin is donating $3 billion to Carnegie Mellon University, including funding for a new Miami campus, in the largest single gift ever to a US university and the latest expansion of his influence in South Florida. Janet Lorin reports bloom.bg/4hW0EN2",
-        "Media/news company",
-        "View Transcript"
-      ],
-      "url": "https://www.facebook.com/bloombergbusiness/videos/chipmaker-amd-agreed-to-acquire-world-labs-for-82-billion-gaining-an-ai-startup-/1579073336765232",
-      "source": "facebook.com",
-      "category": "芯片硬件",
-      "importance": 3,
-      "publishedAt": "2026-10-02T16:53:01Z"
-    },
-    {
-      "id": "c99820b9e65a",
-      "title": "从智能驾驶到具身智能：28圈官网版下载2.0以“算力心脏”开启国产AI新篇章",
-      "summary": "本文来源：共青团中央作者：陈欣. 2026年，大模型正在加速从云端走向物理世界。无论是自动驾驶出租车穿梭于城市街道，还是仓储机器人灵活分拣包裹，背后都需要实实在在",
-      "highlights": [
-        "本文来源：共青团中央作者：陈欣. 2026年，大模型正在加速从云端走向物理世界",
-        "无论是自动驾驶出租车穿梭于城市街道，还是仓储机器人灵活分拣包裹，背后都需要实实在在"
-      ],
-      "url": "https://www.donews.com/sp/staticzt/dnaudit/dnprobe61002/87124266.html",
-      "source": "donews.com",
-      "category": "具身智能",
-      "importance": 3,
-      "publishedAt": "2026-10-02T02:00:00Z"
-    },
-    {
-      "id": "76cb73252808",
-      "title": "Google Rolls Out New AI Model Gradually Amid Safety Concerns  | The Morning Download for Oct. 1 - WSJ",
-      "summary": "Good morning. Google unveiled its latest AI model, Gemini 4 Argon, with a notice up top that its release would be limited, at least for now, to a list of “trusted cybersecurity vendors.” Such has beco...",
-      "highlights": [
-        "Good morning. Google unveiled its latest AI model, Gemini 4 Argon, with a notice up top that its release would be limited, at least for now, to a list of “trusted cybersecurity vendors.” Such has become the new normal for frontier-model announcements in the post-Mythos age, where touting the guardrails can seem to outweigh posting the wins. [...] And Gemini 4 Argon, which comes out nearly a year after Gemini 3 enabled the company to leapfrog rivals, clocks some wins. According to the company, the model sets new highs on several coding and knowledge-work benchmarks.",
-        "Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8"
-      ],
-      "url": "https://www.wsj.com/cio-journal/google-rolls-out-new-ai-model-gradually-amid-safety-concerns-38db8d1c",
-      "source": "wsj.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-01T13:15:00Z"
-    },
-    {
-      "id": "512e2ed312fe",
-      "title": "Will hardware-level enforcement stop AI models from ...",
-      "summary": "Another OpenAI deployment executed a hack against Hugging Face. Anthropic recorded three incidents where testing software infiltrated external companies. In",
-      "highlights": [
-        "Another OpenAI deployment executed a hack against Hugging Face. Anthropic recorded three incidents where testing software infiltrated external companies. In"
-      ],
-      "url": "https://www.facebook.com/groups/FinTechForum/posts/4391443174454029",
-      "source": "facebook.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-03T02:28:52Z"
-    },
-    {
-      "id": "b1e7c2ecaf94",
-      "title": "当智能体成为产品AI Agent的产品化与商业化",
-      "summary": "当智能体成为产品AI Agent的产品化与商业化云途数创 · 行业洞察◆  ◆  ◆上一期我们讲了AIGC如何走进千行百业,而当行业真正开...",
-      "highlights": [
-        "当智能体成为产品AI Agent的产品化与商业化云途数创 · 行业洞察◆  ◆  ◆上一期我们讲了AIGC如何走进千行百业,而当行业真正开..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9q2rPc8anW1Ha6oy56zrm1Av6Veh1YUF1qXa8Fplpd9rhD3AXnJV5abtairoizve5tuIc_nz8rqPd_pRB_-W7HMZgDuXDzGzc-MnvFGxRpY_Uo0Wl7hcpudFyh80HLTuuBcdxnnNJtejg4LlINm2Oa9-yziExg-W6UV1u_b0DBCM5WRXB9sjWZGFkW6J_pl1DXfkADZB7_6sOx5OekKpb1hWLv6O878UA..&amp;type=2&amp;query=AI Agent %E6%99%BA%E8%83%BD%E4%BD%93 %E4%BA%A7%E5%93%81&amp;token=BB31CF3DD2DB9184282E74C56668CFCF28E75F166AC0DC16",
-      "source": "微信公众号",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-10-02T01:05:02Z"
-    }
-  ],
-  "today": [
-    {
-      "id": "335ea007fa27",
-      "title": "4.3K views · 51 reactions | Nvidia announced the Open Agent Safety Platform to prevent the type of breakout that occurred when OpenAI models accessed HuggingFace.\n\nOpenAI, Anthropic, Meta, and Google have all disclosed recent incidents where their AI models escaped their sandboxes.\n\nNvidia said Cisco, Microsoft, Oracle, CoreWeave, Dell, HPE, Lenovo, ARM and Intel are partners.\n\nRead the latest here: cnb.cx/4hi2OXl | CNBC",
-      "summary": "[](\n\nOpenAI said over the weekend that it is carrying out an extensive review of its models' actions and has paused training of the most powerful models. Read more: cnb.cx/4ydH8l0\n\nCNBC\n\n674 views\n\n ·...",
-      "highlights": [
-        "OpenAI said over the weekend that it is carrying out an extensive review of its models' actions and has paused training of the most powerful models. Read more: cnb.cx/4ydH8l0",
-        "Image 16: Video thumbnail 1:31",
-        "Supply glut, lab-grown alternatives: What's behind the fall of diamond prices to record lows"
-      ],
-      "url": "https://www.facebook.com/cnbc/videos/nvidia-announced-the-open-agent-safety-platform-to-prevent-the-type-of-breakout-/28847488928270273",
-      "source": "facebook.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-03T02:28:52Z"
-    },
-    {
-      "id": "89c5962af2cb",
-      "title": "Holy smoke! Google cooked OpenAI and Anthropic",
-      "summary": "Google cooked OpenAI and Anthropic 3 frontier models in a month! Anthropic will have released models that outperform it. it would be made more widely available",
-      "highlights": [
-        "Google cooked OpenAI and Anthropic 3 frontier models in a month! Anthropic will have released models that outperform it. it would be made more widely available"
-      ],
-      "url": "https://www.reddit.com/r/GeminiAI/comments/1wufg38/holy_smoke_google_cooked_openai_and_anthropic",
-      "source": "reddit.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-03T02:28:52Z"
-    },
-    {
-      "id": "dbb2dc712a8c",
-      "title": "Nvidia announced the Open Agent Safety Platform ...",
-      "summary": "OpenAI, Anthropic, Meta, and Google have all disclosed recent incidents where their AI models escaped their sandboxes.",
-      "highlights": [
-        "OpenAI, Anthropic, Meta, and Google have all disclosed recent incidents where their AI models escaped their sandboxes."
-      ],
-      "url": "https://www.instagram.com/reel/Dd1BVW-jBae",
-      "source": "instagram.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-03T02:28:52Z"
-    },
-    {
-      "id": "512e2ed312fe",
-      "title": "Will hardware-level enforcement stop AI models from ...",
-      "summary": "Another OpenAI deployment executed a hack against Hugging Face. Anthropic recorded three incidents where testing software infiltrated external companies. In",
-      "highlights": [
-        "Another OpenAI deployment executed a hack against Hugging Face. Anthropic recorded three incidents where testing software infiltrated external companies. In"
-      ],
-      "url": "https://www.facebook.com/groups/FinTechForum/posts/4391443174454029",
-      "source": "facebook.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-03T02:28:52Z"
-    }
-  ],
-  "week": [
-    {
       "id": "4fe51f357dc0",
       "title": "OpenAI、Meta、Manus同时下注，智能体 2.0 来了 - 潮起网",
       "summary": "说白了，在龙虾横行的智能体1.0时代，它能干，但更需要人来做决策；但个人智能体开启的2.0时代，证明“能出主意”的主动型Agent是一套以AI为主导的用户交互逻辑。这就把原本需要人操心的工作流，解放了出来。\n\n9月初，Meta发布了个人AI Agent产品Muse。它是一个能够真正替用户执行任务的个人Agent，运行在独立的云端虚拟机上，AI可以在里面打开网页、处理邮件、预订行程、购物，并且在后台...",
@@ -497,22 +741,9 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-10-01T05:00:00Z"
-    },
-    {
-      "id": "7e5eb6929289",
-      "title": "OpenAI、Meta、Manus同时下注，智能体 2.0 来了",
-      "summary": "说白了，在龙虾横行的智能体1.0时代，它能干，但更需要人来做决策；但个人智能体开启的2.0时代，证明“能出主意”的主动型Agent是一套以AI为主导的用户交互逻辑。这就把原本需要人操心的工作流，解放了出来。\n\n9月初，Meta发布了个人AI Agent产品Muse。它是一个能够真正替用户执行任务的个人Agent，运行在独立的云端虚拟机上，AI可以在里面打开网页、处理邮件、预订行程、购物，并且在后台...",
-      "highlights": [
-        "说白了，在龙虾横行的智能体1.0时代，它能干，但更需要人来做决策；但个人智能体开启的2.0时代，证明“能出主意”的主动型Agent是一套以AI为主导的用户交互逻辑",
-        "这就把原本需要人操心的工作流，解放了出来",
-        "9月初，Meta发布了个人AI Agent产品Muse"
-      ],
-      "url": "https://m.thepaper.cn/newsDetail_forward_34180411",
-      "source": "m.thepaper.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-01T09:00:00Z"
-    },
+    }
+  ],
+  "month": [
     {
       "id": "e860998f3503",
       "title": "Broadcom AI Chip Revenue Hits $16.7B, Up 221% [2026]",
@@ -542,21 +773,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-10-01T15:13:00Z"
-    },
-    {
-      "id": "1fb122acf722",
-      "title": "日常帮手 中国生成式AI用户 突破7亿人 普及率超过50% | 中外大事纪 | 中国 | 世界新闻网",
-      "summary": "wj\n\n### 我的频道\n\n## 川普时代杂志专访：台湾芯片业者投资5千亿美元\n\n## 黄安抢先喊「祖国生日快乐」 中国国庆台湾第一人\n\n# 日常帮手 中国生成式AI用户 突破7亿人 普及率超过50%\n\n打开微信，点击底部的「发现」，使用「扫一扫」即可将网页分享至好友\n\n中国互联网络消息中心发布最新报告，截至今年上半年，中国生成式AI用户规模已突破7...\n\n### AI摘要\n\n## 文章摘要整理...",
-      "highlights": [
-        "## 川普时代杂志专访：台湾芯片业者投资5千亿美元",
-        "## 黄安抢先喊「祖国生日快乐」 中国国庆台湾第一人",
-        "# 日常帮手 中国生成式AI用户 突破7亿人 普及率超过50%"
-      ],
-      "url": "https://www.worldjournal.com/wj/story/121339/9787908?from=wj_catelistnews&zh-cn=",
-      "source": "worldjournal.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-01T06:13:00Z"
     },
     {
       "id": "8684defde780",
@@ -673,169 +889,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-10-03T02:28:52Z"
-    },
-    {
-      "id": "89c5962af2cb",
-      "title": "Holy smoke! Google cooked OpenAI and Anthropic",
-      "summary": "Google cooked OpenAI and Anthropic 3 frontier models in a month! Anthropic will have released models that outperform it. it would be made more widely available",
-      "highlights": [
-        "Google cooked OpenAI and Anthropic 3 frontier models in a month! Anthropic will have released models that outperform it. it would be made more widely available"
-      ],
-      "url": "https://www.reddit.com/r/GeminiAI/comments/1wufg38/holy_smoke_google_cooked_openai_and_anthropic",
-      "source": "reddit.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-03T02:28:52Z"
-    }
-  ],
-  "month": [
-    {
-      "id": "4fe51f357dc0",
-      "title": "OpenAI、Meta、Manus同时下注，智能体 2.0 来了 - 潮起网",
-      "summary": "说白了，在龙虾横行的智能体1.0时代，它能干，但更需要人来做决策；但个人智能体开启的2.0时代，证明“能出主意”的主动型Agent是一套以AI为主导的用户交互逻辑。这就把原本需要人操心的工作流，解放了出来。\n\n9月初，Meta发布了个人AI Agent产品Muse。它是一个能够真正替用户执行任务的个人Agent，运行在独立的云端虚拟机上，AI可以在里面打开网页、处理邮件、预订行程、购物，并且在后台...",
-      "highlights": [
-        "说白了，在龙虾横行的智能体1.0时代，它能干，但更需要人来做决策；但个人智能体开启的2.0时代，证明“能出主意”的主动型Agent是一套以AI为主导的用户交互逻辑",
-        "这就把原本需要人操心的工作流，解放了出来",
-        "9月初，Meta发布了个人AI Agent产品Muse"
-      ],
-      "url": "https://www.ichaoqi.com/guandian/2026/1001/88038.html",
-      "source": "ichaoqi.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-01T09:30:27Z"
-    },
-    {
-      "id": "c24321e0724c",
-      "title": "一起呼吁“AI减速”？OpenAI取消最新模型发布，Anthropic却“两连发”！",
-      "summary": "OpenAI决定放弃发布新模型之际，人工智能行业正面临着对高级模型安全性日益加剧的担忧。本月初，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）在一篇文章中敦促各AI实验室放慢模型开发速度，因为人们担心这些模型正在失控。\n\nOpenAI安全系统负责人Saachi Jain在一份声明中表示：“我们当然希望确保模型开发的安全性，无论是在公司内部还是交付给用户时。但当我们将模型交...",
-      "highlights": [
-        "OpenAI决定放弃发布新模型之际，人工智能行业正面临着对高级模型安全性日益加剧的担忧",
-        "本月初，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）在一篇文章中敦促各AI实验室放慢模型开发速度，因为人们担心这些模型正在失控",
-        "OpenAI安全系统负责人Saachi Jain在一份声明中表示：“我们当然希望确保模型开发的安全性，无论是在公司内部还是交付给用户时"
-      ],
-      "url": "https://www.cls.cn/detail/2494709",
-      "source": "cls.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-01T05:00:00Z"
-    },
-    {
-      "id": "7e5eb6929289",
-      "title": "OpenAI、Meta、Manus同时下注，智能体 2.0 来了",
-      "summary": "说白了，在龙虾横行的智能体1.0时代，它能干，但更需要人来做决策；但个人智能体开启的2.0时代，证明“能出主意”的主动型Agent是一套以AI为主导的用户交互逻辑。这就把原本需要人操心的工作流，解放了出来。\n\n9月初，Meta发布了个人AI Agent产品Muse。它是一个能够真正替用户执行任务的个人Agent，运行在独立的云端虚拟机上，AI可以在里面打开网页、处理邮件、预订行程、购物，并且在后台...",
-      "highlights": [
-        "说白了，在龙虾横行的智能体1.0时代，它能干，但更需要人来做决策；但个人智能体开启的2.0时代，证明“能出主意”的主动型Agent是一套以AI为主导的用户交互逻辑",
-        "这就把原本需要人操心的工作流，解放了出来",
-        "9月初，Meta发布了个人AI Agent产品Muse"
-      ],
-      "url": "https://m.thepaper.cn/newsDetail_forward_34180411",
-      "source": "m.thepaper.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-01T09:00:00Z"
-    },
-    {
-      "id": "e860998f3503",
-      "title": "Broadcom AI Chip Revenue Hits $16.7B, Up 221% [2026]",
-      "summary": "Tan also addressed Meta’s program directly: “Shipments of Jalapeño for OpenAI will continue, and for Meta, we expect production shipments of their custom MTIA accelerator optimized for inference and r...",
-      "highlights": [
-        "Tan also addressed Meta’s program directly: “Shipments of Jalapeño for OpenAI will continue, and for Meta, we expect production shipments of their custom MTIA accelerator optimized for inference and recommendation at scale,” he said on the same call. On the Google and Anthropic side, Tan said, “During the quarter, we delivered Ironwood TPU v7, version 7 in high volume to both Anthropic and Google,” confirming that Anthropic has joined Google as a direct recipient of Broadcom-built TPU silicon [...] | Company | Core AI Hardware Model | Named Platforms / Chips | Confirmed Revenue Data Point | Named AI Customers |",
-        "| Broadcom | Custom ASICs (“XPUs”) plus AI networking silicon | Jalapeño (OpenAI), MTIA (Meta), Ironwood TPU v7 (Google/Anthropic) | $16.7B AI semiconductor revenue in Q3 FY2026, guided to $21.7B in Q4 | OpenAI, Meta, Google, Anthropic | [...] Morningstar’s coverage of the earnings call added a forward-looking detail: management confirmed that OpenAI and Anthropic are expected to become Broadcom’s two largest customers starting in 2027, according to the Morningstar analysis of the call. That would mark a shift away from Google, long considered Broadcom’s anchor TPU customer, toward the newer wave of AI-lab-driven custom silicon programs.",
-        "## Inside the Chips: Jalapeño, MTIA and Ironwood TPU v7"
-      ],
-      "url": "https://tech-insider.org/broadcom-q3-fy2026-ai-chip-revenue-16-7-billion",
-      "source": "tech-insider.org",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-01T11:10:19Z"
-    },
-    {
-      "id": "b7c12d5737a5",
-      "title": "Gemini 4 Argon is late, but Google’s expertise may be an advantage | TechTarget",
-      "summary": "OpenAI released GPT-6 Astra in early September, while Anthropic released Claude Fable 5 and Claude Mythos earlier in the year. Like the cyber model Claude Mythos, which is accessible to trusted organi...",
-      "highlights": [
-        "OpenAI released GPT-6 Astra in early September, while Anthropic released Claude Fable 5 and Claude Mythos earlier in the year. Like the cyber model Claude Mythos, which is accessible to trusted organizations under Project Glasswing, Google is first rolling out Argon to organizations in its cybersecurity program, Fairwind. OpenAI boasts a similar program, Daybreak, for GPT-5.6 Cyber.",
-        "Cybersecurity and Google tardiness [...] Argon is the tech giant’s first new top-of-the-line model since it released Gemini 3 Pro in November 2025. The new release indicates that Google is catching up with independent rivals Anthropic and OpenAI, both of which have released new flagship models in the past few months. [...] He added that Google has more than just AI in its tech arsenal. It has a reputation for its cloud infrastructure and TPU AI chips, assets that Anthropic and OpenAI largely lack. Also, Google is better equipped to integrate capabilities such as coding and cybersecurity than OpenAI and Anthropic, Nag said.",
-        "“Google has the opportunity here to connect its model capabilities to its infrastructure. They have history in enterprise applications,” he said."
-      ],
-      "url": "https://www.techtarget.com/ai/news/366651339/Gemini-4-Argon-is-late-but-Googles-expertise-may-be-an-advantage",
-      "source": "techtarget.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-01T15:13:00Z"
-    },
-    {
-      "id": "1fb122acf722",
-      "title": "日常帮手 中国生成式AI用户 突破7亿人 普及率超过50% | 中外大事纪 | 中国 | 世界新闻网",
-      "summary": "wj\n\n### 我的频道\n\n## 川普时代杂志专访：台湾芯片业者投资5千亿美元\n\n## 黄安抢先喊「祖国生日快乐」 中国国庆台湾第一人\n\n# 日常帮手 中国生成式AI用户 突破7亿人 普及率超过50%\n\n打开微信，点击底部的「发现」，使用「扫一扫」即可将网页分享至好友\n\n中国互联网络消息中心发布最新报告，截至今年上半年，中国生成式AI用户规模已突破7...\n\n### AI摘要\n\n## 文章摘要整理...",
-      "highlights": [
-        "## 川普时代杂志专访：台湾芯片业者投资5千亿美元",
-        "## 黄安抢先喊「祖国生日快乐」 中国国庆台湾第一人",
-        "# 日常帮手 中国生成式AI用户 突破7亿人 普及率超过50%"
-      ],
-      "url": "https://www.worldjournal.com/wj/story/121339/9787908?from=wj_catelistnews&zh-cn=",
-      "source": "worldjournal.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-01T06:13:00Z"
-    },
-    {
-      "id": "8684defde780",
-      "title": "华为芯片接连突破，国产模型四处找货-虎嗅网",
-      "summary": "这不是国产与海外二选一，而是国内买，海外也买。模型要继续训练，用户要继续服务，采购部门不能只准备一条路。\n\n除了向华为采购，大厂还在各自扶持、建设国产供应链。腾讯早已在为燧原的商业化买单。按燧原招股材料披露，2025年腾讯相关业务贡献其约83.79%的收入。\n\n阿里更直接，自己下场造。阿里在今年3月披露，平头哥自研GPU累计交付47万片，已经大规模用于千问的训练和推理，也通过阿里云服务外部客户。\n...",
-      "highlights": [
-        "这不是国产与海外二选一，而是国内买，海外也买",
-        "模型要继续训练，用户要继续服务，采购部门不能只准备一条路",
-        "除了向华为采购，大厂还在各自扶持、建设国产供应链"
-      ],
-      "url": "https://m.huxiu.com/article/4895142.html",
-      "source": "m.huxiu.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-02T07:37:49Z"
-    },
-    {
-      "id": "f80da97d6302",
-      "title": "2026，AI重写风投_投资界",
-      "summary": "反对的声音同样有力。\n\n总量指标处于历史\\区间：2025 年以来全球交易规模强劲反弹，IPO 市场重新打开，2026 年上半年美国 IPO 募资超过 1400 亿美元，约为 2025 年全年的三倍（Carta）；风投支持企业的退出总价值突破 2 万亿美元，上半年并购退出 421 起，为史上最忙的上半年。SpaceX 6 月以 1.77 万亿美元估值上市，AI 芯片公司 Cerebras 也以约 4...",
-      "highlights": [
-        "总量指标处于历史\\区间：2025 年以来全球交易规模强劲反弹，IPO 市场重新打开，2026 年上半年美国 IPO 募资超过 1400 亿美元，约为 2025 年全年的三倍（Carta）；风投支持企业的退出总价值突破 2 万亿美元，上半年并购退出 421 起，为史上最忙的上半年",
-        "SpaceX 6 月以 1.77 万亿美元估值上市，AI 芯片公司 Cerebras 也以约 406 亿美元估值挂牌；Anthropic 已秘密递交上市文件，最快 10 月以约 2 万亿美元估值 IPO",
-        "退出渠道重新打开，流动性确实好转——只是能迈过上市门槛的仍是头部少数"
-      ],
-      "url": "https://news.pedaily.cn/202610/569828.shtml",
-      "source": "news.pedaily.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-02T07:42:00Z"
-    },
-    {
-      "id": "a2b176256c40",
-      "title": "Does Google's new model catch up to OpenAI, Anthropic at the frontier?",
-      "summary": "Google will undoubtedly be hoping the release of a new flagship model, Gemini 4 Argon, changes that.\n\nWhen Demis Hassabis stepped down as CEO of DeepMind, Google's AI lab, in August, I wrote that new ...",
-      "highlights": [
-        "Google will undoubtedly be hoping the release of a new flagship model, Gemini 4 Argon, changes that.",
-        "When Demis Hassabis stepped down as CEO of DeepMind, Google's AI lab, in August, I wrote that new boss Koray Kavukcuoglu was inheriting a race to catch-up with Sam Altman and Dario Amodei's companies.",
-        "Now Google has touted the model as performing better than top OpenAI and Anthropic offerings in some benchmarks. [...] In this article"
-      ],
-      "url": "https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html",
-      "source": "cnbc.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-02T11:00:01Z"
-    },
-    {
-      "id": "5ce896e6c514",
-      "title": "OpenAI's Undeniable Resurgence and the Coming Liftoff of Personal AI Agents",
-      "summary": "On Tuesday, OpenAI hosted its annual DevDay and announced a flurry of products. These include a new AI model, GPT-6.1 Sol, which the startup says has near-Astra capabilities at 20% of the cost, and Ch...",
-      "highlights": [
-        "On Tuesday, OpenAI hosted its annual DevDay and announced a flurry of products. These include a new AI model, GPT-6.1 Sol, which the startup says has near-Astra capabilities at 20% of the cost, and ChatGPT Space, office productivity software that seems like a combination of Google Docs and Notion, where colleagues and their AI agents can work on documents together. OpenAI says slides functionality will come later. GPT-6.1 Sol is already a big hit, with Sam Altman calling it the fastest-growing [...] the fastest-growing OpenAI model release ever. [...] But this DevDay will likely go down in history as the event that launched Dots, OpenAI’s new always-on AI personal assistant, which is powered by GPT-6 Astra and gives each Dot a cloud computer. Dots comes three weeks after Meta launched Muse, which had already sparked a wave of excitement among users and investors about the potential and promise of digital agents."
-      ],
-      "url": "https://taekim.substack.com/p/openais-undeniable-resurgence-and",
-      "source": "taekim.substack.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-02T07:00:00Z"
     }
   ]
 }
