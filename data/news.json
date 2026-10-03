@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T15:17:09Z",
+  "updatedAt": "2026-10-03T20:15:37Z",
   "latest": [
     {
       "id": "8684defde780",
@@ -174,6 +174,21 @@
       "publishedAt": "2026-10-03T15:17:09Z"
     },
     {
+      "id": "3424104d79bc",
+      "title": "算力自立的一周：Mate 90、DeepSeek与国产AI底座的“整体换装”_搜狐网",
+      "summary": "TileLang是这条路的核心抓手。DeepSeek从V3模型开始就大量使用自研的TileLang高级语言编写算子，而非直接调用CUDA。TileLang让开发者用简洁的高级语言编程，同时通过编译器优化逼近硬件性能上限。这套抽象层带来的直接红利是：底层指令的差异被封装，开发者逻辑几乎不需要重写，昇腾就变成了CUDA之外另一个可选项。对比OpenAI自研芯片和Anthropic堆模型效率这两条路，D...",
+      "highlights": [
+        "TileLang是这条路的核心抓手",
+        "DeepSeek从V3模型开始就大量使用自研的TileLang高级语言编写算子，而非直接调用CUDA",
+        "TileLang让开发者用简洁的高级语言编程，同时通过编译器优化逼近硬件性能上限"
+      ],
+      "url": "https://m.sohu.com/a/1083688009_128075?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-03T16:12:00Z"
+    },
+    {
       "id": "6a0e559666bf",
       "title": "Instagram",
       "summary": "AI 智能体（AI Agent）的开发与上线，是指构建一个能够自主感知环境、进行规划决策、调用外部工具，并持续执行任务以达成特定目标的智能化系统。相比于传统的单次问答大模型应用，智能体项目更注重状态管理、长链条推理、工具集成与工程化稳定性。北京木奇科技有限公司，专业的智能体开发公司，欢迎交流合作。商务合作加V：muqi2026  \n  \n一个完整的 AI 智能体项目生命周期通常分为以下六个核心阶段...",
@@ -230,19 +245,6 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-10-02T14:00:00Z"
-    },
-    {
-      "id": "5ece5c6a1db3",
-      "title": "Trump Sends Strong Signal on Google's New Gemini Model - Yahoo Finance",
-      "summary": "2. Best 0% APR cards. 3. Best balance transfer cards. 2. Best high-yield savings accounts. 3. Best money market accounts. 4. Best free checking accounts. # Trump Sends Strong Signal on Google's New Ge...",
-      "highlights": [
-        "2. Best 0% APR cards. 3. Best balance transfer cards. 2. Best high-yield savings accounts. 3. Best money market accounts. 4. Best free checking accounts. # Trump Sends Strong Signal on Google's New Gemini Model. Alphabet (NASDAQ:GOOGL) shares gained after Google unveiled Gemini 4 Argon, its latest frontier AI model, while CEO Sundar Pichai drew unusual praise from President Donald Trump at a White House technology summit. The more consequential development for investors is Argon itself, which strengthens Google's position against OpenAI and Anthropic in high-value enterprise AI workloads such as coding, finance, legal research and cybersecurity. Investors should monitor the pace of Argon's broader rollout, Gemini API adoption, enterprise workloads and whether Google Cloud converts stronger AI capabilities into faster revenue growth. For Alphabet, the investor thesis is less about Trump's praise of Pichai and more about whether Gemini 4 Argon can convert technical leadership into durable cloud and AI monetization."
-      ],
-      "url": "https://finance.yahoo.com/technology/ai/articles/trump-sends-strong-signal-googles-162036569.html",
-      "source": "finance.yahoo.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-01T16:20:36Z"
     },
     {
       "id": "475d53755606",
@@ -343,6 +345,21 @@
       "publishedAt": "2026-10-02T01:05:02Z"
     },
     {
+      "id": "4b12958caea8",
+      "title": "Database startup Supabase raises $150M, acquires Turso - SiliconANGLE",
+      "summary": "The acquisition that Supabase announced in conjunction with its funding round will extend its AI capabilities. Turso offers a database optimized for AI agents. It’s based on SQlite, an open-source rel...",
+      "highlights": [
+        "The acquisition that Supabase announced in conjunction with its funding round will extend its AI capabilities. Turso offers a database optimized for AI agents. It’s based on SQlite, an open-source relational store with a small hardware footprint. SQLite can run on low-power devices such as smartphones and wearables. [...] UPDATED 18:16 EDT / OCTOBER 02 2026",
+        "### Database startup Supabase raises $150M, acquires Turso",
+        "Supabase Inc., a startup that commercializes the open-source PostgreSQL database, has raised $150 million in funding."
+      ],
+      "url": "https://siliconangle.com/2026/10/02/database-startup-supabase-raises-150m-acquires-turso",
+      "source": "siliconangle.com",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-10-02T22:16:50Z"
+    },
+    {
       "id": "981dd6fff75f",
       "title": "The Week’s 10 Biggest Funding Rounds: Almost All About AI",
       "summary": "# The Week’s 10 Biggest Funding Rounds: Almost All About AI\n\nJoanna Glasner\n\nOctober 2, 2026\n\nIllustration of gardener holding a rake. Venture\n\n Joanna Glasner jglasner\n\n Email\n Facebook\n Twitter\n Lin...",
@@ -397,6 +414,21 @@
       "category": "投并购",
       "importance": 2,
       "publishedAt": "2026-10-03T15:17:09Z"
+    },
+    {
+      "id": "b4b2ec3bdfe6",
+      "title": "Seattle voice AI startup Ultravox, formerly known as Fixie, acquired by Inworld – GeekWire",
+      "summary": "GeekWire Logo\n\n##### Menu\n\nWhat happens here matters everywhere.\n\n# Seattle voice AI startup Ultravox, formerly known as Fixie, acquired by Inworld\n\nChronicling the Seattle and Pacific Northwest start...",
+      "highlights": [
+        "GeekWire Logo",
+        "What happens here matters everywhere.",
+        "# Seattle voice AI startup Ultravox, formerly known as Fixie, acquired by Inworld"
+      ],
+      "url": "https://www.geekwire.com/2026/seattle-voice-ai-startup-ultravox-formerly-known-as-fixie-acquired-by-inworld",
+      "source": "geekwire.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-02T16:11:50Z"
     }
   ],
   "today": [
@@ -470,6 +502,21 @@
       "publishedAt": "2026-10-03T15:17:09Z"
     },
     {
+      "id": "3424104d79bc",
+      "title": "算力自立的一周：Mate 90、DeepSeek与国产AI底座的“整体换装”_搜狐网",
+      "summary": "TileLang是这条路的核心抓手。DeepSeek从V3模型开始就大量使用自研的TileLang高级语言编写算子，而非直接调用CUDA。TileLang让开发者用简洁的高级语言编程，同时通过编译器优化逼近硬件性能上限。这套抽象层带来的直接红利是：底层指令的差异被封装，开发者逻辑几乎不需要重写，昇腾就变成了CUDA之外另一个可选项。对比OpenAI自研芯片和Anthropic堆模型效率这两条路，D...",
+      "highlights": [
+        "TileLang是这条路的核心抓手",
+        "DeepSeek从V3模型开始就大量使用自研的TileLang高级语言编写算子，而非直接调用CUDA",
+        "TileLang让开发者用简洁的高级语言编程，同时通过编译器优化逼近硬件性能上限"
+      ],
+      "url": "https://m.sohu.com/a/1083688009_128075?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-03T16:12:00Z"
+    },
+    {
       "id": "512e2ed312fe",
       "title": "Will hardware-level enforcement stop AI models from ...",
       "summary": "Another OpenAI deployment executed a hack against Hugging Face. Anthropic recorded three incidents where testing software infiltrated external companies. In",
@@ -525,36 +572,6 @@
     }
   ],
   "week": [
-    {
-      "id": "e860998f3503",
-      "title": "Broadcom AI Chip Revenue Hits $16.7B, Up 221% [2026]",
-      "summary": "Tan also addressed Meta’s program directly: “Shipments of Jalapeño for OpenAI will continue, and for Meta, we expect production shipments of their custom MTIA accelerator optimized for inference and r...",
-      "highlights": [
-        "Tan also addressed Meta’s program directly: “Shipments of Jalapeño for OpenAI will continue, and for Meta, we expect production shipments of their custom MTIA accelerator optimized for inference and recommendation at scale,” he said on the same call. On the Google and Anthropic side, Tan said, “During the quarter, we delivered Ironwood TPU v7, version 7 in high volume to both Anthropic and Google,” confirming that Anthropic has joined Google as a direct recipient of Broadcom-built TPU silicon [...] | Company | Core AI Hardware Model | Named Platforms / Chips | Confirmed Revenue Data Point | Named AI Customers |",
-        "| Broadcom | Custom ASICs (“XPUs”) plus AI networking silicon | Jalapeño (OpenAI), MTIA (Meta), Ironwood TPU v7 (Google/Anthropic) | $16.7B AI semiconductor revenue in Q3 FY2026, guided to $21.7B in Q4 | OpenAI, Meta, Google, Anthropic | [...] Morningstar’s coverage of the earnings call added a forward-looking detail: management confirmed that OpenAI and Anthropic are expected to become Broadcom’s two largest customers starting in 2027, according to the Morningstar analysis of the call. That would mark a shift away from Google, long considered Broadcom’s anchor TPU customer, toward the newer wave of AI-lab-driven custom silicon programs.",
-        "## Inside the Chips: Jalapeño, MTIA and Ironwood TPU v7"
-      ],
-      "url": "https://tech-insider.org/broadcom-q3-fy2026-ai-chip-revenue-16-7-billion",
-      "source": "tech-insider.org",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-01T11:10:19Z"
-    },
-    {
-      "id": "b7c12d5737a5",
-      "title": "Gemini 4 Argon is late, but Google’s expertise may be an advantage | TechTarget",
-      "summary": "OpenAI released GPT-6 Astra in early September, while Anthropic released Claude Fable 5 and Claude Mythos earlier in the year. Like the cyber model Claude Mythos, which is accessible to trusted organi...",
-      "highlights": [
-        "OpenAI released GPT-6 Astra in early September, while Anthropic released Claude Fable 5 and Claude Mythos earlier in the year. Like the cyber model Claude Mythos, which is accessible to trusted organizations under Project Glasswing, Google is first rolling out Argon to organizations in its cybersecurity program, Fairwind. OpenAI boasts a similar program, Daybreak, for GPT-5.6 Cyber.",
-        "Cybersecurity and Google tardiness [...] Argon is the tech giant’s first new top-of-the-line model since it released Gemini 3 Pro in November 2025. The new release indicates that Google is catching up with independent rivals Anthropic and OpenAI, both of which have released new flagship models in the past few months. [...] He added that Google has more than just AI in its tech arsenal. It has a reputation for its cloud infrastructure and TPU AI chips, assets that Anthropic and OpenAI largely lack. Also, Google is better equipped to integrate capabilities such as coding and cybersecurity than OpenAI and Anthropic, Nag said.",
-        "“Google has the opportunity here to connect its model capabilities to its infrastructure. They have history in enterprise applications,” he said."
-      ],
-      "url": "https://www.techtarget.com/ai/news/366651339/Gemini-4-Argon-is-late-but-Googles-expertise-may-be-an-advantage",
-      "source": "techtarget.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-01T15:13:00Z"
-    },
     {
       "id": "8684defde780",
       "title": "华为芯片接连突破，国产模型四处找货-虎嗅网",
@@ -642,19 +659,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-10-02T14:00:15Z"
-    },
-    {
-      "id": "68e9fdf67b9d",
-      "title": "Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing deal - Yahoo Finance",
-      "summary": "2. Best 0% APR Cards. # Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing deal. Anthropic (ANTH.PVT) has inked a series of deals with tech heavyweights ranging ...",
-      "highlights": [
-        "2. Best 0% APR Cards. # Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing deal. Anthropic (ANTH.PVT) has inked a series of deals with tech heavyweights ranging from Amazon to Microsoft to both finance and provide computing capacity for the company's AI models. According to Reuters, which obtained Anthropic's IPO prospectus, Broadcom is lending up to $42 billion to Anthropic for its infrastructure buildout. In April, Anthropic announced it was teaming up with Broadcom and Google for a deal that would see Google provide its Tensor Processing Unit (TPU) capacity to Anthropic, with the supply coming online in 2027. Broadcom rivals Nvidia and AMD have also provided funding to their own customers, including OpenAI and Anthropic, which the labs then used to pay for access to the companies' high-powered chips. **Read the latest financial and business news from Yahoo Finance**."
-      ],
-      "url": "https://finance.yahoo.com/technology/article/broadcom-to-lend-anthropic-up-to-42-billion-to-lease-chips-in-latest-circular-investing-deal-121617505.html",
-      "source": "finance.yahoo.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-01T14:37:32Z"
     },
     {
       "id": "335ea007fa27",
@@ -713,37 +717,33 @@
       "publishedAt": "2026-10-02T15:19:09Z"
     },
     {
-      "id": "4fe51f357dc0",
-      "title": "OpenAI、Meta、Manus同时下注，智能体 2.0 来了 - 潮起网",
-      "summary": "说白了，在龙虾横行的智能体1.0时代，它能干，但更需要人来做决策；但个人智能体开启的2.0时代，证明“能出主意”的主动型Agent是一套以AI为主导的用户交互逻辑。这就把原本需要人操心的工作流，解放了出来。\n\n9月初，Meta发布了个人AI Agent产品Muse。它是一个能够真正替用户执行任务的个人Agent，运行在独立的云端虚拟机上，AI可以在里面打开网页、处理邮件、预订行程、购物，并且在后台...",
+      "id": "85a40a87999b",
+      "title": "又一个00后造富神话-虎嗅网",
+      "summary": "## 23岁辍学生创业\n\nShinn不是突然冒出来的。\n\n本科就读于美国东北大学期间，他在校内的编程语言研究组从事类型预测和代码生成研究，也在MIT参与过机器学习与编程语言的交叉工作。\n\n真正让他在学术圈扬名的，是一篇论文。2023年，他以一作身份在NeurIPS发表了Reflexion，提出让AI智能体在任务失败后，用自然语言复盘错误、存入记忆，在后续任务中复用经验。这篇论文被视为AI Agen...",
       "highlights": [
-        "说白了，在龙虾横行的智能体1.0时代，它能干，但更需要人来做决策；但个人智能体开启的2.0时代，证明“能出主意”的主动型Agent是一套以AI为主导的用户交互逻辑",
-        "这就把原本需要人操心的工作流，解放了出来",
-        "9月初，Meta发布了个人AI Agent产品Muse"
+        "## 23岁辍学生创业",
+        "Shinn不是突然冒出来的",
+        "本科就读于美国东北大学期间，他在校内的编程语言研究组从事类型预测和代码生成研究，也在MIT参与过机器学习与编程语言的交叉工作"
       ],
-      "url": "https://www.ichaoqi.com/guandian/2026/1001/88038.html",
-      "source": "ichaoqi.com",
+      "url": "https://m.huxiu.com/article/4895259.html?type=text",
+      "source": "m.huxiu.com",
       "category": "产品进展",
       "importance": 5,
-      "publishedAt": "2026-10-01T09:30:27Z"
+      "publishedAt": "2026-10-03T07:06:59Z"
     },
     {
-      "id": "c24321e0724c",
-      "title": "一起呼吁“AI减速”？OpenAI取消最新模型发布，Anthropic却“两连发”！",
-      "summary": "OpenAI决定放弃发布新模型之际，人工智能行业正面临着对高级模型安全性日益加剧的担忧。本月初，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）在一篇文章中敦促各AI实验室放慢模型开发速度，因为人们担心这些模型正在失控。\n\nOpenAI安全系统负责人Saachi Jain在一份声明中表示：“我们当然希望确保模型开发的安全性，无论是在公司内部还是交付给用户时。但当我们将模型交...",
+      "id": "4e86453759fe",
+      "title": "Anthropic launched Claude Opus 5.5, its latest flagship ...",
+      "summary": "From OpenAI's GPT-6 models and Anthropic's Claude Opus 5.5 to Microsoft's fourth India cloud region, Grok 4.7, Gemini's Live Avatar, and Alibaba's Zhenwu V900,",
       "highlights": [
-        "OpenAI决定放弃发布新模型之际，人工智能行业正面临着对高级模型安全性日益加剧的担忧",
-        "本月初，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）在一篇文章中敦促各AI实验室放慢模型开发速度，因为人们担心这些模型正在失控",
-        "OpenAI安全系统负责人Saachi Jain在一份声明中表示：“我们当然希望确保模型开发的安全性，无论是在公司内部还是交付给用户时"
+        "From OpenAI's GPT-6 models and Anthropic's Claude Opus 5.5 to Microsoft's fourth India cloud region, Grok 4.7, Gemini's Live Avatar, and Alibaba's Zhenwu V900,"
       ],
-      "url": "https://www.cls.cn/detail/2494709",
-      "source": "cls.cn",
+      "url": "https://www.instagram.com/reel/Dd5esyhAlex",
+      "source": "instagram.com",
       "category": "模型发布",
       "importance": 5,
-      "publishedAt": "2026-10-01T05:00:00Z"
-    }
-  ],
-  "month": [
+      "publishedAt": "2026-10-03T15:17:09Z"
+    },
     {
       "id": "e860998f3503",
       "title": "Broadcom AI Chip Revenue Hits $16.7B, Up 221% [2026]",
@@ -774,6 +774,21 @@
       "importance": 5,
       "publishedAt": "2026-10-01T15:13:00Z"
     },
+    {
+      "id": "68e9fdf67b9d",
+      "title": "Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing deal - Yahoo Finance",
+      "summary": "2. Best 0% APR Cards. # Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing deal. Anthropic (ANTH.PVT) has inked a series of deals with tech heavyweights ranging ...",
+      "highlights": [
+        "2. Best 0% APR Cards. # Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing deal. Anthropic (ANTH.PVT) has inked a series of deals with tech heavyweights ranging from Amazon to Microsoft to both finance and provide computing capacity for the company's AI models. According to Reuters, which obtained Anthropic's IPO prospectus, Broadcom is lending up to $42 billion to Anthropic for its infrastructure buildout. In April, Anthropic announced it was teaming up with Broadcom and Google for a deal that would see Google provide its Tensor Processing Unit (TPU) capacity to Anthropic, with the supply coming online in 2027. Broadcom rivals Nvidia and AMD have also provided funding to their own customers, including OpenAI and Anthropic, which the labs then used to pay for access to the companies' high-powered chips. **Read the latest financial and business news from Yahoo Finance**."
+      ],
+      "url": "https://finance.yahoo.com/technology/article/broadcom-to-lend-anthropic-up-to-42-billion-to-lease-chips-in-latest-circular-investing-deal-121617505.html",
+      "source": "finance.yahoo.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-01T14:37:32Z"
+    }
+  ],
+  "month": [
     {
       "id": "8684defde780",
       "title": "华为芯片接连突破，国产模型四处找货-虎嗅网",
@@ -863,19 +878,6 @@
       "publishedAt": "2026-10-02T14:00:15Z"
     },
     {
-      "id": "68e9fdf67b9d",
-      "title": "Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing deal - Yahoo Finance",
-      "summary": "2. Best 0% APR Cards. # Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing deal. Anthropic (ANTH.PVT) has inked a series of deals with tech heavyweights ranging ...",
-      "highlights": [
-        "2. Best 0% APR Cards. # Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing deal. Anthropic (ANTH.PVT) has inked a series of deals with tech heavyweights ranging from Amazon to Microsoft to both finance and provide computing capacity for the company's AI models. According to Reuters, which obtained Anthropic's IPO prospectus, Broadcom is lending up to $42 billion to Anthropic for its infrastructure buildout. In April, Anthropic announced it was teaming up with Broadcom and Google for a deal that would see Google provide its Tensor Processing Unit (TPU) capacity to Anthropic, with the supply coming online in 2027. Broadcom rivals Nvidia and AMD have also provided funding to their own customers, including OpenAI and Anthropic, which the labs then used to pay for access to the companies' high-powered chips. **Read the latest financial and business news from Yahoo Finance**."
-      ],
-      "url": "https://finance.yahoo.com/technology/article/broadcom-to-lend-anthropic-up-to-42-billion-to-lease-chips-in-latest-circular-investing-deal-121617505.html",
-      "source": "finance.yahoo.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-01T14:37:32Z"
-    },
-    {
       "id": "335ea007fa27",
       "title": "4.3K views · 51 reactions | Nvidia announced the Open Agent Safety Platform to prevent the type of breakout that occurred when OpenAI models accessed HuggingFace.\n\nOpenAI, Anthropic, Meta, and Google have all disclosed recent incidents where their AI models escaped their sandboxes.\n\nNvidia said Cisco, Microsoft, Oracle, CoreWeave, Dell, HPE, Lenovo, ARM and Intel are partners.\n\nRead the latest here: cnb.cx/4hi2OXl | CNBC",
       "summary": "[](\n\nOpenAI said over the weekend that it is carrying out an extensive review of its models' actions and has paused training of the most powerful models. Read more: cnb.cx/4ydH8l0\n\nCNBC\n\n674 views\n\n ·...",
@@ -889,6 +891,47 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-10-03T02:28:52Z"
+    },
+    {
+      "id": "89c5962af2cb",
+      "title": "Holy smoke! Google cooked OpenAI and Anthropic",
+      "summary": "Google cooked OpenAI and Anthropic 3 frontier models in a month! Anthropic will have released models that outperform it. it would be made more widely available",
+      "highlights": [
+        "Google cooked OpenAI and Anthropic 3 frontier models in a month! Anthropic will have released models that outperform it. it would be made more widely available"
+      ],
+      "url": "https://www.reddit.com/r/GeminiAI/comments/1wufg38/holy_smoke_google_cooked_openai_and_anthropic",
+      "source": "reddit.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-03T02:28:52Z"
+    },
+    {
+      "id": "dbb2dc712a8c",
+      "title": "Nvidia announced the Open Agent Safety Platform ...",
+      "summary": "OpenAI, Anthropic, Meta, and Google have all disclosed recent incidents where their AI models escaped their sandboxes.",
+      "highlights": [
+        "OpenAI, Anthropic, Meta, and Google have all disclosed recent incidents where their AI models escaped their sandboxes."
+      ],
+      "url": "https://www.instagram.com/reel/Dd1BVW-jBae",
+      "source": "instagram.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-03T02:28:52Z"
+    },
+    {
+      "id": "95796ced730b",
+      "title": "谷歌一直在追赶OpenAI与Anthropic，其全新旗舰模型真能跻身前沿梯队吗？_新浪财经_新浪网",
+      "summary": "新浪首页\n 新闻\n 体育\n 财经\n 娱乐\n 科技\n 博客\n 图片\n 专栏\n 更多\n\n 汽车 教育 时尚 女性 星座 健康\n 房产历史视频收藏育儿读书\n 佛学游戏旅游邮箱导航\n\n 新浪微博\n 新浪新闻\n 新浪财经\n 新浪体育\n 新浪众测\n 新浪博客\n 新浪视频\n 新浪游戏\n 天气通\n\n[](\n\n美股 > 正文\n\n# 谷歌一直在追赶OpenAI与Anthropic，其全新旗舰模型真能跻身前沿梯队吗？\n...",
+      "highlights": [
+        "汽车 教育 时尚 女性 星座 健康",
+        "房产历史视频收藏育儿读书",
+        "# 谷歌一直在追赶OpenAI与Anthropic，其全新旗舰模型真能跻身前沿梯队吗"
+      ],
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-02/doc-initwenz7051030.shtml",
+      "source": "finance.sina.com.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-02T15:19:09Z"
     }
   ]
 }
