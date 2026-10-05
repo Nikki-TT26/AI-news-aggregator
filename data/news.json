@@ -1,6 +1,739 @@
 {
-  "updatedAt": "2026-10-05T02:33:03Z",
+  "updatedAt": "2026-10-05T12:47:02Z",
   "latest": [
+    {
+      "id": "4e86453759fe",
+      "title": "Anthropic launched Claude Opus 5.5, its latest flagship ...",
+      "summary": "From OpenAI's GPT-6 models and Anthropic's Claude Opus 5.5 to Microsoft's fourth India cloud region, Grok 4.7, Gemini's Live Avatar, and Alibaba's Zhenwu V900,",
+      "highlights": [
+        "From OpenAI's GPT-6 models and Anthropic's Claude Opus 5.5 to Microsoft's fourth India cloud region, Grok 4.7, Gemini's Live Avatar, and Alibaba's Zhenwu V900,"
+      ],
+      "url": "https://www.instagram.com/reel/Dd5esyhAlex",
+      "source": "instagram.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-03T15:17:09Z"
+    },
+    {
+      "id": "3424104d79bc",
+      "title": "算力自立的一周：Mate 90、DeepSeek与国产AI底座的“整体换装”_搜狐网",
+      "summary": "TileLang是这条路的核心抓手。DeepSeek从V3模型开始就大量使用自研的TileLang高级语言编写算子，而非直接调用CUDA。TileLang让开发者用简洁的高级语言编程，同时通过编译器优化逼近硬件性能上限。这套抽象层带来的直接红利是：底层指令的差异被封装，开发者逻辑几乎不需要重写，昇腾就变成了CUDA之外另一个可选项。对比OpenAI自研芯片和Anthropic堆模型效率这两条路，D...",
+      "highlights": [
+        "TileLang是这条路的核心抓手",
+        "DeepSeek从V3模型开始就大量使用自研的TileLang高级语言编写算子，而非直接调用CUDA",
+        "TileLang让开发者用简洁的高级语言编程，同时通过编译器优化逼近硬件性能上限"
+      ],
+      "url": "https://m.sohu.com/a/1083688009_128075?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-03T16:12:00Z"
+    },
+    {
+      "id": "5f13d670f7c1",
+      "title": "AI定制芯片概念股盘点：博通之外，迈威尔科技、台积电、Amkor谁更值得关注？",
+      "summary": "在产业链中，博通（AVGO）、迈威尔（MRVL）分别参与定制ASIC及相关芯片平台，台积电（TSM）提供先进制程晶圆代工和先进封装，Amkor（AMKR）则聚焦OSAT及先进封装与测试。那么，对于投资者而言，除主要供应商博通外，迈威尔科技、台积电、Amkor谁更值得关注？\n\n## 什么是AI定制芯片？\n\nAI定制芯片是针对特定客户、模型或计算任务开发的专用集成电路（ASIC），可根据具体工作负载优...",
+      "highlights": [
+        "在产业链中，博通（AVGO）、迈威尔（MRVL）分别参与定制ASIC及相关芯片平台，台积电（TSM）提供先进制程晶圆代工和先进封装，Amkor（AMKR）则聚焦OSAT及先进封装与测试",
+        "那么，对于投资者而言，除主要供应商博通外，迈威尔科技、台积电、Amkor谁更值得关注",
+        "## 什么是AI定制芯片"
+      ],
+      "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262191551-tsm-mrvl-akmor-ai-acsi-tsml-jay-tradingkey",
+      "source": "tradingkey.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-04T01:00:00Z"
+    },
+    {
+      "id": "eca2dfe49abd",
+      "title": "AI content",
+      "summary": "AI got very practical last week. OpenAI launched Astra, Anthropic released Fable and Mythos 5.1, and Google introduced a new AI weather model. We also saw",
+      "highlights": [
+        "AI got very practical last week. OpenAI launched Astra, Anthropic released Fable and Mythos 5.1, and Google introduced a new AI weather model. We also saw"
+      ],
+      "url": "https://www.instagram.com/reel/DeCK9gnSXLZ",
+      "source": "instagram.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-04T20:32:03Z"
+    },
+    {
+      "id": "c24321e0724c",
+      "title": "一起呼吁“AI减速”？OpenAI取消最新模型发布，Anthropic却“两连发”！",
+      "summary": "OpenAI决定放弃发布新模型之际，人工智能行业正面临着对高级模型安全性日益加剧的担忧。本月初，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）在一篇文章中敦促各AI实验室放慢模型开发速度，因为人们担心这些模型正在失控。\n\nOpenAI安全系统负责人Saachi Jain在一份声明中表示：“我们当然希望确保模型开发的安全性，无论是在公司内部还是交付给用户时。但当我们将模型交...",
+      "highlights": [
+        "OpenAI决定放弃发布新模型之际，人工智能行业正面临着对高级模型安全性日益加剧的担忧",
+        "本月初，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）在一篇文章中敦促各AI实验室放慢模型开发速度，因为人们担心这些模型正在失控",
+        "OpenAI安全系统负责人Saachi Jain在一份声明中表示：“我们当然希望确保模型开发的安全性，无论是在公司内部还是交付给用户时"
+      ],
+      "url": "https://www.cls.cn/detail/2494709",
+      "source": "cls.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-05T00:00:00Z"
+    },
+    {
+      "id": "18f7b31c9459",
+      "title": "硬科技早报｜腾讯70亿美元算力租赁；阿里欧洲算电协同；韬芯片照片曝光",
+      "summary": "日前，微软研究院推出实验性AI研究系统Quine，旨在构建生物学多模态世界模型，并搭建连接模型、科学工具、文献和科研人员的交互式harness框架，推动AI从辅助分析进一步走向科研发现。微软并非近期唯一加码AI4S的科技巨头。就在9月23日，Anthropic宣布成立生命科学研究团队和实验室，并披露了Claude参与生物学研究取得的早期成果。Claude在分析超过20万个逆转录酶（RT）序列后，选...",
+      "highlights": [
+        "日前，微软研究院推出实验性AI研究系统Quine，旨在构建生物学多模态世界模型，并搭建连接模型、科学工具、文献和科研人员的交互式harness框架，推动AI从辅助分析进一步走向科研发现",
+        "微软并非近期唯一加码AI4S的科技巨头",
+        "就在9月23日，Anthropic宣布成立生命科学研究团队和实验室，并披露了Claude参与生物学研究取得的早期成果"
+      ],
+      "url": "https://www.guancha.cn/CaiJing/2026_10_04_903153.shtml",
+      "source": "guancha.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-04T12:00:00Z"
+    },
+    {
+      "id": "890e83a79266",
+      "title": "刚刚，Hinton发了首篇RSI论文 – 量子位",
+      "summary": "甚至未来回头看，2026年真正值得记住的节点，可能还真不是某个模型又多拿了几分。\n\n恐怕是人类第一次开始认真意识到，AI最猛的一次Scaling，可能发生在「研究AI」这件事本身。\n\n参考链接：\n\n### 相关阅读\n\n#### 探索RSI，生数新世界模型让机器人开始自我进化\n\n#### AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI\n\n小模型突破瓶颈，旗舰模型打开新空间\n\n##...",
+      "highlights": [
+        "甚至未来回头看，2026年真正值得记住的节点，可能还真不是某个模型又多拿了几分",
+        "恐怕是人类第一次开始认真意识到，AI最猛的一次Scaling，可能发生在「研究AI」这件事本身",
+        "#### 探索RSI，生数新世界模型让机器人开始自我进化"
+      ],
+      "url": "https://www.qbitai.com/2026/10/501705.html",
+      "source": "qbitai.com",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-10-05T04:00:00Z"
+    },
+    {
+      "id": "070570a03a31",
+      "title": "As OpenAI and Anthropic battle over data privacy, more companies turn to open models | Fortune",
+      "summary": "The latest string of “rogue AI” incidents have heightened fears that the latest models will either scrape data, or publish it for the world to see, without the business’ permission. [...] Given these ...",
+      "highlights": [
+        "The latest string of “rogue AI” incidents have heightened fears that the latest models will either scrape data, or publish it for the world to see, without the business’ permission. [...] Given these concerns, companies are looking to diversify their AI usage, and reduce their dependency on the leading AI companies. The term du jour for this is “sovereign AI,” referring to a company’s ability to control its own “AI stack”—everything from owning the chips on which AI workloads run, to setting up proprietary cloud infrastructure, to using open source models that a company can download and run in their own cloud environments. [...] Fortune Daily breaks the traditional barrier between audience and newsroom. The show transforms Fortune’s trusted reporting into actionable, conversational, and entertaining insights for an emerging class of business leaders. Watch here.",
+        "About the Author",
+        "Emily Forlini"
+      ],
+      "url": "https://fortune.com/2026/10/05/openai-and-anthropic-battle-over-zero-data-retention-zdr-data-privacy-companies-look-to-open-models-and-sovereign-ai",
+      "source": "fortune.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-05T10:00:00Z"
+    },
+    {
+      "id": "9d21f57e72cd",
+      "title": "深度｜对话 Google Research 负责人：暴力堆卡已到尽头，下一代架构不在预训练里_搜狐网",
+      "summary": "现有架构的限制，并不等于 AI 的极限。Scaling law 描述的是沿着既有技术路线增加数据和算力的收益，但新的算法与架构仍可能改变效率边界。Matias 以投机解码为例，强调研究还要不断寻找全新的方法，而下一轮更大幅度的提升仍有待突破。\n AI 最成熟的形态是人们不再需要时刻注意它。他将这种状态称为“环境智能”（ambient intelligence）：智能自然融入日常体验，用户可以专注于...",
+      "highlights": [
+        "现有架构的限制，并不等于 AI 的极限",
+        "Scaling law 描述的是沿着既有技术路线增加数据和算力的收益，但新的算法与架构仍可能改变效率边界",
+        "Matias 以投机解码为例，强调研究还要不断寻找全新的方法，而下一轮更大幅度的提升仍有待突破"
+      ],
+      "url": "https://m.sohu.com/a/1083972741_122074763?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "前沿理论",
+      "importance": 4,
+      "publishedAt": "2026-10-04T13:30:05Z"
+    },
+    {
+      "id": "475d53755606",
+      "title": "AI 大模型世界",
+      "summary": "国外 ; Claude Opus 5.5. Anthropic · 世界#1 ; GPT-6 Astra. OpenAI · 世界#2 ; Gemini 3.8 Flash. 谷歌 · 世界#15 ; Muse Spark 1.3. Meta · 世界#17 ; Grok 4.7. xAI · 暂无.",
+      "highlights": [
+        "国外 ; Claude Opus 5.5. Anthropic · 世界#1 ; GPT-6 Astra. OpenAI · 世界#2 ; Gemini 3.8 Flash. 谷歌 · 世界#15 ; Muse Spark 1.3. Meta · 世界#17 ; Grok 4.7. xAI · 暂无."
+      ],
+      "url": "https://www.bilibili.com/toy/ai-model-world",
+      "source": "bilibili.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-05T07:00:00Z"
+    },
+    {
+      "id": "6a0e559666bf",
+      "title": "Instagram",
+      "summary": "AI 智能体（AI Agent）的开发与上线，是指构建一个能够自主感知环境、进行规划决策、调用外部工具，并持续执行任务以达成特定目标的智能化系统。相比于传统的单次问答大模型应用，智能体项目更注重状态管理、长链条推理、工具集成与工程化稳定性。北京木奇科技有限公司，专业的智能体开发公司，欢迎交流合作。商务合作加V：muqi2026  \n  \n一个完整的 AI 智能体项目生命周期通常分为以下六个核心阶段...",
+      "highlights": [
+        "AI 智能体（AI Agent）的开发与上线，是指构建一个能够自主感知环境、进行规划决策、调用外部工具，并持续执行任务以达成特定目标的智能化系统",
+        "相比于传统的单次问答大模型应用，智能体项目更注重状态管理、长链条推理、工具集成与工程化稳定性",
+        "北京木奇科技有限公司，专业的智能体开发公司，欢迎交流合作"
+      ],
+      "url": "https://www.instagram.com/p/Dd2xTvwlPCn",
+      "source": "instagram.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-05T12:47:02Z"
+    },
+    {
+      "id": "efeaceb97e8e",
+      "title": "2026 中国AI Agent 产业全景：全面跟进全球“行动式AI”新范式",
+      "summary": "智能体(Personal Agent) 月正式发布Manus 2.0 … 中国科技企业已完成全员入场、全线对标、全域落地, 形成覆盖个人生活、职场办公、企业组织、政企合规的完整智能体产品矩阵",
+      "highlights": [
+        "智能体(Personal Agent) 月正式发布Manus 2.0 … 中国科技企业已完成全员入场、全线对标、全域落地, 形成覆盖个人生活、职场办公、企业组织、政企合规的完整智能体产品矩阵"
+      ],
+      "url": "https://www.facebook.com/groups/370716739681554/posts/28448934308099754",
+      "source": "facebook.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-05T12:47:02Z"
+    },
+    {
+      "id": "96f4ac9913d9",
+      "title": "2. ​万物自主化（4,000 亿美元） 利用人工智能实现乘用车、卡车和无人机等载具的自主运行，以及推动其他工业自动化项目，代表着 4,000 亿美元的市场机会。这不仅能提高设备的正常运行时间，还能降低培训与运营成本。自动驾驶载具可以作为面向消费者的新型汽车与卡车、无人驾驶出租车服务，以及通过物流自动化服务来释放巨大的商业价值。 2. ​具身/物理智能（9,000 亿美元） 先进的人工智能模型能够实现对物理过程的高保真模拟和数字孪生，帮助企业提高生产力、测试方案修改，并加速自主系统的部署。同样，由人工智能驱动的机器人（包括具身人形机器人）能够在非结构化环境中作业，从而在实体经济中解锁广泛的新应用，涵盖从制造业到外科手术的各个领域。因此，在良率提升和新工厂爬坡提速带来研发与制造成本降低 10% 的假设下，实体经济在重点行业（包括汽车、电子、半导体以及航空航天与国防）可能孕育出 9,000 亿美元的市场机遇。",
+      "summary": "Home\n\nNew thread\n\nSearch\n\nMessages\n\nActivity\n\nProfile\n\nInsights\n\nLog in\n\nMore\n\n# Thread\n\n69 views\n\ncheeweng96's profile picture\n\ncheeweng96\n\n2. ​万物自主化（4,000 亿美元） 利用人工智能实现乘用车、卡车和无人机等载具的自主运行，以及推动其他工业自动化...",
+      "highlights": [
+        "cheeweng96's profile picture",
+        "2. ​万物自主化（4,000 亿美元） 利用人工智能实现乘用车、卡车和无人机等载具的自主运行，以及推动其他工业自动化项目，代表着 4,000 亿美元的市场机会",
+        "这不仅能提高设备的正常运行时间，还能降低培训与运营成本"
+      ],
+      "url": "https://www.threads.com/@cheeweng96/post/DeDmbrAEsd0/2-%E4%B8%87%E7%89%A9%E8%87%AA%E4%B8%BB%E5%8C%964000-%E4%BA%BF%E7%BE%8E%E5%85%83%E5%88%A9%E7%94%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%9E%E7%8E%B0%E4%B9%98%E7%94%A8%E8%BD%A6%E5%8D%A1%E8%BD%A6%E5%92%8C%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%AD%89%E8%BD%BD%E5%85%B7%E7%9A%84%E8%87%AA%E4%B8%BB%E8%BF%90%E8%A1%8C%E4%BB%A5%E5%8F%8A%E6%8E%A8%E5%8A%A8%E5%85%B6%E4%BB%96%E5%B7%A5%E4%B8%9A%E8%87%AA%E5%8A%A8%E5%8C%96%E9%A1%B9%E7%9B%AE%E4%BB%A3%E8%A1%A8%E7%9D%80-4000-%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%B8%82%E5%9C%BA%E6%9C%BA%E4%BC%9A%E8%BF%99%E4%B8%8D%E4%BB%85%E8%83%BD%E6%8F%90%E9%AB%98%E8%AE%BE%E5%A4%87%E7%9A%84%E6%AD%A3",
+      "source": "threads.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-10-05T12:47:02Z"
+    },
+    {
+      "id": "1177d17ac6cb",
+      "title": "新商学案例｜国产智驾芯片出货量第一的地平线如何拓展AI应用新场景？|智能驾驶|征程|算法|机器人|车辆_新浪新闻",
+      "summary": "这些测试既呈现了现有能力，也暴露了仍需解决的长尾场景。这些积累为地平线向更多新场景延伸提供了依据。\n\n　　技术同源\n\n　　把智驾能力延伸至机器人\n\n　　从智能驾驶向机器人延伸，是当前人工智能产业探索的方向之一，也是地平线尝试复用既有技术能力的下一步探索。具身智能已连续两年写入《政府工作报告》，“十五五”规划纲要将具身智能等列为新的经济增长点。国务院《关于深入实施“人工智能+”行动的意见》也提出，大...",
+      "highlights": [
+        "这些测试既呈现了现有能力，也暴露了仍需解决的长尾场景",
+        "这些积累为地平线向更多新场景延伸提供了依据",
+        "把智驾能力延伸至机器人"
+      ],
+      "url": "https://k.sina.com.cn/article_3215951873_bfaf880102702m7sk.html?from=tech",
+      "source": "k.sina.com.cn",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-10-04T10:47:09Z"
+    },
+    {
+      "id": "f112aa75c0ea",
+      "title": "AI大模型产业最新动态:十大热点新闻与解读 -2026年10月4日",
+      "summary": "OpenAI在开发者日上宣布推出全新大模型及自主AI智能体“Dots... 据最新消息显示,豆包此前在个人助理方向推进的探索项目(代号...",
+      "highlights": [
+        "OpenAI在开发者日上宣布推出全新大模型及自主AI智能体“Dots... 据最新消息显示,豆包此前在个人助理方向推进的探索项目(代号..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS23kq76XDGy_O5DAnvcL3EZRH0bblwtz61qXa8Fplpd9FPJfZ--7OkoKCd0SaJWQ_82_-HtFqm3h7PigUzGwey0X8MaWiu4TDC-WBlAOi_dOEZNo8_KMrYHVXi9ILbiUw9OSg2mdPoIbhd8mi89y-Z0Tt7s5JMp883KV0PMrgIpCkD90WurHF-tBI8Oe_NuY3IuLPm8km_6XMIhCNHeIpv8YJSSFPgfogQ..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=C39D341BE49C17B58086DD807C7EF6C181DF71566AC23725",
+      "source": "微信公众号",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-10-04T02:00:42Z"
+    },
+    {
+      "id": "8392ed2747ac",
+      "title": "AI大模型产业最新动态:十大热点新闻与解读 -2026年10月4日",
+      "summary": "OpenAI在开发者日上宣布推出全新大模型及自主AI智能体“Dots... 据最新消息显示,豆包此前在个人助理方向推进的探索项目(代号...",
+      "highlights": [
+        "OpenAI在开发者日上宣布推出全新大模型及自主AI智能体“Dots... 据最新消息显示,豆包此前在个人助理方向推进的探索项目(代号..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS23kq76XDGy__gmym6Vaq3NRH0bblwtz61qXa8Fplpd9FPJfZ--7OkoKCd0SaJWQ_82_-HtFqm3h7PigUzGwey0X8MaWiu4TDIgt29mbU31gJRczRJc5LsrH6JjW-oIMByQgNYCiz5M_bcZ9bLaAe3MGROLP_gRXrpQxmqbBxCUmAWyKB0-NTAt1AM916T7tXr8YBO0XUyg3SDI_Oa22VYuq3X8EKMKOIA..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=C50EBA65931386C643451E47A2CC85A243C34E506AC27864",
+      "source": "微信公众号",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-10-04T02:00:42Z"
+    },
+    {
+      "id": "cbd3d7a7d858",
+      "title": "AI大模型产业最新动态:十大热点新闻与解读 -2026年10月4日",
+      "summary": "OpenAI在开发者日上宣布推出全新大模型及自主AI智能体“Dots... 据最新消息显示,豆包此前在个人助理方向推进的探索项目(代号...",
+      "highlights": [
+        "OpenAI在开发者日上宣布推出全新大模型及自主AI智能体“Dots... 据最新消息显示,豆包此前在个人助理方向推进的探索项目(代号..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS23kq76XDGy_2lCpM-53ec5RH0bblwtz61qXa8Fplpd9FPJfZ--7OkoKCd0SaJWQ_82_-HtFqm3h7PigUzGwey0X8MaWiu4TDBMMjXmCU0j3Jh2EsHE_7b0qxlCLq6dXcQE1yO2sNuzU60lHEEOhaYnlejxLSRa4Ed5BUQ-3E94ZeL4xuTdAqxL9Xa9vPtEcC6pvstRRvBbQwgV6CeIWc4dQ_LeJW-Rhtg..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=C690E2967B2545E9A8AEF4A100A6FB68A909321A6AC2B7BB",
+      "source": "微信公众号",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-10-04T02:00:42Z"
+    },
+    {
+      "id": "452aef9e6054",
+      "title": "AI大模型产业最新动态:十大热点新闻与解读 -2026年10月4日",
+      "summary": "OpenAI在开发者日上宣布推出全新大模型及自主AI智能体“Dots... 据最新消息显示,豆包此前在个人助理方向推进的探索项目(代号...",
+      "highlights": [
+        "OpenAI在开发者日上宣布推出全新大模型及自主AI智能体“Dots... 据最新消息显示,豆包此前在个人助理方向推进的探索项目(代号..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS23kq76XDGy_KhKQkITT55hcHhtuBhukPFqXa8Fplpd9GP57u03Of3sUbJrsoXVzeR3oqndXxD5Jc4wmQuLT2-o9jwM-nwMQF7Cmlc5_IQZ8wGqv5ba_WRad2KI770iIIDk7UayXflfI_hd57TSRuyYzLCbQWk-qGD1BV3SlbkqBaBKH1BD_EMhgSw0Mq-3wtS8nY7_-QMePD4HQVHpxnCBj32-j2KiwUw..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=C88E3190C1D3A6BC10164C1FA237756811E5C3036AC30C58",
+      "source": "微信公众号",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-10-04T02:00:42Z"
+    },
+    {
+      "id": "f8650dccf142",
+      "title": "AI大模型产业最新动态:十大热点新闻与解读 -2026年10月4日",
+      "summary": "OpenAI在开发者日上宣布推出全新大模型及自主AI智能体“Dots... 据最新消息显示,豆包此前在个人助理方向推进的探索项目(代号...",
+      "highlights": [
+        "OpenAI在开发者日上宣布推出全新大模型及自主AI智能体“Dots... 据最新消息显示,豆包此前在个人助理方向推进的探索项目(代号..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS23kq76XDGy_ra3kkKdTeEdcHhtuBhukPFqXa8Fplpd9GP57u03Of3sUbJrsoXVzeR3oqndXxD5Jc4wmQuLT2-o9jwM-nwMQF7Cmlc5_IQZ8wGqv5ba_WRad2KI770iIIL93qZK28qnqfFMuxgaxS3V1_N_y6VCNf4sMwC8SzmJr4lS6JDmUnBKGl7fflWv0dI53jlEB7woXJ9s_NVTW9jUCYioxHkzTmA..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=C88E96072132475DF0F6ACFF4596B818F1CBB3AD6AC30C6D",
+      "source": "微信公众号",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-10-04T02:00:42Z"
+    },
+    {
+      "id": "bdf5afa212b1",
+      "title": "爱博最新Store发布“天穹”AI大模型，开启智慧城市新纪元",
+      "summary": "2026年4月29日，国内领先的人工智能企业爱博最新Store在北京国家会议中心举办“智联未来”新品发布会，正式推出自研的“天穹”AI大模型。该模型融合了多模态感知、数字孪生",
+      "highlights": [
+        "2026年4月29日，国内领先的人工智能企业爱博最新Store在北京国家会议中心举办“智联未来”新品发布会，正式推出自研的“天穹”AI大模型",
+        "该模型融合了多模态感知、数字孪生"
+      ],
+      "url": "https://www.eoffcn.com/lEluNwikiI.html",
+      "source": "eoffcn.com",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-10-04T12:00:00Z"
+    },
+    {
+      "id": "da5066df565d",
+      "title": "AI教父Hinton首篇RSI论文：今天一年的AI进步未来可能只需5周，人类窗口期或已不多",
+      "summary": "Hinton等22位顶尖AI科学家联署警告： AI自主完成研发工作的比例已从1%飙升至26%（半年内增长20倍），Anthropic数据显示AI生成代码占比突破80%。论文核心推演揭示：若AI",
+      "highlights": [
+        "Hinton等22位顶尖AI科学家联署警告： AI自主完成研发工作的比例已从1%飙升至26%（半年内增长20倍），Anthropic数据显示AI生成代码占比突破80%",
+        "论文核心推演揭示：若AI"
+      ],
+      "url": "https://wallstreetcn.com/articles/3783020",
+      "source": "wallstreetcn.com",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-10-05T11:00:00Z"
+    },
+    {
+      "id": "0964f3951d46",
+      "title": "AI大模型产业最新动态:十大热点新闻与解读 -2026年10月4日",
+      "summary": "OpenAI在开发者日上宣布推出全新大模型及自主AI智能体“Dots... 据最新消息显示,豆包此前在个人助理方向推进的探索项目(代号...",
+      "highlights": [
+        "OpenAI在开发者日上宣布推出全新大模型及自主AI智能体“Dots... 据最新消息显示,豆包此前在个人助理方向推进的探索项目(代号..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MYf0ighEh69O_gadUpwJ2x-Lcu9a2NgFqXa8Fplpd9niD9IwBpP8BcfxJbFkk_sjYcH0kKbuzVmJ1inksbbW9xw3NYSEAXDNRBtCNwj7kjDNWiDCUychgdokrWs1w0iYKkv61ojNPu54UZachSlFwnjvi-P2O7aIpgNHN5xLaIlg2r8ffteJu55Vhnfrbp77WxFA_EeZwYv4Y3V2FjqwHuL0unUdKkuw..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=CBAD67788B5EC96B21277F3667F19CC9226B22A16AC39C3E",
+      "source": "微信公众号",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-10-04T02:00:42Z"
+    },
+    {
+      "id": "aba924b2fdf8",
+      "title": "下一代 AI Agent 智能体源码解析:从自动任务执行到企业级智能工作流",
+      "summary": "多智能体架构优势相比单 Agent:优势:分工明确并行处理结果质量更高更接近真实团队工作模式未来企业内部可能出现:AI产品经理...",
+      "highlights": [
+        "多智能体架构优势相比单 Agent:优势:分工明确并行处理结果质量更高更接近真实团队工作模式未来企业内部可能出现:AI产品经理..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MYf0ighEh6RPfUI4r25Qex-Lcu9a2NgFqXa8Fplpd9zAhtGxytl-eiOv7JRQlk3hwQfd-phi2ciH8D1QtU4Eq4Poa_i9wGvV9OEVfep5Xzyf4S5KwxPx3E8N6aH8FldZepNfn4b3oXaZIROzeFlUC_ZiF2Zdt2aIorC8BTJ6AZ2q_qCsG622cBOZ6AfnxudexxR9hwwV6iaOYDZit-Y8otPujwwRB2Pw..&amp;type=2&amp;query=AI Agent %E6%99%BA%E8%83%BD%E4%BD%93 %E4%BA%A7%E5%93%81&amp;token=CBAD7681FB2DB91B51540F45155B9C9252FC67766AC39C41",
+      "source": "微信公众号",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-10-05T00:31:34Z"
+    },
+    {
+      "id": "f8de1e5ef3f8",
+      "title": "$162.8B went into U.S. startups in the first half of 2025, up ...",
+      "summary": "US startups raised a record $412.7 billion in the first half of 2026, and AI companies took $355.9 billion of it. Rounds of $100 million or more took 87.5% of",
+      "highlights": [
+        "US startups raised a record $412.7 billion in the first half of 2026, and AI companies took $355.9 billion of it. Rounds of $100 million or more took 87.5% of"
+      ],
+      "url": "https://www.instagram.com/reel/DeAFH4LDyTq",
+      "source": "instagram.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-03T15:17:09Z"
+    },
+    {
+      "id": "4afdbaae2f08",
+      "title": "剛剛，數學界炸了！Meta AI突然“開掛”：連破6大世界難題，數學界“AlphaGo時刻”來了！",
+      "summary": "AI開始真正挑戰數學家的“無人區”。 Meta超級智能實驗室研究人員畢樹超近日公佈了一組引發數學界和AI圈關注的成果：. 過去約6個月，多位數學家借助Meta AI模型Muse",
+      "highlights": [
+        "AI開始真正挑戰數學家的“無人區”",
+        "Meta超級智能實驗室研究人員畢樹超近日公佈了一組引發數學界和AI圈關注的成果：. 過去約6個月，多位數學家借助Meta AI模型Muse"
+      ],
+      "url": "https://hao.cnyes.com/post/270819",
+      "source": "hao.cnyes.com",
+      "category": "前沿理论",
+      "importance": 2,
+      "publishedAt": "2026-10-04T02:00:00Z"
+    },
+    {
+      "id": "801a30fcb60b",
+      "title": "數學界AlphaGo時刻出現！Meta AI攻克6大數學難題、Muse Spark突破研究無人區 | 鉅亨網",
+      "summary": "這六項研究呈現出 AI 在數學研究中的不同角色：從利用程式搜尋龐大的數學結構空間，到協助推導複雜公式，再到提出新的問題表述方式，逐步突破過去以解答已知題目為主的應用範圍。\n\n###### 畢樹超從數學博士轉向AI，盼借助模型挑戰頂尖難題\n\n這次研究成果的背後，畢樹超的學術經歷也受到關注。\n\n畢樹超本科畢業於浙江大學數學系，之後赴加州大學柏克萊分校深造，取得統計學碩士與數學博士學位，研究方向逐漸轉向...",
+      "highlights": [
+        "這六項研究呈現出 AI 在數學研究中的不同角色：從利用程式搜尋龐大的數學結構空間，到協助推導複雜公式，再到提出新的問題表述方式，逐步突破過去以解答已知題目為主的應用範圍",
+        "###### 畢樹超從數學博士轉向AI，盼借助模型挑戰頂尖難題",
+        "這次研究成果的背後，畢樹超的學術經歷也受到關注"
+      ],
+      "url": "https://news.cnyes.com/news/id/6621211",
+      "source": "news.cnyes.com",
+      "category": "前沿理论",
+      "importance": 2,
+      "publishedAt": "2026-10-04T09:00:00Z"
+    },
+    {
+      "id": "fe2c4ee67184",
+      "title": "港交所的锣，快不够用了！",
+      "summary": "东方财富网旗下财经自媒体平台“财富号”，于2017年3月1日上线，汇聚权威、全面、专业的财经自媒体，为中国广大投资者提供个性化、专业化的财经资讯和一站式金融理财",
+      "highlights": [
+        "东方财富网旗下财经自媒体平台“财富号”，于2017年3月1日上线，汇聚权威、全面、专业的财经自媒体，为中国广大投资者提供个性化、专业化的财经资讯和一站式金融理财"
+      ],
+      "url": "https://caifuhao.eastmoney.com/news/20261004180537214531230",
+      "source": "caifuhao.eastmoney.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-04T10:00:00Z"
+    },
+    {
+      "id": "aa514635a922",
+      "title": "From stealth to an acquisition worth up to $150 million ...",
+      "summary": "AI cloud infrastructure firm Nebius has acquired 10-month-old Israeli startup Inferize for an estimated $100M-$130M. The pre-launch startup specializes in",
+      "highlights": [
+        "AI cloud infrastructure firm Nebius has acquired 10-month-old Israeli startup Inferize for an estimated $100M-$130M. The pre-launch startup specializes in"
+      ],
+      "url": "https://www.instagram.com/reel/DeEqXR_gwtv",
+      "source": "instagram.com",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-10-04T16:01:52Z"
+    },
+    {
+      "id": "a676de3db73b",
+      "title": "AI funding isn't slowing — it's concentrating. $178B into ...",
+      "summary": "Public AI startups raised $104.3 billion in the U.S. in the first half of this year, nearly matching the $104.4 billion total for all of 2024.",
+      "highlights": [
+        "Public AI startups raised $104.3 billion in the U.S. in the first half of this year, nearly matching the $104.4 billion total for all of 2024."
+      ],
+      "url": "https://www.facebook.com/61591321656064/videos/ai-funding-isnt-slowing-its-concentrating-178b-into-foundational-ai-in-q1-560-va/1098869319276333",
+      "source": "facebook.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-04T16:01:52Z"
+    },
+    {
+      "id": "3cac2908c353",
+      "title": "Emerging Silicon Valley AI Startups: 300 Funded ...",
+      "summary": "Browse 300 companies in the Emerging Silicon Valley AI Startups list. Includes funding data, hiring signals, lead investors, contacts, tech stack,",
+      "highlights": [
+        "Browse 300 companies in the Emerging Silicon Valley AI Startups list. Includes funding data, hiring signals, lead investors, contacts, tech stack,"
+      ],
+      "url": "https://fundup.ai/lists/emerging-silicon-valley-ai-startups",
+      "source": "fundup.ai",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-04T15:00:00Z"
+    }
+  ],
+  "today": [
+    {
+      "id": "c24321e0724c",
+      "title": "一起呼吁“AI减速”？OpenAI取消最新模型发布，Anthropic却“两连发”！",
+      "summary": "OpenAI决定放弃发布新模型之际，人工智能行业正面临着对高级模型安全性日益加剧的担忧。本月初，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）在一篇文章中敦促各AI实验室放慢模型开发速度，因为人们担心这些模型正在失控。\n\nOpenAI安全系统负责人Saachi Jain在一份声明中表示：“我们当然希望确保模型开发的安全性，无论是在公司内部还是交付给用户时。但当我们将模型交...",
+      "highlights": [
+        "OpenAI决定放弃发布新模型之际，人工智能行业正面临着对高级模型安全性日益加剧的担忧",
+        "本月初，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）在一篇文章中敦促各AI实验室放慢模型开发速度，因为人们担心这些模型正在失控",
+        "OpenAI安全系统负责人Saachi Jain在一份声明中表示：“我们当然希望确保模型开发的安全性，无论是在公司内部还是交付给用户时"
+      ],
+      "url": "https://www.cls.cn/detail/2494709",
+      "source": "cls.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-05T00:00:00Z"
+    },
+    {
+      "id": "890e83a79266",
+      "title": "刚刚，Hinton发了首篇RSI论文 – 量子位",
+      "summary": "甚至未来回头看，2026年真正值得记住的节点，可能还真不是某个模型又多拿了几分。\n\n恐怕是人类第一次开始认真意识到，AI最猛的一次Scaling，可能发生在「研究AI」这件事本身。\n\n参考链接：\n\n### 相关阅读\n\n#### 探索RSI，生数新世界模型让机器人开始自我进化\n\n#### AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI\n\n小模型突破瓶颈，旗舰模型打开新空间\n\n##...",
+      "highlights": [
+        "甚至未来回头看，2026年真正值得记住的节点，可能还真不是某个模型又多拿了几分",
+        "恐怕是人类第一次开始认真意识到，AI最猛的一次Scaling，可能发生在「研究AI」这件事本身",
+        "#### 探索RSI，生数新世界模型让机器人开始自我进化"
+      ],
+      "url": "https://www.qbitai.com/2026/10/501705.html",
+      "source": "qbitai.com",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-10-05T04:00:00Z"
+    },
+    {
+      "id": "070570a03a31",
+      "title": "As OpenAI and Anthropic battle over data privacy, more companies turn to open models | Fortune",
+      "summary": "The latest string of “rogue AI” incidents have heightened fears that the latest models will either scrape data, or publish it for the world to see, without the business’ permission. [...] Given these ...",
+      "highlights": [
+        "The latest string of “rogue AI” incidents have heightened fears that the latest models will either scrape data, or publish it for the world to see, without the business’ permission. [...] Given these concerns, companies are looking to diversify their AI usage, and reduce their dependency on the leading AI companies. The term du jour for this is “sovereign AI,” referring to a company’s ability to control its own “AI stack”—everything from owning the chips on which AI workloads run, to setting up proprietary cloud infrastructure, to using open source models that a company can download and run in their own cloud environments. [...] Fortune Daily breaks the traditional barrier between audience and newsroom. The show transforms Fortune’s trusted reporting into actionable, conversational, and entertaining insights for an emerging class of business leaders. Watch here.",
+        "About the Author",
+        "Emily Forlini"
+      ],
+      "url": "https://fortune.com/2026/10/05/openai-and-anthropic-battle-over-zero-data-retention-zdr-data-privacy-companies-look-to-open-models-and-sovereign-ai",
+      "source": "fortune.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-05T10:00:00Z"
+    },
+    {
+      "id": "475d53755606",
+      "title": "AI 大模型世界",
+      "summary": "国外 ; Claude Opus 5.5. Anthropic · 世界#1 ; GPT-6 Astra. OpenAI · 世界#2 ; Gemini 3.8 Flash. 谷歌 · 世界#15 ; Muse Spark 1.3. Meta · 世界#17 ; Grok 4.7. xAI · 暂无.",
+      "highlights": [
+        "国外 ; Claude Opus 5.5. Anthropic · 世界#1 ; GPT-6 Astra. OpenAI · 世界#2 ; Gemini 3.8 Flash. 谷歌 · 世界#15 ; Muse Spark 1.3. Meta · 世界#17 ; Grok 4.7. xAI · 暂无."
+      ],
+      "url": "https://www.bilibili.com/toy/ai-model-world",
+      "source": "bilibili.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-05T07:00:00Z"
+    },
+    {
+      "id": "6a0e559666bf",
+      "title": "Instagram",
+      "summary": "AI 智能体（AI Agent）的开发与上线，是指构建一个能够自主感知环境、进行规划决策、调用外部工具，并持续执行任务以达成特定目标的智能化系统。相比于传统的单次问答大模型应用，智能体项目更注重状态管理、长链条推理、工具集成与工程化稳定性。北京木奇科技有限公司，专业的智能体开发公司，欢迎交流合作。商务合作加V：muqi2026  \n  \n一个完整的 AI 智能体项目生命周期通常分为以下六个核心阶段...",
+      "highlights": [
+        "AI 智能体（AI Agent）的开发与上线，是指构建一个能够自主感知环境、进行规划决策、调用外部工具，并持续执行任务以达成特定目标的智能化系统",
+        "相比于传统的单次问答大模型应用，智能体项目更注重状态管理、长链条推理、工具集成与工程化稳定性",
+        "北京木奇科技有限公司，专业的智能体开发公司，欢迎交流合作"
+      ],
+      "url": "https://www.instagram.com/p/Dd2xTvwlPCn",
+      "source": "instagram.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-05T12:47:02Z"
+    },
+    {
+      "id": "efeaceb97e8e",
+      "title": "2026 中国AI Agent 产业全景：全面跟进全球“行动式AI”新范式",
+      "summary": "智能体(Personal Agent) 月正式发布Manus 2.0 … 中国科技企业已完成全员入场、全线对标、全域落地, 形成覆盖个人生活、职场办公、企业组织、政企合规的完整智能体产品矩阵",
+      "highlights": [
+        "智能体(Personal Agent) 月正式发布Manus 2.0 … 中国科技企业已完成全员入场、全线对标、全域落地, 形成覆盖个人生活、职场办公、企业组织、政企合规的完整智能体产品矩阵"
+      ],
+      "url": "https://www.facebook.com/groups/370716739681554/posts/28448934308099754",
+      "source": "facebook.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-05T12:47:02Z"
+    },
+    {
+      "id": "96f4ac9913d9",
+      "title": "2. ​万物自主化（4,000 亿美元） 利用人工智能实现乘用车、卡车和无人机等载具的自主运行，以及推动其他工业自动化项目，代表着 4,000 亿美元的市场机会。这不仅能提高设备的正常运行时间，还能降低培训与运营成本。自动驾驶载具可以作为面向消费者的新型汽车与卡车、无人驾驶出租车服务，以及通过物流自动化服务来释放巨大的商业价值。 2. ​具身/物理智能（9,000 亿美元） 先进的人工智能模型能够实现对物理过程的高保真模拟和数字孪生，帮助企业提高生产力、测试方案修改，并加速自主系统的部署。同样，由人工智能驱动的机器人（包括具身人形机器人）能够在非结构化环境中作业，从而在实体经济中解锁广泛的新应用，涵盖从制造业到外科手术的各个领域。因此，在良率提升和新工厂爬坡提速带来研发与制造成本降低 10% 的假设下，实体经济在重点行业（包括汽车、电子、半导体以及航空航天与国防）可能孕育出 9,000 亿美元的市场机遇。",
+      "summary": "Home\n\nNew thread\n\nSearch\n\nMessages\n\nActivity\n\nProfile\n\nInsights\n\nLog in\n\nMore\n\n# Thread\n\n69 views\n\ncheeweng96's profile picture\n\ncheeweng96\n\n2. ​万物自主化（4,000 亿美元） 利用人工智能实现乘用车、卡车和无人机等载具的自主运行，以及推动其他工业自动化...",
+      "highlights": [
+        "cheeweng96's profile picture",
+        "2. ​万物自主化（4,000 亿美元） 利用人工智能实现乘用车、卡车和无人机等载具的自主运行，以及推动其他工业自动化项目，代表着 4,000 亿美元的市场机会",
+        "这不仅能提高设备的正常运行时间，还能降低培训与运营成本"
+      ],
+      "url": "https://www.threads.com/@cheeweng96/post/DeDmbrAEsd0/2-%E4%B8%87%E7%89%A9%E8%87%AA%E4%B8%BB%E5%8C%964000-%E4%BA%BF%E7%BE%8E%E5%85%83%E5%88%A9%E7%94%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%9E%E7%8E%B0%E4%B9%98%E7%94%A8%E8%BD%A6%E5%8D%A1%E8%BD%A6%E5%92%8C%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%AD%89%E8%BD%BD%E5%85%B7%E7%9A%84%E8%87%AA%E4%B8%BB%E8%BF%90%E8%A1%8C%E4%BB%A5%E5%8F%8A%E6%8E%A8%E5%8A%A8%E5%85%B6%E4%BB%96%E5%B7%A5%E4%B8%9A%E8%87%AA%E5%8A%A8%E5%8C%96%E9%A1%B9%E7%9B%AE%E4%BB%A3%E8%A1%A8%E7%9D%80-4000-%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%B8%82%E5%9C%BA%E6%9C%BA%E4%BC%9A%E8%BF%99%E4%B8%8D%E4%BB%85%E8%83%BD%E6%8F%90%E9%AB%98%E8%AE%BE%E5%A4%87%E7%9A%84%E6%AD%A3",
+      "source": "threads.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-10-05T12:47:02Z"
+    },
+    {
+      "id": "da5066df565d",
+      "title": "AI教父Hinton首篇RSI论文：今天一年的AI进步未来可能只需5周，人类窗口期或已不多",
+      "summary": "Hinton等22位顶尖AI科学家联署警告： AI自主完成研发工作的比例已从1%飙升至26%（半年内增长20倍），Anthropic数据显示AI生成代码占比突破80%。论文核心推演揭示：若AI",
+      "highlights": [
+        "Hinton等22位顶尖AI科学家联署警告： AI自主完成研发工作的比例已从1%飙升至26%（半年内增长20倍），Anthropic数据显示AI生成代码占比突破80%",
+        "论文核心推演揭示：若AI"
+      ],
+      "url": "https://wallstreetcn.com/articles/3783020",
+      "source": "wallstreetcn.com",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-10-05T11:00:00Z"
+    },
+    {
+      "id": "aba924b2fdf8",
+      "title": "下一代 AI Agent 智能体源码解析:从自动任务执行到企业级智能工作流",
+      "summary": "多智能体架构优势相比单 Agent:优势:分工明确并行处理结果质量更高更接近真实团队工作模式未来企业内部可能出现:AI产品经理...",
+      "highlights": [
+        "多智能体架构优势相比单 Agent:优势:分工明确并行处理结果质量更高更接近真实团队工作模式未来企业内部可能出现:AI产品经理..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MYf0ighEh6RPfUI4r25Qex-Lcu9a2NgFqXa8Fplpd9zAhtGxytl-eiOv7JRQlk3hwQfd-phi2ciH8D1QtU4Eq4Poa_i9wGvV9OEVfep5Xzyf4S5KwxPx3E8N6aH8FldZepNfn4b3oXaZIROzeFlUC_ZiF2Zdt2aIorC8BTJ6AZ2q_qCsG622cBOZ6AfnxudexxR9hwwV6iaOYDZit-Y8otPujwwRB2Pw..&amp;type=2&amp;query=AI Agent %E6%99%BA%E8%83%BD%E4%BD%93 %E4%BA%A7%E5%93%81&amp;token=CBAD7681FB2DB91B51540F45155B9C9252FC67766AC39C41",
+      "source": "微信公众号",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-10-05T00:31:34Z"
+    },
+    {
+      "id": "269fa7e9497f",
+      "title": "基础杂活全被一键秒杀，还要初级员工干嘛？Google Research负责人：以往熬15年的判断力，现在一出道就得硬抗",
+      "summary": "过去一年多，大家看Google，视线几乎全被拽在商业大模型的角斗场里——Gemini 的跑分追上没有、搜索框里的AI 总结好不好用、工程迭代又拼到了哪一步。",
+      "highlights": [
+        "过去一年多，大家看Google，视线几乎全被拽在商业大模型的角斗场里——Gemini 的跑分追上没有、搜索框里的AI 总结好不好用、工程迭代又拼到了哪一步"
+      ],
+      "url": "https://www.yeeyi.com/news/details/3241933",
+      "source": "yeeyi.com",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-10-05T07:00:00Z"
+    },
+    {
+      "id": "7fd6c2cd85fc",
+      "title": "Crunchbase Data: Q3 2026 Posted A Record Count Of Billion-Dollar Rounds As The Global AI Race Heats Up",
+      "summary": "Global venture funding totaled $159 billion in Q3 2026 with close to 6,000 startups funded, Crunchbase data shows. And while the third quarter was the lowest for startup investment so far this year, i...",
+      "highlights": [
+        "Global venture funding totaled $159 billion in Q3 2026 with close to 6,000 startups funded, Crunchbase data shows. And while the third quarter was the lowest for startup investment so far this year, it still exceeded every other quarter since Q2 2022.",
+        "Funding to private companies has skyrocketed this year, totaling $679 billion in venture funding globally in Q1 through Q3 2026, per Crunchbase data. That is the highest amount in the first three quarters of any given year. [...] The largest funding deals went to Databricks and Safe Superintelligence, which each raised $5 billion. Close behind, Crusoe, Moonshot AI, Mistral AI, Nscale, The Boring Co. and Kling AI each raised more than $3 billion.",
+        "## US and sectors [...] ## Robust market"
+      ],
+      "url": "https://news.crunchbase.com/venture/q3-2026-global-startup-funding-ai-billion-dollar-rounds-exits-data",
+      "source": "news.crunchbase.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-05T11:00:13Z"
+    }
+  ],
+  "week": [
+    {
+      "id": "c24321e0724c",
+      "title": "一起呼吁“AI减速”？OpenAI取消最新模型发布，Anthropic却“两连发”！",
+      "summary": "OpenAI决定放弃发布新模型之际，人工智能行业正面临着对高级模型安全性日益加剧的担忧。本月初，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）在一篇文章中敦促各AI实验室放慢模型开发速度，因为人们担心这些模型正在失控。\n\nOpenAI安全系统负责人Saachi Jain在一份声明中表示：“我们当然希望确保模型开发的安全性，无论是在公司内部还是交付给用户时。但当我们将模型交...",
+      "highlights": [
+        "OpenAI决定放弃发布新模型之际，人工智能行业正面临着对高级模型安全性日益加剧的担忧",
+        "本月初，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）在一篇文章中敦促各AI实验室放慢模型开发速度，因为人们担心这些模型正在失控",
+        "OpenAI安全系统负责人Saachi Jain在一份声明中表示：“我们当然希望确保模型开发的安全性，无论是在公司内部还是交付给用户时"
+      ],
+      "url": "https://www.cls.cn/detail/2494709",
+      "source": "cls.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-05T00:00:00Z"
+    },
+    {
+      "id": "890e83a79266",
+      "title": "刚刚，Hinton发了首篇RSI论文 – 量子位",
+      "summary": "甚至未来回头看，2026年真正值得记住的节点，可能还真不是某个模型又多拿了几分。\n\n恐怕是人类第一次开始认真意识到，AI最猛的一次Scaling，可能发生在「研究AI」这件事本身。\n\n参考链接：\n\n### 相关阅读\n\n#### 探索RSI，生数新世界模型让机器人开始自我进化\n\n#### AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI\n\n小模型突破瓶颈，旗舰模型打开新空间\n\n##...",
+      "highlights": [
+        "甚至未来回头看，2026年真正值得记住的节点，可能还真不是某个模型又多拿了几分",
+        "恐怕是人类第一次开始认真意识到，AI最猛的一次Scaling，可能发生在「研究AI」这件事本身",
+        "#### 探索RSI，生数新世界模型让机器人开始自我进化"
+      ],
+      "url": "https://www.qbitai.com/2026/10/501705.html",
+      "source": "qbitai.com",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-10-05T04:00:00Z"
+    },
+    {
+      "id": "070570a03a31",
+      "title": "As OpenAI and Anthropic battle over data privacy, more companies turn to open models | Fortune",
+      "summary": "The latest string of “rogue AI” incidents have heightened fears that the latest models will either scrape data, or publish it for the world to see, without the business’ permission. [...] Given these ...",
+      "highlights": [
+        "The latest string of “rogue AI” incidents have heightened fears that the latest models will either scrape data, or publish it for the world to see, without the business’ permission. [...] Given these concerns, companies are looking to diversify their AI usage, and reduce their dependency on the leading AI companies. The term du jour for this is “sovereign AI,” referring to a company’s ability to control its own “AI stack”—everything from owning the chips on which AI workloads run, to setting up proprietary cloud infrastructure, to using open source models that a company can download and run in their own cloud environments. [...] Fortune Daily breaks the traditional barrier between audience and newsroom. The show transforms Fortune’s trusted reporting into actionable, conversational, and entertaining insights for an emerging class of business leaders. Watch here.",
+        "About the Author",
+        "Emily Forlini"
+      ],
+      "url": "https://fortune.com/2026/10/05/openai-and-anthropic-battle-over-zero-data-retention-zdr-data-privacy-companies-look-to-open-models-and-sovereign-ai",
+      "source": "fortune.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-05T10:00:00Z"
+    },
+    {
+      "id": "475d53755606",
+      "title": "AI 大模型世界",
+      "summary": "国外 ; Claude Opus 5.5. Anthropic · 世界#1 ; GPT-6 Astra. OpenAI · 世界#2 ; Gemini 3.8 Flash. 谷歌 · 世界#15 ; Muse Spark 1.3. Meta · 世界#17 ; Grok 4.7. xAI · 暂无.",
+      "highlights": [
+        "国外 ; Claude Opus 5.5. Anthropic · 世界#1 ; GPT-6 Astra. OpenAI · 世界#2 ; Gemini 3.8 Flash. 谷歌 · 世界#15 ; Muse Spark 1.3. Meta · 世界#17 ; Grok 4.7. xAI · 暂无."
+      ],
+      "url": "https://www.bilibili.com/toy/ai-model-world",
+      "source": "bilibili.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-05T07:00:00Z"
+    },
+    {
+      "id": "6a0e559666bf",
+      "title": "Instagram",
+      "summary": "AI 智能体（AI Agent）的开发与上线，是指构建一个能够自主感知环境、进行规划决策、调用外部工具，并持续执行任务以达成特定目标的智能化系统。相比于传统的单次问答大模型应用，智能体项目更注重状态管理、长链条推理、工具集成与工程化稳定性。北京木奇科技有限公司，专业的智能体开发公司，欢迎交流合作。商务合作加V：muqi2026  \n  \n一个完整的 AI 智能体项目生命周期通常分为以下六个核心阶段...",
+      "highlights": [
+        "AI 智能体（AI Agent）的开发与上线，是指构建一个能够自主感知环境、进行规划决策、调用外部工具，并持续执行任务以达成特定目标的智能化系统",
+        "相比于传统的单次问答大模型应用，智能体项目更注重状态管理、长链条推理、工具集成与工程化稳定性",
+        "北京木奇科技有限公司，专业的智能体开发公司，欢迎交流合作"
+      ],
+      "url": "https://www.instagram.com/p/Dd2xTvwlPCn",
+      "source": "instagram.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-05T12:47:02Z"
+    },
+    {
+      "id": "efeaceb97e8e",
+      "title": "2026 中国AI Agent 产业全景：全面跟进全球“行动式AI”新范式",
+      "summary": "智能体(Personal Agent) 月正式发布Manus 2.0 … 中国科技企业已完成全员入场、全线对标、全域落地, 形成覆盖个人生活、职场办公、企业组织、政企合规的完整智能体产品矩阵",
+      "highlights": [
+        "智能体(Personal Agent) 月正式发布Manus 2.0 … 中国科技企业已完成全员入场、全线对标、全域落地, 形成覆盖个人生活、职场办公、企业组织、政企合规的完整智能体产品矩阵"
+      ],
+      "url": "https://www.facebook.com/groups/370716739681554/posts/28448934308099754",
+      "source": "facebook.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-05T12:47:02Z"
+    },
+    {
+      "id": "96f4ac9913d9",
+      "title": "2. ​万物自主化（4,000 亿美元） 利用人工智能实现乘用车、卡车和无人机等载具的自主运行，以及推动其他工业自动化项目，代表着 4,000 亿美元的市场机会。这不仅能提高设备的正常运行时间，还能降低培训与运营成本。自动驾驶载具可以作为面向消费者的新型汽车与卡车、无人驾驶出租车服务，以及通过物流自动化服务来释放巨大的商业价值。 2. ​具身/物理智能（9,000 亿美元） 先进的人工智能模型能够实现对物理过程的高保真模拟和数字孪生，帮助企业提高生产力、测试方案修改，并加速自主系统的部署。同样，由人工智能驱动的机器人（包括具身人形机器人）能够在非结构化环境中作业，从而在实体经济中解锁广泛的新应用，涵盖从制造业到外科手术的各个领域。因此，在良率提升和新工厂爬坡提速带来研发与制造成本降低 10% 的假设下，实体经济在重点行业（包括汽车、电子、半导体以及航空航天与国防）可能孕育出 9,000 亿美元的市场机遇。",
+      "summary": "Home\n\nNew thread\n\nSearch\n\nMessages\n\nActivity\n\nProfile\n\nInsights\n\nLog in\n\nMore\n\n# Thread\n\n69 views\n\ncheeweng96's profile picture\n\ncheeweng96\n\n2. ​万物自主化（4,000 亿美元） 利用人工智能实现乘用车、卡车和无人机等载具的自主运行，以及推动其他工业自动化...",
+      "highlights": [
+        "cheeweng96's profile picture",
+        "2. ​万物自主化（4,000 亿美元） 利用人工智能实现乘用车、卡车和无人机等载具的自主运行，以及推动其他工业自动化项目，代表着 4,000 亿美元的市场机会",
+        "这不仅能提高设备的正常运行时间，还能降低培训与运营成本"
+      ],
+      "url": "https://www.threads.com/@cheeweng96/post/DeDmbrAEsd0/2-%E4%B8%87%E7%89%A9%E8%87%AA%E4%B8%BB%E5%8C%964000-%E4%BA%BF%E7%BE%8E%E5%85%83%E5%88%A9%E7%94%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%9E%E7%8E%B0%E4%B9%98%E7%94%A8%E8%BD%A6%E5%8D%A1%E8%BD%A6%E5%92%8C%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%AD%89%E8%BD%BD%E5%85%B7%E7%9A%84%E8%87%AA%E4%B8%BB%E8%BF%90%E8%A1%8C%E4%BB%A5%E5%8F%8A%E6%8E%A8%E5%8A%A8%E5%85%B6%E4%BB%96%E5%B7%A5%E4%B8%9A%E8%87%AA%E5%8A%A8%E5%8C%96%E9%A1%B9%E7%9B%AE%E4%BB%A3%E8%A1%A8%E7%9D%80-4000-%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%B8%82%E5%9C%BA%E6%9C%BA%E4%BC%9A%E8%BF%99%E4%B8%8D%E4%BB%85%E8%83%BD%E6%8F%90%E9%AB%98%E8%AE%BE%E5%A4%87%E7%9A%84%E6%AD%A3",
+      "source": "threads.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-10-05T12:47:02Z"
+    },
+    {
+      "id": "da5066df565d",
+      "title": "AI教父Hinton首篇RSI论文：今天一年的AI进步未来可能只需5周，人类窗口期或已不多",
+      "summary": "Hinton等22位顶尖AI科学家联署警告： AI自主完成研发工作的比例已从1%飙升至26%（半年内增长20倍），Anthropic数据显示AI生成代码占比突破80%。论文核心推演揭示：若AI",
+      "highlights": [
+        "Hinton等22位顶尖AI科学家联署警告： AI自主完成研发工作的比例已从1%飙升至26%（半年内增长20倍），Anthropic数据显示AI生成代码占比突破80%",
+        "论文核心推演揭示：若AI"
+      ],
+      "url": "https://wallstreetcn.com/articles/3783020",
+      "source": "wallstreetcn.com",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-10-05T11:00:00Z"
+    },
+    {
+      "id": "aba924b2fdf8",
+      "title": "下一代 AI Agent 智能体源码解析:从自动任务执行到企业级智能工作流",
+      "summary": "多智能体架构优势相比单 Agent:优势:分工明确并行处理结果质量更高更接近真实团队工作模式未来企业内部可能出现:AI产品经理...",
+      "highlights": [
+        "多智能体架构优势相比单 Agent:优势:分工明确并行处理结果质量更高更接近真实团队工作模式未来企业内部可能出现:AI产品经理..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MYf0ighEh6RPfUI4r25Qex-Lcu9a2NgFqXa8Fplpd9zAhtGxytl-eiOv7JRQlk3hwQfd-phi2ciH8D1QtU4Eq4Poa_i9wGvV9OEVfep5Xzyf4S5KwxPx3E8N6aH8FldZepNfn4b3oXaZIROzeFlUC_ZiF2Zdt2aIorC8BTJ6AZ2q_qCsG622cBOZ6AfnxudexxR9hwwV6iaOYDZit-Y8otPujwwRB2Pw..&amp;type=2&amp;query=AI Agent %E6%99%BA%E8%83%BD%E4%BD%93 %E4%BA%A7%E5%93%81&amp;token=CBAD7681FB2DB91B51540F45155B9C9252FC67766AC39C41",
+      "source": "微信公众号",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-10-05T00:31:34Z"
+    },
+    {
+      "id": "269fa7e9497f",
+      "title": "基础杂活全被一键秒杀，还要初级员工干嘛？Google Research负责人：以往熬15年的判断力，现在一出道就得硬抗",
+      "summary": "过去一年多，大家看Google，视线几乎全被拽在商业大模型的角斗场里——Gemini 的跑分追上没有、搜索框里的AI 总结好不好用、工程迭代又拼到了哪一步。",
+      "highlights": [
+        "过去一年多，大家看Google，视线几乎全被拽在商业大模型的角斗场里——Gemini 的跑分追上没有、搜索框里的AI 总结好不好用、工程迭代又拼到了哪一步"
+      ],
+      "url": "https://www.yeeyi.com/news/details/3241933",
+      "source": "yeeyi.com",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-10-05T07:00:00Z"
+    },
+    {
+      "id": "7fd6c2cd85fc",
+      "title": "Crunchbase Data: Q3 2026 Posted A Record Count Of Billion-Dollar Rounds As The Global AI Race Heats Up",
+      "summary": "Global venture funding totaled $159 billion in Q3 2026 with close to 6,000 startups funded, Crunchbase data shows. And while the third quarter was the lowest for startup investment so far this year, i...",
+      "highlights": [
+        "Global venture funding totaled $159 billion in Q3 2026 with close to 6,000 startups funded, Crunchbase data shows. And while the third quarter was the lowest for startup investment so far this year, it still exceeded every other quarter since Q2 2022.",
+        "Funding to private companies has skyrocketed this year, totaling $679 billion in venture funding globally in Q1 through Q3 2026, per Crunchbase data. That is the highest amount in the first three quarters of any given year. [...] The largest funding deals went to Databricks and Safe Superintelligence, which each raised $5 billion. Close behind, Crusoe, Moonshot AI, Mistral AI, Nscale, The Boring Co. and Kling AI each raised more than $3 billion.",
+        "## US and sectors [...] ## Robust market"
+      ],
+      "url": "https://news.crunchbase.com/venture/q3-2026-global-startup-funding-ai-billion-dollar-rounds-exits-data",
+      "source": "news.crunchbase.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-05T11:00:13Z"
+    }
+  ],
+  "month": [
     {
       "id": "85a40a87999b",
       "title": "又一个00后造富神话-虎嗅网",
@@ -146,341 +879,6 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-10-03T07:06:59Z"
-    },
-    {
-      "id": "b47524f612ed",
-      "title": "Helix Digital's $1B raise, Flow's $750M valuation, Bain pours $250M into Kahua - Axios",
-      "summary": "# Enterprise software deals of the week. ## Venture Capital. * **Helix Digital Infrastructure**, an AI infrastructure company launched by KKR and backed by Nvidia, will raise $1b from Samsung. It alre...",
-      "highlights": [
-        "# Enterprise software deals of the week. ## Venture Capital. * **Helix Digital Infrastructure**, an AI infrastructure company launched by KKR and backed by Nvidia, will raise $1b from Samsung. It already has over $10b in commitments from investors including Kuwait Investment Authority and Vistra. * **Armadin**, a cybersecurity startup led by Mandiant founder Kevin Mandia, raised $255.5m in Series B funding at a valuation north of $2.5b. **Accel** and **a16z** led, joined by Bain Capital Ventures, Redpoint, and insiders 8VC, Ballistic Ventures, Google Ventures, In-Q-Tel, Kleiner Perkins, and Menlo Ventures. ##### What to read next."
-      ],
-      "url": "https://www.axios.com/pro/pro-rata-premium/2026/10/03/enterprise-deals-week-helix-flow-kahua",
-      "source": "axios.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-10-03T11:45:06Z"
-    },
-    {
-      "id": "9d21f57e72cd",
-      "title": "深度｜对话 Google Research 负责人：暴力堆卡已到尽头，下一代架构不在预训练里_搜狐网",
-      "summary": "现有架构的限制，并不等于 AI 的极限。Scaling law 描述的是沿着既有技术路线增加数据和算力的收益，但新的算法与架构仍可能改变效率边界。Matias 以投机解码为例，强调研究还要不断寻找全新的方法，而下一轮更大幅度的提升仍有待突破。\n AI 最成熟的形态是人们不再需要时刻注意它。他将这种状态称为“环境智能”（ambient intelligence）：智能自然融入日常体验，用户可以专注于...",
-      "highlights": [
-        "现有架构的限制，并不等于 AI 的极限",
-        "Scaling law 描述的是沿着既有技术路线增加数据和算力的收益，但新的算法与架构仍可能改变效率边界",
-        "Matias 以投机解码为例，强调研究还要不断寻找全新的方法，而下一轮更大幅度的提升仍有待突破"
-      ],
-      "url": "https://m.sohu.com/a/1083972741_122074763?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "前沿理论",
-      "importance": 4,
-      "publishedAt": "2026-10-04T13:30:05Z"
-    },
-    {
-      "id": "f112aa75c0ea",
-      "title": "AI大模型产业最新动态:十大热点新闻与解读 -2026年10月4日",
-      "summary": "OpenAI在开发者日上宣布推出全新大模型及自主AI智能体“Dots... 据最新消息显示,豆包此前在个人助理方向推进的探索项目(代号...",
-      "highlights": [
-        "OpenAI在开发者日上宣布推出全新大模型及自主AI智能体“Dots... 据最新消息显示,豆包此前在个人助理方向推进的探索项目(代号..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS23kq76XDGy_O5DAnvcL3EZRH0bblwtz61qXa8Fplpd9FPJfZ--7OkoKCd0SaJWQ_82_-HtFqm3h7PigUzGwey0X8MaWiu4TDC-WBlAOi_dOEZNo8_KMrYHVXi9ILbiUw9OSg2mdPoIbhd8mi89y-Z0Tt7s5JMp883KV0PMrgIpCkD90WurHF-tBI8Oe_NuY3IuLPm8km_6XMIhCNHeIpv8YJSSFPgfogQ..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=C39D341BE49C17B58086DD807C7EF6C181DF71566AC23725",
-      "source": "微信公众号",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-04T02:00:42Z"
-    },
-    {
-      "id": "8392ed2747ac",
-      "title": "AI大模型产业最新动态:十大热点新闻与解读 -2026年10月4日",
-      "summary": "OpenAI在开发者日上宣布推出全新大模型及自主AI智能体“Dots... 据最新消息显示,豆包此前在个人助理方向推进的探索项目(代号...",
-      "highlights": [
-        "OpenAI在开发者日上宣布推出全新大模型及自主AI智能体“Dots... 据最新消息显示,豆包此前在个人助理方向推进的探索项目(代号..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS23kq76XDGy__gmym6Vaq3NRH0bblwtz61qXa8Fplpd9FPJfZ--7OkoKCd0SaJWQ_82_-HtFqm3h7PigUzGwey0X8MaWiu4TDIgt29mbU31gJRczRJc5LsrH6JjW-oIMByQgNYCiz5M_bcZ9bLaAe3MGROLP_gRXrpQxmqbBxCUmAWyKB0-NTAt1AM916T7tXr8YBO0XUyg3SDI_Oa22VYuq3X8EKMKOIA..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=C50EBA65931386C643451E47A2CC85A243C34E506AC27864",
-      "source": "微信公众号",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-04T02:00:42Z"
-    },
-    {
-      "id": "cbd3d7a7d858",
-      "title": "AI大模型产业最新动态:十大热点新闻与解读 -2026年10月4日",
-      "summary": "OpenAI在开发者日上宣布推出全新大模型及自主AI智能体“Dots... 据最新消息显示,豆包此前在个人助理方向推进的探索项目(代号...",
-      "highlights": [
-        "OpenAI在开发者日上宣布推出全新大模型及自主AI智能体“Dots... 据最新消息显示,豆包此前在个人助理方向推进的探索项目(代号..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS23kq76XDGy_2lCpM-53ec5RH0bblwtz61qXa8Fplpd9FPJfZ--7OkoKCd0SaJWQ_82_-HtFqm3h7PigUzGwey0X8MaWiu4TDBMMjXmCU0j3Jh2EsHE_7b0qxlCLq6dXcQE1yO2sNuzU60lHEEOhaYnlejxLSRa4Ed5BUQ-3E94ZeL4xuTdAqxL9Xa9vPtEcC6pvstRRvBbQwgV6CeIWc4dQ_LeJW-Rhtg..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=C690E2967B2545E9A8AEF4A100A6FB68A909321A6AC2B7BB",
-      "source": "微信公众号",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-04T02:00:42Z"
-    },
-    {
-      "id": "452aef9e6054",
-      "title": "AI大模型产业最新动态:十大热点新闻与解读 -2026年10月4日",
-      "summary": "OpenAI在开发者日上宣布推出全新大模型及自主AI智能体“Dots... 据最新消息显示,豆包此前在个人助理方向推进的探索项目(代号...",
-      "highlights": [
-        "OpenAI在开发者日上宣布推出全新大模型及自主AI智能体“Dots... 据最新消息显示,豆包此前在个人助理方向推进的探索项目(代号..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS23kq76XDGy_KhKQkITT55hcHhtuBhukPFqXa8Fplpd9GP57u03Of3sUbJrsoXVzeR3oqndXxD5Jc4wmQuLT2-o9jwM-nwMQF7Cmlc5_IQZ8wGqv5ba_WRad2KI770iIIDk7UayXflfI_hd57TSRuyYzLCbQWk-qGD1BV3SlbkqBaBKH1BD_EMhgSw0Mq-3wtS8nY7_-QMePD4HQVHpxnCBj32-j2KiwUw..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=C88E3190C1D3A6BC10164C1FA237756811E5C3036AC30C58",
-      "source": "微信公众号",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-04T02:00:42Z"
-    },
-    {
-      "id": "f8650dccf142",
-      "title": "AI大模型产业最新动态:十大热点新闻与解读 -2026年10月4日",
-      "summary": "OpenAI在开发者日上宣布推出全新大模型及自主AI智能体“Dots... 据最新消息显示,豆包此前在个人助理方向推进的探索项目(代号...",
-      "highlights": [
-        "OpenAI在开发者日上宣布推出全新大模型及自主AI智能体“Dots... 据最新消息显示,豆包此前在个人助理方向推进的探索项目(代号..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS23kq76XDGy_ra3kkKdTeEdcHhtuBhukPFqXa8Fplpd9GP57u03Of3sUbJrsoXVzeR3oqndXxD5Jc4wmQuLT2-o9jwM-nwMQF7Cmlc5_IQZ8wGqv5ba_WRad2KI770iIIL93qZK28qnqfFMuxgaxS3V1_N_y6VCNf4sMwC8SzmJr4lS6JDmUnBKGl7fflWv0dI53jlEB7woXJ9s_NVTW9jUCYioxHkzTmA..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=C88E96072132475DF0F6ACFF4596B818F1CBB3AD6AC30C6D",
-      "source": "微信公众号",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-04T02:00:42Z"
-    },
-    {
-      "id": "f8de1e5ef3f8",
-      "title": "$162.8B went into U.S. startups in the first half of 2025, up ...",
-      "summary": "US startups raised a record $412.7 billion in the first half of 2026, and AI companies took $355.9 billion of it. Rounds of $100 million or more took 87.5% of",
-      "highlights": [
-        "US startups raised a record $412.7 billion in the first half of 2026, and AI companies took $355.9 billion of it. Rounds of $100 million or more took 87.5% of"
-      ],
-      "url": "https://www.instagram.com/reel/DeAFH4LDyTq",
-      "source": "instagram.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-03T15:17:09Z"
-    },
-    {
-      "id": "4afdbaae2f08",
-      "title": "剛剛，數學界炸了！Meta AI突然“開掛”：連破6大世界難題，數學界“AlphaGo時刻”來了！",
-      "summary": "AI開始真正挑戰數學家的“無人區”。 Meta超級智能實驗室研究人員畢樹超近日公佈了一組引發數學界和AI圈關注的成果：. 過去約6個月，多位數學家借助Meta AI模型Muse",
-      "highlights": [
-        "AI開始真正挑戰數學家的“無人區”",
-        "Meta超級智能實驗室研究人員畢樹超近日公佈了一組引發數學界和AI圈關注的成果：. 過去約6個月，多位數學家借助Meta AI模型Muse"
-      ],
-      "url": "https://hao.cnyes.com/post/270819",
-      "source": "hao.cnyes.com",
-      "category": "前沿理论",
-      "importance": 2,
-      "publishedAt": "2026-10-04T02:00:00Z"
-    },
-    {
-      "id": "801a30fcb60b",
-      "title": "數學界AlphaGo時刻出現！Meta AI攻克6大數學難題、Muse Spark突破研究無人區 | 鉅亨網",
-      "summary": "這六項研究呈現出 AI 在數學研究中的不同角色：從利用程式搜尋龐大的數學結構空間，到協助推導複雜公式，再到提出新的問題表述方式，逐步突破過去以解答已知題目為主的應用範圍。\n\n###### 畢樹超從數學博士轉向AI，盼借助模型挑戰頂尖難題\n\n這次研究成果的背後，畢樹超的學術經歷也受到關注。\n\n畢樹超本科畢業於浙江大學數學系，之後赴加州大學柏克萊分校深造，取得統計學碩士與數學博士學位，研究方向逐漸轉向...",
-      "highlights": [
-        "這六項研究呈現出 AI 在數學研究中的不同角色：從利用程式搜尋龐大的數學結構空間，到協助推導複雜公式，再到提出新的問題表述方式，逐步突破過去以解答已知題目為主的應用範圍",
-        "###### 畢樹超從數學博士轉向AI，盼借助模型挑戰頂尖難題",
-        "這次研究成果的背後，畢樹超的學術經歷也受到關注"
-      ],
-      "url": "https://news.cnyes.com/news/id/6621211",
-      "source": "news.cnyes.com",
-      "category": "前沿理论",
-      "importance": 2,
-      "publishedAt": "2026-10-04T09:00:00Z"
-    },
-    {
-      "id": "fe2c4ee67184",
-      "title": "港交所的锣，快不够用了！",
-      "summary": "东方财富网旗下财经自媒体平台“财富号”，于2017年3月1日上线，汇聚权威、全面、专业的财经自媒体，为中国广大投资者提供个性化、专业化的财经资讯和一站式金融理财",
-      "highlights": [
-        "东方财富网旗下财经自媒体平台“财富号”，于2017年3月1日上线，汇聚权威、全面、专业的财经自媒体，为中国广大投资者提供个性化、专业化的财经资讯和一站式金融理财"
-      ],
-      "url": "https://caifuhao.eastmoney.com/news/20261004180537214531230",
-      "source": "caifuhao.eastmoney.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-04T10:00:00Z"
-    },
-    {
-      "id": "aa514635a922",
-      "title": "From stealth to an acquisition worth up to $150 million ...",
-      "summary": "AI cloud infrastructure firm Nebius has acquired 10-month-old Israeli startup Inferize for an estimated $100M-$130M. The pre-launch startup specializes in",
-      "highlights": [
-        "AI cloud infrastructure firm Nebius has acquired 10-month-old Israeli startup Inferize for an estimated $100M-$130M. The pre-launch startup specializes in"
-      ],
-      "url": "https://www.instagram.com/reel/DeEqXR_gwtv",
-      "source": "instagram.com",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-10-04T16:01:52Z"
-    },
-    {
-      "id": "a676de3db73b",
-      "title": "AI funding isn't slowing — it's concentrating. $178B into ...",
-      "summary": "Public AI startups raised $104.3 billion in the U.S. in the first half of this year, nearly matching the $104.4 billion total for all of 2024.",
-      "highlights": [
-        "Public AI startups raised $104.3 billion in the U.S. in the first half of this year, nearly matching the $104.4 billion total for all of 2024."
-      ],
-      "url": "https://www.facebook.com/61591321656064/videos/ai-funding-isnt-slowing-its-concentrating-178b-into-foundational-ai-in-q1-560-va/1098869319276333",
-      "source": "facebook.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-04T16:01:52Z"
-    },
-    {
-      "id": "3cac2908c353",
-      "title": "Emerging Silicon Valley AI Startups: 300 Funded ...",
-      "summary": "Browse 300 companies in the Emerging Silicon Valley AI Startups list. Includes funding data, hiring signals, lead investors, contacts, tech stack,",
-      "highlights": [
-        "Browse 300 companies in the Emerging Silicon Valley AI Startups list. Includes funding data, hiring signals, lead investors, contacts, tech stack,"
-      ],
-      "url": "https://fundup.ai/lists/emerging-silicon-valley-ai-startups",
-      "source": "fundup.ai",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-04T15:00:00Z"
-    }
-  ],
-  "today": [],
-  "week": [],
-  "month": [
-    {
-      "id": "335ea007fa27",
-      "title": "4.3K views · 51 reactions | Nvidia announced the Open Agent Safety Platform to prevent the type of breakout that occurred when OpenAI models accessed HuggingFace.\n\nOpenAI, Anthropic, Meta, and Google have all disclosed recent incidents where their AI models escaped their sandboxes.\n\nNvidia said Cisco, Microsoft, Oracle, CoreWeave, Dell, HPE, Lenovo, ARM and Intel are partners.\n\nRead the latest here: cnb.cx/4hi2OXl | CNBC",
-      "summary": "[](\n\nOpenAI said over the weekend that it is carrying out an extensive review of its models' actions and has paused training of the most powerful models. Read more: cnb.cx/4ydH8l0\n\nCNBC\n\n674 views\n\n ·...",
-      "highlights": [
-        "OpenAI said over the weekend that it is carrying out an extensive review of its models' actions and has paused training of the most powerful models. Read more: cnb.cx/4ydH8l0",
-        "Image 16: Video thumbnail 1:31",
-        "Supply glut, lab-grown alternatives: What's behind the fall of diamond prices to record lows"
-      ],
-      "url": "https://www.facebook.com/cnbc/videos/nvidia-announced-the-open-agent-safety-platform-to-prevent-the-type-of-breakout-/28847488928270273",
-      "source": "facebook.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-03T02:28:52Z"
-    },
-    {
-      "id": "89c5962af2cb",
-      "title": "Holy smoke! Google cooked OpenAI and Anthropic",
-      "summary": "Google cooked OpenAI and Anthropic 3 frontier models in a month! Anthropic will have released models that outperform it. it would be made more widely available",
-      "highlights": [
-        "Google cooked OpenAI and Anthropic 3 frontier models in a month! Anthropic will have released models that outperform it. it would be made more widely available"
-      ],
-      "url": "https://www.reddit.com/r/GeminiAI/comments/1wufg38/holy_smoke_google_cooked_openai_and_anthropic",
-      "source": "reddit.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-03T02:28:52Z"
-    },
-    {
-      "id": "dbb2dc712a8c",
-      "title": "Nvidia announced the Open Agent Safety Platform ...",
-      "summary": "OpenAI, Anthropic, Meta, and Google have all disclosed recent incidents where their AI models escaped their sandboxes.",
-      "highlights": [
-        "OpenAI, Anthropic, Meta, and Google have all disclosed recent incidents where their AI models escaped their sandboxes."
-      ],
-      "url": "https://www.instagram.com/reel/Dd1BVW-jBae",
-      "source": "instagram.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-03T02:28:52Z"
-    },
-    {
-      "id": "85a40a87999b",
-      "title": "又一个00后造富神话-虎嗅网",
-      "summary": "## 23岁辍学生创业\n\nShinn不是突然冒出来的。\n\n本科就读于美国东北大学期间，他在校内的编程语言研究组从事类型预测和代码生成研究，也在MIT参与过机器学习与编程语言的交叉工作。\n\n真正让他在学术圈扬名的，是一篇论文。2023年，他以一作身份在NeurIPS发表了Reflexion，提出让AI智能体在任务失败后，用自然语言复盘错误、存入记忆，在后续任务中复用经验。这篇论文被视为AI Agen...",
-      "highlights": [
-        "## 23岁辍学生创业",
-        "Shinn不是突然冒出来的",
-        "本科就读于美国东北大学期间，他在校内的编程语言研究组从事类型预测和代码生成研究，也在MIT参与过机器学习与编程语言的交叉工作"
-      ],
-      "url": "https://m.huxiu.com/article/4895259.html?type=text",
-      "source": "m.huxiu.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-03T07:06:59Z"
-    },
-    {
-      "id": "4e86453759fe",
-      "title": "Anthropic launched Claude Opus 5.5, its latest flagship ...",
-      "summary": "From OpenAI's GPT-6 models and Anthropic's Claude Opus 5.5 to Microsoft's fourth India cloud region, Grok 4.7, Gemini's Live Avatar, and Alibaba's Zhenwu V900,",
-      "highlights": [
-        "From OpenAI's GPT-6 models and Anthropic's Claude Opus 5.5 to Microsoft's fourth India cloud region, Grok 4.7, Gemini's Live Avatar, and Alibaba's Zhenwu V900,"
-      ],
-      "url": "https://www.instagram.com/reel/Dd5esyhAlex",
-      "source": "instagram.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-03T15:17:09Z"
-    },
-    {
-      "id": "3424104d79bc",
-      "title": "算力自立的一周：Mate 90、DeepSeek与国产AI底座的“整体换装”_搜狐网",
-      "summary": "TileLang是这条路的核心抓手。DeepSeek从V3模型开始就大量使用自研的TileLang高级语言编写算子，而非直接调用CUDA。TileLang让开发者用简洁的高级语言编程，同时通过编译器优化逼近硬件性能上限。这套抽象层带来的直接红利是：底层指令的差异被封装，开发者逻辑几乎不需要重写，昇腾就变成了CUDA之外另一个可选项。对比OpenAI自研芯片和Anthropic堆模型效率这两条路，D...",
-      "highlights": [
-        "TileLang是这条路的核心抓手",
-        "DeepSeek从V3模型开始就大量使用自研的TileLang高级语言编写算子，而非直接调用CUDA",
-        "TileLang让开发者用简洁的高级语言编程，同时通过编译器优化逼近硬件性能上限"
-      ],
-      "url": "https://m.sohu.com/a/1083688009_128075?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-03T16:12:00Z"
-    },
-    {
-      "id": "7345be2d9c99",
-      "title": "谷歌一直在追赶OpenAI与Anthropic，其全新旗舰模型真能跻身前沿梯队吗？|Gemini 3|Gemini 4|Google|大模型|网络安全_手机新浪网",
-      "summary": "苏提到，OpenAI 与 Anthropic 的模型曾出现失控风险事件，这给谷歌创造了机会，使其有望 “树立可信模型供应商的定位，提供安全可靠的 AI 服务”。\n\nFuturum Group 的 AI 业务负责人尼克・佩申表示，虽然 Argon 让谷歌重新具备 AI 竞争力，但这款模型还不足以让谷歌成为行业 “领头羊”。\n\n蒂姆・劳称：“但至少，Gemini 4 Argon 在企业知识工作场景开辟...",
-      "highlights": [
-        "苏提到，OpenAI 与 Anthropic 的模型曾出现失控风险事件，这给谷歌创造了机会，使其有望 “树立可信模型供应商的定位，提供安全可靠的 AI 服务”",
-        "Futurum Group 的 AI 业务负责人尼克・佩申表示，虽然 Argon 让谷歌重新具备 AI 竞争力，但这款模型还不足以让谷歌成为行业 “领头羊”",
-        "蒂姆・劳称：“但至少，Gemini 4 Argon 在企业知识工作场景开辟了新的竞争战线，可与其他顶尖前沿模型一较高下"
-      ],
-      "url": "https://finance.sina.cn/usstock/mggd/2026-10-02/detail-initwenz7051030.d.html?oid=WA+0859+3970+0884+Rincian+Pembangunan+Rumah+Kayu+Minimalis+4x6+Berpengalaman++Solo&vt=4",
-      "source": "finance.sina.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-02T23:19:09Z"
-    },
-    {
-      "id": "b90853a9ce33",
-      "title": "中原证券：国产芯片发布计划大幅提前 算力投入呈现加速趋势 _ 东方财富网",
-      "summary": "8月26日，智谱宣布GLM-5.3-Flash所承载的流量都由国产芯片承载，调用超过10万张国产芯片集群用于改模型推理服务，硬件效率及单token成本已经达到了与主流英伟达GPU相当的水平，这也意味着国产芯片的推理服务能力已经获得了核心客户的认可。\n\n1.3.1.4. 昇腾960和真武V900上市计划大幅提前\n\n阿里：目前，平头哥已经在算力、网力、存力芯片上都实现了自研，包括真武系列AI芯片、倚天...",
-      "highlights": [
-        "8月26日，智谱宣布GLM-5.3-Flash所承载的流量都由国产芯片承载，调用超过10万张国产芯片集群用于改模型推理服务，硬件效率及单token成本已经达到了与主流英伟达GPU相当的水平，这也意味着国产芯片的推理服务能力已经获得了核心客户的认可",
-        "1.3.1.4. 昇腾960和真武V900上市计划大幅提前",
-        "阿里：目前，平头哥已经在算力、网力、存力芯片上都实现了自研，包括真武系列AI芯片、倚天系列CPU芯片（ARM）、ICN Switch互联芯片、磐脉系列智能网卡、镇岳系列存储主控芯片，实现了AI集群的核心芯片全覆盖"
-      ],
-      "url": "https://wap.eastmoney.com/a/202610033888486814.html",
-      "source": "wap.eastmoney.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-03T08:00:00Z"
-    },
-    {
-      "id": "23b13e72f8f0",
-      "title": "史上最大IPO提速！文科生创始人成最年轻女富豪|中原环保|平煤神马|河南省|私募基金|AI_新浪新闻",
-      "summary": "9月28日，AMD宣布与AI模型与研究实验室World Labs已达成最终协议，将以估值约为82亿美元的股票收购World Labs，预计于2026年年底前完成交割。AMD表示，此次收购将为其引入一支世界级的科研人员与模型专家团队，有助于公司围绕新兴模型与应用的需求，开发与之适配的AI硬件、软件与系统。\n\n　　交易完成后，World Labs 团队将继续专注于推进AI模型研究；李飞飞将加入AMD，...",
-      "highlights": [
-        "9月28日，AMD宣布与AI模型与研究实验室World Labs已达成最终协议，将以估值约为82亿美元的股票收购World Labs，预计于2026年年底前完成交割",
-        "AMD表示，此次收购将为其引入一支世界级的科研人员与模型专家团队，有助于公司围绕新兴模型与应用的需求，开发与之适配的AI硬件、软件与系统",
-        "交易完成后，World Labs 团队将继续专注于推进AI模型研究；李飞飞将加入AMD，出任执行副总裁兼首席科学家，向苏姿丰汇报"
-      ],
-      "url": "https://k.sina.com.cn/article_2401737737_8f279c09001031z2o.html?from=finance",
-      "source": "k.sina.com.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-03T10:33:22Z"
-    },
-    {
-      "id": "e388f971bcfc",
-      "title": "Nscale任命Meta高管为COO：Pre-IPO轮融资34亿美元 Third Point领投_手机新浪网",
-      "summary": "## \n\nNscale在2026年9月底刚通过可转换票据融资33.6亿美元，本轮融资由Third Point领投。参与本轮融资的新老投资者还包括NVIDIA、由Apollo管理的基金、Citadel、Hudson Bay Capital、阿布扎比投资委员会（Abu Dhabi Investment Council）及8090 Industries等。\n\n该融资包括交割时首批发放的23.6亿美元资金...",
-      "highlights": [
-        "Nscale在2026年9月底刚通过可转换票据融资33.6亿美元，本轮融资由Third Point领投",
-        "参与本轮融资的新老投资者还包括NVIDIA、由Apollo管理的基金、Citadel、Hudson Bay Capital、阿布扎比投资委员会（Abu Dhabi Investment Council）及8090 Industries等",
-        "该融资包括交割时首批发放的23.6亿美元资金，以及英伟达（NVIDIA）额外承诺提供的10亿美元资金（预计于2026年11月中旬到位）"
-      ],
-      "url": "https://finance.sina.cn/stock/jdts/2026-10-03/detail-initxnhi4879629.d.html?oid=%E9%A6%99%E5%A5%88%E5%84%BF%E5%8C%85%E5%8C%85a%E8%B4%A7%E4%BB%B7%E6%A0%BC%E5%8E%9F%E5%8D%95%E2%97%86%E5%BE%AE%E4%BF%A1198099199%E2%97%86Si6U&vt=4&cid=76993&node_id=76993",
-      "source": "finance.sina.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-03T12:45:04Z"
     }
   ]
 }
