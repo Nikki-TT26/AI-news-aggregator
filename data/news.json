@@ -1,34 +1,6 @@
 {
-  "updatedAt": "2026-10-05T12:47:02Z",
+  "updatedAt": "2026-10-05T23:23:58Z",
   "latest": [
-    {
-      "id": "4e86453759fe",
-      "title": "Anthropic launched Claude Opus 5.5, its latest flagship ...",
-      "summary": "From OpenAI's GPT-6 models and Anthropic's Claude Opus 5.5 to Microsoft's fourth India cloud region, Grok 4.7, Gemini's Live Avatar, and Alibaba's Zhenwu V900,",
-      "highlights": [
-        "From OpenAI's GPT-6 models and Anthropic's Claude Opus 5.5 to Microsoft's fourth India cloud region, Grok 4.7, Gemini's Live Avatar, and Alibaba's Zhenwu V900,"
-      ],
-      "url": "https://www.instagram.com/reel/Dd5esyhAlex",
-      "source": "instagram.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-03T15:17:09Z"
-    },
-    {
-      "id": "3424104d79bc",
-      "title": "算力自立的一周：Mate 90、DeepSeek与国产AI底座的“整体换装”_搜狐网",
-      "summary": "TileLang是这条路的核心抓手。DeepSeek从V3模型开始就大量使用自研的TileLang高级语言编写算子，而非直接调用CUDA。TileLang让开发者用简洁的高级语言编程，同时通过编译器优化逼近硬件性能上限。这套抽象层带来的直接红利是：底层指令的差异被封装，开发者逻辑几乎不需要重写，昇腾就变成了CUDA之外另一个可选项。对比OpenAI自研芯片和Anthropic堆模型效率这两条路，D...",
-      "highlights": [
-        "TileLang是这条路的核心抓手",
-        "DeepSeek从V3模型开始就大量使用自研的TileLang高级语言编写算子，而非直接调用CUDA",
-        "TileLang让开发者用简洁的高级语言编程，同时通过编译器优化逼近硬件性能上限"
-      ],
-      "url": "https://m.sohu.com/a/1083688009_128075?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-03T16:12:00Z"
-    },
     {
       "id": "5f13d670f7c1",
       "title": "AI定制芯片概念股盘点：博通之外，迈威尔科技、台积电、Amkor谁更值得关注？",
@@ -118,6 +90,66 @@
       "publishedAt": "2026-10-05T10:00:00Z"
     },
     {
+      "id": "576541b071f9",
+      "title": "中美大模型差距在拉大：美国三巨头狂飙 国产AI期待梁圣归来--快科技--科技改变未来",
+      "summary": "美国AI御三家近期高强度更新，Anthropic之前虽然因为Opus 4.7到5.0的性能提升不如预期被嘲讽，但Fabel 5.1到Opus 5.5、Sonnet 5.5这一波直接反转，用户量和口碑回来了，当然针对国内的封号同样在加强，但这也阻止不了国内开发者砸钱去买Opus 5.5，靠的就是Opus 5.5的底气。\n\nOpenAI最近密集发布了GPT-6系列多个大模型，包括Astra、Sol等旗...",
+      "highlights": [
+        "美国AI御三家近期高强度更新，Anthropic之前虽然因为Opus 4.7到5.0的性能提升不如预期被嘲讽，但Fabel 5.1到Opus 5.5、Sonnet 5.5这一波直接反转，用户量和口碑回来了，当然针对国内的封号同样在加强，但这也阻止不了国内开发者砸钱去买Opus 5.5，靠的就是Opus 5.5的底气",
+        "OpenAI最近密集发布了GPT-6系列多个大模型，包括Astra、Sol等旗舰级产品，表现有好有坏，尤其是GPT-6 Sol不到一周时间就被6.1 Sol取代，但整体的实力仍在，引发不满的主要是他们的运营策略，尤其是200美元套餐调整的问题",
+        "谷歌今年的表现一言难尽，过去几个月主要靠Flash模型刷存在感，但最新的Gemini 4.0 Argon也来一波咸鱼翻身，目前主要是限制使用范围，但性能表现很好，有机会光明正大地回归御三家之列"
+      ],
+      "url": "https://news.mydrivers.com/1/1155/1155411.htm",
+      "source": "news.mydrivers.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-05T03:00:00Z"
+    },
+    {
+      "id": "641e21662e4c",
+      "title": "Altman“亲自救场”，能否真的稳住 Cerebras？ | NAI 500",
+      "summary": "上周暴跌的导火索，是曝出 OpenAI 将采用英伟达GPU、而非 Cerebras 自家芯片，为 GPT-6.1 Sol 的 “Ultrafast” 模式提供算力。作为英伟达的直接竞争对手，Cerebras 主营晶圆级 AI 芯片与系统，旗舰产品 Wafer Scale Engine 3 号称运行速度快于英伟达GPU，并在今年 1 月刚与 OpenAI 签下 750 兆瓦算力、持续至 2028 年...",
+      "highlights": [
+        "上周暴跌的导火索，是曝出 OpenAI 将采用英伟达GPU、而非 Cerebras 自家芯片，为 GPT-6.1 Sol 的 “Ultrafast” 模式提供算力",
+        "作为英伟达的直接竞争对手，Cerebras 主营晶圆级 AI 芯片与系统，旗舰产品 Wafer Scale Engine 3 号称运行速度快于英伟达GPU，并在今年 1 月刚与 OpenAI 签下 750 兆瓦算力、持续至 2028 年的供应协议",
+        "正因如此，“弃用自研芯片” 的消息才直接击穿了市场对双方合作深度的信心"
+      ],
+      "url": "https://nai500.com/zh-hans/blog/2026/10/altman%E4%BA%B2%E8%87%AA%E6%95%91%E5%9C%BA%EF%BC%8C%E8%83%BD%E5%90%A6%E7%9C%9F%E7%9A%84%E7%A8%B3%E4%BD%8F-cerebras%EF%BC%9F",
+      "source": "nai500.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-05T12:00:00Z"
+    },
+    {
+      "id": "f1fb5bd27a7c",
+      "title": "Yellow.com",
+      "summary": "币安于8月20日上线开发者平台Agent OS， 将ChatGPT、Claude Code、Cursor等AI开发工具与其行情数据、账户信息及交易执行系统打通。 用户可以为代理配置独立的子账户，子账户默认禁止提现。  \n 币安并未对代理在该子账户内的交易规模或最大亏损额设专门上限，用户转入的资金余额本身就构成天然“限额”。\n\nCoinbase则在6月11日推出“Coinbase for Agent...",
+      "highlights": [
+        "币安于8月20日上线开发者平台Agent OS， 将ChatGPT、Claude Code、Cursor等AI开发工具与其行情数据、账户信息及交易执行系统打通",
+        "用户可以为代理配置独立的子账户，子账户默认禁止提现",
+        "币安并未对代理在该子账户内的交易规模或最大亏损额设专门上限，用户转入的资金余额本身就构成天然“限额”"
+      ],
+      "url": "https://yellow.com/zh/news/robinhood%E3%80%81%E5%B8%81%E5%AE%89%E4%B8%8Ecoinbase%E5%BC%80%E6%94%BE%E7%94%B1ai%E4%BB%A3%E7%90%86%E4%B8%8B%E5%8D%95%EF%BC%9A%E6%8A%95%E8%B5%84%E8%80%85%E9%9C%80%E7%9F%A5%E7%9A%84%E5%85%B3%E9%94%AE%E4%BF%A1%E6%81%AF",
+      "source": "yellow.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-04T17:45:09Z"
+    },
+    {
+      "id": "dd42341a2f1d",
+      "title": "Open-weight models are the greatest threat to Anthropic and OpenAI : r/LocalLLM",
+      "summary": "Google publicly backs open-weight AI models. Is the industry moving toward more open AI?Image 51 r/LocalLLM•2mo ago    ### Google publicly backs open-weight AI models. Is the industry moving toward mo...",
+      "highlights": [
+        "Google publicly backs open-weight AI models. Is the industry moving toward more open AI?Image 51 r/LocalLLM•2mo ago    ### Google publicly backs open-weight AI models. Is the industry moving toward more open AI?    78 upvotes ·24 comments",
+        "Has anyone else noticed OpenAI models becoming much more stable lately?Image 52 r/OpenAI•2mo ago    ### Has anyone else noticed OpenAI models becoming much more stable lately?    8 comments [...] •20h ago",
+        "> Businesses will buy dedicated Nvidia server hardware to power their internal tools and dev teams on-premise"
+      ],
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1wxksoi/openweight_models_are_the_greatest_threat_to",
+      "source": "reddit.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-04T18:00:00Z"
+    },
+    {
       "id": "9d21f57e72cd",
       "title": "深度｜对话 Google Research 负责人：暴力堆卡已到尽头，下一代架构不在预训练里_搜狐网",
       "summary": "现有架构的限制，并不等于 AI 的极限。Scaling law 描述的是沿着既有技术路线增加数据和算力的收益，但新的算法与架构仍可能改变效率边界。Matias 以投机解码为例，强调研究还要不断寻找全新的方法，而下一轮更大幅度的提升仍有待突破。\n AI 最成熟的形态是人们不再需要时刻注意它。他将这种状态称为“环境智能”（ambient intelligence）：智能自然融入日常体验，用户可以专注于...",
@@ -202,6 +234,32 @@
       "category": "具身智能",
       "importance": 4,
       "publishedAt": "2026-10-04T10:47:09Z"
+    },
+    {
+      "id": "ce687d9184a0",
+      "title": "奥特曼称Cerebras为“紧密合作伙伴”，该芯片企业股价盘前上涨6%",
+      "summary": "AI硬件企业Cerebras周一盘前股价走高，从上周跌势中反弹，最新盘前涨幅6.3%，报每股177美元，当前总市值略超390亿美元，较5月上市首日950亿美元的市值近乎腰斩。",
+      "highlights": [
+        "AI硬件企业Cerebras周一盘前股价走高，从上周跌势中反弹，最新盘前涨幅6.3%，报每股177美元，当前总市值略超390亿美元，较5月上市首日950亿美元的市值近乎腰斩"
+      ],
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniuemac4378341.shtml?cre=tianyi&mod=pchp&loc=27&r=0&rfunc=98&tj=cxvertical_pc_hp&tr=12",
+      "source": "finance.sina.com.cn",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-05T10:00:00Z"
+    },
+    {
+      "id": "a75bd2763898",
+      "title": "Anthropic considers new AI model amid OpenAI's GPT-6 ...",
+      "summary": "Anthropic is reportedly considering the release of a new AI model as it responds to growing competition from OpenAI's GPT-6 Astra.",
+      "highlights": [
+        "Anthropic is reportedly considering the release of a new AI model as it responds to growing competition from OpenAI's GPT-6 Astra."
+      ],
+      "url": "https://www.facebook.com/exclaimit/posts/the-ai-race-continues-to-heat-up-anthropic-is-reportedly-considering-the-release/1412575287687009",
+      "source": "facebook.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-05T23:23:58Z"
     },
     {
       "id": "f112aa75c0ea",
@@ -323,98 +381,47 @@
       "publishedAt": "2026-10-05T00:31:34Z"
     },
     {
-      "id": "f8de1e5ef3f8",
-      "title": "$162.8B went into U.S. startups in the first half of 2025, up ...",
-      "summary": "US startups raised a record $412.7 billion in the first half of 2026, and AI companies took $355.9 billion of it. Rounds of $100 million or more took 87.5% of",
+      "id": "f4035f3f4fa5",
+      "title": "全球大模型第一股，大涨_搜狐网",
+      "summary": "高盛最新发布的研报将智谱评级由“中性”上调至“买入”，并将基于DCF的12个月目标价修订为1560港元。上调理由方面，一是智谱商业化路径进一步明确。高盛将公司2026年底ARR预测上调至32亿美元（此前预测为27亿美元），主要考虑Token需求增长，以及公司自10月起与中国及全球大型云厂商执行新的商业合作条款。二是算力基础设施扩张和资产负债表改善有望支撑业务规模继续扩大。三是成本效率改善有望推动推...",
       "highlights": [
-        "US startups raised a record $412.7 billion in the first half of 2026, and AI companies took $355.9 billion of it. Rounds of $100 million or more took 87.5% of"
+        "高盛最新发布的研报将智谱评级由“中性”上调至“买入”，并将基于DCF的12个月目标价修订为1560港元",
+        "上调理由方面，一是智谱商业化路径进一步明确",
+        "高盛将公司2026年底ARR预测上调至32亿美元（此前预测为27亿美元），主要考虑Token需求增长，以及公司自10月起与中国及全球大型云厂商执行新的商业合作条款"
       ],
-      "url": "https://www.instagram.com/reel/DeAFH4LDyTq",
-      "source": "instagram.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-03T15:17:09Z"
+      "url": "https://m.sohu.com/a/1084238797_465270?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-10-05T16:20:00Z"
     },
     {
-      "id": "4afdbaae2f08",
-      "title": "剛剛，數學界炸了！Meta AI突然“開掛”：連破6大世界難題，數學界“AlphaGo時刻”來了！",
-      "summary": "AI開始真正挑戰數學家的“無人區”。 Meta超級智能實驗室研究人員畢樹超近日公佈了一組引發數學界和AI圈關注的成果：. 過去約6個月，多位數學家借助Meta AI模型Muse",
+      "id": "5742e4d4ceaa",
+      "title": "美国具身智能学界正担忧失去人心-虎嗅网",
+      "summary": "Mehta进一步列举公众担忧的具体技术场景。Behram Wali发表于《Transportation Research Part A》的研究显示，约85%的美国人认为自动驾驶汽车将扰乱与驾驶相关的就业，另有47%认为其将加剧收入不平等。另一项关于旧金山机器人出租车需求的研究（Loa,Lee&Circella，《Transportation》）则发现，女性居民占比、人口密度以及被划定为弱势或公平优...",
       "highlights": [
-        "AI開始真正挑戰數學家的“無人區”",
-        "Meta超級智能實驗室研究人員畢樹超近日公佈了一組引發數學界和AI圈關注的成果：. 過去約6個月，多位數學家借助Meta AI模型Muse"
+        "Mehta进一步列举公众担忧的具体技术场景",
+        "Behram Wali发表于《Transportation Research Part A》的研究显示，约85%的美国人认为自动驾驶汽车将扰乱与驾驶相关的就业，另有47%认为其将加剧收入不平等",
+        "另一项关于旧金山机器人出租车需求的研究（Loa,Lee&Circella，《Transportation》）则发现，女性居民占比、人口密度以及被划定为弱势或公平优先社区的属性，与机器人出租车需求呈负相关"
       ],
-      "url": "https://hao.cnyes.com/post/270819",
-      "source": "hao.cnyes.com",
-      "category": "前沿理论",
-      "importance": 2,
-      "publishedAt": "2026-10-04T02:00:00Z"
+      "url": "https://www.huxiu.com/article/4895434.html",
+      "source": "huxiu.com",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-10-05T07:51:22Z"
     },
     {
-      "id": "801a30fcb60b",
-      "title": "數學界AlphaGo時刻出現！Meta AI攻克6大數學難題、Muse Spark突破研究無人區 | 鉅亨網",
-      "summary": "這六項研究呈現出 AI 在數學研究中的不同角色：從利用程式搜尋龐大的數學結構空間，到協助推導複雜公式，再到提出新的問題表述方式，逐步突破過去以解答已知題目為主的應用範圍。\n\n###### 畢樹超從數學博士轉向AI，盼借助模型挑戰頂尖難題\n\n這次研究成果的背後，畢樹超的學術經歷也受到關注。\n\n畢樹超本科畢業於浙江大學數學系，之後赴加州大學柏克萊分校深造，取得統計學碩士與數學博士學位，研究方向逐漸轉向...",
+      "id": "548be726c9b9",
+      "title": "How do companies such as OpenAI and Anthropic build ...",
+      "summary": "At its core, an AI model is an intimidating cluster of servers crunching statistics. OpenAI and Anthropic wrap this cold reality in a warm, human touch for one",
       "highlights": [
-        "這六項研究呈現出 AI 在數學研究中的不同角色：從利用程式搜尋龐大的數學結構空間，到協助推導複雜公式，再到提出新的問題表述方式，逐步突破過去以解答已知題目為主的應用範圍",
-        "###### 畢樹超從數學博士轉向AI，盼借助模型挑戰頂尖難題",
-        "這次研究成果的背後，畢樹超的學術經歷也受到關注"
+        "At its core, an AI model is an intimidating cluster of servers crunching statistics. OpenAI and Anthropic wrap this cold reality in a warm, human touch for one"
       ],
-      "url": "https://news.cnyes.com/news/id/6621211",
-      "source": "news.cnyes.com",
-      "category": "前沿理论",
-      "importance": 2,
-      "publishedAt": "2026-10-04T09:00:00Z"
-    },
-    {
-      "id": "fe2c4ee67184",
-      "title": "港交所的锣，快不够用了！",
-      "summary": "东方财富网旗下财经自媒体平台“财富号”，于2017年3月1日上线，汇聚权威、全面、专业的财经自媒体，为中国广大投资者提供个性化、专业化的财经资讯和一站式金融理财",
-      "highlights": [
-        "东方财富网旗下财经自媒体平台“财富号”，于2017年3月1日上线，汇聚权威、全面、专业的财经自媒体，为中国广大投资者提供个性化、专业化的财经资讯和一站式金融理财"
-      ],
-      "url": "https://caifuhao.eastmoney.com/news/20261004180537214531230",
-      "source": "caifuhao.eastmoney.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-04T10:00:00Z"
-    },
-    {
-      "id": "aa514635a922",
-      "title": "From stealth to an acquisition worth up to $150 million ...",
-      "summary": "AI cloud infrastructure firm Nebius has acquired 10-month-old Israeli startup Inferize for an estimated $100M-$130M. The pre-launch startup specializes in",
-      "highlights": [
-        "AI cloud infrastructure firm Nebius has acquired 10-month-old Israeli startup Inferize for an estimated $100M-$130M. The pre-launch startup specializes in"
-      ],
-      "url": "https://www.instagram.com/reel/DeEqXR_gwtv",
-      "source": "instagram.com",
+      "url": "https://www.quora.com/How-do-companies-such-as-OpenAI-and-Anthropic-build-trust-with-users-despite-the-risks-associated-with-AI-models-potentially-going-rogue",
+      "source": "quora.com",
       "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-10-04T16:01:52Z"
-    },
-    {
-      "id": "a676de3db73b",
-      "title": "AI funding isn't slowing — it's concentrating. $178B into ...",
-      "summary": "Public AI startups raised $104.3 billion in the U.S. in the first half of this year, nearly matching the $104.4 billion total for all of 2024.",
-      "highlights": [
-        "Public AI startups raised $104.3 billion in the U.S. in the first half of this year, nearly matching the $104.4 billion total for all of 2024."
-      ],
-      "url": "https://www.facebook.com/61591321656064/videos/ai-funding-isnt-slowing-its-concentrating-178b-into-foundational-ai-in-q1-560-va/1098869319276333",
-      "source": "facebook.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-04T16:01:52Z"
-    },
-    {
-      "id": "3cac2908c353",
-      "title": "Emerging Silicon Valley AI Startups: 300 Funded ...",
-      "summary": "Browse 300 companies in the Emerging Silicon Valley AI Startups list. Includes funding data, hiring signals, lead investors, contacts, tech stack,",
-      "highlights": [
-        "Browse 300 companies in the Emerging Silicon Valley AI Startups list. Includes funding data, hiring signals, lead investors, contacts, tech stack,"
-      ],
-      "url": "https://fundup.ai/lists/emerging-silicon-valley-ai-startups",
-      "source": "fundup.ai",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-04T15:00:00Z"
+      "importance": 3,
+      "publishedAt": "2026-10-05T23:23:58Z"
     }
   ],
   "today": [
@@ -464,6 +471,36 @@
       "publishedAt": "2026-10-05T10:00:00Z"
     },
     {
+      "id": "576541b071f9",
+      "title": "中美大模型差距在拉大：美国三巨头狂飙 国产AI期待梁圣归来--快科技--科技改变未来",
+      "summary": "美国AI御三家近期高强度更新，Anthropic之前虽然因为Opus 4.7到5.0的性能提升不如预期被嘲讽，但Fabel 5.1到Opus 5.5、Sonnet 5.5这一波直接反转，用户量和口碑回来了，当然针对国内的封号同样在加强，但这也阻止不了国内开发者砸钱去买Opus 5.5，靠的就是Opus 5.5的底气。\n\nOpenAI最近密集发布了GPT-6系列多个大模型，包括Astra、Sol等旗...",
+      "highlights": [
+        "美国AI御三家近期高强度更新，Anthropic之前虽然因为Opus 4.7到5.0的性能提升不如预期被嘲讽，但Fabel 5.1到Opus 5.5、Sonnet 5.5这一波直接反转，用户量和口碑回来了，当然针对国内的封号同样在加强，但这也阻止不了国内开发者砸钱去买Opus 5.5，靠的就是Opus 5.5的底气",
+        "OpenAI最近密集发布了GPT-6系列多个大模型，包括Astra、Sol等旗舰级产品，表现有好有坏，尤其是GPT-6 Sol不到一周时间就被6.1 Sol取代，但整体的实力仍在，引发不满的主要是他们的运营策略，尤其是200美元套餐调整的问题",
+        "谷歌今年的表现一言难尽，过去几个月主要靠Flash模型刷存在感，但最新的Gemini 4.0 Argon也来一波咸鱼翻身，目前主要是限制使用范围，但性能表现很好，有机会光明正大地回归御三家之列"
+      ],
+      "url": "https://news.mydrivers.com/1/1155/1155411.htm",
+      "source": "news.mydrivers.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-05T03:00:00Z"
+    },
+    {
+      "id": "641e21662e4c",
+      "title": "Altman“亲自救场”，能否真的稳住 Cerebras？ | NAI 500",
+      "summary": "上周暴跌的导火索，是曝出 OpenAI 将采用英伟达GPU、而非 Cerebras 自家芯片，为 GPT-6.1 Sol 的 “Ultrafast” 模式提供算力。作为英伟达的直接竞争对手，Cerebras 主营晶圆级 AI 芯片与系统，旗舰产品 Wafer Scale Engine 3 号称运行速度快于英伟达GPU，并在今年 1 月刚与 OpenAI 签下 750 兆瓦算力、持续至 2028 年...",
+      "highlights": [
+        "上周暴跌的导火索，是曝出 OpenAI 将采用英伟达GPU、而非 Cerebras 自家芯片，为 GPT-6.1 Sol 的 “Ultrafast” 模式提供算力",
+        "作为英伟达的直接竞争对手，Cerebras 主营晶圆级 AI 芯片与系统，旗舰产品 Wafer Scale Engine 3 号称运行速度快于英伟达GPU，并在今年 1 月刚与 OpenAI 签下 750 兆瓦算力、持续至 2028 年的供应协议",
+        "正因如此，“弃用自研芯片” 的消息才直接击穿了市场对双方合作深度的信心"
+      ],
+      "url": "https://nai500.com/zh-hans/blog/2026/10/altman%E4%BA%B2%E8%87%AA%E6%95%91%E5%9C%BA%EF%BC%8C%E8%83%BD%E5%90%A6%E7%9C%9F%E7%9A%84%E7%A8%B3%E4%BD%8F-cerebras%EF%BC%9F",
+      "source": "nai500.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-05T12:00:00Z"
+    },
+    {
       "id": "475d53755606",
       "title": "AI 大模型世界",
       "summary": "国外 ; Claude Opus 5.5. Anthropic · 世界#1 ; GPT-6 Astra. OpenAI · 世界#2 ; Gemini 3.8 Flash. 谷歌 · 世界#15 ; Muse Spark 1.3. Meta · 世界#17 ; Grok 4.7. xAI · 暂无.",
@@ -520,6 +557,32 @@
       "publishedAt": "2026-10-05T12:47:02Z"
     },
     {
+      "id": "ce687d9184a0",
+      "title": "奥特曼称Cerebras为“紧密合作伙伴”，该芯片企业股价盘前上涨6%",
+      "summary": "AI硬件企业Cerebras周一盘前股价走高，从上周跌势中反弹，最新盘前涨幅6.3%，报每股177美元，当前总市值略超390亿美元，较5月上市首日950亿美元的市值近乎腰斩。",
+      "highlights": [
+        "AI硬件企业Cerebras周一盘前股价走高，从上周跌势中反弹，最新盘前涨幅6.3%，报每股177美元，当前总市值略超390亿美元，较5月上市首日950亿美元的市值近乎腰斩"
+      ],
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniuemac4378341.shtml?cre=tianyi&mod=pchp&loc=27&r=0&rfunc=98&tj=cxvertical_pc_hp&tr=12",
+      "source": "finance.sina.com.cn",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-05T10:00:00Z"
+    },
+    {
+      "id": "a75bd2763898",
+      "title": "Anthropic considers new AI model amid OpenAI's GPT-6 ...",
+      "summary": "Anthropic is reportedly considering the release of a new AI model as it responds to growing competition from OpenAI's GPT-6 Astra.",
+      "highlights": [
+        "Anthropic is reportedly considering the release of a new AI model as it responds to growing competition from OpenAI's GPT-6 Astra."
+      ],
+      "url": "https://www.facebook.com/exclaimit/posts/the-ai-race-continues-to-heat-up-anthropic-is-reportedly-considering-the-release/1412575287687009",
+      "source": "facebook.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-05T23:23:58Z"
+    },
+    {
       "id": "da5066df565d",
       "title": "AI教父Hinton首篇RSI论文：今天一年的AI进步未来可能只需5周，人类窗口期或已不多",
       "summary": "Hinton等22位顶尖AI科学家联署警告： AI自主完成研发工作的比例已从1%飙升至26%（半年内增长20倍），Anthropic数据显示AI生成代码占比突破80%。论文核心推演揭示：若AI",
@@ -545,6 +608,62 @@
       "category": "产品进展",
       "importance": 3,
       "publishedAt": "2026-10-05T00:31:34Z"
+    },
+    {
+      "id": "f4035f3f4fa5",
+      "title": "全球大模型第一股，大涨_搜狐网",
+      "summary": "高盛最新发布的研报将智谱评级由“中性”上调至“买入”，并将基于DCF的12个月目标价修订为1560港元。上调理由方面，一是智谱商业化路径进一步明确。高盛将公司2026年底ARR预测上调至32亿美元（此前预测为27亿美元），主要考虑Token需求增长，以及公司自10月起与中国及全球大型云厂商执行新的商业合作条款。二是算力基础设施扩张和资产负债表改善有望支撑业务规模继续扩大。三是成本效率改善有望推动推...",
+      "highlights": [
+        "高盛最新发布的研报将智谱评级由“中性”上调至“买入”，并将基于DCF的12个月目标价修订为1560港元",
+        "上调理由方面，一是智谱商业化路径进一步明确",
+        "高盛将公司2026年底ARR预测上调至32亿美元（此前预测为27亿美元），主要考虑Token需求增长，以及公司自10月起与中国及全球大型云厂商执行新的商业合作条款"
+      ],
+      "url": "https://m.sohu.com/a/1084238797_465270?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-10-05T16:20:00Z"
+    },
+    {
+      "id": "5742e4d4ceaa",
+      "title": "美国具身智能学界正担忧失去人心-虎嗅网",
+      "summary": "Mehta进一步列举公众担忧的具体技术场景。Behram Wali发表于《Transportation Research Part A》的研究显示，约85%的美国人认为自动驾驶汽车将扰乱与驾驶相关的就业，另有47%认为其将加剧收入不平等。另一项关于旧金山机器人出租车需求的研究（Loa,Lee&Circella，《Transportation》）则发现，女性居民占比、人口密度以及被划定为弱势或公平优...",
+      "highlights": [
+        "Mehta进一步列举公众担忧的具体技术场景",
+        "Behram Wali发表于《Transportation Research Part A》的研究显示，约85%的美国人认为自动驾驶汽车将扰乱与驾驶相关的就业，另有47%认为其将加剧收入不平等",
+        "另一项关于旧金山机器人出租车需求的研究（Loa,Lee&Circella，《Transportation》）则发现，女性居民占比、人口密度以及被划定为弱势或公平优先社区的属性，与机器人出租车需求呈负相关"
+      ],
+      "url": "https://www.huxiu.com/article/4895434.html",
+      "source": "huxiu.com",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-10-05T07:51:22Z"
+    },
+    {
+      "id": "548be726c9b9",
+      "title": "How do companies such as OpenAI and Anthropic build ...",
+      "summary": "At its core, an AI model is an intimidating cluster of servers crunching statistics. OpenAI and Anthropic wrap this cold reality in a warm, human touch for one",
+      "highlights": [
+        "At its core, an AI model is an intimidating cluster of servers crunching statistics. OpenAI and Anthropic wrap this cold reality in a warm, human touch for one"
+      ],
+      "url": "https://www.quora.com/How-do-companies-such-as-OpenAI-and-Anthropic-build-trust-with-users-despite-the-risks-associated-with-AI-models-potentially-going-rogue",
+      "source": "quora.com",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-10-05T23:23:58Z"
+    },
+    {
+      "id": "83f77ae81d5e",
+      "title": "Google is now the FOURTH major AI lab to disclose ...",
+      "summary": "A tech commentator discusses Google's development of a new AI chip code-named 'Frozen,' which is designed to run Gemini models directly on the silicon for",
+      "highlights": [
+        "A tech commentator discusses Google's development of a new AI chip code-named 'Frozen,' which is designed to run Gemini models directly on the silicon for"
+      ],
+      "url": "https://www.facebook.com/61588604734279/videos/google-is-now-the-fourth-major-ai-lab-to-disclose-an-incident-like-thissimilar-c/1622403549519378",
+      "source": "facebook.com",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-10-05T23:23:58Z"
     },
     {
       "id": "269fa7e9497f",
@@ -573,6 +692,62 @@
       "category": "投并购",
       "importance": 2,
       "publishedAt": "2026-10-05T11:00:13Z"
+    },
+    {
+      "id": "32185ca6ab55",
+      "title": "- 机器人大讲堂",
+      "summary": "LeaderBot\n\n### 精彩推荐\n\n- 固态电池第一个大规模商用场景，可能不是电动车而是人形机器人\n- 这三家公司，都不想再采真机数据了\n- 95后清华博士放弃腾讯高薪，做机器人大脑，想把技能变成可上架的商品\n- 方奇科技完成千万级天使轮，提出用语义化世界模型解决物理和语义知识割裂\n- 天工机器人在北京艺术与科技周上和人类舞者共舞\n\n精彩文章\n\n扫码手机阅读\n\n#### 关于我们\n\nRobo...",
+      "highlights": [
+        "- 固态电池第一个大规模商用场景，可能不是电动车而是人形机器人",
+        "- 这三家公司，都不想再采真机数据了",
+        "- 95后清华博士放弃腾讯高薪，做机器人大脑，想把技能变成可上架的商品"
+      ],
+      "url": "https://www.leaderobot.com/news/10016",
+      "source": "leaderobot.com",
+      "category": "具身智能",
+      "importance": 2,
+      "publishedAt": "2026-10-05T02:00:00Z"
+    },
+    {
+      "id": "075742302874",
+      "title": "AI Startups Raise $74.1 Billion Across 77 Funding Rounds ...",
+      "summary": "AI startups have raised $74.1 billion across 77 funding rounds as of October 2026. Major funding rounds include Instinct's $1 billion Series. Benchmark, and",
+      "highlights": [
+        "AI startups have raised $74.1 billion across 77 funding rounds as of October 2026. Major funding rounds include Instinct's $1 billion Series. Benchmark, and"
+      ],
+      "url": "https://af.net/realtime/ai-startups-raise-74-1-billion-across-77-funding-rounds-by-october-2026",
+      "source": "af.net",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-05T05:00:00Z"
+    },
+    {
+      "id": "3a5e93765176",
+      "title": "IStart Valley - The funding picture in 2026 looks nothing...",
+      "summary": "## IStart Valley's Post\n\n### IStart Valley\n\n15 hours ago15h  ·\n\nThe funding picture in 2026 looks nothing like it did two years ago, and if you're building a startup right now, you need to understand ...",
+      "highlights": [
+        "## IStart Valley's Post",
+        "### IStart Valley",
+        "15 hours ago15h  ·"
+      ],
+      "url": "https://www.facebook.com/istartvalley/posts/the-funding-picture-in-2026-looks-nothing-like-it-did-two-years-ago-and-if-youre/1556150996554703",
+      "source": "facebook.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-05T23:23:58Z"
+    },
+    {
+      "id": "a11045a112be",
+      "title": "🤖 If AI can already read the deck, check the numbers and ...",
+      "summary": "A high startup valuation feels great… until the next investor has to price the company again. In Cooley's Q2 2026 data, 12.1% of financings were down",
+      "highlights": [
+        "A high startup valuation feels great… until the next investor has to price the company again. In Cooley's Q2 2026 data, 12.1% of financings were down"
+      ],
+      "url": "https://www.instagram.com/p/DeFmWLzkxTp",
+      "source": "instagram.com",
+      "category": "行业话题",
+      "importance": 2,
+      "publishedAt": "2026-10-05T23:23:58Z"
     }
   ],
   "week": [
@@ -622,6 +797,36 @@
       "publishedAt": "2026-10-05T10:00:00Z"
     },
     {
+      "id": "576541b071f9",
+      "title": "中美大模型差距在拉大：美国三巨头狂飙 国产AI期待梁圣归来--快科技--科技改变未来",
+      "summary": "美国AI御三家近期高强度更新，Anthropic之前虽然因为Opus 4.7到5.0的性能提升不如预期被嘲讽，但Fabel 5.1到Opus 5.5、Sonnet 5.5这一波直接反转，用户量和口碑回来了，当然针对国内的封号同样在加强，但这也阻止不了国内开发者砸钱去买Opus 5.5，靠的就是Opus 5.5的底气。\n\nOpenAI最近密集发布了GPT-6系列多个大模型，包括Astra、Sol等旗...",
+      "highlights": [
+        "美国AI御三家近期高强度更新，Anthropic之前虽然因为Opus 4.7到5.0的性能提升不如预期被嘲讽，但Fabel 5.1到Opus 5.5、Sonnet 5.5这一波直接反转，用户量和口碑回来了，当然针对国内的封号同样在加强，但这也阻止不了国内开发者砸钱去买Opus 5.5，靠的就是Opus 5.5的底气",
+        "OpenAI最近密集发布了GPT-6系列多个大模型，包括Astra、Sol等旗舰级产品，表现有好有坏，尤其是GPT-6 Sol不到一周时间就被6.1 Sol取代，但整体的实力仍在，引发不满的主要是他们的运营策略，尤其是200美元套餐调整的问题",
+        "谷歌今年的表现一言难尽，过去几个月主要靠Flash模型刷存在感，但最新的Gemini 4.0 Argon也来一波咸鱼翻身，目前主要是限制使用范围，但性能表现很好，有机会光明正大地回归御三家之列"
+      ],
+      "url": "https://news.mydrivers.com/1/1155/1155411.htm",
+      "source": "news.mydrivers.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-05T03:00:00Z"
+    },
+    {
+      "id": "641e21662e4c",
+      "title": "Altman“亲自救场”，能否真的稳住 Cerebras？ | NAI 500",
+      "summary": "上周暴跌的导火索，是曝出 OpenAI 将采用英伟达GPU、而非 Cerebras 自家芯片，为 GPT-6.1 Sol 的 “Ultrafast” 模式提供算力。作为英伟达的直接竞争对手，Cerebras 主营晶圆级 AI 芯片与系统，旗舰产品 Wafer Scale Engine 3 号称运行速度快于英伟达GPU，并在今年 1 月刚与 OpenAI 签下 750 兆瓦算力、持续至 2028 年...",
+      "highlights": [
+        "上周暴跌的导火索，是曝出 OpenAI 将采用英伟达GPU、而非 Cerebras 自家芯片，为 GPT-6.1 Sol 的 “Ultrafast” 模式提供算力",
+        "作为英伟达的直接竞争对手，Cerebras 主营晶圆级 AI 芯片与系统，旗舰产品 Wafer Scale Engine 3 号称运行速度快于英伟达GPU，并在今年 1 月刚与 OpenAI 签下 750 兆瓦算力、持续至 2028 年的供应协议",
+        "正因如此，“弃用自研芯片” 的消息才直接击穿了市场对双方合作深度的信心"
+      ],
+      "url": "https://nai500.com/zh-hans/blog/2026/10/altman%E4%BA%B2%E8%87%AA%E6%95%91%E5%9C%BA%EF%BC%8C%E8%83%BD%E5%90%A6%E7%9C%9F%E7%9A%84%E7%A8%B3%E4%BD%8F-cerebras%EF%BC%9F",
+      "source": "nai500.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-05T12:00:00Z"
+    },
+    {
       "id": "475d53755606",
       "title": "AI 大模型世界",
       "summary": "国外 ; Claude Opus 5.5. Anthropic · 世界#1 ; GPT-6 Astra. OpenAI · 世界#2 ; Gemini 3.8 Flash. 谷歌 · 世界#15 ; Muse Spark 1.3. Meta · 世界#17 ; Grok 4.7. xAI · 暂无.",
@@ -678,6 +883,32 @@
       "publishedAt": "2026-10-05T12:47:02Z"
     },
     {
+      "id": "ce687d9184a0",
+      "title": "奥特曼称Cerebras为“紧密合作伙伴”，该芯片企业股价盘前上涨6%",
+      "summary": "AI硬件企业Cerebras周一盘前股价走高，从上周跌势中反弹，最新盘前涨幅6.3%，报每股177美元，当前总市值略超390亿美元，较5月上市首日950亿美元的市值近乎腰斩。",
+      "highlights": [
+        "AI硬件企业Cerebras周一盘前股价走高，从上周跌势中反弹，最新盘前涨幅6.3%，报每股177美元，当前总市值略超390亿美元，较5月上市首日950亿美元的市值近乎腰斩"
+      ],
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniuemac4378341.shtml?cre=tianyi&mod=pchp&loc=27&r=0&rfunc=98&tj=cxvertical_pc_hp&tr=12",
+      "source": "finance.sina.com.cn",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-05T10:00:00Z"
+    },
+    {
+      "id": "a75bd2763898",
+      "title": "Anthropic considers new AI model amid OpenAI's GPT-6 ...",
+      "summary": "Anthropic is reportedly considering the release of a new AI model as it responds to growing competition from OpenAI's GPT-6 Astra.",
+      "highlights": [
+        "Anthropic is reportedly considering the release of a new AI model as it responds to growing competition from OpenAI's GPT-6 Astra."
+      ],
+      "url": "https://www.facebook.com/exclaimit/posts/the-ai-race-continues-to-heat-up-anthropic-is-reportedly-considering-the-release/1412575287687009",
+      "source": "facebook.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-05T23:23:58Z"
+    },
+    {
       "id": "da5066df565d",
       "title": "AI教父Hinton首篇RSI论文：今天一年的AI进步未来可能只需5周，人类窗口期或已不多",
       "summary": "Hinton等22位顶尖AI科学家联署警告： AI自主完成研发工作的比例已从1%飙升至26%（半年内增长20倍），Anthropic数据显示AI生成代码占比突破80%。论文核心推演揭示：若AI",
@@ -705,50 +936,37 @@
       "publishedAt": "2026-10-05T00:31:34Z"
     },
     {
-      "id": "269fa7e9497f",
-      "title": "基础杂活全被一键秒杀，还要初级员工干嘛？Google Research负责人：以往熬15年的判断力，现在一出道就得硬抗",
-      "summary": "过去一年多，大家看Google，视线几乎全被拽在商业大模型的角斗场里——Gemini 的跑分追上没有、搜索框里的AI 总结好不好用、工程迭代又拼到了哪一步。",
+      "id": "f4035f3f4fa5",
+      "title": "全球大模型第一股，大涨_搜狐网",
+      "summary": "高盛最新发布的研报将智谱评级由“中性”上调至“买入”，并将基于DCF的12个月目标价修订为1560港元。上调理由方面，一是智谱商业化路径进一步明确。高盛将公司2026年底ARR预测上调至32亿美元（此前预测为27亿美元），主要考虑Token需求增长，以及公司自10月起与中国及全球大型云厂商执行新的商业合作条款。二是算力基础设施扩张和资产负债表改善有望支撑业务规模继续扩大。三是成本效率改善有望推动推...",
       "highlights": [
-        "过去一年多，大家看Google，视线几乎全被拽在商业大模型的角斗场里——Gemini 的跑分追上没有、搜索框里的AI 总结好不好用、工程迭代又拼到了哪一步"
+        "高盛最新发布的研报将智谱评级由“中性”上调至“买入”，并将基于DCF的12个月目标价修订为1560港元",
+        "上调理由方面，一是智谱商业化路径进一步明确",
+        "高盛将公司2026年底ARR预测上调至32亿美元（此前预测为27亿美元），主要考虑Token需求增长，以及公司自10月起与中国及全球大型云厂商执行新的商业合作条款"
       ],
-      "url": "https://www.yeeyi.com/news/details/3241933",
-      "source": "yeeyi.com",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-10-05T07:00:00Z"
+      "url": "https://m.sohu.com/a/1084238797_465270?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-10-05T16:20:00Z"
     },
     {
-      "id": "7fd6c2cd85fc",
-      "title": "Crunchbase Data: Q3 2026 Posted A Record Count Of Billion-Dollar Rounds As The Global AI Race Heats Up",
-      "summary": "Global venture funding totaled $159 billion in Q3 2026 with close to 6,000 startups funded, Crunchbase data shows. And while the third quarter was the lowest for startup investment so far this year, i...",
+      "id": "5742e4d4ceaa",
+      "title": "美国具身智能学界正担忧失去人心-虎嗅网",
+      "summary": "Mehta进一步列举公众担忧的具体技术场景。Behram Wali发表于《Transportation Research Part A》的研究显示，约85%的美国人认为自动驾驶汽车将扰乱与驾驶相关的就业，另有47%认为其将加剧收入不平等。另一项关于旧金山机器人出租车需求的研究（Loa,Lee&Circella，《Transportation》）则发现，女性居民占比、人口密度以及被划定为弱势或公平优...",
       "highlights": [
-        "Global venture funding totaled $159 billion in Q3 2026 with close to 6,000 startups funded, Crunchbase data shows. And while the third quarter was the lowest for startup investment so far this year, it still exceeded every other quarter since Q2 2022.",
-        "Funding to private companies has skyrocketed this year, totaling $679 billion in venture funding globally in Q1 through Q3 2026, per Crunchbase data. That is the highest amount in the first three quarters of any given year. [...] The largest funding deals went to Databricks and Safe Superintelligence, which each raised $5 billion. Close behind, Crusoe, Moonshot AI, Mistral AI, Nscale, The Boring Co. and Kling AI each raised more than $3 billion.",
-        "## US and sectors [...] ## Robust market"
+        "Mehta进一步列举公众担忧的具体技术场景",
+        "Behram Wali发表于《Transportation Research Part A》的研究显示，约85%的美国人认为自动驾驶汽车将扰乱与驾驶相关的就业，另有47%认为其将加剧收入不平等",
+        "另一项关于旧金山机器人出租车需求的研究（Loa,Lee&Circella，《Transportation》）则发现，女性居民占比、人口密度以及被划定为弱势或公平优先社区的属性，与机器人出租车需求呈负相关"
       ],
-      "url": "https://news.crunchbase.com/venture/q3-2026-global-startup-funding-ai-billion-dollar-rounds-exits-data",
-      "source": "news.crunchbase.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-05T11:00:13Z"
+      "url": "https://www.huxiu.com/article/4895434.html",
+      "source": "huxiu.com",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-10-05T07:51:22Z"
     }
   ],
   "month": [
-    {
-      "id": "85a40a87999b",
-      "title": "又一个00后造富神话-虎嗅网",
-      "summary": "## 23岁辍学生创业\n\nShinn不是突然冒出来的。\n\n本科就读于美国东北大学期间，他在校内的编程语言研究组从事类型预测和代码生成研究，也在MIT参与过机器学习与编程语言的交叉工作。\n\n真正让他在学术圈扬名的，是一篇论文。2023年，他以一作身份在NeurIPS发表了Reflexion，提出让AI智能体在任务失败后，用自然语言复盘错误、存入记忆，在后续任务中复用经验。这篇论文被视为AI Agen...",
-      "highlights": [
-        "## 23岁辍学生创业",
-        "Shinn不是突然冒出来的",
-        "本科就读于美国东北大学期间，他在校内的编程语言研究组从事类型预测和代码生成研究，也在MIT参与过机器学习与编程语言的交叉工作"
-      ],
-      "url": "https://m.huxiu.com/article/4895259.html?type=text",
-      "source": "m.huxiu.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-03T07:06:59Z"
-    },
     {
       "id": "4e86453759fe",
       "title": "Anthropic launched Claude Opus 5.5, its latest flagship ...",
@@ -776,51 +994,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-10-03T16:12:00Z"
-    },
-    {
-      "id": "b90853a9ce33",
-      "title": "中原证券：国产芯片发布计划大幅提前 算力投入呈现加速趋势 _ 东方财富网",
-      "summary": "8月26日，智谱宣布GLM-5.3-Flash所承载的流量都由国产芯片承载，调用超过10万张国产芯片集群用于改模型推理服务，硬件效率及单token成本已经达到了与主流英伟达GPU相当的水平，这也意味着国产芯片的推理服务能力已经获得了核心客户的认可。\n\n1.3.1.4. 昇腾960和真武V900上市计划大幅提前\n\n阿里：目前，平头哥已经在算力、网力、存力芯片上都实现了自研，包括真武系列AI芯片、倚天...",
-      "highlights": [
-        "8月26日，智谱宣布GLM-5.3-Flash所承载的流量都由国产芯片承载，调用超过10万张国产芯片集群用于改模型推理服务，硬件效率及单token成本已经达到了与主流英伟达GPU相当的水平，这也意味着国产芯片的推理服务能力已经获得了核心客户的认可",
-        "1.3.1.4. 昇腾960和真武V900上市计划大幅提前",
-        "阿里：目前，平头哥已经在算力、网力、存力芯片上都实现了自研，包括真武系列AI芯片、倚天系列CPU芯片（ARM）、ICN Switch互联芯片、磐脉系列智能网卡、镇岳系列存储主控芯片，实现了AI集群的核心芯片全覆盖"
-      ],
-      "url": "https://wap.eastmoney.com/a/202610033888486814.html",
-      "source": "wap.eastmoney.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-03T08:00:00Z"
-    },
-    {
-      "id": "23b13e72f8f0",
-      "title": "史上最大IPO提速！文科生创始人成最年轻女富豪|中原环保|平煤神马|河南省|私募基金|AI_新浪新闻",
-      "summary": "9月28日，AMD宣布与AI模型与研究实验室World Labs已达成最终协议，将以估值约为82亿美元的股票收购World Labs，预计于2026年年底前完成交割。AMD表示，此次收购将为其引入一支世界级的科研人员与模型专家团队，有助于公司围绕新兴模型与应用的需求，开发与之适配的AI硬件、软件与系统。\n\n　　交易完成后，World Labs 团队将继续专注于推进AI模型研究；李飞飞将加入AMD，...",
-      "highlights": [
-        "9月28日，AMD宣布与AI模型与研究实验室World Labs已达成最终协议，将以估值约为82亿美元的股票收购World Labs，预计于2026年年底前完成交割",
-        "AMD表示，此次收购将为其引入一支世界级的科研人员与模型专家团队，有助于公司围绕新兴模型与应用的需求，开发与之适配的AI硬件、软件与系统",
-        "交易完成后，World Labs 团队将继续专注于推进AI模型研究；李飞飞将加入AMD，出任执行副总裁兼首席科学家，向苏姿丰汇报"
-      ],
-      "url": "https://k.sina.com.cn/article_2401737737_8f279c09001031z2o.html?from=finance",
-      "source": "k.sina.com.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-03T10:33:22Z"
-    },
-    {
-      "id": "e388f971bcfc",
-      "title": "Nscale任命Meta高管为COO：Pre-IPO轮融资34亿美元 Third Point领投_手机新浪网",
-      "summary": "## \n\nNscale在2026年9月底刚通过可转换票据融资33.6亿美元，本轮融资由Third Point领投。参与本轮融资的新老投资者还包括NVIDIA、由Apollo管理的基金、Citadel、Hudson Bay Capital、阿布扎比投资委员会（Abu Dhabi Investment Council）及8090 Industries等。\n\n该融资包括交割时首批发放的23.6亿美元资金...",
-      "highlights": [
-        "Nscale在2026年9月底刚通过可转换票据融资33.6亿美元，本轮融资由Third Point领投",
-        "参与本轮融资的新老投资者还包括NVIDIA、由Apollo管理的基金、Citadel、Hudson Bay Capital、阿布扎比投资委员会（Abu Dhabi Investment Council）及8090 Industries等",
-        "该融资包括交割时首批发放的23.6亿美元资金，以及英伟达（NVIDIA）额外承诺提供的10亿美元资金（预计于2026年11月中旬到位）"
-      ],
-      "url": "https://finance.sina.cn/stock/jdts/2026-10-03/detail-initxnhi4879629.d.html?oid=%E9%A6%99%E5%A5%88%E5%84%BF%E5%8C%85%E5%8C%85a%E8%B4%A7%E4%BB%B7%E6%A0%BC%E5%8E%9F%E5%8D%95%E2%97%86%E5%BE%AE%E4%BF%A1198099199%E2%97%86Si6U&vt=4&cid=76993&node_id=76993",
-      "source": "finance.sina.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-03T12:45:04Z"
     },
     {
       "id": "5f13d670f7c1",
@@ -851,22 +1024,67 @@
       "publishedAt": "2026-10-04T20:32:03Z"
     },
     {
-      "id": "484b38968c65",
-      "title": "AI投资巨浪向上游奔涌! 日本半导体设备销售劲增50%，伯恩斯坦揭示AI算力井喷之下的半导体投资启示录 提供者 智通财经",
-      "summary": "盘后·19:59:45\n\n目录\n\n自今年以来以Meta Muse、OpenAI Astra以及Anthropic\nClaude所核心代表的全球最前沿AI智能体/AI大模型技术进步，可谓为AI应用向各行业的大规模商业化扩张以及AI算力需求持续激增提供了重要技术基础——尤其智能体应用范围扩大，有望同步提高AI\nGPU/TPU这类AI超级加速器与高性能CPU、数据中心高性能HBM/DRAM/NAND存储...",
+      "id": "c24321e0724c",
+      "title": "一起呼吁“AI减速”？OpenAI取消最新模型发布，Anthropic却“两连发”！",
+      "summary": "OpenAI决定放弃发布新模型之际，人工智能行业正面临着对高级模型安全性日益加剧的担忧。本月初，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）在一篇文章中敦促各AI实验室放慢模型开发速度，因为人们担心这些模型正在失控。\n\nOpenAI安全系统负责人Saachi Jain在一份声明中表示：“我们当然希望确保模型开发的安全性，无论是在公司内部还是交付给用户时。但当我们将模型交...",
       "highlights": [
-        "盘后·19:59:45",
-        "自今年以来以Meta Muse、OpenAI Astra以及Anthropic",
-        "Claude所核心代表的全球最前沿AI智能体/AI大模型技术进步，可谓为AI应用向各行业的大规模商业化扩张以及AI算力需求持续激增提供了重要技术基础——尤其智能体应用范围扩大，有望同步提高AI"
+        "OpenAI决定放弃发布新模型之际，人工智能行业正面临着对高级模型安全性日益加剧的担忧",
+        "本月初，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）在一篇文章中敦促各AI实验室放慢模型开发速度，因为人们担心这些模型正在失控",
+        "OpenAI安全系统负责人Saachi Jain在一份声明中表示：“我们当然希望确保模型开发的安全性，无论是在公司内部还是交付给用户时"
       ],
-      "url": "https://cn.investing.com/news/stock-market-news/article-3593731",
-      "source": "cn.investing.com",
-      "category": "芯片硬件",
+      "url": "https://www.cls.cn/detail/2494709",
+      "source": "cls.cn",
+      "category": "模型发布",
       "importance": 5,
-      "publishedAt": "2026-10-03T03:35:09Z"
+      "publishedAt": "2026-10-05T00:00:00Z"
     },
     {
-      "id": "85bb0ad291e0",
+      "id": "18f7b31c9459",
+      "title": "硬科技早报｜腾讯70亿美元算力租赁；阿里欧洲算电协同；韬芯片照片曝光",
+      "summary": "日前，微软研究院推出实验性AI研究系统Quine，旨在构建生物学多模态世界模型，并搭建连接模型、科学工具、文献和科研人员的交互式harness框架，推动AI从辅助分析进一步走向科研发现。微软并非近期唯一加码AI4S的科技巨头。就在9月23日，Anthropic宣布成立生命科学研究团队和实验室，并披露了Claude参与生物学研究取得的早期成果。Claude在分析超过20万个逆转录酶（RT）序列后，选...",
+      "highlights": [
+        "日前，微软研究院推出实验性AI研究系统Quine，旨在构建生物学多模态世界模型，并搭建连接模型、科学工具、文献和科研人员的交互式harness框架，推动AI从辅助分析进一步走向科研发现",
+        "微软并非近期唯一加码AI4S的科技巨头",
+        "就在9月23日，Anthropic宣布成立生命科学研究团队和实验室，并披露了Claude参与生物学研究取得的早期成果"
+      ],
+      "url": "https://www.guancha.cn/CaiJing/2026_10_04_903153.shtml",
+      "source": "guancha.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-04T12:00:00Z"
+    },
+    {
+      "id": "890e83a79266",
+      "title": "刚刚，Hinton发了首篇RSI论文 – 量子位",
+      "summary": "甚至未来回头看，2026年真正值得记住的节点，可能还真不是某个模型又多拿了几分。\n\n恐怕是人类第一次开始认真意识到，AI最猛的一次Scaling，可能发生在「研究AI」这件事本身。\n\n参考链接：\n\n### 相关阅读\n\n#### 探索RSI，生数新世界模型让机器人开始自我进化\n\n#### AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI\n\n小模型突破瓶颈，旗舰模型打开新空间\n\n##...",
+      "highlights": [
+        "甚至未来回头看，2026年真正值得记住的节点，可能还真不是某个模型又多拿了几分",
+        "恐怕是人类第一次开始认真意识到，AI最猛的一次Scaling，可能发生在「研究AI」这件事本身",
+        "#### 探索RSI，生数新世界模型让机器人开始自我进化"
+      ],
+      "url": "https://www.qbitai.com/2026/10/501705.html",
+      "source": "qbitai.com",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-10-05T04:00:00Z"
+    },
+    {
+      "id": "070570a03a31",
+      "title": "As OpenAI and Anthropic battle over data privacy, more companies turn to open models | Fortune",
+      "summary": "The latest string of “rogue AI” incidents have heightened fears that the latest models will either scrape data, or publish it for the world to see, without the business’ permission. [...] Given these ...",
+      "highlights": [
+        "The latest string of “rogue AI” incidents have heightened fears that the latest models will either scrape data, or publish it for the world to see, without the business’ permission. [...] Given these concerns, companies are looking to diversify their AI usage, and reduce their dependency on the leading AI companies. The term du jour for this is “sovereign AI,” referring to a company’s ability to control its own “AI stack”—everything from owning the chips on which AI workloads run, to setting up proprietary cloud infrastructure, to using open source models that a company can download and run in their own cloud environments. [...] Fortune Daily breaks the traditional barrier between audience and newsroom. The show transforms Fortune’s trusted reporting into actionable, conversational, and entertaining insights for an emerging class of business leaders. Watch here.",
+        "About the Author",
+        "Emily Forlini"
+      ],
+      "url": "https://fortune.com/2026/10/05/openai-and-anthropic-battle-over-zero-data-retention-zdr-data-privacy-companies-look-to-open-models-and-sovereign-ai",
+      "source": "fortune.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-05T10:00:00Z"
+    },
+    {
+      "id": "85a40a87999b",
       "title": "又一个00后造富神话-虎嗅网",
       "summary": "## 23岁辍学生创业\n\nShinn不是突然冒出来的。\n\n本科就读于美国东北大学期间，他在校内的编程语言研究组从事类型预测和代码生成研究，也在MIT参与过机器学习与编程语言的交叉工作。\n\n真正让他在学术圈扬名的，是一篇论文。2023年，他以一作身份在NeurIPS发表了Reflexion，提出让AI智能体在任务失败后，用自然语言复盘错误、存入记忆，在后续任务中复用经验。这篇论文被视为AI Agen...",
       "highlights": [
@@ -874,11 +1092,26 @@
         "Shinn不是突然冒出来的",
         "本科就读于美国东北大学期间，他在校内的编程语言研究组从事类型预测和代码生成研究，也在MIT参与过机器学习与编程语言的交叉工作"
       ],
-      "url": "https://m.huxiu.com/article/4895259.html",
+      "url": "https://m.huxiu.com/article/4895259.html?type=text",
       "source": "m.huxiu.com",
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-10-03T07:06:59Z"
+    },
+    {
+      "id": "b90853a9ce33",
+      "title": "中原证券：国产芯片发布计划大幅提前 算力投入呈现加速趋势 _ 东方财富网",
+      "summary": "8月26日，智谱宣布GLM-5.3-Flash所承载的流量都由国产芯片承载，调用超过10万张国产芯片集群用于改模型推理服务，硬件效率及单token成本已经达到了与主流英伟达GPU相当的水平，这也意味着国产芯片的推理服务能力已经获得了核心客户的认可。\n\n1.3.1.4. 昇腾960和真武V900上市计划大幅提前\n\n阿里：目前，平头哥已经在算力、网力、存力芯片上都实现了自研，包括真武系列AI芯片、倚天...",
+      "highlights": [
+        "8月26日，智谱宣布GLM-5.3-Flash所承载的流量都由国产芯片承载，调用超过10万张国产芯片集群用于改模型推理服务，硬件效率及单token成本已经达到了与主流英伟达GPU相当的水平，这也意味着国产芯片的推理服务能力已经获得了核心客户的认可",
+        "1.3.1.4. 昇腾960和真武V900上市计划大幅提前",
+        "阿里：目前，平头哥已经在算力、网力、存力芯片上都实现了自研，包括真武系列AI芯片、倚天系列CPU芯片（ARM）、ICN Switch互联芯片、磐脉系列智能网卡、镇岳系列存储主控芯片，实现了AI集群的核心芯片全覆盖"
+      ],
+      "url": "https://wap.eastmoney.com/a/202610033888486814.html",
+      "source": "wap.eastmoney.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-03T08:00:00Z"
     }
   ]
 }
