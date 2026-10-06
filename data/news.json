@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-10-06T12:17:19Z",
+  "updatedAt": "2026-10-06T21:56:07Z",
   "latest": [
-    {
-      "id": "eca2dfe49abd",
-      "title": "AI content",
-      "summary": "AI got very practical last week. OpenAI launched Astra, Anthropic released Fable and Mythos 5.1, and Google introduced a new AI weather model. We also saw",
-      "highlights": [
-        "AI got very practical last week. OpenAI launched Astra, Anthropic released Fable and Mythos 5.1, and Google introduced a new AI weather model. We also saw"
-      ],
-      "url": "https://www.instagram.com/reel/DeCK9gnSXLZ",
-      "source": "instagram.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-04T20:32:03Z"
-    },
     {
       "id": "c24321e0724c",
       "title": "一起呼吁“AI减速”？OpenAI取消最新模型发布，Anthropic却“两连发”！",
@@ -88,36 +75,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-10-05T12:00:00Z"
-    },
-    {
-      "id": "f1fb5bd27a7c",
-      "title": "Yellow.com",
-      "summary": "币安于8月20日上线开发者平台Agent OS， 将ChatGPT、Claude Code、Cursor等AI开发工具与其行情数据、账户信息及交易执行系统打通。 用户可以为代理配置独立的子账户，子账户默认禁止提现。  \n 币安并未对代理在该子账户内的交易规模或最大亏损额设专门上限，用户转入的资金余额本身就构成天然“限额”。\n\nCoinbase则在6月11日推出“Coinbase for Agent...",
-      "highlights": [
-        "币安于8月20日上线开发者平台Agent OS， 将ChatGPT、Claude Code、Cursor等AI开发工具与其行情数据、账户信息及交易执行系统打通",
-        "用户可以为代理配置独立的子账户，子账户默认禁止提现",
-        "币安并未对代理在该子账户内的交易规模或最大亏损额设专门上限，用户转入的资金余额本身就构成天然“限额”"
-      ],
-      "url": "https://yellow.com/zh/news/robinhood%E3%80%81%E5%B8%81%E5%AE%89%E4%B8%8Ecoinbase%E5%BC%80%E6%94%BE%E7%94%B1ai%E4%BB%A3%E7%90%86%E4%B8%8B%E5%8D%95%EF%BC%9A%E6%8A%95%E8%B5%84%E8%80%85%E9%9C%80%E7%9F%A5%E7%9A%84%E5%85%B3%E9%94%AE%E4%BF%A1%E6%81%AF",
-      "source": "yellow.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-04T17:45:09Z"
-    },
-    {
-      "id": "dd42341a2f1d",
-      "title": "Open-weight models are the greatest threat to Anthropic and OpenAI : r/LocalLLM",
-      "summary": "Google publicly backs open-weight AI models. Is the industry moving toward more open AI?Image 51 r/LocalLLM•2mo ago    ### Google publicly backs open-weight AI models. Is the industry moving toward mo...",
-      "highlights": [
-        "Google publicly backs open-weight AI models. Is the industry moving toward more open AI?Image 51 r/LocalLLM•2mo ago    ### Google publicly backs open-weight AI models. Is the industry moving toward more open AI?    78 upvotes ·24 comments",
-        "Has anyone else noticed OpenAI models becoming much more stable lately?Image 52 r/OpenAI•2mo ago    ### Has anyone else noticed OpenAI models becoming much more stable lately?    8 comments [...] •20h ago",
-        "> Businesses will buy dedicated Nvidia server hardware to power their internal tools and dev teams on-premise"
-      ],
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1wxksoi/openweight_models_are_the_greatest_threat_to",
-      "source": "reddit.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-04T18:00:00Z"
     },
     {
       "id": "bdba098fc5e4",
@@ -251,19 +208,92 @@
       "publishedAt": "2026-10-06T04:37:53Z"
     },
     {
-      "id": "9d21f57e72cd",
-      "title": "深度｜对话 Google Research 负责人：暴力堆卡已到尽头，下一代架构不在预训练里_搜狐网",
-      "summary": "现有架构的限制，并不等于 AI 的极限。Scaling law 描述的是沿着既有技术路线增加数据和算力的收益，但新的算法与架构仍可能改变效率边界。Matias 以投机解码为例，强调研究还要不断寻找全新的方法，而下一轮更大幅度的提升仍有待突破。\n AI 最成熟的形态是人们不再需要时刻注意它。他将这种状态称为“环境智能”（ambient intelligence）：智能自然融入日常体验，用户可以专注于...",
+      "id": "d5584052908a",
+      "title": "DeepSeek美国版大模型Beam发布：表现还不错 但碰瓷不了V4.1 Flash--快科技--科技改变未来",
+      "summary": "如果综合考虑到性能、价格等因素，DeepSeek V4.1 Flash是能满足大部分人90%的需求，而且性价比是其他大模型很难碰瓷的，这个护城河别说美国企业很难打破，国内的开源AI也没几个能跟V4.1 Flaash相比的。\n\n正因为此，Reflection公司在Beam大模型发布之后，对外强调的叙事风格也不走技术路线，CEO也在用西方世界的焦虑感来给自己树立形象，强调西方世界再不做（开源AI），那...",
       "highlights": [
-        "现有架构的限制，并不等于 AI 的极限",
-        "Scaling law 描述的是沿着既有技术路线增加数据和算力的收益，但新的算法与架构仍可能改变效率边界",
-        "Matias 以投机解码为例，强调研究还要不断寻找全新的方法，而下一轮更大幅度的提升仍有待突破"
+        "如果综合考虑到性能、价格等因素，DeepSeek V4.1 Flash是能满足大部分人90%的需求，而且性价比是其他大模型很难碰瓷的，这个护城河别说美国企业很难打破，国内的开源AI也没几个能跟V4.1 Flaash相比的",
+        "正因为此，Reflection公司在Beam大模型发布之后，对外强调的叙事风格也不走技术路线，CEO也在用西方世界的焦虑感来给自己树立形象，强调西方世界再不做（开源AI），那全球AI就要由中国大模型来建了",
+        "【本文结束】如需转载请务必注明出处：快科技"
       ],
-      "url": "https://m.sohu.com/a/1083972741_122074763?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "前沿理论",
-      "importance": 4,
-      "publishedAt": "2026-10-04T13:30:05Z"
+      "url": "https://m.mydrivers.com/newsview/1155501.html",
+      "source": "m.mydrivers.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-06T06:00:00Z"
+    },
+    {
+      "id": "09ad8e842a95",
+      "title": "AI大脑评测 阿里、中兴并列全球第3 | 中港台经济 | 财经 | 世界新闻网",
+      "summary": "专门面向中文大模型的模型测评媒体SuperCLUE近期发布最新具身（实体载体）大脑评测榜单，用来衡量各大AI模型做机器人「大脑」的实际水准。其中，阿里、中兴并列中国国内榜单第一名，全球第三；OpenAI的GPT-6 Astra则拿下全球第一。\n\n具身大脑指的是给机器人用的AI大脑。它不光要识别画面、读取语言，还得会规画动作，指挥机器人去抓取物品、移动导航，处理现实环境里各种突发状况。\n\n该测评基准...",
+      "highlights": [
+        "专门面向中文大模型的模型测评媒体SuperCLUE近期发布最新具身（实体载体）大脑评测榜单，用来衡量各大AI模型做机器人「大脑」的实际水准",
+        "其中，阿里、中兴并列中国国内榜单第一名，全球第三；OpenAI的GPT-6 Astra则拿下全球第一",
+        "具身大脑指的是给机器人用的AI大脑"
+      ],
+      "url": "https://www.worldjournal.com/wj/story/121347/9797466?from=wj_catelistnews&zh-cn=",
+      "source": "worldjournal.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-06T06:09:00Z"
+    },
+    {
+      "id": "72412118b7d3",
+      "title": "中美大模型差距在拉大：美国三巨头狂飙 国产AI期待梁圣归来_游戏新闻_17173.com中国游戏门户站",
+      "summary": "作为对比，这几个月来国产AI大模型显得异常低调，倒不是说他们不更新产品，只是没有哪款产品有惊艳表现，风头全被美国AI三巨头抢走了。\n\nKimi发布的K3到现在2个多月了，期间虽然升级了一个K2.8，期待已久的K3.1没有动静，而智谱在GLM-5.3之后虽然也发了个GLM-5.3 Flash模型，但旗舰级产品同样2个多月没升级。\n\n最受关注的DeepSeek，自从4月底发布V4.0系列以来，也是一波...",
+      "highlights": [
+        "作为对比，这几个月来国产AI大模型显得异常低调，倒不是说他们不更新产品，只是没有哪款产品有惊艳表现，风头全被美国AI三巨头抢走了",
+        "Kimi发布的K3到现在2个多月了，期间虽然升级了一个K2.8，期待已久的K3.1没有动静，而智谱在GLM-5.3之后虽然也发了个GLM-5.3 Flash模型，但旗舰级产品同样2个多月没升级",
+        "最受关注的DeepSeek，自从4月底发布V4.0系列以来，也是一波三折，尤其是V4 Pro正式版没有达到预期，再加上大涨价，口碑一落千丈，9月份才靠着V4.1 Flash挽回一些形象"
+      ],
+      "url": "https://news.17173.com/content/10052026/120055081.shtml",
+      "source": "news.17173.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-05T03:00:00Z"
+    },
+    {
+      "id": "b386f4b6bc18",
+      "title": "月之暗面完成IPO前最后一轮融资！最新估值约500亿美元，年内暴涨四倍_新浪财经_新浪网",
+      "summary": "值得注意的是，月之暗面2026年的估值增速极快，1至2月连续完成3轮融资，估值从100亿美元攀升至180亿美元；5月D轮融资后估值达200亿美元；6月E轮融资后投前估值升至315亿美元；7月F轮融资后达350亿美元。年内完成6轮融资，半年估值大涨。\n\n月之暗面融资的火爆，核心驱动来自旗舰大模型Kimi K3。今年7月，Kimi K3上线两天就被挤爆。Kimi K3发布后在硅谷引发轰动效应，上线仅3...",
+      "highlights": [
+        "值得注意的是，月之暗面2026年的估值增速极快，1至2月连续完成3轮融资，估值从100亿美元攀升至180亿美元；5月D轮融资后估值达200亿美元；6月E轮融资后投前估值升至315亿美元；7月F轮融资后达350亿美元",
+        "年内完成6轮融资，半年估值大涨",
+        "月之暗面融资的火爆，核心驱动来自旗舰大模型Kimi K3"
+      ],
+      "url": "https://finance.sina.com.cn/roll/2026-10-06/doc-iniuhpzh6985619.shtml",
+      "source": "finance.sina.com.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-06T09:23:59Z"
+    },
+    {
+      "id": "ae418a9f0730",
+      "title": "有公司专注高仿真视频生成-极光出行有限公司",
+      "summary": "在大脑一侧，海外销售、这些岗位的出现共同指向一个信号：仿生人形机器人正在从Demo时代，高学历、商业导购等更具落地性的场景。历经一轮大规模扩张之后，再到“修得好”的完整链条。有的侧重自动驾驶，他们很清楚，\n\n当前，\n\n这是一个有意思的信号。直播、2026年是机器人行业全面拥抱场景、情感陪伴深水区所诞生的产物。布局灵巧手算法，从机器人产品经理到机器人涂妆师，出现了具身数据评估师、并面向社会公开招聘外...",
+      "highlights": [
+        "在大脑一侧，海外销售、这些岗位的出现共同指向一个信号：仿生人形机器人正在从Demo时代，高学历、商业导购等更具落地性的场景",
+        "历经一轮大规模扩张之后，再到“修得好”的完整链条",
+        "有的侧重自动驾驶，他们很清楚，"
+      ],
+      "url": "https://www.mbaogou.com/html/257b3499708.html",
+      "source": "mbaogou.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-05T01:00:00Z"
+    },
+    {
+      "id": "3a9ee2ee6d0b",
+      "title": "245 reactions · 35 shares | OPENAI AND ANTHROPIC EVERY SINGLE WEEK\n\nAt this point, the AI race doesn’t even look like a competition anymore.\n\nIt looks like two guys continuously lighting the next firework before the previous one has stopped exploding.\n\nOpenAI drops something.\n\nAnthropic responds.\n\nA new model launches.\n\nAnother benchmark gets beaten.\n\nSomeone gets banned.\n\nAnother AI feature appears.\n\nAnd before everyone has finished discussing it, there’s already another announcement.\n\nThe rivalry between OpenAI and Anthropic has become one of the fastest-moving battles in technology, with both companies competing across frontier AI models, coding agents, reasoning, enterprise tools and autonomous AI systems.\n\nAnd the funniest part?\n\nThis video somehow captures the entire AI industry without saying a single word.\n\nOpenAI and Claude every single week:\n\n“Light another one.”\n\ncredit: k1rallik \n\n#openai #anthropic #claude #artificialintelligence #ai\n\n{openai, anthropic, claude, chatgpt, sam altman, dario amodei, openai vs anthropic, claude ai, ai rivalry, ai model race, artificial intelligence, generative ai, ai models, frontier ai, ai agents, coding agents, ai coding, chatgpt vs claude, ai competition, ai news, tech news, silicon valley, ai startups, future of ai, machine learning, llm, large language models, ai meme, tech meme, ai industry} | Askgpts",
+      "summary": "YOUTUBERS WANT TO BECOME CODERS. CODERS WANT TO BECOME YOUTUBERS. PewDiePie’s latest side quest might be his wildest one yet. After years of being one of the biggest creators on the internet, PewDiePi...",
+      "highlights": [
+        "YOUTUBERS WANT TO BECOME CODERS. CODERS WANT TO BECOME YOUTUBERS. PewDiePie’s latest side quest might be his wildest one yet. After years of being one of the biggest creators on the internet, PewDiePie has now released Ajax, his own AI model built for his self-hosted AI ecosystem, Odysseus. Ajax is based on Qwen 3.5 9B and is designed around a completely different philosophy from typical cloud AI assistants: • Runs locally on your own hardware • Built for private, self-hosted AI workflows • Can [...] demand, AI data centers, HBM, DRAM, AI infrastructure, artificial intelligence, AI hardware, memory chips, data center boom, Claude, ChatGPT, AI race, semiconductor industry, PC hardware, AI generated video} [...] imagines their CEOs celebrating the AI infrastructure boom together. Obviously, they didn’t actually film this. The clip appears to be AI-generated or heavily manipulated. But the underlying joke captures a real shift: AI isn’t just competing for software users anymore. It’s reshaping demand for the hardware underneath the entire industry. Credit: Dauren Altynbek #openai #anthropic #samaltman #ai #technology {Sam Altman, Dario Amodei, OpenAI, Anthropic, RAM prices, AI memory demand, AI data"
+      ],
+      "url": "https://www.facebook.com/askgptss/posts/openai-and-anthropic-every-single-weekat-this-point-the-ai-race-doesnt-even-look/122156777001083258",
+      "source": "facebook.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-06T21:56:07Z"
     },
     {
       "id": "475d53755606",
@@ -398,33 +428,6 @@
       "category": "投并购",
       "importance": 4,
       "publishedAt": "2026-10-05T20:24:09Z"
-    },
-    {
-      "id": "2e389b41e784",
-      "title": "AI startup offers tools to minimize flight delay losses - CNN",
-      "summary": "# AI startup offers tools to minimize flight delay losses. 5:48 PM EDT, Mon October 5, 2026. Assaia CEO Christiaan Hen explains what the service does. Survey: Most software developers try to avoid usi...",
-      "highlights": [
-        "# AI startup offers tools to minimize flight delay losses. 5:48 PM EDT, Mon October 5, 2026. Assaia CEO Christiaan Hen explains what the service does. Survey: Most software developers try to avoid using AI. Why pistachios could get more expensive. The Hollywood hits filmed in Africa. Gulf tourism takes stock at the Arabian Travel Market. Fareed Zakaria on his takeaways from top tech meeting and what's difficult about regulating AI. Hassett defends Trump economy despite voter concerns on inflation. U.S. economy adds just 29,000 jobs in September. NYC bakery's $60 loaf of bread sparks social media buzz. What to make of the final jobs report before the midterm elections. CEO reacts to tech execs pledging to ‘self-police’ their AI products. Greenland Energy CEO says 'The world needs oil'. Nvidia launches new tool to keep AI agents from going rogue."
-      ],
-      "url": "https://edition.cnn.com/2026/10/05/business/video/ai-startup-flight-delays-hen-live-100504pseg1-cnni-business-fast",
-      "source": "edition.cnn.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-05T21:48:35Z"
-    },
-    {
-      "id": "da5066df565d",
-      "title": "AI教父Hinton首篇RSI论文：今天一年的AI进步未来可能只需5周，人类窗口期或已不多",
-      "summary": "Hinton等22位顶尖AI科学家联署警告： AI自主完成研发工作的比例已从1%飙升至26%（半年内增长20倍），Anthropic数据显示AI生成代码占比突破80%。论文核心推演揭示：若AI",
-      "highlights": [
-        "Hinton等22位顶尖AI科学家联署警告： AI自主完成研发工作的比例已从1%飙升至26%（半年内增长20倍），Anthropic数据显示AI生成代码占比突破80%",
-        "论文核心推演揭示：若AI"
-      ],
-      "url": "https://wallstreetcn.com/articles/3783020",
-      "source": "wallstreetcn.com",
-      "category": "前沿理论",
-      "importance": 3,
-      "publishedAt": "2026-10-05T11:00:00Z"
     }
   ],
   "today": [
@@ -485,6 +488,159 @@
       "publishedAt": "2026-10-06T04:37:53Z"
     },
     {
+      "id": "d5584052908a",
+      "title": "DeepSeek美国版大模型Beam发布：表现还不错 但碰瓷不了V4.1 Flash--快科技--科技改变未来",
+      "summary": "如果综合考虑到性能、价格等因素，DeepSeek V4.1 Flash是能满足大部分人90%的需求，而且性价比是其他大模型很难碰瓷的，这个护城河别说美国企业很难打破，国内的开源AI也没几个能跟V4.1 Flaash相比的。\n\n正因为此，Reflection公司在Beam大模型发布之后，对外强调的叙事风格也不走技术路线，CEO也在用西方世界的焦虑感来给自己树立形象，强调西方世界再不做（开源AI），那...",
+      "highlights": [
+        "如果综合考虑到性能、价格等因素，DeepSeek V4.1 Flash是能满足大部分人90%的需求，而且性价比是其他大模型很难碰瓷的，这个护城河别说美国企业很难打破，国内的开源AI也没几个能跟V4.1 Flaash相比的",
+        "正因为此，Reflection公司在Beam大模型发布之后，对外强调的叙事风格也不走技术路线，CEO也在用西方世界的焦虑感来给自己树立形象，强调西方世界再不做（开源AI），那全球AI就要由中国大模型来建了",
+        "【本文结束】如需转载请务必注明出处：快科技"
+      ],
+      "url": "https://m.mydrivers.com/newsview/1155501.html",
+      "source": "m.mydrivers.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-06T06:00:00Z"
+    },
+    {
+      "id": "09ad8e842a95",
+      "title": "AI大脑评测 阿里、中兴并列全球第3 | 中港台经济 | 财经 | 世界新闻网",
+      "summary": "专门面向中文大模型的模型测评媒体SuperCLUE近期发布最新具身（实体载体）大脑评测榜单，用来衡量各大AI模型做机器人「大脑」的实际水准。其中，阿里、中兴并列中国国内榜单第一名，全球第三；OpenAI的GPT-6 Astra则拿下全球第一。\n\n具身大脑指的是给机器人用的AI大脑。它不光要识别画面、读取语言，还得会规画动作，指挥机器人去抓取物品、移动导航，处理现实环境里各种突发状况。\n\n该测评基准...",
+      "highlights": [
+        "专门面向中文大模型的模型测评媒体SuperCLUE近期发布最新具身（实体载体）大脑评测榜单，用来衡量各大AI模型做机器人「大脑」的实际水准",
+        "其中，阿里、中兴并列中国国内榜单第一名，全球第三；OpenAI的GPT-6 Astra则拿下全球第一",
+        "具身大脑指的是给机器人用的AI大脑"
+      ],
+      "url": "https://www.worldjournal.com/wj/story/121347/9797466?from=wj_catelistnews&zh-cn=",
+      "source": "worldjournal.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-06T06:09:00Z"
+    },
+    {
+      "id": "b386f4b6bc18",
+      "title": "月之暗面完成IPO前最后一轮融资！最新估值约500亿美元，年内暴涨四倍_新浪财经_新浪网",
+      "summary": "值得注意的是，月之暗面2026年的估值增速极快，1至2月连续完成3轮融资，估值从100亿美元攀升至180亿美元；5月D轮融资后估值达200亿美元；6月E轮融资后投前估值升至315亿美元；7月F轮融资后达350亿美元。年内完成6轮融资，半年估值大涨。\n\n月之暗面融资的火爆，核心驱动来自旗舰大模型Kimi K3。今年7月，Kimi K3上线两天就被挤爆。Kimi K3发布后在硅谷引发轰动效应，上线仅3...",
+      "highlights": [
+        "值得注意的是，月之暗面2026年的估值增速极快，1至2月连续完成3轮融资，估值从100亿美元攀升至180亿美元；5月D轮融资后估值达200亿美元；6月E轮融资后投前估值升至315亿美元；7月F轮融资后达350亿美元",
+        "年内完成6轮融资，半年估值大涨",
+        "月之暗面融资的火爆，核心驱动来自旗舰大模型Kimi K3"
+      ],
+      "url": "https://finance.sina.com.cn/roll/2026-10-06/doc-iniuhpzh6985619.shtml",
+      "source": "finance.sina.com.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-06T09:23:59Z"
+    },
+    {
+      "id": "3a9ee2ee6d0b",
+      "title": "245 reactions · 35 shares | OPENAI AND ANTHROPIC EVERY SINGLE WEEK\n\nAt this point, the AI race doesn’t even look like a competition anymore.\n\nIt looks like two guys continuously lighting the next firework before the previous one has stopped exploding.\n\nOpenAI drops something.\n\nAnthropic responds.\n\nA new model launches.\n\nAnother benchmark gets beaten.\n\nSomeone gets banned.\n\nAnother AI feature appears.\n\nAnd before everyone has finished discussing it, there’s already another announcement.\n\nThe rivalry between OpenAI and Anthropic has become one of the fastest-moving battles in technology, with both companies competing across frontier AI models, coding agents, reasoning, enterprise tools and autonomous AI systems.\n\nAnd the funniest part?\n\nThis video somehow captures the entire AI industry without saying a single word.\n\nOpenAI and Claude every single week:\n\n“Light another one.”\n\ncredit: k1rallik \n\n#openai #anthropic #claude #artificialintelligence #ai\n\n{openai, anthropic, claude, chatgpt, sam altman, dario amodei, openai vs anthropic, claude ai, ai rivalry, ai model race, artificial intelligence, generative ai, ai models, frontier ai, ai agents, coding agents, ai coding, chatgpt vs claude, ai competition, ai news, tech news, silicon valley, ai startups, future of ai, machine learning, llm, large language models, ai meme, tech meme, ai industry} | Askgpts",
+      "summary": "YOUTUBERS WANT TO BECOME CODERS. CODERS WANT TO BECOME YOUTUBERS. PewDiePie’s latest side quest might be his wildest one yet. After years of being one of the biggest creators on the internet, PewDiePi...",
+      "highlights": [
+        "YOUTUBERS WANT TO BECOME CODERS. CODERS WANT TO BECOME YOUTUBERS. PewDiePie’s latest side quest might be his wildest one yet. After years of being one of the biggest creators on the internet, PewDiePie has now released Ajax, his own AI model built for his self-hosted AI ecosystem, Odysseus. Ajax is based on Qwen 3.5 9B and is designed around a completely different philosophy from typical cloud AI assistants: • Runs locally on your own hardware • Built for private, self-hosted AI workflows • Can [...] demand, AI data centers, HBM, DRAM, AI infrastructure, artificial intelligence, AI hardware, memory chips, data center boom, Claude, ChatGPT, AI race, semiconductor industry, PC hardware, AI generated video} [...] imagines their CEOs celebrating the AI infrastructure boom together. Obviously, they didn’t actually film this. The clip appears to be AI-generated or heavily manipulated. But the underlying joke captures a real shift: AI isn’t just competing for software users anymore. It’s reshaping demand for the hardware underneath the entire industry. Credit: Dauren Altynbek #openai #anthropic #samaltman #ai #technology {Sam Altman, Dario Amodei, OpenAI, Anthropic, RAM prices, AI memory demand, AI data"
+      ],
+      "url": "https://www.facebook.com/askgptss/posts/openai-and-anthropic-every-single-weekat-this-point-the-ai-race-doesnt-even-look/122156777001083258",
+      "source": "facebook.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-06T21:56:07Z"
+    },
+    {
+      "id": "c594821af835",
+      "title": "不er，咋陶哲轩也成AI减速派了？？ – 量子位",
+      "summary": "大模型 数学\n\n[林, 方舟](#)\n\n OpenAI「疯狂28天」首日，这都发了些啥啊…2026-10-06\n “AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”2026-09-25\n OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉2026-09-25\n 给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了2026-09-25\n\n### 相关阅读\n\n\n\n...",
+      "highlights": [
+        "OpenAI「疯狂28天」首日，这都发了些啥啊…2026-10-06",
+        "“AlphaGo”杀进足球场",
+        "自我对弈140年，机器人成“梅西终结者”2026-09-25"
+      ],
+      "url": "https://www.qbitai.com/2026/10/501736.html",
+      "source": "qbitai.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-06T07:00:00Z"
+    },
+    {
+      "id": "042dd4aba113",
+      "title": "Realtor.com®+™ Unveils RealAssist™ AI for Agents to Power a More Intelligent Workspace – Company Announcement - Financial Times",
+      "summary": "New agent AI layer in Realtor.com ®+™ automates client setup, surfaces daily client insights, and recommends next actions; part of a broader wave of updates as the platform expands to 192,000-plus age...",
+      "highlights": [
+        "New agent AI layer in Realtor.com ®+™ automates client setup, surfaces daily client insights, and recommends next actions; part of a broader wave of updates as the platform expands to 192,000-plus agents nationwide. AUSTIN, Texas , Oct. 6, 2026 /PRNewswire/ -- Realtor.com® today announced the launch of RealAssist™ AI in Realtor.com®+™, an AI-powered layer designed to set busy real estate professionals up for success by helping them work faster, stay ahead of client activity, and take action with more confidence, without losing time to manual busywork. RealAssist™ AI is designed to deepen that engagement by taking on the repetitive parts of an agent's day, helping them spend less time on manual tasks and more time serving clients. \"Realtor.com®+ is evolving into a more intelligent agent workspace that helps real estate professionals reduce manual work, respond faster to their clients, and stay in closer sync with buyer activity – and RealAssist™ AI is at the center of that shift,\" said Anna Marie Castiglioni, Head of Realtor.com® Next."
+      ],
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202610060600PR_NEWS_USPRX____LA64366-1",
+      "source": "markets.ft.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-06T10:00:00Z"
+    },
+    {
+      "id": "edc24d272f1b",
+      "title": "Realtor.com®+™ Unveils RealAssist™ AI for Agents to Power a More Intelligent Workspace - PR Newswire",
+      "summary": "# Realtor.com®+™ Unveils RealAssist™ AI for Agents to Power a More Intelligent Workspace. *New agent AI layer in* Realtor.com®+™ *automates client setup, surfaces daily client insights, and recommends...",
+      "highlights": [
+        "# Realtor.com®+™ Unveils RealAssist™ AI for Agents to Power a More Intelligent Workspace. *New agent AI layer in* Realtor.com®+™ *automates client setup, surfaces daily client insights, and recommends next actions; part of a broader wave of updates as the platform expands to 192,000-plus agents nationwide*. AUSTIN, Texas, Oct. 6, 2026 /PRNewswire/ -- Realtor.com® today announced the launch of RealAssist™ AI in Realtor.com®+™, an AI-powered layer designed to set busy real estate professionals up for success by helping them work faster, stay ahead of client activity, and take action with more confidence, without losing time to manual busywork. \"Realtor.com®+ is evolving into a more intelligent agent workspace that helps real estate professionals reduce manual work, respond faster to their clients, and stay in closer sync with buyer activity – and RealAssist™ AI is at the center of that shift,\" said Anna Marie Castiglioni, Head of Realtor.com® Next."
+      ],
+      "url": "https://www.prnewswire.com/news-releases/realtorcom-unveils-realassist-ai-for-agents-to-power-a-more-intelligent-workspace-302899179.html",
+      "source": "prnewswire.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-06T10:00:00Z"
+    },
+    {
+      "id": "bd9e64aaa3ca",
+      "title": "Realtor.com’s AI drafts client messages; agents approve each action - Stock Titan",
+      "summary": "4. Realtor.com®+™ Unveils RealAssist™ AI for Agents to Power a More Intelligent Workspace. Since its January 2026 debut, Realtor.com+ has reached up to **10% agent adoption in live markets**. The plat...",
+      "highlights": [
+        "4. Realtor.com®+™ Unveils RealAssist™ AI for Agents to Power a More Intelligent Workspace. Since its January 2026 debut, Realtor.com+ has reached up to **10% agent adoption in live markets**. The platform is live in 21 markets, with four more launching soon, serving more than 192,000 agents nationwide and spanning nearly 252,000 listings. Agent adoption: Up to 10% Markets live: 21 markets Agents served: More than 192,000 agents +2 more. *New agent AI layer in* Realtor.com®+™ *automates client setup, surfaces daily client insights, and recommends next actions; part of a broader wave of updates as the platform expands to 192,000-plus agents nationwide*. AUSTIN, Texas, Oct. 6, 2026 /PRNewswire/ -- Realtor.com® today announced the launch of RealAssist™ AI in Realtor.com®+™, an AI-powered layer designed to set busy real estate professionals up for success by helping them work faster, stay ahead of client activity, and take action with more confidence, without losing time to manual busywork."
+      ],
+      "url": "https://www.stocktitan.net/news/NWS/realtor-com-tm-unveils-real-assist-tm-ai-for-agents-to-power-a-more-u2rrtvzraxig.html",
+      "source": "stocktitan.net",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-06T10:00:00Z"
+    },
+    {
+      "id": "6161afcc0ff7",
+      "title": "Keysight Advances its Design Software with Agentic AI – Company Announcement - Financial Times",
+      "summary": "Engineers connect their AI agents to radio frequency tools for circuit generation, verification, and optimization. View the full release here: https://www.businesswire.com/news/home/20261006539221/en/...",
+      "highlights": [
+        "Engineers connect their AI agents to radio frequency tools for circuit generation, verification, and optimization. View the full release here: https://www.businesswire.com/news/home/20261006539221/en/. Keysight introduces agentic AI to its design software. More than 60% of organizations expect to deploy AI agents by 2028, yet radio frequency (RF) engineering has been slower to follow. Keysight Advanced Design System (ADS) 2027 addresses this by letting teams record workflows as macros their agents can learn from and convert graphical designs into code they can read. Model Context Protocol (MCP) servers connect agents to the software, guiding LLMs and agents in their interaction with ADS. The MCP servers provide the agent with documented skills and tools built by Keysight that execute specific RF work consistently, reducing variability caused by AI inference models generating answers statistically. The MCP servers, macro recording, and Python script generation are available now in ADS 2027 and RF Circuit Simulation Professional. Learn more at www.keysight.com. View source version on businesswire.com: https://www.businesswire.com/news/home/20261006539221/en/."
+      ],
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202610061100BIZWIRE_USPRX____20261006_BW539221-1",
+      "source": "markets.ft.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-06T15:00:00Z"
+    },
+    {
+      "id": "fa21d2fcae85",
+      "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps - Dark Reading",
+      "summary": "# Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps. The situation illustrates a trend toward using AI and deterministic validation to identify flaws and exploitability, and provide a risk a...",
+      "highlights": [
+        "# Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps. The situation illustrates a trend toward using AI and deterministic validation to identify flaws and exploitability, and provide a risk assessment. A Google internal AI agent has discovered more than 500 cross-site scripting (XXS) flaws on the company's own Web applications, by using a combination of AI and validation to provide an overview of vulnerabilities that can likely be exploited and thus should be addressed. PageBreak is an agent of Google's Product Security team that the company developed to test the security of its first-party Web applications and address any security challenges, the company quietly revealed in a blog post last month. The agent began in pilot form last November and moved to a full-fledged product in January, with a mission \"to autonomously scale vulnerability discovery while minimizing manual toil,\" Google information security engineer Michał Bentkowski wrote in the post."
+      ],
+      "url": "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps",
+      "source": "darkreading.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-06T18:05:54Z"
+    },
+    {
+      "id": "6d9f6756b71e",
+      "title": "Top Tech Execs From OpenAI, Anthropic, Google, Meta Testify Before NYC Council On AI Risks",
+      "summary": "# Top Tech Execs From OpenAI, Anthropic, Google, Meta Testify Before NYC Council On AI Risks\n## Channel: Forbes Breaking News (verified)\n5.61M subscribers\n\n### Description\nTop big tech executives from...",
+      "highlights": [
+        "# Top Tech Execs From OpenAI, Anthropic, Google, Meta Testify Before NYC Council On AI Risks",
+        "## Channel: Forbes Breaking News (verified)",
+        "5.61M subscribers"
+      ],
+      "url": "https://www.youtube.com/watch?v=ktEgjpKxb1E",
+      "source": "youtube.com",
+      "category": "行业话题",
+      "importance": 4,
+      "publishedAt": "2026-10-06T21:56:07Z"
+    },
+    {
       "id": "eade1c298cd9",
       "title": "Pacing the AI frontier won’t solve agentic cybersecurity’s most urgent problems - csoonline.com",
       "summary": "# Pacing the AI frontier won’t solve agentic cybersecurity’s most urgent problems. The problem, however, is that while Amodei’s example may be fantastical, there is legitimate cause for alarm that is ...",
@@ -535,6 +691,90 @@
       "category": "模型发布",
       "importance": 3,
       "publishedAt": "2026-10-06T05:00:22Z"
+    },
+    {
+      "id": "463e2206ec98",
+      "title": "法国AI初创企业Mistral发布欧洲最强开源大模型Mistral Large 4",
+      "summary": "PANews 10月6日消息，据金融界报道，Mistral周二推出一款全新AI模型，该公司表示其跻身全球顶尖开源模型之列。 这家法国企业介绍，Mistral Large 4（简称ML4，",
+      "highlights": [
+        "PANews 10月6日消息，据金融界报道，Mistral周二推出一款全新AI模型，该公司表示其跻身全球顶尖开源模型之列",
+        "这家法国企业介绍，Mistral Large 4（简称ML4，"
+      ],
+      "url": "https://es.tradingview.com/news/panews:6f62cb0c6acdf:0",
+      "source": "es.tradingview.com",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-10-06T13:00:00Z"
+    },
+    {
+      "id": "da0d12f3fff0",
+      "title": "机房紧缺，资本反而开始“挑剔”数据中心？",
+      "summary": "9月数据中心领域：SBEnergy推迟IPO推介，云厂商客户预付款等安排分担风险，电力、融资等条件差异影响项目推进。",
+      "highlights": [
+        "9月数据中心领域：SBEnergy推迟IPO推介，云厂商客户预付款等安排分担风险，电力、融资等条件差异影响项目推进"
+      ],
+      "url": "https://news.pedaily.cn/202610/569856.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-10-06T07:00:00Z"
+    },
+    {
+      "id": "056a4b577181",
+      "title": "到2031年，AI助理市场价值将达到$267.5亿——MarketsandMarkets报告",
+      "summary": "佛罗里达州德尔雷比奇，2026年10月6日/美通社/——据MarketsandMarkets报告，人工智能助手市场预计将在预测期内以30.4%的年均复合增长率，从2026年的71.1亿美元增长",
+      "highlights": [
+        "佛罗里达州德尔雷比奇，2026年10月6日/美通社/——据MarketsandMarkets报告，人工智能助手市场预计将在预测期内以30.4%的年均复合增长率，从2026年的71.1亿美元增长"
+      ],
+      "url": "https://www.moomoo.com/hans/news/post/1000653430/ai-assistant-market-worth-26-75-billion-by-2031-report",
+      "source": "moomoo.com",
+      "category": "行业话题",
+      "importance": 2,
+      "publishedAt": "2026-10-06T13:00:00Z"
+    },
+    {
+      "id": "6cf6aedfc08c",
+      "title": "【AI+威脅】「AI教父」Geoffrey Hinton等22名學者警告：AI研發 ...",
+      "summary": "論文核心結 論直指：AI系統正快速接管AI研發流水線，一旦越過某 個臨界點，今天需要一年才能完成的AI進步，極端情況 下未來可能只需約5周。 Geoffrey Hinton：前沿研究人員",
+      "highlights": [
+        "論文核心結 論直指：AI系統正快速接管AI研發流水線，一旦越過某 個臨界點，今天需要一年才能完成的AI進步，極端情況 下未來可能只需約5周",
+        "Geoffrey Hinton：前沿研究人員"
+      ],
+      "url": "https://www.facebook.com/tzuchicommuity.xinzhu/videos/ai%E5%A8%81%E8%84%85ai%E6%95%99%E7%88%B6geoffrey-hinton%E7%AD%8922%E5%90%8D%E5%AD%B8%E8%80%85%E8%AD%A6%E5%91%8Aai%E7%A0%94%E7%99%BC%E8%87%AA%E5%8B%95%E5%8C%96%E6%81%90%E8%A7%B8%E7%99%BC%E6%99%BA%E8%83%BD%E7%88%86%E7%82%B8-%E4%B8%80%E5%B9%B4%E9%80%B2%E5%B1%95%E6%88%96%E7%B8%AE%E8%87%B35%E5%91%A8httpsinewshketcomarticle4/1104521868601566",
+      "source": "facebook.com",
+      "category": "前沿理论",
+      "importance": 2,
+      "publishedAt": "2026-10-06T21:56:07Z"
+    },
+    {
+      "id": "0f919bfc164b",
+      "title": "一位作者在 LessWrong 發表長文，借用 Gradual Disempowerment 論文的框架，主張前沿 AI 實驗室本身就是漸進式失權最好的案例。他請讀者想像告訴 2021 年的研究者，現在 AI 已在許多領域略勝人類，相關供應鏈市值達 10 到 20 兆美元，但超人 AI 的技術對齊、建造超級智慧的道德問題都進展有限，政府監管也零散不一。 實驗室打算維持能力進展的速度，對齊工作則交給 AI 自己做，人類檢查不完，沒被檢查的比例還在增加。作者說，這在 2021 年的研究者聽來，就像失去控制又覺得無所謂。 他以 Anthropic 為主要例子，從政治、文化、經濟三方面分析實驗室怎麼被建造技術的壓力一步步推著走。留下來做決策的是相信非做不可的人，模型越友善越容易讓人放下戒心，實驗室內部的論辯也一再偏向加速。他質疑，在缺乏可靠對齊方法時推出 Opus 5.5，對世界甚至對 Anthropic 員工自己到底有什麼好處。",
+      "summary": "Home\n\nNew thread\n\nSearch\n\nMessages\n\nActivity\n\nProfile\n\nInsights\n\nLog in\n\nMore\n\n# Thread\n\n210 views\n\nasgard_ai_platform's profile picture\n\nasgard\\_ai\\_platform\n\n一位作者在 LessWrong 發表長文，借用 Gradual Disempow...",
+      "highlights": [
+        "asgard_ai_platform's profile picture",
+        "asgard\\_ai\\_platform",
+        "一位作者在 LessWrong 發表長文，借用 Gradual Disempowerment 論文的框架，主張前沿 AI 實驗室本身就是漸進式失權最好的案例"
+      ],
+      "url": "https://www.threads.com/@asgard_ai_platform/post/DeAabUcn7t_/%E4%B8%80%E4%BD%8D%E4%BD%9C%E8%80%85%E5%9C%A8-lesswrong-%E7%99%BC%E8%A1%A8%E9%95%B7%E6%96%87%E5%80%9F%E7%94%A8-gradual-disempowerment-%E8%AB%96%E6%96%87%E7%9A%84%E6%A1%86%E6%9E%B6%E4%B8%BB%E5%BC%B5%E5%89%8D%E6%B2%BF-ai-%E5%AF%A6%E9%A9%97%E5%AE%A4%E6%9C%AC%E8%BA%AB%E5%B0%B1%E6%98%AF%E6%BC%B8%E9%80%B2%E5%BC%8F%E5%A4%B1%E6%AC%8A%E6%9C%80%E5%A5%BD%E7%9A%84%E6%A1%88%E4%BE%8B%E4%BB%96%E8%AB%8B%E8%AE%80%E8%80%85",
+      "source": "threads.com",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-10-06T21:56:07Z"
+    },
+    {
+      "id": "583c88af4965",
+      "title": "Crunchbase Data Shows AI’s Most Active Startups Are Becoming Serial Acquirers",
+      "summary": "Data: OpenAI Has Already Done Nearly As Many M&A Deals In 2026 As It Did All of Last Year\n Startups Are Still Acquiring Startups, Led By Ultra-High-Valuation Unicorns\n Your AI Strategy May Be Destroyi...",
+      "highlights": [
+        "Data: OpenAI Has Already Done Nearly As Many M&A Deals In 2026 As It Did All of Last Year",
+        "Startups Are Still Acquiring Startups, Led By Ultra-High-Valuation Unicorns",
+        "Your AI Strategy May Be Destroying Your Exit Value"
+      ],
+      "url": "https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai",
+      "source": "news.crunchbase.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-06T11:00:47Z"
     }
   ],
   "week": [
@@ -745,17 +985,19 @@
       "publishedAt": "2026-10-06T04:37:53Z"
     },
     {
-      "id": "475d53755606",
-      "title": "AI 大模型世界",
-      "summary": "国外 ; Claude Opus 5.5. Anthropic · 世界#1 ; GPT-6 Astra. OpenAI · 世界#2 ; Gemini 3.8 Flash. 谷歌 · 世界#15 ; Muse Spark 1.3. Meta · 世界#17 ; Grok 4.7. xAI · 暂无.",
+      "id": "d5584052908a",
+      "title": "DeepSeek美国版大模型Beam发布：表现还不错 但碰瓷不了V4.1 Flash--快科技--科技改变未来",
+      "summary": "如果综合考虑到性能、价格等因素，DeepSeek V4.1 Flash是能满足大部分人90%的需求，而且性价比是其他大模型很难碰瓷的，这个护城河别说美国企业很难打破，国内的开源AI也没几个能跟V4.1 Flaash相比的。\n\n正因为此，Reflection公司在Beam大模型发布之后，对外强调的叙事风格也不走技术路线，CEO也在用西方世界的焦虑感来给自己树立形象，强调西方世界再不做（开源AI），那...",
       "highlights": [
-        "国外 ; Claude Opus 5.5. Anthropic · 世界#1 ; GPT-6 Astra. OpenAI · 世界#2 ; Gemini 3.8 Flash. 谷歌 · 世界#15 ; Muse Spark 1.3. Meta · 世界#17 ; Grok 4.7. xAI · 暂无."
+        "如果综合考虑到性能、价格等因素，DeepSeek V4.1 Flash是能满足大部分人90%的需求，而且性价比是其他大模型很难碰瓷的，这个护城河别说美国企业很难打破，国内的开源AI也没几个能跟V4.1 Flaash相比的",
+        "正因为此，Reflection公司在Beam大模型发布之后，对外强调的叙事风格也不走技术路线，CEO也在用西方世界的焦虑感来给自己树立形象，强调西方世界再不做（开源AI），那全球AI就要由中国大模型来建了",
+        "【本文结束】如需转载请务必注明出处：快科技"
       ],
-      "url": "https://www.bilibili.com/toy/ai-model-world",
-      "source": "bilibili.com",
+      "url": "https://m.mydrivers.com/newsview/1155501.html",
+      "source": "m.mydrivers.com",
       "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-05T07:00:00Z"
+      "importance": 5,
+      "publishedAt": "2026-10-06T06:00:00Z"
     }
   ],
   "month": [
@@ -786,21 +1028,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-10-05T00:00:00Z"
-    },
-    {
-      "id": "18f7b31c9459",
-      "title": "硬科技早报｜腾讯70亿美元算力租赁；阿里欧洲算电协同；韬芯片照片曝光",
-      "summary": "日前，微软研究院推出实验性AI研究系统Quine，旨在构建生物学多模态世界模型，并搭建连接模型、科学工具、文献和科研人员的交互式harness框架，推动AI从辅助分析进一步走向科研发现。微软并非近期唯一加码AI4S的科技巨头。就在9月23日，Anthropic宣布成立生命科学研究团队和实验室，并披露了Claude参与生物学研究取得的早期成果。Claude在分析超过20万个逆转录酶（RT）序列后，选...",
-      "highlights": [
-        "日前，微软研究院推出实验性AI研究系统Quine，旨在构建生物学多模态世界模型，并搭建连接模型、科学工具、文献和科研人员的交互式harness框架，推动AI从辅助分析进一步走向科研发现",
-        "微软并非近期唯一加码AI4S的科技巨头",
-        "就在9月23日，Anthropic宣布成立生命科学研究团队和实验室，并披露了Claude参与生物学研究取得的早期成果"
-      ],
-      "url": "https://www.guancha.cn/CaiJing/2026_10_04_903153.shtml",
-      "source": "guancha.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-04T12:00:00Z"
     },
     {
       "id": "890e83a79266",
@@ -906,6 +1133,21 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-10-05T10:36:37Z"
+    },
+    {
+      "id": "4889deefbdfc",
+      "title": "新加坡投资银行收费创五年新高：并购与融资活跃 | 联合早报",
+      "summary": "新加坡公司向外流出的合并与收购（outbound M&A）总值达463亿美元，较去年同期暴增逾两倍。其中最引人瞩目的是新加坡政府投资公司（GIC）在今年2月参与人工智能初创公司Anthropic价值300亿美元的融资案，这也是今年迄今亚太地区最大的一笔交易。\n\n报告指出，新加坡本地并购（Target Singapore M&A）总值达392亿美元，同比增长88.5%，创五年新高。其中包括美国私募巨...",
+      "highlights": [
+        "新加坡公司向外流出的合并与收购（outbound M&A）总值达463亿美元，较去年同期暴增逾两倍",
+        "其中最引人瞩目的是新加坡政府投资公司（GIC）在今年2月参与人工智能初创公司Anthropic价值300亿美元的融资案，这也是今年迄今亚太地区最大的一笔交易",
+        "报告指出，新加坡本地并购（Target Singapore M&A）总值达392亿美元，同比增长88.5%，创五年新高"
+      ],
+      "url": "https://www.zaobao.com.sg/finance/singapore/story20261005-9787985",
+      "source": "zaobao.com.sg",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-05T12:00:00Z"
     }
   ]
 }
