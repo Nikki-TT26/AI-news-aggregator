@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T03:26:53Z",
+  "updatedAt": "2026-10-06T12:17:19Z",
   "latest": [
     {
       "id": "eca2dfe49abd",
@@ -28,21 +28,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-10-05T00:00:00Z"
-    },
-    {
-      "id": "18f7b31c9459",
-      "title": "硬科技早报｜腾讯70亿美元算力租赁；阿里欧洲算电协同；韬芯片照片曝光",
-      "summary": "日前，微软研究院推出实验性AI研究系统Quine，旨在构建生物学多模态世界模型，并搭建连接模型、科学工具、文献和科研人员的交互式harness框架，推动AI从辅助分析进一步走向科研发现。微软并非近期唯一加码AI4S的科技巨头。就在9月23日，Anthropic宣布成立生命科学研究团队和实验室，并披露了Claude参与生物学研究取得的早期成果。Claude在分析超过20万个逆转录酶（RT）序列后，选...",
-      "highlights": [
-        "日前，微软研究院推出实验性AI研究系统Quine，旨在构建生物学多模态世界模型，并搭建连接模型、科学工具、文献和科研人员的交互式harness框架，推动AI从辅助分析进一步走向科研发现",
-        "微软并非近期唯一加码AI4S的科技巨头",
-        "就在9月23日，Anthropic宣布成立生命科学研究团队和实验室，并披露了Claude参与生物学研究取得的早期成果"
-      ],
-      "url": "https://www.guancha.cn/CaiJing/2026_10_04_903153.shtml",
-      "source": "guancha.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-04T12:00:00Z"
     },
     {
       "id": "890e83a79266",
@@ -165,6 +150,107 @@
       "publishedAt": "2026-10-05T12:00:00Z"
     },
     {
+      "id": "3478da7b2048",
+      "title": "推理支出2026年首超训练：\"Token工厂\"崛起 AI基础设施投资逻辑生变｜深度",
+      "summary": "Token（词元）价值怎么算？据中国信通院发布《词元（Token）经济发展研究报告（2026年）》，不同应用场景的词元价值密度差异巨大，消费级场景属于流量消耗型，价值密度较低，典型如闲聊、娱乐问答等，仅需基础交互能力，价格约0.01美元/百万词元。产业级场景价值密度较高，典型如药物研发、金融量化、精密代码生成等，价值可达1000美元/百万词元，是词元经济的价值高地。\n\nToken出海≠模型出海：流...",
+      "highlights": [
+        "Token（词元）价值怎么算",
+        "据中国信通院发布《词元（Token）经济发展研究报告（2026年）》，不同应用场景的词元价值密度差异巨大，消费级场景属于流量消耗型，价值密度较低，典型如闲聊、娱乐问答等，仅需基础交互能力，价格约0.01美元/百万词元",
+        "产业级场景价值密度较高，典型如药物研发、金融量化、精密代码生成等，价值可达1000美元/百万词元，是词元经济的价值高地"
+      ],
+      "url": "https://www.cls.cn/detail/2497741",
+      "source": "cls.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-05T12:00:00Z"
+    },
+    {
+      "id": "f63aadec557a",
+      "title": "DeepSeek融资规模或达120亿美元，腾讯与宁德时代拟参投 — TradingView新聞",
+      "summary": "PANewsPANews\n\n# DeepSeek融资规模或达120亿美元，腾讯与宁德时代拟参投\n\nPANews 10月6日消息，据彭博社报道，AI公司DeepSeek接近完成新一轮融资，规模预计至少达到800亿元人民币（约120亿美元），大幅超过公司此前约500亿元人民币的融资目标。\n\n知情人士透露，腾讯控股和宁德时代（CATL）已承诺投入本轮融资中的较大金额，相关融资交易预计即将完成。由于Dee...",
+      "highlights": [
+        "PANewsPANews",
+        "# DeepSeek融资规模或达120亿美元，腾讯与宁德时代拟参投",
+        "PANews 10月6日消息，据彭博社报道，AI公司DeepSeek接近完成新一轮融资，规模预计至少达到800亿元人民币（约120亿美元），大幅超过公司此前约500亿元人民币的融资目标"
+      ],
+      "url": "https://tw.tradingview.com/news/panews:cad48f536acdf:0",
+      "source": "tw.tradingview.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-05T14:00:00Z"
+    },
+    {
+      "id": "1996922c6cb6",
+      "title": "AI 改变科技行业，软件风光不再，硬件开始赚稀缺的钱_搜狐网",
+      "summary": "于是自研芯片开始划算。Google 做 TPU，Amazon 做 Trainium 和 Inferentia，Meta、微软也都进芯片设计。\n\nCustom Silicon 是目前数据中心计算芯片里增长最快的品类，ASIC 正在抢走英伟达 GPU 的份额。一家一年只买 1 万颗芯片，自研大概率不划算；一年要买 100 万颗，而且每颗供应商都有很高毛利，自己做就可能省下巨额成本。B商用 GPU 毛利...",
+      "highlights": [
+        "Google 做 TPU，Amazon 做 Trainium 和 Inferentia，Meta、微软也都进芯片设计",
+        "Custom Silicon 是目前数据中心计算芯片里增长最快的品类，ASIC 正在抢走英伟达 GPU 的份额",
+        "一家一年只买 1 万颗芯片，自研大概率不划算；一年要买 100 万颗，而且每颗供应商都有很高毛利，自己做就可能省下巨额成本"
+      ],
+      "url": "https://m.sohu.com/a/1084413980_236796?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-06T11:02:51Z"
+    },
+    {
+      "id": "1aa9ba42802d",
+      "title": "《经济学人》说“极速兴奋”资本主义时代已经来临，是福还是祸？_搜狐网",
+      "summary": "问题也就来了：这是美国下一轮生产率革命的起点，还是一场正在被资本市场不断放大的超级冒险？\n\n一、从科技股到数据中心，美国资本正在疯狂押注AI。\n\n先看看今天的美国资本市场有多“快”。\n\n过去一年，美国出现了大量历史级别的融资和交易。\n\nSpaceX准备登陆公开市场，OpenAI获得巨额私人融资，亚马逊等科技巨头大规模发行债券， 英伟达实施创纪录的股票回购，私募股权基金继续推动大型杠杆收购。\n\n与此...",
+      "highlights": [
+        "问题也就来了：这是美国下一轮生产率革命的起点，还是一场正在被资本市场不断放大的超级冒险",
+        "一、从科技股到数据中心，美国资本正在疯狂押注AI",
+        "先看看今天的美国资本市场有多“快”"
+      ],
+      "url": "https://m.sohu.com/a/1084384352_121948396?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-06T09:25:07Z"
+    },
+    {
+      "id": "666dcfec66d5",
+      "title": "李想想多了|理想汽车|港股|理想|股价|机器人_新浪新闻",
+      "summary": "然而，主业失速下的李想，谈得最多的却不是车。\n\n1月的全员会上，他几乎不谈汽车业务，大讲特讲的是AI和人形机器人。5月，再次强调，自动驾驶是具身智能的上半场，人形机器人是具身智能的下半场。\n\n他说，2026年是理想成为AI头部公司“上车的最后一年”，全球能同时做好基座模型、芯片、操作系统和具身智能的公司不超过三家，理想要做其中之一。\n\n但他的具身机器人叙事刚讲完，理想离具身和人形机器人最近的一批高...",
+      "highlights": [
+        "然而，主业失速下的李想，谈得最多的却不是车",
+        "1月的全员会上，他几乎不谈汽车业务，大讲特讲的是AI和人形机器人",
+        "5月，再次强调，自动驾驶是具身智能的上半场，人形机器人是具身智能的下半场"
+      ],
+      "url": "https://k.sina.com.cn/article_2104169363_7d6b139300101k2co.html?from=finance",
+      "source": "k.sina.com.cn",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-05T16:03:25Z"
+    },
+    {
+      "id": "07dfd47641fa",
+      "title": "Can Google's AI Chip Beat Nvidia? : r/GoogleGeminiAI",
+      "summary": "All anthropic models are primarily trained on TPUs. TPU is a better architecture for training because you don't have the same limits on networking. More",
+      "highlights": [
+        "All anthropic models are primarily trained on TPUs. TPU is a better architecture for training because you don't have the same limits on networking. More"
+      ],
+      "url": "https://www.reddit.com/r/GoogleGeminiAI/comments/1wwr25l/can_googles_ai_chip_beat_nvidia",
+      "source": "reddit.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-06T12:17:19Z"
+    },
+    {
+      "id": "f63d08b2673e",
+      "title": "AI芯片“黑马”Cerebras上市大涨51%,市值达4000亿元:背靠OpenAI,挑战英伟达,主打“史上最大”计算机芯片",
+      "summary": "英伟达B200芯片则配备了192GB的内存.大模型的上下文长度完... OpenAI承诺购买750MW AI推理算力,还有选择权,可额外购买1....",
+      "highlights": [
+        "英伟达B200芯片则配备了192GB的内存.大模型的上下文长度完... OpenAI承诺购买750MW AI推理算力,还有选择权,可额外购买1...."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MYf0ighEh65E3oCC44TBNoOQSL5SBJ81qXa8Fplpd9GcM2Cy_pJk_NyA6xUJPxHTtan2a6kYbsVzhqtZ1tUEb7oA0HvK0ap8EGLm8K8baUG3wGbgKKDTtgMPc5H_do6l6ee4WP7X0N_eh09Iz7IskiFBiS52CqnrGjGXZd5Iel40UOtHI1SH05RG-diyVagy_ytqC0jPybqRsJ5xgZlokC2Qmj7RgGwQ..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=D33EE50C4815ADDFCBCC97E030BE52B3CB39B8DE6AC4E6C8",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-06T04:37:53Z"
+    },
+    {
       "id": "9d21f57e72cd",
       "title": "深度｜对话 Google Research 负责人：暴力堆卡已到尽头，下一代架构不在预训练里_搜狐网",
       "summary": "现有架构的限制，并不等于 AI 的极限。Scaling law 描述的是沿着既有技术路线增加数据和算力的收益，但新的算法与架构仍可能改变效率边界。Matias 以投机解码为例，强调研究还要不断寻找全新的方法，而下一轮更大幅度的提升仍有待突破。\n AI 最成熟的形态是人们不再需要时刻注意它。他将这种状态称为“环境智能”（ambient intelligence）：智能自然融入日常体验，用户可以专注于...",
@@ -236,21 +322,6 @@
       "publishedAt": "2026-10-05T12:47:02Z"
     },
     {
-      "id": "1177d17ac6cb",
-      "title": "新商学案例｜国产智驾芯片出货量第一的地平线如何拓展AI应用新场景？|智能驾驶|征程|算法|机器人|车辆_新浪新闻",
-      "summary": "这些测试既呈现了现有能力，也暴露了仍需解决的长尾场景。这些积累为地平线向更多新场景延伸提供了依据。\n\n　　技术同源\n\n　　把智驾能力延伸至机器人\n\n　　从智能驾驶向机器人延伸，是当前人工智能产业探索的方向之一，也是地平线尝试复用既有技术能力的下一步探索。具身智能已连续两年写入《政府工作报告》，“十五五”规划纲要将具身智能等列为新的经济增长点。国务院《关于深入实施“人工智能+”行动的意见》也提出，大...",
-      "highlights": [
-        "这些测试既呈现了现有能力，也暴露了仍需解决的长尾场景",
-        "这些积累为地平线向更多新场景延伸提供了依据",
-        "把智驾能力延伸至机器人"
-      ],
-      "url": "https://k.sina.com.cn/article_3215951873_bfaf880102702m7sk.html?from=tech",
-      "source": "k.sina.com.cn",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-10-04T10:47:09Z"
-    },
-    {
       "id": "ce687d9184a0",
       "title": "奥特曼称Cerebras为“紧密合作伙伴”，该芯片企业股价盘前上涨6%",
       "summary": "AI硬件企业Cerebras周一盘前股价走高，从上周跌势中反弹，最新盘前涨幅6.3%，报每股177美元，当前总市值略超390亿美元，较5月上市首日950亿美元的市值近乎腰斩。",
@@ -277,18 +348,69 @@
       "publishedAt": "2026-10-05T23:23:58Z"
     },
     {
-      "id": "bdf5afa212b1",
-      "title": "爱博最新Store发布“天穹”AI大模型，开启智慧城市新纪元",
-      "summary": "2026年4月29日，国内领先的人工智能企业爱博最新Store在北京国家会议中心举办“智联未来”新品发布会，正式推出自研的“天穹”AI大模型。该模型融合了多模态感知、数字孪生",
+      "id": "1416cc87496e",
+      "title": "奥特曼称Cerebras为“紧密合作伙伴”，该芯片企业股价盘前上涨6%",
+      "summary": "AI硬件企业Cerebras周一盘前股价走高，从上周跌势中反弹，最新盘前涨幅6.3%，报每股177美元，当前总市值略超390亿美元，较5月上市首日950亿美元的市值近乎腰斩。",
       "highlights": [
-        "2026年4月29日，国内领先的人工智能企业爱博最新Store在北京国家会议中心举办“智联未来”新品发布会，正式推出自研的“天穹”AI大模型",
-        "该模型融合了多模态感知、数字孪生"
+        "AI硬件企业Cerebras周一盘前股价走高，从上周跌势中反弹，最新盘前涨幅6.3%，报每股177美元，当前总市值略超390亿美元，较5月上市首日950亿美元的市值近乎腰斩"
       ],
-      "url": "https://www.eoffcn.com/lEluNwikiI.html",
-      "source": "eoffcn.com",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniuemac4378341.shtml?cre=tianyi&mod=pchp&loc=21&r=0&rfunc=64&tj=cxvertical_pc_hp&tr=12",
+      "source": "finance.sina.com.cn",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-05T12:00:00Z"
+    },
+    {
+      "id": "06c15f4dcfb4",
+      "title": "Tracing the rogue ideology of the frontier labs to their product choices - Buttondown",
+      "summary": "*This is a really long newsletter, for which I apologize, but hopefully there's enough detail in there for people who have not been following this stuff closely to get up to speed. This is due to a se...",
+      "highlights": [
+        "*This is a really long newsletter, for which I apologize, but hopefully there's enough detail in there for people who have not been following this stuff closely to get up to speed. This is due to a series of admissions—or, depending on your level of cynicism, PR stunts—from the so-called AI \"frontier labs\" OpenAI and Anthropic, admissions that their best models, when set to work on internal cybersecurity testing, had contrived to hack external sites in various ways on multiple separate occasions. This is, as has been broadly noted, strange on the face of it—what other industry do you know that has voluntarily offered to pause its march towards profitability and lucrative IPOs—and if you haven't been more-or-less marinating in the culture that birthed these labs it might seem frankly inexplicable."
+      ],
+      "url": "https://buttondown.com/apperceptive/archive/tracing-the-rogue-ideology-of-the-frontier-labs/",
+      "source": "buttondown.com",
       "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-04T12:00:00Z"
+      "importance": 4,
+      "publishedAt": "2026-10-05T20:01:45Z"
+    },
+    {
+      "id": "63d6760b908c",
+      "title": "OpenAI and Anthropic Have a New Threat to Worry About—and It Isn’t China - Gizmodo",
+      "summary": "# OpenAI and Anthropic Have a New Threat to Worry About—and It Isn’t China. A little-known American AI startup is looking to steal frontier AI companies’ bread and butter by letting enterprise custome...",
+      "highlights": [
+        "# OpenAI and Anthropic Have a New Threat to Worry About—and It Isn’t China. A little-known American AI startup is looking to steal frontier AI companies’ bread and butter by letting enterprise customers build their own custom AI models. Several powerful open-source and open-weight models developed by Chinese AI labs have been a tempting alternative, since they can be modified to suit each customer’s needs and, more importantly, are cheaper than American frontier models. Echoing Nvidia’s Jensen Huang and Meta’s Mark Zuckerberg, Reflection believes that a completely open ecosystem is the safest and most equitable pathway into the future: “We need to build open models so capable that they become the obvious choice for users and developers worldwide, ensuring the foundation of intelligence remains open and accessible rather than controlled by a few,” the company wrote in a blog post last year."
+      ],
+      "url": "https://gizmodo.com/openai-and-anthropic-have-a-new-threat-to-worry-about-and-it-isnt-china-2000821705",
+      "source": "gizmodo.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-05T16:30:51Z"
+    },
+    {
+      "id": "8649e164977a",
+      "title": "Etched fields funding offers at $40B+ valuation, sources say - techcrunch.com",
+      "summary": "Although it’s only been a couple of months since Etched raised $700 million at a $21 billion valuation, the AI chip startup is already being plied with investment offers at double or more its value, a...",
+      "highlights": [
+        "Although it’s only been a couple of months since Etched raised $700 million at a $21 billion valuation, the AI chip startup is already being plied with investment offers at double or more its value, according to people familiar with the company. Etched is reviewing incoming bids that range from $40 billion from top-tier investors to $50 billion from lesser-known backers, one person said. Etched said in July that it had already secured $1 billion in customer orders, including the one from Jane Street, after manufacturing its test chip at a TSMC factory this summer. The startup has also impressed investors with its ability to attract engineers from Nvidia, with roughly 15% of Etched’s 400-person workforce having previously worked at the chip giant, according to the Wall Street Journal. The startup announced a $300 million round at a $10.3 billion led by Sequoia in July. It announced the $700 million round at a $21 billion valuation in September."
+      ],
+      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+      "source": "techcrunch.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-10-05T20:24:09Z"
+    },
+    {
+      "id": "2e389b41e784",
+      "title": "AI startup offers tools to minimize flight delay losses - CNN",
+      "summary": "# AI startup offers tools to minimize flight delay losses. 5:48 PM EDT, Mon October 5, 2026. Assaia CEO Christiaan Hen explains what the service does. Survey: Most software developers try to avoid usi...",
+      "highlights": [
+        "# AI startup offers tools to minimize flight delay losses. 5:48 PM EDT, Mon October 5, 2026. Assaia CEO Christiaan Hen explains what the service does. Survey: Most software developers try to avoid using AI. Why pistachios could get more expensive. The Hollywood hits filmed in Africa. Gulf tourism takes stock at the Arabian Travel Market. Fareed Zakaria on his takeaways from top tech meeting and what's difficult about regulating AI. Hassett defends Trump economy despite voter concerns on inflation. U.S. economy adds just 29,000 jobs in September. NYC bakery's $60 loaf of bread sparks social media buzz. What to make of the final jobs report before the midterm elections. CEO reacts to tech execs pledging to ‘self-police’ their AI products. Greenland Energy CEO says 'The world needs oil'. Nvidia launches new tool to keep AI agents from going rogue."
+      ],
+      "url": "https://edition.cnn.com/2026/10/05/business/video/ai-startup-flight-delays-hen-live-100504pseg1-cnni-business-fast",
+      "source": "edition.cnn.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-05T21:48:35Z"
     },
     {
       "id": "da5066df565d",
@@ -303,134 +425,118 @@
       "category": "前沿理论",
       "importance": 3,
       "publishedAt": "2026-10-05T11:00:00Z"
-    },
-    {
-      "id": "aba924b2fdf8",
-      "title": "下一代 AI Agent 智能体源码解析:从自动任务执行到企业级智能工作流",
-      "summary": "多智能体架构优势相比单 Agent:优势:分工明确并行处理结果质量更高更接近真实团队工作模式未来企业内部可能出现:AI产品经理...",
-      "highlights": [
-        "多智能体架构优势相比单 Agent:优势:分工明确并行处理结果质量更高更接近真实团队工作模式未来企业内部可能出现:AI产品经理..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MYf0ighEh6RPfUI4r25Qex-Lcu9a2NgFqXa8Fplpd9zAhtGxytl-eiOv7JRQlk3hwQfd-phi2ciH8D1QtU4Eq4Poa_i9wGvV9OEVfep5Xzyf4S5KwxPx3E8N6aH8FldZepNfn4b3oXaZIROzeFlUC_ZiF2Zdt2aIorC8BTJ6AZ2q_qCsG622cBOZ6AfnxudexxR9hwwV6iaOYDZit-Y8otPujwwRB2Pw..&amp;type=2&amp;query=AI Agent %E6%99%BA%E8%83%BD%E4%BD%93 %E4%BA%A7%E5%93%81&amp;token=CBAD7681FB2DB91B51540F45155B9C9252FC67766AC39C41",
-      "source": "微信公众号",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-10-05T00:31:34Z"
-    },
-    {
-      "id": "f4035f3f4fa5",
-      "title": "全球大模型第一股，大涨_搜狐网",
-      "summary": "高盛最新发布的研报将智谱评级由“中性”上调至“买入”，并将基于DCF的12个月目标价修订为1560港元。上调理由方面，一是智谱商业化路径进一步明确。高盛将公司2026年底ARR预测上调至32亿美元（此前预测为27亿美元），主要考虑Token需求增长，以及公司自10月起与中国及全球大型云厂商执行新的商业合作条款。二是算力基础设施扩张和资产负债表改善有望支撑业务规模继续扩大。三是成本效率改善有望推动推...",
-      "highlights": [
-        "高盛最新发布的研报将智谱评级由“中性”上调至“买入”，并将基于DCF的12个月目标价修订为1560港元",
-        "上调理由方面，一是智谱商业化路径进一步明确",
-        "高盛将公司2026年底ARR预测上调至32亿美元（此前预测为27亿美元），主要考虑Token需求增长，以及公司自10月起与中国及全球大型云厂商执行新的商业合作条款"
-      ],
-      "url": "https://m.sohu.com/a/1084238797_465270?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-10-05T16:20:00Z"
-    },
-    {
-      "id": "5742e4d4ceaa",
-      "title": "美国具身智能学界正担忧失去人心-虎嗅网",
-      "summary": "Mehta进一步列举公众担忧的具体技术场景。Behram Wali发表于《Transportation Research Part A》的研究显示，约85%的美国人认为自动驾驶汽车将扰乱与驾驶相关的就业，另有47%认为其将加剧收入不平等。另一项关于旧金山机器人出租车需求的研究（Loa,Lee&Circella，《Transportation》）则发现，女性居民占比、人口密度以及被划定为弱势或公平优...",
-      "highlights": [
-        "Mehta进一步列举公众担忧的具体技术场景",
-        "Behram Wali发表于《Transportation Research Part A》的研究显示，约85%的美国人认为自动驾驶汽车将扰乱与驾驶相关的就业，另有47%认为其将加剧收入不平等",
-        "另一项关于旧金山机器人出租车需求的研究（Loa,Lee&Circella，《Transportation》）则发现，女性居民占比、人口密度以及被划定为弱势或公平优先社区的属性，与机器人出租车需求呈负相关"
-      ],
-      "url": "https://www.huxiu.com/article/4895434.html",
-      "source": "huxiu.com",
-      "category": "具身智能",
-      "importance": 3,
-      "publishedAt": "2026-10-05T07:51:22Z"
-    },
-    {
-      "id": "548be726c9b9",
-      "title": "How do companies such as OpenAI and Anthropic build ...",
-      "summary": "At its core, an AI model is an intimidating cluster of servers crunching statistics. OpenAI and Anthropic wrap this cold reality in a warm, human touch for one",
-      "highlights": [
-        "At its core, an AI model is an intimidating cluster of servers crunching statistics. OpenAI and Anthropic wrap this cold reality in a warm, human touch for one"
-      ],
-      "url": "https://www.quora.com/How-do-companies-such-as-OpenAI-and-Anthropic-build-trust-with-users-despite-the-risks-associated-with-AI-models-potentially-going-rogue",
-      "source": "quora.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-05T23:23:58Z"
-    },
-    {
-      "id": "83f77ae81d5e",
-      "title": "Google is now the FOURTH major AI lab to disclose ...",
-      "summary": "A tech commentator discusses Google's development of a new AI chip code-named 'Frozen,' which is designed to run Gemini models directly on the silicon for",
-      "highlights": [
-        "A tech commentator discusses Google's development of a new AI chip code-named 'Frozen,' which is designed to run Gemini models directly on the silicon for"
-      ],
-      "url": "https://www.facebook.com/61588604734279/videos/google-is-now-the-fourth-major-ai-lab-to-disclose-an-incident-like-thissimilar-c/1622403549519378",
-      "source": "facebook.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-05T23:23:58Z"
-    },
-    {
-      "id": "445a8329f33c",
-      "title": "下一代 AI Agent 智能体源码解析:从自动任务执行到企业级智能工作流",
-      "summary": "多智能体架构优势相比单 Agent:优势:分工明确并行处理结果质量更高更接近真实团队工作模式未来企业内部可能出现:AI产品经理...",
-      "highlights": [
-        "多智能体架构优势相比单 Agent:优势:分工明确并行处理结果质量更高更接近真实团队工作模式未来企业内部可能出现:AI产品经理..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MYf0ighEh6TRwEf2MA9yiISnQaD1d9EFqXa8Fplpd9rSnSNCDBc-VdeWTna8NymLagZnM_tuvAUxPhmYwccLzuD896fzKnJ8fg1A1LIQSoKZt878MaJnRz3-OLaUMTZ_QeY_lO-lNQFNuVxpVKPyvMjUDRZtk36eY49qva0xNzfqFFHil2kkeaXJM_zTzje-0HPZy4Hi-fqHLlxKEIfmBf_71bqkOtiw..&amp;type=2&amp;query=AI Agent %E6%99%BA%E8%83%BD%E4%BD%93 %E4%BA%A7%E5%93%81&amp;token=D07972125E449F274F49136DDEF9D9464FC0DC876AC46A7A",
-      "source": "微信公众号",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-10-05T00:31:34Z"
-    },
-    {
-      "id": "269fa7e9497f",
-      "title": "基础杂活全被一键秒杀，还要初级员工干嘛？Google Research负责人：以往熬15年的判断力，现在一出道就得硬抗",
-      "summary": "过去一年多，大家看Google，视线几乎全被拽在商业大模型的角斗场里——Gemini 的跑分追上没有、搜索框里的AI 总结好不好用、工程迭代又拼到了哪一步。",
-      "highlights": [
-        "过去一年多，大家看Google，视线几乎全被拽在商业大模型的角斗场里——Gemini 的跑分追上没有、搜索框里的AI 总结好不好用、工程迭代又拼到了哪一步"
-      ],
-      "url": "https://www.yeeyi.com/news/details/3241933",
-      "source": "yeeyi.com",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-10-05T07:00:00Z"
-    },
-    {
-      "id": "7fd6c2cd85fc",
-      "title": "Crunchbase Data: Q3 2026 Posted A Record Count Of Billion-Dollar Rounds As The Global AI Race Heats Up",
-      "summary": "Global venture funding totaled $159 billion in Q3 2026 with close to 6,000 startups funded, Crunchbase data shows. And while the third quarter was the lowest for startup investment so far this year, i...",
-      "highlights": [
-        "Global venture funding totaled $159 billion in Q3 2026 with close to 6,000 startups funded, Crunchbase data shows. And while the third quarter was the lowest for startup investment so far this year, it still exceeded every other quarter since Q2 2022.",
-        "Funding to private companies has skyrocketed this year, totaling $679 billion in venture funding globally in Q1 through Q3 2026, per Crunchbase data. That is the highest amount in the first three quarters of any given year. [...] The largest funding deals went to Databricks and Safe Superintelligence, which each raised $5 billion. Close behind, Crusoe, Moonshot AI, Mistral AI, Nscale, The Boring Co. and Kling AI each raised more than $3 billion.",
-        "## US and sectors [...] ## Robust market"
-      ],
-      "url": "https://news.crunchbase.com/venture/q3-2026-global-startup-funding-ai-billion-dollar-rounds-exits-data",
-      "source": "news.crunchbase.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-05T11:00:13Z"
-    },
-    {
-      "id": "32185ca6ab55",
-      "title": "- 机器人大讲堂",
-      "summary": "LeaderBot\n\n### 精彩推荐\n\n- 固态电池第一个大规模商用场景，可能不是电动车而是人形机器人\n- 这三家公司，都不想再采真机数据了\n- 95后清华博士放弃腾讯高薪，做机器人大脑，想把技能变成可上架的商品\n- 方奇科技完成千万级天使轮，提出用语义化世界模型解决物理和语义知识割裂\n- 天工机器人在北京艺术与科技周上和人类舞者共舞\n\n精彩文章\n\n扫码手机阅读\n\n#### 关于我们\n\nRobo...",
-      "highlights": [
-        "- 固态电池第一个大规模商用场景，可能不是电动车而是人形机器人",
-        "- 这三家公司，都不想再采真机数据了",
-        "- 95后清华博士放弃腾讯高薪，做机器人大脑，想把技能变成可上架的商品"
-      ],
-      "url": "https://www.leaderobot.com/news/10016",
-      "source": "leaderobot.com",
-      "category": "具身智能",
-      "importance": 2,
-      "publishedAt": "2026-10-05T02:00:00Z"
     }
   ],
-  "today": [],
+  "today": [
+    {
+      "id": "1996922c6cb6",
+      "title": "AI 改变科技行业，软件风光不再，硬件开始赚稀缺的钱_搜狐网",
+      "summary": "于是自研芯片开始划算。Google 做 TPU，Amazon 做 Trainium 和 Inferentia，Meta、微软也都进芯片设计。\n\nCustom Silicon 是目前数据中心计算芯片里增长最快的品类，ASIC 正在抢走英伟达 GPU 的份额。一家一年只买 1 万颗芯片，自研大概率不划算；一年要买 100 万颗，而且每颗供应商都有很高毛利，自己做就可能省下巨额成本。B商用 GPU 毛利...",
+      "highlights": [
+        "Google 做 TPU，Amazon 做 Trainium 和 Inferentia，Meta、微软也都进芯片设计",
+        "Custom Silicon 是目前数据中心计算芯片里增长最快的品类，ASIC 正在抢走英伟达 GPU 的份额",
+        "一家一年只买 1 万颗芯片，自研大概率不划算；一年要买 100 万颗，而且每颗供应商都有很高毛利，自己做就可能省下巨额成本"
+      ],
+      "url": "https://m.sohu.com/a/1084413980_236796?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-06T11:02:51Z"
+    },
+    {
+      "id": "1aa9ba42802d",
+      "title": "《经济学人》说“极速兴奋”资本主义时代已经来临，是福还是祸？_搜狐网",
+      "summary": "问题也就来了：这是美国下一轮生产率革命的起点，还是一场正在被资本市场不断放大的超级冒险？\n\n一、从科技股到数据中心，美国资本正在疯狂押注AI。\n\n先看看今天的美国资本市场有多“快”。\n\n过去一年，美国出现了大量历史级别的融资和交易。\n\nSpaceX准备登陆公开市场，OpenAI获得巨额私人融资，亚马逊等科技巨头大规模发行债券， 英伟达实施创纪录的股票回购，私募股权基金继续推动大型杠杆收购。\n\n与此...",
+      "highlights": [
+        "问题也就来了：这是美国下一轮生产率革命的起点，还是一场正在被资本市场不断放大的超级冒险",
+        "一、从科技股到数据中心，美国资本正在疯狂押注AI",
+        "先看看今天的美国资本市场有多“快”"
+      ],
+      "url": "https://m.sohu.com/a/1084384352_121948396?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-06T09:25:07Z"
+    },
+    {
+      "id": "07dfd47641fa",
+      "title": "Can Google's AI Chip Beat Nvidia? : r/GoogleGeminiAI",
+      "summary": "All anthropic models are primarily trained on TPUs. TPU is a better architecture for training because you don't have the same limits on networking. More",
+      "highlights": [
+        "All anthropic models are primarily trained on TPUs. TPU is a better architecture for training because you don't have the same limits on networking. More"
+      ],
+      "url": "https://www.reddit.com/r/GoogleGeminiAI/comments/1wwr25l/can_googles_ai_chip_beat_nvidia",
+      "source": "reddit.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-06T12:17:19Z"
+    },
+    {
+      "id": "f63d08b2673e",
+      "title": "AI芯片“黑马”Cerebras上市大涨51%,市值达4000亿元:背靠OpenAI,挑战英伟达,主打“史上最大”计算机芯片",
+      "summary": "英伟达B200芯片则配备了192GB的内存.大模型的上下文长度完... OpenAI承诺购买750MW AI推理算力,还有选择权,可额外购买1....",
+      "highlights": [
+        "英伟达B200芯片则配备了192GB的内存.大模型的上下文长度完... OpenAI承诺购买750MW AI推理算力,还有选择权,可额外购买1...."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MYf0ighEh65E3oCC44TBNoOQSL5SBJ81qXa8Fplpd9GcM2Cy_pJk_NyA6xUJPxHTtan2a6kYbsVzhqtZ1tUEb7oA0HvK0ap8EGLm8K8baUG3wGbgKKDTtgMPc5H_do6l6ee4WP7X0N_eh09Iz7IskiFBiS52CqnrGjGXZd5Iel40UOtHI1SH05RG-diyVagy_ytqC0jPybqRsJ5xgZlokC2Qmj7RgGwQ..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=D33EE50C4815ADDFCBCC97E030BE52B3CB39B8DE6AC4E6C8",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-06T04:37:53Z"
+    },
+    {
+      "id": "eade1c298cd9",
+      "title": "Pacing the AI frontier won’t solve agentic cybersecurity’s most urgent problems - csoonline.com",
+      "summary": "# Pacing the AI frontier won’t solve agentic cybersecurity’s most urgent problems. The problem, however, is that while Amodei’s example may be fantastical, there is legitimate cause for alarm that is ...",
+      "highlights": [
+        "# Pacing the AI frontier won’t solve agentic cybersecurity’s most urgent problems. The problem, however, is that while Amodei’s example may be fantastical, there is legitimate cause for alarm that is being overshadowed by discourse about regulatory capture and questions about frontier labs’ commitment to responsible AI development. There are legitimate arguments for measured, coordinated development of AI technologies, but fewer explanations as to why frontier labs such as Anthropic would invite, and even welcome, the kind of greater regulatory scrutiny that would be a gift to competing companies and nation-states developing their own AI tech, such as China. President Trump dismissed Amodei’s calls for greater oversight as part of a “sick conspiracy” that would only benefit China, and claimed the United States already has “tremendous criminal and regulatory power over these companies.” Trump’s announcement came shortly after Chen Yixin, China’s state security minister, made an unusual public warning about the risks to China’s information infrastructure posed by frontier models and called for collaborative risk prevention frameworks and coordinated global governance of AI technologies."
+      ],
+      "url": "https://www.csoonline.com/article/4230811/pacing-the-ai-frontier-wont-solve-agentic-cybersecuritys-most-urgent-problems.html",
+      "source": "csoonline.com",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-10-06T00:00:00Z"
+    },
+    {
+      "id": "474d9e35d81f",
+      "title": "AI accelerates n-day attacks, as flaw disclosures and exploits double - csoonline.com",
+      "summary": "## AI is having a double impact in 2026, contributing to the rapid rise in vulnerability discovery and a concurrent surge in exploits crafted against known flaws. According to a report from Google’s T...",
+      "highlights": [
+        "## AI is having a double impact in 2026, contributing to the rapid rise in vulnerability discovery and a concurrent surge in exploits crafted against known flaws. According to a report from Google’s Threat Intelligence Group (GTIG), attackers have exploited more vulnerabilities in the wild thus far this year than they did all of last year. GTIG recorded 141 flaws exploited between January and August 2026, compared to 127 in all of 2025, with monthly vulnerability disclosures doubling over the period, from 5,045 in January to 10,740 in August. “It is possible that threat actors are finding it more accessible or efficient to use LLMs and AI tools to automate analysis of differences between product versions, patches, vulnerability disclosure announcements, and Proof-of-Concept (POC) code to rapidly weaponize n-days, rather than to discover new zero-days,” the GTIG researchers wrote in their report. This aligns as well with a surge in high-risk vulnerability disclosures as the year has progressed, from 131 in January to 350 in August."
+      ],
+      "url": "https://www.csoonline.com/article/4230247/ai-accelerates-n-day-attacks-as-flaw-disclosures-and-exploits-double.html",
+      "source": "csoonline.com",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-10-06T00:00:00Z"
+    },
+    {
+      "id": "1f556d5d7636",
+      "title": "Former Anthropic Researcher Issues AI Warning for 2027: ‘It’s Pretty Scary’ - Newsweek",
+      "summary": "Former Anthropic researcher Jacob Coxon said increasingly powerful AI models expected in 2027 are advancing so quickly that the outlook is \"pretty scary.\" During an appearance on The Daily Show on Mon...",
+      "highlights": [
+        "Former Anthropic researcher Jacob Coxon said increasingly powerful AI models expected in 2027 are advancing so quickly that the outlook is \"pretty scary.\" During an appearance on The Daily Show on Monday, Coxon, 28, warned that more capable systems, combined with emerging cybersecurity concerns, could create significant risks if AI continues to improve itself. Coxon Sounds Alarm Over Next-Generation AI While speaking with Daily Show host Jon Stewart, Coxon said he joined Anthropic \"out of curiosity\" after spending three years at OpenAI. However, he said that curiosity turned to “worry” following “two major catalysts.” \"The rate of capability improvement,” Coxon said, referring to one of the catalysts. What Anthropic Has Said About AI Safety Coxon's criticism is notable because Anthropic has long positioned itself as one of the industry's most safety-focused companies. Coxon Envisions a World With No Traditional Jobs While Coxon has repeatedly warned about catastrophic risks from advanced AI, he also said he believes the technology could ultimately create a future of abundance if it is developed safely."
+      ],
+      "url": "https://www.newsweek.com/former-anthropic-researcher-issues-ai-warning-for-2027-12528004",
+      "source": "newsweek.com",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-10-06T11:18:00Z"
+    },
+    {
+      "id": "114539767525",
+      "title": "DeepSeek to Raise at Least $12 Billion in Tencent-Backed Funding - Bloomberg.com",
+      "summary": "# DeepSeek to Raise at Least $12 Billion in Tencent-Backed Funding. * DeepSeek is close to securing at least 80 billion yuan in its latest round of funding, ahead of a landmark initial public offering...",
+      "highlights": [
+        "# DeepSeek to Raise at Least $12 Billion in Tencent-Backed Funding. * DeepSeek is close to securing at least 80 billion yuan in its latest round of funding, ahead of a landmark initial public offering in early 2027. * DeepSeek’s funding sets the stage for one of the most highly anticipated Chinese market debuts in years, after the successful release of its latest AI model, the V4 Flash. DeepSeek is close to securing at least 80 billion yuan ($12 billion) in its latest round of funding, blowing past its own capital-raising target ahead of a landmark initial public offering in early 2027. and WeChat-operator Tencent Holdings Ltd. have committed among the largest amounts in the current financing, which closes soon, people familiar with the matter said. DeepSeek initially sought about 50 billion yuan but interest outstripped expectations after the successful release of its latest AI model, the people said, asking not to be named as the details aren’t public."
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding",
+      "source": "bloomberg.com",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-10-06T05:00:22Z"
+    }
+  ],
   "week": [
     {
       "id": "c24321e0724c",
@@ -538,6 +644,107 @@
       "publishedAt": "2026-10-05T12:00:00Z"
     },
     {
+      "id": "3478da7b2048",
+      "title": "推理支出2026年首超训练：\"Token工厂\"崛起 AI基础设施投资逻辑生变｜深度",
+      "summary": "Token（词元）价值怎么算？据中国信通院发布《词元（Token）经济发展研究报告（2026年）》，不同应用场景的词元价值密度差异巨大，消费级场景属于流量消耗型，价值密度较低，典型如闲聊、娱乐问答等，仅需基础交互能力，价格约0.01美元/百万词元。产业级场景价值密度较高，典型如药物研发、金融量化、精密代码生成等，价值可达1000美元/百万词元，是词元经济的价值高地。\n\nToken出海≠模型出海：流...",
+      "highlights": [
+        "Token（词元）价值怎么算",
+        "据中国信通院发布《词元（Token）经济发展研究报告（2026年）》，不同应用场景的词元价值密度差异巨大，消费级场景属于流量消耗型，价值密度较低，典型如闲聊、娱乐问答等，仅需基础交互能力，价格约0.01美元/百万词元",
+        "产业级场景价值密度较高，典型如药物研发、金融量化、精密代码生成等，价值可达1000美元/百万词元，是词元经济的价值高地"
+      ],
+      "url": "https://www.cls.cn/detail/2497741",
+      "source": "cls.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-05T12:00:00Z"
+    },
+    {
+      "id": "f63aadec557a",
+      "title": "DeepSeek融资规模或达120亿美元，腾讯与宁德时代拟参投 — TradingView新聞",
+      "summary": "PANewsPANews\n\n# DeepSeek融资规模或达120亿美元，腾讯与宁德时代拟参投\n\nPANews 10月6日消息，据彭博社报道，AI公司DeepSeek接近完成新一轮融资，规模预计至少达到800亿元人民币（约120亿美元），大幅超过公司此前约500亿元人民币的融资目标。\n\n知情人士透露，腾讯控股和宁德时代（CATL）已承诺投入本轮融资中的较大金额，相关融资交易预计即将完成。由于Dee...",
+      "highlights": [
+        "PANewsPANews",
+        "# DeepSeek融资规模或达120亿美元，腾讯与宁德时代拟参投",
+        "PANews 10月6日消息，据彭博社报道，AI公司DeepSeek接近完成新一轮融资，规模预计至少达到800亿元人民币（约120亿美元），大幅超过公司此前约500亿元人民币的融资目标"
+      ],
+      "url": "https://tw.tradingview.com/news/panews:cad48f536acdf:0",
+      "source": "tw.tradingview.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-05T14:00:00Z"
+    },
+    {
+      "id": "1996922c6cb6",
+      "title": "AI 改变科技行业，软件风光不再，硬件开始赚稀缺的钱_搜狐网",
+      "summary": "于是自研芯片开始划算。Google 做 TPU，Amazon 做 Trainium 和 Inferentia，Meta、微软也都进芯片设计。\n\nCustom Silicon 是目前数据中心计算芯片里增长最快的品类，ASIC 正在抢走英伟达 GPU 的份额。一家一年只买 1 万颗芯片，自研大概率不划算；一年要买 100 万颗，而且每颗供应商都有很高毛利，自己做就可能省下巨额成本。B商用 GPU 毛利...",
+      "highlights": [
+        "Google 做 TPU，Amazon 做 Trainium 和 Inferentia，Meta、微软也都进芯片设计",
+        "Custom Silicon 是目前数据中心计算芯片里增长最快的品类，ASIC 正在抢走英伟达 GPU 的份额",
+        "一家一年只买 1 万颗芯片，自研大概率不划算；一年要买 100 万颗，而且每颗供应商都有很高毛利，自己做就可能省下巨额成本"
+      ],
+      "url": "https://m.sohu.com/a/1084413980_236796?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-06T11:02:51Z"
+    },
+    {
+      "id": "1aa9ba42802d",
+      "title": "《经济学人》说“极速兴奋”资本主义时代已经来临，是福还是祸？_搜狐网",
+      "summary": "问题也就来了：这是美国下一轮生产率革命的起点，还是一场正在被资本市场不断放大的超级冒险？\n\n一、从科技股到数据中心，美国资本正在疯狂押注AI。\n\n先看看今天的美国资本市场有多“快”。\n\n过去一年，美国出现了大量历史级别的融资和交易。\n\nSpaceX准备登陆公开市场，OpenAI获得巨额私人融资，亚马逊等科技巨头大规模发行债券， 英伟达实施创纪录的股票回购，私募股权基金继续推动大型杠杆收购。\n\n与此...",
+      "highlights": [
+        "问题也就来了：这是美国下一轮生产率革命的起点，还是一场正在被资本市场不断放大的超级冒险",
+        "一、从科技股到数据中心，美国资本正在疯狂押注AI",
+        "先看看今天的美国资本市场有多“快”"
+      ],
+      "url": "https://m.sohu.com/a/1084384352_121948396?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-06T09:25:07Z"
+    },
+    {
+      "id": "666dcfec66d5",
+      "title": "李想想多了|理想汽车|港股|理想|股价|机器人_新浪新闻",
+      "summary": "然而，主业失速下的李想，谈得最多的却不是车。\n\n1月的全员会上，他几乎不谈汽车业务，大讲特讲的是AI和人形机器人。5月，再次强调，自动驾驶是具身智能的上半场，人形机器人是具身智能的下半场。\n\n他说，2026年是理想成为AI头部公司“上车的最后一年”，全球能同时做好基座模型、芯片、操作系统和具身智能的公司不超过三家，理想要做其中之一。\n\n但他的具身机器人叙事刚讲完，理想离具身和人形机器人最近的一批高...",
+      "highlights": [
+        "然而，主业失速下的李想，谈得最多的却不是车",
+        "1月的全员会上，他几乎不谈汽车业务，大讲特讲的是AI和人形机器人",
+        "5月，再次强调，自动驾驶是具身智能的上半场，人形机器人是具身智能的下半场"
+      ],
+      "url": "https://k.sina.com.cn/article_2104169363_7d6b139300101k2co.html?from=finance",
+      "source": "k.sina.com.cn",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-05T16:03:25Z"
+    },
+    {
+      "id": "07dfd47641fa",
+      "title": "Can Google's AI Chip Beat Nvidia? : r/GoogleGeminiAI",
+      "summary": "All anthropic models are primarily trained on TPUs. TPU is a better architecture for training because you don't have the same limits on networking. More",
+      "highlights": [
+        "All anthropic models are primarily trained on TPUs. TPU is a better architecture for training because you don't have the same limits on networking. More"
+      ],
+      "url": "https://www.reddit.com/r/GoogleGeminiAI/comments/1wwr25l/can_googles_ai_chip_beat_nvidia",
+      "source": "reddit.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-06T12:17:19Z"
+    },
+    {
+      "id": "f63d08b2673e",
+      "title": "AI芯片“黑马”Cerebras上市大涨51%,市值达4000亿元:背靠OpenAI,挑战英伟达,主打“史上最大”计算机芯片",
+      "summary": "英伟达B200芯片则配备了192GB的内存.大模型的上下文长度完... OpenAI承诺购买750MW AI推理算力,还有选择权,可额外购买1....",
+      "highlights": [
+        "英伟达B200芯片则配备了192GB的内存.大模型的上下文长度完... OpenAI承诺购买750MW AI推理算力,还有选择权,可额外购买1...."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MYf0ighEh65E3oCC44TBNoOQSL5SBJ81qXa8Fplpd9GcM2Cy_pJk_NyA6xUJPxHTtan2a6kYbsVzhqtZ1tUEb7oA0HvK0ap8EGLm8K8baUG3wGbgKKDTtgMPc5H_do6l6ee4WP7X0N_eh09Iz7IskiFBiS52CqnrGjGXZd5Iel40UOtHI1SH05RG-diyVagy_ytqC0jPybqRsJ5xgZlokC2Qmj7RgGwQ..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=D33EE50C4815ADDFCBCC97E030BE52B3CB39B8DE6AC4E6C8",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-06T04:37:53Z"
+    },
+    {
       "id": "475d53755606",
       "title": "AI 大模型世界",
       "summary": "国外 ; Claude Opus 5.5. Anthropic · 世界#1 ; GPT-6 Astra. OpenAI · 世界#2 ; Gemini 3.8 Flash. 谷歌 · 世界#15 ; Muse Spark 1.3. Meta · 世界#17 ; Grok 4.7. xAI · 暂无.",
@@ -549,120 +756,9 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-10-05T07:00:00Z"
-    },
-    {
-      "id": "6a0e559666bf",
-      "title": "Instagram",
-      "summary": "AI 智能体（AI Agent）的开发与上线，是指构建一个能够自主感知环境、进行规划决策、调用外部工具，并持续执行任务以达成特定目标的智能化系统。相比于传统的单次问答大模型应用，智能体项目更注重状态管理、长链条推理、工具集成与工程化稳定性。北京木奇科技有限公司，专业的智能体开发公司，欢迎交流合作。商务合作加V：muqi2026  \n  \n一个完整的 AI 智能体项目生命周期通常分为以下六个核心阶段...",
-      "highlights": [
-        "AI 智能体（AI Agent）的开发与上线，是指构建一个能够自主感知环境、进行规划决策、调用外部工具，并持续执行任务以达成特定目标的智能化系统",
-        "相比于传统的单次问答大模型应用，智能体项目更注重状态管理、长链条推理、工具集成与工程化稳定性",
-        "北京木奇科技有限公司，专业的智能体开发公司，欢迎交流合作"
-      ],
-      "url": "https://www.instagram.com/p/Dd2xTvwlPCn",
-      "source": "instagram.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-05T12:47:02Z"
-    },
-    {
-      "id": "efeaceb97e8e",
-      "title": "2026 中国AI Agent 产业全景：全面跟进全球“行动式AI”新范式",
-      "summary": "智能体(Personal Agent) 月正式发布Manus 2.0 … 中国科技企业已完成全员入场、全线对标、全域落地, 形成覆盖个人生活、职场办公、企业组织、政企合规的完整智能体产品矩阵",
-      "highlights": [
-        "智能体(Personal Agent) 月正式发布Manus 2.0 … 中国科技企业已完成全员入场、全线对标、全域落地, 形成覆盖个人生活、职场办公、企业组织、政企合规的完整智能体产品矩阵"
-      ],
-      "url": "https://www.facebook.com/groups/370716739681554/posts/28448934308099754",
-      "source": "facebook.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-05T12:47:02Z"
-    },
-    {
-      "id": "96f4ac9913d9",
-      "title": "2. ​万物自主化（4,000 亿美元） 利用人工智能实现乘用车、卡车和无人机等载具的自主运行，以及推动其他工业自动化项目，代表着 4,000 亿美元的市场机会。这不仅能提高设备的正常运行时间，还能降低培训与运营成本。自动驾驶载具可以作为面向消费者的新型汽车与卡车、无人驾驶出租车服务，以及通过物流自动化服务来释放巨大的商业价值。 2. ​具身/物理智能（9,000 亿美元） 先进的人工智能模型能够实现对物理过程的高保真模拟和数字孪生，帮助企业提高生产力、测试方案修改，并加速自主系统的部署。同样，由人工智能驱动的机器人（包括具身人形机器人）能够在非结构化环境中作业，从而在实体经济中解锁广泛的新应用，涵盖从制造业到外科手术的各个领域。因此，在良率提升和新工厂爬坡提速带来研发与制造成本降低 10% 的假设下，实体经济在重点行业（包括汽车、电子、半导体以及航空航天与国防）可能孕育出 9,000 亿美元的市场机遇。",
-      "summary": "Home\n\nNew thread\n\nSearch\n\nMessages\n\nActivity\n\nProfile\n\nInsights\n\nLog in\n\nMore\n\n# Thread\n\n69 views\n\ncheeweng96's profile picture\n\ncheeweng96\n\n2. ​万物自主化（4,000 亿美元） 利用人工智能实现乘用车、卡车和无人机等载具的自主运行，以及推动其他工业自动化...",
-      "highlights": [
-        "cheeweng96's profile picture",
-        "2. ​万物自主化（4,000 亿美元） 利用人工智能实现乘用车、卡车和无人机等载具的自主运行，以及推动其他工业自动化项目，代表着 4,000 亿美元的市场机会",
-        "这不仅能提高设备的正常运行时间，还能降低培训与运营成本"
-      ],
-      "url": "https://www.threads.com/@cheeweng96/post/DeDmbrAEsd0/2-%E4%B8%87%E7%89%A9%E8%87%AA%E4%B8%BB%E5%8C%964000-%E4%BA%BF%E7%BE%8E%E5%85%83%E5%88%A9%E7%94%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%9E%E7%8E%B0%E4%B9%98%E7%94%A8%E8%BD%A6%E5%8D%A1%E8%BD%A6%E5%92%8C%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%AD%89%E8%BD%BD%E5%85%B7%E7%9A%84%E8%87%AA%E4%B8%BB%E8%BF%90%E8%A1%8C%E4%BB%A5%E5%8F%8A%E6%8E%A8%E5%8A%A8%E5%85%B6%E4%BB%96%E5%B7%A5%E4%B8%9A%E8%87%AA%E5%8A%A8%E5%8C%96%E9%A1%B9%E7%9B%AE%E4%BB%A3%E8%A1%A8%E7%9D%80-4000-%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%B8%82%E5%9C%BA%E6%9C%BA%E4%BC%9A%E8%BF%99%E4%B8%8D%E4%BB%85%E8%83%BD%E6%8F%90%E9%AB%98%E8%AE%BE%E5%A4%87%E7%9A%84%E6%AD%A3",
-      "source": "threads.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-10-05T12:47:02Z"
-    },
-    {
-      "id": "ce687d9184a0",
-      "title": "奥特曼称Cerebras为“紧密合作伙伴”，该芯片企业股价盘前上涨6%",
-      "summary": "AI硬件企业Cerebras周一盘前股价走高，从上周跌势中反弹，最新盘前涨幅6.3%，报每股177美元，当前总市值略超390亿美元，较5月上市首日950亿美元的市值近乎腰斩。",
-      "highlights": [
-        "AI硬件企业Cerebras周一盘前股价走高，从上周跌势中反弹，最新盘前涨幅6.3%，报每股177美元，当前总市值略超390亿美元，较5月上市首日950亿美元的市值近乎腰斩"
-      ],
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniuemac4378341.shtml?cre=tianyi&mod=pchp&loc=27&r=0&rfunc=98&tj=cxvertical_pc_hp&tr=12",
-      "source": "finance.sina.com.cn",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-10-05T10:00:00Z"
-    },
-    {
-      "id": "a75bd2763898",
-      "title": "Anthropic considers new AI model amid OpenAI's GPT-6 ...",
-      "summary": "Anthropic is reportedly considering the release of a new AI model as it responds to growing competition from OpenAI's GPT-6 Astra.",
-      "highlights": [
-        "Anthropic is reportedly considering the release of a new AI model as it responds to growing competition from OpenAI's GPT-6 Astra."
-      ],
-      "url": "https://www.facebook.com/exclaimit/posts/the-ai-race-continues-to-heat-up-anthropic-is-reportedly-considering-the-release/1412575287687009",
-      "source": "facebook.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-05T23:23:58Z"
-    },
-    {
-      "id": "da5066df565d",
-      "title": "AI教父Hinton首篇RSI论文：今天一年的AI进步未来可能只需5周，人类窗口期或已不多",
-      "summary": "Hinton等22位顶尖AI科学家联署警告： AI自主完成研发工作的比例已从1%飙升至26%（半年内增长20倍），Anthropic数据显示AI生成代码占比突破80%。论文核心推演揭示：若AI",
-      "highlights": [
-        "Hinton等22位顶尖AI科学家联署警告： AI自主完成研发工作的比例已从1%飙升至26%（半年内增长20倍），Anthropic数据显示AI生成代码占比突破80%",
-        "论文核心推演揭示：若AI"
-      ],
-      "url": "https://wallstreetcn.com/articles/3783020",
-      "source": "wallstreetcn.com",
-      "category": "前沿理论",
-      "importance": 3,
-      "publishedAt": "2026-10-05T11:00:00Z"
-    },
-    {
-      "id": "aba924b2fdf8",
-      "title": "下一代 AI Agent 智能体源码解析:从自动任务执行到企业级智能工作流",
-      "summary": "多智能体架构优势相比单 Agent:优势:分工明确并行处理结果质量更高更接近真实团队工作模式未来企业内部可能出现:AI产品经理...",
-      "highlights": [
-        "多智能体架构优势相比单 Agent:优势:分工明确并行处理结果质量更高更接近真实团队工作模式未来企业内部可能出现:AI产品经理..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MYf0ighEh6RPfUI4r25Qex-Lcu9a2NgFqXa8Fplpd9zAhtGxytl-eiOv7JRQlk3hwQfd-phi2ciH8D1QtU4Eq4Poa_i9wGvV9OEVfep5Xzyf4S5KwxPx3E8N6aH8FldZepNfn4b3oXaZIROzeFlUC_ZiF2Zdt2aIorC8BTJ6AZ2q_qCsG622cBOZ6AfnxudexxR9hwwV6iaOYDZit-Y8otPujwwRB2Pw..&amp;type=2&amp;query=AI Agent %E6%99%BA%E8%83%BD%E4%BD%93 %E4%BA%A7%E5%93%81&amp;token=CBAD7681FB2DB91B51540F45155B9C9252FC67766AC39C41",
-      "source": "微信公众号",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-10-05T00:31:34Z"
     }
   ],
   "month": [
-    {
-      "id": "5f13d670f7c1",
-      "title": "AI定制芯片概念股盘点：博通之外，迈威尔科技、台积电、Amkor谁更值得关注？",
-      "summary": "在产业链中，博通（AVGO）、迈威尔（MRVL）分别参与定制ASIC及相关芯片平台，台积电（TSM）提供先进制程晶圆代工和先进封装，Amkor（AMKR）则聚焦OSAT及先进封装与测试。那么，对于投资者而言，除主要供应商博通外，迈威尔科技、台积电、Amkor谁更值得关注？\n\n## 什么是AI定制芯片？\n\nAI定制芯片是针对特定客户、模型或计算任务开发的专用集成电路（ASIC），可根据具体工作负载优...",
-      "highlights": [
-        "在产业链中，博通（AVGO）、迈威尔（MRVL）分别参与定制ASIC及相关芯片平台，台积电（TSM）提供先进制程晶圆代工和先进封装，Amkor（AMKR）则聚焦OSAT及先进封装与测试",
-        "那么，对于投资者而言，除主要供应商博通外，迈威尔科技、台积电、Amkor谁更值得关注",
-        "## 什么是AI定制芯片"
-      ],
-      "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262191551-tsm-mrvl-akmor-ai-acsi-tsml-jay-tradingkey",
-      "source": "tradingkey.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-04T01:00:00Z"
-    },
     {
       "id": "eca2dfe49abd",
       "title": "AI content",
@@ -795,6 +891,21 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-10-04T18:00:00Z"
+    },
+    {
+      "id": "bdba098fc5e4",
+      "title": "奥特曼称Cerebras为“紧密合作伙伴”，该芯片企业股价盘前上涨6%_新浪财经_新浪网",
+      "summary": "Cerebras 是英伟达的竞争对手，销售大型芯片与 AI 算力系统，产品设计目标是比传统 GPU 更快运行 AI 大模型。该公司宣称其旗舰产品晶圆级引擎 3（Wafer Scale Engine 3）性能优于英伟达 GPU。\n\n　　今年 1 月，Cerebras 与 OpenAI 达成协议，将在 2028 年前向后者提供 750 兆瓦算力。\n\n　　花旗分析师表示，对 Cerebras 2026‑...",
+      "highlights": [
+        "Cerebras 是英伟达的竞争对手，销售大型芯片与 AI 算力系统，产品设计目标是比传统 GPU 更快运行 AI 大模型",
+        "该公司宣称其旗舰产品晶圆级引擎 3（Wafer Scale Engine 3）性能优于英伟达 GPU",
+        "今年 1 月，Cerebras 与 OpenAI 达成协议，将在 2028 年前向后者提供 750 兆瓦算力"
+      ],
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniuemac4378341.shtml?cre=tianyi&mod=pchp&loc=24&r=0&rfunc=7&tj=cxvertical_pc_hp&tr=12",
+      "source": "finance.sina.com.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-05T10:36:37Z"
     }
   ]
 }
