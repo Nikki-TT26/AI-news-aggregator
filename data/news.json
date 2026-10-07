@@ -1,6 +1,574 @@
 {
-  "updatedAt": "2026-10-07T02:51:00Z",
+  "updatedAt": "2026-10-07T12:08:19Z",
   "latest": [
+    {
+      "id": "f63aadec557a",
+      "title": "DeepSeek融资规模或达120亿美元，腾讯与宁德时代拟参投 — TradingView新聞",
+      "summary": "PANewsPANews\n\n# DeepSeek融资规模或达120亿美元，腾讯与宁德时代拟参投\n\nPANews 10月6日消息，据彭博社报道，AI公司DeepSeek接近完成新一轮融资，规模预计至少达到800亿元人民币（约120亿美元），大幅超过公司此前约500亿元人民币的融资目标。\n\n知情人士透露，腾讯控股和宁德时代（CATL）已承诺投入本轮融资中的较大金额，相关融资交易预计即将完成。由于Dee...",
+      "highlights": [
+        "PANewsPANews",
+        "# DeepSeek融资规模或达120亿美元，腾讯与宁德时代拟参投",
+        "PANews 10月6日消息，据彭博社报道，AI公司DeepSeek接近完成新一轮融资，规模预计至少达到800亿元人民币（约120亿美元），大幅超过公司此前约500亿元人民币的融资目标"
+      ],
+      "url": "https://tw.tradingview.com/news/panews:cad48f536acdf:0",
+      "source": "tw.tradingview.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-05T14:00:00Z"
+    },
+    {
+      "id": "1996922c6cb6",
+      "title": "AI 改变科技行业，软件风光不再，硬件开始赚稀缺的钱_搜狐网",
+      "summary": "于是自研芯片开始划算。Google 做 TPU，Amazon 做 Trainium 和 Inferentia，Meta、微软也都进芯片设计。\n\nCustom Silicon 是目前数据中心计算芯片里增长最快的品类，ASIC 正在抢走英伟达 GPU 的份额。一家一年只买 1 万颗芯片，自研大概率不划算；一年要买 100 万颗，而且每颗供应商都有很高毛利，自己做就可能省下巨额成本。B商用 GPU 毛利...",
+      "highlights": [
+        "Google 做 TPU，Amazon 做 Trainium 和 Inferentia，Meta、微软也都进芯片设计",
+        "Custom Silicon 是目前数据中心计算芯片里增长最快的品类，ASIC 正在抢走英伟达 GPU 的份额",
+        "一家一年只买 1 万颗芯片，自研大概率不划算；一年要买 100 万颗，而且每颗供应商都有很高毛利，自己做就可能省下巨额成本"
+      ],
+      "url": "https://m.sohu.com/a/1084413980_236796?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-06T11:02:51Z"
+    },
+    {
+      "id": "1aa9ba42802d",
+      "title": "《经济学人》说“极速兴奋”资本主义时代已经来临，是福还是祸？_搜狐网",
+      "summary": "问题也就来了：这是美国下一轮生产率革命的起点，还是一场正在被资本市场不断放大的超级冒险？\n\n一、从科技股到数据中心，美国资本正在疯狂押注AI。\n\n先看看今天的美国资本市场有多“快”。\n\n过去一年，美国出现了大量历史级别的融资和交易。\n\nSpaceX准备登陆公开市场，OpenAI获得巨额私人融资，亚马逊等科技巨头大规模发行债券， 英伟达实施创纪录的股票回购，私募股权基金继续推动大型杠杆收购。\n\n与此...",
+      "highlights": [
+        "问题也就来了：这是美国下一轮生产率革命的起点，还是一场正在被资本市场不断放大的超级冒险",
+        "一、从科技股到数据中心，美国资本正在疯狂押注AI",
+        "先看看今天的美国资本市场有多“快”"
+      ],
+      "url": "https://m.sohu.com/a/1084384352_121948396?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-06T09:25:07Z"
+    },
+    {
+      "id": "666dcfec66d5",
+      "title": "李想想多了|理想汽车|港股|理想|股价|机器人_新浪新闻",
+      "summary": "然而，主业失速下的李想，谈得最多的却不是车。\n\n1月的全员会上，他几乎不谈汽车业务，大讲特讲的是AI和人形机器人。5月，再次强调，自动驾驶是具身智能的上半场，人形机器人是具身智能的下半场。\n\n他说，2026年是理想成为AI头部公司“上车的最后一年”，全球能同时做好基座模型、芯片、操作系统和具身智能的公司不超过三家，理想要做其中之一。\n\n但他的具身机器人叙事刚讲完，理想离具身和人形机器人最近的一批高...",
+      "highlights": [
+        "然而，主业失速下的李想，谈得最多的却不是车",
+        "1月的全员会上，他几乎不谈汽车业务，大讲特讲的是AI和人形机器人",
+        "5月，再次强调，自动驾驶是具身智能的上半场，人形机器人是具身智能的下半场"
+      ],
+      "url": "https://k.sina.com.cn/article_2104169363_7d6b139300101k2co.html?from=finance",
+      "source": "k.sina.com.cn",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-05T16:03:25Z"
+    },
+    {
+      "id": "07dfd47641fa",
+      "title": "Can Google's AI Chip Beat Nvidia? : r/GoogleGeminiAI",
+      "summary": "All anthropic models are primarily trained on TPUs. TPU is a better architecture for training because you don't have the same limits on networking. More",
+      "highlights": [
+        "All anthropic models are primarily trained on TPUs. TPU is a better architecture for training because you don't have the same limits on networking. More"
+      ],
+      "url": "https://www.reddit.com/r/GoogleGeminiAI/comments/1wwr25l/can_googles_ai_chip_beat_nvidia",
+      "source": "reddit.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-06T12:17:19Z"
+    },
+    {
+      "id": "f63d08b2673e",
+      "title": "AI芯片“黑马”Cerebras上市大涨51%,市值达4000亿元:背靠OpenAI,挑战英伟达,主打“史上最大”计算机芯片",
+      "summary": "英伟达B200芯片则配备了192GB的内存.大模型的上下文长度完... OpenAI承诺购买750MW AI推理算力,还有选择权,可额外购买1....",
+      "highlights": [
+        "英伟达B200芯片则配备了192GB的内存.大模型的上下文长度完... OpenAI承诺购买750MW AI推理算力,还有选择权,可额外购买1...."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MYf0ighEh65E3oCC44TBNoOQSL5SBJ81qXa8Fplpd9GcM2Cy_pJk_NyA6xUJPxHTtan2a6kYbsVzhqtZ1tUEb7oA0HvK0ap8EGLm8K8baUG3wGbgKKDTtgMPc5H_do6l6ee4WP7X0N_eh09Iz7IskiFBiS52CqnrGjGXZd5Iel40UOtHI1SH05RG-diyVagy_ytqC0jPybqRsJ5xgZlokC2Qmj7RgGwQ..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=D33EE50C4815ADDFCBCC97E030BE52B3CB39B8DE6AC4E6C8",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-06T04:37:53Z"
+    },
+    {
+      "id": "d5584052908a",
+      "title": "DeepSeek美国版大模型Beam发布：表现还不错 但碰瓷不了V4.1 Flash--快科技--科技改变未来",
+      "summary": "如果综合考虑到性能、价格等因素，DeepSeek V4.1 Flash是能满足大部分人90%的需求，而且性价比是其他大模型很难碰瓷的，这个护城河别说美国企业很难打破，国内的开源AI也没几个能跟V4.1 Flaash相比的。\n\n正因为此，Reflection公司在Beam大模型发布之后，对外强调的叙事风格也不走技术路线，CEO也在用西方世界的焦虑感来给自己树立形象，强调西方世界再不做（开源AI），那...",
+      "highlights": [
+        "如果综合考虑到性能、价格等因素，DeepSeek V4.1 Flash是能满足大部分人90%的需求，而且性价比是其他大模型很难碰瓷的，这个护城河别说美国企业很难打破，国内的开源AI也没几个能跟V4.1 Flaash相比的",
+        "正因为此，Reflection公司在Beam大模型发布之后，对外强调的叙事风格也不走技术路线，CEO也在用西方世界的焦虑感来给自己树立形象，强调西方世界再不做（开源AI），那全球AI就要由中国大模型来建了",
+        "【本文结束】如需转载请务必注明出处：快科技"
+      ],
+      "url": "https://m.mydrivers.com/newsview/1155501.html",
+      "source": "m.mydrivers.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-06T06:00:00Z"
+    },
+    {
+      "id": "09ad8e842a95",
+      "title": "AI大脑评测 阿里、中兴并列全球第3 | 中港台经济 | 财经 | 世界新闻网",
+      "summary": "专门面向中文大模型的模型测评媒体SuperCLUE近期发布最新具身（实体载体）大脑评测榜单，用来衡量各大AI模型做机器人「大脑」的实际水准。其中，阿里、中兴并列中国国内榜单第一名，全球第三；OpenAI的GPT-6 Astra则拿下全球第一。\n\n具身大脑指的是给机器人用的AI大脑。它不光要识别画面、读取语言，还得会规画动作，指挥机器人去抓取物品、移动导航，处理现实环境里各种突发状况。\n\n该测评基准...",
+      "highlights": [
+        "专门面向中文大模型的模型测评媒体SuperCLUE近期发布最新具身（实体载体）大脑评测榜单，用来衡量各大AI模型做机器人「大脑」的实际水准",
+        "其中，阿里、中兴并列中国国内榜单第一名，全球第三；OpenAI的GPT-6 Astra则拿下全球第一",
+        "具身大脑指的是给机器人用的AI大脑"
+      ],
+      "url": "https://www.worldjournal.com/wj/story/121347/9797466?from=wj_catelistnews&zh-cn=",
+      "source": "worldjournal.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-06T06:09:00Z"
+    },
+    {
+      "id": "b386f4b6bc18",
+      "title": "月之暗面完成IPO前最后一轮融资！最新估值约500亿美元，年内暴涨四倍_新浪财经_新浪网",
+      "summary": "值得注意的是，月之暗面2026年的估值增速极快，1至2月连续完成3轮融资，估值从100亿美元攀升至180亿美元；5月D轮融资后估值达200亿美元；6月E轮融资后投前估值升至315亿美元；7月F轮融资后达350亿美元。年内完成6轮融资，半年估值大涨。\n\n月之暗面融资的火爆，核心驱动来自旗舰大模型Kimi K3。今年7月，Kimi K3上线两天就被挤爆。Kimi K3发布后在硅谷引发轰动效应，上线仅3...",
+      "highlights": [
+        "值得注意的是，月之暗面2026年的估值增速极快，1至2月连续完成3轮融资，估值从100亿美元攀升至180亿美元；5月D轮融资后估值达200亿美元；6月E轮融资后投前估值升至315亿美元；7月F轮融资后达350亿美元",
+        "年内完成6轮融资，半年估值大涨",
+        "月之暗面融资的火爆，核心驱动来自旗舰大模型Kimi K3"
+      ],
+      "url": "https://finance.sina.com.cn/roll/2026-10-06/doc-iniuhpzh6985619.shtml",
+      "source": "finance.sina.com.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-06T09:23:59Z"
+    },
+    {
+      "id": "3a9ee2ee6d0b",
+      "title": "245 reactions · 35 shares | OPENAI AND ANTHROPIC EVERY SINGLE WEEK\n\nAt this point, the AI race doesn’t even look like a competition anymore.\n\nIt looks like two guys continuously lighting the next firework before the previous one has stopped exploding.\n\nOpenAI drops something.\n\nAnthropic responds.\n\nA new model launches.\n\nAnother benchmark gets beaten.\n\nSomeone gets banned.\n\nAnother AI feature appears.\n\nAnd before everyone has finished discussing it, there’s already another announcement.\n\nThe rivalry between OpenAI and Anthropic has become one of the fastest-moving battles in technology, with both companies competing across frontier AI models, coding agents, reasoning, enterprise tools and autonomous AI systems.\n\nAnd the funniest part?\n\nThis video somehow captures the entire AI industry without saying a single word.\n\nOpenAI and Claude every single week:\n\n“Light another one.”\n\ncredit: k1rallik \n\n#openai #anthropic #claude #artificialintelligence #ai\n\n{openai, anthropic, claude, chatgpt, sam altman, dario amodei, openai vs anthropic, claude ai, ai rivalry, ai model race, artificial intelligence, generative ai, ai models, frontier ai, ai agents, coding agents, ai coding, chatgpt vs claude, ai competition, ai news, tech news, silicon valley, ai startups, future of ai, machine learning, llm, large language models, ai meme, tech meme, ai industry} | Askgpts",
+      "summary": "YOUTUBERS WANT TO BECOME CODERS. CODERS WANT TO BECOME YOUTUBERS. PewDiePie’s latest side quest might be his wildest one yet. After years of being one of the biggest creators on the internet, PewDiePi...",
+      "highlights": [
+        "YOUTUBERS WANT TO BECOME CODERS. CODERS WANT TO BECOME YOUTUBERS. PewDiePie’s latest side quest might be his wildest one yet. After years of being one of the biggest creators on the internet, PewDiePie has now released Ajax, his own AI model built for his self-hosted AI ecosystem, Odysseus. Ajax is based on Qwen 3.5 9B and is designed around a completely different philosophy from typical cloud AI assistants: • Runs locally on your own hardware • Built for private, self-hosted AI workflows • Can [...] demand, AI data centers, HBM, DRAM, AI infrastructure, artificial intelligence, AI hardware, memory chips, data center boom, Claude, ChatGPT, AI race, semiconductor industry, PC hardware, AI generated video} [...] imagines their CEOs celebrating the AI infrastructure boom together. Obviously, they didn’t actually film this. The clip appears to be AI-generated or heavily manipulated. But the underlying joke captures a real shift: AI isn’t just competing for software users anymore. It’s reshaping demand for the hardware underneath the entire industry. Credit: Dauren Altynbek #openai #anthropic #samaltman #ai #technology {Sam Altman, Dario Amodei, OpenAI, Anthropic, RAM prices, AI memory demand, AI data"
+      ],
+      "url": "https://www.facebook.com/askgptss/posts/openai-and-anthropic-every-single-weekat-this-point-the-ai-race-doesnt-even-look/122156777001083258",
+      "source": "facebook.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-06T21:56:07Z"
+    },
+    {
+      "id": "501c6ffd5057",
+      "title": "AI算力初创公司Lambda拟在IPO前最后一轮融资中筹集40亿美元",
+      "summary": "据知情人士透露，英伟达支持的云计算公司Lambda正在进行其计划首次公开募股（IPO）前的最后一轮融资，拟筹集最多40亿美元。新一轮融资对Lambda的估值为145亿美元，",
+      "highlights": [
+        "据知情人士透露，英伟达支持的云计算公司Lambda正在进行其计划首次公开募股（IPO）前的最后一轮融资，拟筹集最多40亿美元",
+        "新一轮融资对Lambda的估值为145亿美元，"
+      ],
+      "url": "https://36kr.com/newsflashes/4015161463361412",
+      "source": "36kr.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-07T01:00:00Z"
+    },
+    {
+      "id": "0df881b2ead2",
+      "title": "【IPO追踪】无问芯穹被传秘密递表港交所，AI算力中间层独角兽冲刺港股",
+      "summary": "logo\n\n 资鲸课堂\n 资鲸直播\n 资鲸投研\n 基金从业\n 商学院\n\n 人才猎聘\n 政府园区\n 我要投稿\n\n 行业峰会\n\n媒体服务\n\n 寻求报道\n 寻求融资\n 我要入驻\n\n \n\n  \n\n  扫码下载\n\n + 用户中心\n  + 退出登录\n\n资讯\n\n{{item.name}}\n\n{{option.name}}\n\n快讯\n\n7×24h快讯\n\n知识服务\n\n资鲸课堂\n\n资鲸直播\n\n资鲸投研\n\n基金从业\n\n商...",
+      "highlights": [
+        "{{item.name}}",
+        "{{option.name}}",
+        "# {{detailinfo.title}}"
+      ],
+      "url": "http://www.capwhale.com/newsfile/details/20261006/b374345e4fdd4c8dbdaf5fd5cb5392a0.shtml",
+      "source": "capwhale.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-06T11:00:00Z"
+    },
+    {
+      "id": "36041d050dad",
+      "title": "Under oath, Google confirms three AI agent test escapes as OpenAI, Anthropic and Meta face NYC lawmakers",
+      "summary": "Graham said Anthropic had kept a model out of general release this year: In April, Anthropic restricted Claude Mythos Preview to partners in Project Glasswing, a program for organizations that maintai...",
+      "highlights": [
+        "Graham said Anthropic had kept a model out of general release this year: In April, Anthropic restricted Claude Mythos Preview to partners in Project Glasswing, a program for organizations that maintain critical software, rather than releasing it publicly. “We don’t think the labs should be checking their own homework. Not only this, but we have demonstrably withheld models when we felt it was not safe to widely release.”",
+        "## Who should test the models? [...] #### Related Articles Read More >",
+        "##### What AI-assisted engineering taught us about team design"
+      ],
+      "url": "https://www.rdworldonline.com/under-oath-google-confirms-three-ai-agent-test-escapes-as-openai-anthropic-and-meta-face-nyc-lawmakers",
+      "source": "rdworldonline.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-06T22:10:31Z"
+    },
+    {
+      "id": "463e2206ec98",
+      "title": "法国AI初创企业Mistral发布欧洲最强开源大模型Mistral Large 4 — Noticias de TradingView",
+      "summary": "CriptoPANews\n\nObtener más información de PANews\n\n## Más noticias de PANews [...] PANewsPANews\n\n# 法国AI初创企业Mistral发布欧洲最强开源大模型Mistral Large 4\n\nPANews 10月6日消息，据金融界报道，Mistral周二推出一款全新AI模型，该公司表示其跻身全球顶尖开源模型之列...",
+      "highlights": [
+        "CriptoPANews",
+        "Obtener más información de PANews",
+        "## Más noticias de PANews [...] PANewsPANews"
+      ],
+      "url": "https://es.tradingview.com/news/panews:6f62cb0c6acdf:0",
+      "source": "es.tradingview.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-06T14:00:00Z"
+    },
+    {
+      "id": "2c24668d09e3",
+      "title": "DeepSeek融资规模或达120亿美元，腾讯与宁德时代拟参投 — Noticias de TradingView",
+      "summary": "PANewsPANews\n\n# DeepSeek融资规模或达120亿美元，腾讯与宁德时代拟参投\n\nPANews 10月6日消息，据彭博社报道，AI公司DeepSeek接近完成新一轮融资，规模预计至少达到800亿元人民币（约120亿美元），大幅超过公司此前约500亿元人民币的融资目标。\n\n知情人士透露，腾讯控股和宁德时代（CATL）已承诺投入本轮融资中的较大金额，相关融资交易预计即将完成。由于Dee...",
+      "highlights": [
+        "PANewsPANews",
+        "# DeepSeek融资规模或达120亿美元，腾讯与宁德时代拟参投",
+        "PANews 10月6日消息，据彭博社报道，AI公司DeepSeek接近完成新一轮融资，规模预计至少达到800亿元人民币（约120亿美元），大幅超过公司此前约500亿元人民币的融资目标"
+      ],
+      "url": "https://es.tradingview.com/news/panews:cad48f536acdf:0",
+      "source": "es.tradingview.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-06T04:00:00Z"
+    },
+    {
+      "id": "d3224b58cbd8",
+      "title": "这对华人夫妻，造了全球1/6电视芯片 | 文学城",
+      "summary": "资本层面，晶晨H股上市已于8月31日完成监管机构备案，仍需港交所审批。  \n  \n 招股书显示，约70%募集资金将投向研发，砸向6nm及更先进制程、端侧AI和通信连接芯片，推动晶晨往高端走。  \n  \n 押注端侧  \n  \n 钟培峰夫妇靠电视和机顶盒芯片起家，但不满足于只做这两样产品。  \n  \n 团队寄予厚望的，是端侧AI芯片。  \n  \n 其中6nm芯片A311Y3，算力达8TOPS，瞄准游戏...",
+      "highlights": [
+        "资本层面，晶晨H股上市已于8月31日完成监管机构备案，仍需港交所审批",
+        "招股书显示，约70%募集资金将投向研发，砸向6nm及更先进制程、端侧AI和通信连接芯片，推动晶晨往高端走",
+        "钟培峰夫妇靠电视和机顶盒芯片起家，但不满足于只做这两样产品"
+      ],
+      "url": "https://www.wenxuecity.com/news/2026/10/06/socialnews-270010.html",
+      "source": "wenxuecity.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-07T03:00:00Z"
+    },
+    {
+      "id": "e5d43b51d381",
+      "title": "智能体 “越狱” 频发：OpenAI 踩刹车，Meta 猛踩油门，AI 安全路线谁先翻车-虎嗅网",
+      "summary": "\\\\4. 核心分歧在于安全由谁兜底\\\\ OpenAI主张发布前由开发方自检，不通过不发布；Meta主张发布后由市场和法律兜底。但第三方评估显示，Anthropic和Meta均未公开完整的失控应急处置方案，两家公司都没准备好回答“AI失控怎么办”。 \\\\5. 行业同一天呈现四种截然不同的安全选择\\\\ 9月28日，OpenAI取消新模型发布但上线常驻AI助手，Anthropic发布新模型并加固网络安全...",
+      "highlights": [
+        "\\\\4. 核心分歧在于安全由谁兜底\\\\ OpenAI主张发布前由开发方自检，不通过不发布；Meta主张发布后由市场和法律兜底",
+        "但第三方评估显示，Anthropic和Meta均未公开完整的失控应急处置方案，两家公司都没准备好回答“AI失控怎么办”",
+        "\\\\5. 行业同一天呈现四种截然不同的安全选择\\\\ 9月28日，OpenAI取消新模型发布但上线常驻AI助手，Anthropic发布新模型并加固网络安全，英伟达发布开放智能体安全平台"
+      ],
+      "url": "https://www.huxiu.com/article/4895510.html",
+      "source": "huxiu.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-06T04:32:06Z"
+    },
+    {
+      "id": "056a4b577181",
+      "title": "到2031年，AI助理市场价值将达到$267.5亿——MarketsandMarkets报告",
+      "summary": "人工智能助手市场领先企业：\n\nThe Top Companies in AI Assistant Market are Microsoft (US), Google (US), Salesforce (US), OpenAI (US), SAP (Germany), Oracle (US), Adobe (US), Anthropic (US), Dropbox (US), Amazon (US)...",
+      "highlights": [
+        "人工智能助手市场领先企业：",
+        "The Top Companies in AI Assistant Market are Microsoft (US), Google (US), Salesforce (US), OpenAI (US), SAP (Germany), Oracle (US), Adobe (US), Anthropic (US), Dropbox (US), Amazon (US), Cisco (US), and ServiceNow (US).",
+        "人工智能助手市场中的顶尖企业包括：微软（美国）、谷歌（美国）、赛富时（美国）、OpenAI（美国）、SAP（德国）、甲骨文（美国）、Adobe（美国）、Anthropic（美国）、Dropbox（美国）、亚马逊（美国）、思科（美国）以及ServiceNow（美国）"
+      ],
+      "url": "https://www.moomoo.com/hans/news/post/1000653430/ai-assistant-market-worth-26-75-billion-by-2031-report",
+      "source": "moomoo.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-06T14:01:00Z"
+    },
+    {
+      "id": "da0d12f3fff0",
+      "title": "机房紧缺，资本反而开始“挑剔”数据中心？_投资界",
+      "summary": "【本文由投资界合作伙伴微信公众号：半导体产业纵横授权发布，本平台仅提供信息存储服务。】  \n【免责声明】：本文不构成任何投资建议。市场有风险，投资需谨慎。  \n如有任何疑问，请联系（editor@zero2ipo.com.cn）投资界处理。\n\n数据中心投融资AI世邦魏理仕SB EnergyKe Yan\n\n### 相关资讯\n\n 我在国外试了6天AI眼镜\n\n  ### 我在国外试了6天AI眼镜\n\n  ...",
+      "highlights": [
+        "【本文由投资界合作伙伴微信公众号：半导体产业纵横授权发布，本平台仅提供信息存储服务",
+        "【免责声明】：本文不构成任何投资建议",
+        "市场有风险，投资需谨慎"
+      ],
+      "url": "https://news.pedaily.cn/202610/569856.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-06T07:39:00Z"
+    },
+    {
+      "id": "50c1ed85ad18",
+      "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明",
+      "summary": "在计算机科学领域，如果说 P vs NP是终极皇冠，那么「基本半定阈值下的普通 NP-困难」 就是决定人类算法极限的「无冕之王」。\n\n这也是本次 OpenAI 成果库中最具颠覆性的一项研究（编号 Result 102）。\n\nImage 13什么是 NP-Hard？\n\n现实世界中，海量的大规模优化问题（如芯片布线、物流调度、航线规划、图着色）都被归类为 NP-Hard问题。\n\n人类在多项式时间内算不...",
+      "highlights": [
+        "在计算机科学领域，如果说 P vs NP是终极皇冠，那么「基本半定阈值下的普通 NP-困难」 就是决定人类算法极限的「无冕之王」",
+        "这也是本次 OpenAI 成果库中最具颠覆性的一项研究（编号 Result 102）",
+        "Image 13什么是 NP-Hard"
+      ],
+      "url": "https://wallstreetcn.com/articles/3783101",
+      "source": "wallstreetcn.com",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-10-07T02:24:36Z"
+    },
+    {
+      "id": "6a0e559666bf",
+      "title": "Instagram",
+      "summary": "AI 智能体（AI Agent）的开发与上线，是指构建一个能够自主感知环境、进行规划决策、调用外部工具，并持续执行任务以达成特定目标的智能化系统。相比于传统的单次问答大模型应用，智能体项目更注重状态管理、长链条推理、工具集成与工程化稳定性。北京木奇科技有限公司，专业的智能体开发公司，欢迎交流合作。商务合作加V：muqi2026  \n  \n一个完整的 AI 智能体项目生命周期通常分为以下六个核心阶段...",
+      "highlights": [
+        "AI 智能体（AI Agent）的开发与上线，是指构建一个能够自主感知环境、进行规划决策、调用外部工具，并持续执行任务以达成特定目标的智能化系统",
+        "相比于传统的单次问答大模型应用，智能体项目更注重状态管理、长链条推理、工具集成与工程化稳定性",
+        "北京木奇科技有限公司，专业的智能体开发公司，欢迎交流合作"
+      ],
+      "url": "https://www.instagram.com/p/Dd2xTvwlPCn",
+      "source": "instagram.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-05T12:47:02Z"
+    },
+    {
+      "id": "efeaceb97e8e",
+      "title": "2026 中国AI Agent 产业全景：全面跟进全球“行动式AI”新范式",
+      "summary": "智能体(Personal Agent) 月正式发布Manus 2.0 … 中国科技企业已完成全员入场、全线对标、全域落地, 形成覆盖个人生活、职场办公、企业组织、政企合规的完整智能体产品矩阵",
+      "highlights": [
+        "智能体(Personal Agent) 月正式发布Manus 2.0 … 中国科技企业已完成全员入场、全线对标、全域落地, 形成覆盖个人生活、职场办公、企业组织、政企合规的完整智能体产品矩阵"
+      ],
+      "url": "https://www.facebook.com/groups/370716739681554/posts/28448934308099754",
+      "source": "facebook.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-05T12:47:02Z"
+    },
+    {
+      "id": "96f4ac9913d9",
+      "title": "2. ​万物自主化（4,000 亿美元） 利用人工智能实现乘用车、卡车和无人机等载具的自主运行，以及推动其他工业自动化项目，代表着 4,000 亿美元的市场机会。这不仅能提高设备的正常运行时间，还能降低培训与运营成本。自动驾驶载具可以作为面向消费者的新型汽车与卡车、无人驾驶出租车服务，以及通过物流自动化服务来释放巨大的商业价值。 2. ​具身/物理智能（9,000 亿美元） 先进的人工智能模型能够实现对物理过程的高保真模拟和数字孪生，帮助企业提高生产力、测试方案修改，并加速自主系统的部署。同样，由人工智能驱动的机器人（包括具身人形机器人）能够在非结构化环境中作业，从而在实体经济中解锁广泛的新应用，涵盖从制造业到外科手术的各个领域。因此，在良率提升和新工厂爬坡提速带来研发与制造成本降低 10% 的假设下，实体经济在重点行业（包括汽车、电子、半导体以及航空航天与国防）可能孕育出 9,000 亿美元的市场机遇。",
+      "summary": "Home\n\nNew thread\n\nSearch\n\nMessages\n\nActivity\n\nProfile\n\nInsights\n\nLog in\n\nMore\n\n# Thread\n\n69 views\n\ncheeweng96's profile picture\n\ncheeweng96\n\n2. ​万物自主化（4,000 亿美元） 利用人工智能实现乘用车、卡车和无人机等载具的自主运行，以及推动其他工业自动化...",
+      "highlights": [
+        "cheeweng96's profile picture",
+        "2. ​万物自主化（4,000 亿美元） 利用人工智能实现乘用车、卡车和无人机等载具的自主运行，以及推动其他工业自动化项目，代表着 4,000 亿美元的市场机会",
+        "这不仅能提高设备的正常运行时间，还能降低培训与运营成本"
+      ],
+      "url": "https://www.threads.com/@cheeweng96/post/DeDmbrAEsd0/2-%E4%B8%87%E7%89%A9%E8%87%AA%E4%B8%BB%E5%8C%964000-%E4%BA%BF%E7%BE%8E%E5%85%83%E5%88%A9%E7%94%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%9E%E7%8E%B0%E4%B9%98%E7%94%A8%E8%BD%A6%E5%8D%A1%E8%BD%A6%E5%92%8C%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%AD%89%E8%BD%BD%E5%85%B7%E7%9A%84%E8%87%AA%E4%B8%BB%E8%BF%90%E8%A1%8C%E4%BB%A5%E5%8F%8A%E6%8E%A8%E5%8A%A8%E5%85%B6%E4%BB%96%E5%B7%A5%E4%B8%9A%E8%87%AA%E5%8A%A8%E5%8C%96%E9%A1%B9%E7%9B%AE%E4%BB%A3%E8%A1%A8%E7%9D%80-4000-%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%B8%82%E5%9C%BA%E6%9C%BA%E4%BC%9A%E8%BF%99%E4%B8%8D%E4%BB%85%E8%83%BD%E6%8F%90%E9%AB%98%E8%AE%BE%E5%A4%87%E7%9A%84%E6%AD%A3",
+      "source": "threads.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-10-05T12:47:02Z"
+    },
+    {
+      "id": "a75bd2763898",
+      "title": "Anthropic considers new AI model amid OpenAI's GPT-6 ...",
+      "summary": "Anthropic is reportedly considering the release of a new AI model as it responds to growing competition from OpenAI's GPT-6 Astra.",
+      "highlights": [
+        "Anthropic is reportedly considering the release of a new AI model as it responds to growing competition from OpenAI's GPT-6 Astra."
+      ],
+      "url": "https://www.facebook.com/exclaimit/posts/the-ai-race-continues-to-heat-up-anthropic-is-reportedly-considering-the-release/1412575287687009",
+      "source": "facebook.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-05T23:23:58Z"
+    },
+    {
+      "id": "06c15f4dcfb4",
+      "title": "Tracing the rogue ideology of the frontier labs to their product choices - Buttondown",
+      "summary": "*This is a really long newsletter, for which I apologize, but hopefully there's enough detail in there for people who have not been following this stuff closely to get up to speed. This is due to a se...",
+      "highlights": [
+        "*This is a really long newsletter, for which I apologize, but hopefully there's enough detail in there for people who have not been following this stuff closely to get up to speed. This is due to a series of admissions—or, depending on your level of cynicism, PR stunts—from the so-called AI \"frontier labs\" OpenAI and Anthropic, admissions that their best models, when set to work on internal cybersecurity testing, had contrived to hack external sites in various ways on multiple separate occasions. This is, as has been broadly noted, strange on the face of it—what other industry do you know that has voluntarily offered to pause its march towards profitability and lucrative IPOs—and if you haven't been more-or-less marinating in the culture that birthed these labs it might seem frankly inexplicable."
+      ],
+      "url": "https://buttondown.com/apperceptive/archive/tracing-the-rogue-ideology-of-the-frontier-labs/",
+      "source": "buttondown.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-05T20:01:45Z"
+    },
+    {
+      "id": "63d6760b908c",
+      "title": "OpenAI and Anthropic Have a New Threat to Worry About—and It Isn’t China - Gizmodo",
+      "summary": "# OpenAI and Anthropic Have a New Threat to Worry About—and It Isn’t China. A little-known American AI startup is looking to steal frontier AI companies’ bread and butter by letting enterprise custome...",
+      "highlights": [
+        "# OpenAI and Anthropic Have a New Threat to Worry About—and It Isn’t China. A little-known American AI startup is looking to steal frontier AI companies’ bread and butter by letting enterprise customers build their own custom AI models. Several powerful open-source and open-weight models developed by Chinese AI labs have been a tempting alternative, since they can be modified to suit each customer’s needs and, more importantly, are cheaper than American frontier models. Echoing Nvidia’s Jensen Huang and Meta’s Mark Zuckerberg, Reflection believes that a completely open ecosystem is the safest and most equitable pathway into the future: “We need to build open models so capable that they become the obvious choice for users and developers worldwide, ensuring the foundation of intelligence remains open and accessible rather than controlled by a few,” the company wrote in a blog post last year."
+      ],
+      "url": "https://gizmodo.com/openai-and-anthropic-have-a-new-threat-to-worry-about-and-it-isnt-china-2000821705",
+      "source": "gizmodo.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-05T16:30:51Z"
+    },
+    {
+      "id": "c0308e5bc66b",
+      "title": "具身智能的 iPhone时刻要来了吗？-36氪",
+      "summary": "第二个是移动与导航能力。具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障。整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的。但自动驾驶汽车用在路上，比具身智能应用场景要简单，比如这个会场就比公开道路复杂的多，具身智能要在这样的场景完全泛化应用还需要不断打磨。\n\n第三个是多模态交互能力。现在大语言模型的语言交...",
+      "highlights": [
+        "第二个是移动与导航能力",
+        "具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障",
+        "整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的"
+      ],
+      "url": "https://m.36kr.com/p/3893816015878664",
+      "source": "m.36kr.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-10-07T01:02:13Z"
+    },
+    {
+      "id": "2dfffdee749b",
+      "title": "Crunchbase: AI Startups Have Acquired 195 Other AI Companies in 2026, OpenAI Alone Did 10 | AI Weekly",
+      "summary": "## Summary\n\nCrunchbase data through September 29 counts 195 AI-on-AI acquisitions in 2026 — up 14% over all of 2025 — but with only a 2% rise in distinct buyers, meaning repeat acquirers are driving t...",
+      "highlights": [
+        "Crunchbase data through September 29 counts 195 AI-on-AI acquisitions in 2026 — up 14% over all of 2025 — but with only a 2% rise in distinct buyers, meaning repeat acquirers are driving the wave. OpenAI leads with 10 deals in 2026 (20 over three years); Anthropic and legal-AI buyer Legora notched five each, with Harvey at four and Sierra and Cursor at three.",
+        "Originally reported by news.crunchbase.com",
+        "Read the original article → [...] AI News Archives Learning AI Newsletters AI Index AI News Today Who's Who Use Cases Advertise Login"
+      ],
+      "url": "https://aiweekly.co/alerts/crunchbase-ai-startups-have-acquired-195-other-ai-companies-in-2026-openai",
+      "source": "aiweekly.co",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-10-07T07:00:00Z"
+    },
+    {
+      "id": "f9047e204ba2",
+      "title": "AI可穿戴普及遇阻 Oura临时推迟IPO计划",
+      "summary": "近期科技厂商密集推出AI可穿戴相关产品。Meta上周发布类似电子宠物形态的Muse Charm配件，搭载其个人智能代理应用，上线后迅速登顶苹果iOS应用商店免费应用榜单。",
+      "highlights": [
+        "近期科技厂商密集推出AI可穿戴相关产品",
+        "Meta上周发布类似电子宠物形态的Muse Charm配件，搭载其个人智能代理应用，上线后迅速登顶苹果iOS应用商店免费应用榜单"
+      ],
+      "url": "http://www.ebrun.com/20261005/712702.shtml",
+      "source": "ebrun.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-10-06T12:00:00Z"
+    },
+    {
+      "id": "2335215bd3a3",
+      "title": "全球AI頂尖學者警告：「現時一年的AI進步，未來只需5星期」 或引發「智能爆炸」 | 時事熱話 | 國安專頁",
+      "summary": "論文指出，現有的AI事件強制通報機制未能充分涵蓋內部AI研發的使用場景，也未能明確規定需要通報的指標，故論文建議前沿AI公司向政府和第三方審計機構進行標準化通報，內容涵蓋AI研發自動化程度、AI進步速度、監督機制及事故記錄等，並考慮引入類似「核監管委員會」的嵌入式監管模式。\n\n其次，要建立引導和約束「智能爆炸」的機制，包括設定自動化AI研發規模擴展的前提條件、建立資料中心監控和事故回應程序、要求在...",
+      "highlights": [
+        "論文指出，現有的AI事件強制通報機制未能充分涵蓋內部AI研發的使用場景，也未能明確規定需要通報的指標，故論文建議前沿AI公司向政府和第三方審計機構進行標準化通報，內容涵蓋AI研發自動化程度、AI進步速度、監督機制及事故記錄等，並考慮引入類似「核監管委員會」的嵌入式監管模式",
+        "其次，要建立引導和約束「智能爆炸」的機制，包括設定自動化AI研發規模擴展的前提條件、建立資料中心監控和事故回應程序、要求在隔離環境中部署特定AI研發系統，以及推動國際協議以防止不穩定的軍備競賽",
+        "第三，提前為「智能爆炸」衝擊做好準備，法律、制度和物理層面的保障措施需數年才能建立，若等到超強能力出現後才開始準備，將為時已晚，建議各國現在就制定針對極端AI進步情境的緊急應變計畫，包括勞動市場衝擊、地緣政治不穩定、及AI失控等多種場景"
+      ],
+      "url": "https://www.bastillepost.com/nls/article/16915958/%E5%85%A8%E7%90%83AI%E9%A0%82%E5%B0%96%E5%AD%B8%E8%80%85%E8%AD%A6%E5%91%8A%EF%BC%9A%E3%80%8C%E7%8F%BE%E6%99%82%E4%B8%80%E5%B9%B4%E7%9A%84AI%E9%80%B2%E6%AD%A5%EF%BC%8C%E6%9C%AA%E4%BE%86%E5%8F%AA%E9%9C%805%E6%98%9F%E6%9C%9F%E3%80%8D%20%E6%88%96%E5%BC%95%E7%99%BC%E3%80%8C%E6%99%BA%E8%83%BD%E7%88%86%E7%82%B8%E3%80%8D?ms_cat=37",
+      "source": "bastillepost.com",
+      "category": "行业话题",
+      "importance": 3,
+      "publishedAt": "2026-10-06T03:00:00Z"
+    }
+  ],
+  "today": [
+    {
+      "id": "501c6ffd5057",
+      "title": "AI算力初创公司Lambda拟在IPO前最后一轮融资中筹集40亿美元",
+      "summary": "据知情人士透露，英伟达支持的云计算公司Lambda正在进行其计划首次公开募股（IPO）前的最后一轮融资，拟筹集最多40亿美元。新一轮融资对Lambda的估值为145亿美元，",
+      "highlights": [
+        "据知情人士透露，英伟达支持的云计算公司Lambda正在进行其计划首次公开募股（IPO）前的最后一轮融资，拟筹集最多40亿美元",
+        "新一轮融资对Lambda的估值为145亿美元，"
+      ],
+      "url": "https://36kr.com/newsflashes/4015161463361412",
+      "source": "36kr.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-07T01:00:00Z"
+    },
+    {
+      "id": "d3224b58cbd8",
+      "title": "这对华人夫妻，造了全球1/6电视芯片 | 文学城",
+      "summary": "资本层面，晶晨H股上市已于8月31日完成监管机构备案，仍需港交所审批。  \n  \n 招股书显示，约70%募集资金将投向研发，砸向6nm及更先进制程、端侧AI和通信连接芯片，推动晶晨往高端走。  \n  \n 押注端侧  \n  \n 钟培峰夫妇靠电视和机顶盒芯片起家，但不满足于只做这两样产品。  \n  \n 团队寄予厚望的，是端侧AI芯片。  \n  \n 其中6nm芯片A311Y3，算力达8TOPS，瞄准游戏...",
+      "highlights": [
+        "资本层面，晶晨H股上市已于8月31日完成监管机构备案，仍需港交所审批",
+        "招股书显示，约70%募集资金将投向研发，砸向6nm及更先进制程、端侧AI和通信连接芯片，推动晶晨往高端走",
+        "钟培峰夫妇靠电视和机顶盒芯片起家，但不满足于只做这两样产品"
+      ],
+      "url": "https://www.wenxuecity.com/news/2026/10/06/socialnews-270010.html",
+      "source": "wenxuecity.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-07T03:00:00Z"
+    },
+    {
+      "id": "50c1ed85ad18",
+      "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明",
+      "summary": "在计算机科学领域，如果说 P vs NP是终极皇冠，那么「基本半定阈值下的普通 NP-困难」 就是决定人类算法极限的「无冕之王」。\n\n这也是本次 OpenAI 成果库中最具颠覆性的一项研究（编号 Result 102）。\n\nImage 13什么是 NP-Hard？\n\n现实世界中，海量的大规模优化问题（如芯片布线、物流调度、航线规划、图着色）都被归类为 NP-Hard问题。\n\n人类在多项式时间内算不...",
+      "highlights": [
+        "在计算机科学领域，如果说 P vs NP是终极皇冠，那么「基本半定阈值下的普通 NP-困难」 就是决定人类算法极限的「无冕之王」",
+        "这也是本次 OpenAI 成果库中最具颠覆性的一项研究（编号 Result 102）",
+        "Image 13什么是 NP-Hard"
+      ],
+      "url": "https://wallstreetcn.com/articles/3783101",
+      "source": "wallstreetcn.com",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-10-07T02:24:36Z"
+    },
+    {
+      "id": "c0308e5bc66b",
+      "title": "具身智能的 iPhone时刻要来了吗？-36氪",
+      "summary": "第二个是移动与导航能力。具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障。整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的。但自动驾驶汽车用在路上，比具身智能应用场景要简单，比如这个会场就比公开道路复杂的多，具身智能要在这样的场景完全泛化应用还需要不断打磨。\n\n第三个是多模态交互能力。现在大语言模型的语言交...",
+      "highlights": [
+        "第二个是移动与导航能力",
+        "具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障",
+        "整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的"
+      ],
+      "url": "https://m.36kr.com/p/3893816015878664",
+      "source": "m.36kr.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-10-07T01:02:13Z"
+    },
+    {
+      "id": "2dfffdee749b",
+      "title": "Crunchbase: AI Startups Have Acquired 195 Other AI Companies in 2026, OpenAI Alone Did 10 | AI Weekly",
+      "summary": "## Summary\n\nCrunchbase data through September 29 counts 195 AI-on-AI acquisitions in 2026 — up 14% over all of 2025 — but with only a 2% rise in distinct buyers, meaning repeat acquirers are driving t...",
+      "highlights": [
+        "Crunchbase data through September 29 counts 195 AI-on-AI acquisitions in 2026 — up 14% over all of 2025 — but with only a 2% rise in distinct buyers, meaning repeat acquirers are driving the wave. OpenAI leads with 10 deals in 2026 (20 over three years); Anthropic and legal-AI buyer Legora notched five each, with Harvey at four and Sierra and Cursor at three.",
+        "Originally reported by news.crunchbase.com",
+        "Read the original article → [...] AI News Archives Learning AI Newsletters AI Index AI News Today Who's Who Use Cases Advertise Login"
+      ],
+      "url": "https://aiweekly.co/alerts/crunchbase-ai-startups-have-acquired-195-other-ai-companies-in-2026-openai",
+      "source": "aiweekly.co",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-10-07T07:00:00Z"
+    },
+    {
+      "id": "286f646e9fa3",
+      "title": "Bellevue firm Temporal acquires AI cybersecurity startup after latest funding round",
+      "summary": "Bellevue-based app development startup Temporal on Tuesday announced it has acquired Oso, a New York City-based cybersecurity startup.",
+      "highlights": [
+        "Bellevue-based app development startup Temporal on Tuesday announced it has acquired Oso, a New York City-based cybersecurity startup."
+      ],
+      "url": "https://www.bizjournals.com/seattle/news/2026/10/06/temporal-oso-acquisition-abbas-graham-neray.html",
+      "source": "bizjournals.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-07T02:00:00Z"
+    },
+    {
+      "id": "3a5e93765176",
+      "title": "IStart Valley - The funding picture in 2026 looks nothing...",
+      "summary": "## IStart Valley's Post\n\n### IStart Valley\n\n15 hours ago15h  ·\n\nThe funding picture in 2026 looks nothing like it did two years ago, and if you're building a startup right now, you need to understand ...",
+      "highlights": [
+        "## IStart Valley's Post",
+        "### IStart Valley",
+        "15 hours ago15h  ·"
+      ],
+      "url": "https://www.facebook.com/istartvalley/posts/the-funding-picture-in-2026-looks-nothing-like-it-did-two-years-ago-and-if-youre/1556150996554703",
+      "source": "facebook.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-07T12:08:19Z"
+    },
+    {
+      "id": "761113166c55",
+      "title": "Instagram",
+      "summary": "🚨 EXCLUSIVE: Frontier AI Startup FYDY In Advanced Talks To Raise $12 Mn. 👇  \n  \nThe San Francisco-headquartered startup, which is operating in stealth mode, is in advanced talks to raise its maiden fu...",
+      "highlights": [
+        "🚨 EXCLUSIVE: Frontier AI Startup FYDY In Advanced Talks To Raise $12 Mn. 👇",
+        "The San Francisco-headquartered startup, which is operating in stealth mode, is in advanced talks to raise its maiden funding round, with Lightspeed Venture Partners and General Catalyst co-leading the round, sources told Inc42. [...] FYDY is building what it calls “cognitive machines” that can continuously learn from experience, with the long-term goal of developing safe artificial superintelligence capable of understanding and acting autonomously in the real world. Its AI research studio OpenScientist is currently in private beta.",
+        "🔗 Could FYDY could be the next big bet on frontier AI. Read the full exclusive via the link in bio!"
+      ],
+      "url": "https://www.instagram.com/p/DeLz19Nm6-p",
+      "source": "instagram.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-07T12:08:19Z"
+    },
+    {
+      "id": "0c2eba80f437",
+      "title": "今日AI大模型新闻速览(10月07日)",
+      "summary": "AI 要闻,按重要度从高到低排列.1. 中美大模型性能差距缩至3%,... 报告认为DeepSeek最新模型评测表现已可比肩Anthropic与...",
+      "highlights": [
+        "AI 要闻,按重要度从高到低排列.1. 中美大模型性能差距缩至3%,... 报告认为DeepSeek最新模型评测表现已可比肩Anthropic与..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0F7hGJIozHKiKQwuZTE1ojuGEwkoZqhmlqXa8Fplpd9kC5crPLr2gLwYQr2P7fxQsMA3xkEBMGb9hXLkxnzJGzegkgMIcY6Y0WzEedw41q632gtfW9F_ndZMaaN3JMFlR2i8ZlVpojYhdqMEeAIFnZ7BiGs-THgjEr3It2ZTOKETZK79fkBpbxHsq74t5gtlBb4dZul2zE_G25BK2Bps9S00NVofL2iDw..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=DB03BDA3F19537889C9AC6A264B6D0949CF8BDFE6AC6362D",
+      "source": "微信公众号",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-10-07T00:56:42Z"
+    }
+  ],
+  "week": [
     {
       "id": "890e83a79266",
       "title": "刚刚，Hinton发了首篇RSI论文 – 量子位",
@@ -221,261 +789,9 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-10-06T06:09:00Z"
-    },
-    {
-      "id": "72412118b7d3",
-      "title": "中美大模型差距在拉大：美国三巨头狂飙 国产AI期待梁圣归来_游戏新闻_17173.com中国游戏门户站",
-      "summary": "作为对比，这几个月来国产AI大模型显得异常低调，倒不是说他们不更新产品，只是没有哪款产品有惊艳表现，风头全被美国AI三巨头抢走了。\n\nKimi发布的K3到现在2个多月了，期间虽然升级了一个K2.8，期待已久的K3.1没有动静，而智谱在GLM-5.3之后虽然也发了个GLM-5.3 Flash模型，但旗舰级产品同样2个多月没升级。\n\n最受关注的DeepSeek，自从4月底发布V4.0系列以来，也是一波...",
-      "highlights": [
-        "作为对比，这几个月来国产AI大模型显得异常低调，倒不是说他们不更新产品，只是没有哪款产品有惊艳表现，风头全被美国AI三巨头抢走了",
-        "Kimi发布的K3到现在2个多月了，期间虽然升级了一个K2.8，期待已久的K3.1没有动静，而智谱在GLM-5.3之后虽然也发了个GLM-5.3 Flash模型，但旗舰级产品同样2个多月没升级",
-        "最受关注的DeepSeek，自从4月底发布V4.0系列以来，也是一波三折，尤其是V4 Pro正式版没有达到预期，再加上大涨价，口碑一落千丈，9月份才靠着V4.1 Flash挽回一些形象"
-      ],
-      "url": "https://news.17173.com/content/10052026/120055081.shtml",
-      "source": "news.17173.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-05T03:00:00Z"
-    },
-    {
-      "id": "b386f4b6bc18",
-      "title": "月之暗面完成IPO前最后一轮融资！最新估值约500亿美元，年内暴涨四倍_新浪财经_新浪网",
-      "summary": "值得注意的是，月之暗面2026年的估值增速极快，1至2月连续完成3轮融资，估值从100亿美元攀升至180亿美元；5月D轮融资后估值达200亿美元；6月E轮融资后投前估值升至315亿美元；7月F轮融资后达350亿美元。年内完成6轮融资，半年估值大涨。\n\n月之暗面融资的火爆，核心驱动来自旗舰大模型Kimi K3。今年7月，Kimi K3上线两天就被挤爆。Kimi K3发布后在硅谷引发轰动效应，上线仅3...",
-      "highlights": [
-        "值得注意的是，月之暗面2026年的估值增速极快，1至2月连续完成3轮融资，估值从100亿美元攀升至180亿美元；5月D轮融资后估值达200亿美元；6月E轮融资后投前估值升至315亿美元；7月F轮融资后达350亿美元",
-        "年内完成6轮融资，半年估值大涨",
-        "月之暗面融资的火爆，核心驱动来自旗舰大模型Kimi K3"
-      ],
-      "url": "https://finance.sina.com.cn/roll/2026-10-06/doc-iniuhpzh6985619.shtml",
-      "source": "finance.sina.com.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-06T09:23:59Z"
-    },
-    {
-      "id": "3a9ee2ee6d0b",
-      "title": "245 reactions · 35 shares | OPENAI AND ANTHROPIC EVERY SINGLE WEEK\n\nAt this point, the AI race doesn’t even look like a competition anymore.\n\nIt looks like two guys continuously lighting the next firework before the previous one has stopped exploding.\n\nOpenAI drops something.\n\nAnthropic responds.\n\nA new model launches.\n\nAnother benchmark gets beaten.\n\nSomeone gets banned.\n\nAnother AI feature appears.\n\nAnd before everyone has finished discussing it, there’s already another announcement.\n\nThe rivalry between OpenAI and Anthropic has become one of the fastest-moving battles in technology, with both companies competing across frontier AI models, coding agents, reasoning, enterprise tools and autonomous AI systems.\n\nAnd the funniest part?\n\nThis video somehow captures the entire AI industry without saying a single word.\n\nOpenAI and Claude every single week:\n\n“Light another one.”\n\ncredit: k1rallik \n\n#openai #anthropic #claude #artificialintelligence #ai\n\n{openai, anthropic, claude, chatgpt, sam altman, dario amodei, openai vs anthropic, claude ai, ai rivalry, ai model race, artificial intelligence, generative ai, ai models, frontier ai, ai agents, coding agents, ai coding, chatgpt vs claude, ai competition, ai news, tech news, silicon valley, ai startups, future of ai, machine learning, llm, large language models, ai meme, tech meme, ai industry} | Askgpts",
-      "summary": "YOUTUBERS WANT TO BECOME CODERS. CODERS WANT TO BECOME YOUTUBERS. PewDiePie’s latest side quest might be his wildest one yet. After years of being one of the biggest creators on the internet, PewDiePi...",
-      "highlights": [
-        "YOUTUBERS WANT TO BECOME CODERS. CODERS WANT TO BECOME YOUTUBERS. PewDiePie’s latest side quest might be his wildest one yet. After years of being one of the biggest creators on the internet, PewDiePie has now released Ajax, his own AI model built for his self-hosted AI ecosystem, Odysseus. Ajax is based on Qwen 3.5 9B and is designed around a completely different philosophy from typical cloud AI assistants: • Runs locally on your own hardware • Built for private, self-hosted AI workflows • Can [...] demand, AI data centers, HBM, DRAM, AI infrastructure, artificial intelligence, AI hardware, memory chips, data center boom, Claude, ChatGPT, AI race, semiconductor industry, PC hardware, AI generated video} [...] imagines their CEOs celebrating the AI infrastructure boom together. Obviously, they didn’t actually film this. The clip appears to be AI-generated or heavily manipulated. But the underlying joke captures a real shift: AI isn’t just competing for software users anymore. It’s reshaping demand for the hardware underneath the entire industry. Credit: Dauren Altynbek #openai #anthropic #samaltman #ai #technology {Sam Altman, Dario Amodei, OpenAI, Anthropic, RAM prices, AI memory demand, AI data"
-      ],
-      "url": "https://www.facebook.com/askgptss/posts/openai-and-anthropic-every-single-weekat-this-point-the-ai-race-doesnt-even-look/122156777001083258",
-      "source": "facebook.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-06T21:56:07Z"
-    },
-    {
-      "id": "501c6ffd5057",
-      "title": "AI算力初创公司Lambda拟在IPO前最后一轮融资中筹集40亿美元",
-      "summary": "据知情人士透露，英伟达支持的云计算公司Lambda正在进行其计划首次公开募股（IPO）前的最后一轮融资，拟筹集最多40亿美元。新一轮融资对Lambda的估值为145亿美元，",
-      "highlights": [
-        "据知情人士透露，英伟达支持的云计算公司Lambda正在进行其计划首次公开募股（IPO）前的最后一轮融资，拟筹集最多40亿美元",
-        "新一轮融资对Lambda的估值为145亿美元，"
-      ],
-      "url": "https://36kr.com/newsflashes/4015161463361412",
-      "source": "36kr.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-07T01:00:00Z"
-    },
-    {
-      "id": "0df881b2ead2",
-      "title": "【IPO追踪】无问芯穹被传秘密递表港交所，AI算力中间层独角兽冲刺港股",
-      "summary": "logo\n\n 资鲸课堂\n 资鲸直播\n 资鲸投研\n 基金从业\n 商学院\n\n 人才猎聘\n 政府园区\n 我要投稿\n\n 行业峰会\n\n媒体服务\n\n 寻求报道\n 寻求融资\n 我要入驻\n\n \n\n  \n\n  扫码下载\n\n + 用户中心\n  + 退出登录\n\n资讯\n\n{{item.name}}\n\n{{option.name}}\n\n快讯\n\n7×24h快讯\n\n知识服务\n\n资鲸课堂\n\n资鲸直播\n\n资鲸投研\n\n基金从业\n\n商...",
-      "highlights": [
-        "{{item.name}}",
-        "{{option.name}}",
-        "# {{detailinfo.title}}"
-      ],
-      "url": "http://www.capwhale.com/newsfile/details/20261006/b374345e4fdd4c8dbdaf5fd5cb5392a0.shtml",
-      "source": "capwhale.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-06T11:00:00Z"
-    },
-    {
-      "id": "36041d050dad",
-      "title": "Under oath, Google confirms three AI agent test escapes as OpenAI, Anthropic and Meta face NYC lawmakers",
-      "summary": "Graham said Anthropic had kept a model out of general release this year: In April, Anthropic restricted Claude Mythos Preview to partners in Project Glasswing, a program for organizations that maintai...",
-      "highlights": [
-        "Graham said Anthropic had kept a model out of general release this year: In April, Anthropic restricted Claude Mythos Preview to partners in Project Glasswing, a program for organizations that maintain critical software, rather than releasing it publicly. “We don’t think the labs should be checking their own homework. Not only this, but we have demonstrably withheld models when we felt it was not safe to widely release.”",
-        "## Who should test the models? [...] #### Related Articles Read More >",
-        "##### What AI-assisted engineering taught us about team design"
-      ],
-      "url": "https://www.rdworldonline.com/under-oath-google-confirms-three-ai-agent-test-escapes-as-openai-anthropic-and-meta-face-nyc-lawmakers",
-      "source": "rdworldonline.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-06T22:10:31Z"
-    },
-    {
-      "id": "475d53755606",
-      "title": "AI 大模型世界",
-      "summary": "国外 ; Claude Opus 5.5. Anthropic · 世界#1 ; GPT-6 Astra. OpenAI · 世界#2 ; Gemini 3.8 Flash. 谷歌 · 世界#15 ; Muse Spark 1.3. Meta · 世界#17 ; Grok 4.7. xAI · 暂无.",
-      "highlights": [
-        "国外 ; Claude Opus 5.5. Anthropic · 世界#1 ; GPT-6 Astra. OpenAI · 世界#2 ; Gemini 3.8 Flash. 谷歌 · 世界#15 ; Muse Spark 1.3. Meta · 世界#17 ; Grok 4.7. xAI · 暂无."
-      ],
-      "url": "https://www.bilibili.com/toy/ai-model-world",
-      "source": "bilibili.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-05T07:00:00Z"
-    },
-    {
-      "id": "6a0e559666bf",
-      "title": "Instagram",
-      "summary": "AI 智能体（AI Agent）的开发与上线，是指构建一个能够自主感知环境、进行规划决策、调用外部工具，并持续执行任务以达成特定目标的智能化系统。相比于传统的单次问答大模型应用，智能体项目更注重状态管理、长链条推理、工具集成与工程化稳定性。北京木奇科技有限公司，专业的智能体开发公司，欢迎交流合作。商务合作加V：muqi2026  \n  \n一个完整的 AI 智能体项目生命周期通常分为以下六个核心阶段...",
-      "highlights": [
-        "AI 智能体（AI Agent）的开发与上线，是指构建一个能够自主感知环境、进行规划决策、调用外部工具，并持续执行任务以达成特定目标的智能化系统",
-        "相比于传统的单次问答大模型应用，智能体项目更注重状态管理、长链条推理、工具集成与工程化稳定性",
-        "北京木奇科技有限公司，专业的智能体开发公司，欢迎交流合作"
-      ],
-      "url": "https://www.instagram.com/p/Dd2xTvwlPCn",
-      "source": "instagram.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-05T12:47:02Z"
-    },
-    {
-      "id": "efeaceb97e8e",
-      "title": "2026 中国AI Agent 产业全景：全面跟进全球“行动式AI”新范式",
-      "summary": "智能体(Personal Agent) 月正式发布Manus 2.0 … 中国科技企业已完成全员入场、全线对标、全域落地, 形成覆盖个人生活、职场办公、企业组织、政企合规的完整智能体产品矩阵",
-      "highlights": [
-        "智能体(Personal Agent) 月正式发布Manus 2.0 … 中国科技企业已完成全员入场、全线对标、全域落地, 形成覆盖个人生活、职场办公、企业组织、政企合规的完整智能体产品矩阵"
-      ],
-      "url": "https://www.facebook.com/groups/370716739681554/posts/28448934308099754",
-      "source": "facebook.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-05T12:47:02Z"
-    },
-    {
-      "id": "96f4ac9913d9",
-      "title": "2. ​万物自主化（4,000 亿美元） 利用人工智能实现乘用车、卡车和无人机等载具的自主运行，以及推动其他工业自动化项目，代表着 4,000 亿美元的市场机会。这不仅能提高设备的正常运行时间，还能降低培训与运营成本。自动驾驶载具可以作为面向消费者的新型汽车与卡车、无人驾驶出租车服务，以及通过物流自动化服务来释放巨大的商业价值。 2. ​具身/物理智能（9,000 亿美元） 先进的人工智能模型能够实现对物理过程的高保真模拟和数字孪生，帮助企业提高生产力、测试方案修改，并加速自主系统的部署。同样，由人工智能驱动的机器人（包括具身人形机器人）能够在非结构化环境中作业，从而在实体经济中解锁广泛的新应用，涵盖从制造业到外科手术的各个领域。因此，在良率提升和新工厂爬坡提速带来研发与制造成本降低 10% 的假设下，实体经济在重点行业（包括汽车、电子、半导体以及航空航天与国防）可能孕育出 9,000 亿美元的市场机遇。",
-      "summary": "Home\n\nNew thread\n\nSearch\n\nMessages\n\nActivity\n\nProfile\n\nInsights\n\nLog in\n\nMore\n\n# Thread\n\n69 views\n\ncheeweng96's profile picture\n\ncheeweng96\n\n2. ​万物自主化（4,000 亿美元） 利用人工智能实现乘用车、卡车和无人机等载具的自主运行，以及推动其他工业自动化...",
-      "highlights": [
-        "cheeweng96's profile picture",
-        "2. ​万物自主化（4,000 亿美元） 利用人工智能实现乘用车、卡车和无人机等载具的自主运行，以及推动其他工业自动化项目，代表着 4,000 亿美元的市场机会",
-        "这不仅能提高设备的正常运行时间，还能降低培训与运营成本"
-      ],
-      "url": "https://www.threads.com/@cheeweng96/post/DeDmbrAEsd0/2-%E4%B8%87%E7%89%A9%E8%87%AA%E4%B8%BB%E5%8C%964000-%E4%BA%BF%E7%BE%8E%E5%85%83%E5%88%A9%E7%94%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%9E%E7%8E%B0%E4%B9%98%E7%94%A8%E8%BD%A6%E5%8D%A1%E8%BD%A6%E5%92%8C%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%AD%89%E8%BD%BD%E5%85%B7%E7%9A%84%E8%87%AA%E4%B8%BB%E8%BF%90%E8%A1%8C%E4%BB%A5%E5%8F%8A%E6%8E%A8%E5%8A%A8%E5%85%B6%E4%BB%96%E5%B7%A5%E4%B8%9A%E8%87%AA%E5%8A%A8%E5%8C%96%E9%A1%B9%E7%9B%AE%E4%BB%A3%E8%A1%A8%E7%9D%80-4000-%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%B8%82%E5%9C%BA%E6%9C%BA%E4%BC%9A%E8%BF%99%E4%B8%8D%E4%BB%85%E8%83%BD%E6%8F%90%E9%AB%98%E8%AE%BE%E5%A4%87%E7%9A%84%E6%AD%A3",
-      "source": "threads.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-10-05T12:47:02Z"
-    },
-    {
-      "id": "ce687d9184a0",
-      "title": "奥特曼称Cerebras为“紧密合作伙伴”，该芯片企业股价盘前上涨6%",
-      "summary": "AI硬件企业Cerebras周一盘前股价走高，从上周跌势中反弹，最新盘前涨幅6.3%，报每股177美元，当前总市值略超390亿美元，较5月上市首日950亿美元的市值近乎腰斩。",
-      "highlights": [
-        "AI硬件企业Cerebras周一盘前股价走高，从上周跌势中反弹，最新盘前涨幅6.3%，报每股177美元，当前总市值略超390亿美元，较5月上市首日950亿美元的市值近乎腰斩"
-      ],
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniuemac4378341.shtml?cre=tianyi&mod=pchp&loc=27&r=0&rfunc=98&tj=cxvertical_pc_hp&tr=12",
-      "source": "finance.sina.com.cn",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-10-05T10:00:00Z"
-    },
-    {
-      "id": "a75bd2763898",
-      "title": "Anthropic considers new AI model amid OpenAI's GPT-6 ...",
-      "summary": "Anthropic is reportedly considering the release of a new AI model as it responds to growing competition from OpenAI's GPT-6 Astra.",
-      "highlights": [
-        "Anthropic is reportedly considering the release of a new AI model as it responds to growing competition from OpenAI's GPT-6 Astra."
-      ],
-      "url": "https://www.facebook.com/exclaimit/posts/the-ai-race-continues-to-heat-up-anthropic-is-reportedly-considering-the-release/1412575287687009",
-      "source": "facebook.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-05T23:23:58Z"
-    },
-    {
-      "id": "1416cc87496e",
-      "title": "奥特曼称Cerebras为“紧密合作伙伴”，该芯片企业股价盘前上涨6%",
-      "summary": "AI硬件企业Cerebras周一盘前股价走高，从上周跌势中反弹，最新盘前涨幅6.3%，报每股177美元，当前总市值略超390亿美元，较5月上市首日950亿美元的市值近乎腰斩。",
-      "highlights": [
-        "AI硬件企业Cerebras周一盘前股价走高，从上周跌势中反弹，最新盘前涨幅6.3%，报每股177美元，当前总市值略超390亿美元，较5月上市首日950亿美元的市值近乎腰斩"
-      ],
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniuemac4378341.shtml?cre=tianyi&mod=pchp&loc=21&r=0&rfunc=64&tj=cxvertical_pc_hp&tr=12",
-      "source": "finance.sina.com.cn",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-10-05T12:00:00Z"
-    },
-    {
-      "id": "06c15f4dcfb4",
-      "title": "Tracing the rogue ideology of the frontier labs to their product choices - Buttondown",
-      "summary": "*This is a really long newsletter, for which I apologize, but hopefully there's enough detail in there for people who have not been following this stuff closely to get up to speed. This is due to a se...",
-      "highlights": [
-        "*This is a really long newsletter, for which I apologize, but hopefully there's enough detail in there for people who have not been following this stuff closely to get up to speed. This is due to a series of admissions—or, depending on your level of cynicism, PR stunts—from the so-called AI \"frontier labs\" OpenAI and Anthropic, admissions that their best models, when set to work on internal cybersecurity testing, had contrived to hack external sites in various ways on multiple separate occasions. This is, as has been broadly noted, strange on the face of it—what other industry do you know that has voluntarily offered to pause its march towards profitability and lucrative IPOs—and if you haven't been more-or-less marinating in the culture that birthed these labs it might seem frankly inexplicable."
-      ],
-      "url": "https://buttondown.com/apperceptive/archive/tracing-the-rogue-ideology-of-the-frontier-labs/",
-      "source": "buttondown.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-05T20:01:45Z"
-    },
-    {
-      "id": "63d6760b908c",
-      "title": "OpenAI and Anthropic Have a New Threat to Worry About—and It Isn’t China - Gizmodo",
-      "summary": "# OpenAI and Anthropic Have a New Threat to Worry About—and It Isn’t China. A little-known American AI startup is looking to steal frontier AI companies’ bread and butter by letting enterprise custome...",
-      "highlights": [
-        "# OpenAI and Anthropic Have a New Threat to Worry About—and It Isn’t China. A little-known American AI startup is looking to steal frontier AI companies’ bread and butter by letting enterprise customers build their own custom AI models. Several powerful open-source and open-weight models developed by Chinese AI labs have been a tempting alternative, since they can be modified to suit each customer’s needs and, more importantly, are cheaper than American frontier models. Echoing Nvidia’s Jensen Huang and Meta’s Mark Zuckerberg, Reflection believes that a completely open ecosystem is the safest and most equitable pathway into the future: “We need to build open models so capable that they become the obvious choice for users and developers worldwide, ensuring the foundation of intelligence remains open and accessible rather than controlled by a few,” the company wrote in a blog post last year."
-      ],
-      "url": "https://gizmodo.com/openai-and-anthropic-have-a-new-threat-to-worry-about-and-it-isnt-china-2000821705",
-      "source": "gizmodo.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-05T16:30:51Z"
     }
   ],
-  "today": [
-    {
-      "id": "501c6ffd5057",
-      "title": "AI算力初创公司Lambda拟在IPO前最后一轮融资中筹集40亿美元",
-      "summary": "据知情人士透露，英伟达支持的云计算公司Lambda正在进行其计划首次公开募股（IPO）前的最后一轮融资，拟筹集最多40亿美元。新一轮融资对Lambda的估值为145亿美元，",
-      "highlights": [
-        "据知情人士透露，英伟达支持的云计算公司Lambda正在进行其计划首次公开募股（IPO）前的最后一轮融资，拟筹集最多40亿美元",
-        "新一轮融资对Lambda的估值为145亿美元，"
-      ],
-      "url": "https://36kr.com/newsflashes/4015161463361412",
-      "source": "36kr.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-07T01:00:00Z"
-    },
-    {
-      "id": "286f646e9fa3",
-      "title": "Bellevue firm Temporal acquires AI cybersecurity startup after latest funding round",
-      "summary": "Bellevue-based app development startup Temporal on Tuesday announced it has acquired Oso, a New York City-based cybersecurity startup.",
-      "highlights": [
-        "Bellevue-based app development startup Temporal on Tuesday announced it has acquired Oso, a New York City-based cybersecurity startup."
-      ],
-      "url": "https://www.bizjournals.com/seattle/news/2026/10/06/temporal-oso-acquisition-abbas-graham-neray.html",
-      "source": "bizjournals.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-07T02:00:00Z"
-    }
-  ],
-  "week": [
-    {
-      "id": "c24321e0724c",
-      "title": "一起呼吁“AI减速”？OpenAI取消最新模型发布，Anthropic却“两连发”！",
-      "summary": "OpenAI决定放弃发布新模型之际，人工智能行业正面临着对高级模型安全性日益加剧的担忧。本月初，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）在一篇文章中敦促各AI实验室放慢模型开发速度，因为人们担心这些模型正在失控。\n\nOpenAI安全系统负责人Saachi Jain在一份声明中表示：“我们当然希望确保模型开发的安全性，无论是在公司内部还是交付给用户时。但当我们将模型交...",
-      "highlights": [
-        "OpenAI决定放弃发布新模型之际，人工智能行业正面临着对高级模型安全性日益加剧的担忧",
-        "本月初，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）在一篇文章中敦促各AI实验室放慢模型开发速度，因为人们担心这些模型正在失控",
-        "OpenAI安全系统负责人Saachi Jain在一份声明中表示：“我们当然希望确保模型开发的安全性，无论是在公司内部还是交付给用户时"
-      ],
-      "url": "https://www.cls.cn/detail/2494709",
-      "source": "cls.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-05T00:00:00Z"
-    },
+  "month": [
     {
       "id": "890e83a79266",
       "title": "刚刚，Hinton发了首篇RSI论文 – 量子位",
@@ -625,214 +941,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-10-06T09:25:07Z"
-    },
-    {
-      "id": "666dcfec66d5",
-      "title": "李想想多了|理想汽车|港股|理想|股价|机器人_新浪新闻",
-      "summary": "然而，主业失速下的李想，谈得最多的却不是车。\n\n1月的全员会上，他几乎不谈汽车业务，大讲特讲的是AI和人形机器人。5月，再次强调，自动驾驶是具身智能的上半场，人形机器人是具身智能的下半场。\n\n他说，2026年是理想成为AI头部公司“上车的最后一年”，全球能同时做好基座模型、芯片、操作系统和具身智能的公司不超过三家，理想要做其中之一。\n\n但他的具身机器人叙事刚讲完，理想离具身和人形机器人最近的一批高...",
-      "highlights": [
-        "然而，主业失速下的李想，谈得最多的却不是车",
-        "1月的全员会上，他几乎不谈汽车业务，大讲特讲的是AI和人形机器人",
-        "5月，再次强调，自动驾驶是具身智能的上半场，人形机器人是具身智能的下半场"
-      ],
-      "url": "https://k.sina.com.cn/article_2104169363_7d6b139300101k2co.html?from=finance",
-      "source": "k.sina.com.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-05T16:03:25Z"
-    },
-    {
-      "id": "07dfd47641fa",
-      "title": "Can Google's AI Chip Beat Nvidia? : r/GoogleGeminiAI",
-      "summary": "All anthropic models are primarily trained on TPUs. TPU is a better architecture for training because you don't have the same limits on networking. More",
-      "highlights": [
-        "All anthropic models are primarily trained on TPUs. TPU is a better architecture for training because you don't have the same limits on networking. More"
-      ],
-      "url": "https://www.reddit.com/r/GoogleGeminiAI/comments/1wwr25l/can_googles_ai_chip_beat_nvidia",
-      "source": "reddit.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-06T12:17:19Z"
-    },
-    {
-      "id": "f63d08b2673e",
-      "title": "AI芯片“黑马”Cerebras上市大涨51%,市值达4000亿元:背靠OpenAI,挑战英伟达,主打“史上最大”计算机芯片",
-      "summary": "英伟达B200芯片则配备了192GB的内存.大模型的上下文长度完... OpenAI承诺购买750MW AI推理算力,还有选择权,可额外购买1....",
-      "highlights": [
-        "英伟达B200芯片则配备了192GB的内存.大模型的上下文长度完... OpenAI承诺购买750MW AI推理算力,还有选择权,可额外购买1...."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MYf0ighEh65E3oCC44TBNoOQSL5SBJ81qXa8Fplpd9GcM2Cy_pJk_NyA6xUJPxHTtan2a6kYbsVzhqtZ1tUEb7oA0HvK0ap8EGLm8K8baUG3wGbgKKDTtgMPc5H_do6l6ee4WP7X0N_eh09Iz7IskiFBiS52CqnrGjGXZd5Iel40UOtHI1SH05RG-diyVagy_ytqC0jPybqRsJ5xgZlokC2Qmj7RgGwQ..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=D33EE50C4815ADDFCBCC97E030BE52B3CB39B8DE6AC4E6C8",
-      "source": "微信公众号",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-06T04:37:53Z"
-    },
-    {
-      "id": "d5584052908a",
-      "title": "DeepSeek美国版大模型Beam发布：表现还不错 但碰瓷不了V4.1 Flash--快科技--科技改变未来",
-      "summary": "如果综合考虑到性能、价格等因素，DeepSeek V4.1 Flash是能满足大部分人90%的需求，而且性价比是其他大模型很难碰瓷的，这个护城河别说美国企业很难打破，国内的开源AI也没几个能跟V4.1 Flaash相比的。\n\n正因为此，Reflection公司在Beam大模型发布之后，对外强调的叙事风格也不走技术路线，CEO也在用西方世界的焦虑感来给自己树立形象，强调西方世界再不做（开源AI），那...",
-      "highlights": [
-        "如果综合考虑到性能、价格等因素，DeepSeek V4.1 Flash是能满足大部分人90%的需求，而且性价比是其他大模型很难碰瓷的，这个护城河别说美国企业很难打破，国内的开源AI也没几个能跟V4.1 Flaash相比的",
-        "正因为此，Reflection公司在Beam大模型发布之后，对外强调的叙事风格也不走技术路线，CEO也在用西方世界的焦虑感来给自己树立形象，强调西方世界再不做（开源AI），那全球AI就要由中国大模型来建了",
-        "【本文结束】如需转载请务必注明出处：快科技"
-      ],
-      "url": "https://m.mydrivers.com/newsview/1155501.html",
-      "source": "m.mydrivers.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-06T06:00:00Z"
-    }
-  ],
-  "month": [
-    {
-      "id": "c24321e0724c",
-      "title": "一起呼吁“AI减速”？OpenAI取消最新模型发布，Anthropic却“两连发”！",
-      "summary": "OpenAI决定放弃发布新模型之际，人工智能行业正面临着对高级模型安全性日益加剧的担忧。本月初，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）在一篇文章中敦促各AI实验室放慢模型开发速度，因为人们担心这些模型正在失控。\n\nOpenAI安全系统负责人Saachi Jain在一份声明中表示：“我们当然希望确保模型开发的安全性，无论是在公司内部还是交付给用户时。但当我们将模型交...",
-      "highlights": [
-        "OpenAI决定放弃发布新模型之际，人工智能行业正面临着对高级模型安全性日益加剧的担忧",
-        "本月初，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）在一篇文章中敦促各AI实验室放慢模型开发速度，因为人们担心这些模型正在失控",
-        "OpenAI安全系统负责人Saachi Jain在一份声明中表示：“我们当然希望确保模型开发的安全性，无论是在公司内部还是交付给用户时"
-      ],
-      "url": "https://www.cls.cn/detail/2494709",
-      "source": "cls.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-05T00:00:00Z"
-    },
-    {
-      "id": "890e83a79266",
-      "title": "刚刚，Hinton发了首篇RSI论文 – 量子位",
-      "summary": "甚至未来回头看，2026年真正值得记住的节点，可能还真不是某个模型又多拿了几分。\n\n恐怕是人类第一次开始认真意识到，AI最猛的一次Scaling，可能发生在「研究AI」这件事本身。\n\n参考链接：\n\n### 相关阅读\n\n#### 探索RSI，生数新世界模型让机器人开始自我进化\n\n#### AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI\n\n小模型突破瓶颈，旗舰模型打开新空间\n\n##...",
-      "highlights": [
-        "甚至未来回头看，2026年真正值得记住的节点，可能还真不是某个模型又多拿了几分",
-        "恐怕是人类第一次开始认真意识到，AI最猛的一次Scaling，可能发生在「研究AI」这件事本身",
-        "#### 探索RSI，生数新世界模型让机器人开始自我进化"
-      ],
-      "url": "https://www.qbitai.com/2026/10/501705.html",
-      "source": "qbitai.com",
-      "category": "前沿理论",
-      "importance": 5,
-      "publishedAt": "2026-10-05T04:00:00Z"
-    },
-    {
-      "id": "070570a03a31",
-      "title": "As OpenAI and Anthropic battle over data privacy, more companies turn to open models | Fortune",
-      "summary": "The latest string of “rogue AI” incidents have heightened fears that the latest models will either scrape data, or publish it for the world to see, without the business’ permission. [...] Given these ...",
-      "highlights": [
-        "The latest string of “rogue AI” incidents have heightened fears that the latest models will either scrape data, or publish it for the world to see, without the business’ permission. [...] Given these concerns, companies are looking to diversify their AI usage, and reduce their dependency on the leading AI companies. The term du jour for this is “sovereign AI,” referring to a company’s ability to control its own “AI stack”—everything from owning the chips on which AI workloads run, to setting up proprietary cloud infrastructure, to using open source models that a company can download and run in their own cloud environments. [...] Fortune Daily breaks the traditional barrier between audience and newsroom. The show transforms Fortune’s trusted reporting into actionable, conversational, and entertaining insights for an emerging class of business leaders. Watch here.",
-        "About the Author",
-        "Emily Forlini"
-      ],
-      "url": "https://fortune.com/2026/10/05/openai-and-anthropic-battle-over-zero-data-retention-zdr-data-privacy-companies-look-to-open-models-and-sovereign-ai",
-      "source": "fortune.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-05T10:00:00Z"
-    },
-    {
-      "id": "576541b071f9",
-      "title": "中美大模型差距在拉大：美国三巨头狂飙 国产AI期待梁圣归来--快科技--科技改变未来",
-      "summary": "美国AI御三家近期高强度更新，Anthropic之前虽然因为Opus 4.7到5.0的性能提升不如预期被嘲讽，但Fabel 5.1到Opus 5.5、Sonnet 5.5这一波直接反转，用户量和口碑回来了，当然针对国内的封号同样在加强，但这也阻止不了国内开发者砸钱去买Opus 5.5，靠的就是Opus 5.5的底气。\n\nOpenAI最近密集发布了GPT-6系列多个大模型，包括Astra、Sol等旗...",
-      "highlights": [
-        "美国AI御三家近期高强度更新，Anthropic之前虽然因为Opus 4.7到5.0的性能提升不如预期被嘲讽，但Fabel 5.1到Opus 5.5、Sonnet 5.5这一波直接反转，用户量和口碑回来了，当然针对国内的封号同样在加强，但这也阻止不了国内开发者砸钱去买Opus 5.5，靠的就是Opus 5.5的底气",
-        "OpenAI最近密集发布了GPT-6系列多个大模型，包括Astra、Sol等旗舰级产品，表现有好有坏，尤其是GPT-6 Sol不到一周时间就被6.1 Sol取代，但整体的实力仍在，引发不满的主要是他们的运营策略，尤其是200美元套餐调整的问题",
-        "谷歌今年的表现一言难尽，过去几个月主要靠Flash模型刷存在感，但最新的Gemini 4.0 Argon也来一波咸鱼翻身，目前主要是限制使用范围，但性能表现很好，有机会光明正大地回归御三家之列"
-      ],
-      "url": "https://news.mydrivers.com/1/1155/1155411.htm",
-      "source": "news.mydrivers.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-05T03:00:00Z"
-    },
-    {
-      "id": "641e21662e4c",
-      "title": "Altman“亲自救场”，能否真的稳住 Cerebras？ | NAI 500",
-      "summary": "上周暴跌的导火索，是曝出 OpenAI 将采用英伟达GPU、而非 Cerebras 自家芯片，为 GPT-6.1 Sol 的 “Ultrafast” 模式提供算力。作为英伟达的直接竞争对手，Cerebras 主营晶圆级 AI 芯片与系统，旗舰产品 Wafer Scale Engine 3 号称运行速度快于英伟达GPU，并在今年 1 月刚与 OpenAI 签下 750 兆瓦算力、持续至 2028 年...",
-      "highlights": [
-        "上周暴跌的导火索，是曝出 OpenAI 将采用英伟达GPU、而非 Cerebras 自家芯片，为 GPT-6.1 Sol 的 “Ultrafast” 模式提供算力",
-        "作为英伟达的直接竞争对手，Cerebras 主营晶圆级 AI 芯片与系统，旗舰产品 Wafer Scale Engine 3 号称运行速度快于英伟达GPU，并在今年 1 月刚与 OpenAI 签下 750 兆瓦算力、持续至 2028 年的供应协议",
-        "正因如此，“弃用自研芯片” 的消息才直接击穿了市场对双方合作深度的信心"
-      ],
-      "url": "https://nai500.com/zh-hans/blog/2026/10/altman%E4%BA%B2%E8%87%AA%E6%95%91%E5%9C%BA%EF%BC%8C%E8%83%BD%E5%90%A6%E7%9C%9F%E7%9A%84%E7%A8%B3%E4%BD%8F-cerebras%EF%BC%9F",
-      "source": "nai500.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-05T12:00:00Z"
-    },
-    {
-      "id": "bdba098fc5e4",
-      "title": "奥特曼称Cerebras为“紧密合作伙伴”，该芯片企业股价盘前上涨6%_新浪财经_新浪网",
-      "summary": "Cerebras 是英伟达的竞争对手，销售大型芯片与 AI 算力系统，产品设计目标是比传统 GPU 更快运行 AI 大模型。该公司宣称其旗舰产品晶圆级引擎 3（Wafer Scale Engine 3）性能优于英伟达 GPU。\n\n　　今年 1 月，Cerebras 与 OpenAI 达成协议，将在 2028 年前向后者提供 750 兆瓦算力。\n\n　　花旗分析师表示，对 Cerebras 2026‑...",
-      "highlights": [
-        "Cerebras 是英伟达的竞争对手，销售大型芯片与 AI 算力系统，产品设计目标是比传统 GPU 更快运行 AI 大模型",
-        "该公司宣称其旗舰产品晶圆级引擎 3（Wafer Scale Engine 3）性能优于英伟达 GPU",
-        "今年 1 月，Cerebras 与 OpenAI 达成协议，将在 2028 年前向后者提供 750 兆瓦算力"
-      ],
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniuemac4378341.shtml?cre=tianyi&mod=pchp&loc=24&r=0&rfunc=7&tj=cxvertical_pc_hp&tr=12",
-      "source": "finance.sina.com.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-05T10:36:37Z"
-    },
-    {
-      "id": "4889deefbdfc",
-      "title": "新加坡投资银行收费创五年新高：并购与融资活跃 | 联合早报",
-      "summary": "新加坡公司向外流出的合并与收购（outbound M&A）总值达463亿美元，较去年同期暴增逾两倍。其中最引人瞩目的是新加坡政府投资公司（GIC）在今年2月参与人工智能初创公司Anthropic价值300亿美元的融资案，这也是今年迄今亚太地区最大的一笔交易。\n\n报告指出，新加坡本地并购（Target Singapore M&A）总值达392亿美元，同比增长88.5%，创五年新高。其中包括美国私募巨...",
-      "highlights": [
-        "新加坡公司向外流出的合并与收购（outbound M&A）总值达463亿美元，较去年同期暴增逾两倍",
-        "其中最引人瞩目的是新加坡政府投资公司（GIC）在今年2月参与人工智能初创公司Anthropic价值300亿美元的融资案，这也是今年迄今亚太地区最大的一笔交易",
-        "报告指出，新加坡本地并购（Target Singapore M&A）总值达392亿美元，同比增长88.5%，创五年新高"
-      ],
-      "url": "https://www.zaobao.com.sg/finance/singapore/story20261005-9787985",
-      "source": "zaobao.com.sg",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-05T12:00:00Z"
-    },
-    {
-      "id": "3478da7b2048",
-      "title": "推理支出2026年首超训练：\"Token工厂\"崛起 AI基础设施投资逻辑生变｜深度",
-      "summary": "Token（词元）价值怎么算？据中国信通院发布《词元（Token）经济发展研究报告（2026年）》，不同应用场景的词元价值密度差异巨大，消费级场景属于流量消耗型，价值密度较低，典型如闲聊、娱乐问答等，仅需基础交互能力，价格约0.01美元/百万词元。产业级场景价值密度较高，典型如药物研发、金融量化、精密代码生成等，价值可达1000美元/百万词元，是词元经济的价值高地。\n\nToken出海≠模型出海：流...",
-      "highlights": [
-        "Token（词元）价值怎么算",
-        "据中国信通院发布《词元（Token）经济发展研究报告（2026年）》，不同应用场景的词元价值密度差异巨大，消费级场景属于流量消耗型，价值密度较低，典型如闲聊、娱乐问答等，仅需基础交互能力，价格约0.01美元/百万词元",
-        "产业级场景价值密度较高，典型如药物研发、金融量化、精密代码生成等，价值可达1000美元/百万词元，是词元经济的价值高地"
-      ],
-      "url": "https://www.cls.cn/detail/2497741",
-      "source": "cls.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-05T12:00:00Z"
-    },
-    {
-      "id": "f63aadec557a",
-      "title": "DeepSeek融资规模或达120亿美元，腾讯与宁德时代拟参投 — TradingView新聞",
-      "summary": "PANewsPANews\n\n# DeepSeek融资规模或达120亿美元，腾讯与宁德时代拟参投\n\nPANews 10月6日消息，据彭博社报道，AI公司DeepSeek接近完成新一轮融资，规模预计至少达到800亿元人民币（约120亿美元），大幅超过公司此前约500亿元人民币的融资目标。\n\n知情人士透露，腾讯控股和宁德时代（CATL）已承诺投入本轮融资中的较大金额，相关融资交易预计即将完成。由于Dee...",
-      "highlights": [
-        "PANewsPANews",
-        "# DeepSeek融资规模或达120亿美元，腾讯与宁德时代拟参投",
-        "PANews 10月6日消息，据彭博社报道，AI公司DeepSeek接近完成新一轮融资，规模预计至少达到800亿元人民币（约120亿美元），大幅超过公司此前约500亿元人民币的融资目标"
-      ],
-      "url": "https://tw.tradingview.com/news/panews:cad48f536acdf:0",
-      "source": "tw.tradingview.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-05T14:00:00Z"
-    },
-    {
-      "id": "1996922c6cb6",
-      "title": "AI 改变科技行业，软件风光不再，硬件开始赚稀缺的钱_搜狐网",
-      "summary": "于是自研芯片开始划算。Google 做 TPU，Amazon 做 Trainium 和 Inferentia，Meta、微软也都进芯片设计。\n\nCustom Silicon 是目前数据中心计算芯片里增长最快的品类，ASIC 正在抢走英伟达 GPU 的份额。一家一年只买 1 万颗芯片，自研大概率不划算；一年要买 100 万颗，而且每颗供应商都有很高毛利，自己做就可能省下巨额成本。B商用 GPU 毛利...",
-      "highlights": [
-        "Google 做 TPU，Amazon 做 Trainium 和 Inferentia，Meta、微软也都进芯片设计",
-        "Custom Silicon 是目前数据中心计算芯片里增长最快的品类，ASIC 正在抢走英伟达 GPU 的份额",
-        "一家一年只买 1 万颗芯片，自研大概率不划算；一年要买 100 万颗，而且每颗供应商都有很高毛利，自己做就可能省下巨额成本"
-      ],
-      "url": "https://m.sohu.com/a/1084413980_236796?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-06T11:02:51Z"
     }
   ]
 }
