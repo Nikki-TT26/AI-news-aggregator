@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-06T21:56:07Z",
+  "updatedAt": "2026-10-07T02:51:00Z",
   "latest": [
-    {
-      "id": "c24321e0724c",
-      "title": "一起呼吁“AI减速”？OpenAI取消最新模型发布，Anthropic却“两连发”！",
-      "summary": "OpenAI决定放弃发布新模型之际，人工智能行业正面临着对高级模型安全性日益加剧的担忧。本月初，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）在一篇文章中敦促各AI实验室放慢模型开发速度，因为人们担心这些模型正在失控。\n\nOpenAI安全系统负责人Saachi Jain在一份声明中表示：“我们当然希望确保模型开发的安全性，无论是在公司内部还是交付给用户时。但当我们将模型交...",
-      "highlights": [
-        "OpenAI决定放弃发布新模型之际，人工智能行业正面临着对高级模型安全性日益加剧的担忧",
-        "本月初，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）在一篇文章中敦促各AI实验室放慢模型开发速度，因为人们担心这些模型正在失控",
-        "OpenAI安全系统负责人Saachi Jain在一份声明中表示：“我们当然希望确保模型开发的安全性，无论是在公司内部还是交付给用户时"
-      ],
-      "url": "https://www.cls.cn/detail/2494709",
-      "source": "cls.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-05T00:00:00Z"
-    },
     {
       "id": "890e83a79266",
       "title": "刚刚，Hinton发了首篇RSI论文 – 量子位",
@@ -268,21 +253,6 @@
       "publishedAt": "2026-10-06T09:23:59Z"
     },
     {
-      "id": "ae418a9f0730",
-      "title": "有公司专注高仿真视频生成-极光出行有限公司",
-      "summary": "在大脑一侧，海外销售、这些岗位的出现共同指向一个信号：仿生人形机器人正在从Demo时代，高学历、商业导购等更具落地性的场景。历经一轮大规模扩张之后，再到“修得好”的完整链条。有的侧重自动驾驶，他们很清楚，\n\n当前，\n\n这是一个有意思的信号。直播、2026年是机器人行业全面拥抱场景、情感陪伴深水区所诞生的产物。布局灵巧手算法，从机器人产品经理到机器人涂妆师，出现了具身数据评估师、并面向社会公开招聘外...",
-      "highlights": [
-        "在大脑一侧，海外销售、这些岗位的出现共同指向一个信号：仿生人形机器人正在从Demo时代，高学历、商业导购等更具落地性的场景",
-        "历经一轮大规模扩张之后，再到“修得好”的完整链条",
-        "有的侧重自动驾驶，他们很清楚，"
-      ],
-      "url": "https://www.mbaogou.com/html/257b3499708.html",
-      "source": "mbaogou.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-05T01:00:00Z"
-    },
-    {
       "id": "3a9ee2ee6d0b",
       "title": "245 reactions · 35 shares | OPENAI AND ANTHROPIC EVERY SINGLE WEEK\n\nAt this point, the AI race doesn’t even look like a competition anymore.\n\nIt looks like two guys continuously lighting the next firework before the previous one has stopped exploding.\n\nOpenAI drops something.\n\nAnthropic responds.\n\nA new model launches.\n\nAnother benchmark gets beaten.\n\nSomeone gets banned.\n\nAnother AI feature appears.\n\nAnd before everyone has finished discussing it, there’s already another announcement.\n\nThe rivalry between OpenAI and Anthropic has become one of the fastest-moving battles in technology, with both companies competing across frontier AI models, coding agents, reasoning, enterprise tools and autonomous AI systems.\n\nAnd the funniest part?\n\nThis video somehow captures the entire AI industry without saying a single word.\n\nOpenAI and Claude every single week:\n\n“Light another one.”\n\ncredit: k1rallik \n\n#openai #anthropic #claude #artificialintelligence #ai\n\n{openai, anthropic, claude, chatgpt, sam altman, dario amodei, openai vs anthropic, claude ai, ai rivalry, ai model race, artificial intelligence, generative ai, ai models, frontier ai, ai agents, coding agents, ai coding, chatgpt vs claude, ai competition, ai news, tech news, silicon valley, ai startups, future of ai, machine learning, llm, large language models, ai meme, tech meme, ai industry} | Askgpts",
       "summary": "YOUTUBERS WANT TO BECOME CODERS. CODERS WANT TO BECOME YOUTUBERS. PewDiePie’s latest side quest might be his wildest one yet. After years of being one of the biggest creators on the internet, PewDiePi...",
@@ -294,6 +264,50 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-10-06T21:56:07Z"
+    },
+    {
+      "id": "501c6ffd5057",
+      "title": "AI算力初创公司Lambda拟在IPO前最后一轮融资中筹集40亿美元",
+      "summary": "据知情人士透露，英伟达支持的云计算公司Lambda正在进行其计划首次公开募股（IPO）前的最后一轮融资，拟筹集最多40亿美元。新一轮融资对Lambda的估值为145亿美元，",
+      "highlights": [
+        "据知情人士透露，英伟达支持的云计算公司Lambda正在进行其计划首次公开募股（IPO）前的最后一轮融资，拟筹集最多40亿美元",
+        "新一轮融资对Lambda的估值为145亿美元，"
+      ],
+      "url": "https://36kr.com/newsflashes/4015161463361412",
+      "source": "36kr.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-07T01:00:00Z"
+    },
+    {
+      "id": "0df881b2ead2",
+      "title": "【IPO追踪】无问芯穹被传秘密递表港交所，AI算力中间层独角兽冲刺港股",
+      "summary": "logo\n\n 资鲸课堂\n 资鲸直播\n 资鲸投研\n 基金从业\n 商学院\n\n 人才猎聘\n 政府园区\n 我要投稿\n\n 行业峰会\n\n媒体服务\n\n 寻求报道\n 寻求融资\n 我要入驻\n\n \n\n  \n\n  扫码下载\n\n + 用户中心\n  + 退出登录\n\n资讯\n\n{{item.name}}\n\n{{option.name}}\n\n快讯\n\n7×24h快讯\n\n知识服务\n\n资鲸课堂\n\n资鲸直播\n\n资鲸投研\n\n基金从业\n\n商...",
+      "highlights": [
+        "{{item.name}}",
+        "{{option.name}}",
+        "# {{detailinfo.title}}"
+      ],
+      "url": "http://www.capwhale.com/newsfile/details/20261006/b374345e4fdd4c8dbdaf5fd5cb5392a0.shtml",
+      "source": "capwhale.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-06T11:00:00Z"
+    },
+    {
+      "id": "36041d050dad",
+      "title": "Under oath, Google confirms three AI agent test escapes as OpenAI, Anthropic and Meta face NYC lawmakers",
+      "summary": "Graham said Anthropic had kept a model out of general release this year: In April, Anthropic restricted Claude Mythos Preview to partners in Project Glasswing, a program for organizations that maintai...",
+      "highlights": [
+        "Graham said Anthropic had kept a model out of general release this year: In April, Anthropic restricted Claude Mythos Preview to partners in Project Glasswing, a program for organizations that maintain critical software, rather than releasing it publicly. “We don’t think the labs should be checking their own homework. Not only this, but we have demonstrably withheld models when we felt it was not safe to widely release.”",
+        "## Who should test the models? [...] #### Related Articles Read More >",
+        "##### What AI-assisted engineering taught us about team design"
+      ],
+      "url": "https://www.rdworldonline.com/under-oath-google-confirms-three-ai-agent-test-escapes-as-openai-anthropic-and-meta-face-nyc-lawmakers",
+      "source": "rdworldonline.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-06T22:10:31Z"
     },
     {
       "id": "475d53755606",
@@ -415,366 +429,35 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-10-05T16:30:51Z"
-    },
-    {
-      "id": "8649e164977a",
-      "title": "Etched fields funding offers at $40B+ valuation, sources say - techcrunch.com",
-      "summary": "Although it’s only been a couple of months since Etched raised $700 million at a $21 billion valuation, the AI chip startup is already being plied with investment offers at double or more its value, a...",
-      "highlights": [
-        "Although it’s only been a couple of months since Etched raised $700 million at a $21 billion valuation, the AI chip startup is already being plied with investment offers at double or more its value, according to people familiar with the company. Etched is reviewing incoming bids that range from $40 billion from top-tier investors to $50 billion from lesser-known backers, one person said. Etched said in July that it had already secured $1 billion in customer orders, including the one from Jane Street, after manufacturing its test chip at a TSMC factory this summer. The startup has also impressed investors with its ability to attract engineers from Nvidia, with roughly 15% of Etched’s 400-person workforce having previously worked at the chip giant, according to the Wall Street Journal. The startup announced a $300 million round at a $10.3 billion led by Sequoia in July. It announced the $700 million round at a $21 billion valuation in September."
-      ],
-      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
-      "source": "techcrunch.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-10-05T20:24:09Z"
     }
   ],
   "today": [
     {
-      "id": "1996922c6cb6",
-      "title": "AI 改变科技行业，软件风光不再，硬件开始赚稀缺的钱_搜狐网",
-      "summary": "于是自研芯片开始划算。Google 做 TPU，Amazon 做 Trainium 和 Inferentia，Meta、微软也都进芯片设计。\n\nCustom Silicon 是目前数据中心计算芯片里增长最快的品类，ASIC 正在抢走英伟达 GPU 的份额。一家一年只买 1 万颗芯片，自研大概率不划算；一年要买 100 万颗，而且每颗供应商都有很高毛利，自己做就可能省下巨额成本。B商用 GPU 毛利...",
+      "id": "501c6ffd5057",
+      "title": "AI算力初创公司Lambda拟在IPO前最后一轮融资中筹集40亿美元",
+      "summary": "据知情人士透露，英伟达支持的云计算公司Lambda正在进行其计划首次公开募股（IPO）前的最后一轮融资，拟筹集最多40亿美元。新一轮融资对Lambda的估值为145亿美元，",
       "highlights": [
-        "Google 做 TPU，Amazon 做 Trainium 和 Inferentia，Meta、微软也都进芯片设计",
-        "Custom Silicon 是目前数据中心计算芯片里增长最快的品类，ASIC 正在抢走英伟达 GPU 的份额",
-        "一家一年只买 1 万颗芯片，自研大概率不划算；一年要买 100 万颗，而且每颗供应商都有很高毛利，自己做就可能省下巨额成本"
+        "据知情人士透露，英伟达支持的云计算公司Lambda正在进行其计划首次公开募股（IPO）前的最后一轮融资，拟筹集最多40亿美元",
+        "新一轮融资对Lambda的估值为145亿美元，"
       ],
-      "url": "https://m.sohu.com/a/1084413980_236796?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-06T11:02:51Z"
-    },
-    {
-      "id": "1aa9ba42802d",
-      "title": "《经济学人》说“极速兴奋”资本主义时代已经来临，是福还是祸？_搜狐网",
-      "summary": "问题也就来了：这是美国下一轮生产率革命的起点，还是一场正在被资本市场不断放大的超级冒险？\n\n一、从科技股到数据中心，美国资本正在疯狂押注AI。\n\n先看看今天的美国资本市场有多“快”。\n\n过去一年，美国出现了大量历史级别的融资和交易。\n\nSpaceX准备登陆公开市场，OpenAI获得巨额私人融资，亚马逊等科技巨头大规模发行债券， 英伟达实施创纪录的股票回购，私募股权基金继续推动大型杠杆收购。\n\n与此...",
-      "highlights": [
-        "问题也就来了：这是美国下一轮生产率革命的起点，还是一场正在被资本市场不断放大的超级冒险",
-        "一、从科技股到数据中心，美国资本正在疯狂押注AI",
-        "先看看今天的美国资本市场有多“快”"
-      ],
-      "url": "https://m.sohu.com/a/1084384352_121948396?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
+      "url": "https://36kr.com/newsflashes/4015161463361412",
+      "source": "36kr.com",
       "category": "投并购",
       "importance": 5,
-      "publishedAt": "2026-10-06T09:25:07Z"
+      "publishedAt": "2026-10-07T01:00:00Z"
     },
     {
-      "id": "07dfd47641fa",
-      "title": "Can Google's AI Chip Beat Nvidia? : r/GoogleGeminiAI",
-      "summary": "All anthropic models are primarily trained on TPUs. TPU is a better architecture for training because you don't have the same limits on networking. More",
+      "id": "286f646e9fa3",
+      "title": "Bellevue firm Temporal acquires AI cybersecurity startup after latest funding round",
+      "summary": "Bellevue-based app development startup Temporal on Tuesday announced it has acquired Oso, a New York City-based cybersecurity startup.",
       "highlights": [
-        "All anthropic models are primarily trained on TPUs. TPU is a better architecture for training because you don't have the same limits on networking. More"
+        "Bellevue-based app development startup Temporal on Tuesday announced it has acquired Oso, a New York City-based cybersecurity startup."
       ],
-      "url": "https://www.reddit.com/r/GoogleGeminiAI/comments/1wwr25l/can_googles_ai_chip_beat_nvidia",
-      "source": "reddit.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-06T12:17:19Z"
-    },
-    {
-      "id": "f63d08b2673e",
-      "title": "AI芯片“黑马”Cerebras上市大涨51%,市值达4000亿元:背靠OpenAI,挑战英伟达,主打“史上最大”计算机芯片",
-      "summary": "英伟达B200芯片则配备了192GB的内存.大模型的上下文长度完... OpenAI承诺购买750MW AI推理算力,还有选择权,可额外购买1....",
-      "highlights": [
-        "英伟达B200芯片则配备了192GB的内存.大模型的上下文长度完... OpenAI承诺购买750MW AI推理算力,还有选择权,可额外购买1...."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MYf0ighEh65E3oCC44TBNoOQSL5SBJ81qXa8Fplpd9GcM2Cy_pJk_NyA6xUJPxHTtan2a6kYbsVzhqtZ1tUEb7oA0HvK0ap8EGLm8K8baUG3wGbgKKDTtgMPc5H_do6l6ee4WP7X0N_eh09Iz7IskiFBiS52CqnrGjGXZd5Iel40UOtHI1SH05RG-diyVagy_ytqC0jPybqRsJ5xgZlokC2Qmj7RgGwQ..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=D33EE50C4815ADDFCBCC97E030BE52B3CB39B8DE6AC4E6C8",
-      "source": "微信公众号",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-06T04:37:53Z"
-    },
-    {
-      "id": "d5584052908a",
-      "title": "DeepSeek美国版大模型Beam发布：表现还不错 但碰瓷不了V4.1 Flash--快科技--科技改变未来",
-      "summary": "如果综合考虑到性能、价格等因素，DeepSeek V4.1 Flash是能满足大部分人90%的需求，而且性价比是其他大模型很难碰瓷的，这个护城河别说美国企业很难打破，国内的开源AI也没几个能跟V4.1 Flaash相比的。\n\n正因为此，Reflection公司在Beam大模型发布之后，对外强调的叙事风格也不走技术路线，CEO也在用西方世界的焦虑感来给自己树立形象，强调西方世界再不做（开源AI），那...",
-      "highlights": [
-        "如果综合考虑到性能、价格等因素，DeepSeek V4.1 Flash是能满足大部分人90%的需求，而且性价比是其他大模型很难碰瓷的，这个护城河别说美国企业很难打破，国内的开源AI也没几个能跟V4.1 Flaash相比的",
-        "正因为此，Reflection公司在Beam大模型发布之后，对外强调的叙事风格也不走技术路线，CEO也在用西方世界的焦虑感来给自己树立形象，强调西方世界再不做（开源AI），那全球AI就要由中国大模型来建了",
-        "【本文结束】如需转载请务必注明出处：快科技"
-      ],
-      "url": "https://m.mydrivers.com/newsview/1155501.html",
-      "source": "m.mydrivers.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-06T06:00:00Z"
-    },
-    {
-      "id": "09ad8e842a95",
-      "title": "AI大脑评测 阿里、中兴并列全球第3 | 中港台经济 | 财经 | 世界新闻网",
-      "summary": "专门面向中文大模型的模型测评媒体SuperCLUE近期发布最新具身（实体载体）大脑评测榜单，用来衡量各大AI模型做机器人「大脑」的实际水准。其中，阿里、中兴并列中国国内榜单第一名，全球第三；OpenAI的GPT-6 Astra则拿下全球第一。\n\n具身大脑指的是给机器人用的AI大脑。它不光要识别画面、读取语言，还得会规画动作，指挥机器人去抓取物品、移动导航，处理现实环境里各种突发状况。\n\n该测评基准...",
-      "highlights": [
-        "专门面向中文大模型的模型测评媒体SuperCLUE近期发布最新具身（实体载体）大脑评测榜单，用来衡量各大AI模型做机器人「大脑」的实际水准",
-        "其中，阿里、中兴并列中国国内榜单第一名，全球第三；OpenAI的GPT-6 Astra则拿下全球第一",
-        "具身大脑指的是给机器人用的AI大脑"
-      ],
-      "url": "https://www.worldjournal.com/wj/story/121347/9797466?from=wj_catelistnews&zh-cn=",
-      "source": "worldjournal.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-06T06:09:00Z"
-    },
-    {
-      "id": "b386f4b6bc18",
-      "title": "月之暗面完成IPO前最后一轮融资！最新估值约500亿美元，年内暴涨四倍_新浪财经_新浪网",
-      "summary": "值得注意的是，月之暗面2026年的估值增速极快，1至2月连续完成3轮融资，估值从100亿美元攀升至180亿美元；5月D轮融资后估值达200亿美元；6月E轮融资后投前估值升至315亿美元；7月F轮融资后达350亿美元。年内完成6轮融资，半年估值大涨。\n\n月之暗面融资的火爆，核心驱动来自旗舰大模型Kimi K3。今年7月，Kimi K3上线两天就被挤爆。Kimi K3发布后在硅谷引发轰动效应，上线仅3...",
-      "highlights": [
-        "值得注意的是，月之暗面2026年的估值增速极快，1至2月连续完成3轮融资，估值从100亿美元攀升至180亿美元；5月D轮融资后估值达200亿美元；6月E轮融资后投前估值升至315亿美元；7月F轮融资后达350亿美元",
-        "年内完成6轮融资，半年估值大涨",
-        "月之暗面融资的火爆，核心驱动来自旗舰大模型Kimi K3"
-      ],
-      "url": "https://finance.sina.com.cn/roll/2026-10-06/doc-iniuhpzh6985619.shtml",
-      "source": "finance.sina.com.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-06T09:23:59Z"
-    },
-    {
-      "id": "3a9ee2ee6d0b",
-      "title": "245 reactions · 35 shares | OPENAI AND ANTHROPIC EVERY SINGLE WEEK\n\nAt this point, the AI race doesn’t even look like a competition anymore.\n\nIt looks like two guys continuously lighting the next firework before the previous one has stopped exploding.\n\nOpenAI drops something.\n\nAnthropic responds.\n\nA new model launches.\n\nAnother benchmark gets beaten.\n\nSomeone gets banned.\n\nAnother AI feature appears.\n\nAnd before everyone has finished discussing it, there’s already another announcement.\n\nThe rivalry between OpenAI and Anthropic has become one of the fastest-moving battles in technology, with both companies competing across frontier AI models, coding agents, reasoning, enterprise tools and autonomous AI systems.\n\nAnd the funniest part?\n\nThis video somehow captures the entire AI industry without saying a single word.\n\nOpenAI and Claude every single week:\n\n“Light another one.”\n\ncredit: k1rallik \n\n#openai #anthropic #claude #artificialintelligence #ai\n\n{openai, anthropic, claude, chatgpt, sam altman, dario amodei, openai vs anthropic, claude ai, ai rivalry, ai model race, artificial intelligence, generative ai, ai models, frontier ai, ai agents, coding agents, ai coding, chatgpt vs claude, ai competition, ai news, tech news, silicon valley, ai startups, future of ai, machine learning, llm, large language models, ai meme, tech meme, ai industry} | Askgpts",
-      "summary": "YOUTUBERS WANT TO BECOME CODERS. CODERS WANT TO BECOME YOUTUBERS. PewDiePie’s latest side quest might be his wildest one yet. After years of being one of the biggest creators on the internet, PewDiePi...",
-      "highlights": [
-        "YOUTUBERS WANT TO BECOME CODERS. CODERS WANT TO BECOME YOUTUBERS. PewDiePie’s latest side quest might be his wildest one yet. After years of being one of the biggest creators on the internet, PewDiePie has now released Ajax, his own AI model built for his self-hosted AI ecosystem, Odysseus. Ajax is based on Qwen 3.5 9B and is designed around a completely different philosophy from typical cloud AI assistants: • Runs locally on your own hardware • Built for private, self-hosted AI workflows • Can [...] demand, AI data centers, HBM, DRAM, AI infrastructure, artificial intelligence, AI hardware, memory chips, data center boom, Claude, ChatGPT, AI race, semiconductor industry, PC hardware, AI generated video} [...] imagines their CEOs celebrating the AI infrastructure boom together. Obviously, they didn’t actually film this. The clip appears to be AI-generated or heavily manipulated. But the underlying joke captures a real shift: AI isn’t just competing for software users anymore. It’s reshaping demand for the hardware underneath the entire industry. Credit: Dauren Altynbek #openai #anthropic #samaltman #ai #technology {Sam Altman, Dario Amodei, OpenAI, Anthropic, RAM prices, AI memory demand, AI data"
-      ],
-      "url": "https://www.facebook.com/askgptss/posts/openai-and-anthropic-every-single-weekat-this-point-the-ai-race-doesnt-even-look/122156777001083258",
-      "source": "facebook.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-06T21:56:07Z"
-    },
-    {
-      "id": "c594821af835",
-      "title": "不er，咋陶哲轩也成AI减速派了？？ – 量子位",
-      "summary": "大模型 数学\n\n[林, 方舟](#)\n\n OpenAI「疯狂28天」首日，这都发了些啥啊…2026-10-06\n “AlphaGo”杀进足球场！自我对弈140年，机器人成“梅西终结者”2026-09-25\n OpenAI闯大祸！GPT竟黑进医保系统，黄仁勋：管不住就关掉2026-09-25\n 给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了2026-09-25\n\n### 相关阅读\n\n\n\n...",
-      "highlights": [
-        "OpenAI「疯狂28天」首日，这都发了些啥啊…2026-10-06",
-        "“AlphaGo”杀进足球场",
-        "自我对弈140年，机器人成“梅西终结者”2026-09-25"
-      ],
-      "url": "https://www.qbitai.com/2026/10/501736.html",
-      "source": "qbitai.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-06T07:00:00Z"
-    },
-    {
-      "id": "042dd4aba113",
-      "title": "Realtor.com®+™ Unveils RealAssist™ AI for Agents to Power a More Intelligent Workspace – Company Announcement - Financial Times",
-      "summary": "New agent AI layer in Realtor.com ®+™ automates client setup, surfaces daily client insights, and recommends next actions; part of a broader wave of updates as the platform expands to 192,000-plus age...",
-      "highlights": [
-        "New agent AI layer in Realtor.com ®+™ automates client setup, surfaces daily client insights, and recommends next actions; part of a broader wave of updates as the platform expands to 192,000-plus agents nationwide. AUSTIN, Texas , Oct. 6, 2026 /PRNewswire/ -- Realtor.com® today announced the launch of RealAssist™ AI in Realtor.com®+™, an AI-powered layer designed to set busy real estate professionals up for success by helping them work faster, stay ahead of client activity, and take action with more confidence, without losing time to manual busywork. RealAssist™ AI is designed to deepen that engagement by taking on the repetitive parts of an agent's day, helping them spend less time on manual tasks and more time serving clients. \"Realtor.com®+ is evolving into a more intelligent agent workspace that helps real estate professionals reduce manual work, respond faster to their clients, and stay in closer sync with buyer activity – and RealAssist™ AI is at the center of that shift,\" said Anna Marie Castiglioni, Head of Realtor.com® Next."
-      ],
-      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202610060600PR_NEWS_USPRX____LA64366-1",
-      "source": "markets.ft.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-06T10:00:00Z"
-    },
-    {
-      "id": "edc24d272f1b",
-      "title": "Realtor.com®+™ Unveils RealAssist™ AI for Agents to Power a More Intelligent Workspace - PR Newswire",
-      "summary": "# Realtor.com®+™ Unveils RealAssist™ AI for Agents to Power a More Intelligent Workspace. *New agent AI layer in* Realtor.com®+™ *automates client setup, surfaces daily client insights, and recommends...",
-      "highlights": [
-        "# Realtor.com®+™ Unveils RealAssist™ AI for Agents to Power a More Intelligent Workspace. *New agent AI layer in* Realtor.com®+™ *automates client setup, surfaces daily client insights, and recommends next actions; part of a broader wave of updates as the platform expands to 192,000-plus agents nationwide*. AUSTIN, Texas, Oct. 6, 2026 /PRNewswire/ -- Realtor.com® today announced the launch of RealAssist™ AI in Realtor.com®+™, an AI-powered layer designed to set busy real estate professionals up for success by helping them work faster, stay ahead of client activity, and take action with more confidence, without losing time to manual busywork. \"Realtor.com®+ is evolving into a more intelligent agent workspace that helps real estate professionals reduce manual work, respond faster to their clients, and stay in closer sync with buyer activity – and RealAssist™ AI is at the center of that shift,\" said Anna Marie Castiglioni, Head of Realtor.com® Next."
-      ],
-      "url": "https://www.prnewswire.com/news-releases/realtorcom-unveils-realassist-ai-for-agents-to-power-a-more-intelligent-workspace-302899179.html",
-      "source": "prnewswire.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-06T10:00:00Z"
-    },
-    {
-      "id": "bd9e64aaa3ca",
-      "title": "Realtor.com’s AI drafts client messages; agents approve each action - Stock Titan",
-      "summary": "4. Realtor.com®+™ Unveils RealAssist™ AI for Agents to Power a More Intelligent Workspace. Since its January 2026 debut, Realtor.com+ has reached up to **10% agent adoption in live markets**. The plat...",
-      "highlights": [
-        "4. Realtor.com®+™ Unveils RealAssist™ AI for Agents to Power a More Intelligent Workspace. Since its January 2026 debut, Realtor.com+ has reached up to **10% agent adoption in live markets**. The platform is live in 21 markets, with four more launching soon, serving more than 192,000 agents nationwide and spanning nearly 252,000 listings. Agent adoption: Up to 10% Markets live: 21 markets Agents served: More than 192,000 agents +2 more. *New agent AI layer in* Realtor.com®+™ *automates client setup, surfaces daily client insights, and recommends next actions; part of a broader wave of updates as the platform expands to 192,000-plus agents nationwide*. AUSTIN, Texas, Oct. 6, 2026 /PRNewswire/ -- Realtor.com® today announced the launch of RealAssist™ AI in Realtor.com®+™, an AI-powered layer designed to set busy real estate professionals up for success by helping them work faster, stay ahead of client activity, and take action with more confidence, without losing time to manual busywork."
-      ],
-      "url": "https://www.stocktitan.net/news/NWS/realtor-com-tm-unveils-real-assist-tm-ai-for-agents-to-power-a-more-u2rrtvzraxig.html",
-      "source": "stocktitan.net",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-06T10:00:00Z"
-    },
-    {
-      "id": "6161afcc0ff7",
-      "title": "Keysight Advances its Design Software with Agentic AI – Company Announcement - Financial Times",
-      "summary": "Engineers connect their AI agents to radio frequency tools for circuit generation, verification, and optimization. View the full release here: https://www.businesswire.com/news/home/20261006539221/en/...",
-      "highlights": [
-        "Engineers connect their AI agents to radio frequency tools for circuit generation, verification, and optimization. View the full release here: https://www.businesswire.com/news/home/20261006539221/en/. Keysight introduces agentic AI to its design software. More than 60% of organizations expect to deploy AI agents by 2028, yet radio frequency (RF) engineering has been slower to follow. Keysight Advanced Design System (ADS) 2027 addresses this by letting teams record workflows as macros their agents can learn from and convert graphical designs into code they can read. Model Context Protocol (MCP) servers connect agents to the software, guiding LLMs and agents in their interaction with ADS. The MCP servers provide the agent with documented skills and tools built by Keysight that execute specific RF work consistently, reducing variability caused by AI inference models generating answers statistically. The MCP servers, macro recording, and Python script generation are available now in ADS 2027 and RF Circuit Simulation Professional. Learn more at www.keysight.com. View source version on businesswire.com: https://www.businesswire.com/news/home/20261006539221/en/."
-      ],
-      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202610061100BIZWIRE_USPRX____20261006_BW539221-1",
-      "source": "markets.ft.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-06T15:00:00Z"
-    },
-    {
-      "id": "fa21d2fcae85",
-      "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps - Dark Reading",
-      "summary": "# Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps. The situation illustrates a trend toward using AI and deterministic validation to identify flaws and exploitability, and provide a risk a...",
-      "highlights": [
-        "# Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps. The situation illustrates a trend toward using AI and deterministic validation to identify flaws and exploitability, and provide a risk assessment. A Google internal AI agent has discovered more than 500 cross-site scripting (XXS) flaws on the company's own Web applications, by using a combination of AI and validation to provide an overview of vulnerabilities that can likely be exploited and thus should be addressed. PageBreak is an agent of Google's Product Security team that the company developed to test the security of its first-party Web applications and address any security challenges, the company quietly revealed in a blog post last month. The agent began in pilot form last November and moved to a full-fledged product in January, with a mission \"to autonomously scale vulnerability discovery while minimizing manual toil,\" Google information security engineer Michał Bentkowski wrote in the post."
-      ],
-      "url": "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps",
-      "source": "darkreading.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-06T18:05:54Z"
-    },
-    {
-      "id": "6d9f6756b71e",
-      "title": "Top Tech Execs From OpenAI, Anthropic, Google, Meta Testify Before NYC Council On AI Risks",
-      "summary": "# Top Tech Execs From OpenAI, Anthropic, Google, Meta Testify Before NYC Council On AI Risks\n## Channel: Forbes Breaking News (verified)\n5.61M subscribers\n\n### Description\nTop big tech executives from...",
-      "highlights": [
-        "# Top Tech Execs From OpenAI, Anthropic, Google, Meta Testify Before NYC Council On AI Risks",
-        "## Channel: Forbes Breaking News (verified)",
-        "5.61M subscribers"
-      ],
-      "url": "https://www.youtube.com/watch?v=ktEgjpKxb1E",
-      "source": "youtube.com",
-      "category": "行业话题",
-      "importance": 4,
-      "publishedAt": "2026-10-06T21:56:07Z"
-    },
-    {
-      "id": "eade1c298cd9",
-      "title": "Pacing the AI frontier won’t solve agentic cybersecurity’s most urgent problems - csoonline.com",
-      "summary": "# Pacing the AI frontier won’t solve agentic cybersecurity’s most urgent problems. The problem, however, is that while Amodei’s example may be fantastical, there is legitimate cause for alarm that is ...",
-      "highlights": [
-        "# Pacing the AI frontier won’t solve agentic cybersecurity’s most urgent problems. The problem, however, is that while Amodei’s example may be fantastical, there is legitimate cause for alarm that is being overshadowed by discourse about regulatory capture and questions about frontier labs’ commitment to responsible AI development. There are legitimate arguments for measured, coordinated development of AI technologies, but fewer explanations as to why frontier labs such as Anthropic would invite, and even welcome, the kind of greater regulatory scrutiny that would be a gift to competing companies and nation-states developing their own AI tech, such as China. President Trump dismissed Amodei’s calls for greater oversight as part of a “sick conspiracy” that would only benefit China, and claimed the United States already has “tremendous criminal and regulatory power over these companies.” Trump’s announcement came shortly after Chen Yixin, China’s state security minister, made an unusual public warning about the risks to China’s information infrastructure posed by frontier models and called for collaborative risk prevention frameworks and coordinated global governance of AI technologies."
-      ],
-      "url": "https://www.csoonline.com/article/4230811/pacing-the-ai-frontier-wont-solve-agentic-cybersecuritys-most-urgent-problems.html",
-      "source": "csoonline.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-06T00:00:00Z"
-    },
-    {
-      "id": "474d9e35d81f",
-      "title": "AI accelerates n-day attacks, as flaw disclosures and exploits double - csoonline.com",
-      "summary": "## AI is having a double impact in 2026, contributing to the rapid rise in vulnerability discovery and a concurrent surge in exploits crafted against known flaws. According to a report from Google’s T...",
-      "highlights": [
-        "## AI is having a double impact in 2026, contributing to the rapid rise in vulnerability discovery and a concurrent surge in exploits crafted against known flaws. According to a report from Google’s Threat Intelligence Group (GTIG), attackers have exploited more vulnerabilities in the wild thus far this year than they did all of last year. GTIG recorded 141 flaws exploited between January and August 2026, compared to 127 in all of 2025, with monthly vulnerability disclosures doubling over the period, from 5,045 in January to 10,740 in August. “It is possible that threat actors are finding it more accessible or efficient to use LLMs and AI tools to automate analysis of differences between product versions, patches, vulnerability disclosure announcements, and Proof-of-Concept (POC) code to rapidly weaponize n-days, rather than to discover new zero-days,” the GTIG researchers wrote in their report. This aligns as well with a surge in high-risk vulnerability disclosures as the year has progressed, from 131 in January to 350 in August."
-      ],
-      "url": "https://www.csoonline.com/article/4230247/ai-accelerates-n-day-attacks-as-flaw-disclosures-and-exploits-double.html",
-      "source": "csoonline.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-06T00:00:00Z"
-    },
-    {
-      "id": "1f556d5d7636",
-      "title": "Former Anthropic Researcher Issues AI Warning for 2027: ‘It’s Pretty Scary’ - Newsweek",
-      "summary": "Former Anthropic researcher Jacob Coxon said increasingly powerful AI models expected in 2027 are advancing so quickly that the outlook is \"pretty scary.\" During an appearance on The Daily Show on Mon...",
-      "highlights": [
-        "Former Anthropic researcher Jacob Coxon said increasingly powerful AI models expected in 2027 are advancing so quickly that the outlook is \"pretty scary.\" During an appearance on The Daily Show on Monday, Coxon, 28, warned that more capable systems, combined with emerging cybersecurity concerns, could create significant risks if AI continues to improve itself. Coxon Sounds Alarm Over Next-Generation AI While speaking with Daily Show host Jon Stewart, Coxon said he joined Anthropic \"out of curiosity\" after spending three years at OpenAI. However, he said that curiosity turned to “worry” following “two major catalysts.” \"The rate of capability improvement,” Coxon said, referring to one of the catalysts. What Anthropic Has Said About AI Safety Coxon's criticism is notable because Anthropic has long positioned itself as one of the industry's most safety-focused companies. Coxon Envisions a World With No Traditional Jobs While Coxon has repeatedly warned about catastrophic risks from advanced AI, he also said he believes the technology could ultimately create a future of abundance if it is developed safely."
-      ],
-      "url": "https://www.newsweek.com/former-anthropic-researcher-issues-ai-warning-for-2027-12528004",
-      "source": "newsweek.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-06T11:18:00Z"
-    },
-    {
-      "id": "114539767525",
-      "title": "DeepSeek to Raise at Least $12 Billion in Tencent-Backed Funding - Bloomberg.com",
-      "summary": "# DeepSeek to Raise at Least $12 Billion in Tencent-Backed Funding. * DeepSeek is close to securing at least 80 billion yuan in its latest round of funding, ahead of a landmark initial public offering...",
-      "highlights": [
-        "# DeepSeek to Raise at Least $12 Billion in Tencent-Backed Funding. * DeepSeek is close to securing at least 80 billion yuan in its latest round of funding, ahead of a landmark initial public offering in early 2027. * DeepSeek’s funding sets the stage for one of the most highly anticipated Chinese market debuts in years, after the successful release of its latest AI model, the V4 Flash. DeepSeek is close to securing at least 80 billion yuan ($12 billion) in its latest round of funding, blowing past its own capital-raising target ahead of a landmark initial public offering in early 2027. and WeChat-operator Tencent Holdings Ltd. have committed among the largest amounts in the current financing, which closes soon, people familiar with the matter said. DeepSeek initially sought about 50 billion yuan but interest outstripped expectations after the successful release of its latest AI model, the people said, asking not to be named as the details aren’t public."
-      ],
-      "url": "https://www.bloomberg.com/news/articles/2026-10-06/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding",
-      "source": "bloomberg.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-06T05:00:22Z"
-    },
-    {
-      "id": "463e2206ec98",
-      "title": "法国AI初创企业Mistral发布欧洲最强开源大模型Mistral Large 4",
-      "summary": "PANews 10月6日消息，据金融界报道，Mistral周二推出一款全新AI模型，该公司表示其跻身全球顶尖开源模型之列。 这家法国企业介绍，Mistral Large 4（简称ML4，",
-      "highlights": [
-        "PANews 10月6日消息，据金融界报道，Mistral周二推出一款全新AI模型，该公司表示其跻身全球顶尖开源模型之列",
-        "这家法国企业介绍，Mistral Large 4（简称ML4，"
-      ],
-      "url": "https://es.tradingview.com/news/panews:6f62cb0c6acdf:0",
-      "source": "es.tradingview.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-06T13:00:00Z"
-    },
-    {
-      "id": "da0d12f3fff0",
-      "title": "机房紧缺，资本反而开始“挑剔”数据中心？",
-      "summary": "9月数据中心领域：SBEnergy推迟IPO推介，云厂商客户预付款等安排分担风险，电力、融资等条件差异影响项目推进。",
-      "highlights": [
-        "9月数据中心领域：SBEnergy推迟IPO推介，云厂商客户预付款等安排分担风险，电力、融资等条件差异影响项目推进"
-      ],
-      "url": "https://news.pedaily.cn/202610/569856.shtml",
-      "source": "news.pedaily.cn",
-      "category": "投并购",
-      "importance": 3,
-      "publishedAt": "2026-10-06T07:00:00Z"
-    },
-    {
-      "id": "056a4b577181",
-      "title": "到2031年，AI助理市场价值将达到$267.5亿——MarketsandMarkets报告",
-      "summary": "佛罗里达州德尔雷比奇，2026年10月6日/美通社/——据MarketsandMarkets报告，人工智能助手市场预计将在预测期内以30.4%的年均复合增长率，从2026年的71.1亿美元增长",
-      "highlights": [
-        "佛罗里达州德尔雷比奇，2026年10月6日/美通社/——据MarketsandMarkets报告，人工智能助手市场预计将在预测期内以30.4%的年均复合增长率，从2026年的71.1亿美元增长"
-      ],
-      "url": "https://www.moomoo.com/hans/news/post/1000653430/ai-assistant-market-worth-26-75-billion-by-2031-report",
-      "source": "moomoo.com",
-      "category": "行业话题",
-      "importance": 2,
-      "publishedAt": "2026-10-06T13:00:00Z"
-    },
-    {
-      "id": "6cf6aedfc08c",
-      "title": "【AI+威脅】「AI教父」Geoffrey Hinton等22名學者警告：AI研發 ...",
-      "summary": "論文核心結 論直指：AI系統正快速接管AI研發流水線，一旦越過某 個臨界點，今天需要一年才能完成的AI進步，極端情況 下未來可能只需約5周。 Geoffrey Hinton：前沿研究人員",
-      "highlights": [
-        "論文核心結 論直指：AI系統正快速接管AI研發流水線，一旦越過某 個臨界點，今天需要一年才能完成的AI進步，極端情況 下未來可能只需約5周",
-        "Geoffrey Hinton：前沿研究人員"
-      ],
-      "url": "https://www.facebook.com/tzuchicommuity.xinzhu/videos/ai%E5%A8%81%E8%84%85ai%E6%95%99%E7%88%B6geoffrey-hinton%E7%AD%8922%E5%90%8D%E5%AD%B8%E8%80%85%E8%AD%A6%E5%91%8Aai%E7%A0%94%E7%99%BC%E8%87%AA%E5%8B%95%E5%8C%96%E6%81%90%E8%A7%B8%E7%99%BC%E6%99%BA%E8%83%BD%E7%88%86%E7%82%B8-%E4%B8%80%E5%B9%B4%E9%80%B2%E5%B1%95%E6%88%96%E7%B8%AE%E8%87%B35%E5%91%A8httpsinewshketcomarticle4/1104521868601566",
-      "source": "facebook.com",
-      "category": "前沿理论",
-      "importance": 2,
-      "publishedAt": "2026-10-06T21:56:07Z"
-    },
-    {
-      "id": "0f919bfc164b",
-      "title": "一位作者在 LessWrong 發表長文，借用 Gradual Disempowerment 論文的框架，主張前沿 AI 實驗室本身就是漸進式失權最好的案例。他請讀者想像告訴 2021 年的研究者，現在 AI 已在許多領域略勝人類，相關供應鏈市值達 10 到 20 兆美元，但超人 AI 的技術對齊、建造超級智慧的道德問題都進展有限，政府監管也零散不一。 實驗室打算維持能力進展的速度，對齊工作則交給 AI 自己做，人類檢查不完，沒被檢查的比例還在增加。作者說，這在 2021 年的研究者聽來，就像失去控制又覺得無所謂。 他以 Anthropic 為主要例子，從政治、文化、經濟三方面分析實驗室怎麼被建造技術的壓力一步步推著走。留下來做決策的是相信非做不可的人，模型越友善越容易讓人放下戒心，實驗室內部的論辯也一再偏向加速。他質疑，在缺乏可靠對齊方法時推出 Opus 5.5，對世界甚至對 Anthropic 員工自己到底有什麼好處。",
-      "summary": "Home\n\nNew thread\n\nSearch\n\nMessages\n\nActivity\n\nProfile\n\nInsights\n\nLog in\n\nMore\n\n# Thread\n\n210 views\n\nasgard_ai_platform's profile picture\n\nasgard\\_ai\\_platform\n\n一位作者在 LessWrong 發表長文，借用 Gradual Disempow...",
-      "highlights": [
-        "asgard_ai_platform's profile picture",
-        "asgard\\_ai\\_platform",
-        "一位作者在 LessWrong 發表長文，借用 Gradual Disempowerment 論文的框架，主張前沿 AI 實驗室本身就是漸進式失權最好的案例"
-      ],
-      "url": "https://www.threads.com/@asgard_ai_platform/post/DeAabUcn7t_/%E4%B8%80%E4%BD%8D%E4%BD%9C%E8%80%85%E5%9C%A8-lesswrong-%E7%99%BC%E8%A1%A8%E9%95%B7%E6%96%87%E5%80%9F%E7%94%A8-gradual-disempowerment-%E8%AB%96%E6%96%87%E7%9A%84%E6%A1%86%E6%9E%B6%E4%B8%BB%E5%BC%B5%E5%89%8D%E6%B2%BF-ai-%E5%AF%A6%E9%A9%97%E5%AE%A4%E6%9C%AC%E8%BA%AB%E5%B0%B1%E6%98%AF%E6%BC%B8%E9%80%B2%E5%BC%8F%E5%A4%B1%E6%AC%8A%E6%9C%80%E5%A5%BD%E7%9A%84%E6%A1%88%E4%BE%8B%E4%BB%96%E8%AB%8B%E8%AE%80%E8%80%85",
-      "source": "threads.com",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-10-06T21:56:07Z"
-    },
-    {
-      "id": "583c88af4965",
-      "title": "Crunchbase Data Shows AI’s Most Active Startups Are Becoming Serial Acquirers",
-      "summary": "Data: OpenAI Has Already Done Nearly As Many M&A Deals In 2026 As It Did All of Last Year\n Startups Are Still Acquiring Startups, Led By Ultra-High-Valuation Unicorns\n Your AI Strategy May Be Destroyi...",
-      "highlights": [
-        "Data: OpenAI Has Already Done Nearly As Many M&A Deals In 2026 As It Did All of Last Year",
-        "Startups Are Still Acquiring Startups, Led By Ultra-High-Valuation Unicorns",
-        "Your AI Strategy May Be Destroying Your Exit Value"
-      ],
-      "url": "https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai",
-      "source": "news.crunchbase.com",
+      "url": "https://www.bizjournals.com/seattle/news/2026/10/06/temporal-oso-acquisition-abbas-graham-neray.html",
+      "source": "bizjournals.com",
       "category": "投并购",
       "importance": 2,
-      "publishedAt": "2026-10-06T11:00:47Z"
+      "publishedAt": "2026-10-07T02:00:00Z"
     }
   ],
   "week": [
@@ -1002,19 +685,6 @@
   ],
   "month": [
     {
-      "id": "eca2dfe49abd",
-      "title": "AI content",
-      "summary": "AI got very practical last week. OpenAI launched Astra, Anthropic released Fable and Mythos 5.1, and Google introduced a new AI weather model. We also saw",
-      "highlights": [
-        "AI got very practical last week. OpenAI launched Astra, Anthropic released Fable and Mythos 5.1, and Google introduced a new AI weather model. We also saw"
-      ],
-      "url": "https://www.instagram.com/reel/DeCK9gnSXLZ",
-      "source": "instagram.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-04T20:32:03Z"
-    },
-    {
       "id": "c24321e0724c",
       "title": "一起呼吁“AI减速”？OpenAI取消最新模型发布，Anthropic却“两连发”！",
       "summary": "OpenAI决定放弃发布新模型之际，人工智能行业正面临着对高级模型安全性日益加剧的担忧。本月初，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）在一篇文章中敦促各AI实验室放慢模型开发速度，因为人们担心这些模型正在失控。\n\nOpenAI安全系统负责人Saachi Jain在一份声明中表示：“我们当然希望确保模型开发的安全性，无论是在公司内部还是交付给用户时。但当我们将模型交...",
@@ -1090,36 +760,6 @@
       "publishedAt": "2026-10-05T12:00:00Z"
     },
     {
-      "id": "f1fb5bd27a7c",
-      "title": "Yellow.com",
-      "summary": "币安于8月20日上线开发者平台Agent OS， 将ChatGPT、Claude Code、Cursor等AI开发工具与其行情数据、账户信息及交易执行系统打通。 用户可以为代理配置独立的子账户，子账户默认禁止提现。  \n 币安并未对代理在该子账户内的交易规模或最大亏损额设专门上限，用户转入的资金余额本身就构成天然“限额”。\n\nCoinbase则在6月11日推出“Coinbase for Agent...",
-      "highlights": [
-        "币安于8月20日上线开发者平台Agent OS， 将ChatGPT、Claude Code、Cursor等AI开发工具与其行情数据、账户信息及交易执行系统打通",
-        "用户可以为代理配置独立的子账户，子账户默认禁止提现",
-        "币安并未对代理在该子账户内的交易规模或最大亏损额设专门上限，用户转入的资金余额本身就构成天然“限额”"
-      ],
-      "url": "https://yellow.com/zh/news/robinhood%E3%80%81%E5%B8%81%E5%AE%89%E4%B8%8Ecoinbase%E5%BC%80%E6%94%BE%E7%94%B1ai%E4%BB%A3%E7%90%86%E4%B8%8B%E5%8D%95%EF%BC%9A%E6%8A%95%E8%B5%84%E8%80%85%E9%9C%80%E7%9F%A5%E7%9A%84%E5%85%B3%E9%94%AE%E4%BF%A1%E6%81%AF",
-      "source": "yellow.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-04T17:45:09Z"
-    },
-    {
-      "id": "dd42341a2f1d",
-      "title": "Open-weight models are the greatest threat to Anthropic and OpenAI : r/LocalLLM",
-      "summary": "Google publicly backs open-weight AI models. Is the industry moving toward more open AI?Image 51 r/LocalLLM•2mo ago    ### Google publicly backs open-weight AI models. Is the industry moving toward mo...",
-      "highlights": [
-        "Google publicly backs open-weight AI models. Is the industry moving toward more open AI?Image 51 r/LocalLLM•2mo ago    ### Google publicly backs open-weight AI models. Is the industry moving toward more open AI?    78 upvotes ·24 comments",
-        "Has anyone else noticed OpenAI models becoming much more stable lately?Image 52 r/OpenAI•2mo ago    ### Has anyone else noticed OpenAI models becoming much more stable lately?    8 comments [...] •20h ago",
-        "> Businesses will buy dedicated Nvidia server hardware to power their internal tools and dev teams on-premise"
-      ],
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1wxksoi/openweight_models_are_the_greatest_threat_to",
-      "source": "reddit.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-04T18:00:00Z"
-    },
-    {
       "id": "bdba098fc5e4",
       "title": "奥特曼称Cerebras为“紧密合作伙伴”，该芯片企业股价盘前上涨6%_新浪财经_新浪网",
       "summary": "Cerebras 是英伟达的竞争对手，销售大型芯片与 AI 算力系统，产品设计目标是比传统 GPU 更快运行 AI 大模型。该公司宣称其旗舰产品晶圆级引擎 3（Wafer Scale Engine 3）性能优于英伟达 GPU。\n\n　　今年 1 月，Cerebras 与 OpenAI 达成协议，将在 2028 年前向后者提供 750 兆瓦算力。\n\n　　花旗分析师表示，对 Cerebras 2026‑...",
@@ -1148,6 +788,51 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-10-05T12:00:00Z"
+    },
+    {
+      "id": "3478da7b2048",
+      "title": "推理支出2026年首超训练：\"Token工厂\"崛起 AI基础设施投资逻辑生变｜深度",
+      "summary": "Token（词元）价值怎么算？据中国信通院发布《词元（Token）经济发展研究报告（2026年）》，不同应用场景的词元价值密度差异巨大，消费级场景属于流量消耗型，价值密度较低，典型如闲聊、娱乐问答等，仅需基础交互能力，价格约0.01美元/百万词元。产业级场景价值密度较高，典型如药物研发、金融量化、精密代码生成等，价值可达1000美元/百万词元，是词元经济的价值高地。\n\nToken出海≠模型出海：流...",
+      "highlights": [
+        "Token（词元）价值怎么算",
+        "据中国信通院发布《词元（Token）经济发展研究报告（2026年）》，不同应用场景的词元价值密度差异巨大，消费级场景属于流量消耗型，价值密度较低，典型如闲聊、娱乐问答等，仅需基础交互能力，价格约0.01美元/百万词元",
+        "产业级场景价值密度较高，典型如药物研发、金融量化、精密代码生成等，价值可达1000美元/百万词元，是词元经济的价值高地"
+      ],
+      "url": "https://www.cls.cn/detail/2497741",
+      "source": "cls.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-05T12:00:00Z"
+    },
+    {
+      "id": "f63aadec557a",
+      "title": "DeepSeek融资规模或达120亿美元，腾讯与宁德时代拟参投 — TradingView新聞",
+      "summary": "PANewsPANews\n\n# DeepSeek融资规模或达120亿美元，腾讯与宁德时代拟参投\n\nPANews 10月6日消息，据彭博社报道，AI公司DeepSeek接近完成新一轮融资，规模预计至少达到800亿元人民币（约120亿美元），大幅超过公司此前约500亿元人民币的融资目标。\n\n知情人士透露，腾讯控股和宁德时代（CATL）已承诺投入本轮融资中的较大金额，相关融资交易预计即将完成。由于Dee...",
+      "highlights": [
+        "PANewsPANews",
+        "# DeepSeek融资规模或达120亿美元，腾讯与宁德时代拟参投",
+        "PANews 10月6日消息，据彭博社报道，AI公司DeepSeek接近完成新一轮融资，规模预计至少达到800亿元人民币（约120亿美元），大幅超过公司此前约500亿元人民币的融资目标"
+      ],
+      "url": "https://tw.tradingview.com/news/panews:cad48f536acdf:0",
+      "source": "tw.tradingview.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-05T14:00:00Z"
+    },
+    {
+      "id": "1996922c6cb6",
+      "title": "AI 改变科技行业，软件风光不再，硬件开始赚稀缺的钱_搜狐网",
+      "summary": "于是自研芯片开始划算。Google 做 TPU，Amazon 做 Trainium 和 Inferentia，Meta、微软也都进芯片设计。\n\nCustom Silicon 是目前数据中心计算芯片里增长最快的品类，ASIC 正在抢走英伟达 GPU 的份额。一家一年只买 1 万颗芯片，自研大概率不划算；一年要买 100 万颗，而且每颗供应商都有很高毛利，自己做就可能省下巨额成本。B商用 GPU 毛利...",
+      "highlights": [
+        "Google 做 TPU，Amazon 做 Trainium 和 Inferentia，Meta、微软也都进芯片设计",
+        "Custom Silicon 是目前数据中心计算芯片里增长最快的品类，ASIC 正在抢走英伟达 GPU 的份额",
+        "一家一年只买 1 万颗芯片，自研大概率不划算；一年要买 100 万颗，而且每颗供应商都有很高毛利，自己做就可能省下巨额成本"
+      ],
+      "url": "https://m.sohu.com/a/1084413980_236796?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-06T11:02:51Z"
     }
   ]
 }
