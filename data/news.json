@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T21:07:21Z",
+  "updatedAt": "2026-10-12T02:47:37Z",
   "latest": [
     {
       "id": "8801782fd481",
@@ -58,21 +58,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-10-10T13:00:00Z"
-    },
-    {
-      "id": "2ca52a91f9d4",
-      "title": "当AI开始造AI：递归自我改进的2026年-36氪",
-      "summary": "在 Burtsev 的模拟中，个体都没达到临界、但彼此大量互相借鉴的「开放生态」，从 AGI 到 ASI 的过渡时间反而最短。换句话说，递归回路未必只存在于某一栋楼里。当一家实验室的 harness 技巧、推理优化和训练配方以开源形式迅速扩散，整个行业本身就可能构成一个更大的「自我改进系统」。当然，论文作者也强调，这些模拟只是用来区分机制的条件推演，而不是概率预测。\n\n对失控可能性的担忧，最终在 ...",
-      "highlights": [
-        "在 Burtsev 的模拟中，个体都没达到临界、但彼此大量互相借鉴的「开放生态」，从 AGI 到 ASI 的过渡时间反而最短",
-        "换句话说，递归回路未必只存在于某一栋楼里",
-        "当一家实验室的 harness 技巧、推理优化和训练配方以开源形式迅速扩散，整个行业本身就可能构成一个更大的「自我改进系统」"
-      ],
-      "url": "http://www.36kr.com/p/4019262571663237",
-      "source": "36kr.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-10T01:00:34Z"
     },
     {
       "id": "f599bd2ae52b",
@@ -194,30 +179,64 @@
       "publishedAt": "2026-10-10T08:12:00Z"
     },
     {
-      "id": "1d266c1a1f4f",
-      "title": "When AI Builds AI: 2026 Breakthroughs in Recursive Self-Improvement Technology - 36Kr",
-      "summary": "# When AI Starts Building AI: The Year 2026 of Recursive Self-Improvement. In March this year, Andrej Karpathy open-sourced a small project called autoresearch on GitHub. The README opens with a remin...",
+      "id": "bb228fd8dbc3",
+      "title": "亚马逊拟70亿美元收购AI初创公司Decart，Anthropic此前曾考虑竞购",
+      "summary": "Decart总部位于旧金山，核心技术之一是帮助开发者在不同AI芯片之间切换的软件工具。随着AI企业争相获取算力资源，芯片供应和计算成本成为影响模型开发与部署的重要因素。能够适配不同芯片的软件，有助于开发者减少对单一硬件平台的依赖，也为企业灵活安排算力资源提供更多选择。\n\n此次潜在收购与亚马逊发展自研AI芯片的战略密切相关，亚马逊云科技（AWS）正在推进自研Trainium系列芯片，以降低AI计算成...",
       "highlights": [
-        "# When AI Starts Building AI: The Year 2026 of Recursive Self-Improvement. In March this year, Andrej Karpathy open-sourced a small project called autoresearch on GitHub. The README opens with a reminiscence \"from the future\": Cutting-edge AI research used to be done by \"meat-made computers\" that needed to eat, sleep, and occasionally sync up progress in a ritual called \"group meeting\" via \"sonic interconnection\". In June, Anthropic published a long article titled **When AI Builds Itself**; on September 6, OpenAI announced that its \"Automated Research Intern\" had taken up the post as scheduled; on September 17, Anthropic disclosed that Claude had \"led\" 26% of the company's R&D work. On the same day, Zhipu publicly released the first domestic large model practice of \"AI improving its own system\" that has been put into production in China. These news all point to a term that has been dormant in the AI circle for 60 years: **Recursive Self-Improvement (RSI)**."
+        "Decart总部位于旧金山，核心技术之一是帮助开发者在不同AI芯片之间切换的软件工具",
+        "随着AI企业争相获取算力资源，芯片供应和计算成本成为影响模型开发与部署的重要因素",
+        "能够适配不同芯片的软件，有助于开发者减少对单一硬件平台的依赖，也为企业灵活安排算力资源提供更多选择"
       ],
-      "url": "https://eu.36kr.com/en/p/4019262571663237",
-      "source": "eu.36kr.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-10T00:15:16Z"
+      "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262210567-amazon-talks-acquire-ai-startup-decart-tradingkey",
+      "source": "tradingkey.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-11T10:00:00Z"
     },
     {
-      "id": "805ca58b8bcb",
-      "title": "An NYU professor says OpenAI's mass release of math papers wiped out early-career researchers' projects - Business Insider Africa",
-      "summary": "* OpenAI solved over 700 math problems and released the data on GitHub earlier this week. * An NYU math professor said the release wiped out early-career research programs. * Mathematicians raised que...",
+      "id": "e6669191f6f9",
+      "title": "AI，突发利空！重磅IPO，紧急取消！_新浪财经_新浪网",
+      "summary": "Blackwattle Investment Partners投资组合经理Joseph Koh表示，Firmus估值跳升令投资者警惕——公司仅有两座数据中心在运营，且没有建设AI数据中心的过往记录。“他们为一个假定近乎完美执行才能实现的未来，开出了极高价码。”他研究过该IPO，但没有申购，并认为市场现阶段还不愿下这样的重注。\n\n　　为IPO联席主承销商工作的分析师称，这家成立于2019年的公司负债...",
       "highlights": [
-        "* OpenAI solved over 700 math problems and released the data on GitHub earlier this week. * An NYU math professor said the release wiped out early-career research programs. * Mathematicians raised questions over whether their unpublished data had been used to train AI. Tristan Buckmaster, a mathematics professor at New York University, told CNBC's \"Squawk Box\" on Thursday that the companys release had upended work by early-career mathematicians. So we've had whole research programs wiped out on Tuesday by their dump, Buckmaster said. OpenAI released over 700 mathematical manuscripts on GitHub on Tuesday, describing them in an announcement as the results of an internal frontier model. Bryna Kra, a mathematics professor at Northwestern University, told Business Insider that AI could advance research, but she warned that releasing so much work at once could undermine the collaborative culture that helped make those advances possible. Buckmaster also raised concerns about whether unpublished work submitted to AI tools could have contributed to OpenAI'smath results."
+        "Blackwattle Investment Partners投资组合经理Joseph Koh表示，Firmus估值跳升令投资者警惕——公司仅有两座数据中心在运营，且没有建设AI数据中心的过往记录",
+        "“他们为一个假定近乎完美执行才能实现的未来，开出了极高价码",
+        "”他研究过该IPO，但没有申购，并认为市场现阶段还不愿下这样的重注"
       ],
-      "url": "https://africa.businessinsider.com/careers/an-nyu-professor-says-openais-mass-release-of-math-papers-wiped-out-early-career/vn9ffl3",
-      "source": "africa.businessinsider.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-10T00:16:30Z"
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-10-10/doc-iniutyyz2035912.shtml?cre=tianyi&mod=pchp&loc=1&r=0&rfunc=67&tj=cxvertical_pc_hp&tr=12",
+      "source": "finance.sina.com.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-10T13:21:48Z"
+    },
+    {
+      "id": "13e3bf71e09c",
+      "title": "投资界24h|字节跳动，诞生新王炸了；数学博士AI炒股，登上富豪榜；经纬开募70亿|文峰|融资|创投|丘成桐|知名企业_网易订阅",
+      "summary": "月之暗面增资至约1437万\n\n天眼查App显示，近日，北京月之暗面科技股份有限公司发生工商变更，注册资本由约1157.53万人民币增至约1437.23万人民币，增幅约24%。值得一提的是，今年以来，该公司已发生多次增资，注册资本从100万人民币增至约1437.23万人民币。（36氪）\n\n摩根大通计划未来五年欧洲管理资产规模翻倍至2万亿美元\n\n摩根大通资产管理公司公布了雄心勃勃的发展目标，计划在未来...",
+      "highlights": [
+        "月之暗面增资至约1437万",
+        "天眼查App显示，近日，北京月之暗面科技股份有限公司发生工商变更，注册资本由约1157.53万人民币增至约1437.23万人民币，增幅约24%",
+        "值得一提的是，今年以来，该公司已发生多次增资，注册资本从100万人民币增至约1437.23万人民币"
+      ],
+      "url": "https://www.163.com/dy/article/L91D7GO605198R3E.html",
+      "source": "163.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-12T00:40:14Z"
+    },
+    {
+      "id": "362e7131755e",
+      "title": "ChatGPT共同创造者Liam Fedus：突破数学瓶颈 AI下一步将进军科学实验室前沿",
+      "summary": "首页\n文章详情\n\n# ChatGPT共同创造者Liam Fedus：数学之后，AI该去实验室了\n\n机器之心2026-10-12 07:42\n\nAI 能刷 722 篇数学论文，却（还）造不出一块超导体\n\n前两天，OpenAI 在 GitHub 上一次性放出了 722 篇数学手稿（后面撤回了几篇），覆盖数论、几何、理论计算机科学、数学物理等 17 个领域，其中一部分附带了可由计算机机械检查的 Lean...",
+      "highlights": [
+        "# ChatGPT共同创造者Liam Fedus：数学之后，AI该去实验室了",
+        "机器之心2026-10-12 07:42",
+        "AI 能刷 722 篇数学论文，却（还）造不出一块超导体"
+      ],
+      "url": "https://eu.36kr.com/zh/p/4020983712272515",
+      "source": "eu.36kr.com",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-10-11T08:00:00Z"
     },
     {
       "id": "1083dc755716",
@@ -334,21 +353,6 @@
       "publishedAt": "2026-10-10T11:02:02Z"
     },
     {
-      "id": "ae0a26be5cb2",
-      "title": "The Desperate Hunt for AI Computing Power Is Upending Silicon Valley - WSJ",
-      "summary": "Less than two years later, he sent a note to one of his teams saying that Google had cut what was allocated to them in favor of another project. Shortly thereafter, Shazeer left for rival OpenAI.\n\nCop...",
-      "highlights": [
-        "Less than two years later, he sent a note to one of his teams saying that Google had cut what was allocated to them in favor of another project. Shortly thereafter, Shazeer left for rival OpenAI.",
-        "Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8 [...] Google really wanted pioneering AI researcher Noam Shazeer back.",
-        "The longtime employee left to start his own company but in 2024, Google paid $2.7 billion for him to return to work on cutting-edge projects, including its most powerful AI technology, Gemini."
-      ],
-      "url": "https://www.wsj.com/tech/ai/ai-computing-power-demand-a63da9b9",
-      "source": "wsj.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-10T01:00:00Z"
-    },
-    {
       "id": "4c0219156aed",
       "title": "Nvidia Explores Deal Options With Reflection AI, Financial Times Says - Bloomberg",
       "summary": "# Nvidia in Talks to Buy or Deepen Role in Reflection AI, FT Says\n\nNvidia Corp. is in early-stage negotiations to acquire or further invest in startup Reflection AI, an American developer of open-weig...",
@@ -361,21 +365,6 @@
       "category": "芯片硬件",
       "importance": 4,
       "publishedAt": "2026-10-10T18:52:58Z"
-    },
-    {
-      "id": "c3c419e26274",
-      "title": "端侧智能体加速落地：MiTAC Agent Builder企业级AI助手部署研讨会走进贵阳 - 中国日报网",
-      "summary": "神通资讯科技股份有限公司林士桓在会上正式发布MiTAC Agent Builder企业AI一体机，立即成为全场瞩目的焦点。该产品基于AMD高性能算力平台深度优化，采用软硬一体化设计，支持自然语言驱动的自动化配置与多智能体协同调度，显著降低企业部署AI应用的门槛。其核心价值在于，让智能体真正融入企业业务流程，并转化为可长期积累的组织能力，切实做到“萃得出、守得住、做得到、管得住”。\n\n更为关键的是，...",
-      "highlights": [
-        "神通资讯科技股份有限公司林士桓在会上正式发布MiTAC Agent Builder企业AI一体机，立即成为全场瞩目的焦点",
-        "该产品基于AMD高性能算力平台深度优化，采用软硬一体化设计，支持自然语言驱动的自动化配置与多智能体协同调度，显著降低企业部署AI应用的门槛",
-        "其核心价值在于，让智能体真正融入企业业务流程，并转化为可长期积累的组织能力，切实做到“萃得出、守得住、做得到、管得住”"
-      ],
-      "url": "https://cn.chinadaily.com.cn/a/202610/10/WS6ac9f40be4b09a165c78ea30.html",
-      "source": "cn.chinadaily.com.cn",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-10T00:00:00Z"
     },
     {
       "id": "ca8fd8ae51c5",
@@ -391,433 +380,300 @@
       "publishedAt": "2026-10-10T11:02:02Z"
     },
     {
-      "id": "6ab397df3b2a",
-      "title": "有人將同一條問題問咗 7 個 AI，揀出嚟嘅「百年十大論文」差好遠🤔 問題：「過去一百年裏，對人類進步『影響最大』的十篇論文是哪些？」 測試模型：Opus 5.5、GPT-6.1 Sol、Gemini 3.8 Flash、DeepSeek、Qwen、GLM、豆包 結果👇 ✅ 7 個全部揀咗：青黴素、香農資訊論、DNA 雙螺旋 📌 7 份名單加埋涉及 20 個突破方向 ⚖️ 最大分歧係 AI 佔幾重：4 個揀 Transformer，2 個揀反向傳播，GPT-6.1 Sol 就冇俾 AI 位，改揀口服補液療法 基礎科學大家都揀，最後幾個位就睇你點定義「進步」 💡 問 AI 開放式問題，答案其實反映佢嘅取向，重要嘢問多兩個模型對照下先好信",
-      "summary": "2\n\n2\n\nLog in or sign up for ThreadsSee what people are talking about and join the conversation.\nLog in with username instead [...] Home\n\nNew thread\n\nSearch\n\nMessages\n\nActivity\n\nProfile\n\nInsights\n\nLog ...",
+      "id": "2eb81b0acda5",
+      "title": "英伟达英伟达(NVDA.US)拟以“收购式招聘”拿下Reflection AI",
+      "summary": "智通财经获悉，据知情人士透露，英伟达(NVDA.US)正就加深对开源初创公司Reflection AI 的投资或收购该公司进行谈判。 该报称，谈判尚处早期阶段，交易可能以多种形式",
       "highlights": [
-        "Log in or sign up for ThreadsSee what people are talking about and join the conversation.",
-        "Log in with username instead [...] Home",
-        "ai_guide_hk's profile picture"
+        "智通财经获悉，据知情人士透露，英伟达(NVDA.US)正就加深对开源初创公司Reflection AI 的投资或收购该公司进行谈判",
+        "该报称，谈判尚处早期阶段，交易可能以多种形式"
       ],
-      "url": "https://www.threads.com/@ai_guide_hk/post/DeO227LD4K1/%E6%9C%89%E4%BA%BA%E5%B0%87%E5%90%8C%E4%B8%80%E6%A2%9D%E5%95%8F%E9%A1%8C%E5%95%8F%E5%92%97-7-%E5%80%8B-ai%E6%8F%80%E5%87%BA%E5%9A%9F%E5%98%85%E7%99%BE%E5%B9%B4%E5%8D%81%E5%A4%A7%E8%AB%96%E6%96%87%E5%B7%AE%E5%A5%BD%E9%81%A0%E5%95%8F%E9%A1%8C%E9%81%8E%E5%8E%BB%E4%B8%80%E7%99%BE%E5%B9%B4%E8%A3%8F%E5%B0%8D%E4%BA%BA%E9%A1%9E%E9%80%B2%E6%AD%A5%E5%BD%B1%E9%9F%BF%E6%9C%80%E5%A4%A7%E7%9A%84%E5%8D%81%E7%AF%87%E8%AB%96%E6%96%87%E6%98%AF%E5%93%AA%E4%BA%9B%E6%B8%AC%E8%A9%A6%E6%A8%A1%E5%9E%8Bopus-55gpt-61-solgemi",
-      "source": "threads.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-11T02:23:26Z"
+      "url": "https://finance.jrj.com.cn/2026/10/12080558673596.shtml",
+      "source": "finance.jrj.com.cn",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-10-11T23:00:00Z"
     },
     {
-      "id": "9a5e47f00495",
-      "title": "Hyperscalers, data centers and chip companies are ...",
-      "summary": "Hyperscalers, data centers and chip companies are borrowing hundreds of billions of dollars to finance the AI buildout, turning the technology boom into one",
+      "id": "73363da59024",
+      "title": "小鹏集团当选联合国欧洲经济委员会自动驾驶新设工作组秘书长_搜狐网",
+      "summary": "2026巴黎车展即将开幕，据主办方信息，本届车展将举办“智驾实验室”公开体验活动，车展观众及媒体可申请参与。值得注意的是，本次活动仅有小鹏与特斯拉两家企业参与，两大智能辅助驾驶系统将在巴黎同台竞技。这也是小鹏NGP在欧洲的首次大规模公开体验，从德国、荷兰到法国，小鹏正通过不同市场的落地实践，持续验证公司研发的图灵AI智驾的全球泛化能力。\n\n小鹏集团有关负责人表示，未来，小鹏将继续推动AI汽车、高阶...",
       "highlights": [
-        "Hyperscalers, data centers and chip companies are borrowing hundreds of billions of dollars to finance the AI buildout, turning the technology boom into one"
+        "2026巴黎车展即将开幕，据主办方信息，本届车展将举办“智驾实验室”公开体验活动，车展观众及媒体可申请参与",
+        "值得注意的是，本次活动仅有小鹏与特斯拉两家企业参与，两大智能辅助驾驶系统将在巴黎同台竞技",
+        "这也是小鹏NGP在欧洲的首次大规模公开体验，从德国、荷兰到法国，小鹏正通过不同市场的落地实践，持续验证公司研发的图灵AI智驾的全球泛化能力"
       ],
-      "url": "https://www.facebook.com/bloombergbusiness/videos/hyperscalers-data-centers-and-chip-companies-are-borrowing-hundreds-of-billions-/2082646572376203",
+      "url": "https://m.sohu.com/a/1086080128_120988576?pvid=000115_3w_a&scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-10-10T19:37:50Z"
+    },
+    {
+      "id": "1b46df063489",
+      "title": "Lucy L. on X: \"想再聊聊自研芯片。二供再往前一步，其实就是 ...",
+      "summary": "以前芯片更多是支持主营业务的基础设施，性能和稳定性最重要，但现在AI 算力本身就在直接影响产品成本，芯片每便宜一点，最后都可能变成自己的利润。 Google、Meta、Amazon",
+      "highlights": [
+        "以前芯片更多是支持主营业务的基础设施，性能和稳定性最重要，但现在AI 算力本身就在直接影响产品成本，芯片每便宜一点，最后都可能变成自己的利润",
+        "Google、Meta、Amazon"
+      ],
+      "url": "https://x.com/LucyBuilding/status/2104578557121061314",
+      "source": "x.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-12T02:48:01Z"
+    },
+    {
+      "id": "401c123d5479",
+      "title": "🚨 AI 芯片市场被看到US$860B，但韩国今天点出了NVIDIA ...",
+      "summary": "AI 芯片市场被看到US$860B,但韩国今天点出了NVIDIA 最需要防的一件事. Training 用高端GPU。 大型Inference 用GPU / ASIC。 研AI Chip 的部署速度。",
+      "highlights": [
+        "AI 芯片市场被看到US$860B,但韩国今天点出了NVIDIA 最需要防的一件事. Training 用高端GPU",
+        "大型Inference 用GPU / ASIC",
+        "研AI Chip 的部署速度"
+      ],
+      "url": "https://www.facebook.com/iwealthnote/posts/-ai-%E8%8A%AF%E7%89%87%E5%B8%82%E5%9C%BA%E8%A2%AB%E7%9C%8B%E5%88%B0-us860b%E4%BD%86%E9%9F%A9%E5%9B%BD%E4%BB%8A%E5%A4%A9%E7%82%B9%E5%87%BA%E4%BA%86-nvidia-%E6%9C%80%E9%9C%80%E8%A6%81%E9%98%B2%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8Bai-%E4%BB%8E%E8%AE%AD%E7%BB%83%E8%B5%B0%E5%90%91%E6%8E%A8%E7%90%86%E5%90%8E%E5%AE%A2%E6%88%B7%E4%BC%9A%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%9C%A8%E6%84%8F%E7%94%B5%E8%B4%B9%E5%92%8C%E6%88%90%E6%9C%AC%E8%BF%87%E5%8E%BB%E4%B8%A4%E5%B9%B4%E8%AE%B2-ai-chip%E5%B8%82/1641462534435496",
       "source": "facebook.com",
       "category": "芯片硬件",
-      "importance": 3,
-      "publishedAt": "2026-10-11T02:23:26Z"
-    },
-    {
-      "id": "f675fe584c93",
-      "title": "AI大模型智能导航抵达病灶 华西医院发布两项创新成果_搜狐网",
-      "summary": "## AI大模型智能导航抵达病灶 华西医院发布两项创新成果\n\n锦观新闻\n\n10月9日—11日，以“数智赋能精准医学创新发展”为主题的第十二届华西精准医学国际学术论坛在成都召开。开幕式上，四川大学华西医院对外发布了支气管镜机器人和冷热一体呼吸内镜诊疗平台两项创新成果。\n\n记者了解到，华西医院联合相关企业共同研发并发布的支气管镜机器人和冷热一体呼吸内镜诊疗平台，主要针对传统支气管镜肺外周病灶诊断受限、...",
-      "highlights": [
-        "## AI大模型智能导航抵达病灶 华西医院发布两项创新成果",
-        "10月9日—11日，以“数智赋能精准医学创新发展”为主题的第十二届华西精准医学国际学术论坛在成都召开",
-        "开幕式上，四川大学华西医院对外发布了支气管镜机器人和冷热一体呼吸内镜诊疗平台两项创新成果"
-      ],
-      "url": "https://m.sohu.com/a/1086080909_355475?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-10T19:31:00Z"
+      "importance": 4,
+      "publishedAt": "2026-10-12T02:48:01Z"
     }
   ],
   "today": [
     {
-      "id": "472c3a819593",
-      "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布 - 智东西快讯",
-      "summary": "免费注册\n\n我的订阅\n\n关注我们 \n\n智东西\n\n车东西\n\n芯东西\n\n智猩猩\n\n智东西\n\n车东西\n\n芯东西\n\n智猩猩\n\n公开课 \n\n公开课官网\n\n公开课小程序\n\nGTIC\n\n\n\n快讯  头条  人工智能  芯东西  AIoT  云与智慧城市  机器人  VR/AR  手机通信  活动\n\n大模型原生智能体手机STEPX Neo将于10月13日正式发布\n\n 12:08:33\n\n 智东西\n\n 12\n\n10...",
+      "id": "13e3bf71e09c",
+      "title": "投资界24h|字节跳动，诞生新王炸了；数学博士AI炒股，登上富豪榜；经纬开募70亿|文峰|融资|创投|丘成桐|知名企业_网易订阅",
+      "summary": "月之暗面增资至约1437万\n\n天眼查App显示，近日，北京月之暗面科技股份有限公司发生工商变更，注册资本由约1157.53万人民币增至约1437.23万人民币，增幅约24%。值得一提的是，今年以来，该公司已发生多次增资，注册资本从100万人民币增至约1437.23万人民币。（36氪）\n\n摩根大通计划未来五年欧洲管理资产规模翻倍至2万亿美元\n\n摩根大通资产管理公司公布了雄心勃勃的发展目标，计划在未来...",
       "highlights": [
-        "快讯  头条  人工智能  芯东西  AIoT  云与智慧城市  机器人  VR/AR  手机通信  活动",
-        "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
-        "10月8日消息，阶跃终端将于10月13日在上海举办“Ready Builder One”主题发布会，推出旗下首款大模型原生智能体手机STEPX Neo"
+        "月之暗面增资至约1437万",
+        "天眼查App显示，近日，北京月之暗面科技股份有限公司发生工商变更，注册资本由约1157.53万人民币增至约1437.23万人民币，增幅约24%",
+        "值得一提的是，今年以来，该公司已发生多次增资，注册资本从100万人民币增至约1437.23万人民币"
       ],
-      "url": "https://m.zhidx.com/news/43242.html",
-      "source": "m.zhidx.com",
-      "category": "模型发布",
+      "url": "https://www.163.com/dy/article/L91D7GO605198R3E.html",
+      "source": "163.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-12T00:40:14Z"
+    },
+    {
+      "id": "1b46df063489",
+      "title": "Lucy L. on X: \"想再聊聊自研芯片。二供再往前一步，其实就是 ...",
+      "summary": "以前芯片更多是支持主营业务的基础设施，性能和稳定性最重要，但现在AI 算力本身就在直接影响产品成本，芯片每便宜一点，最后都可能变成自己的利润。 Google、Meta、Amazon",
+      "highlights": [
+        "以前芯片更多是支持主营业务的基础设施，性能和稳定性最重要，但现在AI 算力本身就在直接影响产品成本，芯片每便宜一点，最后都可能变成自己的利润",
+        "Google、Meta、Amazon"
+      ],
+      "url": "https://x.com/LucyBuilding/status/2104578557121061314",
+      "source": "x.com",
+      "category": "芯片硬件",
       "importance": 4,
-      "publishedAt": "2026-10-11T08:00:00Z"
+      "publishedAt": "2026-10-12T02:48:01Z"
     },
     {
-      "id": "6ab397df3b2a",
-      "title": "有人將同一條問題問咗 7 個 AI，揀出嚟嘅「百年十大論文」差好遠🤔 問題：「過去一百年裏，對人類進步『影響最大』的十篇論文是哪些？」 測試模型：Opus 5.5、GPT-6.1 Sol、Gemini 3.8 Flash、DeepSeek、Qwen、GLM、豆包 結果👇 ✅ 7 個全部揀咗：青黴素、香農資訊論、DNA 雙螺旋 📌 7 份名單加埋涉及 20 個突破方向 ⚖️ 最大分歧係 AI 佔幾重：4 個揀 Transformer，2 個揀反向傳播，GPT-6.1 Sol 就冇俾 AI 位，改揀口服補液療法 基礎科學大家都揀，最後幾個位就睇你點定義「進步」 💡 問 AI 開放式問題，答案其實反映佢嘅取向，重要嘢問多兩個模型對照下先好信",
-      "summary": "2\n\n2\n\nLog in or sign up for ThreadsSee what people are talking about and join the conversation.\nLog in with username instead [...] Home\n\nNew thread\n\nSearch\n\nMessages\n\nActivity\n\nProfile\n\nInsights\n\nLog ...",
+      "id": "401c123d5479",
+      "title": "🚨 AI 芯片市场被看到US$860B，但韩国今天点出了NVIDIA ...",
+      "summary": "AI 芯片市场被看到US$860B,但韩国今天点出了NVIDIA 最需要防的一件事. Training 用高端GPU。 大型Inference 用GPU / ASIC。 研AI Chip 的部署速度。",
       "highlights": [
-        "Log in or sign up for ThreadsSee what people are talking about and join the conversation.",
-        "Log in with username instead [...] Home",
-        "ai_guide_hk's profile picture"
+        "AI 芯片市场被看到US$860B,但韩国今天点出了NVIDIA 最需要防的一件事. Training 用高端GPU",
+        "大型Inference 用GPU / ASIC",
+        "研AI Chip 的部署速度"
       ],
-      "url": "https://www.threads.com/@ai_guide_hk/post/DeO227LD4K1/%E6%9C%89%E4%BA%BA%E5%B0%87%E5%90%8C%E4%B8%80%E6%A2%9D%E5%95%8F%E9%A1%8C%E5%95%8F%E5%92%97-7-%E5%80%8B-ai%E6%8F%80%E5%87%BA%E5%9A%9F%E5%98%85%E7%99%BE%E5%B9%B4%E5%8D%81%E5%A4%A7%E8%AB%96%E6%96%87%E5%B7%AE%E5%A5%BD%E9%81%A0%E5%95%8F%E9%A1%8C%E9%81%8E%E5%8E%BB%E4%B8%80%E7%99%BE%E5%B9%B4%E8%A3%8F%E5%B0%8D%E4%BA%BA%E9%A1%9E%E9%80%B2%E6%AD%A5%E5%BD%B1%E9%9F%BF%E6%9C%80%E5%A4%A7%E7%9A%84%E5%8D%81%E7%AF%87%E8%AB%96%E6%96%87%E6%98%AF%E5%93%AA%E4%BA%9B%E6%B8%AC%E8%A9%A6%E6%A8%A1%E5%9E%8Bopus-55gpt-61-solgemi",
+      "url": "https://www.facebook.com/iwealthnote/posts/-ai-%E8%8A%AF%E7%89%87%E5%B8%82%E5%9C%BA%E8%A2%AB%E7%9C%8B%E5%88%B0-us860b%E4%BD%86%E9%9F%A9%E5%9B%BD%E4%BB%8A%E5%A4%A9%E7%82%B9%E5%87%BA%E4%BA%86-nvidia-%E6%9C%80%E9%9C%80%E8%A6%81%E9%98%B2%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8Bai-%E4%BB%8E%E8%AE%AD%E7%BB%83%E8%B5%B0%E5%90%91%E6%8E%A8%E7%90%86%E5%90%8E%E5%AE%A2%E6%88%B7%E4%BC%9A%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%9C%A8%E6%84%8F%E7%94%B5%E8%B4%B9%E5%92%8C%E6%88%90%E6%9C%AC%E8%BF%87%E5%8E%BB%E4%B8%A4%E5%B9%B4%E8%AE%B2-ai-chip%E5%B8%82/1641462534435496",
+      "source": "facebook.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-12T02:48:01Z"
+    },
+    {
+      "id": "96f4ac9913d9",
+      "title": "2. ​万物自主化（4,000 亿美元） 利用人工智能实现乘用车、卡车和无人机等载具的自主运行，以及推动其他工业自动化项目，代表着 4,000 亿美元的市场机会。这不仅能提高设备的正常运行时间，还能降低培训与运营成本。自动驾驶载具可以作为面向消费者的新型汽车与卡车、无人驾驶出租车服务，以及通过物流自动化服务来释放巨大的商业价值。 2. ​具身/物理智能（9,000 亿美元） 先进的人工智能模型能够实现对物理过程的高保真模拟和数字孪生，帮助企业提高生产力、测试方案修改，并加速自主系统的部署。同样，由人工智能驱动的机器人（包括具身人形机器人）能够在非结构化环境中作业，从而在实体经济中解锁广泛的新应用，涵盖从制造业到外科手术的各个领域。因此，在良率提升和新工厂爬坡提速带来研发与制造成本降低 10% 的假设下，实体经济在重点行业（包括汽车、电子、半导体以及航空航天与国防）可能孕育出 9,000 亿美元的市场机遇。",
+      "summary": "Home\n\nNew thread\n\nSearch\n\nMessages\n\nActivity\n\nProfile\n\nInsights\n\nLog in\n\nMore\n\n# Thread\n\n69 views\n\ncheeweng96's profile picture\n\ncheeweng96\n\n2. ​万物自主化（4,000 亿美元） 利用人工智能实现乘用车、卡车和无人机等载具的自主运行，以及推动其他工业自动化...",
+      "highlights": [
+        "cheeweng96's profile picture",
+        "2. ​万物自主化（4,000 亿美元） 利用人工智能实现乘用车、卡车和无人机等载具的自主运行，以及推动其他工业自动化项目，代表着 4,000 亿美元的市场机会",
+        "这不仅能提高设备的正常运行时间，还能降低培训与运营成本"
+      ],
+      "url": "https://www.threads.com/@cheeweng96/post/DeDmbrAEsd0/2-%E4%B8%87%E7%89%A9%E8%87%AA%E4%B8%BB%E5%8C%964000-%E4%BA%BF%E7%BE%8E%E5%85%83%E5%88%A9%E7%94%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%9E%E7%8E%B0%E4%B9%98%E7%94%A8%E8%BD%A6%E5%8D%A1%E8%BD%A6%E5%92%8C%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%AD%89%E8%BD%BD%E5%85%B7%E7%9A%84%E8%87%AA%E4%B8%BB%E8%BF%90%E8%A1%8C%E4%BB%A5%E5%8F%8A%E6%8E%A8%E5%8A%A8%E5%85%B6%E4%BB%96%E5%B7%A5%E4%B8%9A%E8%87%AA%E5%8A%A8%E5%8C%96%E9%A1%B9%E7%9B%AE%E4%BB%A3%E8%A1%A8%E7%9D%80-4000-%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%B8%82%E5%9C%BA%E6%9C%BA%E4%BC%9A%E8%BF%99%E4%B8%8D%E4%BB%85%E8%83%BD%E6%8F%90%E9%AB%98%E8%AE%BE%E5%A4%87%E7%9A%84%E6%AD%A3",
       "source": "threads.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-10-12T02:48:01Z"
+    },
+    {
+      "id": "efeaceb97e8e",
+      "title": "2026 中国AI Agent 产业全景：全面跟进全球“行动式AI”新范式",
+      "summary": "中国科技企业已完成全员入场、全线对标、全域落地, 形成覆盖个人生活、职场办公、企业组织、政企合规的完整智能体产品矩阵。",
+      "highlights": [
+        "中国科技企业已完成全员入场、全线对标、全域落地, 形成覆盖个人生活、职场办公、企业组织、政企合规的完整智能体产品矩阵"
+      ],
+      "url": "https://www.facebook.com/groups/370716739681554/posts/28448934308099754",
+      "source": "facebook.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-10-12T02:48:01Z"
+    },
+    {
+      "id": "9f247eb5bf64",
+      "title": "Meta 推 Muse、OpenAI 推 Dots、Manus 推 Cuse，同一季三家把「個人智能體」同時丟上檯面。這支影片開頭就問了一句很扎心的：這玩意兒為什麼突然火？會不會只是下一個小龍蝦？\n\n先把事實擺出來。所謂 Personal Agent，指的是 24 小時掛著、自己找事做的 AI：有自己的雲端電腦、能翻你的 App、記得你上次說過什麼，你交代一個目標，它分段做完再回報。過去半年模型能連續跑很久、加上記憶與工具串接成熟，這三件事齊了，產品才做得出來。Meta 的 Muse 免費，OpenAI 的 Dots 只給 Pro 與企業版，價格差就已經說明兩邊賭的方向不同。\n\n火的另外一個原因很現實：所有人都怕再錯過一次 App 時代的入場券。2025 年大家在吵誰的模型分數高，2026 年吵的是誰能讓用戶「不用一直盯著」。入口一旦從 App 變成 agent，排隊的位置就要重算，這才是各大廠擠破頭的真正原因。\n\n但質疑的聲音同樣大。影片用「小龍蝦」當對照不是隨口說的：曇花一現的產品在這兩年出現過太多次。always-on 代表它會一直碰你的資料、你的帳號、你的錢，一次失誤的代價比聊天機器人高一個等級；而且現在大部分 demo 都還停留在「看起來很神」，真正穩定跑完一整週工作流的案例並不多。\n\n那普通人有什麼機會？我的讀法是三條：\n\n🔹 第一條，幫別人把 agent 裝好。多數人不是不想用，是不敢給權限。誰能把權限設計、資料邊界、出錯時的補救流程講清楚並落地，誰就能收第一波服務費。\n\n🔹 第二條，選窄賽道做垂直。通用 agent 拼不過大廠，但「只幫某一種工作室管檔、對帳、排程」這種窄活，巨頭看不上，做深了反而黏得住。\n\n🔹 第三條，先拿它當自己的員工用。一人公司最貴的是時間，把重複性工作交出去，等於用訂閱費換回你自己。這條不需要等技術成熟，現在就能開始。\n\n一句話總結：個人智能體是不是泡沫，兩年內會有答案；但它已經把「一個人能做多少事」的上限往上推了一截，這件事現在就成立。\n\n你有在用 Muse 或 Dots 嗎？留言說說實際感受 👇\n\nTAG：#一人公司 #AI智能體 #PersonalAgent #自媒體創業 #工作效率\n來源：B站 C哥聊科技 | 一人公司研究所",
+      "summary": "[](\n\nUntitled Video\n\n一人公司研究所\n\n784 views\n\n · \n\n15h ago\n\nImage 7: Video thumbnail 2:47\n\n[](\n\nUntitled Video\n\n一人公司研究所\n\n630 views\n\n · \n\n20h ago\n\nImage 8: Video thumbnail 1:26\n\n[](\n\nUntitled Video\n\n一人公司研究所...",
+      "highlights": [
+        "Untitled Video",
+        "Image 7: Video thumbnail 2:47",
+        "Untitled Video"
+      ],
+      "url": "https://www.facebook.com/61588107756334/videos/untitled-video/1797064434959132",
+      "source": "facebook.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-10-12T02:48:01Z"
+    },
+    {
+      "id": "a330950696fe",
+      "title": "再度包揽全球前五！中国AI大模型周调用量环比增长50.96%：阶跃星辰Step 5 Preview跻身前四，匿名模型“太空兔”跌出榜单",
+      "summary": "10月5日至11日，中国AI大模型周调用量环比增长50.96%，连续二十四周超过美国。同时，全球调用量排名前五均为中国AI大模型。其中，DeepSeekV4.1Flash升至第一，9月20日",
+      "highlights": [
+        "10月5日至11日，中国AI大模型周调用量环比增长50.96%，连续二十四周超过美国",
+        "同时，全球调用量排名前五均为中国AI大模型",
+        "其中，DeepSeekV4.1Flash升至第一，9月20日"
+      ],
+      "url": "https://www.mrjjxw.com/articles/2026-10-12/4601446.html",
+      "source": "mrjjxw.com",
       "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-11T02:23:26Z"
-    },
-    {
-      "id": "9a5e47f00495",
-      "title": "Hyperscalers, data centers and chip companies are ...",
-      "summary": "Hyperscalers, data centers and chip companies are borrowing hundreds of billions of dollars to finance the AI buildout, turning the technology boom into one",
-      "highlights": [
-        "Hyperscalers, data centers and chip companies are borrowing hundreds of billions of dollars to finance the AI buildout, turning the technology boom into one"
-      ],
-      "url": "https://www.facebook.com/bloombergbusiness/videos/hyperscalers-data-centers-and-chip-companies-are-borrowing-hundreds-of-billions-/2082646572376203",
-      "source": "facebook.com",
-      "category": "芯片硬件",
-      "importance": 3,
-      "publishedAt": "2026-10-11T02:23:26Z"
-    },
-    {
-      "id": "d08ad838c946",
-      "title": "AI发展史（七）：具身转向——AI走向物理世界_智能机器人",
-      "summary": "人形机器人不是具身智能的唯一形态。 自动驾驶汽车是具身智能的一种形式。它感知环境、规划路径、控制车辆，在物理世界中行动。2026年，特斯拉的FSD和Waymo的自动驾驶",
-      "highlights": [
-        "人形机器人不是具身智能的唯一形态",
-        "自动驾驶汽车是具身智能的一种形式",
-        "它感知环境、规划路径、控制车辆，在物理世界中行动"
-      ],
-      "url": "https://post.smzdm.com/p/apqm2dox",
-      "source": "post.smzdm.com",
-      "category": "具身智能",
-      "importance": 3,
-      "publishedAt": "2026-10-11T01:00:00Z"
-    },
-    {
-      "id": "00bea82a9614",
-      "title": "Instagram",
-      "summary": "Manus, the AI agent startup under parent company Butterfly Effect, has raised more than $500 million in its first funding round since separating from Meta after Beijing blocked the tech giant’s acquis...",
-      "highlights": [
-        "Manus, the AI agent startup under parent company Butterfly Effect, has raised more than $500 million in its first funding round since separating from Meta after Beijing blocked the tech giant’s acquisition of the company. The round was co-led by Boyu Capital and IDG Capital, with existing investors Tencent, ZhenFund and HSG also participating, as Manus continues operating independently and expanding its agent products, including Manus 2.0 and Cue.",
-        "FOUNDER: Xiao Hong [...] joshua_dampson's profile picture",
-        "joshua\\_dampson"
-      ],
-      "url": "https://www.instagram.com/p/DePn6XJnyr8",
-      "source": "instagram.com",
-      "category": "投并购",
-      "importance": 3,
-      "publishedAt": "2026-10-11T21:07:21Z"
-    },
-    {
-      "id": "6a117e0321d9",
-      "title": "Photos by 左最左(@zuozuiz) · October 8, 2026",
-      "summary": "每100美元AI开支，有30–40美元会离开科技巨头，变成变压器、液冷、铜缆和电费。英伟达是第一页，电和全市场EPS才是后面几章。",
-      "highlights": [
-        "每100美元AI开支，有30–40美元会离开科技巨头，变成变压器、液冷、铜缆和电费",
-        "英伟达是第一页，电和全市场EPS才是后面几章"
-      ],
-      "url": "https://www.instagram.com/p/DePP-RdE6rd",
-      "source": "instagram.com",
-      "category": "芯片硬件",
       "importance": 2,
-      "publishedAt": "2026-10-11T02:23:26Z"
+      "publishedAt": "2026-10-12T02:00:00Z"
     },
     {
-      "id": "413726451f33",
-      "title": "公眾反對讓歐洲大約 420 億美元的資料中心投資停擺或取消。這是研究機構 STL Partners 的估計，CNBC 在 10 月 3 日引用；美國的同類數字約 770 億美元。 European Data Center Monitor 統計，2026 年 1 月到 4 月，歐洲有超過 70 個資料中心專案被否決或限制，已經比 2025 年整年還多。 反對理由很具體，集中在用水、用電、電價和土地。HEC Paris 副教授 Olivier Darmouni 對 CNBC 的說法是，AI 產業帶給地方的好處很少，地方承擔的成本卻很高。",
-      "summary": "Home\n\nNew thread\n\nSearch\n\nMessages\n\nActivity\n\nProfile\n\nInsights\n\nLog in\n\nMore\n\n# Thread\n\n309 views\n\ntech.pulse.ai.tw's profile picture\n\ntech.pulse.ai.tw\n\n資料中心\n\n公眾反對讓歐洲大約 420 億美元的資料中心投資停擺或取消。這是研究機構 STL...",
+      "id": "0f86923d87dd",
+      "title": "底层大模型的投资窗口，正在悄悄关闭。 过去两年，一级市场 ...",
+      "summary": "... AI落地到具体场景的应用公司。 一个值得关注的变化，是并购浪潮的开启。越来越多中小型AI公司，不再执着于独立IPO，而是被行业巨头并购整合，这类交易的支付方式，也从",
       "highlights": [
-        "tech.pulse.ai.tw's profile picture",
-        "tech.pulse.ai.tw",
-        "公眾反對讓歐洲大約 420 億美元的資料中心投資停擺或取消"
+        "... AI落地到具体场景的应用公司",
+        "一个值得关注的变化，是并购浪潮的开启",
+        "越来越多中小型AI公司，不再执着于独立IPO，而是被行业巨头并购整合，这类交易的支付方式，也从"
       ],
-      "url": "https://www.threads.com/@tech.pulse.ai.tw/post/DeJl0GGEiD7/%E5%85%AC%E7%9C%BE%E5%8F%8D%E5%B0%8D%E8%AE%93%E6%AD%90%E6%B4%B2%E5%A4%A7%E7%B4%84-420-%E5%84%84%E7%BE%8E%E5%85%83%E7%9A%84%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E6%8A%95%E8%B3%87%E5%81%9C%E6%93%BA%E6%88%96%E5%8F%96%E6%B6%88%E9%80%99%E6%98%AF%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B-stl-partners-%E7%9A%84%E4%BC%B0%E8%A8%88cnbc-%E5%9C%A8-10-%E6%9C%88-3-%E6%97%A5%E5%BC%95%E7%94%A8%E7%BE%8E%E5%9C%8B%E7%9A%84%E5%90%8C%E9%A1%9E%E6%95%B8%E5%AD%97%E7%B4%84-77",
-      "source": "threads.com",
-      "category": "前沿理论",
-      "importance": 2,
-      "publishedAt": "2026-10-11T02:23:26Z"
-    },
-    {
-      "id": "931fc0c3e602",
-      "title": "Instagram",
-      "summary": "A pulse check for founders seeking to get acquired - Here’s what you should know in 2026:  \n  \n1. Valuation premiums are real, but uneven.   \n  \n- AI-native companies are pricing at roughly triple 202...",
-      "highlights": [
-        "A pulse check for founders seeking to get acquired - Here’s what you should know in 2026:",
-        "1. Valuation premiums are real, but uneven.",
-        "- AI-native companies are pricing at roughly triple 2021 levels — Series A medians went from ~$21M then to ~$62M now, with AI rounds specifically closer to $78M."
-      ],
-      "url": "https://www.instagram.com/p/DeRtMWcxwng",
-      "source": "instagram.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-11T02:23:26Z"
-    },
-    {
-      "id": "8b9a5c72deec",
-      "title": "Techmeme - AI startup acquisitions by other AI startups...",
-      "summary": "## Techmeme's post\n\n### Techmeme\n\n14 hours ago\n\n14h  ·\n\nAI startup acquisitions by other AI startups hit 195 through Sept. 29, up 14% from all of 2025, but number of buyers grew just 2%; OpenAI was th...",
-      "highlights": [
-        "## Techmeme's post",
-        "### Techmeme",
-        "14 hours ago"
-      ],
-      "url": "https://www.facebook.com/Techmeme/posts/ai-startup-acquisitions-by-other-ai-startups-hit-195-through-sept-29-up-14-from-/1549961137166195",
+      "url": "https://www.facebook.com/NoahHoldingsGlobal/posts/%E5%BA%95%E5%B1%82%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%8A%95%E8%B5%84%E7%AA%97%E5%8F%A3%E6%AD%A3%E5%9C%A8%E6%82%84%E6%82%84%E5%85%B3%E9%97%AD%E8%BF%87%E5%8E%BB%E4%B8%A4%E5%B9%B4%E4%B8%80%E7%BA%A7%E5%B8%82%E5%9C%BA%E8%B5%84%E9%87%91%E5%87%A0%E4%B9%8E%E5%85%A8%E9%83%A8%E6%B6%8C%E5%90%91%E5%A4%B4%E9%83%A8%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%85%AC%E5%8F%B8%E4%BD%86%E7%8E%B0%E5%9C%A8%E8%81%AA%E6%98%8E%E9%92%B1%E7%9A%84%E7%9B%AE%E5%85%89%E6%AD%A3%E5%9C%A8%E8%BD%AC%E7%A7%BB%E4%BB%8E%E6%A8%A1%E5%9E%8B%E6%9C%AC%E8%BA%AB%E8%BD%AC%E5%90%91%E6%A8%A1%E5%9E%8B%E4%B9%8B%E4%B8%8A%E5%92%8C%E4%B9%8B%E4%B8%8B%E7%9A%84%E4%B8%A4%E7%AB%AF%E5%BE%80%E4%B8%8B%E6%98%AF%E8%8A%AF%E7%89%87%E5%85%89%E9%80%9A%E4%BF%A1%E5%82%A8%E8%83%BD%E8%BF%99/1763743472422460",
       "source": "facebook.com",
       "category": "投并购",
       "importance": 2,
-      "publishedAt": "2026-10-11T02:23:26Z"
-    },
-    {
-      "id": "34bec8796fc1",
-      "title": "⚡️科技消息：AI研究公司Odyssey發布世界模型Odyssey-3，同一個基礎模型可控制機械臂及人形機械人、駕駛汽車、操控無人機，甚至可以玩《GTA V》。 公司表示，以約20小時模擬駕駛數據訓練的駕駛策略，已在印度公路上自動駕駛；模型亦可生成互動環境，讓AI代理在其中行動並從後果中學習。 人形機械人公司Flexion已採用該模型，研究預覽版已向開發者開放。",
-      "summary": "Log in\n\n# Thread\n\n987 views\n\ntimsondaily's profile picture\n\ntimsondaily\n\n⚡️科技消息：AI研究公司Odyssey發布世界模型Odyssey-3，同一個基礎模型可控制機械臂及人形機械人、駕駛汽車、操控無人機，甚至可以玩《GTA V》。\n\n公司表示，以約20小時模擬駕駛數據訓練的駕駛策略，已在印度公路上自動駕駛；模型亦可生成互動...",
-      "highlights": [
-        "timsondaily's profile picture",
-        "timsondaily",
-        "⚡️科技消息：AI研究公司Odyssey發布世界模型Odyssey-3，同一個基礎模型可控制機械臂及人形機械人、駕駛汽車、操控無人機，甚至可以玩《GTA V》"
-      ],
-      "url": "https://www.threads.com/@timsondaily/post/DePnWFTlCkM/%E7%A7%91%E6%8A%80%E6%B6%88%E6%81%AFai%E7%A0%94%E7%A9%B6%E5%85%AC%E5%8F%B8odyssey%E7%99%BC%E5%B8%83%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8Bodyssey-3%E5%90%8C%E4%B8%80%E5%80%8B%E5%9F%BA%E7%A4%8E%E6%A8%A1%E5%9E%8B%E5%8F%AF%E6%8E%A7%E5%88%B6%E6%A9%9F%E6%A2%B0%E8%87%82%E5%8F%8A%E4%BA%BA%E5%BD%A2%E6%A9%9F%E6%A2%B0%E4%BA%BA%E9%A7%95%E9%A7%9B%E6%B1%BD%E8%BB%8A%E6%93%8D%E6%8E%A7%E7%84%A1%E4%BA%BA%E6%A9%9F%E7%94%9A%E8%87%B3%E5%8F%AF%E4%BB%A5%E7%8E%A9gta-v%E5%85%AC%E5%8F%B8%E8%A1%A8%E7%A4%BA%E4%BB%A5%E7%B4%8420%E5%B0%8F%E6%99%82",
-      "source": "threads.com",
-      "category": "具身智能",
-      "importance": 2,
-      "publishedAt": "2026-10-11T21:07:21Z"
-    },
-    {
-      "id": "6de171d50f27",
-      "title": "44% of investors aren't putting... - Angel Investment Network",
-      "summary": "## Angel Investment Network's Post\n\n### Angel Investment Network\n\n10 hours ago\n\n10h  ·\n\n44% of investors aren't putting any money into AI at all.\n\nWith so much attention on AI raises, it's easy to for...",
-      "highlights": [
-        "## Angel Investment Network's Post",
-        "### Angel Investment Network",
-        "10 hours ago"
-      ],
-      "url": "https://www.facebook.com/angelinvestmentnetwork/posts/44-of-investors-arent-putting-any-money-into-ai-at-allwith-so-much-attention-on-/1548683087290947",
-      "source": "facebook.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-11T21:07:21Z"
+      "publishedAt": "2026-10-12T02:47:37Z"
     }
   ],
   "week": [
     {
-      "id": "8801782fd481",
-      "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them - CNBC",
-      "summary": "Nvidia GPUs are the most sought-after processors in AI, and they're in such demand that the chipmaker's stock climbed to yet another record this week, lifting its market cap close to $6 trillion. Cust...",
+      "id": "13e3bf71e09c",
+      "title": "投资界24h|字节跳动，诞生新王炸了；数学博士AI炒股，登上富豪榜；经纬开募70亿|文峰|融资|创投|丘成桐|知名企业_网易订阅",
+      "summary": "月之暗面增资至约1437万\n\n天眼查App显示，近日，北京月之暗面科技股份有限公司发生工商变更，注册资本由约1157.53万人民币增至约1437.23万人民币，增幅约24%。值得一提的是，今年以来，该公司已发生多次增资，注册资本从100万人民币增至约1437.23万人民币。（36氪）\n\n摩根大通计划未来五年欧洲管理资产规模翻倍至2万亿美元\n\n摩根大通资产管理公司公布了雄心勃勃的发展目标，计划在未来...",
       "highlights": [
-        "Nvidia GPUs are the most sought-after processors in AI, and they're in such demand that the chipmaker's stock climbed to yet another record this week, lifting its market cap close to $6 trillion. Customers can now shop around for access to the chips at the giant clouds from Amazon, Microsoft and Google, as well as at so-called neoclouds like CoreWeave. For Nvidia, it all adds up to unrelenting growth, as management anticipates $108 billion in revenue for the October quarter, which would mark an 89% year-over-year jump. While cloud infrastructure providers have ranked at the top of Nvidia's customer list for several years, the business is diversifying. \"Some of the hyperscalers have approached us about taking care of customers they're worried about because they don't have the ability to service those customers when they need it,\" said Marc Boroditsky, chief revenue officer of Nebius, a Netherlands-based neocloud with operations in the U.S. Video generation startup Reactor uses GPUs through Nebius and hyperscalers, said CEO Alberto Taiuti."
+        "月之暗面增资至约1437万",
+        "天眼查App显示，近日，北京月之暗面科技股份有限公司发生工商变更，注册资本由约1157.53万人民币增至约1437.23万人民币，增幅约24%",
+        "值得一提的是，今年以来，该公司已发生多次增资，注册资本从100万人民币增至约1437.23万人民币"
       ],
-      "url": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
-      "source": "cnbc.com",
+      "url": "https://www.163.com/dy/article/L91D7GO605198R3E.html",
+      "source": "163.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-12T00:40:14Z"
+    },
+    {
+      "id": "1b46df063489",
+      "title": "Lucy L. on X: \"想再聊聊自研芯片。二供再往前一步，其实就是 ...",
+      "summary": "以前芯片更多是支持主营业务的基础设施，性能和稳定性最重要，但现在AI 算力本身就在直接影响产品成本，芯片每便宜一点，最后都可能变成自己的利润。 Google、Meta、Amazon",
+      "highlights": [
+        "以前芯片更多是支持主营业务的基础设施，性能和稳定性最重要，但现在AI 算力本身就在直接影响产品成本，芯片每便宜一点，最后都可能变成自己的利润",
+        "Google、Meta、Amazon"
+      ],
+      "url": "https://x.com/LucyBuilding/status/2104578557121061314",
+      "source": "x.com",
       "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-10T11:00:01Z"
+      "importance": 4,
+      "publishedAt": "2026-10-12T02:48:01Z"
     },
     {
-      "id": "5788bf609e6b",
-      "title": "最新财新周刊｜前瞻AI税_财新周刊频道_财新网",
-      "summary": "上一篇：专栏｜AI泡沫破裂将会怎样\n\n下一篇：专栏｜当下需要怎样的投资策略？\n\n#### 推荐阅读\n\n推广\n\n### 图片推荐\n\n图集｜蔡天凤碎尸案最新披露：警方在现场煲汤中发现人体组织 视线｜与墓穴为邻 菲律宾逾万贫民寄居公墓 视线｜贵州 “二十四道拐”：从抗战文物到收费景区的前世今生 图集｜法国超1020所学校爆发高中生骚乱 抗议教育资源不足 视线｜毁坏生物栖息地侵扰原住民 特朗普政府“建墙计...",
+      "id": "401c123d5479",
+      "title": "🚨 AI 芯片市场被看到US$860B，但韩国今天点出了NVIDIA ...",
+      "summary": "AI 芯片市场被看到US$860B,但韩国今天点出了NVIDIA 最需要防的一件事. Training 用高端GPU。 大型Inference 用GPU / ASIC。 研AI Chip 的部署速度。",
       "highlights": [
-        "上一篇：专栏｜AI泡沫破裂将会怎样",
-        "下一篇：专栏｜当下需要怎样的投资策略",
-        "图集｜蔡天凤碎尸案最新披露：警方在现场煲汤中发现人体组织 视线｜与墓穴为邻 菲律宾逾万贫民寄居公墓 视线｜贵州 “二十四道拐”：从抗战文物到收费景区的前世今生 图集｜法国超1020所学校爆发高中生骚乱 抗议教育资源不足 视线｜毁坏生物栖息地侵扰原住民 特朗普政府“建墙计划”引发生态危机 图集｜国庆假期超21亿人次跨区域流动 铁路出行增长自驾降低 图集｜波兰两日3起校园袭击 致1死11伤 视线｜印尼11年来最严重林火致呼吸道疾病激增 总统省长成被告 [...] 商城"
+        "AI 芯片市场被看到US$860B,但韩国今天点出了NVIDIA 最需要防的一件事. Training 用高端GPU",
+        "大型Inference 用GPU / ASIC",
+        "研AI Chip 的部署速度"
       ],
-      "url": "https://weekly.caixin.com/2026-10-10/102491864.html",
-      "source": "weekly.caixin.com",
+      "url": "https://www.facebook.com/iwealthnote/posts/-ai-%E8%8A%AF%E7%89%87%E5%B8%82%E5%9C%BA%E8%A2%AB%E7%9C%8B%E5%88%B0-us860b%E4%BD%86%E9%9F%A9%E5%9B%BD%E4%BB%8A%E5%A4%A9%E7%82%B9%E5%87%BA%E4%BA%86-nvidia-%E6%9C%80%E9%9C%80%E8%A6%81%E9%98%B2%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8Bai-%E4%BB%8E%E8%AE%AD%E7%BB%83%E8%B5%B0%E5%90%91%E6%8E%A8%E7%90%86%E5%90%8E%E5%AE%A2%E6%88%B7%E4%BC%9A%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%9C%A8%E6%84%8F%E7%94%B5%E8%B4%B9%E5%92%8C%E6%88%90%E6%9C%AC%E8%BF%87%E5%8E%BB%E4%B8%A4%E5%B9%B4%E8%AE%B2-ai-chip%E5%B8%82/1641462534435496",
+      "source": "facebook.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-12T02:48:01Z"
+    },
+    {
+      "id": "96f4ac9913d9",
+      "title": "2. ​万物自主化（4,000 亿美元） 利用人工智能实现乘用车、卡车和无人机等载具的自主运行，以及推动其他工业自动化项目，代表着 4,000 亿美元的市场机会。这不仅能提高设备的正常运行时间，还能降低培训与运营成本。自动驾驶载具可以作为面向消费者的新型汽车与卡车、无人驾驶出租车服务，以及通过物流自动化服务来释放巨大的商业价值。 2. ​具身/物理智能（9,000 亿美元） 先进的人工智能模型能够实现对物理过程的高保真模拟和数字孪生，帮助企业提高生产力、测试方案修改，并加速自主系统的部署。同样，由人工智能驱动的机器人（包括具身人形机器人）能够在非结构化环境中作业，从而在实体经济中解锁广泛的新应用，涵盖从制造业到外科手术的各个领域。因此，在良率提升和新工厂爬坡提速带来研发与制造成本降低 10% 的假设下，实体经济在重点行业（包括汽车、电子、半导体以及航空航天与国防）可能孕育出 9,000 亿美元的市场机遇。",
+      "summary": "Home\n\nNew thread\n\nSearch\n\nMessages\n\nActivity\n\nProfile\n\nInsights\n\nLog in\n\nMore\n\n# Thread\n\n69 views\n\ncheeweng96's profile picture\n\ncheeweng96\n\n2. ​万物自主化（4,000 亿美元） 利用人工智能实现乘用车、卡车和无人机等载具的自主运行，以及推动其他工业自动化...",
+      "highlights": [
+        "cheeweng96's profile picture",
+        "2. ​万物自主化（4,000 亿美元） 利用人工智能实现乘用车、卡车和无人机等载具的自主运行，以及推动其他工业自动化项目，代表着 4,000 亿美元的市场机会",
+        "这不仅能提高设备的正常运行时间，还能降低培训与运营成本"
+      ],
+      "url": "https://www.threads.com/@cheeweng96/post/DeDmbrAEsd0/2-%E4%B8%87%E7%89%A9%E8%87%AA%E4%B8%BB%E5%8C%964000-%E4%BA%BF%E7%BE%8E%E5%85%83%E5%88%A9%E7%94%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%9E%E7%8E%B0%E4%B9%98%E7%94%A8%E8%BD%A6%E5%8D%A1%E8%BD%A6%E5%92%8C%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%AD%89%E8%BD%BD%E5%85%B7%E7%9A%84%E8%87%AA%E4%B8%BB%E8%BF%90%E8%A1%8C%E4%BB%A5%E5%8F%8A%E6%8E%A8%E5%8A%A8%E5%85%B6%E4%BB%96%E5%B7%A5%E4%B8%9A%E8%87%AA%E5%8A%A8%E5%8C%96%E9%A1%B9%E7%9B%AE%E4%BB%A3%E8%A1%A8%E7%9D%80-4000-%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%B8%82%E5%9C%BA%E6%9C%BA%E4%BC%9A%E8%BF%99%E4%B8%8D%E4%BB%85%E8%83%BD%E6%8F%90%E9%AB%98%E8%AE%BE%E5%A4%87%E7%9A%84%E6%AD%A3",
+      "source": "threads.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-10-12T02:48:01Z"
+    },
+    {
+      "id": "efeaceb97e8e",
+      "title": "2026 中国AI Agent 产业全景：全面跟进全球“行动式AI”新范式",
+      "summary": "中国科技企业已完成全员入场、全线对标、全域落地, 形成覆盖个人生活、职场办公、企业组织、政企合规的完整智能体产品矩阵。",
+      "highlights": [
+        "中国科技企业已完成全员入场、全线对标、全域落地, 形成覆盖个人生活、职场办公、企业组织、政企合规的完整智能体产品矩阵"
+      ],
+      "url": "https://www.facebook.com/groups/370716739681554/posts/28448934308099754",
+      "source": "facebook.com",
       "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-10T11:00:00Z"
+      "importance": 3,
+      "publishedAt": "2026-10-12T02:48:01Z"
     },
     {
-      "id": "9fe4e24f717b",
-      "title": "【数智周报】特朗普政府要求AI公司在发生安全事件后立即上报；华为与高通宣布达成广泛专利许可协议；月之暗面据悉即将完成IPO前融资，估值将达500亿美元-钛媒体官方网站",
-      "summary": "OpenAI宣布，搭载智能界面（Intelligent UI）的GPT‑6开始在全球范围内向ChatGPT Plus、Pro、Business和Enterprise用户推出，并将扩展至Free和Go用户。GPT‑6引入智能界面功能，让ChatGPT能够通过完全交互式的用户界面快速作答。\n\n#### 特朗普政府要求AI公司在发生安全事件后立即上报\n\n在人工智能公司Anthropic发生多起未经授权使...",
+      "id": "9f247eb5bf64",
+      "title": "Meta 推 Muse、OpenAI 推 Dots、Manus 推 Cuse，同一季三家把「個人智能體」同時丟上檯面。這支影片開頭就問了一句很扎心的：這玩意兒為什麼突然火？會不會只是下一個小龍蝦？\n\n先把事實擺出來。所謂 Personal Agent，指的是 24 小時掛著、自己找事做的 AI：有自己的雲端電腦、能翻你的 App、記得你上次說過什麼，你交代一個目標，它分段做完再回報。過去半年模型能連續跑很久、加上記憶與工具串接成熟，這三件事齊了，產品才做得出來。Meta 的 Muse 免費，OpenAI 的 Dots 只給 Pro 與企業版，價格差就已經說明兩邊賭的方向不同。\n\n火的另外一個原因很現實：所有人都怕再錯過一次 App 時代的入場券。2025 年大家在吵誰的模型分數高，2026 年吵的是誰能讓用戶「不用一直盯著」。入口一旦從 App 變成 agent，排隊的位置就要重算，這才是各大廠擠破頭的真正原因。\n\n但質疑的聲音同樣大。影片用「小龍蝦」當對照不是隨口說的：曇花一現的產品在這兩年出現過太多次。always-on 代表它會一直碰你的資料、你的帳號、你的錢，一次失誤的代價比聊天機器人高一個等級；而且現在大部分 demo 都還停留在「看起來很神」，真正穩定跑完一整週工作流的案例並不多。\n\n那普通人有什麼機會？我的讀法是三條：\n\n🔹 第一條，幫別人把 agent 裝好。多數人不是不想用，是不敢給權限。誰能把權限設計、資料邊界、出錯時的補救流程講清楚並落地，誰就能收第一波服務費。\n\n🔹 第二條，選窄賽道做垂直。通用 agent 拼不過大廠，但「只幫某一種工作室管檔、對帳、排程」這種窄活，巨頭看不上，做深了反而黏得住。\n\n🔹 第三條，先拿它當自己的員工用。一人公司最貴的是時間，把重複性工作交出去，等於用訂閱費換回你自己。這條不需要等技術成熟，現在就能開始。\n\n一句話總結：個人智能體是不是泡沫，兩年內會有答案；但它已經把「一個人能做多少事」的上限往上推了一截，這件事現在就成立。\n\n你有在用 Muse 或 Dots 嗎？留言說說實際感受 👇\n\nTAG：#一人公司 #AI智能體 #PersonalAgent #自媒體創業 #工作效率\n來源：B站 C哥聊科技 | 一人公司研究所",
+      "summary": "[](\n\nUntitled Video\n\n一人公司研究所\n\n784 views\n\n · \n\n15h ago\n\nImage 7: Video thumbnail 2:47\n\n[](\n\nUntitled Video\n\n一人公司研究所\n\n630 views\n\n · \n\n20h ago\n\nImage 8: Video thumbnail 1:26\n\n[](\n\nUntitled Video\n\n一人公司研究所...",
       "highlights": [
-        "OpenAI宣布，搭载智能界面（Intelligent UI）的GPT‑6开始在全球范围内向ChatGPT Plus、Pro、Business和Enterprise用户推出，并将扩展至Free和Go用户",
-        "GPT‑6引入智能界面功能，让ChatGPT能够通过完全交互式的用户界面快速作答",
-        "#### 特朗普政府要求AI公司在发生安全事件后立即上报"
+        "Untitled Video",
+        "Image 7: Video thumbnail 2:47",
+        "Untitled Video"
       ],
-      "url": "https://www.tmtpost.com/8163752.html",
-      "source": "tmtpost.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-10T10:00:00Z"
+      "url": "https://www.facebook.com/61588107756334/videos/untitled-video/1797064434959132",
+      "source": "facebook.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-10-12T02:48:01Z"
     },
     {
-      "id": "296a08c69e2c",
-      "title": "AI，突发利空！重磅IPO，紧急取消！ - 21经济网",
-      "summary": "Ten Cap联合创始人Liu Jun Bei表示，Firmus撤单显示更广泛的转变：投资者正越来越关注AI投资的经济效益，以及如何把基础设施投入转化为回报。“这对AI投资热潮是一次重要的现实检验，但我不认为这是AI行情终结的开始。”他说，其中确有Firmus特有的问题，尤其是估值上涨速度、庞大资本需求和执行雄心勃勃扩张计划的风险。\n\n包括英伟达和SpaceX在内，全球最大科技公司仍在积极发债筹资...",
+      "id": "a330950696fe",
+      "title": "再度包揽全球前五！中国AI大模型周调用量环比增长50.96%：阶跃星辰Step 5 Preview跻身前四，匿名模型“太空兔”跌出榜单",
+      "summary": "10月5日至11日，中国AI大模型周调用量环比增长50.96%，连续二十四周超过美国。同时，全球调用量排名前五均为中国AI大模型。其中，DeepSeekV4.1Flash升至第一，9月20日",
       "highlights": [
-        "Ten Cap联合创始人Liu Jun Bei表示，Firmus撤单显示更广泛的转变：投资者正越来越关注AI投资的经济效益，以及如何把基础设施投入转化为回报",
-        "“这对AI投资热潮是一次重要的现实检验，但我不认为这是AI行情终结的开始",
-        "”他说，其中确有Firmus特有的问题，尤其是估值上涨速度、庞大资本需求和执行雄心勃勃扩张计划的风险"
+        "10月5日至11日，中国AI大模型周调用量环比增长50.96%，连续二十四周超过美国",
+        "同时，全球调用量排名前五均为中国AI大模型",
+        "其中，DeepSeekV4.1Flash升至第一，9月20日"
       ],
-      "url": "https://www.21jingji.com/article/20261010/herald/338e0c871999bab1aad46edfee90b2f1.html",
-      "source": "21jingji.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-10T13:00:00Z"
-    },
-    {
-      "id": "2ca52a91f9d4",
-      "title": "当AI开始造AI：递归自我改进的2026年-36氪",
-      "summary": "在 Burtsev 的模拟中，个体都没达到临界、但彼此大量互相借鉴的「开放生态」，从 AGI 到 ASI 的过渡时间反而最短。换句话说，递归回路未必只存在于某一栋楼里。当一家实验室的 harness 技巧、推理优化和训练配方以开源形式迅速扩散，整个行业本身就可能构成一个更大的「自我改进系统」。当然，论文作者也强调，这些模拟只是用来区分机制的条件推演，而不是概率预测。\n\n对失控可能性的担忧，最终在 ...",
-      "highlights": [
-        "在 Burtsev 的模拟中，个体都没达到临界、但彼此大量互相借鉴的「开放生态」，从 AGI 到 ASI 的过渡时间反而最短",
-        "换句话说，递归回路未必只存在于某一栋楼里",
-        "当一家实验室的 harness 技巧、推理优化和训练配方以开源形式迅速扩散，整个行业本身就可能构成一个更大的「自我改进系统」"
-      ],
-      "url": "http://www.36kr.com/p/4019262571663237",
-      "source": "36kr.com",
+      "url": "https://www.mrjjxw.com/articles/2026-10-12/4601446.html",
+      "source": "mrjjxw.com",
       "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-10T01:00:34Z"
+      "importance": 2,
+      "publishedAt": "2026-10-12T02:00:00Z"
     },
     {
-      "id": "f599bd2ae52b",
-      "title": "Instagram",
-      "summary": "- 𝗢𝗽𝗲𝗻𝗔𝗜: 𝗗𝗼𝘁𝘀 𝗔𝗴𝗲𝗻𝘁: OpenAI launched Dots, always-on AI agents powered by GPT-6 Astra that can work toward goals continuously, connect with thousands of apps, and take on ongoing responsibilities.  \n...",
+      "id": "0f86923d87dd",
+      "title": "底层大模型的投资窗口，正在悄悄关闭。 过去两年，一级市场 ...",
+      "summary": "... AI落地到具体场景的应用公司。 一个值得关注的变化，是并购浪潮的开启。越来越多中小型AI公司，不再执着于独立IPO，而是被行业巨头并购整合，这类交易的支付方式，也从",
       "highlights": [
-        "- 𝗢𝗽𝗲𝗻𝗔𝗜: 𝗗𝗼𝘁𝘀 𝗔𝗴𝗲𝗻𝘁: OpenAI launched Dots, always-on AI agents powered by GPT-6 Astra that can work toward goals continuously, connect with thousands of apps, and take on ongoing responsibilities.",
-        "- 𝗔𝗻𝘁𝗵𝗿𝗼𝗽𝗶𝗰: 𝗖𝗹𝗮𝘂𝗱𝗲 𝗦𝗼𝗻𝗻𝗲𝘁 𝟱.𝟱: Anthropic launched Claude Sonnet 5.5, a faster and lower-cost model that runs over 30% faster and costs up to 30% less for most work, with stronger coding and long-horizon capabilities. [...] #AI #ArtificialIntelligence #GenerativeAI #AIModels #AIAgents #EnterpriseAI #AIInfrastructure #OpenAI #Anthropic #AMD #MetaAI #GoogleGemini #AIInnovation #DataCouch [...] 𝗪𝗲𝗲𝗸𝗹𝘆 𝗔𝗜 𝗘𝗱𝗶𝘁𝗶𝗼𝗻: 𝗔𝗜 𝗶𝘀 𝗺𝗼𝘃𝗶𝗻𝗴 𝗶𝗻𝘁𝗼 𝗮𝗰𝘁𝗶𝗼𝗻",
-        "This week, AI moved beyond models and into more autonomous, practical, and enterprise-focused systems. From OpenAI’s Dots agent and GPT-6.1 Sol to Claude Sonnet 5.5, AMD’s $8.2B World Labs acquisition, Meta’s Enterprise AI Platform, and Google’s Gemini 4 Argon, AI is becoming faster, more capable, and increasingly built to act."
+        "... AI落地到具体场景的应用公司",
+        "一个值得关注的变化，是并购浪潮的开启",
+        "越来越多中小型AI公司，不再执着于独立IPO，而是被行业巨头并购整合，这类交易的支付方式，也从"
       ],
-      "url": "https://www.instagram.com/reel/DeLi5ByjBwW",
-      "source": "instagram.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-10T16:26:18Z"
-    },
-    {
-      "id": "6f194ffe554d",
-      "title": "海外研选 | 伯恩斯坦拆解AI基建成本：每GW投资最高395亿美元",
-      "summary": "尽管AMD的GPU成本比Rubin低约144万美元，但其CPU、DRAM、HBM、网络设备及NAND存储成本更高，抵消了大部分价格优势。最终，AMD Helios单机柜总成本约733万美元，仅比Rubin低约19万美元。\n\n需要注意的是，伯恩斯坦对AMD的NAND容量采用了较为激进的最大配置假设，实际存储需求可能低于估算。\n\nOpenAI与谷歌尝试重构AI计算架构\n\n报告还重点分析了OpenAI和...",
-      "highlights": [
-        "尽管AMD的GPU成本比Rubin低约144万美元，但其CPU、DRAM、HBM、网络设备及NAND存储成本更高，抵消了大部分价格优势",
-        "最终，AMD Helios单机柜总成本约733万美元，仅比Rubin低约19万美元",
-        "需要注意的是，伯恩斯坦对AMD的NAND容量采用了较为激进的最大配置假设，实际存储需求可能低于估算"
-      ],
-      "url": "https://www.cls.cn/detail/2501306",
-      "source": "cls.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-10T11:00:00Z"
-    },
-    {
-      "id": "0e19bb494b60",
-      "title": "AI，突发利空！重磅IPO，紧急取消！",
-      "summary": "数据中心运营商Firmus紧急取消大型IPO计划！ 据最新消息，英伟达支持的数据中心运营商Firmus因需求疲软，于10月9日放弃了50亿美元首次公开募股（IPO），转而寻求私募融资。",
-      "highlights": [
-        "数据中心运营商Firmus紧急取消大型IPO计划",
-        "据最新消息，英伟达支持的数据中心运营商Firmus因需求疲软，于10月9日放弃了50亿美元首次公开募股（IPO），转而寻求私募融资"
-      ],
-      "url": "https://www.sohu.com/a/1086098394_177992?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "sohu.com",
+      "url": "https://www.facebook.com/NoahHoldingsGlobal/posts/%E5%BA%95%E5%B1%82%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%8A%95%E8%B5%84%E7%AA%97%E5%8F%A3%E6%AD%A3%E5%9C%A8%E6%82%84%E6%82%84%E5%85%B3%E9%97%AD%E8%BF%87%E5%8E%BB%E4%B8%A4%E5%B9%B4%E4%B8%80%E7%BA%A7%E5%B8%82%E5%9C%BA%E8%B5%84%E9%87%91%E5%87%A0%E4%B9%8E%E5%85%A8%E9%83%A8%E6%B6%8C%E5%90%91%E5%A4%B4%E9%83%A8%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%85%AC%E5%8F%B8%E4%BD%86%E7%8E%B0%E5%9C%A8%E8%81%AA%E6%98%8E%E9%92%B1%E7%9A%84%E7%9B%AE%E5%85%89%E6%AD%A3%E5%9C%A8%E8%BD%AC%E7%A7%BB%E4%BB%8E%E6%A8%A1%E5%9E%8B%E6%9C%AC%E8%BA%AB%E8%BD%AC%E5%90%91%E6%A8%A1%E5%9E%8B%E4%B9%8B%E4%B8%8A%E5%92%8C%E4%B9%8B%E4%B8%8B%E7%9A%84%E4%B8%A4%E7%AB%AF%E5%BE%80%E4%B8%8B%E6%98%AF%E8%8A%AF%E7%89%87%E5%85%89%E9%80%9A%E4%BF%A1%E5%82%A8%E8%83%BD%E8%BF%99/1763743472422460",
+      "source": "facebook.com",
       "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-10T12:00:00Z"
-    },
-    {
-      "id": "40d062291de3",
-      "title": "英伟达股价连日回调 美股AI泡沫论演化之路怎么看？ - 21经济网",
-      "summary": "第一轮看空叙事出现在2024年中，当时英伟达股价从2023年初的不到50美元暴涨，市盈率一度突破70倍，市场普遍质疑高估值无法被业绩支撑，但英伟达随后用连续超预期的财报消化了高估值，股价继续创新高。\n\n第二轮看空叙事在2025年初，AMD、英特尔 等传统芯片厂商以及云厂商自研芯片集中发布，市场判断英伟达的垄断地位将被打破，但最终数据显示英伟达芯片市场份额反而从60%进一步升至74%，竞争冲击完全不...",
-      "highlights": [
-        "第一轮看空叙事出现在2024年中，当时英伟达股价从2023年初的不到50美元暴涨，市盈率一度突破70倍，市场普遍质疑高估值无法被业绩支撑，但英伟达随后用连续超预期的财报消化了高估值，股价继续创新高",
-        "第二轮看空叙事在2025年初，AMD、英特尔 等传统芯片厂商以及云厂商自研芯片集中发布，市场判断英伟达的垄断地位将被打破，但最终数据显示英伟达芯片市场份额反而从60%进一步升至74%，竞争冲击完全不及预期",
-        "第三轮看空叙事在2025年底，市场担忧大模型训练需求已经饱和，AI芯片 采购潮即将退去，但随后推理算力需求接棒训练需求，整体AI算力需求仍在翻倍增长，需求见顶的判断被证伪"
-      ],
-      "url": "https://www.21jingji.com/article/20261010/herald/e63d640b29a959c4a6655de9ea3d40bd.html",
-      "source": "21jingji.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-10T03:00:00Z"
-    },
-    {
-      "id": "3cc7ed8876e8",
-      "title": "字节、腾讯紧跟Meta Muse 急推个人AI智能体",
-      "summary": "该项目起始于字节跳动在今年4月开启的新项目，代号“Spell”，是在2025年豆包手机助手个人智能体（personal agent）方向上的延续，当时，豆包内部已经就个人智能体方向的产品启动内测。\n\n　　Muse等个人智能体在海外火爆后，字节跳动加速了项目推进。该产品由豆包手机助手团队主导，由Spell项目与豆包对话团队共同负责，计划将“Spell”项目与豆包产品结合，目标是尽快对外推出。\n\n腾讯...",
-      "highlights": [
-        "该项目起始于字节跳动在今年4月开启的新项目，代号“Spell”，是在2025年豆包手机助手个人智能体（personal agent）方向上的延续，当时，豆包内部已经就个人智能体方向的产品启动内测",
-        "Muse等个人智能体在海外火爆后，字节跳动加速了项目推进",
-        "该产品由豆包手机助手团队主导，由Spell项目与豆包对话团队共同负责，计划将“Spell”项目与豆包产品结合，目标是尽快对外推出"
-      ],
-      "url": "https://companies.caixin.com/m/2026-10-10/102492150.html",
-      "source": "companies.caixin.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-10T11:00:00Z"
-    },
-    {
-      "id": "672336933d93",
-      "title": "南方财经网 - 南方财经全媒体集团",
-      "summary": "所谓TMT，即科技、媒体与通信，长期以来都是华尔街最接近产业风口的板块，也是投行佣金最丰厚的战场。从互联网平台上市、软件公司并购，到如今席卷全球的AI浪潮，一代代科技巨头都要在这里交锋。高盛TMT处在这一金字塔顶端。\n\n不过，在Jane登上高盛TMT的权力巅 峰之前，科技投行经历了一段低谷。高盛统计称，2022年和2023年两年间全球仅有7家科技公司启动IPO，而此前两年这一数字超过160家。\n\n...",
-      "highlights": [
-        "所谓TMT，即科技、媒体与通信，长期以来都是华尔街最接近产业风口的板块，也是投行佣金最丰厚的战场",
-        "从互联网平台上市、软件公司并购，到如今席卷全球的AI浪潮，一代代科技巨头都要在这里交锋",
-        "高盛TMT处在这一金字塔顶端"
-      ],
-      "url": "https://m.sfccn.com/2026/10-10/0OMDE0MDZfMjI2NDk0OQ.html",
-      "source": "m.sfccn.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-10T11:00:00Z"
-    },
-    {
-      "id": "e877537cb3c8",
-      "title": "华尔街大行财报下周揭晓：股票交易收入料逼近190亿美元，“人人是赢家”或成过去式",
-      "summary": "风险提示及免责条款\n\n 市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。 \n\nImage 3: img 限免\n\n   38\n   收藏\n\n分享到:\n   Image 4: qrcode\n   [](\n\n写评论\n\n  \n\nImage 5: icon-emoji表情 \n\n图片...",
-      "highlights": [
-        "市场有风险，投资需谨慎",
-        "本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要",
-        "用户应考虑本文中的任何意见、观点或结论是否符合其特定状况"
-      ],
-      "url": "https://wallstreetcn.com/articles/3783296",
-      "source": "wallstreetcn.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-09T16:01:46Z"
-    },
-    {
-      "id": "df47ff3550fe",
-      "title": "谷歌与Meta发布AI智能体，催化应用端落地进程，中文在线涨停 - 财闻网",
-      "summary": "首页 正文\n\n# 谷歌与Meta发布AI智能体，催化应用端落地进程，中文在线涨停\n\n财闻  2026-10-09 14:25:33\n\nETF方面，创业板人工智能ETF华夏（159381）涨1.04%，成分股中文在线（300364.SZ）涨停，芒果超媒（300413.SZ）、联特科技（301205.SZ）、华策影视（300133.SZ）涨超10%，深信服（300454.SZ）、易点天下（301171...",
-      "highlights": [
-        "# 谷歌与Meta发布AI智能体，催化应用端落地进程，中文在线涨停",
-        "财闻  2026-10-09 14:25:33",
-        "ETF方面，创业板人工智能ETF华夏（159381）涨1.04%，成分股中文在线（300364.SZ）涨停，芒果超媒（300413.SZ）、联特科技（301205.SZ）、华策影视（300133.SZ）涨超10%，深信服（300454.SZ）、易点天下（301171.SZ）、蓝色光标（300058.SZ）、昆仑万维（300418.SZ）、致尚科技（301486.SZ）、国投智能（300188.SZ）涨超5%"
-      ],
-      "url": "https://www.caiwennews.com/article/1642680.shtml",
-      "source": "caiwennews.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-09T14:25:33Z"
-    },
-    {
-      "id": "530603c64542",
-      "title": "Nvidia and Micron stocks bounce on OpenAI $70B revenue target - Yahoo Finance",
-      "summary": "2. Best 0% APR Cards. Shares of Nvidia and Micron Technology are set to rise Friday morning after OpenAI told investors it expects its annualized revenue to reach or exceed $70 billion by the end of 2...",
-      "highlights": [
-        "2. Best 0% APR Cards. Shares of Nvidia and Micron Technology are set to rise Friday morning after OpenAI told investors it expects its annualized revenue to reach or exceed $70 billion by the end of 2026, according to Bloomberg. The projection follows a day of selling in chip stocks tied to the AI buildout. The company declined to comment to Bloomberg. Shares of Nvidia, Oracle, and CoreWeave fell Thursday, and the Nasdaq 100 dropped 1.4%, after OpenAI's annualized revenue figure of approximately $50 billion as of late September became public — a number that fell short of the widely cited $68 billion figure that had been circulating among investors. The $68 billion figure had originated from investors applying Anthropic's methodology to OpenAI's numbers, which then fed into reports citing figures of roughly $68 billion to $70 billion. OpenAI is seeking to raise around $30 billion in a new funding round, with no term sheet finalized, according to Bloomberg."
-      ],
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-micron-stocks-bounce-openai-133435783.html",
-      "source": "finance.yahoo.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-09T13:34:35Z"
-    },
-    {
-      "id": "e424d5ef0865",
-      "title": "国产算力生态卡位加速兑现，华鑫证券：首予沐曦股份“买入”评级_搜狐网",
-      "summary": "## 国产算力生态卡位加速兑现，华鑫证券：首予沐曦股份“买入”评级\n\n财闻\n\n10月9日，华鑫证券研报指出， 沐曦股份-U（688802.SH）GPU出货放量推动业绩提升，国产算力生态卡位加速兑现。收入放量与费用优化共振，Q2单季扣非归母实现转正。AI算力需求向全流程延伸，多卡互连与软件生态成为竞争要素。根据头豹研究院的统计及预测数据，2021 至2030 年，全球数据中心AI加速芯片总规模从91...",
-      "highlights": [
-        "## 国产算力生态卡位加速兑现，华鑫证券：首予沐曦股份“买入”评级",
-        "10月9日，华鑫证券研报指出， 沐曦股份-U（688802.SH）GPU出货放量推动业绩提升，国产算力生态卡位加速兑现",
-        "收入放量与费用优化共振，Q2单季扣非归母实现转正"
-      ],
-      "url": "https://m.sohu.com/a/1085571520_121157270?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-09T15:32:00Z"
+      "importance": 2,
+      "publishedAt": "2026-10-12T02:47:37Z"
     }
   ],
   "month": [
