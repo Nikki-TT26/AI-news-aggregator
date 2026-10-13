@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T13:01:14Z",
+  "updatedAt": "2026-10-13T22:00:27Z",
   "latest": [
     {
       "id": "13e3bf71e09c",
@@ -195,21 +195,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-10-12T15:19:18Z"
-    },
-    {
-      "id": "34a4a94d0de9",
-      "title": "AI发展史（七）：具身转向——AI走向物理世界_财富号_东方财富网",
-      "summary": "第三个问题是控制。机器人需要精确控制每个关节的运动，保持平衡，适应变化。这需要实时控制系统和鲁棒的控制算法。\n\n第四个问题是数据。机器人需要大量真实世界的交互数据来学习。这些数据的采集成本很高——训练一个抓取动作可能需要数万次尝试。仿真环境可以降低采集成本，但仿真与现实的差距仍然是难题。\n\n三\n\n人形机器人不是具身智能的唯一形态。\n\n自动驾驶汽车是具身智能的一种形式。它感知环境、规划路径、控制车辆...",
-      "highlights": [
-        "机器人需要精确控制每个关节的运动，保持平衡，适应变化",
-        "这需要实时控制系统和鲁棒的控制算法",
-        "机器人需要大量真实世界的交互数据来学习"
-      ],
-      "url": "https://caifuhao.eastmoney.com/news/20261011230420442120670",
-      "source": "caifuhao.eastmoney.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-11T21:00:00Z"
     },
     {
       "id": "e46b622762bd",
@@ -449,6 +434,21 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-10-12T18:22:58Z"
+    },
+    {
+      "id": "581f5c5943a9",
+      "title": "海外研选日报1013 | 杰富瑞：AI热潮或引发美国巨额资本损失 信贷风险升温",
+      "summary": "关于我们网站声明联系方式用户反馈网站地图帮助\n\n## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载\n\n海外研选日报1013 | 杰富瑞：AI热潮或引发美国巨额资本损失 信贷风险升温\n\n2026-10-13 17:06 星期二\n\n财联社 夏军雄\n\n责编 林琦\n\n```\n①高盛：新型闪存有望破解AI“内存墙”，市场规模或达1500亿美元； ②德银：2030年前或出现超级...",
+      "highlights": [
+        "关于我们网站声明联系方式用户反馈网站地图帮助",
+        "## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载",
+        "海外研选日报1013 | 杰富瑞：AI热潮或引发美国巨额资本损失 信贷风险升温"
+      ],
+      "url": "https://www.cls.cn/detail/2503464",
+      "source": "cls.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-13T08:00:00Z"
     }
   ],
   "today": [
@@ -573,6 +573,66 @@
       "publishedAt": "2026-10-13T02:00:00Z"
     },
     {
+      "id": "be9934fb9c21",
+      "title": "微软计划大规模部署自研人工智能芯片：直指成本与算力效率_Maia_系统_Azure",
+      "summary": "体育\n\n汽车\n\n房产\n\n旅游\n\n教育\n\n时尚\n\n科技\n\n财经\n\n娱乐\n\n# 微软计划大规模部署自研人工智能芯片：直指成本与算力效率\n\n2026-10-13 17:17  来源: 环球网科技\n\n发布于：北京市\n\n10月13日消息，据路透社报道称，微软发布下一代定制人工智能芯片Maia 300，并表示计划明年部署超过100万颗该芯片，用于支持内部AI服务。微软称，Maia 300是其第三代定制AI芯片...",
+      "highlights": [
+        "# 微软计划大规模部署自研人工智能芯片：直指成本与算力效率",
+        "2026-10-13 17:17  来源: 环球网科技",
+        "10月13日消息，据路透社报道称，微软发布下一代定制人工智能芯片Maia 300，并表示计划明年部署超过100万颗该芯片，用于支持内部AI服务"
+      ],
+      "url": "https://www.sohu.com/a/1087263753_99900743?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "sohu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-13T17:17:00Z"
+    },
+    {
+      "id": "57c467f9a57f",
+      "title": "大河财立方",
+      "summary": "岩超聚能完成数亿元Pre-A轮融资，岩山科技、鸿元投资集团、万联广生、洪山资本等联合投资。同时，规模更大的A轮融资已经启动，其中50%额度领投方已锁定。岩超聚能是全球少数成功实现CICC三维超导磁体高精度制作的仿星器主机企业之一，也是目前国内唯一具备仿星器CICC三维超导磁体完整自研能力的仿星器主机公司。\n\n半图科技完成超千万美元Pre-A轮融资\n\n近日，半图科技完成超千万美元Pre-A轮融资，本...",
+      "highlights": [
+        "岩超聚能完成数亿元Pre-A轮融资，岩山科技、鸿元投资集团、万联广生、洪山资本等联合投资",
+        "同时，规模更大的A轮融资已经启动，其中50%额度领投方已锁定",
+        "岩超聚能是全球少数成功实现CICC三维超导磁体高精度制作的仿星器主机企业之一，也是目前国内唯一具备仿星器CICC三维超导磁体完整自研能力的仿星器主机公司"
+      ],
+      "url": "https://app.dahecube.com/article.html?artid=289562%3Frecid%3D1",
+      "source": "app.dahecube.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-13T08:00:00Z"
+    },
+    {
+      "id": "82c85617680b",
+      "title": "瑞银：具身智能市场2035年或达4020亿美元，进入新一轮增长周期_搜狐网",
+      "summary": "## 瑞银：具身智能市场2035年或达4020亿美元，进入新一轮增长周期\n\n财闻\n\n财闻\n\n10月13日，瑞银发布最新研报指出，随着人工智能技术快速进步，具身智能正推动人形机器人、自动驾驶及工业自动化进入新一轮增长周期。人口老龄化、劳动力短缺及制造业回流带来的成本压力，将进一步加速自动化技术普及。\n\n瑞银保守估计，未来十年全球人形机器人及自动化相关潜在市场规模将达到4020亿美元，年复合增长率约1...",
+      "highlights": [
+        "## 瑞银：具身智能市场2035年或达4020亿美元，进入新一轮增长周期",
+        "10月13日，瑞银发布最新研报指出，随着人工智能技术快速进步，具身智能正推动人形机器人、自动驾驶及工业自动化进入新一轮增长周期",
+        "人口老龄化、劳动力短缺及制造业回流带来的成本压力，将进一步加速自动化技术普及"
+      ],
+      "url": "https://m.sohu.com/a/1087285419_121157270?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-13T18:13:00Z"
+    },
+    {
+      "id": "9f18936aff63",
+      "title": "Meta AI models: Meta says its new AI models on par with OpenAI, Anthropic - The Economic Times",
+      "summary": "Leaders at Anthropic, OpenAI and Google have encouraged \"pacing\" - or slowing down - development after models created by all three were found to have escaped their testing environments or taken action...",
+      "highlights": [
+        "Leaders at Anthropic, OpenAI and Google have encouraged \"pacing\" - or slowing down - development after models created by all three were found to have escaped their testing environments or taken actions without authorization.",
+        "\"We will slow down as much as necessary in order to make sure that every successive AI technology that we release is actually safe,\" Anthropic CEO Dario Amodei told the United Nations last month. [...] Wonder is \"our largest and most capable model yet\" and \"rivals the big (boys),\" Wang posted on X, presumably referring to leading labs OpenAI and Anthropic.",
+        "In a blog post, Meta touted so-called benchmarking data from an independent firm called Artificial Analysis that appears to show that Meta's newest Wonder models outperform its own previous models, Spark, as well as various models developed by Anthropic, OpenAI and Google. [...] Meta on Monday unveiled two new \"frontier\" artificial intelligence models called Wonder and Wonder Full, which the company claims perform at a level comparable to that of OpenAI's ChatGPT and Anthropic's Claude. In a blog post, Meta touted so-called benchmarking data from an independent firm called Artificial Analysis that appears to show that Meta's newest Wonder models outperform its own previous models, Spark, as well as various models developed by Anthropic, OpenAI and Google."
+      ],
+      "url": "https://m.economictimes.com/tech/artificial-intelligence/meta-says-its-new-ai-models-on-par-with-openai-anthropic/articleshow/134906480.cms",
+      "source": "m.economictimes.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-13T03:00:00Z"
+    },
+    {
       "id": "649b80426c06",
       "title": "9 AI updates you missed this week Google turned your ...",
       "summary": "This week has been massive in AI with big announcements from Microsoft, Google, OpenAI, Anthropic and others: Google introduced “AI mode” and Veo 3 its video",
@@ -614,6 +674,21 @@
       "publishedAt": "2026-10-13T03:00:00Z"
     },
     {
+      "id": "31c4a619c8e6",
+      "title": "高盛2026年第三季度业绩说明会：营收达187亿美元",
+      "summary": "该机构还强调，随着 AI 融资需求规模变大且日趋复杂，需要保持严谨的承销标准。更广泛的 AI 风险包括前沿模型的发展速度、安全防护措施不足以及测试、监控和人类问责的必要性。\n\n管理层表示，信贷质量整体保持强劲，不过第三季度的提存包含了对几笔独立的、互不相关的风险暴露所计提的较高减值。此外，由于私募股权赞助商延迟从2020年和2021年投资的项目中退出，私募股权赞助的并购活动仍低于历史平均水平。\n\n...",
+      "highlights": [
+        "该机构还强调，随着 AI 融资需求规模变大且日趋复杂，需要保持严谨的承销标准",
+        "更广泛的 AI 风险包括前沿模型的发展速度、安全防护措施不足以及测试、监控和人类问责的必要性",
+        "管理层表示，信贷质量整体保持强劲，不过第三季度的提存包含了对几笔独立的、互不相关的风险暴露所计提的较高减值"
+      ],
+      "url": "https://www.tradingkey.com/zh-hans/news/transcripts/262214758-tradingkey",
+      "source": "tradingkey.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-10-13T20:00:00Z"
+    },
+    {
       "id": "475d53755606",
       "title": "AI 大模型世界",
       "summary": "今日格局 ; 最聪明 · Claude Opus 5.5. Anthropic. ECI 167. 综合智力指数，209 个受测模型中第一 ; 最会编程 · Claude Opus 5.5. Anthropic. 前1%. 7 个第三方编程榜的平均",
@@ -625,6 +700,60 @@
       "category": "模型发布",
       "importance": 3,
       "publishedAt": "2026-10-13T04:00:00Z"
+    },
+    {
+      "id": "29885c70371d",
+      "title": "Wilson Sonsini Spinoff SixFifty Launches Employment Law AI Agent - Law.com",
+      "summary": "Sign in to access your account and subscription. The Artificial Intelligence Glossary  Data Privacy Law Tracker  Generative AI Case Studies  Legal Tech Deal Tracker  Legal Tech Investment Tracker  Mee...",
+      "highlights": [
+        "Sign in to access your account and subscription. The Artificial Intelligence Glossary  Data Privacy Law Tracker  Generative AI Case Studies  Legal Tech Deal Tracker  Legal Tech Investment Tracker  Meet the Female Founders of Legal Tech. Reporting, and expert analysis of legal technology with a focus onwhat legal departments, law firms, and tech companies need to know. All Surveys & Rankings  Am Law 100  Am Law 200  A-List. ### The Am Law 100 Rankings. The Am Law 100 is the definitive ranking of the 100 largest law firms in the United States. The agent is designed to help users draft jurisdiction-appropriate employment documents and perform other HR compliance tasks. **What It Is:** The HR agent is an AI-powered tool intended to help legal, HR and compliance teams adhere to jurisdiction-specific employment law requirements. #### Join the Law.com Community to Access Legaltech News and Enjoy:."
+      ],
+      "url": "https://www.law.com/legaltechnews/2026/10/13/wilson-sonsini-spinoff-sixfifty-launches-employment-law-ai-agent/",
+      "source": "law.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-10-13T13:00:00Z"
+    },
+    {
+      "id": "dadb6e4bb6cd",
+      "title": "IFS launches AI product for industrial operations - Developing Telecoms",
+      "summary": "## IFS launches AI product for industrial operations. IFS has launched IFS Intelligence, an AI product that lets industrial businesses query operational data, investigate issues and prepare actions th...",
+      "highlights": [
+        "## IFS launches AI product for industrial operations. IFS has launched IFS Intelligence, an AI product that lets industrial businesses query operational data, investigate issues and prepare actions through a conversational interface. The product draws on live data from IFS and connected third-party systems, including information on assets, work orders, schedules and operational history. It can recommend actions and prepare them for approval, with controls based on each business’s rules and permissions. IFS Intelligence includes three components: Cowork, for querying data and preparing actions; Loops, which runs defined workflows in the background and escalates tasks when human judgement or approval is needed; and Runway, which uses plain-language requirements to support IFS software migration, configuration and extension. Customers can also save successful queries as reusable Skills or create Lenses, which provide live views of operational data. The company said staff can query fleet data to identify suitable cranes for customer requirements and improve fleet utilisation. Oct 13, 2026 STAFF WRITER. Oct 09, 2026 John Tanner."
+      ],
+      "url": "https://www.developingtelecoms.com/telecom-business/vendor-news/20964-ifs-launches-ai-product-for-industrial-operations.html",
+      "source": "developingtelecoms.com",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-10-13T20:26:12Z"
+    },
+    {
+      "id": "4db39b4a695b",
+      "title": "RSI新突破，UC Berkeley、Sakana AI团队提出「多Agent自监督」MASS-36氪",
+      "summary": "改进的球堆积界、新的胶子散射公式，以及经实验验证的纳米抗体设计……前沿 AI 系统已经开始在科学研究中取得原创性成果。\n\n如何让这一进程持续下去，并进一步提高研究效率？递归自我改进（Recursive Self-Improvement，RSI）被视为一个有潜力的方向。\n\nRSI 主要由评估与改进两个核心组件驱动。然而，在前沿科研中，这两个环节都面临现实困难：在评估方面，如果研究成果超出了现有人类专...",
+      "highlights": [
+        "改进的球堆积界、新的胶子散射公式，以及经实验验证的纳米抗体设计……前沿 AI 系统已经开始在科学研究中取得原创性成果",
+        "如何让这一进程持续下去，并进一步提高研究效率",
+        "递归自我改进（Recursive Self-Improvement，RSI）被视为一个有潜力的方向"
+      ],
+      "url": "https://m.36kr.com/p/4023756853022851",
+      "source": "m.36kr.com",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-10-13T13:01:13Z"
+    },
+    {
+      "id": "29197faa2283",
+      "title": "One-year-old Israeli AI startup with six employees acquired for estimated $100 millio | Ctech",
+      "summary": "As part of the acquisition, Geniez AI’s technical leadership and engineering team will join Rocket Software to help accelerate its AI initiatives, including new capabilities for Rocket EVA, the compan...",
+      "highlights": [
+        "As part of the acquisition, Geniez AI’s technical leadership and engineering team will join Rocket Software to help accelerate its AI initiatives, including new capabilities for Rocket EVA, the company’s agentic AI platform for core systems. The companies aim to move mainframe management away from processes that depend heavily on specialized expertise toward AI-assisted operations that make complex systems easier to understand, manage and modernize. [...] Rocket Software said the acquisition would help enterprises address the shortage of skilled mainframe professionals, reduce operational complexity and automate mission-critical workflows. The combined technology is intended to help teams turn institutional knowledge into actionable intelligence, surface insights and take action across core systems while maintaining appropriate security, governance and control. [...] Geniez AI develops generative AI technology designed to help enterprises manage and modernize mainframe systems, the large-scale computers that underpin critical business operations across industries, including financial services. Its AI agents operate directly on mainframes, monitoring live systems, diagnosing incidents and executing workflows using natural language."
+      ],
+      "url": "https://www.calcalistech.com/ctechnews/article/996lzw73e",
+      "source": "calcalistech.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-10-13T15:48:58Z"
     },
     {
       "id": "e8b5e6689211",
@@ -694,6 +823,32 @@
       "category": "模型发布",
       "importance": 2,
       "publishedAt": "2026-10-13T09:52:11Z"
+    },
+    {
+      "id": "a37a3930254f",
+      "title": "Kogan taps AI agent to handle customer service - iTnews",
+      "summary": "# Kogan taps AI agent to handle customer service. Australian e-tailer Kogan has identified 10 customer service use cases so far for an AI agent that it built in collaboration with Salesforce. He said ...",
+      "highlights": [
+        "# Kogan taps AI agent to handle customer service. Australian e-tailer Kogan has identified 10 customer service use cases so far for an AI agent that it built in collaboration with Salesforce. He said the online retailer saw an opportunity to use AI to reduce the effort that customers had to go to for support inquiries, and see faster responses. “You can't wait and hope for a 60 percent,  90 percent or 100 percent [resolution] rate from day one - that's not realistic, and I think that's where a lot of businesses fail in getting things in front of customers because they’re too precious about iterating and improving from [square] one.”. Kogan elected to rearchitect the customer service bot with Salesforce’s Agentforce technology, partnering with the vendor’s forward deployment team. So far, 10 customer service use cases can be handled by the AI agent. WISMO is designed to pick up the order status directly from SAP and pass it on to the customer."
+      ],
+      "url": "https://www.itnews.com.au/news/kogan-taps-ai-agent-to-handle-customer-service-629602",
+      "source": "itnews.com.au",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-10-13T19:45:00Z"
+    },
+    {
+      "id": "590a07501a41",
+      "title": "What Advertising Week revealed about marketing’s competing priorities - The Drum",
+      "summary": "# What Advertising Week revealed about marketing’s competing priorities. At Advertising Week New York, marketing leaders had plenty of new capabilities to describe, including hundreds of AI agents and...",
+      "highlights": [
+        "# What Advertising Week revealed about marketing’s competing priorities. At Advertising Week New York, marketing leaders had plenty of new capabilities to describe, including hundreds of AI agents and data that can trace a purchase back to the ad behind it. For companies already using AI to produce advertising and analyze campaign results, the next challenge is deciding how deeply to integrate the technology into everyday operations. Some are rebuilding teams and decision-making processes around it, even as questions persist about the consequences for employees and the quality of what those teams produce. At SharkNinja, a new category team operates with 344 AI agents and a handful of humans. “Unlike other team constructs where they have team and add-on AI, this is AI with human added on,” Michelle Crossan-Matos, SharkNinja’s chief brand and experience officer, told The Drum. Whether those improvements produce stronger brand performance remains a separate question, and it grows more complicated when the people expected to use the technology are uncertain about its consequences."
+      ],
+      "url": "https://www.thedrum.com/news/what-advertising-week-revealed-about-marketing-s-competing-priorities",
+      "source": "thedrum.com",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-10-13T09:24:13Z"
     }
   ],
   "week": [
@@ -924,21 +1079,6 @@
   ],
   "month": [
     {
-      "id": "bb228fd8dbc3",
-      "title": "亚马逊拟70亿美元收购AI初创公司Decart，Anthropic此前曾考虑竞购",
-      "summary": "Decart总部位于旧金山，核心技术之一是帮助开发者在不同AI芯片之间切换的软件工具。随着AI企业争相获取算力资源，芯片供应和计算成本成为影响模型开发与部署的重要因素。能够适配不同芯片的软件，有助于开发者减少对单一硬件平台的依赖，也为企业灵活安排算力资源提供更多选择。\n\n此次潜在收购与亚马逊发展自研AI芯片的战略密切相关，亚马逊云科技（AWS）正在推进自研Trainium系列芯片，以降低AI计算成...",
-      "highlights": [
-        "Decart总部位于旧金山，核心技术之一是帮助开发者在不同AI芯片之间切换的软件工具",
-        "随着AI企业争相获取算力资源，芯片供应和计算成本成为影响模型开发与部署的重要因素",
-        "能够适配不同芯片的软件，有助于开发者减少对单一硬件平台的依赖，也为企业灵活安排算力资源提供更多选择"
-      ],
-      "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262210567-amazon-talks-acquire-ai-startup-decart-tradingkey",
-      "source": "tradingkey.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-11T10:00:00Z"
-    },
-    {
       "id": "13e3bf71e09c",
       "title": "投资界24h|字节跳动，诞生新王炸了；数学博士AI炒股，登上富豪榜；经纬开募70亿|文峰|融资|创投|丘成桐|知名企业_网易订阅",
       "summary": "月之暗面增资至约1437万\n\n天眼查App显示，近日，北京月之暗面科技股份有限公司发生工商变更，注册资本由约1157.53万人民币增至约1437.23万人民币，增幅约24%。值得一提的是，今年以来，该公司已发生多次增资，注册资本从100万人民币增至约1437.23万人民币。（36氪）\n\n摩根大通计划未来五年欧洲管理资产规模翻倍至2万亿美元\n\n摩根大通资产管理公司公布了雄心勃勃的发展目标，计划在未来...",
@@ -952,21 +1092,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-10-12T00:40:14Z"
-    },
-    {
-      "id": "362e7131755e",
-      "title": "ChatGPT共同创造者Liam Fedus：突破数学瓶颈 AI下一步将进军科学实验室前沿",
-      "summary": "首页\n文章详情\n\n# ChatGPT共同创造者Liam Fedus：数学之后，AI该去实验室了\n\n机器之心2026-10-12 07:42\n\nAI 能刷 722 篇数学论文，却（还）造不出一块超导体\n\n前两天，OpenAI 在 GitHub 上一次性放出了 722 篇数学手稿（后面撤回了几篇），覆盖数论、几何、理论计算机科学、数学物理等 17 个领域，其中一部分附带了可由计算机机械检查的 Lean...",
-      "highlights": [
-        "# ChatGPT共同创造者Liam Fedus：数学之后，AI该去实验室了",
-        "机器之心2026-10-12 07:42",
-        "AI 能刷 722 篇数学论文，却（还）造不出一块超导体"
-      ],
-      "url": "https://eu.36kr.com/zh/p/4020983712272515",
-      "source": "eu.36kr.com",
-      "category": "前沿理论",
-      "importance": 5,
-      "publishedAt": "2026-10-11T08:00:00Z"
     },
     {
       "id": "8d8f06aadaf0",
@@ -1072,6 +1197,36 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-10-12T13:36:32Z"
+    },
+    {
+      "id": "4e3e76446476",
+      "title": "微软发布Maia 300 AI芯片：自研算力落地 逐步降低英伟达依赖--快科技--科技改变未来",
+      "summary": "手机版\n 安卓版\n 苹果端\n 博客版\n\n 登录\n 注册\n\n返回\n\n登录\n\n因版权限制，过往内容只提供给老鸟级别及以上用户访问\n\n返回\n\n 当前位置：首页 > 资讯中心 > 电脑办公 > CPU > 文章详情\n 榜单 招聘\n\n#### 正文内容 评论（0）\n\n微软发布Maia 300 AI芯片：自研算力落地 逐步降低英伟达依赖\n\n点击可以复制本篇文章的标题和链接复制; \"点击可以复制本篇文章的标题和...",
+      "highlights": [
+        "因版权限制，过往内容只提供给老鸟级别及以上用户访问",
+        "当前位置：首页 > 资讯中心 > 电脑办公 > CPU > 文章详情",
+        "#### 正文内容 评论（0）"
+      ],
+      "url": "https://news.mydrivers.com/1/1156/1156924.htm",
+      "source": "news.mydrivers.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-12T23:00:00Z"
+    },
+    {
+      "id": "06dd3efcc184",
+      "title": "微软准备在数据中心大规模部署自研芯片 规模达数吉瓦|AI模型|Alphabet|Google|亚马逊|谷歌_手机新浪网",
+      "summary": "## 新浪科技 美股\n\n  \n\n微软公司正准备在数据中心部署最新版自研芯片，目标是主要依靠自家硬件为其AI软件提供算力支持。\n\n微软周一表示，计划在其数据中心部署总规模达数吉瓦的Maia芯片，其中最新一代Maia 300将从明年开始投入部署。这类芯片专为AI推理而设计，即利用AI模型执行总结电话会议内容或回答研究问题等任务。\n\n微软、亚马逊和Alphabet旗下谷歌都在开发自研人工智能加速器，此举...",
+      "highlights": [
+        "微软公司正准备在数据中心部署最新版自研芯片，目标是主要依靠自家硬件为其AI软件提供算力支持",
+        "微软周一表示，计划在其数据中心部署总规模达数吉瓦的Maia芯片，其中最新一代Maia 300将从明年开始投入部署",
+        "这类芯片专为AI推理而设计，即利用AI模型执行总结电话会议内容或回答研究问题等任务"
+      ],
+      "url": "https://finance.sina.cn/usstock/mggd/2026-10-12/detail-iniuytnv5199652.d.html?vt=4",
+      "source": "finance.sina.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-12T21:45:17Z"
     }
   ]
 }
