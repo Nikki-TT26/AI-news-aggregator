@@ -1,36 +1,6 @@
 {
-  "updatedAt": "2026-10-13T22:00:27Z",
+  "updatedAt": "2026-10-14T02:18:34Z",
   "latest": [
-    {
-      "id": "13e3bf71e09c",
-      "title": "投资界24h|字节跳动，诞生新王炸了；数学博士AI炒股，登上富豪榜；经纬开募70亿|文峰|融资|创投|丘成桐|知名企业_网易订阅",
-      "summary": "月之暗面增资至约1437万\n\n天眼查App显示，近日，北京月之暗面科技股份有限公司发生工商变更，注册资本由约1157.53万人民币增至约1437.23万人民币，增幅约24%。值得一提的是，今年以来，该公司已发生多次增资，注册资本从100万人民币增至约1437.23万人民币。（36氪）\n\n摩根大通计划未来五年欧洲管理资产规模翻倍至2万亿美元\n\n摩根大通资产管理公司公布了雄心勃勃的发展目标，计划在未来...",
-      "highlights": [
-        "月之暗面增资至约1437万",
-        "天眼查App显示，近日，北京月之暗面科技股份有限公司发生工商变更，注册资本由约1157.53万人民币增至约1437.23万人民币，增幅约24%",
-        "值得一提的是，今年以来，该公司已发生多次增资，注册资本从100万人民币增至约1437.23万人民币"
-      ],
-      "url": "https://www.163.com/dy/article/L91D7GO605198R3E.html",
-      "source": "163.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-12T00:40:14Z"
-    },
-    {
-      "id": "8d8f06aadaf0",
-      "title": "Token工厂进入精益运营阶段，两大指标形成飞轮效应 | 沨呵智慧智算产品总监丁阔@GACS 2026 - 智东西",
-      "summary": "AI Infra 独立厂商又可细分为两类：一类是以硅基流动和 PPIO 为代表，类似于 Neocloud，有自持的 GPU 集群和算力；另一类是以沨呵智慧为代表，没有自持算力，但提供全栈自研的推理优化引擎，并为客户提供全栈的优化服务与管理平台。\n\n# 二、算力交付形态全面转向Token工厂\n\n再看算力的交付形态，从最早的裸金属租赁；到 GPU 云的弹性 GPU 实例；再到 MaaS（模型即服务）；...",
-      "highlights": [
-        "AI Infra 独立厂商又可细分为两类：一类是以硅基流动和 PPIO 为代表，类似于 Neocloud，有自持的 GPU 集群和算力；另一类是以沨呵智慧为代表，没有自持算力，但提供全栈自研的推理优化引擎，并为客户提供全栈的优化服务与管理平台",
-        "# 二、算力交付形态全面转向Token工厂",
-        "再看算力的交付形态，从最早的裸金属租赁；到 GPU 云的弹性 GPU 实例；再到 MaaS（模型即服务）；最后到最新阶段——直接交付 Token 工厂（Token Factory）"
-      ],
-      "url": "https://m.zhidx.com/p/600002.html",
-      "source": "m.zhidx.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-12T02:00:00Z"
-    },
     {
       "id": "b7c3ed5b756d",
       "title": "南方财经网 - 南方财经全媒体集团",
@@ -90,21 +60,6 @@
       "category": "具身智能",
       "importance": 5,
       "publishedAt": "2026-10-12T05:00:00Z"
-    },
-    {
-      "id": "c447c85b893b",
-      "title": "人工智能ETF天弘(561460)连续39日净流入超31亿元，Anthropic发布最新AI模型Claude Haiku 5.5|界面新闻",
-      "summary": "【机构观点】\n\n平安证券指出，DeepSeek正式开源面向华为昇腾算力平台的基础设施组件，涵盖TileLang高级语言编译工具、计算库、分布式通信库，所有组件与此前面向英伟达平台的开源组件一一对应。该行认为，本次开源意味着以昇腾为代表的国产AI算力与以DeepSeek V4系列模型为代表的国产大模型的生态协同能力进一步增强，将为国产AI算力适配国产大模型带来积极的示范作用。当前我国国产大模型持续迭...",
-      "highlights": [
-        "平安证券指出，DeepSeek正式开源面向华为昇腾算力平台的基础设施组件，涵盖TileLang高级语言编译工具、计算库、分布式通信库，所有组件与此前面向英伟达平台的开源组件一一对应",
-        "该行认为，本次开源意味着以昇腾为代表的国产AI算力与以DeepSeek V4系列模型为代表的国产大模型的生态协同能力进一步增强，将为国产AI算力适配国产大模型带来积极的示范作用",
-        "当前我国国产大模型持续迭代、能力持续提升，将进一步推动国产大模型从可用到好用，加快国产大模型在千行百业应用场景的落地，加快我国大模型产业的发展，该行坚定看好我国AI产业的发展前景"
-      ],
-      "url": "https://www.jiemian.com/article/15178029.html",
-      "source": "jiemian.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-12T01:00:00Z"
     },
     {
       "id": "73101aecc55e",
@@ -449,113 +404,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-10-13T08:00:00Z"
-    }
-  ],
-  "today": [
-    {
-      "id": "7789759aae11",
-      "title": "微软发布Maia 300自研AI芯片，科创芯片设计ETF天弘(589070)近10日净流入超1亿元|界面新闻",
-      "summary": "【热点事件】\n\n微软发布Maia 300自研AI芯片，每兆瓦Token产出比GPU高40%\n\n当地时间10月12日，微软在OCP全球峰会上正式发布第三代自研AI芯片Maia300，并宣布将大幅扩大自研芯片的使用规模，以降低对英伟达GPU的依赖。微软计划自2027年起将AzureMaia系列扩展至数吉瓦规模部署，使其成为微软产品和服务的主要AI推理系统，并预计明年可部署超过100万颗Maia300。...",
-      "highlights": [
-        "微软发布Maia 300自研AI芯片，每兆瓦Token产出比GPU高40%",
-        "当地时间10月12日，微软在OCP全球峰会上正式发布第三代自研AI芯片Maia300，并宣布将大幅扩大自研芯片的使用规模，以降低对英伟达GPU的依赖",
-        "微软计划自2027年起将AzureMaia系列扩展至数吉瓦规模部署，使其成为微软产品和服务的主要AI推理系统，并预计明年可部署超过100万颗Maia300"
-      ],
-      "url": "https://www.jiemian.com/article/15182667.html",
-      "source": "jiemian.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-13T02:00:00Z"
-    },
-    {
-      "id": "483199490a5f",
-      "title": "微软Maia 300自研AI芯片将投入量产，Maia家族扩展至吉瓦级部署-电子工程专辑",
-      "summary": "作为换代产品，Maia 300把全部设计重心押在推理上。芯片采用台积电N2P工艺的多chiplet架构，由主计算die、2个IO die、4个内存die和8组HBM4堆栈组成；单芯片FP4算力13.8POPS、FP8算力6.9POPS，热设计功耗950瓦，搭载288GB HBM4、峰值带宽18TB/s。机架级配置更为激进：单机架塞进96颗加速器，整机功耗167千瓦，HBM总容量27.6TB、聚合带...",
-      "highlights": [
-        "作为换代产品，Maia 300把全部设计重心押在推理上",
-        "芯片采用台积电N2P工艺的多chiplet架构，由主计算die、2个IO die、4个内存die和8组HBM4堆栈组成；单芯片FP4算力13.8POPS、FP8算力6.9POPS，热设计功耗950瓦，搭载288GB HBM4、峰值带宽18TB/s",
-        "机架级配置更为激进：单机架塞进96颗加速器，整机功耗167千瓦，HBM总容量27.6TB、聚合带宽1.7PB/s"
-      ],
-      "url": "https://www.eet-china.com/news/202610139121.html",
-      "source": "eet-china.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-13T02:00:00Z"
-    },
-    {
-      "id": "e8be9df8c9cf",
-      "title": "月之暗面，挤进决赛圈-36氪",
-      "summary": "进入9月，月之暗面的动作更加密集。\n\n9月10日，其启动“登月计划”企业合作伙伴计划、11日K2.8 Preview全量上线、17日发布金融行业解决方案、18日Kimi K3进驻亚马逊平台、21日Kimi Code Desktop正式发布……\n\n同一时间，月之暗面的估值也一路飙升。今年1-5月，其连续完成四轮融资，融资估值从百亿美元升至超200亿美元；6月、7月其再拿下E轮和F轮融资，投后估值达到...",
-      "highlights": [
-        "进入9月，月之暗面的动作更加密集",
-        "9月10日，其启动“登月计划”企业合作伙伴计划、11日K2.8 Preview全量上线、17日发布金融行业解决方案、18日Kimi K3进驻亚马逊平台、21日Kimi Code Desktop正式发布……",
-        "同一时间，月之暗面的估值也一路飙升"
-      ],
-      "url": "https://www.36kr.com/p/4023688453312389",
-      "source": "36kr.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-13T03:46:14Z"
-    },
-    {
-      "id": "e8a2a2942a6d",
-      "title": "Meta Catches Up to OpenAI and Anthropic, Unveils New AI Model 'Muse Wonder'",
-      "summary": "SBS NEWS\n\n Home\n Politics\n Economy\n Society\n World\n Lifestyle & Culture\n Entertainment\n Sports\n\n대한민국 뉴스의 기준, 중심을 지키는 저널리즘 \n\nSBS World News\n\n# Meta Catches Up to OpenAI and Anthropic, Unveils New AI Mo...",
-      "highlights": [
-        "Lifestyle & Culture",
-        "Entertainment",
-        "대한민국 뉴스의 기준, 중심을 지키는 저널리즘"
-      ],
-      "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008794505",
-      "source": "news.sbs.co.kr",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-13T00:29:00Z"
-    },
-    {
-      "id": "055ac1e66988",
-      "title": "微软2027年推出新型AI半导体，算力提高40% 日经中文网",
-      "summary": "据微软介绍，与通用图像处理芯片（GPU）相比，新型芯片预计可在相同电力条件下让AI处理的数据量增加40%。\n\n　   微软于2023年宣布进军AI芯片开发领域，此次是其推出的第3款产品。与在云基础设施领域竞争的美国谷歌和美国Amazon.com相比，微软引入自研芯片较晚。在三大云服务企业中，微软被认为对英伟达产品的依赖程度最高。\n\n　   微软表示，今后将在搭载于办公软件的“Copilot”等AI...",
-      "highlights": [
-        "据微软介绍，与通用图像处理芯片（GPU）相比，新型芯片预计可在相同电力条件下让AI处理的数据量增加40%",
-        "微软于2023年宣布进军AI芯片开发领域，此次是其推出的第3款产品",
-        "与在云基础设施领域竞争的美国谷歌和美国Amazon.com相比，微软引入自研芯片较晚"
-      ],
-      "url": "https://cn.nikkei.com/industry/itelectric-appliance/64316-2026-10-13-15-46-14.html",
-      "source": "cn.nikkei.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-13T08:00:00Z"
-    },
-    {
-      "id": "f21a4c2b2792",
-      "title": "每经热评 |“末日IPO”估值2万亿美元，Anthropic把人类风险卖给了华尔街 | 每日经济新闻",
-      "summary": "## 要闻\n ## 公司\n ## 新经济\n ## 视频\n ## 房楼市\n ## 汽车\n ## 区域\n\n首页 > 要闻 > 正文\n\n# 每经热评 |“末日IPO”估值2万亿美元，Anthropic把人类风险卖给了华尔街\n\n来源：每日经济新闻综合\n\n 发布时间：2026年10月13日 12:03   更新时间：2026年10月13日 12:11\n\n每经评论员 王嘉琦\n\nAnthropic的招股书，大概...",
-      "highlights": [
-        "首页 > 要闻 > 正文",
-        "# 每经热评 |“末日IPO”估值2万亿美元，Anthropic把人类风险卖给了华尔街",
-        "来源：每日经济新闻综合"
-      ],
-      "url": "https://www.mrjjxw.com/articles/2026-10-13/4602726.html",
-      "source": "mrjjxw.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-13T04:00:00Z"
-    },
-    {
-      "id": "581f5c5943a9",
-      "title": "海外研选日报1013 | 杰富瑞：AI热潮或引发美国巨额资本损失 信贷风险升温",
-      "summary": "关于我们网站声明联系方式用户反馈网站地图帮助\n\n## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载\n\n海外研选日报1013 | 杰富瑞：AI热潮或引发美国巨额资本损失 信贷风险升温\n\n2026-10-13 17:06 星期二\n\n财联社 夏军雄\n\n责编 林琦\n\n```\n①高盛：新型闪存有望破解AI“内存墙”，市场规模或达1500亿美元； ②德银：2030年前或出现超级...",
-      "highlights": [
-        "关于我们网站声明联系方式用户反馈网站地图帮助",
-        "## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载",
-        "海外研选日报1013 | 杰富瑞：AI热潮或引发美国巨额资本损失 信贷风险升温"
-      ],
-      "url": "https://www.cls.cn/detail/2503464",
-      "source": "cls.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-13T08:00:00Z"
     },
     {
       "id": "6bc424145ea5",
@@ -601,254 +449,64 @@
       "category": "具身智能",
       "importance": 5,
       "publishedAt": "2026-10-13T08:00:00Z"
-    },
+    }
+  ],
+  "today": [
     {
-      "id": "82c85617680b",
-      "title": "瑞银：具身智能市场2035年或达4020亿美元，进入新一轮增长周期_搜狐网",
-      "summary": "## 瑞银：具身智能市场2035年或达4020亿美元，进入新一轮增长周期\n\n财闻\n\n财闻\n\n10月13日，瑞银发布最新研报指出，随着人工智能技术快速进步，具身智能正推动人形机器人、自动驾驶及工业自动化进入新一轮增长周期。人口老龄化、劳动力短缺及制造业回流带来的成本压力，将进一步加速自动化技术普及。\n\n瑞银保守估计，未来十年全球人形机器人及自动化相关潜在市场规模将达到4020亿美元，年复合增长率约1...",
+      "id": "0ed713c5a2ef",
+      "title": "“我会做空一整年”！传奇投资人警告2027年美股或迎来艰难一年",
+      "summary": "传奇投资人保罗·都铎·琼斯警告，OpenAI、Anthropic等AI巨头潜在IPO与后续增发，可能逆转回购和并购支撑的股票供给格局。他还警告美国财政赤字与油价上涨风险，",
       "highlights": [
-        "## 瑞银：具身智能市场2035年或达4020亿美元，进入新一轮增长周期",
-        "10月13日，瑞银发布最新研报指出，随着人工智能技术快速进步，具身智能正推动人形机器人、自动驾驶及工业自动化进入新一轮增长周期",
-        "人口老龄化、劳动力短缺及制造业回流带来的成本压力，将进一步加速自动化技术普及"
+        "传奇投资人保罗·都铎·琼斯警告，OpenAI、Anthropic等AI巨头潜在IPO与后续增发，可能逆转回购和并购支撑的股票供给格局",
+        "他还警告美国财政赤字与油价上涨风险，"
       ],
-      "url": "https://m.sohu.com/a/1087285419_121157270?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-13T18:13:00Z"
-    },
-    {
-      "id": "9f18936aff63",
-      "title": "Meta AI models: Meta says its new AI models on par with OpenAI, Anthropic - The Economic Times",
-      "summary": "Leaders at Anthropic, OpenAI and Google have encouraged \"pacing\" - or slowing down - development after models created by all three were found to have escaped their testing environments or taken action...",
-      "highlights": [
-        "Leaders at Anthropic, OpenAI and Google have encouraged \"pacing\" - or slowing down - development after models created by all three were found to have escaped their testing environments or taken actions without authorization.",
-        "\"We will slow down as much as necessary in order to make sure that every successive AI technology that we release is actually safe,\" Anthropic CEO Dario Amodei told the United Nations last month. [...] Wonder is \"our largest and most capable model yet\" and \"rivals the big (boys),\" Wang posted on X, presumably referring to leading labs OpenAI and Anthropic.",
-        "In a blog post, Meta touted so-called benchmarking data from an independent firm called Artificial Analysis that appears to show that Meta's newest Wonder models outperform its own previous models, Spark, as well as various models developed by Anthropic, OpenAI and Google. [...] Meta on Monday unveiled two new \"frontier\" artificial intelligence models called Wonder and Wonder Full, which the company claims perform at a level comparable to that of OpenAI's ChatGPT and Anthropic's Claude. In a blog post, Meta touted so-called benchmarking data from an independent firm called Artificial Analysis that appears to show that Meta's newest Wonder models outperform its own previous models, Spark, as well as various models developed by Anthropic, OpenAI and Google."
-      ],
-      "url": "https://m.economictimes.com/tech/artificial-intelligence/meta-says-its-new-ai-models-on-par-with-openai-anthropic/articleshow/134906480.cms",
-      "source": "m.economictimes.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-13T03:00:00Z"
-    },
-    {
-      "id": "649b80426c06",
-      "title": "9 AI updates you missed this week Google turned your ...",
-      "summary": "This week has been massive in AI with big announcements from Microsoft, Google, OpenAI, Anthropic and others: Google introduced “AI mode” and Veo 3 its video",
-      "highlights": [
-        "This week has been massive in AI with big announcements from Microsoft, Google, OpenAI, Anthropic and others: Google introduced “AI mode” and Veo 3 its video"
-      ],
-      "url": "https://www.facebook.com/vaibhavsisintyofficial/posts/9-ai-updates-you-missed-this-weekgoogle-turned-your-notebook-into-a-tutor-that-t/1563331375810980",
-      "source": "facebook.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-13T13:01:14Z"
-    },
-    {
-      "id": "47f210315d6a",
-      "title": "Machine Learning Engineer here, when OpenAI and ...",
-      "summary": "Machine Learning Engineer here, when OpenAI and Anthropic release these stories of their models \"breaking containment\", it is a PR stunt.",
-      "highlights": [
-        "Machine Learning Engineer here, when OpenAI and Anthropic release these stories of their models \"breaking containment\", it is a PR stunt."
-      ],
-      "url": "https://www.reddit.com/r/ohnePixel/comments/1x12dmy/machine_learning_engineer_here_when_openai_and",
-      "source": "reddit.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-13T13:01:14Z"
-    },
-    {
-      "id": "5b0923617a15",
-      "title": "Quartz - U.K. wins back early access to OpenAI and...",
-      "summary": "## Quartz's post\n\n### Quartz\n\n5 hours ago\n\n5h  ·\n\nU.K. wins back early access to OpenAI and Anthropic's most powerful AI [...] All reactions:\n\n1\n\n1 share [...] After the Trump administration quietly c...",
-      "highlights": [
-        "## Quartz's post",
-        "5 hours ago",
-        "U.K. wins back early access to OpenAI and Anthropic's most powerful AI [...] All reactions:"
-      ],
-      "url": "https://www.facebook.com/quartznews/posts/uk-wins-back-early-access-to-openai-and-anthropics-most-powerful-aiafter-the-tru/1464220558907091",
-      "source": "facebook.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-13T03:00:00Z"
-    },
-    {
-      "id": "31c4a619c8e6",
-      "title": "高盛2026年第三季度业绩说明会：营收达187亿美元",
-      "summary": "该机构还强调，随着 AI 融资需求规模变大且日趋复杂，需要保持严谨的承销标准。更广泛的 AI 风险包括前沿模型的发展速度、安全防护措施不足以及测试、监控和人类问责的必要性。\n\n管理层表示，信贷质量整体保持强劲，不过第三季度的提存包含了对几笔独立的、互不相关的风险暴露所计提的较高减值。此外，由于私募股权赞助商延迟从2020年和2021年投资的项目中退出，私募股权赞助的并购活动仍低于历史平均水平。\n\n...",
-      "highlights": [
-        "该机构还强调，随着 AI 融资需求规模变大且日趋复杂，需要保持严谨的承销标准",
-        "更广泛的 AI 风险包括前沿模型的发展速度、安全防护措施不足以及测试、监控和人类问责的必要性",
-        "管理层表示，信贷质量整体保持强劲，不过第三季度的提存包含了对几笔独立的、互不相关的风险暴露所计提的较高减值"
-      ],
-      "url": "https://www.tradingkey.com/zh-hans/news/transcripts/262214758-tradingkey",
-      "source": "tradingkey.com",
+      "url": "https://www.moomoo.com/hans/news/post/1001101416",
+      "source": "moomoo.com",
       "category": "投并购",
       "importance": 4,
-      "publishedAt": "2026-10-13T20:00:00Z"
+      "publishedAt": "2026-10-14T02:00:00Z"
     },
     {
-      "id": "475d53755606",
-      "title": "AI 大模型世界",
-      "summary": "今日格局 ; 最聪明 · Claude Opus 5.5. Anthropic. ECI 167. 综合智力指数，209 个受测模型中第一 ; 最会编程 · Claude Opus 5.5. Anthropic. 前1%. 7 个第三方编程榜的平均",
+      "id": "0b12ee963dbe",
+      "title": "“我会做空一整年”！传奇投资人警告2027年美股或迎来艰难一年-市场参考",
+      "summary": "传奇投资人保罗·都铎·琼斯警告，OpenAI、Anthropic等AI巨头潜在IPO与后续增发，可能逆转回购和并购支撑的股票供给格局。他还警告美国财政赤字与油价上涨风险，",
       "highlights": [
-        "今日格局 ; 最聪明 · Claude Opus 5.5. Anthropic. ECI 167. 综合智力指数，209 个受测模型中第一 ; 最会编程 · Claude Opus 5.5. Anthropic. 前1%. 7 个第三方编程榜的平均"
+        "传奇投资人保罗·都铎·琼斯警告，OpenAI、Anthropic等AI巨头潜在IPO与后续增发，可能逆转回购和并购支撑的股票供给格局",
+        "他还警告美国财政赤字与油价上涨风险，"
       ],
-      "url": "https://www.bilibili.com/toy/ai-model-world",
-      "source": "bilibili.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-13T04:00:00Z"
-    },
-    {
-      "id": "29885c70371d",
-      "title": "Wilson Sonsini Spinoff SixFifty Launches Employment Law AI Agent - Law.com",
-      "summary": "Sign in to access your account and subscription. The Artificial Intelligence Glossary  Data Privacy Law Tracker  Generative AI Case Studies  Legal Tech Deal Tracker  Legal Tech Investment Tracker  Mee...",
-      "highlights": [
-        "Sign in to access your account and subscription. The Artificial Intelligence Glossary  Data Privacy Law Tracker  Generative AI Case Studies  Legal Tech Deal Tracker  Legal Tech Investment Tracker  Meet the Female Founders of Legal Tech. Reporting, and expert analysis of legal technology with a focus onwhat legal departments, law firms, and tech companies need to know. All Surveys & Rankings  Am Law 100  Am Law 200  A-List. ### The Am Law 100 Rankings. The Am Law 100 is the definitive ranking of the 100 largest law firms in the United States. The agent is designed to help users draft jurisdiction-appropriate employment documents and perform other HR compliance tasks. **What It Is:** The HR agent is an AI-powered tool intended to help legal, HR and compliance teams adhere to jurisdiction-specific employment law requirements. #### Join the Law.com Community to Access Legaltech News and Enjoy:."
-      ],
-      "url": "https://www.law.com/legaltechnews/2026/10/13/wilson-sonsini-spinoff-sixfifty-launches-employment-law-ai-agent/",
-      "source": "law.com",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-10-13T13:00:00Z"
-    },
-    {
-      "id": "dadb6e4bb6cd",
-      "title": "IFS launches AI product for industrial operations - Developing Telecoms",
-      "summary": "## IFS launches AI product for industrial operations. IFS has launched IFS Intelligence, an AI product that lets industrial businesses query operational data, investigate issues and prepare actions th...",
-      "highlights": [
-        "## IFS launches AI product for industrial operations. IFS has launched IFS Intelligence, an AI product that lets industrial businesses query operational data, investigate issues and prepare actions through a conversational interface. The product draws on live data from IFS and connected third-party systems, including information on assets, work orders, schedules and operational history. It can recommend actions and prepare them for approval, with controls based on each business’s rules and permissions. IFS Intelligence includes three components: Cowork, for querying data and preparing actions; Loops, which runs defined workflows in the background and escalates tasks when human judgement or approval is needed; and Runway, which uses plain-language requirements to support IFS software migration, configuration and extension. Customers can also save successful queries as reusable Skills or create Lenses, which provide live views of operational data. The company said staff can query fleet data to identify suitable cranes for customer requirements and improve fleet utilisation. Oct 13, 2026 STAFF WRITER. Oct 09, 2026 John Tanner."
-      ],
-      "url": "https://www.developingtelecoms.com/telecom-business/vendor-news/20964-ifs-launches-ai-product-for-industrial-operations.html",
-      "source": "developingtelecoms.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-13T20:26:12Z"
-    },
-    {
-      "id": "4db39b4a695b",
-      "title": "RSI新突破，UC Berkeley、Sakana AI团队提出「多Agent自监督」MASS-36氪",
-      "summary": "改进的球堆积界、新的胶子散射公式，以及经实验验证的纳米抗体设计……前沿 AI 系统已经开始在科学研究中取得原创性成果。\n\n如何让这一进程持续下去，并进一步提高研究效率？递归自我改进（Recursive Self-Improvement，RSI）被视为一个有潜力的方向。\n\nRSI 主要由评估与改进两个核心组件驱动。然而，在前沿科研中，这两个环节都面临现实困难：在评估方面，如果研究成果超出了现有人类专...",
-      "highlights": [
-        "改进的球堆积界、新的胶子散射公式，以及经实验验证的纳米抗体设计……前沿 AI 系统已经开始在科学研究中取得原创性成果",
-        "如何让这一进程持续下去，并进一步提高研究效率",
-        "递归自我改进（Recursive Self-Improvement，RSI）被视为一个有潜力的方向"
-      ],
-      "url": "https://m.36kr.com/p/4023756853022851",
-      "source": "m.36kr.com",
-      "category": "前沿理论",
-      "importance": 3,
-      "publishedAt": "2026-10-13T13:01:13Z"
-    },
-    {
-      "id": "29197faa2283",
-      "title": "One-year-old Israeli AI startup with six employees acquired for estimated $100 millio | Ctech",
-      "summary": "As part of the acquisition, Geniez AI’s technical leadership and engineering team will join Rocket Software to help accelerate its AI initiatives, including new capabilities for Rocket EVA, the compan...",
-      "highlights": [
-        "As part of the acquisition, Geniez AI’s technical leadership and engineering team will join Rocket Software to help accelerate its AI initiatives, including new capabilities for Rocket EVA, the company’s agentic AI platform for core systems. The companies aim to move mainframe management away from processes that depend heavily on specialized expertise toward AI-assisted operations that make complex systems easier to understand, manage and modernize. [...] Rocket Software said the acquisition would help enterprises address the shortage of skilled mainframe professionals, reduce operational complexity and automate mission-critical workflows. The combined technology is intended to help teams turn institutional knowledge into actionable intelligence, surface insights and take action across core systems while maintaining appropriate security, governance and control. [...] Geniez AI develops generative AI technology designed to help enterprises manage and modernize mainframe systems, the large-scale computers that underpin critical business operations across industries, including financial services. Its AI agents operate directly on mainframes, monitoring live systems, diagnosing incidents and executing workflows using natural language."
-      ],
-      "url": "https://www.calcalistech.com/ctechnews/article/996lzw73e",
-      "source": "calcalistech.com",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-10-13T15:48:58Z"
-    },
-    {
-      "id": "e8b5e6689211",
-      "title": "AI Startup Acquisitions Accelerate, Talent and Tech in High ...",
-      "summary": "195 AI startups have been acquired by venture-backed AI companies so far in 2026—already 14% more than in all of 2025.",
-      "highlights": [
-        "195 AI startups have been acquired by venture-backed AI companies so far in 2026—already 14% more than in all of 2025."
-      ],
-      "url": "https://www.linkedin.com/posts/menlo-ventures_crunchbase-data-shows-ais-most-active-startups-activity-7513745070077177856-YFCJ",
-      "source": "linkedin.com",
+      "url": "https://xnews.jin10.com/details/232390",
+      "source": "xnews.jin10.com",
       "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-13T04:04:08Z"
+      "importance": 4,
+      "publishedAt": "2026-10-14T02:00:00Z"
     },
     {
-      "id": "8b9a5c72deec",
-      "title": "Techmeme - AI startup acquisitions by other AI startups...",
-      "summary": "## Techmeme's post\n\n### Techmeme\n\n14 hours ago\n\n14h  ·\n\nAI startup acquisitions by other AI startups hit 195 through Sept. 29, up 14% from all of 2025, but number of buyers grew just 2%; OpenAI was th...",
+      "id": "07865cd8e03e",
+      "title": "The new ⁠version ‌comes amid a flurry of custom chips ...",
+      "summary": "OpenAI may start producing custom chips to run their models more efficiently. Google's TPU chips run over 90% of internal training • The Amazon-Anthropic",
       "highlights": [
-        "## Techmeme's post",
-        "### Techmeme",
-        "14 hours ago"
+        "OpenAI may start producing custom chips to run their models more efficiently. Google's TPU chips run over 90% of internal training • The Amazon-Anthropic"
       ],
-      "url": "https://www.facebook.com/Techmeme/posts/ai-startup-acquisitions-by-other-ai-startups-hit-195-through-sept-29-up-14-from-/1549961137166195",
+      "url": "https://www.facebook.com/TheStarOnline/posts/the-new-version-comes-amid-a-flurry-of-custom-chips-from-both-cloud-computing-ri/1595074289321757",
+      "source": "facebook.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-14T02:18:34Z"
+    },
+    {
+      "id": "6de171d50f27",
+      "title": "44% of investors aren't putting... - Angel Investment Network",
+      "summary": "## Angel Investment Network's Post\n\n### Angel Investment Network\n\n10 hours ago\n\n10h  ·\n\n44% of investors aren't putting any money into AI at all.\n\nWith so much attention on AI raises, it's easy to for...",
+      "highlights": [
+        "## Angel Investment Network's Post",
+        "### Angel Investment Network",
+        "10 hours ago"
+      ],
+      "url": "https://www.facebook.com/angelinvestmentnetwork/posts/44-of-investors-arent-putting-any-money-into-ai-at-allwith-so-much-attention-on-/1548683087290947",
       "source": "facebook.com",
       "category": "投并购",
       "importance": 2,
-      "publishedAt": "2026-10-13T04:04:08Z"
-    },
-    {
-      "id": "69d84c331da4",
-      "title": "Texas Entrepreneurship Through Acquisition Conference ...",
-      "summary": "The 2026 Texas Entrepreneurship Through Acquisition (ETA) Conference is this Friday, Oct. 16! Summarized by AI from the post below … the premier event in Texas",
-      "highlights": [
-        "The 2026 Texas Entrepreneurship Through Acquisition (ETA) Conference is this Friday, Oct. 16! Summarized by AI from the post below … the premier event in Texas"
-      ],
-      "url": "https://www.facebook.com/BusinessRice/posts/the-2026-texas-entrepreneurship-through-acquisition-eta-conference-is-this-frida/1569949715174148",
-      "source": "facebook.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-13T13:01:14Z"
-    },
-    {
-      "id": "8dcdc69b09a6",
-      "title": "Instagram",
-      "summary": "investigate trends and anomalies, and deliver actionable insights. The acquisition is expected to close in early November of Salesforce’s fiscal 2027, subject to customary closing conditions. [...] Sa...",
-      "highlights": [
-        "investigate trends and anomalies, and deliver actionable insights. The acquisition is expected to close in early November of Salesforce’s fiscal 2027, subject to customary closing conditions. [...] Salesforce is acquiring Israeli AI analytics startup Loops in a deal estimated at $30 million, although the companies have not disclosed the terms. Founded in 2020 by CEO Tom Laufer and CTO Ido Adiv, Loops develops AI-powered technology that identifies the drivers behind changing business metrics and recommends next steps. Salesforce plans to integrate Loops’ technology and team into Tableau to advance autonomous analytics, enabling AI agents to monitor business performance, investigate trends [...] Video by Traded: Venture Capital 🦄 on November 05, 2025.",
-        "Photo by Traded: Venture Capital 🦄 on October 12, 2026.",
-        "Photo by Traded: Venture Capital 🦄 on October 12, 2026."
-      ],
-      "url": "https://www.instagram.com/p/DeaLPueH-iV",
-      "source": "instagram.com",
-      "category": "具身智能",
-      "importance": 2,
-      "publishedAt": "2026-10-13T13:01:14Z"
-    },
-    {
-      "id": "24a94cd518bc",
-      "title": "今日AI大模型新闻速览(10月13日)",
-      "summary": "扎克伯格表示公司已在AI前沿领域追上竞争对手,并承诺继续大规模投入.受此消息影响,Meta股价周一逆势上涨3.38%.该模型是...",
-      "highlights": [
-        "扎克伯格表示公司已在AI前沿领域追上竞争对手,并承诺继续大规模投入.受此消息影响,Meta股价周一逆势上涨3.38%.该模型是..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-iFYeeWufDDJAEmB6lDqxhV_Kwi0GO5j1qXa8Fplpd9TOXHI3AVOXmTCPAD61Y54EheZnSayJ1CXiMopBXO-GMJ0KlrmW9csWfUAtDK1ngMyS7VdBJGYFQT4nIEr-vUcJ1OZ3twGG3BK_3hGB__AN0gFBp2mTArL6RE6Adrel1c9wLB6Yq2f7g50u78yzAZzR9raRkRZyE4tvcrkyQPKcmAFV_3u-a3OQ..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=0D73C0E86E0CA41B0E0953B76744B7C60FA5B59A6ACE2B91",
-      "source": "微信公众号",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-10-13T09:52:11Z"
-    },
-    {
-      "id": "a37a3930254f",
-      "title": "Kogan taps AI agent to handle customer service - iTnews",
-      "summary": "# Kogan taps AI agent to handle customer service. Australian e-tailer Kogan has identified 10 customer service use cases so far for an AI agent that it built in collaboration with Salesforce. He said ...",
-      "highlights": [
-        "# Kogan taps AI agent to handle customer service. Australian e-tailer Kogan has identified 10 customer service use cases so far for an AI agent that it built in collaboration with Salesforce. He said the online retailer saw an opportunity to use AI to reduce the effort that customers had to go to for support inquiries, and see faster responses. “You can't wait and hope for a 60 percent,  90 percent or 100 percent [resolution] rate from day one - that's not realistic, and I think that's where a lot of businesses fail in getting things in front of customers because they’re too precious about iterating and improving from [square] one.”. Kogan elected to rearchitect the customer service bot with Salesforce’s Agentforce technology, partnering with the vendor’s forward deployment team. So far, 10 customer service use cases can be handled by the AI agent. WISMO is designed to pick up the order status directly from SAP and pass it on to the customer."
-      ],
-      "url": "https://www.itnews.com.au/news/kogan-taps-ai-agent-to-handle-customer-service-629602",
-      "source": "itnews.com.au",
-      "category": "产品进展",
-      "importance": 2,
-      "publishedAt": "2026-10-13T19:45:00Z"
-    },
-    {
-      "id": "590a07501a41",
-      "title": "What Advertising Week revealed about marketing’s competing priorities - The Drum",
-      "summary": "# What Advertising Week revealed about marketing’s competing priorities. At Advertising Week New York, marketing leaders had plenty of new capabilities to describe, including hundreds of AI agents and...",
-      "highlights": [
-        "# What Advertising Week revealed about marketing’s competing priorities. At Advertising Week New York, marketing leaders had plenty of new capabilities to describe, including hundreds of AI agents and data that can trace a purchase back to the ad behind it. For companies already using AI to produce advertising and analyze campaign results, the next challenge is deciding how deeply to integrate the technology into everyday operations. Some are rebuilding teams and decision-making processes around it, even as questions persist about the consequences for employees and the quality of what those teams produce. At SharkNinja, a new category team operates with 344 AI agents and a handful of humans. “Unlike other team constructs where they have team and add-on AI, this is AI with human added on,” Michelle Crossan-Matos, SharkNinja’s chief brand and experience officer, told The Drum. Whether those improvements produce stronger brand performance remains a separate question, and it grows more complicated when the people expected to use the technology are uncertain about its consequences."
-      ],
-      "url": "https://www.thedrum.com/news/what-advertising-week-revealed-about-marketing-s-competing-priorities",
-      "source": "thedrum.com",
-      "category": "产品进展",
-      "importance": 2,
-      "publishedAt": "2026-10-13T09:24:13Z"
+      "publishedAt": "2026-10-14T02:18:34Z"
     }
   ],
   "week": [
