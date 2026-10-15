@@ -1,6 +1,538 @@
 {
-  "updatedAt": "2026-10-15T01:59:34Z",
+  "updatedAt": "2026-10-15T10:25:59Z",
   "latest": [
+    {
+      "id": "be9934fb9c21",
+      "title": "微软计划大规模部署自研人工智能芯片：直指成本与算力效率_Maia_系统_Azure",
+      "summary": "体育\n\n汽车\n\n房产\n\n旅游\n\n教育\n\n时尚\n\n科技\n\n财经\n\n娱乐\n\n# 微软计划大规模部署自研人工智能芯片：直指成本与算力效率\n\n2026-10-13 17:17  来源: 环球网科技\n\n发布于：北京市\n\n10月13日消息，据路透社报道称，微软发布下一代定制人工智能芯片Maia 300，并表示计划明年部署超过100万颗该芯片，用于支持内部AI服务。微软称，Maia 300是其第三代定制AI芯片...",
+      "highlights": [
+        "# 微软计划大规模部署自研人工智能芯片：直指成本与算力效率",
+        "2026-10-13 17:17  来源: 环球网科技",
+        "10月13日消息，据路透社报道称，微软发布下一代定制人工智能芯片Maia 300，并表示计划明年部署超过100万颗该芯片，用于支持内部AI服务"
+      ],
+      "url": "https://www.sohu.com/a/1087263753_99900743?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "sohu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-13T17:17:00Z"
+    },
+    {
+      "id": "f881184c377f",
+      "title": "百万颗英伟达GPU涌入中国，云计算巨头集体“造芯”：算力竞争进入下半场_搜狐网",
+      "summary": "## 百万颗英伟达GPU涌入中国，云计算巨头集体“造芯”：算力竞争进入下半场\n\n通信世界\n\n一边是中国AI企业一年采购超百万颗英伟达GPU，以填补国产芯片短期难以覆盖的巨大需求缺口；一边是IDC最新数据显示英伟达在华AI芯片市场份额已降至34%，华为携28%的份额逼近；与此同时，微软以史上最大规模自研芯片押注回应算力焦虑，并将全球数据中心容量从12GW向38GW狂飙突进。\n\n四组信息交织在一起，勾...",
+      "highlights": [
+        "## 百万颗英伟达GPU涌入中国，云计算巨头集体“造芯”：算力竞争进入下半场",
+        "一边是中国AI企业一年采购超百万颗英伟达GPU，以填补国产芯片短期难以覆盖的巨大需求缺口；一边是IDC最新数据显示英伟达在华AI芯片市场份额已降至34%，华为携28%的份额逼近；与此同时，微软以史上最大规模自研芯片押注回应算力焦虑，并将全球数据中心容量从12GW向38GW狂飙突进",
+        "四组信息交织在一起，勾勒出全球算力竞争的最新格局：竞争的重心，已不再是单颗芯片的性能参数，而是供给稳定性、软硬件生态适配，以及资本与能源的综合承载力"
+      ],
+      "url": "https://m.sohu.com/a/1087495346_128075?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-14T09:56:00Z"
+    },
+    {
+      "id": "c323d2e61571",
+      "title": "已投超200个项目，苏创投重仓『人工智能』『具身智能』_投资界",
+      "summary": "具身智能一侧，9月8日，苏创投与『灵猴机器人』签署投资合作协议，这是第二次追加投资。灵猴机器人是业内少有的同时掌握“核心零部件自研+整机规模化量产”双能力的硬科技企业，获批筹建江苏省具身智能机器人核心技术与零部件重点实验室。近期，灵猴机器人完成超亿元C轮融资，由宁德时代系晨道资本领投，苏创投作为老股东持续加码。\n\n人工智能及具身智能的竞赛，刚进入正赛。苏创投将继续发挥国有资本的战略引领作用，坚守投...",
+      "highlights": [
+        "具身智能一侧，9月8日，苏创投与『灵猴机器人』签署投资合作协议，这是第二次追加投资",
+        "灵猴机器人是业内少有的同时掌握“核心零部件自研+整机规模化量产”双能力的硬科技企业，获批筹建江苏省具身智能机器人核心技术与零部件重点实验室",
+        "近期，灵猴机器人完成超亿元C轮融资，由宁德时代系晨道资本领投，苏创投作为老股东持续加码"
+      ],
+      "url": "https://news.pedaily.cn/202610/570250.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-14T06:36:00Z"
+    },
+    {
+      "id": "82c85617680b",
+      "title": "瑞银：具身智能市场2035年或达4020亿美元，进入新一轮增长周期_搜狐网",
+      "summary": "## 瑞银：具身智能市场2035年或达4020亿美元，进入新一轮增长周期\n\n财闻\n\n财闻\n\n10月13日，瑞银发布最新研报指出，随着人工智能技术快速进步，具身智能正推动人形机器人、自动驾驶及工业自动化进入新一轮增长周期。人口老龄化、劳动力短缺及制造业回流带来的成本压力，将进一步加速自动化技术普及。\n\n瑞银保守估计，未来十年全球人形机器人及自动化相关潜在市场规模将达到4020亿美元，年复合增长率约1...",
+      "highlights": [
+        "## 瑞银：具身智能市场2035年或达4020亿美元，进入新一轮增长周期",
+        "10月13日，瑞银发布最新研报指出，随着人工智能技术快速进步，具身智能正推动人形机器人、自动驾驶及工业自动化进入新一轮增长周期",
+        "人口老龄化、劳动力短缺及制造业回流带来的成本压力，将进一步加速自动化技术普及"
+      ],
+      "url": "https://m.sohu.com/a/1087285419_121157270?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-13T18:13:00Z"
+    },
+    {
+      "id": "36f873a80f5f",
+      "title": "AI冲击如海啸，77岁菲尔兹奖得主丘成桐亲自下场：集结千名学者造数学大模型-36氪",
+      "summary": "这不是简单地让数学家使用 AI 工具，而是让数学家直接参与 AI 的开发，甚至以基础数学研究反过来推动模型架构、算法和推理能力的改进。\n\n事实上，丘成桐已经亲自在使用 AI。\n\n（图注：论文署名为丘成桐英文名 Shing-Tung Yau）\n\n今年 9 月 24 日，他与合作者发表预印本论文《Positive Sectional Curvature on All Smooth 7-spheres》...",
+      "highlights": [
+        "这不是简单地让数学家使用 AI 工具，而是让数学家直接参与 AI 的开发，甚至以基础数学研究反过来推动模型架构、算法和推理能力的改进",
+        "事实上，丘成桐已经亲自在使用 AI",
+        "（图注：论文署名为丘成桐英文名 Shing-Tung Yau）"
+      ],
+      "url": "https://m.36kr.com/p/4023810826538880",
+      "source": "m.36kr.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-13T22:30:40Z"
+    },
+    {
+      "id": "3b8f5bf44a16",
+      "title": "Meta 发布全新旗舰 AI 大模型！追赶 OpenAI，手机端 AI 大战全面开启？_网友_功能_能力",
+      "summary": "体育\n\n汽车\n\n房产\n\n旅游\n\n教育\n\n时尚\n\n科技\n\n财经\n\n娱乐\n\n# 原创 Meta 发布全新旗舰 AI 大模型！追赶 OpenAI，手机端 AI 大战全面开启？\n\n2026-10-13 12:47  来源: 数码八叔\n\n发布于：广西壮族自治区\n\nMeta 在近期发布新一代旗舰 AI 大模型，正式加入全球顶尖 AI 模型竞赛，目标追赶 OpenAI 等头部厂商，这条科技消息在微博数码圈刷屏，...",
+      "highlights": [
+        "# 原创 Meta 发布全新旗舰 AI 大模型",
+        "追赶 OpenAI，手机端 AI 大战全面开启",
+        "2026-10-13 12:47  来源: 数码八叔"
+      ],
+      "url": "https://www.sohu.com/a/1087134108_100085330",
+      "source": "sohu.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-13T12:47:00Z"
+    },
+    {
+      "id": "5e61d8c56063",
+      "title": "Manus 携手 OPPO，AI Agent 能力将落地 ColorOS 17",
+      "summary": "AI 智能体产品 Manus 宣布与手机厂商 OPPO 达成合作，将为 OPPO 新一代操作系统 ColorOS 17 的 Agent 能力提供支持。这标志着 Manus 从独立的通用智能体产品走向手机系统级集成，也是 AI Agent 与智能手机操作系统深度融合的又一典型案例。Manus 是 2025 年初上线的通用 AI 智能体产品，由蝴蝶效应团队开发，主打自主规划与多步骤任务执行能力，上线后...",
+      "highlights": [
+        "AI 智能体产品 Manus 宣布与手机厂商 OPPO 达成合作，将为 OPPO 新一代操作系统 ColorOS 17 的 Agent 能力提供支持",
+        "这标志着 Manus 从独立的通用智能体产品走向手机系统级集成，也是 AI Agent 与智能手机操作系统深度融合的又一典型案例",
+        "Manus 是 2025 年初上线的通用 AI 智能体产品，由蝴蝶效应团队开发，主打自主规划与多步骤任务执行能力，上线后迅速引发行业关注"
+      ],
+      "url": "https://www.80aj.com/2026/10/13/manus-oppo-ai-agent-coloros",
+      "source": "80aj.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-13T15:50:55Z"
+    },
+    {
+      "id": "c8b45cc2dcf0",
+      "title": "人工智能的学术化、集中化、国际化_腾讯新闻",
+      "summary": "本世纪人工智能领域最具技术突破性的两个事件无疑是2012年AlexNet和2017年Transformer，前者开启了深度学习革命，后者成为所有主流大语言模型的基础架构。AlexNet和Transformer分别源于两篇论文：《用深度卷积神经网络进行ImageNet图像分类》和《Attention is All You Need》，它们分别是本世纪引用量排名第四和第三的人工智能论文（来源：Natu...",
+      "highlights": [
+        "本世纪人工智能领域最具技术突破性的两个事件无疑是2012年AlexNet和2017年Transformer，前者开启了深度学习革命，后者成为所有主流大语言模型的基础架构",
+        "AlexNet和Transformer分别源于两篇论文：《用深度卷积神经网络进行ImageNet图像分类》和《Attention is All You Need》，它们分别是本世纪引用量排名第四和第三的人工智能论文（来源：Nature，2025）",
+        "扩展定律（Scaling Law）是指引大语言模型发展的明灯，其提出是在2020年OpenAI的论文《Scaling Laws for Neural Language Models》"
+      ],
+      "url": "https://news.qq.com/rain/a/20261013A09HXG00",
+      "source": "news.qq.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-13T16:30:57Z"
+    },
+    {
+      "id": "1e1a02af0871",
+      "title": "‘Counting the Ways’ in AI. OpenAI, Anthropic & AI Compute. ARD #182",
+      "summary": "MP Take: the frontier companies are recognizing it. OpenAI’s newer default models cut sycophancy by more than two-thirds, and outside researchers are seeing the improvement.\n\n### The Multi-Year Comput...",
+      "highlights": [
+        "MP Take: the frontier companies are recognizing it. OpenAI’s newer default models cut sycophancy by more than two-thirds, and outside researchers are seeing the improvement.",
+        "### The Multi-Year Compute Crunch",
+        "From founders setting up AI servers next to their wine cellars, to the biggest companies rationing compute, everyone is scrambling. [...] Everyone is chasing compute, per the WSJ in ‘The Desperate Hunt for AI Computing Power Is Upending Silicon Valley’. Even at the top of the heap, budgeting compute across teams is a big challenge. Google lost one of its star AI researchers, Noam Shazeer, whom it paid $2.7 billion in 2024 to bring back, when he left for OpenAI after his team’s compute was cut. Renting Nvidia’s older H100 chips on a one-year contract costs about 60% more than a year ago, per SemiAnalysis. Cloud providers now want [...] Cheaper isn’t always cheaper. Researchers at Stanford, Carnegie Mellon, Berkeley and Microsoft Research tested more than 6,800 tasks and found that in 32% of cases, the lower-priced AI model ended up costing more. In one test, Google’s Gemini 3 Flash ran 952 steps, spent about $14, and failed; Gemini 3.1 Pro finished in 85 steps, for about $1. And the same model can use a different number of tokens each time it runs the same task. Google points customers to spending caps and flexible pricing."
+      ],
+      "url": "https://michaelparekh.substack.com/p/counting-the-ways-in-ai-openai-anthropic",
+      "source": "michaelparekh.substack.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-14T16:01:54Z"
+    },
+    {
+      "id": "02a5cb186854",
+      "title": "CNBC Daily Open: Diesel deal may not be enough to curb high energy prices - CNBC",
+      "summary": "Bank of America was hit with more than $1.2 billion in federal penalties, while other U.S. banks like JPMorgan Chase, Wells Fargo, Goldman Sachs and Citigroup are posting mixed financial results. Anth...",
+      "highlights": [
+        "Bank of America was hit with more than $1.2 billion in federal penalties, while other U.S. banks like JPMorgan Chase, Wells Fargo, Goldman Sachs and Citigroup are posting mixed financial results. Anthropic will release its third-quarter financials for the first time, and Apple has announced a voice-controlled smart home hub. Analysts are expressing skepticism over Trump's diesel deal with Russia, as the supply of 4.8 million metric tons — which amounts to a little more than a single day of global demand — is unlikely to reduce fuel prices significantly for U.S. truckers and farmers. Bank of America, which will be reporting its earnings on Wednesday, was hit with more than $1.2 billion in federal penalties for allegedly violating sanction and anti-money laundering laws. Moving over to tech, AI giant Anthropic, which is preparing for what could be the largest IPO in history, will release its third-quarter financials for the first time in a meeting with potential investors on Wednesday."
+      ],
+      "url": "https://www.cnbc.com/2026/10/14/cnbc-daily-open-diesel-energy-apple-anthropic-imf.html",
+      "source": "cnbc.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-14T01:09:16Z"
+    },
+    {
+      "id": "9f18936aff63",
+      "title": "Meta AI models: Meta says its new AI models on par with OpenAI, Anthropic - The Economic Times",
+      "summary": "Leaders at Anthropic, OpenAI and Google have encouraged \"pacing\" - or slowing down - development after models created by all three were found to have escaped their testing environments or taken action...",
+      "highlights": [
+        "Leaders at Anthropic, OpenAI and Google have encouraged \"pacing\" - or slowing down - development after models created by all three were found to have escaped their testing environments or taken actions without authorization.",
+        "\"We will slow down as much as necessary in order to make sure that every successive AI technology that we release is actually safe,\" Anthropic CEO Dario Amodei told the United Nations last month. [...] Wonder is \"our largest and most capable model yet\" and \"rivals the big (boys),\" Wang posted on X, presumably referring to leading labs OpenAI and Anthropic.",
+        "In a blog post, Meta touted so-called benchmarking data from an independent firm called Artificial Analysis that appears to show that Meta's newest Wonder models outperform its own previous models, Spark, as well as various models developed by Anthropic, OpenAI and Google. [...] Meta on Monday unveiled two new \"frontier\" artificial intelligence models called Wonder and Wonder Full, which the company claims perform at a level comparable to that of OpenAI's ChatGPT and Anthropic's Claude. In a blog post, Meta touted so-called benchmarking data from an independent firm called Artificial Analysis that appears to show that Meta's newest Wonder models outperform its own previous models, Spark, as well as various models developed by Anthropic, OpenAI and Google."
+      ],
+      "url": "https://m.economictimes.com/tech/artificial-intelligence/meta-says-its-new-ai-models-on-par-with-openai-anthropic/articleshow/134906480.cms",
+      "source": "m.economictimes.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-13T21:00:00Z"
+    },
+    {
+      "id": "7e8b6df335a5",
+      "title": "Applied Materials unveiled massive, $5 billion EPIC facility for advanced AI chips in Silicon Valley | Fortune",
+      "summary": "The U.S. government has barred the sales of advanced GPU chips and advanced chipmaking equipment to China, in an effort to deprive the country of the computing brawn necessary to create AI models capa...",
+      "highlights": [
+        "The U.S. government has barred the sales of advanced GPU chips and advanced chipmaking equipment to China, in an effort to deprive the country of the computing brawn necessary to create AI models capable of outperforming models made by U.S. companies like OpenAI, Anthropic, and Google. Dickerson repeatedly invoked “winning the AI race” at Monday’s event, though he would not comment specifically on his views about U.S. regulations on sales to China. (In February, Applied Materials paid $252 [...] Fortune Daily breaks the traditional barrier between audience and newsroom. The show transforms Fortune’s trusted reporting into actionable, conversational, and entertaining insights for an emerging class of business leaders. Watch here.",
+        "About the Author",
+        "Alexei Oreskovic"
+      ],
+      "url": "https://fortune.com/2026/10/13/applied-materials-advanced-ai-chips-epic-semiconductor-silicon-valley",
+      "source": "fortune.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-13T23:00:00Z"
+    },
+    {
+      "id": "ca4d5a56b9fc",
+      "title": "The biggest AI startup exits of 2026: How Nvidia, SpaceX, Google, and OpenAI are buying the future of AI - Tech Startups",
+      "summary": "| SpaceX | $60B | 2026 | Acquisition agreed |\n| Groq | Nvidia | ~$20B | 2025 | Licensing and hiring |\n| Scale AI | Meta | $14.3B | 2025 | Minority investment |\n| Hugging Face | Nvidia | $12.9B | 2026 ...",
+      "highlights": [
+        "| SpaceX | $60B | 2026 | Acquisition agreed |",
+        "| Groq | Nvidia | ~$20B | 2025 | Licensing and hiring |",
+        "| Scale AI | Meta | $14.3B | 2025 | Minority investment |"
+      ],
+      "url": "https://techstartups.com/2026/10/14/the-biggest-ai-startup-exits-of-2026-how-nvidia-meta-google-and-openai-are-buying-the-future-of-ai",
+      "source": "techstartups.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-14T18:15:41Z"
+    },
+    {
+      "id": "7e6021b45f2b",
+      "title": "首款大模型原生智能体手机STEPXNeo发布",
+      "summary": "[](\n\n 时政\n 热点\n 政务\n 深瞳\n 访谈\n 视频\n 国际\n 地方\n 专题\n English\n 滚动\n\n[](  登录 -\n\n所在位置： 中国科技网首页 > 滚动 > 正文\n\n# 首款大模型原生智能体手机STEPXNeo发布\n\n2026-10-14 19:04:27 来源:  科技日报  点击数：\n\n李蓉 科技日报记者 王春\n\n10月13日，大模型原生AI终端品牌STEPX阶跃终端正式对外发...",
+      "highlights": [
+        "所在位置： 中国科技网首页 > 滚动 > 正文",
+        "# 首款大模型原生智能体手机STEPXNeo发布",
+        "2026-10-14 19:04:27 来源:  科技日报  点击数："
+      ],
+      "url": "https://www.stdaily.com/web/gdxw/2026-10/14/content_596066.html",
+      "source": "stdaily.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-14T10:00:00Z"
+    },
+    {
+      "id": "e170c4a653a0",
+      "title": "微软再推自研AI芯片，算力提高40%，2027年问世 _ 东方财富网",
+      "summary": "微软表示，Azure Maia 200现已投入生产。从2027年起，将扩展Azure Maia系列，实现多吉瓦级部署，使Maia成为微软产品与服务的主要推理系统。\n\n　　据微软介绍，Azure Maia 300是一款专为当前新兴的AI工作负载而设计的完整智能系统。通过提升系统的整体效率，与通用图像处理芯片(GPU)相比，预计Azure Maia 300可在相同电力条件下让AI处理的数据量增加40%...",
+      "highlights": [
+        "微软表示，Azure Maia 200现已投入生产",
+        "从2027年起，将扩展Azure Maia系列，实现多吉瓦级部署，使Maia成为微软产品与服务的主要推理系统",
+        "据微软介绍，Azure Maia 300是一款专为当前新兴的AI工作负载而设计的完整智能系统"
+      ],
+      "url": "http://finance.eastmoney.com/a/202610133894384190.html",
+      "source": "finance.eastmoney.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-14T05:00:00Z"
+    },
+    {
+      "id": "a10f354890b5",
+      "title": "Anthropic revenue surges 45% to nearly $17B in third quarter as AI giant gears up for IPO - New York Post",
+      "summary": "# Anthropic revenue surges 45% to nearly $17B in third quarter as AI giant gears up for IPO. Anthropic’s third-quarter revenue rose 45% to $16.8 billion from the previous quarter, according to an inve...",
+      "highlights": [
+        "# Anthropic revenue surges 45% to nearly $17B in third quarter as AI giant gears up for IPO. Anthropic’s third-quarter revenue rose 45% to $16.8 billion from the previous quarter, according to an investor who attended a pre-IPO meeting with Anthropic leadership in San Francisco on Wednesday. Revenue in the first quarter was $4.7 billion, and $11.6 billion in the second quarter, according to the person who attended the investor day meant to familiarize prospective Anthropic investors before its highly anticipated IPO. The IPO is expected to precede a public listing by rival OpenAI, making Anthropic an early test of investor appetite for heavily unprofitable AI developers pursuing massive scale. Founded by former OpenAI executives, Anthropic has emerged as one of the leading generative AI developers with its Claude family of models. Anthropic has also sought to distinguish itself through its focus on AI safety, warning of the dangers posed by increasingly capable systems even as it competes in the race to develop and commercialize more powerful models."
+      ],
+      "url": "https://nypost.com/2026/10/14/business/anthropic-revenue-surges-45-to-nearly-17b-in-third-quarter/",
+      "source": "nypost.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-14T23:26:09Z"
+    },
+    {
+      "id": "81fd3784175e",
+      "title": "瑞银：具身智能市场2035年或达4020亿美元，进入新一轮增长周期_搜狐网",
+      "summary": "## 瑞银：具身智能市场2035年或达4020亿美元，进入新一轮增长周期\n\n新浪财经\n\n新浪财经\n\n（来源：财闻）\n\n瑞银发布最新研报指出，随着人工智能技术快速进步，具身智能正推动人形机器人、自动驾驶及工业自动化进入新一轮增长周期。\n\n10月13日，瑞银发布最新研报指出，随着人工智能技术快速进步，具身智能正推动人形机器人、自动驾驶及工业自动化进入新一轮增长周期。人口老龄化、劳动力短缺及制造业回流带...",
+      "highlights": [
+        "## 瑞银：具身智能市场2035年或达4020亿美元，进入新一轮增长周期",
+        "瑞银发布最新研报指出，随着人工智能技术快速进步，具身智能正推动人形机器人、自动驾驶及工业自动化进入新一轮增长周期",
+        "10月13日，瑞银发布最新研报指出，随着人工智能技术快速进步，具身智能正推动人形机器人、自动驾驶及工业自动化进入新一轮增长周期"
+      ],
+      "url": "https://m.sohu.com/a/1087282548_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-13T18:15:20Z"
+    },
+    {
+      "id": "549cf932ae2f",
+      "title": "I Tried Google's New Gemini 4 Argon Model, and Here's How It Measures up to GPT-6 - Lifehacker",
+      "summary": "* View our Bluesky Page (Opens in a new tab). * View our Instagram Page (Opens in a new tab). * View on Facebook Page (Opens in a new tab). * View our Youtube Page (Opens in a new tab). * View our Twi...",
+      "highlights": [
+        "* View our Bluesky Page (Opens in a new tab). * View our Instagram Page (Opens in a new tab). * View on Facebook Page (Opens in a new tab). * View our Youtube Page (Opens in a new tab). * View our Twitter Page (Opens in a new tab). # I Tried Google's New Gemini 4 Argon Model, and Here's How It Measures up to GPT-6. More recently, he has worked as a freelancer for some of the biggest technology publications on the web, covering everything from on-the-ground reporting about product launches, to detailed explainers and how-to guides on apps, gadgets, and platforms. All of these stats are things you would expect to read about in a new AI model announcement, whether it's from Google, Anthropic, or OpenAI: \"Our new model is better and safer than ever, and particularly good in these specific benchmarks we've chosen.\" But is it any more helpful for the average user tapping away in the Gemini app?"
+      ],
+      "url": "https://lifehacker.com/tech/heres-how-gemini-4-argon-compares-to-gpt-6",
+      "source": "lifehacker.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-14T15:00:00Z"
+    },
+    {
+      "id": "4b1e7d7541c4",
+      "title": "Google finally releases Gemini 4 Argon - The Verge",
+      "summary": "After months of trailing its rivals, Google says Argon competes with the industry’s best. After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Ge...",
+      "highlights": [
+        "After months of trailing its rivals, Google says Argon competes with the industry’s best. After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. The model is rolling out today to Google’s higher-tier Pro and Ultra subscribers in the Gemini app and AI mode in Search, as well to Ultra subscribers on its agentic development platform Antigravity. The model is launching with an introductory price of $2 per million input tokens and $10 per million output tokens, around a fifth the cost of OpenAI’s GPT-6 Astra and Anthropic’s Fable 5 models. Landing just a day after Meta announced its own frontier model, Muse Wonder Full, Argon is a reminder of how quickly the balance of power can shift in AI, and that the frontier is far from a two-horse race."
+      ],
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+      "source": "theverge.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-13T16:00:00Z"
+    },
+    {
+      "id": "2863e82e589f",
+      "title": "绿的谐波：具身智能行业进入产业化落地高速发展阶段 - 财闻网",
+      "summary": "15:07\n\n机构：国内风电核准仍然维持高景气、大兆瓦机型加速渗透\n\n15:05\n\n杰富瑞警告：美伊中期选举前达成协议希望渺茫，特朗普选后或再度发动空袭\n\n15:04\n\n乌克兰官员：“星链”限速致乌军多个任务中断\n\n15:04\n\n两部门联合印发意见 强化知识产权协同保护\n\n15:02\n\n利雅得多次传出爆炸声\n\n热门文章\n\n日排行   周排行\n\n2026年诺贝尔经济学奖揭晓！过去十年获奖者都贡献了什...",
+      "highlights": [
+        "机构：国内风电核准仍然维持高景气、大兆瓦机型加速渗透",
+        "杰富瑞警告：美伊中期选举前达成协议希望渺茫，特朗普选后或再度发动空袭",
+        "乌克兰官员：“星链”限速致乌军多个任务中断"
+      ],
+      "url": "https://www.caiwennews.com/article/1650364.shtml",
+      "source": "caiwennews.com",
+      "category": "行业话题",
+      "importance": 5,
+      "publishedAt": "2026-10-14T12:34:55Z"
+    },
+    {
+      "id": "3d9d83976159",
+      "title": "Anthropic's quarterly revenue leaps to $16.8 billion as IPO looms - Business Insider",
+      "summary": "Anthropic told investors it brought in $16.8 billion in revenue during the third quarter, Business Insider has learned. The company behind Claude said Wednesday that it achieved profitability on an ad...",
+      "highlights": [
+        "Anthropic told investors it brought in $16.8 billion in revenue during the third quarter, Business Insider has learned. The company behind Claude said Wednesday that it achieved profitability on an adjusted basis last quarter. Investors view Anthropic's revenue as a proxy for the company's competition with OpenAI, and for the strength of an early AI market that has boosted stocks by trillions of dollars in value. It's unclear if the new revenue tally counts gross or net revenue, or how Anthropic arrived at its definition of profitability. The Wall Street Journal previously reported that Anthropic brought in $4.8 billion in revenue in the first quarter, then more than doubled it to around $11.6 billion in the second quarter. Since Anthropic is still private, these glimpses at revenue are a crucial stand-in for investors considering the coming IPO and AI's impact on other stocks. A torrent of state-of-the-art AI models and strong adoption of the AI coding tool Claude Code have propelled Anthropic's fortunes, making it one of the fastest-growing companies in history."
+      ],
+      "url": "https://www.businessinsider.com/anthropic-reveals-16-8b-revenue-amid-ipo-preparations-2026-10",
+      "source": "businessinsider.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-14T23:38:37Z"
+    },
+    {
+      "id": "c506c8ae6ca1",
+      "title": "Google's Gemini 4 Argon Is Now Available In The Gemini App And AI Mode In Search - Engadget",
+      "summary": "# Google's Gemini 4 Argon is now available in the Gemini app and AI Mode in Search. But only Google AI Ultra and Pro subscribers can access it for now. Google's latest AI model, Gemini 4 Argon, is now...",
+      "highlights": [
+        "# Google's Gemini 4 Argon is now available in the Gemini app and AI Mode in Search. But only Google AI Ultra and Pro subscribers can access it for now. Google's latest AI model, Gemini 4 Argon, is now available for more people. Now, developers can access it via the Gemini API and Google's agentic software developer platform Antigravity, while Google AI Ultra and Pro subscribers will be able to use it through the Gemini app and AI Mode in Search. Google was supposed to launch a 3.5 Pro model, but it moved on and released Argon instead. According to AI benchmarking company Artificial Analysis, Gemini 4 Argon matches OpenAI GPT-6 Astra's score for its Intelligence Index, which is its composite score for multiple AI benchmarks, at 60 percent of the cost per task at its introductory prices. Josh Woodward, VP of Product for Gemini and Google Labs, said that in the Gemini app, Argon answers more quickly and with less hedging, repetitions and clichés."
+      ],
+      "url": "https://www.engadget.com/2285023/google-gemini-4-argon-is-now-available-in-the-gemini-app-and-ai-mode-in-search/",
+      "source": "engadget.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-13T16:00:00Z"
+    },
+    {
+      "id": "23cd3841c7ce",
+      "title": "Anthropic Warns Self-Replicating AI Could Soon Spread Through Smart Home Devices - ChannelNews.com.au",
+      "summary": "Australia’s #1 source for technology news. Home › Latest News › Anthropic Warns Self-Replicating AI Could Soon Spread Through Smart Home Devices. Now, Anthropic has published new research warning that...",
+      "highlights": [
+        "Australia’s #1 source for technology news. Home › Latest News › Anthropic Warns Self-Replicating AI Could Soon Spread Through Smart Home Devices. Now, Anthropic has published new research warning that smaller AI models could soon become capable of replicating themselves across internet-connected devices, potentially creating networks of autonomous AI agents that would be extremely difficult to contain. Instead, they could operate on relatively modest hardware, including smart home appliances, streaming devices and other products connected to the internet. Anthropic suggests that AI models could eventually spread across these devices in a manner resembling computer malware, but with the added ability to learn and adapt to unfamiliar hardware. With billions of internet-connected devices already operating in homes and businesses, Anthropic’s findings suggest that the next major challenge in AI security may extend far beyond traditional computers and data centres. October 15, 2026 /   Emma Wheaton   / Comments are Off. Nothing is reportedly developing two different smart glasses models for a 2027 launch, including one with a camera and AI features and another focused on..."
+      ],
+      "url": "https://www.channelnews.com.au/anthropic-warns-self-replicating-ai-could-soon-spread-through-smart-home-devices/",
+      "source": "channelnews.com.au",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-15T01:44:40Z"
+    },
+    {
+      "id": "772b74485916",
+      "title": "AI Models May Soon Self-Replicate Across Smart-Home Devices, Anthropic Warns - Insurance Journal",
+      "summary": "Anthropic said small AI models could be months away from self-replicating across internet-connected devices, raising the possibility of AI botnets spreading quickly, fighting takedown attempts and eve...",
+      "highlights": [
+        "Anthropic said small AI models could be months away from self-replicating across internet-connected devices, raising the possibility of AI botnets spreading quickly, fighting takedown attempts and even breaking into data centers to turbocharge their growth. Last month, Anthropic CEO Dario Amodei first floated the idea that within the next year or even sooner, AI might be able to hijack “the entire internet” with “a persistent botnet,” a warning that raised eyebrows in the cybersecurity community. The company said that its experiments showed that a malicious AI agent could stitch together the computing power of inexpensive internet-connected devices to run other AI models. The advances in models have prompted a series of often dire warnings from industry heads and AI company employees about the possibility of severe, even existential, risks of runaway AI development. Anthropic said that if smaller models continue improving at their historical rate, they could reach the capability required for autonomous replication by the end of 2026."
+      ],
+      "url": "https://www.insurancejournal.com/news/national/2026/10/14/888805.htm",
+      "source": "insurancejournal.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-14T05:14:31Z"
+    },
+    {
+      "id": "bec3e63dac0b",
+      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets - The Hacker News",
+      "summary": "Prior work has demonstrated that AI agents can act like one by scanning their network, executing an exploit, and copying model weights to a target machine across a GPU cluster with an aim to generate ...",
+      "highlights": [
+        "Prior work has demonstrated that AI agents can act like one by scanning their network, executing an exploit, and copying model weights to a target machine across a GPU cluster with an aim to generate tailored attack strategies and use compromised machines as a botnet to run large language models (LLMs) in order to sustain its reasoning and expand in scale. The idea, at a high level, explains how AI models could potentially break into internet-connected devices and use their computing power to run themselves and spread to other devices, without having to rely on expensive data centers all the time. It also revealed that an AI IoT worm powered by inexpensive Android TV boxes could be a \"slow, distributed\" system that can produce a meaningful amount of AI computation when a fleet comprising hundreds of thousands of such devices is networked together to run an inference engine."
+      ],
+      "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+      "source": "thehackernews.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-13T18:20:00Z"
+    },
+    {
+      "id": "90ee41fd64ce",
+      "title": "AI models may soon self-replicate across smart-home devices, Anthropic warns - KSL News",
+      "summary": "Oct 12 — Anthropic said on Monday that small AI models could be months away from self-replicating across internet-connected devices, raising the possibility ​of AI botnets spreading quickly, fighting ...",
+      "highlights": [
+        "Oct 12 — Anthropic said on Monday that small AI models could be months away from self-replicating across internet-connected devices, raising the possibility ​of AI botnets spreading quickly, fighting takedown attempts and even breaking into data centers to turbocharge their growth. Last month, Anthropic CEO Dario Amodei first floated the idea that within the next ‌year or even sooner, AI might be able to hijack \"the entire internet\" with \"a persistent botnet,\" a warning that raised eyebrows in the cybersecurity community. The company said that its experiments showed that a malicious AI agent could stitch together the computing power of inexpensive internet-connected devices to run other AI models. It added that the models were able to replicate across a simplified test network. Anthropic said that if smaller models ‌continue improving at ‌their historical rate, ⁠they could reach the capability required for autonomous replication by the end of 2026."
+      ],
+      "url": "https://www.ksl.com/article/51635631/ai-models-may-soon-self-replicate-without-access-to-data-centers-anthropic-warns",
+      "source": "ksl.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-13T16:31:40Z"
+    },
+    {
+      "id": "459a0b6dcbe0",
+      "title": "Anthropic warns of self-replicating AI - Qazinform",
+      "summary": "# Anthropic warns of self-replicating AI. **Small****artificial intelligence****models could be months away from copying themselves across internet-connected consumer devices without relying on data c...",
+      "highlights": [
+        "# Anthropic warns of self-replicating AI. **Small****artificial intelligence****models could be months away from copying themselves across internet-connected consumer devices without relying on data centers,****Anthropic****has warned, reports a****Qazinform****News Agency correspondent.**. In its official research report, the company examined whether AI systems could move between machines, start operating on unfamiliar hardware and continue spreading without human intervention. Anthropic estimates that smaller models could reach the necessary capability by the end of 2026 if improvements continue at their historical pace. The company warned that distributed AI could be difficult to shut down because it would lack a single central control point. The experiments simplified the task of gaining access to devices, meaning their results do not establish reliable replication under real-world conditions. Earlier, Qazinform News Agency reported that Meta launched Muse Wonder and Muse Wonder Full, describing them as its most capable AI models yet, as it expands its presence in personal AI assistants and coding tools. Anthropic AI Artificial Intelligence World News."
+      ],
+      "url": "https://qazinform.com/news/anthropic-warns-of-self-replicating-ai-1e2f0b",
+      "source": "qazinform.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-13T11:23:20Z"
+    },
+    {
+      "id": "aa7e2333c5a4",
+      "title": "Compal Accelerates Time-to-AI with Next-Generation NVIDIA Platforms at OCP Global Summit 2026 - Financial Times",
+      "summary": "From Blackwell Ultra systems for today's AI deployments to next-generation Rubin, Vera CPU and Spectrum-X, Compal combines engineering, rack integration and global manufacturing to turn accelerated co...",
+      "highlights": [
+        "From Blackwell Ultra systems for today's AI deployments to next-generation Rubin, Vera CPU and Spectrum-X, Compal combines engineering, rack integration and global manufacturing to turn accelerated computing into deployable AI capacity—faster. (Compal; TWSE: 2324) will showcase how it is shortening that journey across generations of NVIDIA accelerated computing—from NVIDIA Blackwell Ultra and NVIDIA Rubin GPU to NVIDIA Vera CPU, NVIDIA Spectrum-X Ethernet and rack-scale systems. Rather than treating each new processor generation as an isolated product launch, Compal brings together server engineering, direct liquid cooling, rack integration, system validation, supply chain management and global manufacturing to accelerate the transition from new architecture to production-ready AI infrastructure. Compal combines platform engineering with direct liquid cooling, system validation, rack integration and manufacturing readiness to reduce the engineering complexity between adopting next-generation accelerated computing and putting it into production. By engineering across system architecture, liquid cooling, validation and rack integration early in the technology cycle, Compal is building the foundation customers need to prepare for the next major transition in AI computing—reducing the distance between next-generation architecture and real-world deployment."
+      ],
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202610132200PR_NEWS_USPRX____HK70857-1",
+      "source": "markets.ft.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-14T02:00:00Z"
+    },
+    {
+      "id": "ec5ac4397bf1",
+      "title": "2026 Net-Zero Taiwan: Linde LienHwa highlights oxygen combustion, hydrogen solutions for industrial decarbonization - digitimes",
+      "summary": "Apple Huawei Nvidia AI Search Scaling AI Glasses Inference Era AI Advanced Packaging. Micron opens second Taiwan advanced packaging plant as HBM supply tightens. Synopsys CEO says fully autonomous AI ...",
+      "highlights": [
+        "Apple Huawei Nvidia AI Search Scaling AI Glasses Inference Era AI Advanced Packaging. Micron opens second Taiwan advanced packaging plant as HBM supply tightens. Synopsys CEO says fully autonomous AI chip design remains out of reach. Samsung, Applied Materials back startup targeting chip packaging warpage. Analysis: GlobalFoundries' calculus behind US$2 billion entry into TSMC's CoWoS ecosystem. # 2026 Net-Zero Taiwan: Linde LienHwa highlights oxygen combustion, hydrogen solutions for industrial decarbonization. Rising carbon-fee pressure is accelerating efforts to decarbonize Taiwan's energy-intensive industries, prompting Linde LienHwa Industrial Gases Group to promote oxygen-enriched and pure oxygen combustion technologies that can substantially reduce fuel... * Leverage AI summaries for instant insights. Hybrid Copper Bonding - A Manufacturing Lever for The AI EraWednesday 14 October 2026. * GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap. * Lite-On unveils 800 VDC power and liquid cooling for AI data centers. Sorry, the page you are trying to open is available only for our paid subscribers."
+      ],
+      "url": "https://www.digitimes.com/news/a20261015PD225/taiwan-industrial-2026-electricity-production.html?chid=10",
+      "source": "digitimes.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-15T03:08:10Z"
+    },
+    {
+      "id": "f7dabc6a7102",
+      "title": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom - Reuters",
+      "summary": "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. ## Browse Business. Image 1: The logo of Taiwan Semiconductor Manufacturing Company (...",
+      "highlights": [
+        "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. ## Browse Business. Image 1: The logo of Taiwan Semiconductor Manufacturing Company (TSMC) at the company's second-quarter earnings conference in Taipei. File Photo: The logo of Taiwan Semiconductor Manufacturing Company (TSMC) at the company's second-quarter earnings conference in Taipei, Taiwan, July 16, 2026. TAIPEI, Oct 15 (Reuters) - TSMC, the world's largest manufacturer ‌of advanced AI chips, will likely report a sixth consecutive quarter of record earnings on Thursday, driven by booming infrastructure spending in the tech sector. That has catapulted Asia's most valuable company, a key supplier ⁠to Nvidia (NVDA.O), opens new tab and Apple (AAPL.O), opens new tab, to new heights. On its Thursday earnings call, ​TSMC is expected to report a 65% surge in third-quarter net profit to T$746.3 billion ($23.4 billion), according to an LSEG SmartEstimate compiled from 16 analysts. *   Media Center, opens new tab. *   Reuters and AI, opens new tab."
+      ],
+      "url": "https://www.reuters.com/world/asia-pacific/tsmc-expected-report-sixth-straight-quarter-record-profit-thanks-ai-boom-2026-10-14/",
+      "source": "reuters.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-14T23:02:04Z"
+    }
+  ],
+  "today": [
+    {
+      "id": "23cd3841c7ce",
+      "title": "Anthropic Warns Self-Replicating AI Could Soon Spread Through Smart Home Devices - ChannelNews.com.au",
+      "summary": "Australia’s #1 source for technology news. Home › Latest News › Anthropic Warns Self-Replicating AI Could Soon Spread Through Smart Home Devices. Now, Anthropic has published new research warning that...",
+      "highlights": [
+        "Australia’s #1 source for technology news. Home › Latest News › Anthropic Warns Self-Replicating AI Could Soon Spread Through Smart Home Devices. Now, Anthropic has published new research warning that smaller AI models could soon become capable of replicating themselves across internet-connected devices, potentially creating networks of autonomous AI agents that would be extremely difficult to contain. Instead, they could operate on relatively modest hardware, including smart home appliances, streaming devices and other products connected to the internet. Anthropic suggests that AI models could eventually spread across these devices in a manner resembling computer malware, but with the added ability to learn and adapt to unfamiliar hardware. With billions of internet-connected devices already operating in homes and businesses, Anthropic’s findings suggest that the next major challenge in AI security may extend far beyond traditional computers and data centres. October 15, 2026 /   Emma Wheaton   / Comments are Off. Nothing is reportedly developing two different smart glasses models for a 2027 launch, including one with a camera and AI features and another focused on..."
+      ],
+      "url": "https://www.channelnews.com.au/anthropic-warns-self-replicating-ai-could-soon-spread-through-smart-home-devices/",
+      "source": "channelnews.com.au",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-15T01:44:40Z"
+    },
+    {
+      "id": "ec5ac4397bf1",
+      "title": "2026 Net-Zero Taiwan: Linde LienHwa highlights oxygen combustion, hydrogen solutions for industrial decarbonization - digitimes",
+      "summary": "Apple Huawei Nvidia AI Search Scaling AI Glasses Inference Era AI Advanced Packaging. Micron opens second Taiwan advanced packaging plant as HBM supply tightens. Synopsys CEO says fully autonomous AI ...",
+      "highlights": [
+        "Apple Huawei Nvidia AI Search Scaling AI Glasses Inference Era AI Advanced Packaging. Micron opens second Taiwan advanced packaging plant as HBM supply tightens. Synopsys CEO says fully autonomous AI chip design remains out of reach. Samsung, Applied Materials back startup targeting chip packaging warpage. Analysis: GlobalFoundries' calculus behind US$2 billion entry into TSMC's CoWoS ecosystem. # 2026 Net-Zero Taiwan: Linde LienHwa highlights oxygen combustion, hydrogen solutions for industrial decarbonization. Rising carbon-fee pressure is accelerating efforts to decarbonize Taiwan's energy-intensive industries, prompting Linde LienHwa Industrial Gases Group to promote oxygen-enriched and pure oxygen combustion technologies that can substantially reduce fuel... * Leverage AI summaries for instant insights. Hybrid Copper Bonding - A Manufacturing Lever for The AI EraWednesday 14 October 2026. * GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap. * Lite-On unveils 800 VDC power and liquid cooling for AI data centers. Sorry, the page you are trying to open is available only for our paid subscribers."
+      ],
+      "url": "https://www.digitimes.com/news/a20261015PD225/taiwan-industrial-2026-electricity-production.html?chid=10",
+      "source": "digitimes.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-15T03:08:10Z"
+    },
+    {
+      "id": "40d6ed92eef7",
+      "title": "TSMC reports record Q3 net profit of $23 bn on AI hardware demand - electronics.economictimes.indiatimes.com",
+      "summary": "### The 11th ETAuto EV Conclave brings together CXOs, policymakers, and innovators to address these fault lines head-on — across battery manufacturing, charging infrastructure, localisation, raw mater...",
+      "highlights": [
+        "### The 11th ETAuto EV Conclave brings together CXOs, policymakers, and innovators to address these fault lines head-on — across battery manufacturing, charging infrastructure, localisation, raw material security, software-defined vehicles.## ET Global Manufacturing Conclave & Awards 2026. # TSMC reports record Q3 net profit of $23 bn on AI hardware demand. * TSMC's Q3 net profit hit a record NT$763.1 billion, up 68.7 per cent year-on-year. * Massive global demand for AI hardware drove the semiconductor giant's record earnings. NEW DELHI: Taiwanese chip giant TSMC reported a record net profit in the third quarter, buoyed by massive global demand for AI hardware. The company's net profit for July to September surged 68.7 per cent year-on-year to NT$763.1 billion ($23.6 billion), surpassing analyst estimates of NT$739.5 billion, as per *AFP*. “Our business in the third quarter was supported by strong demand for our leading-edge process technologies,” said Wendell Huang, SVP and CFO of TSMC."
+      ],
+      "url": "https://electronics.economictimes.indiatimes.com/news/manufacturing/tsmc-reports-record-q3-net-profit-at-23-bn-on-ai-hardware-demand/134961975",
+      "source": "electronics.economictimes.indiatimes.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-15T08:25:58Z"
+    },
+    {
+      "id": "eacf8a069ecb",
+      "title": "Global Market: TSMC set for sixth straight record quarterly profit on AI chip boom - The Economic Times",
+      "summary": "Business News›Markets›US Stocks›Wall St Guide›Global Market: TSMC set for sixth straight record quarterly profit on AI chip boom. ##### The Economic Times daily newspaper is available online now. # Gl...",
+      "highlights": [
+        "Business News›Markets›US Stocks›Wall St Guide›Global Market: TSMC set for sixth straight record quarterly profit on AI chip boom. ##### The Economic Times daily newspaper is available online now. # Global Market: TSMC set for sixth straight record quarterly profit on AI chip boom. TSMC is expected to report its sixth consecutive quarter of record earnings, driven by surging AI chip demand and technology investments. Taiwan Semiconductor Manufacturing Co (TSMC), the world's largest manufacturer of advanced artificial intelligence chips, is expected to report a sixth consecutive quarter of record earnings on Thursday, supported by strong demand for AI infrastructure and rising technology-sector spending, according to Reuters. Analysts said demand for TSMC's advanced chipmaking capacity and its chip-on-wafer-on-substrate (CoWoS) packaging technology remains robust, as technology companies continue to invest heavily in AI infrastructure. TSMC is expected to report a 65% year-on-year increase in third-quarter net profit to T$746.3 billion ($23.4 billion), according to an LSEG SmartEstimate compiled from 16 analysts."
+      ],
+      "url": "https://m.economictimes.com/markets/us-stocks/wall-street-guide/global-market-tsmc-set-for-sixth-straight-record-quarterly-profit-on-ai-chip-boom/articleshow/134957993.cms",
+      "source": "m.economictimes.com",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-10-15T05:12:43Z"
+    },
+    {
+      "id": "6ad9d0f1d0e2",
+      "title": "AmEx Releases Agentic Payment Standard That Declines Rogue AI Purchases Pre-Checkout - Tech Times",
+      "summary": "American Express published an open technical specification on October 13 that does something no standard payment token can: it binds a consumer's purchase authorization to the specific constraints of ...",
+      "highlights": [
+        "American Express published an open technical specification on October 13 that does something no standard payment token can: it binds a consumer's purchase authorization to the specific constraints of that purchase — the merchant, the budget ceiling, the product specifications — and makes that binding cryptographically verifiable at every stage of the transaction, including before an AI agent reaches a merchant's checkout. The Intent Intelligence Framework, now available through AmEx's Agentic Commerce Experiences (ACE) Developer Toolkit, is AmEx's answer to the central unsolved problem of autonomous AI shopping: not how to make payments flow through an agent, but how to prove that what the agent bought is what the consumer actually wanted. Its open publication — rather than a proprietary rollout to AmEx cardmembers only — signals AmEx's intent to shape how the entire payments industry implements intent-based credentialing, not just to build a better product for its own network."
+      ],
+      "url": "https://www.techtimes.com/articles/329043/20261015/amex-releases-agentic-payment-standard-that-declines-rogue-ai-purchases-pre-checkout.htm",
+      "source": "techtimes.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-10-15T06:25:41Z"
+    },
+    {
+      "id": "34bec8796fc1",
+      "title": "⚡️科技消息：AI研究公司Odyssey發布世界模型Odyssey-3，同一個基礎模型可控制機械臂及人形機械人、駕駛汽車、操控無人機，甚至可以玩《GTA V》。 公司表示，以約20小時模擬駕駛數據訓練的駕駛策略，已在印度公路上自動駕駛；模型亦可生成互動環境，讓AI代理在其中行動並從後果中學習。 人形機械人公司Flexion已採用該模型，研究預覽版已向開發者開放。",
+      "summary": "Log in\n\n# Thread\n\n987 views\n\ntimsondaily's profile picture\n\ntimsondaily\n\n⚡️科技消息：AI研究公司Odyssey發布世界模型Odyssey-3，同一個基礎模型可控制機械臂及人形機械人、駕駛汽車、操控無人機，甚至可以玩《GTA V》。\n\n公司表示，以約20小時模擬駕駛數據訓練的駕駛策略，已在印度公路上自動駕駛；模型亦可生成互動...",
+      "highlights": [
+        "timsondaily's profile picture",
+        "timsondaily",
+        "⚡️科技消息：AI研究公司Odyssey發布世界模型Odyssey-3，同一個基礎模型可控制機械臂及人形機械人、駕駛汽車、操控無人機，甚至可以玩《GTA V》"
+      ],
+      "url": "https://www.threads.com/@timsondaily/post/DePnWFTlCkM/%E7%A7%91%E6%8A%80%E6%B6%88%E6%81%AFai%E7%A0%94%E7%A9%B6%E5%85%AC%E5%8F%B8odyssey%E7%99%BC%E5%B8%83%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8Bodyssey-3%E5%90%8C%E4%B8%80%E5%80%8B%E5%9F%BA%E7%A4%8E%E6%A8%A1%E5%9E%8B%E5%8F%AF%E6%8E%A7%E5%88%B6%E6%A9%9F%E6%A2%B0%E8%87%82%E5%8F%8A%E4%BA%BA%E5%BD%A2%E6%A9%9F%E6%A2%B0%E4%BA%BA%E9%A7%95%E9%A7%9B%E6%B1%BD%E8%BB%8A%E6%93%8D%E6%8E%A7%E7%84%A1%E4%BA%BA%E6%A9%9F%E7%94%9A%E8%87%B3%E5%8F%AF%E4%BB%A5%E7%8E%A9gta-v%E5%85%AC%E5%8F%B8%E8%A1%A8%E7%A4%BA%E4%BB%A5%E7%B4%8420%E5%B0%8F%E6%99%82",
+      "source": "threads.com",
+      "category": "具身智能",
+      "importance": 2,
+      "publishedAt": "2026-10-15T01:59:34Z"
+    },
+    {
+      "id": "7624c31011dc",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis - TechCrunch",
+      "summary": "The founders took the stage at TechCrunch Disrupt on Wednesday to detail how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with t...",
+      "highlights": [
+        "The founders took the stage at TechCrunch Disrupt on Wednesday to detail how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process. “There is this understanding that in the next five years we are going to have at least 10,000x more demand for compute, and that’s somewhat potentially conservative,” Goldie said on stage. We think that we need to help by making chips that are more efficient, that use the bandwidth in those data centers more efficiently, that use the wafers and fabs more efficiently, because even if we make [data centers] in space or something, I don’t know, you won’t see the sun anymore.”. “But if you can design a chip in like a week, and then say for manufacturing, you can design custom chips for all sorts of different types of applications in like space and AR, VR, and you biological computing, and it makes sense financially to do that, and we can be more energy efficient.”."
+      ],
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "source": "techcrunch.com",
+      "category": "芯片硬件",
+      "importance": 2,
+      "publishedAt": "2026-10-15T01:01:32Z"
+    },
+    {
+      "id": "a3f419955f49",
+      "title": "Researchers trace AI agents that probed Alibaba’s Amap to Tencent - The Next Web",
+      "summary": "A fleet of AI agents running on Tencent Cloud made more than 2,600 attempts to pull data from Amap, Alibaba’s map service, between 28 September and 8 October. That is the main finding of a full report...",
+      "highlights": [
+        "A fleet of AI agents running on Tencent Cloud made more than 2,600 attempts to pull data from Amap, Alibaba’s map service, between 28 September and 8 October. That is the main finding of a full report published on 14 October by independent researchers who track AI agent activity online. Moreover, the report adds to a series of cases in which AI agents acted outside their intended limits. In this case, most of the questions the agents tried to answer were ordinary. When they were blocked, they tried to get around Amap’s anti-bot checks and test its pre-production servers. The researchers call the group a “fleet” rather than a “swarm”, because they found no sign that the agents worked together in real time. That person said the fleet came from tests run by a Tencent evaluation team, which checks how well outside AI models can browse the web and answer questions. The team is separate from the Hunyuan group, and the agents were built on third-party models, the person said."
+      ],
+      "url": "https://thenextweb.com/news/researchers-trace-ai-agents-that-probed-alibabas-amap-to-tencent",
+      "source": "thenextweb.com",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-10-15T08:18:51Z"
+    }
+  ],
+  "week": [
     {
       "id": "7789759aae11",
       "title": "微软发布Maia 300自研AI芯片，科创芯片设计ETF天弘(589070)近10日净流入超1亿元|界面新闻",
@@ -225,273 +757,9 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-10-13T22:30:40Z"
-    },
-    {
-      "id": "3b8f5bf44a16",
-      "title": "Meta 发布全新旗舰 AI 大模型！追赶 OpenAI，手机端 AI 大战全面开启？_网友_功能_能力",
-      "summary": "体育\n\n汽车\n\n房产\n\n旅游\n\n教育\n\n时尚\n\n科技\n\n财经\n\n娱乐\n\n# 原创 Meta 发布全新旗舰 AI 大模型！追赶 OpenAI，手机端 AI 大战全面开启？\n\n2026-10-13 12:47  来源: 数码八叔\n\n发布于：广西壮族自治区\n\nMeta 在近期发布新一代旗舰 AI 大模型，正式加入全球顶尖 AI 模型竞赛，目标追赶 OpenAI 等头部厂商，这条科技消息在微博数码圈刷屏，...",
-      "highlights": [
-        "# 原创 Meta 发布全新旗舰 AI 大模型",
-        "追赶 OpenAI，手机端 AI 大战全面开启",
-        "2026-10-13 12:47  来源: 数码八叔"
-      ],
-      "url": "https://www.sohu.com/a/1087134108_100085330",
-      "source": "sohu.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-13T12:47:00Z"
-    },
-    {
-      "id": "5e61d8c56063",
-      "title": "Manus 携手 OPPO，AI Agent 能力将落地 ColorOS 17",
-      "summary": "AI 智能体产品 Manus 宣布与手机厂商 OPPO 达成合作，将为 OPPO 新一代操作系统 ColorOS 17 的 Agent 能力提供支持。这标志着 Manus 从独立的通用智能体产品走向手机系统级集成，也是 AI Agent 与智能手机操作系统深度融合的又一典型案例。Manus 是 2025 年初上线的通用 AI 智能体产品，由蝴蝶效应团队开发，主打自主规划与多步骤任务执行能力，上线后...",
-      "highlights": [
-        "AI 智能体产品 Manus 宣布与手机厂商 OPPO 达成合作，将为 OPPO 新一代操作系统 ColorOS 17 的 Agent 能力提供支持",
-        "这标志着 Manus 从独立的通用智能体产品走向手机系统级集成，也是 AI Agent 与智能手机操作系统深度融合的又一典型案例",
-        "Manus 是 2025 年初上线的通用 AI 智能体产品，由蝴蝶效应团队开发，主打自主规划与多步骤任务执行能力，上线后迅速引发行业关注"
-      ],
-      "url": "https://www.80aj.com/2026/10/13/manus-oppo-ai-agent-coloros",
-      "source": "80aj.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-13T15:50:55Z"
-    },
-    {
-      "id": "c8b45cc2dcf0",
-      "title": "人工智能的学术化、集中化、国际化_腾讯新闻",
-      "summary": "本世纪人工智能领域最具技术突破性的两个事件无疑是2012年AlexNet和2017年Transformer，前者开启了深度学习革命，后者成为所有主流大语言模型的基础架构。AlexNet和Transformer分别源于两篇论文：《用深度卷积神经网络进行ImageNet图像分类》和《Attention is All You Need》，它们分别是本世纪引用量排名第四和第三的人工智能论文（来源：Natu...",
-      "highlights": [
-        "本世纪人工智能领域最具技术突破性的两个事件无疑是2012年AlexNet和2017年Transformer，前者开启了深度学习革命，后者成为所有主流大语言模型的基础架构",
-        "AlexNet和Transformer分别源于两篇论文：《用深度卷积神经网络进行ImageNet图像分类》和《Attention is All You Need》，它们分别是本世纪引用量排名第四和第三的人工智能论文（来源：Nature，2025）",
-        "扩展定律（Scaling Law）是指引大语言模型发展的明灯，其提出是在2020年OpenAI的论文《Scaling Laws for Neural Language Models》"
-      ],
-      "url": "https://news.qq.com/rain/a/20261013A09HXG00",
-      "source": "news.qq.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-13T16:30:57Z"
-    },
-    {
-      "id": "136e9a7cac23",
-      "title": "How the AI industry fits together, from chips to chatbots | Mindgrow",
-      "summary": "Getting here took many years. ASML shipped its first EUV demonstration machine in 2006, and TSMC says it was the first to mass-produce chips with EUV, in 2019. Experts quoted by CNBC in 2022 said it c...",
-      "highlights": [
-        "Getting here took many years. ASML shipped its first EUV demonstration machine in 2006, and TSMC says it was the first to mass-produce chips with EUV, in 2019. Experts quoted by CNBC in 2022 said it could take decades for any other company to catch up with ASML.",
-        "Above the chips and the data centers sit the AI labs, the companies that train large language models, the kind of model behind chatbots. Well-known labs include OpenAI, Anthropic, Google DeepMind and Meta. [...] January 2023: Microsoft announced a multibillion-dollar investment in OpenAI and said its Azure cloud would be OpenAI's only cloud provider.",
-        "September 2023: Amazon said it would invest up to $4 billion in Anthropic, and Anthropic said Amazon Web Services would become its main cloud provider for its most important work."
-      ],
-      "url": "https://mindgrow.io/ai/how-the-ai-industry-fits-together-from-chips-to-chatbots-128215",
-      "source": "mindgrow.io",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-13T04:46:53Z"
-    },
-    {
-      "id": "1e1a02af0871",
-      "title": "‘Counting the Ways’ in AI. OpenAI, Anthropic & AI Compute. ARD #182",
-      "summary": "MP Take: the frontier companies are recognizing it. OpenAI’s newer default models cut sycophancy by more than two-thirds, and outside researchers are seeing the improvement.\n\n### The Multi-Year Comput...",
-      "highlights": [
-        "MP Take: the frontier companies are recognizing it. OpenAI’s newer default models cut sycophancy by more than two-thirds, and outside researchers are seeing the improvement.",
-        "### The Multi-Year Compute Crunch",
-        "From founders setting up AI servers next to their wine cellars, to the biggest companies rationing compute, everyone is scrambling. [...] Everyone is chasing compute, per the WSJ in ‘The Desperate Hunt for AI Computing Power Is Upending Silicon Valley’. Even at the top of the heap, budgeting compute across teams is a big challenge. Google lost one of its star AI researchers, Noam Shazeer, whom it paid $2.7 billion in 2024 to bring back, when he left for OpenAI after his team’s compute was cut. Renting Nvidia’s older H100 chips on a one-year contract costs about 60% more than a year ago, per SemiAnalysis. Cloud providers now want [...] Cheaper isn’t always cheaper. Researchers at Stanford, Carnegie Mellon, Berkeley and Microsoft Research tested more than 6,800 tasks and found that in 32% of cases, the lower-priced AI model ended up costing more. In one test, Google’s Gemini 3 Flash ran 952 steps, spent about $14, and failed; Gemini 3.1 Pro finished in 85 steps, for about $1. And the same model can use a different number of tokens each time it runs the same task. Google points customers to spending caps and flexible pricing."
-      ],
-      "url": "https://michaelparekh.substack.com/p/counting-the-ways-in-ai-openai-anthropic",
-      "source": "michaelparekh.substack.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-14T16:01:54Z"
-    },
-    {
-      "id": "02a5cb186854",
-      "title": "CNBC Daily Open: Diesel deal may not be enough to curb high energy prices - CNBC",
-      "summary": "Bank of America was hit with more than $1.2 billion in federal penalties, while other U.S. banks like JPMorgan Chase, Wells Fargo, Goldman Sachs and Citigroup are posting mixed financial results. Anth...",
-      "highlights": [
-        "Bank of America was hit with more than $1.2 billion in federal penalties, while other U.S. banks like JPMorgan Chase, Wells Fargo, Goldman Sachs and Citigroup are posting mixed financial results. Anthropic will release its third-quarter financials for the first time, and Apple has announced a voice-controlled smart home hub. Analysts are expressing skepticism over Trump's diesel deal with Russia, as the supply of 4.8 million metric tons — which amounts to a little more than a single day of global demand — is unlikely to reduce fuel prices significantly for U.S. truckers and farmers. Bank of America, which will be reporting its earnings on Wednesday, was hit with more than $1.2 billion in federal penalties for allegedly violating sanction and anti-money laundering laws. Moving over to tech, AI giant Anthropic, which is preparing for what could be the largest IPO in history, will release its third-quarter financials for the first time in a meeting with potential investors on Wednesday."
-      ],
-      "url": "https://www.cnbc.com/2026/10/14/cnbc-daily-open-diesel-energy-apple-anthropic-imf.html",
-      "source": "cnbc.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-14T01:09:16Z"
-    },
-    {
-      "id": "9f18936aff63",
-      "title": "Meta AI models: Meta says its new AI models on par with OpenAI, Anthropic - The Economic Times",
-      "summary": "Leaders at Anthropic, OpenAI and Google have encouraged \"pacing\" - or slowing down - development after models created by all three were found to have escaped their testing environments or taken action...",
-      "highlights": [
-        "Leaders at Anthropic, OpenAI and Google have encouraged \"pacing\" - or slowing down - development after models created by all three were found to have escaped their testing environments or taken actions without authorization.",
-        "\"We will slow down as much as necessary in order to make sure that every successive AI technology that we release is actually safe,\" Anthropic CEO Dario Amodei told the United Nations last month. [...] Wonder is \"our largest and most capable model yet\" and \"rivals the big (boys),\" Wang posted on X, presumably referring to leading labs OpenAI and Anthropic.",
-        "In a blog post, Meta touted so-called benchmarking data from an independent firm called Artificial Analysis that appears to show that Meta's newest Wonder models outperform its own previous models, Spark, as well as various models developed by Anthropic, OpenAI and Google. [...] Meta on Monday unveiled two new \"frontier\" artificial intelligence models called Wonder and Wonder Full, which the company claims perform at a level comparable to that of OpenAI's ChatGPT and Anthropic's Claude. In a blog post, Meta touted so-called benchmarking data from an independent firm called Artificial Analysis that appears to show that Meta's newest Wonder models outperform its own previous models, Spark, as well as various models developed by Anthropic, OpenAI and Google."
-      ],
-      "url": "https://m.economictimes.com/tech/artificial-intelligence/meta-says-its-new-ai-models-on-par-with-openai-anthropic/articleshow/134906480.cms",
-      "source": "m.economictimes.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-13T21:00:00Z"
-    },
-    {
-      "id": "7e8b6df335a5",
-      "title": "Applied Materials unveiled massive, $5 billion EPIC facility for advanced AI chips in Silicon Valley | Fortune",
-      "summary": "The U.S. government has barred the sales of advanced GPU chips and advanced chipmaking equipment to China, in an effort to deprive the country of the computing brawn necessary to create AI models capa...",
-      "highlights": [
-        "The U.S. government has barred the sales of advanced GPU chips and advanced chipmaking equipment to China, in an effort to deprive the country of the computing brawn necessary to create AI models capable of outperforming models made by U.S. companies like OpenAI, Anthropic, and Google. Dickerson repeatedly invoked “winning the AI race” at Monday’s event, though he would not comment specifically on his views about U.S. regulations on sales to China. (In February, Applied Materials paid $252 [...] Fortune Daily breaks the traditional barrier between audience and newsroom. The show transforms Fortune’s trusted reporting into actionable, conversational, and entertaining insights for an emerging class of business leaders. Watch here.",
-        "About the Author",
-        "Alexei Oreskovic"
-      ],
-      "url": "https://fortune.com/2026/10/13/applied-materials-advanced-ai-chips-epic-semiconductor-silicon-valley",
-      "source": "fortune.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-13T23:00:00Z"
-    },
-    {
-      "id": "ca4d5a56b9fc",
-      "title": "The biggest AI startup exits of 2026: How Nvidia, SpaceX, Google, and OpenAI are buying the future of AI - Tech Startups",
-      "summary": "| SpaceX | $60B | 2026 | Acquisition agreed |\n| Groq | Nvidia | ~$20B | 2025 | Licensing and hiring |\n| Scale AI | Meta | $14.3B | 2025 | Minority investment |\n| Hugging Face | Nvidia | $12.9B | 2026 ...",
-      "highlights": [
-        "| SpaceX | $60B | 2026 | Acquisition agreed |",
-        "| Groq | Nvidia | ~$20B | 2025 | Licensing and hiring |",
-        "| Scale AI | Meta | $14.3B | 2025 | Minority investment |"
-      ],
-      "url": "https://techstartups.com/2026/10/14/the-biggest-ai-startup-exits-of-2026-how-nvidia-meta-google-and-openai-are-buying-the-future-of-ai",
-      "source": "techstartups.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-14T18:15:41Z"
-    },
-    {
-      "id": "7e6021b45f2b",
-      "title": "首款大模型原生智能体手机STEPXNeo发布",
-      "summary": "[](\n\n 时政\n 热点\n 政务\n 深瞳\n 访谈\n 视频\n 国际\n 地方\n 专题\n English\n 滚动\n\n[](  登录 -\n\n所在位置： 中国科技网首页 > 滚动 > 正文\n\n# 首款大模型原生智能体手机STEPXNeo发布\n\n2026-10-14 19:04:27 来源:  科技日报  点击数：\n\n李蓉 科技日报记者 王春\n\n10月13日，大模型原生AI终端品牌STEPX阶跃终端正式对外发...",
-      "highlights": [
-        "所在位置： 中国科技网首页 > 滚动 > 正文",
-        "# 首款大模型原生智能体手机STEPXNeo发布",
-        "2026-10-14 19:04:27 来源:  科技日报  点击数："
-      ],
-      "url": "https://www.stdaily.com/web/gdxw/2026-10/14/content_596066.html",
-      "source": "stdaily.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-14T10:00:00Z"
-    },
-    {
-      "id": "e170c4a653a0",
-      "title": "微软再推自研AI芯片，算力提高40%，2027年问世 _ 东方财富网",
-      "summary": "微软表示，Azure Maia 200现已投入生产。从2027年起，将扩展Azure Maia系列，实现多吉瓦级部署，使Maia成为微软产品与服务的主要推理系统。\n\n　　据微软介绍，Azure Maia 300是一款专为当前新兴的AI工作负载而设计的完整智能系统。通过提升系统的整体效率，与通用图像处理芯片(GPU)相比，预计Azure Maia 300可在相同电力条件下让AI处理的数据量增加40%...",
-      "highlights": [
-        "微软表示，Azure Maia 200现已投入生产",
-        "从2027年起，将扩展Azure Maia系列，实现多吉瓦级部署，使Maia成为微软产品与服务的主要推理系统",
-        "据微软介绍，Azure Maia 300是一款专为当前新兴的AI工作负载而设计的完整智能系统"
-      ],
-      "url": "http://finance.eastmoney.com/a/202610133894384190.html",
-      "source": "finance.eastmoney.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-14T05:00:00Z"
-    },
-    {
-      "id": "a10f354890b5",
-      "title": "Anthropic revenue surges 45% to nearly $17B in third quarter as AI giant gears up for IPO - New York Post",
-      "summary": "# Anthropic revenue surges 45% to nearly $17B in third quarter as AI giant gears up for IPO. Anthropic’s third-quarter revenue rose 45% to $16.8 billion from the previous quarter, according to an inve...",
-      "highlights": [
-        "# Anthropic revenue surges 45% to nearly $17B in third quarter as AI giant gears up for IPO. Anthropic’s third-quarter revenue rose 45% to $16.8 billion from the previous quarter, according to an investor who attended a pre-IPO meeting with Anthropic leadership in San Francisco on Wednesday. Revenue in the first quarter was $4.7 billion, and $11.6 billion in the second quarter, according to the person who attended the investor day meant to familiarize prospective Anthropic investors before its highly anticipated IPO. The IPO is expected to precede a public listing by rival OpenAI, making Anthropic an early test of investor appetite for heavily unprofitable AI developers pursuing massive scale. Founded by former OpenAI executives, Anthropic has emerged as one of the leading generative AI developers with its Claude family of models. Anthropic has also sought to distinguish itself through its focus on AI safety, warning of the dangers posed by increasingly capable systems even as it competes in the race to develop and commercialize more powerful models."
-      ],
-      "url": "https://nypost.com/2026/10/14/business/anthropic-revenue-surges-45-to-nearly-17b-in-third-quarter/",
-      "source": "nypost.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-14T23:26:09Z"
-    },
-    {
-      "id": "81fd3784175e",
-      "title": "瑞银：具身智能市场2035年或达4020亿美元，进入新一轮增长周期_搜狐网",
-      "summary": "## 瑞银：具身智能市场2035年或达4020亿美元，进入新一轮增长周期\n\n新浪财经\n\n新浪财经\n\n（来源：财闻）\n\n瑞银发布最新研报指出，随着人工智能技术快速进步，具身智能正推动人形机器人、自动驾驶及工业自动化进入新一轮增长周期。\n\n10月13日，瑞银发布最新研报指出，随着人工智能技术快速进步，具身智能正推动人形机器人、自动驾驶及工业自动化进入新一轮增长周期。人口老龄化、劳动力短缺及制造业回流带...",
-      "highlights": [
-        "## 瑞银：具身智能市场2035年或达4020亿美元，进入新一轮增长周期",
-        "瑞银发布最新研报指出，随着人工智能技术快速进步，具身智能正推动人形机器人、自动驾驶及工业自动化进入新一轮增长周期",
-        "10月13日，瑞银发布最新研报指出，随着人工智能技术快速进步，具身智能正推动人形机器人、自动驾驶及工业自动化进入新一轮增长周期"
-      ],
-      "url": "https://m.sohu.com/a/1087282548_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-13T18:15:20Z"
-    },
-    {
-      "id": "549cf932ae2f",
-      "title": "I Tried Google's New Gemini 4 Argon Model, and Here's How It Measures up to GPT-6 - Lifehacker",
-      "summary": "* View our Bluesky Page (Opens in a new tab). * View our Instagram Page (Opens in a new tab). * View on Facebook Page (Opens in a new tab). * View our Youtube Page (Opens in a new tab). * View our Twi...",
-      "highlights": [
-        "* View our Bluesky Page (Opens in a new tab). * View our Instagram Page (Opens in a new tab). * View on Facebook Page (Opens in a new tab). * View our Youtube Page (Opens in a new tab). * View our Twitter Page (Opens in a new tab). # I Tried Google's New Gemini 4 Argon Model, and Here's How It Measures up to GPT-6. More recently, he has worked as a freelancer for some of the biggest technology publications on the web, covering everything from on-the-ground reporting about product launches, to detailed explainers and how-to guides on apps, gadgets, and platforms. All of these stats are things you would expect to read about in a new AI model announcement, whether it's from Google, Anthropic, or OpenAI: \"Our new model is better and safer than ever, and particularly good in these specific benchmarks we've chosen.\" But is it any more helpful for the average user tapping away in the Gemini app?"
-      ],
-      "url": "https://lifehacker.com/tech/heres-how-gemini-4-argon-compares-to-gpt-6",
-      "source": "lifehacker.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-14T15:00:00Z"
-    },
-    {
-      "id": "4b1e7d7541c4",
-      "title": "Google finally releases Gemini 4 Argon - The Verge",
-      "summary": "After months of trailing its rivals, Google says Argon competes with the industry’s best. After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Ge...",
-      "highlights": [
-        "After months of trailing its rivals, Google says Argon competes with the industry’s best. After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. The model is rolling out today to Google’s higher-tier Pro and Ultra subscribers in the Gemini app and AI mode in Search, as well to Ultra subscribers on its agentic development platform Antigravity. The model is launching with an introductory price of $2 per million input tokens and $10 per million output tokens, around a fifth the cost of OpenAI’s GPT-6 Astra and Anthropic’s Fable 5 models. Landing just a day after Meta announced its own frontier model, Muse Wonder Full, Argon is a reminder of how quickly the balance of power can shift in AI, and that the frontier is far from a two-horse race."
-      ],
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-      "source": "theverge.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-13T16:00:00Z"
     }
   ],
-  "today": [
-    {
-      "id": "34bec8796fc1",
-      "title": "⚡️科技消息：AI研究公司Odyssey發布世界模型Odyssey-3，同一個基礎模型可控制機械臂及人形機械人、駕駛汽車、操控無人機，甚至可以玩《GTA V》。 公司表示，以約20小時模擬駕駛數據訓練的駕駛策略，已在印度公路上自動駕駛；模型亦可生成互動環境，讓AI代理在其中行動並從後果中學習。 人形機械人公司Flexion已採用該模型，研究預覽版已向開發者開放。",
-      "summary": "Log in\n\n# Thread\n\n987 views\n\ntimsondaily's profile picture\n\ntimsondaily\n\n⚡️科技消息：AI研究公司Odyssey發布世界模型Odyssey-3，同一個基礎模型可控制機械臂及人形機械人、駕駛汽車、操控無人機，甚至可以玩《GTA V》。\n\n公司表示，以約20小時模擬駕駛數據訓練的駕駛策略，已在印度公路上自動駕駛；模型亦可生成互動...",
-      "highlights": [
-        "timsondaily's profile picture",
-        "timsondaily",
-        "⚡️科技消息：AI研究公司Odyssey發布世界模型Odyssey-3，同一個基礎模型可控制機械臂及人形機械人、駕駛汽車、操控無人機，甚至可以玩《GTA V》"
-      ],
-      "url": "https://www.threads.com/@timsondaily/post/DePnWFTlCkM/%E7%A7%91%E6%8A%80%E6%B6%88%E6%81%AFai%E7%A0%94%E7%A9%B6%E5%85%AC%E5%8F%B8odyssey%E7%99%BC%E5%B8%83%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8Bodyssey-3%E5%90%8C%E4%B8%80%E5%80%8B%E5%9F%BA%E7%A4%8E%E6%A8%A1%E5%9E%8B%E5%8F%AF%E6%8E%A7%E5%88%B6%E6%A9%9F%E6%A2%B0%E8%87%82%E5%8F%8A%E4%BA%BA%E5%BD%A2%E6%A9%9F%E6%A2%B0%E4%BA%BA%E9%A7%95%E9%A7%9B%E6%B1%BD%E8%BB%8A%E6%93%8D%E6%8E%A7%E7%84%A1%E4%BA%BA%E6%A9%9F%E7%94%9A%E8%87%B3%E5%8F%AF%E4%BB%A5%E7%8E%A9gta-v%E5%85%AC%E5%8F%B8%E8%A1%A8%E7%A4%BA%E4%BB%A5%E7%B4%8420%E5%B0%8F%E6%99%82",
-      "source": "threads.com",
-      "category": "具身智能",
-      "importance": 2,
-      "publishedAt": "2026-10-15T01:59:34Z"
-    }
-  ],
-  "week": [
-    {
-      "id": "4e3e76446476",
-      "title": "微软发布Maia 300 AI芯片：自研算力落地 逐步降低英伟达依赖--快科技--科技改变未来",
-      "summary": "手机版\n 安卓版\n 苹果端\n 博客版\n\n 登录\n 注册\n\n返回\n\n登录\n\n因版权限制，过往内容只提供给老鸟级别及以上用户访问\n\n返回\n\n 当前位置：首页 > 资讯中心 > 电脑办公 > CPU > 文章详情\n 榜单 招聘\n\n#### 正文内容 评论（0）\n\n微软发布Maia 300 AI芯片：自研算力落地 逐步降低英伟达依赖\n\n点击可以复制本篇文章的标题和链接复制; \"点击可以复制本篇文章的标题和...",
-      "highlights": [
-        "因版权限制，过往内容只提供给老鸟级别及以上用户访问",
-        "当前位置：首页 > 资讯中心 > 电脑办公 > CPU > 文章详情",
-        "#### 正文内容 评论（0）"
-      ],
-      "url": "https://news.mydrivers.com/1/1156/1156924.htm",
-      "source": "news.mydrivers.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-12T23:00:00Z"
-    },
-    {
-      "id": "06dd3efcc184",
-      "title": "微软准备在数据中心大规模部署自研芯片 规模达数吉瓦|AI模型|Alphabet|Google|亚马逊|谷歌_手机新浪网",
-      "summary": "## 新浪科技 美股\n\n  \n\n微软公司正准备在数据中心部署最新版自研芯片，目标是主要依靠自家硬件为其AI软件提供算力支持。\n\n微软周一表示，计划在其数据中心部署总规模达数吉瓦的Maia芯片，其中最新一代Maia 300将从明年开始投入部署。这类芯片专为AI推理而设计，即利用AI模型执行总结电话会议内容或回答研究问题等任务。\n\n微软、亚马逊和Alphabet旗下谷歌都在开发自研人工智能加速器，此举...",
-      "highlights": [
-        "微软公司正准备在数据中心部署最新版自研芯片，目标是主要依靠自家硬件为其AI软件提供算力支持",
-        "微软周一表示，计划在其数据中心部署总规模达数吉瓦的Maia芯片，其中最新一代Maia 300将从明年开始投入部署",
-        "这类芯片专为AI推理而设计，即利用AI模型执行总结电话会议内容或回答研究问题等任务"
-      ],
-      "url": "https://finance.sina.cn/usstock/mggd/2026-10-12/detail-iniuytnv5199652.d.html?vt=4",
-      "source": "finance.sina.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-12T21:45:17Z"
-    },
+  "month": [
     {
       "id": "7789759aae11",
       "title": "微软发布Maia 300自研AI芯片，科创芯片设计ETF天弘(589070)近10日净流入超1亿元|界面新闻",
@@ -536,36 +804,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-10-13T03:46:14Z"
-    },
-    {
-      "id": "66d9e69aae80",
-      "title": "OpenAI再发数学突破成果，解决数百道难题_搜狐网",
-      "summary": "## OpenAI再发数学突破成果，解决数百道难题\n\n至顶头条\n\n至顶头条\n\nOpenAI公开了由一个尚未发布的前沿模型解决的多项长期数学难题的解答，这批成果共包含722份手稿，涵盖372个结果家族，用于归类相关论文。此举延续了该公司一系列数学突破成果的发布节奏，这些成果既令数学界印象深刻，也引发了部分学者的不安，同时带来了关于研究伦理与学术行为的质疑。根据AGMAI（这是一个新成立的独立顾问团队...",
-      "highlights": [
-        "## OpenAI再发数学突破成果，解决数百道难题",
-        "OpenAI公开了由一个尚未发布的前沿模型解决的多项长期数学难题的解答，这批成果共包含722份手稿，涵盖372个结果家族，用于归类相关论文",
-        "此举延续了该公司一系列数学突破成果的发布节奏，这些成果既令数学界印象深刻，也引发了部分学者的不安，同时带来了关于研究伦理与学术行为的质疑"
-      ],
-      "url": "https://m.sohu.com/a/1086863716_114765?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "前沿理论",
-      "importance": 5,
-      "publishedAt": "2026-10-12T21:11:00Z"
-    },
-    {
-      "id": "e8a2a2942a6d",
-      "title": "Meta Catches Up to OpenAI and Anthropic, Unveils New AI Model 'Muse Wonder'",
-      "summary": "SBS NEWS\n\n Home\n Politics\n Economy\n Society\n World\n Lifestyle & Culture\n Entertainment\n Sports\n\n대한민국 뉴스의 기준, 중심을 지키는 저널리즘 \n\nSBS World News\n\n# Meta Catches Up to OpenAI and Anthropic, Unveils New AI Mo...",
-      "highlights": [
-        "Lifestyle & Culture",
-        "Entertainment",
-        "대한민국 뉴스의 기준, 중심을 지키는 저널리즘"
-      ],
-      "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008794505",
-      "source": "news.sbs.co.kr",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-13T00:29:00Z"
     },
     {
       "id": "055ac1e66988",
@@ -671,173 +909,6 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-10-13T10:10:00Z"
-    },
-    {
-      "id": "f881184c377f",
-      "title": "百万颗英伟达GPU涌入中国，云计算巨头集体“造芯”：算力竞争进入下半场_搜狐网",
-      "summary": "## 百万颗英伟达GPU涌入中国，云计算巨头集体“造芯”：算力竞争进入下半场\n\n通信世界\n\n一边是中国AI企业一年采购超百万颗英伟达GPU，以填补国产芯片短期难以覆盖的巨大需求缺口；一边是IDC最新数据显示英伟达在华AI芯片市场份额已降至34%，华为携28%的份额逼近；与此同时，微软以史上最大规模自研芯片押注回应算力焦虑，并将全球数据中心容量从12GW向38GW狂飙突进。\n\n四组信息交织在一起，勾...",
-      "highlights": [
-        "## 百万颗英伟达GPU涌入中国，云计算巨头集体“造芯”：算力竞争进入下半场",
-        "一边是中国AI企业一年采购超百万颗英伟达GPU，以填补国产芯片短期难以覆盖的巨大需求缺口；一边是IDC最新数据显示英伟达在华AI芯片市场份额已降至34%，华为携28%的份额逼近；与此同时，微软以史上最大规模自研芯片押注回应算力焦虑，并将全球数据中心容量从12GW向38GW狂飙突进",
-        "四组信息交织在一起，勾勒出全球算力竞争的最新格局：竞争的重心，已不再是单颗芯片的性能参数，而是供给稳定性、软硬件生态适配，以及资本与能源的综合承载力"
-      ],
-      "url": "https://m.sohu.com/a/1087495346_128075?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-14T09:56:00Z"
-    }
-  ],
-  "month": [
-    {
-      "id": "4e3e76446476",
-      "title": "微软发布Maia 300 AI芯片：自研算力落地 逐步降低英伟达依赖--快科技--科技改变未来",
-      "summary": "手机版\n 安卓版\n 苹果端\n 博客版\n\n 登录\n 注册\n\n返回\n\n登录\n\n因版权限制，过往内容只提供给老鸟级别及以上用户访问\n\n返回\n\n 当前位置：首页 > 资讯中心 > 电脑办公 > CPU > 文章详情\n 榜单 招聘\n\n#### 正文内容 评论（0）\n\n微软发布Maia 300 AI芯片：自研算力落地 逐步降低英伟达依赖\n\n点击可以复制本篇文章的标题和链接复制; \"点击可以复制本篇文章的标题和...",
-      "highlights": [
-        "因版权限制，过往内容只提供给老鸟级别及以上用户访问",
-        "当前位置：首页 > 资讯中心 > 电脑办公 > CPU > 文章详情",
-        "#### 正文内容 评论（0）"
-      ],
-      "url": "https://news.mydrivers.com/1/1156/1156924.htm",
-      "source": "news.mydrivers.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-12T23:00:00Z"
-    },
-    {
-      "id": "06dd3efcc184",
-      "title": "微软准备在数据中心大规模部署自研芯片 规模达数吉瓦|AI模型|Alphabet|Google|亚马逊|谷歌_手机新浪网",
-      "summary": "## 新浪科技 美股\n\n  \n\n微软公司正准备在数据中心部署最新版自研芯片，目标是主要依靠自家硬件为其AI软件提供算力支持。\n\n微软周一表示，计划在其数据中心部署总规模达数吉瓦的Maia芯片，其中最新一代Maia 300将从明年开始投入部署。这类芯片专为AI推理而设计，即利用AI模型执行总结电话会议内容或回答研究问题等任务。\n\n微软、亚马逊和Alphabet旗下谷歌都在开发自研人工智能加速器，此举...",
-      "highlights": [
-        "微软公司正准备在数据中心部署最新版自研芯片，目标是主要依靠自家硬件为其AI软件提供算力支持",
-        "微软周一表示，计划在其数据中心部署总规模达数吉瓦的Maia芯片，其中最新一代Maia 300将从明年开始投入部署",
-        "这类芯片专为AI推理而设计，即利用AI模型执行总结电话会议内容或回答研究问题等任务"
-      ],
-      "url": "https://finance.sina.cn/usstock/mggd/2026-10-12/detail-iniuytnv5199652.d.html?vt=4",
-      "source": "finance.sina.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-12T21:45:17Z"
-    },
-    {
-      "id": "7789759aae11",
-      "title": "微软发布Maia 300自研AI芯片，科创芯片设计ETF天弘(589070)近10日净流入超1亿元|界面新闻",
-      "summary": "【热点事件】\n\n微软发布Maia 300自研AI芯片，每兆瓦Token产出比GPU高40%\n\n当地时间10月12日，微软在OCP全球峰会上正式发布第三代自研AI芯片Maia300，并宣布将大幅扩大自研芯片的使用规模，以降低对英伟达GPU的依赖。微软计划自2027年起将AzureMaia系列扩展至数吉瓦规模部署，使其成为微软产品和服务的主要AI推理系统，并预计明年可部署超过100万颗Maia300。...",
-      "highlights": [
-        "微软发布Maia 300自研AI芯片，每兆瓦Token产出比GPU高40%",
-        "当地时间10月12日，微软在OCP全球峰会上正式发布第三代自研AI芯片Maia300，并宣布将大幅扩大自研芯片的使用规模，以降低对英伟达GPU的依赖",
-        "微软计划自2027年起将AzureMaia系列扩展至数吉瓦规模部署，使其成为微软产品和服务的主要AI推理系统，并预计明年可部署超过100万颗Maia300"
-      ],
-      "url": "https://www.jiemian.com/article/15182667.html",
-      "source": "jiemian.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-13T02:00:00Z"
-    },
-    {
-      "id": "483199490a5f",
-      "title": "微软Maia 300自研AI芯片将投入量产，Maia家族扩展至吉瓦级部署-电子工程专辑",
-      "summary": "作为换代产品，Maia 300把全部设计重心押在推理上。芯片采用台积电N2P工艺的多chiplet架构，由主计算die、2个IO die、4个内存die和8组HBM4堆栈组成；单芯片FP4算力13.8POPS、FP8算力6.9POPS，热设计功耗950瓦，搭载288GB HBM4、峰值带宽18TB/s。机架级配置更为激进：单机架塞进96颗加速器，整机功耗167千瓦，HBM总容量27.6TB、聚合带...",
-      "highlights": [
-        "作为换代产品，Maia 300把全部设计重心押在推理上",
-        "芯片采用台积电N2P工艺的多chiplet架构，由主计算die、2个IO die、4个内存die和8组HBM4堆栈组成；单芯片FP4算力13.8POPS、FP8算力6.9POPS，热设计功耗950瓦，搭载288GB HBM4、峰值带宽18TB/s",
-        "机架级配置更为激进：单机架塞进96颗加速器，整机功耗167千瓦，HBM总容量27.6TB、聚合带宽1.7PB/s"
-      ],
-      "url": "https://www.eet-china.com/news/202610139121.html",
-      "source": "eet-china.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-13T02:00:00Z"
-    },
-    {
-      "id": "e8be9df8c9cf",
-      "title": "月之暗面，挤进决赛圈-36氪",
-      "summary": "进入9月，月之暗面的动作更加密集。\n\n9月10日，其启动“登月计划”企业合作伙伴计划、11日K2.8 Preview全量上线、17日发布金融行业解决方案、18日Kimi K3进驻亚马逊平台、21日Kimi Code Desktop正式发布……\n\n同一时间，月之暗面的估值也一路飙升。今年1-5月，其连续完成四轮融资，融资估值从百亿美元升至超200亿美元；6月、7月其再拿下E轮和F轮融资，投后估值达到...",
-      "highlights": [
-        "进入9月，月之暗面的动作更加密集",
-        "9月10日，其启动“登月计划”企业合作伙伴计划、11日K2.8 Preview全量上线、17日发布金融行业解决方案、18日Kimi K3进驻亚马逊平台、21日Kimi Code Desktop正式发布……",
-        "同一时间，月之暗面的估值也一路飙升"
-      ],
-      "url": "https://www.36kr.com/p/4023688453312389",
-      "source": "36kr.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-13T03:46:14Z"
-    },
-    {
-      "id": "66d9e69aae80",
-      "title": "OpenAI再发数学突破成果，解决数百道难题_搜狐网",
-      "summary": "## OpenAI再发数学突破成果，解决数百道难题\n\n至顶头条\n\n至顶头条\n\nOpenAI公开了由一个尚未发布的前沿模型解决的多项长期数学难题的解答，这批成果共包含722份手稿，涵盖372个结果家族，用于归类相关论文。此举延续了该公司一系列数学突破成果的发布节奏，这些成果既令数学界印象深刻，也引发了部分学者的不安，同时带来了关于研究伦理与学术行为的质疑。根据AGMAI（这是一个新成立的独立顾问团队...",
-      "highlights": [
-        "## OpenAI再发数学突破成果，解决数百道难题",
-        "OpenAI公开了由一个尚未发布的前沿模型解决的多项长期数学难题的解答，这批成果共包含722份手稿，涵盖372个结果家族，用于归类相关论文",
-        "此举延续了该公司一系列数学突破成果的发布节奏，这些成果既令数学界印象深刻，也引发了部分学者的不安，同时带来了关于研究伦理与学术行为的质疑"
-      ],
-      "url": "https://m.sohu.com/a/1086863716_114765?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "前沿理论",
-      "importance": 5,
-      "publishedAt": "2026-10-12T21:11:00Z"
-    },
-    {
-      "id": "e8a2a2942a6d",
-      "title": "Meta Catches Up to OpenAI and Anthropic, Unveils New AI Model 'Muse Wonder'",
-      "summary": "SBS NEWS\n\n Home\n Politics\n Economy\n Society\n World\n Lifestyle & Culture\n Entertainment\n Sports\n\n대한민국 뉴스의 기준, 중심을 지키는 저널리즘 \n\nSBS World News\n\n# Meta Catches Up to OpenAI and Anthropic, Unveils New AI Mo...",
-      "highlights": [
-        "Lifestyle & Culture",
-        "Entertainment",
-        "대한민국 뉴스의 기준, 중심을 지키는 저널리즘"
-      ],
-      "url": "https://news.sbs.co.kr/amp/news.amp?news_id=N1008794505",
-      "source": "news.sbs.co.kr",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-13T00:29:00Z"
-    },
-    {
-      "id": "055ac1e66988",
-      "title": "微软2027年推出新型AI半导体，算力提高40% 日经中文网",
-      "summary": "据微软介绍，与通用图像处理芯片（GPU）相比，新型芯片预计可在相同电力条件下让AI处理的数据量增加40%。\n\n　   微软于2023年宣布进军AI芯片开发领域，此次是其推出的第3款产品。与在云基础设施领域竞争的美国谷歌和美国Amazon.com相比，微软引入自研芯片较晚。在三大云服务企业中，微软被认为对英伟达产品的依赖程度最高。\n\n　   微软表示，今后将在搭载于办公软件的“Copilot”等AI...",
-      "highlights": [
-        "据微软介绍，与通用图像处理芯片（GPU）相比，新型芯片预计可在相同电力条件下让AI处理的数据量增加40%",
-        "微软于2023年宣布进军AI芯片开发领域，此次是其推出的第3款产品",
-        "与在云基础设施领域竞争的美国谷歌和美国Amazon.com相比，微软引入自研芯片较晚"
-      ],
-      "url": "https://cn.nikkei.com/industry/itelectric-appliance/64316-2026-10-13-15-46-14.html",
-      "source": "cn.nikkei.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-13T08:00:00Z"
-    },
-    {
-      "id": "f21a4c2b2792",
-      "title": "每经热评 |“末日IPO”估值2万亿美元，Anthropic把人类风险卖给了华尔街 | 每日经济新闻",
-      "summary": "## 要闻\n ## 公司\n ## 新经济\n ## 视频\n ## 房楼市\n ## 汽车\n ## 区域\n\n首页 > 要闻 > 正文\n\n# 每经热评 |“末日IPO”估值2万亿美元，Anthropic把人类风险卖给了华尔街\n\n来源：每日经济新闻综合\n\n 发布时间：2026年10月13日 12:03   更新时间：2026年10月13日 12:11\n\n每经评论员 王嘉琦\n\nAnthropic的招股书，大概...",
-      "highlights": [
-        "首页 > 要闻 > 正文",
-        "# 每经热评 |“末日IPO”估值2万亿美元，Anthropic把人类风险卖给了华尔街",
-        "来源：每日经济新闻综合"
-      ],
-      "url": "https://www.mrjjxw.com/articles/2026-10-13/4602726.html",
-      "source": "mrjjxw.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-13T04:00:00Z"
-    },
-    {
-      "id": "581f5c5943a9",
-      "title": "海外研选日报1013 | 杰富瑞：AI热潮或引发美国巨额资本损失 信贷风险升温",
-      "summary": "关于我们网站声明联系方式用户反馈网站地图帮助\n\n## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载\n\n海外研选日报1013 | 杰富瑞：AI热潮或引发美国巨额资本损失 信贷风险升温\n\n2026-10-13 17:06 星期二\n\n财联社 夏军雄\n\n责编 林琦\n\n```\n①高盛：新型闪存有望破解AI“内存墙”，市场规模或达1500亿美元； ②德银：2030年前或出现超级...",
-      "highlights": [
-        "关于我们网站声明联系方式用户反馈网站地图帮助",
-        "## 首页## 电报## 话题## 盯盘## VIP## FM## 投研## 下载",
-        "海外研选日报1013 | 杰富瑞：AI热潮或引发美国巨额资本损失 信贷风险升温"
-      ],
-      "url": "https://www.cls.cn/detail/2503464",
-      "source": "cls.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-13T08:00:00Z"
     }
   ]
 }
