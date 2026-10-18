@@ -1,36 +1,6 @@
 {
-  "updatedAt": "2026-10-17T19:45:07Z",
+  "updatedAt": "2026-10-18T01:40:47Z",
   "latest": [
-    {
-      "id": "5f43d1f6060b",
-      "title": "投资界24h|宕机后，DeepSeek发放补偿；腾讯杀入短剧：绿泡泡来了；沐曦做起LP_投资界",
-      "summary": "据媒体报道，四位知情消息人士表示，在Anthropic披露最新财务信息后，其部分现有投资者及首次公开发行（IPO）潜在投资者正考虑调降对该公司的估值。目前市场普遍担忧人工智能（AI）融资成本激增。其中三位知情人士称，周三在旧金山参加Anthropic投资者日活动的部分投资者讨论的估值为1.5万亿美元左右。这明显低于投资者此前预计其11月进行股票发行时将达到的约2万亿美元估值。（新浪财经）\n\n###...",
-      "highlights": [
-        "据媒体报道，四位知情消息人士表示，在Anthropic披露最新财务信息后，其部分现有投资者及首次公开发行（IPO）潜在投资者正考虑调降对该公司的估值",
-        "目前市场普遍担忧人工智能（AI）融资成本激增",
-        "其中三位知情人士称，周三在旧金山参加Anthropic投资者日活动的部分投资者讨论的估值为1.5万亿美元左右"
-      ],
-      "url": "https://news.pedaily.cn/202610/570350.shtml",
-      "source": "news.pedaily.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-16T00:42:00Z"
-    },
-    {
-      "id": "dbfbadca36c4",
-      "title": "费城半导体七连跌之际，Meta开放权重拓宽AI应用边界! “杰文斯悖论”能否催动半导体大反攻?_滚动新闻_财经_证券之星",
-      "summary": "Meta开放Muse Spark Open，可谓是为应用扩散和推理需求增长提供了新的技术推动力。随着Meta Muse与OpenAI的GPT-6 Astra全面引爆AI智能体大浪潮，加之最新动态所显示的同样聚焦最前沿AI智能体工作负载的Muse Spark Open这一“迄今为主美国能力最强的开放权重AI大模型”重磅发布，“AI FOMO交易”(指投资者担心错过AI相关资产的上涨机会，因而追买或回...",
-      "highlights": [
-        "Meta开放Muse Spark Open，可谓是为应用扩散和推理需求增长提供了新的技术推动力",
-        "随着Meta Muse与OpenAI的GPT-6 Astra全面引爆AI智能体大浪潮，加之最新动态所显示的同样聚焦最前沿AI智能体工作负载的Muse Spark Open这一“迄今为主美国能力最强的开放权重AI大模型”重磅发布，“AI FOMO交易”(指投资者担心错过AI相关资产的上涨机会，因而追买或回补此前降低的仓位)很可能在近日随之卷土重来",
-        "从AI算力基础设施底层架构看，Muse与Astra，以及Meta最新开源的Muse Spark Open有望共同进一步扩大AI智能体使用范围，它们带来的天量级别AI推理工作负载大举扩张会同时增加模型推理、工具执行和状态管理需求，同时加深了部分软件公司的竞争压力"
-      ],
-      "url": "https://wap.stockstar.com/detail/IG2026101600007355",
-      "source": "wap.stockstar.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-16T00:00:00Z"
-    },
     {
       "id": "6d4c7ef177de",
       "title": "Meta发布美国最强开源大模型，可在两台Mac Studio上本地运行|界面新闻 · 科技",
@@ -90,51 +60,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-10-16T08:00:00Z"
-    },
-    {
-      "id": "d0ce41f28b85",
-      "title": "制造业迈向“自主智能体”时代，算力芯片与具身机器人同台竞速|工博会观察",
-      "summary": "▍推动具身智能在工业场景落地\n\n本届工博会的机器人展区展示规模近6万㎡，聚焦具身智能技术与机器人产业融合创新，多款新品集中发布，多项合作落地。\n\n中科第五纪在会上发布新一代具身大脑纪元灵脑与立柱式具身智能机器人纪灵-S1。在展台，三台纪灵-L1轮式双臂机器人围绕物料流转分工协作：从拆垛取箱，到倒料、接料，再到码垛，各环节自主衔接，共同完成连续作业。这场演示将多台机器人的执行能力连接为完整流程。每台...",
-      "highlights": [
-        "▍推动具身智能在工业场景落地",
-        "本届工博会的机器人展区展示规模近6万㎡，聚焦具身智能技术与机器人产业融合创新，多款新品集中发布，多项合作落地",
-        "中科第五纪在会上发布新一代具身大脑纪元灵脑与立柱式具身智能机器人纪灵-S1"
-      ],
-      "url": "https://www.cls.cn/detail/2506466",
-      "source": "cls.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-16T00:00:00Z"
-    },
-    {
-      "id": "cf03fdd3462a",
-      "title": "‘Doing What It Takes’ in AI. OpenAI, Meta & TSMC. ARD #185",
-      "summary": "Why it matters: ChatGPT is already at about 1.2 billion weekly users, and less than 5 percent of that is subscription based. So a lot of the rest is going to be ad driven, the way Google and Meta were...",
-      "highlights": [
-        "Why it matters: ChatGPT is already at about 1.2 billion weekly users, and less than 5 percent of that is subscription based. So a lot of the rest is going to be ad driven, the way Google and Meta were built. Slow and steady progress, shown ahead of Anthropic’s pre-Thanksgiving mega AI IPO, as I discussed in AI-RTZ #1228. The competition between the two continues in earnest, and both are doing what it takes. [...] AI-RTZ #1240, ‘Microsoft’s Copilot evolving to ‘a Costco of AI’’",
-        "AI-RTZ #1238, ‘Meta’s ‘Wonder Full’ Muse Joins the AI Frontier’",
-        "AI-RTZ #1233, ‘Nvidia’s Open Source ‘AI Factory’ Push vs China’"
-      ],
-      "url": "https://michaelparekh.substack.com/p/doing-what-it-takes-in-ai-openai",
-      "source": "michaelparekh.substack.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-15T21:00:00Z"
-    },
-    {
-      "id": "1768a33ef6a5",
-      "title": "个人智能体爆火！蚂蚁发新模型接招，实测编辑部小助理上线 - 智东西",
-      "summary": "关注我们 \n\n智东西\n\n车东西\n\n芯东西\n\n智猩猩\n\n智东西\n\n车东西\n\n芯东西\n\n智猩猩\n\n公开课  \n\n智猩猩\n\n公开课小程序\n\n线下大会\n\nAI生产力创新奖\n\n \n\n快讯  头条 人工智能 芯东西 AIoT 云与智慧城市 机器人 VR/AR 手机通信  活动\n\n杨 京丽\n\n杨 京丽\n\n标签\n\n更多\n\n腾讯iPhone华为苹果5G微软高通小米大模型英特尔IDx360百度智东西谷歌通用三星\n\n个...",
-      "highlights": [
-        "快讯  头条 人工智能 芯东西 AIoT 云与智慧城市 机器人 VR/AR 手机通信  活动",
-        "腾讯iPhone华为苹果5G微软高通小米大模型英特尔IDx360百度智东西谷歌通用三星",
-        "蚂蚁发新模型接招，实测编辑部小助理上线"
-      ],
-      "url": "https://m.zhidx.com/p/601181.html",
-      "source": "m.zhidx.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-15T20:00:00Z"
     },
     {
       "id": "f310050561de",
@@ -223,21 +148,6 @@
       "publishedAt": "2026-10-17T19:45:07Z"
     },
     {
-      "id": "b6165846a806",
-      "title": "谷歌2000亿美元算力豪赌！内幕远比想象中疯狂！",
-      "summary": "00:00 Google的2000亿美元算力豪赌\n00:15 AI数据中心为什么不一样？\n01:03 每半年Token产出翻倍\n02:09 Google为什么坚持自研TPU？\n03:24 DeepMind参与下一代芯片设计\n04:23 Agent如何改变数据中心？\n05:49 AI算力最大的瓶颈：电力\n07:07 七八年前的TPU还在满负荷运行\n08:03 Google用AI设计芯片\n08:41 ...",
-      "highlights": [
-        "00:00 Google的2000亿美元算力豪赌",
-        "00:15 AI数据中心为什么不一样",
-        "01:03 每半年Token产出翻倍"
-      ],
-      "url": "https://www.youtube.com/watch?v=6aQkZ_KTyFQ",
-      "source": "youtube.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-16T00:00:00Z"
-    },
-    {
       "id": "963ce3f88422",
       "title": "AI公司的IPO，开始集体踩刹车了|ipo|上市|融资|财务状况_手机网易网",
       "summary": "有两组数据值得关注。\n\nCambridge Associates在2026年7月发布的美国私募市场报告中披露，2025年，美国风险投资指数回报率达到21.1%，创下2021年以来的最好表现。\n\n但另一边，Renaissance Capital的数据显示，2025年美国上市的科技类企业，按发行价至12月17日收盘价计算，平均回报为-7.3%。\n\n即使只看融资规模超过1亿美元的科技IPO，到年底仍然高...",
@@ -283,21 +193,6 @@
       "publishedAt": "2026-10-16T11:45:10Z"
     },
     {
-      "id": "72a562e70966",
-      "title": "Decision models take off & Anthropic bans cruelty to Claude",
-      "summary": "OpenAI's GPT-5.6 Sol, Wall Street's growing AI concerns, FIFA's AI ambitions, and what goats can teach us about LLMs.\n\n Watch episode\n\nMixture of Experts podcast artwork\n\n 26 June 2026 | Episode 113  ...",
-      "highlights": [
-        "OpenAI's GPT-5.6 Sol, Wall Street's growing AI concerns, FIFA's AI ambitions, and what goats can teach us about LLMs.",
-        "Watch episode",
-        "Mixture of Experts podcast artwork"
-      ],
-      "url": "https://www.ibm.com/think/podcasts/mixture-of-experts/decision-models-ai-agents-claude",
-      "source": "ibm.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-16T00:00:00Z"
-    },
-    {
       "id": "b1a6cc20ec99",
       "title": "What Is the AI Hardware Stack? Chips, Data Centers, and Power, Explained | MindStudio",
       "summary": "Open-weight models like Kimi K3 are pressuring OpenAI and Anthropic's margins, potentially pushing AI profit toward chips and infrastructure instead.\n\nopen source AI modelsAI pricing wartoken economic...",
@@ -324,6 +219,21 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-10-17T19:45:07Z"
+    },
+    {
+      "id": "f3d921367b58",
+      "title": "巨头自研 AI 芯片：靠推理突围，抢回算力垄断利润-虎嗅网",
+      "summary": "巨头自研 AI 芯片：靠推理突围，抢回算力垄断利润\n\n2026-10-17 22:54\n\n# 巨头自研 AI 芯片：靠推理突围，抢回算力垄断利润\n\n偏科声偏科声\n\n速览\n\n本文来自微信公众号： 偏科声 ，作者：李小年，原文标题：《巨头自研 AI 芯片：靠推理突围，抢回算力垄断利润》\n\n随着微软全新自研AI芯片Maia 300的发布，微软和谷歌、亚马逊走上了同一条算力突围之路。科技巨头们不再盲目内卷...",
+      "highlights": [
+        "巨头自研 AI 芯片：靠推理突围，抢回算力垄断利润",
+        "2026-10-17 22:54",
+        "# 巨头自研 AI 芯片：靠推理突围，抢回算力垄断利润"
+      ],
+      "url": "https://www.huxiu.com/article/4898339.html",
+      "source": "huxiu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-17T14:54:26Z"
     },
     {
       "id": "44195adc0d1a",
@@ -423,180 +333,6 @@
       "publishedAt": "2026-10-17T02:00:37Z"
     },
     {
-      "id": "c2b5db27dee4",
-      "title": "AI power crunch drives data center demand for self-generation - digitimes",
-      "summary": "Apple Huawei Nvidia AI Search Scaling AI Glasses Inference Era AI Advanced Packaging. # AI power crunch drives data center demand for self-generation. The focus of the global AI race has shifted from ...",
-      "highlights": [
-        "Apple Huawei Nvidia AI Search Scaling AI Glasses Inference Era AI Advanced Packaging. # AI power crunch drives data center demand for self-generation. The focus of the global AI race has shifted from securing advanced chips to securing access to electricity, with electrical power now becoming the deciding factor for computing capacity... * Leverage AI summaries for instant insights. Practical Insights & Industry IdeasWednesday 14 October 2026. GMIF 2026 Awards: Samsung, Sandisk, BIWIN, and Others HonoredWednesday 14 October 2026. Hybrid Copper Bonding - A Manufacturing Lever for The AI Era. * Musk's Memphis move puts xAI at the center of his empire. * GlobalFoundries wins US$2 billion TSMC interposer deal, closing a US packaging gap. * China's 90%-localized EUV light source debuts at 15W, exposing the gap to commercial chipmaking. * Manus returns to China's AI agent race with US$500 million reset. Sorry, the page you are trying to open is available only for our paid subscribers."
-      ],
-      "url": "https://www.digitimes.com/news/a20261015PD230/aidc-capacity-equipment-chips-electricity.html",
-      "source": "digitimes.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-10-15T23:56:37Z"
-    }
-  ],
-  "today": [
-    {
-      "id": "f310050561de",
-      "title": "【一周IC快报】美国起诉中国科技巨头,立讯精密被调查；“成都造”光刻机将集中交付；晶圆大厂突发爆炸；英伟达停产",
-      "summary": "• 应材50亿美元 EPIC 中心揭幕 魏哲家：加速2纳米之后技术走向量产\n\n应用材料公司斥资50亿美元打造的硅谷EPIC中心正式揭幕，台积电、英特尔、三星、美光及SK海力士共同担任创始合作伙伴，将工程团队与技术开发需求带进同一座研发基地，加快新材料、设备与制程从研发走向量产。\n\n• 明年百万颗！微软2nm AI芯片官宣：每瓦算力自称比GPU高40%\n\n微软发布第三代自研AI芯片Maia 300，...",
-      "highlights": [
-        "• 应材50亿美元 EPIC 中心揭幕 魏哲家：加速2纳米之后技术走向量产",
-        "应用材料公司斥资50亿美元打造的硅谷EPIC中心正式揭幕，台积电、英特尔、三星、美光及SK海力士共同担任创始合作伙伴，将工程团队与技术开发需求带进同一座研发基地，加快新材料、设备与制程从研发走向量产",
-        "微软2nm AI芯片官宣：每瓦算力自称比GPU高40%"
-      ],
-      "url": "https://ijiwei.com/n/1119965",
-      "source": "ijiwei.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-17T02:00:00Z"
-    },
-    {
-      "id": "079bed98a535",
-      "title": "9月具身智能融资：大额退烧，“洗牌”在酝酿 | 盖世汽车",
-      "summary": "这与其说是泡沫式撒钱，不如说是资金在收缩期向头部确定性资产集中。\n\n再者，智驾是当下离具身智能最近的一套完整产业能力。\n\n自动驾驶用十年时间，完整走通了“算法研发——模型训练——量产交付——数据回流”的全流程，其中每一环几乎都能在机器人身上找到对应：感知、预测、规划，对应的是机器人的“大脑”；数据回流驱动模型迭代，是当下具身智能最稀缺的数据飞轮；向主机厂大规模交付，考验的则是实打实的量产和供应链管...",
-      "highlights": [
-        "这与其说是泡沫式撒钱，不如说是资金在收缩期向头部确定性资产集中",
-        "再者，智驾是当下离具身智能最近的一套完整产业能力",
-        "自动驾驶用十年时间，完整走通了“算法研发——模型训练——量产交付——数据回流”的全流程，其中每一环几乎都能在机器人身上找到对应：感知、预测、规划，对应的是机器人的“大脑”；数据回流驱动模型迭代，是当下具身智能最稀缺的数据飞轮；向主机厂大规模交付，考验的则是实打实的量产和供应链管理能力"
-      ],
-      "url": "https://www.gasgoo.com/robot/news/70475019-9%E6%9C%88%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E8%9E%8D%E8%B5%84-%E5%A4%A7%E9%A2%9D%E9%80%80%E7%83%A7-%E6%B4%97%E7%89%8C-%E5%9C%A8%E9%85%9D%E9%85%BF",
-      "source": "gasgoo.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-17T01:00:00Z"
-    },
-    {
-      "id": "822f48c35056",
-      "title": "AI: Anthropic’s IPO Show and Tell, OpenAI Ads, Meta’s Wonder & More. AI-RTZ #1242",
-      "summary": "5. Google’s Gemini 4 Argon back at frontier: Google scrambled back to the frontier with its latest Google Gemini 4 Argon model. It is Google’s first major frontier release since Gemini 3 late last yea...",
-      "highlights": [
-        "5. Google’s Gemini 4 Argon back at frontier: Google scrambled back to the frontier with its latest Google Gemini 4 Argon model. It is Google’s first major frontier release since Gemini 3 late last year, and Google says it beats OpenAI’s GPT-6 Astra and Anthropic’s Fable 5.1 and Opus 5.5 on coding, science, finance and law. Independent tests are less generous: the Artificial Analysis Index has Argon at 53, tied with Astra, behind Opus 5.5 and Meta’s Muse Wonder Full, as I laid out in AI-RTZ [...] laid out in AI-RTZ #1238. Google is pricing to win, at about a fifth of Astra and Fable for now, and it landed a day after Meta’s Wonder. Two frontier launches in two days. My take, from ARD #183: expect frontier leadership to keep ebbing and flowing, in an infinite game, not a race. Google is unique, with a full vertical stack from chips to billions of users, so it can afford to arrive late, and cheap. Its core goal is still ‘good enough’ models for the billions, as I said in ARD #175, while [...] 3. Meta launches its Wonder Frontier AI Models: Meta’s Mark Zuckerberg and Alexandr Wang took a victory lap with the launch of its near-frontier Muse Wonder AI models. Trained at Meta’s gigawatt-scale Prometheus data center, Muse Wonder Full scores 56 on the Artificial Analysis Intelligence Index, behind only Anthropic’s Claude Opus 5.5 at 58, and ahead of OpenAI’s GPT-6 Astra, Google’s Gemini 4 Argon and Claude Fable 5.1, all at 53. Meta built it for personal agents, with ‘Active Memory’ and"
-      ],
-      "url": "https://michaelparekh.substack.com/p/ai-anthropics-ipo-show-and-tell-openai",
-      "source": "michaelparekh.substack.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-17T04:00:00Z"
-    },
-    {
-      "id": "9504638c207a",
-      "title": "Yellow.com",
-      "summary": "6 hours ago\n\nAnthropic is reportedly offering Blackstone a yield above 10% to anchor $9 billion of junior debt for its latest AI chip deal, showing how costly computing power has become. Key Points: B...",
-      "highlights": [
-        "6 hours ago",
-        "Anthropic is reportedly offering Blackstone a yield above 10% to anchor $9 billion of junior debt for its latest AI chip deal, showing how costly computing power has become. Key Points: Blackstone f",
-        "Related News"
-      ],
-      "url": "https://yellow.com/news/chatgpt-outscores-claude-haiku-tailored-advice",
-      "source": "yellow.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-17T12:20:34Z"
-    },
-    {
-      "id": "6ad934cc833d",
-      "title": "厉害！OpenAI首款自研芯片Jalapeño，刚进TIME 2026最佳 ...",
-      "summary": "厉害！OpenAI首款自研芯片Jalapeño，刚进TIME 2026最佳发明！ 不是又一个通用GPU，而是专为推理定制的“AI加速器”。 9个月从零到流片，每瓦效率直接挑战Nvidia，",
-      "highlights": [
-        "OpenAI首款自研芯片Jalapeño，刚进TIME 2026最佳发明",
-        "不是又一个通用GPU，而是专为推理定制的“AI加速器”",
-        "9个月从零到流片，每瓦效率直接挑战Nvidia，"
-      ],
-      "url": "https://x.com/NFT_Chen/status/2111156097239453728",
-      "source": "x.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-17T19:45:07Z"
-    },
-    {
-      "id": "963ce3f88422",
-      "title": "AI公司的IPO，开始集体踩刹车了|ipo|上市|融资|财务状况_手机网易网",
-      "summary": "有两组数据值得关注。\n\nCambridge Associates在2026年7月发布的美国私募市场报告中披露，2025年，美国风险投资指数回报率达到21.1%，创下2021年以来的最好表现。\n\n但另一边，Renaissance Capital的数据显示，2025年美国上市的科技类企业，按发行价至12月17日收盘价计算，平均回报为-7.3%。\n\n即使只看融资规模超过1亿美元的科技IPO，到年底仍然高...",
-      "highlights": [
-        "Cambridge Associates在2026年7月发布的美国私募市场报告中披露，2025年，美国风险投资指数回报率达到21.1%，创下2021年以来的最好表现",
-        "但另一边，Renaissance Capital的数据显示，2025年美国上市的科技类企业，按发行价至12月17日收盘价计算，平均回报为-7.3%",
-        "即使只看融资规模超过1亿美元的科技IPO，到年底仍然高于发行价的企业也只有约四分之一"
-      ],
-      "url": "https://www.163.com/dy/article/L9EOALD40519QIKK.html",
-      "source": "163.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-17T05:04:19Z"
-    },
-    {
-      "id": "37e37fbd90ad",
-      "title": "夹在字节缝隙中的AI融资明星们|字节跳动|移动互联网|创投圈|IPO|PixVerse_新浪新闻",
-      "summary": "另一位剪映旧将陈冕曾负责剪映、CapCut的全球商业化，创立演语科技后陆续形成LiblibAI、星流和LibTV的产品矩阵，完成近3亿美元的B+轮融资后，投后估值超过20亿美元，手握腾讯、顺为资本、蚂蚁集团、红杉中国、Granite Asia等一众股东。\n\n　　创始人有过字节系从0到1做爆款产品的经验，这加速了二者的融资进程。对投资人而言，创业者手握一套被字节验证过的爆款方法论，这是AI应用赛道的...",
-      "highlights": [
-        "另一位剪映旧将陈冕曾负责剪映、CapCut的全球商业化，创立演语科技后陆续形成LiblibAI、星流和LibTV的产品矩阵，完成近3亿美元的B+轮融资后，投后估值超过20亿美元，手握腾讯、顺为资本、蚂蚁集团、红杉中国、Granite Asia等一众股东",
-        "创始人有过字节系从0到1做爆款产品的经验，这加速了二者的融资进程",
-        "对投资人而言，创业者手握一套被字节验证过的爆款方法论，这是AI应用赛道的稀缺品"
-      ],
-      "url": "https://k.sina.com.cn/article_5953189932_162d6782c0670516ng.html?from=tech",
-      "source": "k.sina.com.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-17T16:04:32Z"
-    },
-    {
-      "id": "b1a6cc20ec99",
-      "title": "What Is the AI Hardware Stack? Chips, Data Centers, and Power, Explained | MindStudio",
-      "summary": "Open-weight models like Kimi K3 are pressuring OpenAI and Anthropic's margins, potentially pushing AI profit toward chips and infrastructure instead.\n\nopen source AI modelsAI pricing wartoken economic...",
-      "highlights": [
-        "Open-weight models like Kimi K3 are pressuring OpenAI and Anthropic's margins, potentially pushing AI profit toward chips and infrastructure instead.",
-        "open source AI modelsAI pricing wartoken economics",
-        "Get weekly AI insights from MindStudio [...] ## Where do the AI labs fit into all of this?"
-      ],
-      "url": "https://www.mindstudio.ai/blog/ai-hardware-supply-chain-explained",
-      "source": "mindstudio.ai",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-17T00:00:00Z"
-    },
-    {
-      "id": "861e1ec54ea2",
-      "title": "DeepSeek released an update of its AI model this weekend ...",
-      "summary": "DeepSeek AI is a new open source AI model out of China that claims to be outperforming OpenAI, Google and Meta. DeepSeek Turned the AI World on Its Head",
-      "highlights": [
-        "DeepSeek AI is a new open source AI model out of China that claims to be outperforming OpenAI, Google and Meta. DeepSeek Turned the AI World on Its Head"
-      ],
-      "url": "https://www.facebook.com/bloombergbusiness/posts/deepseek-released-an-update-of-its-ai-model-this-weekend-that-it-says-is-faster-/1532543748731713",
-      "source": "facebook.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-17T19:45:07Z"
-    },
-    {
-      "id": "83cdf503b312",
-      "title": "历史性突破！大湾区大学团队首次用国产大模型攻克世界级数学难题 - 21经济网",
-      "summary": "青年数学家张洁松 受访方供图\n\n攻关过程中，团队采用深度人机协同模式。书生-S2发挥长链条大规模推演优势，多支线同步尝试、拆解复杂命题、承接海量繁琐推导，每轮迭代输出大量成果；科研人员则把握研究大方向，判断思路价值、校准探索方向，提供直觉建议作为下一轮指令。二者通过多轮对话与反馈紧密互动、迭代推进。书生-S2先后完成7批接续推演，问题节点从15个扩展到389个，输出总量达千页的严密推导，同时生成数...",
-      "highlights": [
-        "青年数学家张洁松 受访方供图",
-        "攻关过程中，团队采用深度人机协同模式",
-        "书生-S2发挥长链条大规模推演优势，多支线同步尝试、拆解复杂命题、承接海量繁琐推导，每轮迭代输出大量成果；科研人员则把握研究大方向，判断思路价值、校准探索方向，提供直觉建议作为下一轮指令"
-      ],
-      "url": "https://www.21jingji.com/article/20261017/herald/9eb040baba973963a86f8f0d4291e11d.html",
-      "source": "21jingji.com",
-      "category": "前沿理论",
-      "importance": 4,
-      "publishedAt": "2026-10-17T00:00:00Z"
-    },
-    {
-      "id": "957f9d8b17fb",
-      "title": "Oobit Lets AI Assistants Pay with Stablecoins Via One-Time Cards - The Fintech Times",
-      "summary": "* Oobit Lets AI Assistants Pay with Stablecoins Via One-Time Cards. #### ***Oobit**, a Singapore-based stablecoin payments firm, has launched Oobit AI Payments, a product that lets users authorise AI ...",
-      "highlights": [
-        "* Oobit Lets AI Assistants Pay with Stablecoins Via One-Time Cards. #### ***Oobit**, a Singapore-based stablecoin payments firm, has launched Oobit AI Payments, a product that lets users authorise AI assistants to make purchases on their behalf using stablecoins, without granting those assistants access to the underlying account balance or primary payment credentials.*. When a user asks an AI assistant to book, buy or pay for something, the assistant flags the transaction for approval. Once the user confirms, Oobit generates a one-time virtual card tied exclusively to that transaction. The AI receives the card details it needs to complete checkout; it never holds the user’s wallet credentials or sees the broader account. The one-time card model is not new in isolation. What Oobit is doing is applying that architecture to the consumer-facing AI agent context and running it on top of stablecoin settlement rather than traditional card rails."
-      ],
-      "url": "https://thefintechtimes.com/oobit-lets-ai-assistants-pay-with-stablecoins-via-one-time-cards/",
-      "source": "thefintechtimes.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-17T02:00:37Z"
-    },
-    {
       "id": "7136c52269d2",
       "title": "SpaceX Nvidia AI Chips Financing, OpenAI Funding ...",
       "summary": "- SpaceX Seeks $40 Billion in Debt Financing for Nvidia AI Chips - OpenAI Eyes $30 Billion Funding Round With UAE Funds and BlackRock - Amazon Explores $7",
@@ -623,6 +359,21 @@
       "category": "产品进展",
       "importance": 4,
       "publishedAt": "2026-10-17T13:56:44Z"
+    },
+    {
+      "id": "700a827b5877",
+      "title": "南方财经网 - 南方财经全媒体集团",
+      "summary": "N 视频    \n 2026-10-16 22:11:06\n\n今年9月24日，广东省互联网信息办公室发布的新一期《广东省生成式人工智能服务已备案信息公告》显示，广东累计完成195款生成式人工智能服务备案，约占全国已备案大模型总量近两成，位居全国前列。\n\n从时间维度看，2023年8月《生成式人工智能服务管理暂行办法》实施当年，广东即有8款大模型通过备案；2025年粤港澳大湾区生成式人工智能安全发展联...",
+      "highlights": [
+        "2026-10-16 22:11:06",
+        "今年9月24日，广东省互联网信息办公室发布的新一期《广东省生成式人工智能服务已备案信息公告》显示，广东累计完成195款生成式人工智能服务备案，约占全国已备案大模型总量近两成，位居全国前列",
+        "从时间维度看，2023年8月《生成式人工智能服务管理暂行办法》实施当年，广东即有8款大模型通过备案；2025年粤港澳大湾区生成式人工智能安全发展联合实验室成立以来，广东大模型备案速度进一步提升，当年新增90款；进入2026年，前三季度再增73款"
+      ],
+      "url": "https://m.sfccn.com/2026/10-16/1NMDE1MTNfMjI3MjM1NA.html",
+      "source": "m.sfccn.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-17T01:00:00Z"
     },
     {
       "id": "ffd848210f1f",
@@ -675,47 +426,23 @@
       "category": "投并购",
       "importance": 3,
       "publishedAt": "2026-10-17T12:31:03Z"
-    },
+    }
+  ],
+  "today": [
     {
-      "id": "5af0608df847",
-      "title": "AI dominated startup funding this week, attracting $53.4 Mn ...",
-      "summary": "The AI boom is fueling a historic surge in startup investment: Global startup investment surged +153% in Q1 2026, to a record $300 billion. This is already",
+      "id": "64590c942a3a",
+      "title": "一個 90 年沒解的數學難題，AI 交出了證明——但這次真正的看點，是它把證明寫成「電腦可以逐行檢查」的形式。 OpenAI 10/6 釋出一批由內部前沿模型產出的數學結果，最受矚目的是 Navier–Stokes 存在性與光滑性（千禧年七大難題之一）。發布方式刻意做得可檢驗： ① 論文＋Lean 形式化（證明可由機器驗證） ② 附上 10 份模型的推理摘要 ③ 揭露算力（平均一道結果 ≈ ChatGPT Pro 思考 3 小時） ④ 與普林斯頓高等研究院（IAS）的數學與 AI 顧問小組討論出發布規範 以前「AI 說它證明了」你只能選擇信；現在的重點是：這份證明能不能被重跑一遍。這才是 AI 科學結果該有的驗證方式。 🔗 https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "summary": "Home\n\nNew thread\n\nSearch\n\nMessages\n\nActivity\n\nProfile\n\nInsights\n\nLog in\n\nMore\n\n# Thread\n\n68 views\n\narumwu's profile picture\n\narumwu\n\n一個 90 年沒解的數學難題，AI 交出了證明——但這次真正的看點，是它把證明寫成「電腦可以逐行檢查」的形式。\n\nOpenAI 10/...",
       "highlights": [
-        "The AI boom is fueling a historic surge in startup investment: Global startup investment surged +153% in Q1 2026, to a record $300 billion. This is already"
+        "arumwu's profile picture",
+        "一個 90 年沒解的數學難題，AI 交出了證明——但這次真正的看點，是它把證明寫成「電腦可以逐行檢查」的形式",
+        "OpenAI 10/6 釋出一批由內部前沿模型產出的數學結果，最受矚目的是 Navier–Stokes 存在性與光滑性（千禧年七大難題之一）"
       ],
-      "url": "https://www.facebook.com/Inc42/posts/ai-dominated-startup-funding-this-week-attracting-534-mn-across-six-deals-rapidc/1684562153267900",
-      "source": "facebook.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-17T14:30:07Z"
-    },
-    {
-      "id": "815b8ed41bc9",
-      "title": "Instagram",
-      "summary": "foundersind\n\nRapidCanvas has raised $29 million in a Series B funding round led by Vertex Ventures. The company focuses on helping businesses build and deploy AI-powered applications to solve real-wor...",
-      "highlights": [
-        "foundersind",
-        "RapidCanvas has raised $29 million in a Series B funding round led by Vertex Ventures. The company focuses on helping businesses build and deploy AI-powered applications to solve real-world operational challenges.",
-        "The funding will support its growth as more enterprises look to adopt AI solutions and improve business processes."
-      ],
-      "url": "https://www.instagram.com/p/DejzUwkT6Kx",
-      "source": "instagram.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-17T14:30:07Z"
-    },
-    {
-      "id": "c61c8ce178c4",
-      "title": "Anthropic Executive Says Open-Source AI Models Are ...",
-      "summary": "Nobody knows what anthropic says anymore. They said ai models will self replicate over every device on the internet. I put an ai model locally on my machine.",
-      "highlights": [
-        "Nobody knows what anthropic says anymore. They said ai models will self replicate over every device on the internet. I put an ai model locally on my machine."
-      ],
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5nyd3/anthropic_executive_says_opensource_ai_models_are",
-      "source": "reddit.com",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-10-17T19:45:07Z"
+      "url": "https://www.threads.com/@arumwu/post/DeYAk0tj0P4/%E4%B8%80%E5%80%8B-90-%E5%B9%B4%E6%B2%92%E8%A7%A3%E7%9A%84%E6%95%B8%E5%AD%B8%E9%9B%A3%E9%A1%8Cai-%E4%BA%A4%E5%87%BA%E4%BA%86%E8%AD%89%E6%98%8E%E4%BD%86%E9%80%99%E6%AC%A1%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%9C%8B%E9%BB%9E%E6%98%AF%E5%AE%83%E6%8A%8A%E8%AD%89%E6%98%8E%E5%AF%AB%E6%88%90%E9%9B%BB%E8%85%A6%E5%8F%AF%E4%BB%A5%E9%80%90%E8%A1%8C%E6%AA%A2%E6%9F%A5%E7%9A%84%E5%BD%A2%E5%BC%8Fopenai-106-%E9%87%8B%E5%87%BA%E4%B8%80%E6%89%B9%E7%94%B1%E5%85%A7%E9%83%A8%E5%89%8D%E6%B2%BF%E6%A8%A1%E5%9E%8B%E7%94%A2%E5%87%BA%E7%9A%84%E6%95%B8%E5%AD%B8%E7%B5%90%E6%9E%9C%E6%9C%80%E5%8F%97%E7%9F%9A",
+      "source": "threads.com",
+      "category": "芯片硬件",
+      "importance": 3,
+      "publishedAt": "2026-10-18T01:40:47Z"
     }
   ],
   "week": [
@@ -926,17 +653,19 @@
       "publishedAt": "2026-10-17T12:20:34Z"
     },
     {
-      "id": "e870367fe2d3",
-      "title": "TSMC's net profit hits record in third quarter - The Korea Herald",
-      "summary": "# TSMC's net profit hits record in third quarter. TAIPEI (AFP) -- Taiwanese chip giant TSMC said Thursday that net profit soared to another record high in the third quarter, buoyed by massive global d...",
+      "id": "6ad934cc833d",
+      "title": "厉害！OpenAI首款自研芯片Jalapeño，刚进TIME 2026最佳 ...",
+      "summary": "厉害！OpenAI首款自研芯片Jalapeño，刚进TIME 2026最佳发明！ 不是又一个通用GPU，而是专为推理定制的“AI加速器”。 9个月从零到流片，每瓦效率直接挑战Nvidia，",
       "highlights": [
-        "# TSMC's net profit hits record in third quarter. TAIPEI (AFP) -- Taiwanese chip giant TSMC said Thursday that net profit soared to another record high in the third quarter, buoyed by massive global demand for AI hardware. The result marked the sixth straight record quarterly net profit for the company, the world's biggest contract maker of microchips, including those used in Nvidia AI data center processors. TSMC's net profit for July-September surged 68.7 percent year-on-year to NT$763.1 billion ($23.6 billion), beating analyst estimates of NT$739.5 billion. \"Every leading AI chip still runs through its factories, so for investors, this week's results are about as close as it gets to a health check on the entire AI build-out.\" Fears over AI's dangers have intensified in recent weeks, leading to calls for leading US labs to deliberately slow down their technological advancement."
+        "OpenAI首款自研芯片Jalapeño，刚进TIME 2026最佳发明",
+        "不是又一个通用GPU，而是专为推理定制的“AI加速器”",
+        "9个月从零到流片，每瓦效率直接挑战Nvidia，"
       ],
-      "url": "https://www.koreaherald.com/article/10904221",
-      "source": "koreaherald.com",
+      "url": "https://x.com/NFT_Chen/status/2111156097239453728",
+      "source": "x.com",
       "category": "芯片硬件",
       "importance": 5,
-      "publishedAt": "2026-10-15T10:19:16Z"
+      "publishedAt": "2026-10-17T19:45:07Z"
     }
   ],
   "month": [
