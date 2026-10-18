@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T14:56:32Z",
+  "updatedAt": "2026-10-18T19:44:35Z",
   "latest": [
     {
       "id": "f310050561de",
@@ -206,17 +206,19 @@
       "publishedAt": "2026-10-18T14:56:32Z"
     },
     {
-      "id": "d2da732bb4f4",
-      "title": "Nasdaq sinks more than 2% as investors raise questions about AI debt - CNN",
-      "summary": "Tech stocks are having a tumultuous week as concerns, including higher interest rates and mounting AI debt,continue to weigh on investor sentiment. The Nasdaq Composite fell roughly 2.5% on Friday, br...",
+      "id": "61dc2a599ff4",
+      "title": "英伟达，投了个芯片竞对-36氪",
+      "summary": "Scale-up（机架内紧耦合层）：把一组加速器紧紧连接成一个统一计算体，带宽、延迟直接决定大模型训练效率，芯片之间需要低延迟、高确定性的直接内存访问。\n\nScale-out（跨集群松耦合层）：把多个完成scale-up的算力pod再次连接，跨机架、跨机房完成超大规模扩展，决定集群扩容上限。\n\n在传统方案中，两层网络通常由同一家供应商打包交付。客户如果想要更换加速卡供应商，往往意味着整套网络架构、...",
       "highlights": [
-        "Tech stocks are having a tumultuous week as concerns, including higher interest rates and mounting AI debt,continue to weigh on investor sentiment. The Nasdaq Composite fell roughly 2.5% on Friday, bringing its weekly losses to almost 5% and putting the tech-heavy index on track for its worst week since June. The S&P 500 fell 1.4%, putting its weekly losses at more than 2%, also its worst week since June. But since then, the market has stumbled as jitters spread about whether rising borrowing costs will put pressure on risky corners of the AI boom that are reliant on debt. CoreWeave (CRWV), a neocloud that went public in 2025 and is backed by Nvidia, has emerged as a particular source of market anxiety. Investors sent chip stocks soaring this year on expectations for a massive AI buildout and a shortage of chips that would allow the companies to reap enormous profits. The semis index is down more than 20% since a peak in June, although it’s still up almost 60% year-to-date."
+        "Scale-up（机架内紧耦合层）：把一组加速器紧紧连接成一个统一计算体，带宽、延迟直接决定大模型训练效率，芯片之间需要低延迟、高确定性的直接内存访问",
+        "Scale-out（跨集群松耦合层）：把多个完成scale-up的算力pod再次连接，跨机架、跨机房完成超大规模扩展，决定集群扩容上限",
+        "在传统方案中，两层网络通常由同一家供应商打包交付"
       ],
-      "url": "https://www.cnn.com/2026/10/16/investing/tech-stocks-ai-coreweave",
-      "source": "cnn.com",
+      "url": "https://m.36kr.com/p/4029392211480960",
+      "source": "m.36kr.com",
       "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-10-16T19:10:31Z"
+      "importance": 5,
+      "publishedAt": "2026-10-17T09:46:26Z"
     },
     {
       "id": "83cdf503b312",
@@ -290,36 +292,6 @@
       "publishedAt": "2026-10-17T01:00:00Z"
     },
     {
-      "id": "1dc4f5feda8b",
-      "title": "从做一个Agent到做成一个产品：灵机一动2.0公开版正式上线",
-      "summary": "## 从做一个Agent到做成一个产品：灵机一动2.0公开版正式上线\n\n​​过去一年，AI Agent从一个新鲜概念迅速进入产品实践。对于智能硬件行业来说，很多企业已经开始尝试给产品接入大模型、增加语音交互，打造属于自己的AI智能体。但真正走到产品落地阶段，问题很快就会变得具体起来：智能体应该具备什么能力？用户的模糊需求如何变成一个可以执行的产品方案？硬件如何与智能体连接？完成配置之后，又怎样真正...",
-      "highlights": [
-        "## 从做一个Agent到做成一个产品：灵机一动2.0公开版正式上线",
-        "​​过去一年，AI Agent从一个新鲜概念迅速进入产品实践",
-        "对于智能硬件行业来说，很多企业已经开始尝试给产品接入大模型、增加语音交互，打造属于自己的AI智能体"
-      ],
-      "url": "https://weibo.com/ttarticle/x/m/geoshow/id/2309405354676920385609?domain=digital",
-      "source": "weibo.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-16T16:05:25Z"
-    },
-    {
-      "id": "4d2f52cac6f6",
-      "title": "GitHub - aliyun/ai-agent-handbook: A practical guide to building enterprise AI agents across their full lifecycle. · GitHub",
-      "summary": "| 运行篇 | 第 12 章　Agent 分布式通信 | 能力面、协作面、内构面和人机面的通信协议与消息治理。 |\n| 治理篇 | 第 13 章　Agent 的可观测性 | 指标、日志、Trace、事件、成本归因与审计。 |\n| 治理篇 | 第 14 章　Agent 安全 | Prompt Injection、身份鉴权、逐次校验、高危授权与数据出域防护。 |\n| 治理篇 | 第 15 章　AI 资...",
-      "highlights": [
-        "| 运行篇 | 第 12 章　Agent 分布式通信 | 能力面、协作面、内构面和人机面的通信协议与消息治理",
-        "| 治理篇 | 第 13 章　Agent 的可观测性 | 指标、日志、Trace、事件、成本归因与审计",
-        "| 治理篇 | 第 14 章　Agent 安全 | Prompt Injection、身份鉴权、逐次校验、高危授权与数据出域防护"
-      ],
-      "url": "https://github.com/aliyun/ai-agent-handbook",
-      "source": "github.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-16T16:00:00Z"
-    },
-    {
       "id": "510516e4e8bc",
       "title": "Stand's $70M, CCC buyout, OPay's IPO plans - Axios",
       "summary": "• **North**, an NYC-based cloud spend startup, raised $60m in Series B funding, *per Axios Pro*. • **Sunbound**, a Phoenix-based provider of back-office solutions for senior living operators, raised $...",
@@ -331,19 +303,6 @@
       "category": "投并购",
       "importance": 4,
       "publishedAt": "2026-10-17T11:45:07Z"
-    },
-    {
-      "id": "07bacb1d416e",
-      "title": "Intero Biosystems Wins TechCrunch’s Startup Battlefield - www.cheddar.com",
-      "summary": "###### Biotech startup Intero Biosystems has taken top honors at TechCrunch disrupt’s 2026 startup battlefield. ##### Anthropic Takes Its Pentagon Blacklist Fight Back To Court. ###### Artificial inte...",
-      "highlights": [
-        "###### Biotech startup Intero Biosystems has taken top honors at TechCrunch disrupt’s 2026 startup battlefield. ##### Anthropic Takes Its Pentagon Blacklist Fight Back To Court. ###### Artificial intelligence company Anthropic is asking a full federal appeals court in Washington, D.C., to reconsider a ruling upholding the Pentagon’s decision. ##### Bank Of America Hit With $1.2 Billion Penalty Over Money-Laundering Failures. ###### Bank Of America is facing more than 1.2 billion dollars in penalties after federal regulators found major failures in its anti-money-laundering controls. ##### Supreme Court Takes Up Fight Over Musk’s DOGE Records. ###### The supreme court has agreed to hear the Trump administration’s appeal in a fight over public access to records from Elon Musk’s DOGE. ###### Grocery giant Kroger plans to eliminate 3,000 corporate jobs over the next three years, as it restructures operations and expands its use of AI. ###### A former OpenAI engineer has been arrested, accused of secretly planting a recording device inside the company’s San Francisco headquarters."
-      ],
-      "url": "https://www.cheddar.com/media/intero-biosystems-wins-techcrunchs-startup-battlefield/",
-      "source": "cheddar.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-16T17:48:45Z"
     },
     {
       "id": "b78b29599ab5",
@@ -372,6 +331,34 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-10-18T14:56:32Z"
+    },
+    {
+      "id": "475d53755606",
+      "title": "AI 大模型世界",
+      "summary": "大模型世界数据更新644 个模型· 73 家厂商. Claude Opus 5.5 Anthropic … 最新发布Muse Spark Open Meta 3. Claude Opus 5.5 Anthropic. OpenAI 2026.09",
+      "highlights": [
+        "大模型世界数据更新644 个模型· 73 家厂商. Claude Opus 5.5 Anthropic … 最新发布Muse Spark Open Meta 3. Claude Opus 5.5 Anthropic. OpenAI 2026.09"
+      ],
+      "url": "https://www.bilibili.com/toy/ai-model-world",
+      "source": "bilibili.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-18T07:00:00Z"
+    },
+    {
+      "id": "f673a19a8248",
+      "title": "Page Not Found - shattered.io",
+      "summary": "## Latest\n\n   [Image 9Google Cloud’s U4 Chip Brings 120 Cores to Trading 8 min ago](\n   [Image 10Monster Hunter Wilds Switch 2 Demo Drops Oct. 19 25 min ago](\n   [Image 11Deploy an AWS Bedrock AgentCo...",
+      "highlights": [
+        "[Image 9Google Cloud’s U4 Chip Brings 120 Cores to Trading 8 min ago](",
+        "[Image 10Monster Hunter Wilds Switch 2 Demo Drops Oct. 19 25 min ago](",
+        "[Image 11Deploy an AWS Bedrock AgentCore Agent: 12 Steps 1 h ago]("
+      ],
+      "url": "https://shattered.io/claude-vs-chatgpt-vs-gemini-12-steps-2026",
+      "source": "shattered.io",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-18T05:00:00Z"
     },
     {
       "id": "ffd848210f1f",
@@ -424,6 +411,21 @@
       "category": "投并购",
       "importance": 3,
       "publishedAt": "2026-10-17T12:31:03Z"
+    },
+    {
+      "id": "64590c942a3a",
+      "title": "一個 90 年沒解的數學難題，AI 交出了證明——但這次真正的看點，是它把證明寫成「電腦可以逐行檢查」的形式。 OpenAI 10/6 釋出一批由內部前沿模型產出的數學結果，最受矚目的是 Navier–Stokes 存在性與光滑性（千禧年七大難題之一）。發布方式刻意做得可檢驗： ① 論文＋Lean 形式化（證明可由機器驗證） ② 附上 10 份模型的推理摘要 ③ 揭露算力（平均一道結果 ≈ ChatGPT Pro 思考 3 小時） ④ 與普林斯頓高等研究院（IAS）的數學與 AI 顧問小組討論出發布規範 以前「AI 說它證明了」你只能選擇信；現在的重點是：這份證明能不能被重跑一遍。這才是 AI 科學結果該有的驗證方式。 🔗 https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "summary": "Home\n\nNew thread\n\nSearch\n\nMessages\n\nActivity\n\nProfile\n\nInsights\n\nLog in\n\nMore\n\n# Thread\n\n68 views\n\narumwu's profile picture\n\narumwu\n\n一個 90 年沒解的數學難題，AI 交出了證明——但這次真正的看點，是它把證明寫成「電腦可以逐行檢查」的形式。\n\nOpenAI 10/...",
+      "highlights": [
+        "arumwu's profile picture",
+        "一個 90 年沒解的數學難題，AI 交出了證明——但這次真正的看點，是它把證明寫成「電腦可以逐行檢查」的形式",
+        "OpenAI 10/6 釋出一批由內部前沿模型產出的數學結果，最受矚目的是 Navier–Stokes 存在性與光滑性（千禧年七大難題之一）"
+      ],
+      "url": "https://www.threads.com/@arumwu/post/DeYAk0tj0P4/%E4%B8%80%E5%80%8B-90-%E5%B9%B4%E6%B2%92%E8%A7%A3%E7%9A%84%E6%95%B8%E5%AD%B8%E9%9B%A3%E9%A1%8Cai-%E4%BA%A4%E5%87%BA%E4%BA%86%E8%AD%89%E6%98%8E%E4%BD%86%E9%80%99%E6%AC%A1%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%9C%8B%E9%BB%9E%E6%98%AF%E5%AE%83%E6%8A%8A%E8%AD%89%E6%98%8E%E5%AF%AB%E6%88%90%E9%9B%BB%E8%85%A6%E5%8F%AF%E4%BB%A5%E9%80%90%E8%A1%8C%E6%AA%A2%E6%9F%A5%E7%9A%84%E5%BD%A2%E5%BC%8Fopenai-106-%E9%87%8B%E5%87%BA%E4%B8%80%E6%89%B9%E7%94%B1%E5%85%A7%E9%83%A8%E5%89%8D%E6%B2%BF%E6%A8%A1%E5%9E%8B%E7%94%A2%E5%87%BA%E7%9A%84%E6%95%B8%E5%AD%B8%E7%B5%90%E6%9E%9C%E6%9C%80%E5%8F%97%E7%9F%9A",
+      "source": "threads.com",
+      "category": "芯片硬件",
+      "importance": 3,
+      "publishedAt": "2026-10-18T01:40:47Z"
     }
   ],
   "today": [
@@ -469,6 +471,34 @@
       "publishedAt": "2026-10-18T14:56:32Z"
     },
     {
+      "id": "475d53755606",
+      "title": "AI 大模型世界",
+      "summary": "大模型世界数据更新644 个模型· 73 家厂商. Claude Opus 5.5 Anthropic … 最新发布Muse Spark Open Meta 3. Claude Opus 5.5 Anthropic. OpenAI 2026.09",
+      "highlights": [
+        "大模型世界数据更新644 个模型· 73 家厂商. Claude Opus 5.5 Anthropic … 最新发布Muse Spark Open Meta 3. Claude Opus 5.5 Anthropic. OpenAI 2026.09"
+      ],
+      "url": "https://www.bilibili.com/toy/ai-model-world",
+      "source": "bilibili.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-18T07:00:00Z"
+    },
+    {
+      "id": "f673a19a8248",
+      "title": "Page Not Found - shattered.io",
+      "summary": "## Latest\n\n   [Image 9Google Cloud’s U4 Chip Brings 120 Cores to Trading 8 min ago](\n   [Image 10Monster Hunter Wilds Switch 2 Demo Drops Oct. 19 25 min ago](\n   [Image 11Deploy an AWS Bedrock AgentCo...",
+      "highlights": [
+        "[Image 9Google Cloud’s U4 Chip Brings 120 Cores to Trading 8 min ago](",
+        "[Image 10Monster Hunter Wilds Switch 2 Demo Drops Oct. 19 25 min ago](",
+        "[Image 11Deploy an AWS Bedrock AgentCore Agent: 12 Steps 1 h ago]("
+      ],
+      "url": "https://shattered.io/claude-vs-chatgpt-vs-gemini-12-steps-2026",
+      "source": "shattered.io",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-18T05:00:00Z"
+    },
+    {
       "id": "64590c942a3a",
       "title": "一個 90 年沒解的數學難題，AI 交出了證明——但這次真正的看點，是它把證明寫成「電腦可以逐行檢查」的形式。 OpenAI 10/6 釋出一批由內部前沿模型產出的數學結果，最受矚目的是 Navier–Stokes 存在性與光滑性（千禧年七大難題之一）。發布方式刻意做得可檢驗： ① 論文＋Lean 形式化（證明可由機器驗證） ② 附上 10 份模型的推理摘要 ③ 揭露算力（平均一道結果 ≈ ChatGPT Pro 思考 3 小時） ④ 與普林斯頓高等研究院（IAS）的數學與 AI 顧問小組討論出發布規範 以前「AI 說它證明了」你只能選擇信；現在的重點是：這份證明能不能被重跑一遍。這才是 AI 科學結果該有的驗證方式。 🔗 https://openai.com/index/sharing-ai-progress-in-mathematics",
       "summary": "Home\n\nNew thread\n\nSearch\n\nMessages\n\nActivity\n\nProfile\n\nInsights\n\nLog in\n\nMore\n\n# Thread\n\n68 views\n\narumwu's profile picture\n\narumwu\n\n一個 90 年沒解的數學難題，AI 交出了證明——但這次真正的看點，是它把證明寫成「電腦可以逐行檢查」的形式。\n\nOpenAI 10/...",
@@ -497,6 +527,19 @@
       "publishedAt": "2026-10-18T04:57:07Z"
     },
     {
+      "id": "fb4deda30484",
+      "title": "Nvidia eyes full takeover of the startup it already bet $800M ...",
+      "summary": "AI, a startup backed by Nvidia, said on Thursday it has raised $2 billion in a new funding round that values the company at $8 billion,",
+      "highlights": [
+        "AI, a startup backed by Nvidia, said on Thursday it has raised $2 billion in a new funding round that values the company at $8 billion,"
+      ],
+      "url": "https://www.facebook.com/quartznews/posts/icymi-nvidia-eyes-full-takeover-of-the-startup-it-already-bet-800m-on-nvidia-is-/1465225415473272",
+      "source": "facebook.com",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-10-18T19:44:35Z"
+    },
+    {
       "id": "c61c8ce178c4",
       "title": "Anthropic Executive Says Open-Source AI Models Are ...",
       "summary": "Nobody knows what anthropic says anymore. They said ai models will self replicate over every device on the internet. I put an ai model locally on my machine.",
@@ -508,6 +551,33 @@
       "category": "模型发布",
       "importance": 2,
       "publishedAt": "2026-10-18T14:56:32Z"
+    },
+    {
+      "id": "44195adc0d1a",
+      "title": "Max For AI on X: \"多么讽刺啊。 一位模型安全研究者做出了 ...",
+      "summary": "这篇论文叫《Internal Safety Collapse in Frontier LLM》，专门研究如何突破前沿大模型内部的安全机制。 ... 一个人花了大量精力研究如何突破AI的安全机制，最后却",
+      "highlights": [
+        "这篇论文叫《Internal Safety Collapse in Frontier LLM》，专门研究如何突破前沿大模型内部的安全机制",
+        "... 一个人花了大量精力研究如何突破AI的安全机制，最后却"
+      ],
+      "url": "https://x.com/MaxForAI/status/2110922653246894238",
+      "source": "x.com",
+      "category": "前沿理论",
+      "importance": 2,
+      "publishedAt": "2026-10-18T19:44:35Z"
+    },
+    {
+      "id": "341c2403cf86",
+      "title": "AI大模型时代,IT信息安全与业务迅捷之间如何平衡",
+      "summary": "总结回到最初的问题:AI 大模型时代,IT 信息安全与业务迅捷之间... 【笔记】物联网RFID标签最新数据标准EPC Tag Data Standard ...",
+      "highlights": [
+        "总结回到最初的问题:AI 大模型时代,IT 信息安全与业务迅捷之间... 【笔记】物联网RFID标签最新数据标准EPC Tag Data Standard ..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSw0vH71jBt04ltw2cLYvU79XkG60jajsvFqXa8Fplpd9ufxGUArZKGE1ozznECCufcllJmuctpvp8R9QShGKmV6v7nmOTDif4wW8PgOYGRaUYiU0f9GwZK6Ns3jj4_rGnf8zFgRsXLwVVldErWJCMhDWl3Jy9mFR4Bl6b4aXWqindLUrT4ieNngzSWArfBekoK1Kr8VtJAzcZXFae0DPabby08OLTBhW0A..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=3F3D7EE2AAC6770CA0A7FF8201AF2310A1A2A67C6AD5219B",
+      "source": "微信公众号",
+      "category": "行业话题",
+      "importance": 2,
+      "publishedAt": "2026-10-18T00:00:44Z"
     }
   ],
   "week": [
@@ -555,19 +625,6 @@
       "publishedAt": "2026-10-17T04:00:00Z"
     },
     {
-      "id": "1e1b89a8d541",
-      "title": "Musing Ourselves to Death - The Atlantic",
-      "summary": "AI agents are doing our shopping for us, and wreaking havoc on the internet. You wake up to a notification that a grocery-store employee will deliver all of the ingredients for the three recipes you s...",
-      "highlights": [
-        "AI agents are doing our shopping for us, and wreaking havoc on the internet. You wake up to a notification that a grocery-store employee will deliver all of the ingredients for the three recipes you saved last night to your “Weeknight Dinner” folder. While you brew your coffee, a program browses online retailers to compare toilet-paper prices, and another solicits competitive bids for Sheetrock work you need done in the garage. On your lunch break, you get an alert that computers acting on your behalf noticed some unclaimed funds and class-action payouts in a state database and claimed them. By the time you get home, the groceries are on your doorstep, and you’ve gotten back $150. This is the future that OpenAI, Meta, xAI, Google, and the rest are selling with a spate of always-on AI assistants that work for you. A few weeks after Muse’s launch, OpenAI launched its competing product, Dots, which Sam Altman claimed would let you “get more of your time and attention back.”."
-      ],
-      "url": "https://www.theatlantic.com/technology/2026/10/ai-agent-chaos-e-commerce/689010/",
-      "source": "theatlantic.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-16T12:00:56Z"
-    },
-    {
       "id": "9504638c207a",
       "title": "Yellow.com",
       "summary": "6 hours ago\n\nAnthropic is reportedly offering Blackstone a yield above 10% to anchor $9 billion of junior debt for its latest AI chip deal, showing how costly computing power has become. Key Points: B...",
@@ -628,21 +685,6 @@
       "publishedAt": "2026-10-17T16:04:32Z"
     },
     {
-      "id": "935041ece425",
-      "title": "东山精密赴港上市：营收增长64%，并购后的AI生意赚到多少现金？_凤凰网",
-      "summary": "买下公司之后，设备、厂房和营运资金还要继续投入。按A股半年报口径，2026年上半年经营活动现金净流入23.84亿元，同比下降4.65%；投资活动现金净流出54.83亿元，其中购建固定资产、无形资产及其他长期资产支付52.53亿元。公司把投资增加主要归因于光模块、光芯片及AI PCB扩产。\n\n经营活动带来的现金，尚不足以覆盖当期投资流出，公司增加融资以支撑扩张。半年报显示，期末短期借款96.30亿元...",
-      "highlights": [
-        "买下公司之后，设备、厂房和营运资金还要继续投入",
-        "按A股半年报口径，2026年上半年经营活动现金净流入23.84亿元，同比下降4.65%；投资活动现金净流出54.83亿元，其中购建固定资产、无形资产及其他长期资产支付52.53亿元",
-        "公司把投资增加主要归因于光模块、光芯片及AI PCB扩产"
-      ],
-      "url": "https://finance.ifeng.com/c/8xHWHqqLYas",
-      "source": "finance.ifeng.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-16T11:45:10Z"
-    },
-    {
       "id": "b1a6cc20ec99",
       "title": "What Is the AI Hardware Stack? Chips, Data Centers, and Power, Explained | MindStudio",
       "summary": "Open-weight models like Kimi K3 are pressuring OpenAI and Anthropic's margins, potentially pushing AI profit toward chips and infrastructure instead.\n\nopen source AI modelsAI pricing wartoken economic...",
@@ -686,21 +728,6 @@
       "publishedAt": "2026-10-17T14:54:26Z"
     },
     {
-      "id": "49dfef990688",
-      "title": "Muse能带火国内个人AI智能体吗？-36氪",
-      "summary": "全球AI仍在加速演进。\n\n头部玩家产品持续更新。10月13日，谷歌正式发布专为处理复杂、长程任务而设计的大模型Gemini 4 Argon，将之定义为前沿智能新阶段。在这之前的10月12日，Meta发布同样为长任务、深度推理而设计的大模型Muse Wonder系列，后者指向的是个人和专业Agent即智能体。\n\n自9月8日官宣上线Personal AI Agent即个人AI智能体Muse以来，Met...",
-      "highlights": [
-        "10月13日，谷歌正式发布专为处理复杂、长程任务而设计的大模型Gemini 4 Argon，将之定义为前沿智能新阶段",
-        "在这之前的10月12日，Meta发布同样为长任务、深度推理而设计的大模型Muse Wonder系列，后者指向的是个人和专业Agent即智能体",
-        "自9月8日官宣上线Personal AI Agent即个人AI智能体Muse以来，Meta动作格外受到市场关注"
-      ],
-      "url": "https://m.36kr.com/p/4028339933320840",
-      "source": "m.36kr.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-16T11:53:31Z"
-    },
-    {
       "id": "7b586a7e73ca",
       "title": "9月具身智能融资：大额退烧，“洗牌”在酝酿_车市动态_汽车_中金在线",
       "summary": "这与其说是泡沫式撒钱，不如说是资金在收缩期向头部确定性资产集中。\n\n再者，智驾是当下离具身智能最近的一套完整产业能力。\n\n自动驾驶用十年时间，完整走通了“算法研发——模型训练——量产交付——数据回流”的全流程，其中每一环几乎都能在机器人身上找到对应：感知、预测、规划，对应的是机器人的“大脑”；数据回流驱动模型迭代，是当下具身智能最稀缺的数据飞轮；向主机厂大规模交付，考验的则是实打实的量产和供应链管...",
@@ -716,19 +743,60 @@
       "publishedAt": "2026-10-17T09:00:00Z"
     },
     {
-      "id": "6d4c7ef177de",
-      "title": "Meta发布美国最强开源大模型，可在两台Mac Studio上本地运行|界面新闻 · 科技",
-      "summary": "Meta CEO扎克伯格表示，这是公司朝着向所有人提供“个人超级智能”迈出的重要一步。新模型将用于升级Meta个人AI智能体Muse，但用户需要订阅每月20美元或100美元的付费服务才能在Muse中使用，Meta正试图以此开辟广告业务之外的AI收入来源。\n\n真正让Meta受到外界巨大关注的是公司于9月8日发布的个人AI智能体Muse，扎克伯格将其定义为“能够理解用户目标、全天候替用户完成任务的个人...",
+      "id": "fd69c603ef72",
+      "title": "AI公司的IPO，开始集体踩刹车了_财富号_东方财富网",
+      "summary": "即使只看融资规模超过1亿美元的科技IPO，到年底仍然高于发行价的企业也只有约四分之一。\n\n当然，这两组数据的统计口径并不完全一致，但反映出的市场反差依然值得关注。\n\n过去，IPO往往是科技公司价值增长的重要起点。而如今，越来越多明星科技公司在私人市场就已经完成了大部分估值扩张。\n\n而在AI领域，这种趋势尤其明显。\n\n2025年9月，Firmus的私募估值还只有18.5亿澳元。到了2026年8月，随...",
       "highlights": [
-        "Meta CEO扎克伯格表示，这是公司朝着向所有人提供“个人超级智能”迈出的重要一步",
-        "新模型将用于升级Meta个人AI智能体Muse，但用户需要订阅每月20美元或100美元的付费服务才能在Muse中使用，Meta正试图以此开辟广告业务之外的AI收入来源",
-        "真正让Meta受到外界巨大关注的是公司于9月8日发布的个人AI智能体Muse，扎克伯格将其定义为“能够理解用户目标、全天候替用户完成任务的个人智能体”，并称这是通向“个人超级智能”的第一步"
+        "即使只看融资规模超过1亿美元的科技IPO，到年底仍然高于发行价的企业也只有约四分之一",
+        "当然，这两组数据的统计口径并不完全一致，但反映出的市场反差依然值得关注",
+        "过去，IPO往往是科技公司价值增长的重要起点"
       ],
-      "url": "https://www.jiemian.com/article/15196584.html",
-      "source": "jiemian.com",
+      "url": "https://caifuhao.eastmoney.com/news/20261017105449391219040",
+      "source": "caifuhao.eastmoney.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-17T03:00:00Z"
+    },
+    {
+      "id": "ab0aedbc0e50",
+      "title": "OpenAI, Google, Anthropic: Know Your Players When you ...",
+      "summary": "OpenAI/ specialized cybersecurity model launch OpenAI released GPT-5.4-Cyber, a version of its newest model designed for defensive security teams. Access is",
+      "highlights": [
+        "OpenAI/ specialized cybersecurity model launch OpenAI released GPT-5.4-Cyber, a version of its newest model designed for defensive security teams. Access is"
+      ],
+      "url": "https://www.facebook.com/DataFortLtd/posts/openai-google-anthropic-know-your-playerswhen-you-step-into-the-ai-arena-youll-m/1456032166626594",
+      "source": "facebook.com",
       "category": "模型发布",
       "importance": 5,
-      "publishedAt": "2026-10-16T03:00:00Z"
+      "publishedAt": "2026-10-18T14:56:32Z"
+    },
+    {
+      "id": "d678634d9a7b",
+      "title": "Blink and you’ll miss a new ai model launch. 🤯\n\n• OpenAI GPT-6 Astra\n• OpenAI GPT-6.1 Sol\n• Google Gemini 4 Argon\n• Anthropic Claude 5.5 Opus\n• Anthropic Claude 5.5 Sonnet\n• Microsoft MAI-Thinking-1 | Kapil Mewada | Facebook",
+      "summary": "Home\n\nLive\n\nReels\n\nExplore\n\nBlink and you’ll miss a new ai model launch. 🤯\n• OpenAI GPT-6 Astra\n• OpenAI GPT-6.1 Sol\n• Google Gemini 4 Argon\n• Anthropic Claude 5.5 Opus\n• Anthropic Claude 5.5 Sonnet\n•...",
+      "highlights": [
+        "Blink and you’ll miss a new ai model launch. 🤯",
+        "• OpenAI GPT-6 Astra",
+        "• OpenAI GPT-6.1 Sol"
+      ],
+      "url": "https://www.facebook.com/kapil.mewada.921/posts/blink-and-youll-miss-a-new-ai-model-launch-openai-gpt-6-astra-openai-gpt-61-sol-/3563518420484710",
+      "source": "facebook.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-18T14:56:32Z"
+    },
+    {
+      "id": "1e1b89a8d541",
+      "title": "Musing Ourselves to Death - The Atlantic",
+      "summary": "AI agents are doing our shopping for us, and wreaking havoc on the internet. You wake up to a notification that a grocery-store employee will deliver all of the ingredients for the three recipes you s...",
+      "highlights": [
+        "AI agents are doing our shopping for us, and wreaking havoc on the internet. You wake up to a notification that a grocery-store employee will deliver all of the ingredients for the three recipes you saved last night to your “Weeknight Dinner” folder. While you brew your coffee, a program browses online retailers to compare toilet-paper prices, and another solicits competitive bids for Sheetrock work you need done in the garage. On your lunch break, you get an alert that computers acting on your behalf noticed some unclaimed funds and class-action payouts in a state database and claimed them. By the time you get home, the groceries are on your doorstep, and you’ve gotten back $150. This is the future that OpenAI, Meta, xAI, Google, and the rest are selling with a spate of always-on AI assistants that work for you. A few weeks after Muse’s launch, OpenAI launched its competing product, Dots, which Sam Altman claimed would let you “get more of your time and attention back.”."
+      ],
+      "url": "https://www.theatlantic.com/technology/2026/10/ai-agent-chaos-e-commerce/689010/",
+      "source": "theatlantic.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-16T12:00:56Z"
     }
   ],
   "month": [
@@ -776,19 +844,6 @@
       "publishedAt": "2026-10-17T04:00:00Z"
     },
     {
-      "id": "1e1b89a8d541",
-      "title": "Musing Ourselves to Death - The Atlantic",
-      "summary": "AI agents are doing our shopping for us, and wreaking havoc on the internet. You wake up to a notification that a grocery-store employee will deliver all of the ingredients for the three recipes you s...",
-      "highlights": [
-        "AI agents are doing our shopping for us, and wreaking havoc on the internet. You wake up to a notification that a grocery-store employee will deliver all of the ingredients for the three recipes you saved last night to your “Weeknight Dinner” folder. While you brew your coffee, a program browses online retailers to compare toilet-paper prices, and another solicits competitive bids for Sheetrock work you need done in the garage. On your lunch break, you get an alert that computers acting on your behalf noticed some unclaimed funds and class-action payouts in a state database and claimed them. By the time you get home, the groceries are on your doorstep, and you’ve gotten back $150. This is the future that OpenAI, Meta, xAI, Google, and the rest are selling with a spate of always-on AI assistants that work for you. A few weeks after Muse’s launch, OpenAI launched its competing product, Dots, which Sam Altman claimed would let you “get more of your time and attention back.”."
-      ],
-      "url": "https://www.theatlantic.com/technology/2026/10/ai-agent-chaos-e-commerce/689010/",
-      "source": "theatlantic.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-16T12:00:56Z"
-    },
-    {
       "id": "9504638c207a",
       "title": "Yellow.com",
       "summary": "6 hours ago\n\nAnthropic is reportedly offering Blackstone a yield above 10% to anchor $9 billion of junior debt for its latest AI chip deal, showing how costly computing power has become. Key Points: B...",
@@ -849,21 +904,6 @@
       "publishedAt": "2026-10-17T16:04:32Z"
     },
     {
-      "id": "935041ece425",
-      "title": "东山精密赴港上市：营收增长64%，并购后的AI生意赚到多少现金？_凤凰网",
-      "summary": "买下公司之后，设备、厂房和营运资金还要继续投入。按A股半年报口径，2026年上半年经营活动现金净流入23.84亿元，同比下降4.65%；投资活动现金净流出54.83亿元，其中购建固定资产、无形资产及其他长期资产支付52.53亿元。公司把投资增加主要归因于光模块、光芯片及AI PCB扩产。\n\n经营活动带来的现金，尚不足以覆盖当期投资流出，公司增加融资以支撑扩张。半年报显示，期末短期借款96.30亿元...",
-      "highlights": [
-        "买下公司之后，设备、厂房和营运资金还要继续投入",
-        "按A股半年报口径，2026年上半年经营活动现金净流入23.84亿元，同比下降4.65%；投资活动现金净流出54.83亿元，其中购建固定资产、无形资产及其他长期资产支付52.53亿元",
-        "公司把投资增加主要归因于光模块、光芯片及AI PCB扩产"
-      ],
-      "url": "https://finance.ifeng.com/c/8xHWHqqLYas",
-      "source": "finance.ifeng.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-16T11:45:10Z"
-    },
-    {
       "id": "b1a6cc20ec99",
       "title": "What Is the AI Hardware Stack? Chips, Data Centers, and Power, Explained | MindStudio",
       "summary": "Open-weight models like Kimi K3 are pressuring OpenAI and Anthropic's margins, potentially pushing AI profit toward chips and infrastructure instead.\n\nopen source AI modelsAI pricing wartoken economic...",
@@ -877,6 +917,34 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-10-17T00:00:00Z"
+    },
+    {
+      "id": "861e1ec54ea2",
+      "title": "DeepSeek released an update of its AI model this weekend ...",
+      "summary": "DeepSeek AI is a new open source AI model out of China that claims to be outperforming OpenAI, Google and Meta. DeepSeek Turned the AI World on Its Head",
+      "highlights": [
+        "DeepSeek AI is a new open source AI model out of China that claims to be outperforming OpenAI, Google and Meta. DeepSeek Turned the AI World on Its Head"
+      ],
+      "url": "https://www.facebook.com/bloombergbusiness/posts/deepseek-released-an-update-of-its-ai-model-this-weekend-that-it-says-is-faster-/1532543748731713",
+      "source": "facebook.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-17T19:45:07Z"
+    },
+    {
+      "id": "f3d921367b58",
+      "title": "巨头自研 AI 芯片：靠推理突围，抢回算力垄断利润-虎嗅网",
+      "summary": "巨头自研 AI 芯片：靠推理突围，抢回算力垄断利润\n\n2026-10-17 22:54\n\n# 巨头自研 AI 芯片：靠推理突围，抢回算力垄断利润\n\n偏科声偏科声\n\n速览\n\n本文来自微信公众号： 偏科声 ，作者：李小年，原文标题：《巨头自研 AI 芯片：靠推理突围，抢回算力垄断利润》\n\n随着微软全新自研AI芯片Maia 300的发布，微软和谷歌、亚马逊走上了同一条算力突围之路。科技巨头们不再盲目内卷...",
+      "highlights": [
+        "巨头自研 AI 芯片：靠推理突围，抢回算力垄断利润",
+        "2026-10-17 22:54",
+        "# 巨头自研 AI 芯片：靠推理突围，抢回算力垄断利润"
+      ],
+      "url": "https://www.huxiu.com/article/4898339.html",
+      "source": "huxiu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-17T14:54:26Z"
     }
   ]
 }
