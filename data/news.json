@@ -1,6 +1,924 @@
 {
-  "updatedAt": "2026-10-19T17:49:50Z",
+  "updatedAt": "2026-10-19T21:46:43Z",
   "latest": [
+    {
+      "id": "ab0aedbc0e50",
+      "title": "OpenAI, Google, Anthropic: Know Your Players When you ...",
+      "summary": "OpenAI/ specialized cybersecurity model launch OpenAI released GPT-5.4-Cyber, a version of its newest model designed for defensive security teams. Access is",
+      "highlights": [
+        "OpenAI/ specialized cybersecurity model launch OpenAI released GPT-5.4-Cyber, a version of its newest model designed for defensive security teams. Access is"
+      ],
+      "url": "https://www.facebook.com/DataFortLtd/posts/openai-google-anthropic-know-your-playerswhen-you-step-into-the-ai-arena-youll-m/1456032166626594",
+      "source": "facebook.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-18T14:56:32Z"
+    },
+    {
+      "id": "d678634d9a7b",
+      "title": "Blink and you’ll miss a new ai model launch. 🤯\n\n• OpenAI GPT-6 Astra\n• OpenAI GPT-6.1 Sol\n• Google Gemini 4 Argon\n• Anthropic Claude 5.5 Opus\n• Anthropic Claude 5.5 Sonnet\n• Microsoft MAI-Thinking-1 | Kapil Mewada | Facebook",
+      "summary": "Home\n\nLive\n\nReels\n\nExplore\n\nBlink and you’ll miss a new ai model launch. 🤯\n• OpenAI GPT-6 Astra\n• OpenAI GPT-6.1 Sol\n• Google Gemini 4 Argon\n• Anthropic Claude 5.5 Opus\n• Anthropic Claude 5.5 Sonnet\n•...",
+      "highlights": [
+        "Blink and you’ll miss a new ai model launch. 🤯",
+        "• OpenAI GPT-6 Astra",
+        "• OpenAI GPT-6.1 Sol"
+      ],
+      "url": "https://www.facebook.com/kapil.mewada.921/posts/blink-and-youll-miss-a-new-ai-model-launch-openai-gpt-6-astra-openai-gpt-61-sol-/3563518420484710",
+      "source": "facebook.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-18T14:56:32Z"
+    },
+    {
+      "id": "dabd9fa29ea7",
+      "title": "解禁1.7万亿、回购1.7万亿，美股最大的一场对赌在2027-虎嗅网",
+      "summary": "如果钱在AI内部轮转，表面上会很平静，资金分散在几只不同的大票里，看起来也算多元。\n\n可这些公司的命运高度相关。它们的估值都建立在同一个假设上：AI的投入能在未来几年变成足够的利润。顺风的时候，轮转让每一家都有买盘。逆风的时候，它们会一起跌。\n\n所以2027年更需要担心的，可能是“相关性”，“卖压”倒在其次。分散在表面，集中在底层。\n\n## 04\n\n把前面几层叠起来，会发现英伟达在这张牌桌上同时坐...",
+      "highlights": [
+        "如果钱在AI内部轮转，表面上会很平静，资金分散在几只不同的大票里，看起来也算多元",
+        "可这些公司的命运高度相关",
+        "它们的估值都建立在同一个假设上：AI的投入能在未来几年变成足够的利润"
+      ],
+      "url": "https://www.huxiu.com/article/4898363.html",
+      "source": "huxiu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-18T04:21:45Z"
+    },
+    {
+      "id": "58ce1508af66",
+      "title": "AI Models & LLMs – News, Benchmarks & Pricing | 24AI Global",
+      "summary": "Google has released Gemini 3.8 Flash and a specialized cybersecurity variant — claiming the model is cheaper and faster than rivals from OpenAI and Anthropic.\n\nOpenAI's Astra: 100% on hacking benchmar...",
+      "highlights": [
+        "Google has released Gemini 3.8 Flash and a specialized cybersecurity variant — claiming the model is cheaper and faster than rivals from OpenAI and Anthropic.",
+        "OpenAI's Astra: 100% on hacking benchmark — and discovered unknown security vulnerabilities",
+        "ModelsSEP 4"
+      ],
+      "url": "https://www.24aiglobal.com/ai-models",
+      "source": "24aiglobal.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-18T11:00:00Z"
+    },
+    {
+      "id": "2fffd29f0b09",
+      "title": "AI一次甩出722篇数学论文，25位菲尔兹奖得主坐不住了_投资界",
+      "summary": "现实也提供了支撑，约翰逊本人近月与 AI 协作并称赞其分析缜密；丘成桐实验室已产出七维同伦球面等 AI 辅助成果。新证词还在不断送来：谷歌 DeepMind 的 AlphaProof Nexus 登上《科学》，解决了 9 个厄多斯开放问题（其中两个悬置超过 50 年）和《整数数列在线百科全书》492 个开放猜想中的 44 个，与 OpenAI 形成鲜明对照的是，这批成果等了数月、走完了完整的同行评...",
+      "highlights": [
+        "现实也提供了支撑，约翰逊本人近月与 AI 协作并称赞其分析缜密；丘成桐实验室已产出七维同伦球面等 AI 辅助成果",
+        "新证词还在不断送来：谷歌 DeepMind 的 AlphaProof Nexus 登上《科学》，解决了 9 个厄多斯开放问题（其中两个悬置超过 50 年）和《整数数列在线百科全书》492 个开放猜想中的 44 个，与 OpenAI 形成鲜明对照的是，这批成果等了数月、走完了完整的同行评审，同期《科学》的评论文章标题就叫“AI 用于数学研究已经到来”；Anthropic 则报告 Claude 帮物理学家把散射振幅计算从八圈推进到九圈，布朗大学物理学家沃洛维奇评价，这在很大程度上建立了对前沿 AI 系统能够可靠完成困难计算的信任",
+        "但扩张论回避了分配问题"
+      ],
+      "url": "https://news.pedaily.cn/202610/570453.shtml",
+      "source": "news.pedaily.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-19T04:50:00Z"
+    },
+    {
+      "id": "e257ef6f7627",
+      "title": "解禁1.7万亿、回购1.7万亿，美股最大的一场对赌在2027-虎嗅网",
+      "summary": "如果钱在AI内部轮转，表面上会很平静，资金分散在几只不同的大票里，看起来也算多元。\n\n可这些公司的命运高度相关。它们的估值都建立在同一个假设上：AI的投入能在未来几年变成足够的利润。顺风的时候，轮转让每一家都有买盘。逆风的时候，它们会一起跌。\n\n所以2027年更需要担心的，可能是“相关性”，“卖压”倒在其次。分散在表面，集中在底层。\n\n## 04\n\n把前面几层叠起来，会发现英伟达在这张牌桌上同时坐...",
+      "highlights": [
+        "如果钱在AI内部轮转，表面上会很平静，资金分散在几只不同的大票里，看起来也算多元",
+        "可这些公司的命运高度相关",
+        "它们的估值都建立在同一个假设上：AI的投入能在未来几年变成足够的利润"
+      ],
+      "url": "https://m.huxiu.com/article/4898363.html?type=text",
+      "source": "m.huxiu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-18T04:21:45Z"
+    },
+    {
+      "id": "7f6ac1367454",
+      "title": "星灿智能的“无障碍”实践：当中国具身智能踩中全球治理的节拍_投资界",
+      "summary": "一台机器人拿下的奖项，为什么值得关注\n\n2026年9月的柏林IFA展上，深圳星灿智能的Xcan Mate X做了一件不太一样的事。\n\n它不是人形机器人，不是灵巧手，不是任何本届展会上更“吸睛”的形态。它是一台带座椅的出行陪伴机器人，面向的是老年人和行动不便人群的短距离出行场景。但它拿下了“Tech for Good & Accessibility”类别的最 高阶优胜奖，同时获得IFA NEXT新兴...",
+      "highlights": [
+        "一台机器人拿下的奖项，为什么值得关注",
+        "2026年9月的柏林IFA展上，深圳星灿智能的Xcan Mate X做了一件不太一样的事",
+        "它不是人形机器人，不是灵巧手，不是任何本届展会上更“吸睛”的形态"
+      ],
+      "url": "https://news.pedaily.cn/202610/570449.shtml",
+      "source": "news.pedaily.cn",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-19T04:29:00Z"
+    },
+    {
+      "id": "50432da22c92",
+      "title": "Anthropic, Google and OpenAI prepare new AI models, The Information reports",
+      "summary": "OpenAI is preparing a new model in its Terra family, potentially for release in the coming weeks. It is expected to offer improved capabilities at a lower price than GPT-6.1 Sol, which reportedly appr...",
+      "highlights": [
+        "OpenAI is preparing a new model in its Terra family, potentially for release in the coming weeks. It is expected to offer improved capabilities at a lower price than GPT-6.1 Sol, which reportedly approaches the performance of OpenAI’s flagship Astra model. [...] | Name | Last | Chg. % | Vol. |  |",
+        "| MU | 925.67 | +5.33% | 11.04M |  |",
+        "| NVDA | 218.44 | +2.01% | 38.02M |  |"
+      ],
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-google-and-openai-prepare-new-ai-models-the-information-reports-4957891",
+      "source": "investing.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-19T14:10:34Z"
+    },
+    {
+      "id": "e9db3a06ed4f",
+      "title": "最新全球AI大模型每周Token调用榜出炉！阶跃星辰Step 5 Preview跻身全球前三，DeepSeek V4 Flash正式版跌出榜单 _ 东方财富网",
+      "summary": "财经\n 焦点\n 股票\n 新股\n 期指\n 期权\n 行情\n 数据\n 全球\n 美股\n 港股\n 期货\n 外汇\n 银行\n 基金\n 理财\n 债券\n 直播\n 股吧\n 基金吧\n 博客\n 财富号\n 搜索\n\n指数 期指 期权 个股 板块 排行 新股 基金 港股 美股 期货 外汇 黄金 自选股 自选基金\n\n资金流向 主力排名 板块资金 个股研报 新股申购 转债申购 北交所申购 AH股比价 年报大全 融资融券 龙虎榜 限...",
+      "highlights": [
+        "指数 期指 期权 个股 板块 排行 新股 基金 港股 美股 期货 外汇 黄金 自选股 自选基金",
+        "资金流向 主力排名 板块资金 个股研报 新股申购 转债申购 北交所申购 AH股比价 年报大全 融资融券 龙虎榜 限售解禁 IPO审核 大宗交易 估值分析",
+        "首页 > 财经频道 > 正文"
+      ],
+      "url": "https://finance.eastmoney.com/a/202610193899637843.html",
+      "source": "finance.eastmoney.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-18T04:00:00Z"
+    },
+    {
+      "id": "c032e90db477",
+      "title": "吴清最新发言八大要点：谈中国资产、市场稳定和AI浪潮_搜狐网",
+      "summary": "持续深化资本市场包容性改革方面，吴清表示，聚焦支持新质生产力发展，落实落细“两创板”改革举措，进一步完善科技企业识别筛选等机制。研究推进多层次市场改革，实施更具包容性适应性的发行上市、并购重组等制度。\n\n吴清还指出，深化再融资改革，择机发布新修订的上市公司证券发行注册管理办法及配套规则。“这一过程中，我们将加快推动出台上市公司监管条例，健全公司治理、信息披露、投资者保护等制度机制，培育和壮大优质上...",
+      "highlights": [
+        "持续深化资本市场包容性改革方面，吴清表示，聚焦支持新质生产力发展，落实落细“两创板”改革举措，进一步完善科技企业识别筛选等机制",
+        "研究推进多层次市场改革，实施更具包容性适应性的发行上市、并购重组等制度",
+        "吴清还指出，深化再融资改革，择机发布新修订的上市公司证券发行注册管理办法及配套规则"
+      ],
+      "url": "https://m.sohu.com/a/1089837776_260616?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-19T20:51:00Z"
+    },
+    {
+      "id": "627894d43bb2",
+      "title": "Meta's Muse Wonder AI Model Competes with OpenAI and ...",
+      "summary": "Mark Zuckerberg's Meta is back in the race with OpenAI and Anthropic. Meta has officially launched Muse Wonder, its new flagship AI model, alongside Muse",
+      "highlights": [
+        "Mark Zuckerberg's Meta is back in the race with OpenAI and Anthropic. Meta has officially launched Muse Wonder, its new flagship AI model, alongside Muse"
+      ],
+      "url": "https://www.linkedin.com/posts/evolving-ai_mark-zuckerbergs-meta-is-back-in-the-activity-7515715306812764162-ZSyw",
+      "source": "linkedin.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-18T14:56:32Z"
+    },
+    {
+      "id": "475d53755606",
+      "title": "AI 大模型世界",
+      "summary": "大模型世界数据更新644 个模型· 73 家厂商. Claude Opus 5.5 Anthropic … 最新发布Muse Spark Open Meta 3. Claude Opus 5.5 Anthropic. OpenAI 2026.09",
+      "highlights": [
+        "大模型世界数据更新644 个模型· 73 家厂商. Claude Opus 5.5 Anthropic … 最新发布Muse Spark Open Meta 3. Claude Opus 5.5 Anthropic. OpenAI 2026.09"
+      ],
+      "url": "https://www.bilibili.com/toy/ai-model-world",
+      "source": "bilibili.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-18T07:00:00Z"
+    },
+    {
+      "id": "f673a19a8248",
+      "title": "Page Not Found - shattered.io",
+      "summary": "## Latest\n\n   [Image 9Google Cloud’s U4 Chip Brings 120 Cores to Trading 8 min ago](\n   [Image 10Monster Hunter Wilds Switch 2 Demo Drops Oct. 19 25 min ago](\n   [Image 11Deploy an AWS Bedrock AgentCo...",
+      "highlights": [
+        "[Image 9Google Cloud’s U4 Chip Brings 120 Cores to Trading 8 min ago](",
+        "[Image 10Monster Hunter Wilds Switch 2 Demo Drops Oct. 19 25 min ago](",
+        "[Image 11Deploy an AWS Bedrock AgentCore Agent: 12 Steps 1 h ago]("
+      ],
+      "url": "https://shattered.io/claude-vs-chatgpt-vs-gemini-12-steps-2026",
+      "source": "shattered.io",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-18T05:00:00Z"
+    },
+    {
+      "id": "7f6aaf47d831",
+      "title": "别想了，AI还不能帮你做研究-虎嗅网",
+      "summary": "这个AI Scientist的任务是研究机器学习的漏洞。AI Scientist生成的三篇论文在一次学术会议上被送去审稿，一篇论文的得分很高，达到了接收标准。但Kapoor指出，用同行评审来评价论文的质量并不可靠，尤其对于AI研究。\n\n往大里说，一些研究人员的疑问是：如果AI研究真的能从概念生成到论文发表实现全自动化，这样还能产生真正的突破吗？言下之意是AI更擅长优化现有技术。\n\n为了给AI一个比...",
+      "highlights": [
+        "这个AI Scientist的任务是研究机器学习的漏洞",
+        "AI Scientist生成的三篇论文在一次学术会议上被送去审稿，一篇论文的得分很高，达到了接收标准",
+        "但Kapoor指出，用同行评审来评价论文的质量并不可靠，尤其对于AI研究"
+      ],
+      "url": "https://www.huxiu.com/article/4898555.html",
+      "source": "huxiu.com",
+      "category": "前沿理论",
+      "importance": 4,
+      "publishedAt": "2026-10-19T04:46:47Z"
+    },
+    {
+      "id": "7744f2871e37",
+      "title": "Google and Meta are challenging Anthropic and OpenAI at ...",
+      "summary": "Google is investing $1 billion in Anthropic, a fast- growing rival to OpenAI! Is this a smart move or a risky bet in the AI race? With support from Google and",
+      "highlights": [
+        "Google is investing $1 billion in Anthropic, a fast- growing rival to OpenAI! Is this a smart move or a risky bet in the AI race? With support from Google and"
+      ],
+      "url": "https://www.facebook.com/verge/posts/google-and-meta-are-challenging-anthropic-and-openai-at-the-ai-frontier/1490128026309999",
+      "source": "facebook.com",
+      "category": "行业话题",
+      "importance": 4,
+      "publishedAt": "2026-10-19T11:21:21Z"
+    },
+    {
+      "id": "c0308e5bc66b",
+      "title": "具身智能的 iPhone时刻要来了吗？-36氪",
+      "summary": "第二个是移动与导航能力。具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障。整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的。但自动驾驶汽车用在路上，比具身智能应用场景要简单，比如这个会场就比公开道路复杂的多，具身智能要在这样的场景完全泛化应用还需要不断打磨。\n\n第三个是多模态交互能力。现在大语言模型的语言交...",
+      "highlights": [
+        "第二个是移动与导航能力",
+        "具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障",
+        "整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的"
+      ],
+      "url": "https://m.36kr.com/p/3893816015878664",
+      "source": "m.36kr.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-10-19T14:31:02Z"
+    },
+    {
+      "id": "78ae63bcd571",
+      "title": "DeepSeek将完成1000亿元融资，拟投资winverse Al | 烯牛 ...",
+      "summary": "上周，浦东创投集团分别投资了AI异构算力基础设施提供商无问芯穹、具身大脑技术研发商晨昏线科技、光电集成和硅光解决方案提供商英伟芯科技、AI无障碍导盲机器人研发商朱葛",
+      "highlights": [
+        "上周，浦东创投集团分别投资了AI异构算力基础设施提供商无问芯穹、具身大脑技术研发商晨昏线科技、光电集成和硅光解决方案提供商英伟芯科技、AI无障碍导盲机器人研发商朱葛"
+      ],
+      "url": "https://zhuanlan.zhihu.com/p/2095573589273621864",
+      "source": "zhuanlan.zhihu.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-10-19T09:00:00Z"
+    },
+    {
+      "id": "64590c942a3a",
+      "title": "一個 90 年沒解的數學難題，AI 交出了證明——但這次真正的看點，是它把證明寫成「電腦可以逐行檢查」的形式。 OpenAI 10/6 釋出一批由內部前沿模型產出的數學結果，最受矚目的是 Navier–Stokes 存在性與光滑性（千禧年七大難題之一）。發布方式刻意做得可檢驗： ① 論文＋Lean 形式化（證明可由機器驗證） ② 附上 10 份模型的推理摘要 ③ 揭露算力（平均一道結果 ≈ ChatGPT Pro 思考 3 小時） ④ 與普林斯頓高等研究院（IAS）的數學與 AI 顧問小組討論出發布規範 以前「AI 說它證明了」你只能選擇信；現在的重點是：這份證明能不能被重跑一遍。這才是 AI 科學結果該有的驗證方式。 🔗 https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "summary": "Home\n\nNew thread\n\nSearch\n\nMessages\n\nActivity\n\nProfile\n\nInsights\n\nLog in\n\nMore\n\n# Thread\n\n68 views\n\narumwu's profile picture\n\narumwu\n\n一個 90 年沒解的數學難題，AI 交出了證明——但這次真正的看點，是它把證明寫成「電腦可以逐行檢查」的形式。\n\nOpenAI 10/...",
+      "highlights": [
+        "arumwu's profile picture",
+        "一個 90 年沒解的數學難題，AI 交出了證明——但這次真正的看點，是它把證明寫成「電腦可以逐行檢查」的形式",
+        "OpenAI 10/6 釋出一批由內部前沿模型產出的數學結果，最受矚目的是 Navier–Stokes 存在性與光滑性（千禧年七大難題之一）"
+      ],
+      "url": "https://www.threads.com/@arumwu/post/DeYAk0tj0P4/%E4%B8%80%E5%80%8B-90-%E5%B9%B4%E6%B2%92%E8%A7%A3%E7%9A%84%E6%95%B8%E5%AD%B8%E9%9B%A3%E9%A1%8Cai-%E4%BA%A4%E5%87%BA%E4%BA%86%E8%AD%89%E6%98%8E%E4%BD%86%E9%80%99%E6%AC%A1%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%9C%8B%E9%BB%9E%E6%98%AF%E5%AE%83%E6%8A%8A%E8%AD%89%E6%98%8E%E5%AF%AB%E6%88%90%E9%9B%BB%E8%85%A6%E5%8F%AF%E4%BB%A5%E9%80%90%E8%A1%8C%E6%AA%A2%E6%9F%A5%E7%9A%84%E5%BD%A2%E5%BC%8Fopenai-106-%E9%87%8B%E5%87%BA%E4%B8%80%E6%89%B9%E7%94%B1%E5%85%A7%E9%83%A8%E5%89%8D%E6%B2%BF%E6%A8%A1%E5%9E%8B%E7%94%A2%E5%87%BA%E7%9A%84%E6%95%B8%E5%AD%B8%E7%B5%90%E6%9E%9C%E6%9C%80%E5%8F%97%E7%9F%9A",
+      "source": "threads.com",
+      "category": "芯片硬件",
+      "importance": 3,
+      "publishedAt": "2026-10-18T01:40:47Z"
+    },
+    {
+      "id": "052cd2d46b80",
+      "title": "什么是AI Agent(智能体)  ?",
+      "summary": "一句话:AI Agent(智能体)= 给大模型装上「工具 + 记忆 + 目标... 三件事凑齐,Agent 从论文概念变成能用的产品.要警惕的:会犯...",
+      "highlights": [
+        "一句话:AI Agent(智能体)= 给大模型装上「工具 + 记忆 + 目标... 三件事凑齐,Agent 从论文概念变成能用的产品.要警惕的:会犯..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSw0vH71jBt04jfk6fBKIMxFXkG60jajsvFqXa8Fplpd9HI-j4RhNctx7NP-rHO4OBqmQr9KTSVgSCyR7JskFMq7R60vZt05Fm1BwvMxFlCyFtEEzJUrkwZ9oEaQOX959otY6AieAPFZ5E7SHshkbJGk0_tMxBTmVohxJa03JktVMnr7_3qDo6um7W18JDckcRKh22qkA2siyJmrB1Jdqiv3vzHZXxeLdyg..&amp;type=2&amp;query=AI Agent %E6%99%BA%E8%83%BD%E4%BD%93 %E4%BA%A7%E5%93%81&amp;token=3B6C4A1FE120883623247D3852F949D323962A256AD4985C",
+      "source": "微信公众号",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-10-18T04:57:07Z"
+    },
+    {
+      "id": "fb4deda30484",
+      "title": "Nvidia eyes full takeover of the startup it already bet $800M ...",
+      "summary": "AI, a startup backed by Nvidia, said on Thursday it has raised $2 billion in a new funding round that values the company at $8 billion,",
+      "highlights": [
+        "AI, a startup backed by Nvidia, said on Thursday it has raised $2 billion in a new funding round that values the company at $8 billion,"
+      ],
+      "url": "https://www.facebook.com/quartznews/posts/icymi-nvidia-eyes-full-takeover-of-the-startup-it-already-bet-800m-on-nvidia-is-/1465225415473272",
+      "source": "facebook.com",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-10-18T19:44:35Z"
+    },
+    {
+      "id": "41733933719f",
+      "title": "GitHub - liyupi/ai-model-world: AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。 · GitHub",
+      "summary": "`scripts/qa/` 下全部只读，用来回答「为什么是这个结果」。完整清单见 HANDOFF.md，最常用的几个：\n\n```\n# 这家为什么是这个模型上广场 # # 还有哪些门面不是本家最新的 # # 广场每位门面有哪些数据、缺哪些 # # 三个断点批量截图，视觉自验证 # \"某段文字\" \" \" # 区分「没改干净」和「浏览器缓存」 #\n```\n\n两条管线均离线确定性：不需要任何 API 密钥...",
+      "highlights": [
+        "`scripts/qa/` 下全部只读，用来回答「为什么是这个结果」",
+        "完整清单见 HANDOFF.md，最常用的几个：",
+        "# 这家为什么是这个模型上广场 # # 还有哪些门面不是本家最新的 # # 广场每位门面有哪些数据、缺哪些 # # 三个断点批量截图，视觉自验证 # \"某段文字\" \" \" # 区分「没改干净」和「浏览器缓存」 #"
+      ],
+      "url": "https://github.com/liyupi/ai-model-world",
+      "source": "github.com",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-10-18T13:00:00Z"
+    },
+    {
+      "id": "0025ec4e5790",
+      "title": "什么是物理 AI（Physical AI）及其工作原理，数据、世界模型与机器人",
+      "summary": "physical AI（物理AI，也称具身智能）是能够感知物理世界、理解其规律，并通过实体在其中行动的人工智能，这个实体可以是机器人、自动驾驶汽车，也可以是工厂里的一台",
+      "highlights": [
+        "physical AI（物理AI，也称具身智能）是能够感知物理世界、理解其规律，并通过实体在其中行动的人工智能，这个实体可以是机器人、自动驾驶汽车，也可以是工厂里的一台"
+      ],
+      "url": "https://pasqualepillitteri.it/zh/news/25696/wuli-ai-physical-ai-shi-shenme",
+      "source": "pasqualepillitteri.it",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-10-19T17:00:00Z"
+    },
+    {
+      "id": "473645ea42f1",
+      "title": "Kapital Agrees to Acquire AI Startup Woz for $30M to Enhance Capabilities of AI-Native Banking Platform",
+      "summary": "MEXICO CITY, Oct. 19, 2026 /PRNewswire/ -- Kapital, a global AI-powered financial institution and one of the largest B2B financial institutions in Latin America, today announced it has reached an agre...",
+      "highlights": [
+        "MEXICO CITY, Oct. 19, 2026 /PRNewswire/ -- Kapital, a global AI-powered financial institution and one of the largest B2B financial institutions in Latin America, today announced it has reached an agreement to acquire Woz, a Y Combinator-backed AI startup building advanced coding agents for complex business use cases, in a $30 million cash-and-stock transaction.",
+        "Kapital's logo",
+        "Kapital's logo [...] This is a paid press release. Contact the press release distributor directly with any enquiries."
+      ],
+      "url": "https://uk.finance.yahoo.com/news/kapital-agrees-acquire-ai-startup-140000792.html",
+      "source": "uk.finance.yahoo.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-10-19T13:00:00Z"
+    },
+    {
+      "id": "336b65d9e76a",
+      "title": "什么是AI Agent(智能体)  ?",
+      "summary": "一句话:AI Agent(智能体)= 给大模型装上「工具 + 记忆 + 目标... 三件事凑齐,Agent 从论文概念变成能用的产品.要警惕的:会犯...",
+      "highlights": [
+        "一句话:AI Agent(智能体)= 给大模型装上「工具 + 记忆 + 目标... 三件事凑齐,Agent 从论文概念变成能用的产品.要警惕的:会犯..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS27yBh3vuss2rJfcO-GsIF8e2akkZVnfS1qXa8Fplpd9Hir_ZqBGFUSvVM26tnT6MK9wkNgxGCU7wE68JaiDhYRjTDaMcyo92WxGg3LeAtCeF0VyGHN6hlnobHp88GqjjbhMOitVazy5rVe1pcwR_GM_D-EWxqIGZsoS-Cm5TpUmwq_gEaKdUoxIhr_q_OObvpHqLDq3QG5ZO6XCS4GHXO3P28temKTOwg..&amp;type=2&amp;query=AI Agent %E6%99%BA%E8%83%BD%E4%BD%93 %E4%BA%A7%E5%93%81&amp;token=48AB27ED4902554FE3E4BDD6C125A9EBE31DFBEB6AD6583A",
+      "source": "微信公众号",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-10-18T04:57:07Z"
+    },
+    {
+      "id": "0d5480432c43",
+      "title": "自动驾驶工程师转具身智能，涨薪幅度到底有多大？",
+      "summary": "从目前行业披露的数据来看，自动驾驶工程师转具身智能的薪资涨幅确实比较可观。根据数字中国建设峰会2026年9月发布的相关产业观察，具身智能算法工程师跳槽薪资涨幅普遍在",
+      "highlights": [
+        "从目前行业披露的数据来看，自动驾驶工程师转具身智能的薪资涨幅确实比较可观",
+        "根据数字中国建设峰会2026年9月发布的相关产业观察，具身智能算法工程师跳槽薪资涨幅普遍在"
+      ],
+      "url": "https://cj.sina.com.cn/articles/view/8369366625/1f2da666107201pys6",
+      "source": "cj.sina.com.cn",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-10-18T21:00:00Z"
+    },
+    {
+      "id": "41e851f6d2d9",
+      "title": "什么是AI Agent(智能体)  ?",
+      "summary": "一句话:AI Agent(智能体)= 给大模型装上「工具 + 记忆 + 目标... 三件事凑齐,Agent 从论文概念变成能用的产品.要警惕的:会犯...",
+      "highlights": [
+        "一句话:AI Agent(智能体)= 给大模型装上「工具 + 记忆 + 目标... 三件事凑齐,Agent 从论文概念变成能用的产品.要警惕的:会犯..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS27yBh3vuss2xiQtswyrWm4g30VqyH5x-FqXa8Fplpd9LSOT2XpvqJ2TRjokMedv6HCQVt674usB2oqT-UPCNAMGmx9y9uXRh_bzbqvNjy0XayExOUtOlrvpSYNwzqYLUtPaDFy9zDXgnsMamQ4ejrhMBv1lKSmnWHRSbv1dP_9wQ_kiHDogca3DoFugvsKEDv2oN3O9qr-g8VdVsJ-_fTBFH6In5Ei3zg..&amp;type=2&amp;query=AI Agent %E6%99%BA%E8%83%BD%E4%BD%93 %E4%BA%A7%E5%93%81&amp;token=4A74D12FEA12D1908582DBBCF775508C85C42A9E6AD68FBF",
+      "source": "微信公众号",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-10-18T04:57:07Z"
+    },
+    {
+      "id": "e8b5e6689211",
+      "title": "AI Startup Acquisitions Accelerate, Talent and Tech in High ...",
+      "summary": "195 AI startups have been acquired by venture-backed AI companies so far in 2026—already 14% more than in all of 2025.",
+      "highlights": [
+        "195 AI startups have been acquired by venture-backed AI companies so far in 2026—already 14% more than in all of 2025."
+      ],
+      "url": "https://www.linkedin.com/posts/menlo-ventures_crunchbase-data-shows-ais-most-active-startups-activity-7513745070077177856-YFCJ",
+      "source": "linkedin.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-19T01:58:54Z"
+    },
+    {
+      "id": "8b9a5c72deec",
+      "title": "AI startup acquisitions by other AI ...",
+      "summary": "AI startup acquisitions by other AI startups hit 195 through Sept. 29, up 14% from all of 2025, but number of buyers grew just 2%; OpenAI was the most active",
+      "highlights": [
+        "AI startup acquisitions by other AI startups hit 195 through Sept. 29, up 14% from all of 2025, but number of buyers grew just 2%; OpenAI was the most active"
+      ],
+      "url": "https://www.facebook.com/Techmeme/posts/ai-startup-acquisitions-by-other-ai-startups-hit-195-through-sept-29-up-14-from-/1549961137166195",
+      "source": "facebook.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-19T01:58:54Z"
+    },
+    {
+      "id": "559c26b862a1",
+      "title": "阿里AI战事升级：智能眼镜、录音卡密集登场，“AI员工”批量上线打工",
+      "summary": "本网站的广告客户可能会根据您与广告或广告主的互动情况，向Fusion Media支付费用。   \n 本协议的英文版本系主要版本。如英文版本与中文版本存在差异，以英文版本为准。 [...] 中国10年期国债\n           美国10年期T-Note\n           美国30年期T-Bond\n           英国公债\n           长期欧元债券\n           短期欧元...",
+      "highlights": [
+        "本网站的广告客户可能会根据您与广告或广告主的互动情况，向Fusion Media支付费用",
+        "本协议的英文版本系主要版本",
+        "如英文版本与中文版本存在差异，以英文版本为准"
+      ],
+      "url": "https://cn.investing.com/news/stock-market-news/article-3613556",
+      "source": "cn.investing.com",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-10-18T14:48:21Z"
+    },
+    {
+      "id": "c61c8ce178c4",
+      "title": "Anthropic Executive Says Open-Source AI Models Are ...",
+      "summary": "“We need to be really careful with open-source on safety,” Guillaume Princen, Anthropic's head of international, told Bloomberg TV at the International AI",
+      "highlights": [
+        "“We need to be really careful with open-source on safety,” Guillaume Princen, Anthropic's head of international, told Bloomberg TV at the International AI"
+      ],
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5nyd3/anthropic_executive_says_opensource_ai_models_are",
+      "source": "reddit.com",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-10-19T11:21:21Z"
+    }
+  ],
+  "today": [
+    {
+      "id": "2fffd29f0b09",
+      "title": "AI一次甩出722篇数学论文，25位菲尔兹奖得主坐不住了_投资界",
+      "summary": "现实也提供了支撑，约翰逊本人近月与 AI 协作并称赞其分析缜密；丘成桐实验室已产出七维同伦球面等 AI 辅助成果。新证词还在不断送来：谷歌 DeepMind 的 AlphaProof Nexus 登上《科学》，解决了 9 个厄多斯开放问题（其中两个悬置超过 50 年）和《整数数列在线百科全书》492 个开放猜想中的 44 个，与 OpenAI 形成鲜明对照的是，这批成果等了数月、走完了完整的同行评...",
+      "highlights": [
+        "现实也提供了支撑，约翰逊本人近月与 AI 协作并称赞其分析缜密；丘成桐实验室已产出七维同伦球面等 AI 辅助成果",
+        "新证词还在不断送来：谷歌 DeepMind 的 AlphaProof Nexus 登上《科学》，解决了 9 个厄多斯开放问题（其中两个悬置超过 50 年）和《整数数列在线百科全书》492 个开放猜想中的 44 个，与 OpenAI 形成鲜明对照的是，这批成果等了数月、走完了完整的同行评审，同期《科学》的评论文章标题就叫“AI 用于数学研究已经到来”；Anthropic 则报告 Claude 帮物理学家把散射振幅计算从八圈推进到九圈，布朗大学物理学家沃洛维奇评价，这在很大程度上建立了对前沿 AI 系统能够可靠完成困难计算的信任",
+        "但扩张论回避了分配问题"
+      ],
+      "url": "https://news.pedaily.cn/202610/570453.shtml",
+      "source": "news.pedaily.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-19T04:50:00Z"
+    },
+    {
+      "id": "7f6ac1367454",
+      "title": "星灿智能的“无障碍”实践：当中国具身智能踩中全球治理的节拍_投资界",
+      "summary": "一台机器人拿下的奖项，为什么值得关注\n\n2026年9月的柏林IFA展上，深圳星灿智能的Xcan Mate X做了一件不太一样的事。\n\n它不是人形机器人，不是灵巧手，不是任何本届展会上更“吸睛”的形态。它是一台带座椅的出行陪伴机器人，面向的是老年人和行动不便人群的短距离出行场景。但它拿下了“Tech for Good & Accessibility”类别的最 高阶优胜奖，同时获得IFA NEXT新兴...",
+      "highlights": [
+        "一台机器人拿下的奖项，为什么值得关注",
+        "2026年9月的柏林IFA展上，深圳星灿智能的Xcan Mate X做了一件不太一样的事",
+        "它不是人形机器人，不是灵巧手，不是任何本届展会上更“吸睛”的形态"
+      ],
+      "url": "https://news.pedaily.cn/202610/570449.shtml",
+      "source": "news.pedaily.cn",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-19T04:29:00Z"
+    },
+    {
+      "id": "50432da22c92",
+      "title": "Anthropic, Google and OpenAI prepare new AI models, The Information reports",
+      "summary": "OpenAI is preparing a new model in its Terra family, potentially for release in the coming weeks. It is expected to offer improved capabilities at a lower price than GPT-6.1 Sol, which reportedly appr...",
+      "highlights": [
+        "OpenAI is preparing a new model in its Terra family, potentially for release in the coming weeks. It is expected to offer improved capabilities at a lower price than GPT-6.1 Sol, which reportedly approaches the performance of OpenAI’s flagship Astra model. [...] | Name | Last | Chg. % | Vol. |  |",
+        "| MU | 925.67 | +5.33% | 11.04M |  |",
+        "| NVDA | 218.44 | +2.01% | 38.02M |  |"
+      ],
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-google-and-openai-prepare-new-ai-models-the-information-reports-4957891",
+      "source": "investing.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-19T14:10:34Z"
+    },
+    {
+      "id": "c032e90db477",
+      "title": "吴清最新发言八大要点：谈中国资产、市场稳定和AI浪潮_搜狐网",
+      "summary": "持续深化资本市场包容性改革方面，吴清表示，聚焦支持新质生产力发展，落实落细“两创板”改革举措，进一步完善科技企业识别筛选等机制。研究推进多层次市场改革，实施更具包容性适应性的发行上市、并购重组等制度。\n\n吴清还指出，深化再融资改革，择机发布新修订的上市公司证券发行注册管理办法及配套规则。“这一过程中，我们将加快推动出台上市公司监管条例，健全公司治理、信息披露、投资者保护等制度机制，培育和壮大优质上...",
+      "highlights": [
+        "持续深化资本市场包容性改革方面，吴清表示，聚焦支持新质生产力发展，落实落细“两创板”改革举措，进一步完善科技企业识别筛选等机制",
+        "研究推进多层次市场改革，实施更具包容性适应性的发行上市、并购重组等制度",
+        "吴清还指出，深化再融资改革，择机发布新修订的上市公司证券发行注册管理办法及配套规则"
+      ],
+      "url": "https://m.sohu.com/a/1089837776_260616?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-19T20:51:00Z"
+    },
+    {
+      "id": "7f6aaf47d831",
+      "title": "别想了，AI还不能帮你做研究-虎嗅网",
+      "summary": "这个AI Scientist的任务是研究机器学习的漏洞。AI Scientist生成的三篇论文在一次学术会议上被送去审稿，一篇论文的得分很高，达到了接收标准。但Kapoor指出，用同行评审来评价论文的质量并不可靠，尤其对于AI研究。\n\n往大里说，一些研究人员的疑问是：如果AI研究真的能从概念生成到论文发表实现全自动化，这样还能产生真正的突破吗？言下之意是AI更擅长优化现有技术。\n\n为了给AI一个比...",
+      "highlights": [
+        "这个AI Scientist的任务是研究机器学习的漏洞",
+        "AI Scientist生成的三篇论文在一次学术会议上被送去审稿，一篇论文的得分很高，达到了接收标准",
+        "但Kapoor指出，用同行评审来评价论文的质量并不可靠，尤其对于AI研究"
+      ],
+      "url": "https://www.huxiu.com/article/4898555.html",
+      "source": "huxiu.com",
+      "category": "前沿理论",
+      "importance": 4,
+      "publishedAt": "2026-10-19T04:46:47Z"
+    },
+    {
+      "id": "7744f2871e37",
+      "title": "Google and Meta are challenging Anthropic and OpenAI at ...",
+      "summary": "Google is investing $1 billion in Anthropic, a fast- growing rival to OpenAI! Is this a smart move or a risky bet in the AI race? With support from Google and",
+      "highlights": [
+        "Google is investing $1 billion in Anthropic, a fast- growing rival to OpenAI! Is this a smart move or a risky bet in the AI race? With support from Google and"
+      ],
+      "url": "https://www.facebook.com/verge/posts/google-and-meta-are-challenging-anthropic-and-openai-at-the-ai-frontier/1490128026309999",
+      "source": "facebook.com",
+      "category": "行业话题",
+      "importance": 4,
+      "publishedAt": "2026-10-19T11:21:21Z"
+    },
+    {
+      "id": "c0308e5bc66b",
+      "title": "具身智能的 iPhone时刻要来了吗？-36氪",
+      "summary": "第二个是移动与导航能力。具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障。整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的。但自动驾驶汽车用在路上，比具身智能应用场景要简单，比如这个会场就比公开道路复杂的多，具身智能要在这样的场景完全泛化应用还需要不断打磨。\n\n第三个是多模态交互能力。现在大语言模型的语言交...",
+      "highlights": [
+        "第二个是移动与导航能力",
+        "具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障",
+        "整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的"
+      ],
+      "url": "https://m.36kr.com/p/3893816015878664",
+      "source": "m.36kr.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-10-19T14:31:02Z"
+    },
+    {
+      "id": "78ae63bcd571",
+      "title": "DeepSeek将完成1000亿元融资，拟投资winverse Al | 烯牛 ...",
+      "summary": "上周，浦东创投集团分别投资了AI异构算力基础设施提供商无问芯穹、具身大脑技术研发商晨昏线科技、光电集成和硅光解决方案提供商英伟芯科技、AI无障碍导盲机器人研发商朱葛",
+      "highlights": [
+        "上周，浦东创投集团分别投资了AI异构算力基础设施提供商无问芯穹、具身大脑技术研发商晨昏线科技、光电集成和硅光解决方案提供商英伟芯科技、AI无障碍导盲机器人研发商朱葛"
+      ],
+      "url": "https://zhuanlan.zhihu.com/p/2095573589273621864",
+      "source": "zhuanlan.zhihu.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-10-19T09:00:00Z"
+    },
+    {
+      "id": "0025ec4e5790",
+      "title": "什么是物理 AI（Physical AI）及其工作原理，数据、世界模型与机器人",
+      "summary": "physical AI（物理AI，也称具身智能）是能够感知物理世界、理解其规律，并通过实体在其中行动的人工智能，这个实体可以是机器人、自动驾驶汽车，也可以是工厂里的一台",
+      "highlights": [
+        "physical AI（物理AI，也称具身智能）是能够感知物理世界、理解其规律，并通过实体在其中行动的人工智能，这个实体可以是机器人、自动驾驶汽车，也可以是工厂里的一台"
+      ],
+      "url": "https://pasqualepillitteri.it/zh/news/25696/wuli-ai-physical-ai-shi-shenme",
+      "source": "pasqualepillitteri.it",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-10-19T17:00:00Z"
+    },
+    {
+      "id": "473645ea42f1",
+      "title": "Kapital Agrees to Acquire AI Startup Woz for $30M to Enhance Capabilities of AI-Native Banking Platform",
+      "summary": "MEXICO CITY, Oct. 19, 2026 /PRNewswire/ -- Kapital, a global AI-powered financial institution and one of the largest B2B financial institutions in Latin America, today announced it has reached an agre...",
+      "highlights": [
+        "MEXICO CITY, Oct. 19, 2026 /PRNewswire/ -- Kapital, a global AI-powered financial institution and one of the largest B2B financial institutions in Latin America, today announced it has reached an agreement to acquire Woz, a Y Combinator-backed AI startup building advanced coding agents for complex business use cases, in a $30 million cash-and-stock transaction.",
+        "Kapital's logo",
+        "Kapital's logo [...] This is a paid press release. Contact the press release distributor directly with any enquiries."
+      ],
+      "url": "https://uk.finance.yahoo.com/news/kapital-agrees-acquire-ai-startup-140000792.html",
+      "source": "uk.finance.yahoo.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-10-19T13:00:00Z"
+    },
+    {
+      "id": "e8b5e6689211",
+      "title": "AI Startup Acquisitions Accelerate, Talent and Tech in High ...",
+      "summary": "195 AI startups have been acquired by venture-backed AI companies so far in 2026—already 14% more than in all of 2025.",
+      "highlights": [
+        "195 AI startups have been acquired by venture-backed AI companies so far in 2026—already 14% more than in all of 2025."
+      ],
+      "url": "https://www.linkedin.com/posts/menlo-ventures_crunchbase-data-shows-ais-most-active-startups-activity-7513745070077177856-YFCJ",
+      "source": "linkedin.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-19T01:58:54Z"
+    },
+    {
+      "id": "8b9a5c72deec",
+      "title": "AI startup acquisitions by other AI ...",
+      "summary": "AI startup acquisitions by other AI startups hit 195 through Sept. 29, up 14% from all of 2025, but number of buyers grew just 2%; OpenAI was the most active",
+      "highlights": [
+        "AI startup acquisitions by other AI startups hit 195 through Sept. 29, up 14% from all of 2025, but number of buyers grew just 2%; OpenAI was the most active"
+      ],
+      "url": "https://www.facebook.com/Techmeme/posts/ai-startup-acquisitions-by-other-ai-startups-hit-195-through-sept-29-up-14-from-/1549961137166195",
+      "source": "facebook.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-19T01:58:54Z"
+    },
+    {
+      "id": "c61c8ce178c4",
+      "title": "Anthropic Executive Says Open-Source AI Models Are ...",
+      "summary": "“We need to be really careful with open-source on safety,” Guillaume Princen, Anthropic's head of international, told Bloomberg TV at the International AI",
+      "highlights": [
+        "“We need to be really careful with open-source on safety,” Guillaume Princen, Anthropic's head of international, told Bloomberg TV at the International AI"
+      ],
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5nyd3/anthropic_executive_says_opensource_ai_models_are",
+      "source": "reddit.com",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-10-19T11:21:21Z"
+    },
+    {
+      "id": "f86430fe2b62",
+      "title": "题目(上集)                    如何用AI大模型,从新闻信息入手,写出2026年    1一7月松江经济发展分析",
+      "summary": "上集内容:如何用AI大模型,从新闻信息入手,写好2026年1一7月... 我已经结合最新的公开搜索数据,针对四个核心板块做了专项充实...",
+      "highlights": [
+        "上集内容:如何用AI大模型,从新闻信息入手,写好2026年1一7月... 我已经结合最新的公开搜索数据,针对四个核心板块做了专项充实..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS27yBh3vuss2WmqvXagG1jMe2akkZVnfS1qXa8Fplpd9TRwlul6Ze3nqGWXUh_RfGuhKve0nc6xzc7fFiPNF5GKge7fj2erdakqPKzeqTYQsyFLcCoZq2GvU8FZo5emgc2HR3bB-_HKCQPhKfJYPvYaHDSS76IZldXCHTM0eJ_74EoDRKoe0xDz_qbi1d5rs6eCGL5JbYD7MaRbUO7PghWJQ_LeJW-Rhtg..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=461B98D242DE6106AAACF4841DEBD793AB9BE1EB6AD5FD2A",
+      "source": "微信公众号",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-10-19T09:30:16Z"
+    },
+    {
+      "id": "8862ac6ce473",
+      "title": "证监会：全力维护资本市场安全稳定",
+      "summary": "来源：证券时报. 10月19日，证监会主席吴清出席2026金融街论坛年会开幕式并作主题演讲。 证监会：全力维护资本市场安全稳定. 证监会主席吴清表示，坚持稳字当头，全力",
+      "highlights": [
+        "来源：证券时报. 10月19日，证监会主席吴清出席2026金融街论坛年会开幕式并作主题演讲",
+        "证监会：全力维护资本市场安全稳定. 证监会主席吴清表示，坚持稳字当头，全力"
+      ],
+      "url": "https://www.21jingji.com/article/20261019/herald/033c4bab2845251fe61b120744719665.html",
+      "source": "21jingji.com",
+      "category": "行业话题",
+      "importance": 2,
+      "publishedAt": "2026-10-19T09:00:00Z"
+    },
+    {
+      "id": "35f85c14058f",
+      "title": "Research@ 2026ȸ蹫10Ŵǻ۵оչ-˹-",
+      "summary": "AI ܰԸߵ׼ȷԺ͸ǰԤֺӶиõĻ׼ȸʵΣԵıĿ——һû˻ᱻȻֺͻϮ——治ȡýչ\n\nԺˮԤΪڡȻ־Ĺȸȫˮģܹǰ7ṩɿĺԤǳ150ҡ20˿ڣشӰĺˮȻһǰԤɽ鱩ƺңɼĿꡣGroundsource ǹȸƳ AI ܹΣϢתΪʷݼʹоԱܹ׼ȷԤģ͡ [...] ڡҶоչЩʵٴصĹǰڱ˹ɫŮִҽģ98ھＱǰȫ AMIE ѯٴҽʾ AI ɵժҪ75%Ĳа˽׼ȸ軹ƽ AMIE Ķģ̬ʹܹӦʵʱƵ Inclu...",
+      "highlights": [
+        "AI ܰԸߵ׼ȷԺ͸ǰԤֺӶиõĻ׼ȸʵΣԵıĿ——һû˻ᱻȻֺͻϮ——治ȡýչ",
+        "ԺˮԤΪڡȻ־Ĺȸȫˮģܹǰ7ṩɿĺԤǳ150ҡ20˿ڣشӰĺˮȻһǰԤɽ鱩ƺңɼĿꡣGroundsource ǹȸƳ AI ܹΣϢתΪʷݼʹоԱܹ׼ȷԤģ͡ [...] ڡҶоչЩʵٴصĹǰڱ˹ɫŮִҽģ98ھＱǰȫ AMIE ѯٴҽʾ AI ɵժҪ75%Ĳа˽׼ȸ軹ƽ AMIE Ķģ̬ʹܹӦʵʱƵ Included Health һʵҽƳ AI Ӧõȫо",
+        "AMIE һϽо̵ɲ֣̿׷̱ MedPalm ģһԴڽ׶Ρ"
+      ],
+      "url": "https://www.zhiding.cn/ai/2026/1019/3202708.shtml",
+      "source": "zhiding.cn",
+      "category": "前沿理论",
+      "importance": 2,
+      "publishedAt": "2026-10-19T09:00:00Z"
+    },
+    {
+      "id": "d9ec94c027d9",
+      "title": "Anthropic Readies Model That Reads Users' Intentions Better",
+      "summary": "When you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site...",
+      "highlights": [
+        "When you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our [...] User ID: 6b1502b9-c448-44ae-821b-b433418f383f",
+        "Timestamp: --",
+        "### Manage Consent Preferences"
+      ],
+      "url": "https://www.theinformation.com/newsletters/ai-agenda/anthropic-readies-model-reads-users-intentions-better",
+      "source": "theinformation.com",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-10-19T14:00:42Z"
+    },
+    {
+      "id": "2fe15442aa46",
+      "title": "题目(上集)                    如何用AI大模型,从新闻信息入手,写出2026年    1一7月松江经济发展分析",
+      "summary": "上集内容:如何用AI大模型,从新闻信息入手,写好2026年1一7月... 我已经结合最新的公开搜索数据,针对四个核心板块做了专项充实...",
+      "highlights": [
+        "上集内容:如何用AI大模型,从新闻信息入手,写好2026年1一7月... 我已经结合最新的公开搜索数据,针对四个核心板块做了专项充实..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS27yBh3vuss21sWo57XzzeUe2akkZVnfS1qXa8Fplpd9TRwlul6Ze3nqGWXUh_RfGuhKve0nc6xzc7fFiPNF5GKge7fj2erdaqqlCmVf3ln3Luc7OsEL7QMGtb3M2dS_R01Uq6Rn1yUNZqP7weXh0UwEeFnV-F5wp3F_RjpY8kBuG1REtibF4Hxkjt_-1WcLUvPcocUrJATVJa9FjXhFDBlr1dbZWbKUeQ..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=48AB100AC18DDAC76C6D325948FC7B5B6C2E6B0D6AD65837",
+      "source": "微信公众号",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-10-19T09:30:16Z"
+    },
+    {
+      "id": "8ff341d583e6",
+      "title": "从“懂业务”到“懂资本”：AI时代企业决策者的高管课程选择指南",
+      "summary": "课程不设金融专业背景门槛，而是从企业决策者的实际经营场景出发，把资本运作、产业投资、并购整合等专业命题，转化为企业家能够理解、能够决策、能够落地的语言和工具。",
+      "highlights": [
+        "课程不设金融专业背景门槛，而是从企业决策者的实际经营场景出发，把资本运作、产业投资、并购整合等专业命题，转化为企业家能够理解、能够决策、能够落地的语言和工具"
+      ],
+      "url": "https://k.sina.com.cn/article_5426766895_14375e42f00102zkds.html?from=finance",
+      "source": "k.sina.com.cn",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-19T09:00:00Z"
+    },
+    {
+      "id": "ab17915e0741",
+      "title": "题目(上集)                    如何用AI大模型,从新闻信息入手,写出2026年    1一7月松江经济发展分析",
+      "summary": "上集内容:如何用AI大模型,从新闻信息入手,写好2026年1一7月... 我已经结合最新的公开搜索数据,针对四个核心板块做了专项充实...",
+      "highlights": [
+        "上集内容:如何用AI大模型,从新闻信息入手,写好2026年1一7月... 我已经结合最新的公开搜索数据,针对四个核心板块做了专项充实..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS27yBh3vuss211hiDe36RUwg30VqyH5x-FqXa8Fplpd92h8nnzY7KI9d8JurVktrkvpC1bTR4rnO_Fxk08Klk2L64zwF-9ijXLNfC-ZuiaKtSOt_xVlXVbCUPZr5MaugguEi3WHC4ieJ2GUfEByEiNSqhB7doE-pNfJ36Tj4uC56JRUrjoScFKti9R_60hSUT6VBsxqAsksPzLQUTNW7qVYYJSSFPgfogQ..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=4A74B2F17A82400015134B2C67A8A80C15870E496AD68FBC",
+      "source": "微信公众号",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-10-19T09:30:16Z"
+    }
+  ],
+  "week": [
+    {
+      "id": "2fffd29f0b09",
+      "title": "AI一次甩出722篇数学论文，25位菲尔兹奖得主坐不住了_投资界",
+      "summary": "现实也提供了支撑，约翰逊本人近月与 AI 协作并称赞其分析缜密；丘成桐实验室已产出七维同伦球面等 AI 辅助成果。新证词还在不断送来：谷歌 DeepMind 的 AlphaProof Nexus 登上《科学》，解决了 9 个厄多斯开放问题（其中两个悬置超过 50 年）和《整数数列在线百科全书》492 个开放猜想中的 44 个，与 OpenAI 形成鲜明对照的是，这批成果等了数月、走完了完整的同行评...",
+      "highlights": [
+        "现实也提供了支撑，约翰逊本人近月与 AI 协作并称赞其分析缜密；丘成桐实验室已产出七维同伦球面等 AI 辅助成果",
+        "新证词还在不断送来：谷歌 DeepMind 的 AlphaProof Nexus 登上《科学》，解决了 9 个厄多斯开放问题（其中两个悬置超过 50 年）和《整数数列在线百科全书》492 个开放猜想中的 44 个，与 OpenAI 形成鲜明对照的是，这批成果等了数月、走完了完整的同行评审，同期《科学》的评论文章标题就叫“AI 用于数学研究已经到来”；Anthropic 则报告 Claude 帮物理学家把散射振幅计算从八圈推进到九圈，布朗大学物理学家沃洛维奇评价，这在很大程度上建立了对前沿 AI 系统能够可靠完成困难计算的信任",
+        "但扩张论回避了分配问题"
+      ],
+      "url": "https://news.pedaily.cn/202610/570453.shtml",
+      "source": "news.pedaily.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-19T04:50:00Z"
+    },
+    {
+      "id": "7f6ac1367454",
+      "title": "星灿智能的“无障碍”实践：当中国具身智能踩中全球治理的节拍_投资界",
+      "summary": "一台机器人拿下的奖项，为什么值得关注\n\n2026年9月的柏林IFA展上，深圳星灿智能的Xcan Mate X做了一件不太一样的事。\n\n它不是人形机器人，不是灵巧手，不是任何本届展会上更“吸睛”的形态。它是一台带座椅的出行陪伴机器人，面向的是老年人和行动不便人群的短距离出行场景。但它拿下了“Tech for Good & Accessibility”类别的最 高阶优胜奖，同时获得IFA NEXT新兴...",
+      "highlights": [
+        "一台机器人拿下的奖项，为什么值得关注",
+        "2026年9月的柏林IFA展上，深圳星灿智能的Xcan Mate X做了一件不太一样的事",
+        "它不是人形机器人，不是灵巧手，不是任何本届展会上更“吸睛”的形态"
+      ],
+      "url": "https://news.pedaily.cn/202610/570449.shtml",
+      "source": "news.pedaily.cn",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-19T04:29:00Z"
+    },
+    {
+      "id": "50432da22c92",
+      "title": "Anthropic, Google and OpenAI prepare new AI models, The Information reports",
+      "summary": "OpenAI is preparing a new model in its Terra family, potentially for release in the coming weeks. It is expected to offer improved capabilities at a lower price than GPT-6.1 Sol, which reportedly appr...",
+      "highlights": [
+        "OpenAI is preparing a new model in its Terra family, potentially for release in the coming weeks. It is expected to offer improved capabilities at a lower price than GPT-6.1 Sol, which reportedly approaches the performance of OpenAI’s flagship Astra model. [...] | Name | Last | Chg. % | Vol. |  |",
+        "| MU | 925.67 | +5.33% | 11.04M |  |",
+        "| NVDA | 218.44 | +2.01% | 38.02M |  |"
+      ],
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-google-and-openai-prepare-new-ai-models-the-information-reports-4957891",
+      "source": "investing.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-19T14:10:34Z"
+    },
+    {
+      "id": "c032e90db477",
+      "title": "吴清最新发言八大要点：谈中国资产、市场稳定和AI浪潮_搜狐网",
+      "summary": "持续深化资本市场包容性改革方面，吴清表示，聚焦支持新质生产力发展，落实落细“两创板”改革举措，进一步完善科技企业识别筛选等机制。研究推进多层次市场改革，实施更具包容性适应性的发行上市、并购重组等制度。\n\n吴清还指出，深化再融资改革，择机发布新修订的上市公司证券发行注册管理办法及配套规则。“这一过程中，我们将加快推动出台上市公司监管条例，健全公司治理、信息披露、投资者保护等制度机制，培育和壮大优质上...",
+      "highlights": [
+        "持续深化资本市场包容性改革方面，吴清表示，聚焦支持新质生产力发展，落实落细“两创板”改革举措，进一步完善科技企业识别筛选等机制",
+        "研究推进多层次市场改革，实施更具包容性适应性的发行上市、并购重组等制度",
+        "吴清还指出，深化再融资改革，择机发布新修订的上市公司证券发行注册管理办法及配套规则"
+      ],
+      "url": "https://m.sohu.com/a/1089837776_260616?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-19T20:51:00Z"
+    },
+    {
+      "id": "7f6aaf47d831",
+      "title": "别想了，AI还不能帮你做研究-虎嗅网",
+      "summary": "这个AI Scientist的任务是研究机器学习的漏洞。AI Scientist生成的三篇论文在一次学术会议上被送去审稿，一篇论文的得分很高，达到了接收标准。但Kapoor指出，用同行评审来评价论文的质量并不可靠，尤其对于AI研究。\n\n往大里说，一些研究人员的疑问是：如果AI研究真的能从概念生成到论文发表实现全自动化，这样还能产生真正的突破吗？言下之意是AI更擅长优化现有技术。\n\n为了给AI一个比...",
+      "highlights": [
+        "这个AI Scientist的任务是研究机器学习的漏洞",
+        "AI Scientist生成的三篇论文在一次学术会议上被送去审稿，一篇论文的得分很高，达到了接收标准",
+        "但Kapoor指出，用同行评审来评价论文的质量并不可靠，尤其对于AI研究"
+      ],
+      "url": "https://www.huxiu.com/article/4898555.html",
+      "source": "huxiu.com",
+      "category": "前沿理论",
+      "importance": 4,
+      "publishedAt": "2026-10-19T04:46:47Z"
+    },
+    {
+      "id": "7744f2871e37",
+      "title": "Google and Meta are challenging Anthropic and OpenAI at ...",
+      "summary": "Google is investing $1 billion in Anthropic, a fast- growing rival to OpenAI! Is this a smart move or a risky bet in the AI race? With support from Google and",
+      "highlights": [
+        "Google is investing $1 billion in Anthropic, a fast- growing rival to OpenAI! Is this a smart move or a risky bet in the AI race? With support from Google and"
+      ],
+      "url": "https://www.facebook.com/verge/posts/google-and-meta-are-challenging-anthropic-and-openai-at-the-ai-frontier/1490128026309999",
+      "source": "facebook.com",
+      "category": "行业话题",
+      "importance": 4,
+      "publishedAt": "2026-10-19T11:21:21Z"
+    },
+    {
+      "id": "c0308e5bc66b",
+      "title": "具身智能的 iPhone时刻要来了吗？-36氪",
+      "summary": "第二个是移动与导航能力。具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障。整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的。但自动驾驶汽车用在路上，比具身智能应用场景要简单，比如这个会场就比公开道路复杂的多，具身智能要在这样的场景完全泛化应用还需要不断打磨。\n\n第三个是多模态交互能力。现在大语言模型的语言交...",
+      "highlights": [
+        "第二个是移动与导航能力",
+        "具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障",
+        "整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的"
+      ],
+      "url": "https://m.36kr.com/p/3893816015878664",
+      "source": "m.36kr.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-10-19T14:31:02Z"
+    },
+    {
+      "id": "78ae63bcd571",
+      "title": "DeepSeek将完成1000亿元融资，拟投资winverse Al | 烯牛 ...",
+      "summary": "上周，浦东创投集团分别投资了AI异构算力基础设施提供商无问芯穹、具身大脑技术研发商晨昏线科技、光电集成和硅光解决方案提供商英伟芯科技、AI无障碍导盲机器人研发商朱葛",
+      "highlights": [
+        "上周，浦东创投集团分别投资了AI异构算力基础设施提供商无问芯穹、具身大脑技术研发商晨昏线科技、光电集成和硅光解决方案提供商英伟芯科技、AI无障碍导盲机器人研发商朱葛"
+      ],
+      "url": "https://zhuanlan.zhihu.com/p/2095573589273621864",
+      "source": "zhuanlan.zhihu.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-10-19T09:00:00Z"
+    },
+    {
+      "id": "0025ec4e5790",
+      "title": "什么是物理 AI（Physical AI）及其工作原理，数据、世界模型与机器人",
+      "summary": "physical AI（物理AI，也称具身智能）是能够感知物理世界、理解其规律，并通过实体在其中行动的人工智能，这个实体可以是机器人、自动驾驶汽车，也可以是工厂里的一台",
+      "highlights": [
+        "physical AI（物理AI，也称具身智能）是能够感知物理世界、理解其规律，并通过实体在其中行动的人工智能，这个实体可以是机器人、自动驾驶汽车，也可以是工厂里的一台"
+      ],
+      "url": "https://pasqualepillitteri.it/zh/news/25696/wuli-ai-physical-ai-shi-shenme",
+      "source": "pasqualepillitteri.it",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-10-19T17:00:00Z"
+    },
+    {
+      "id": "473645ea42f1",
+      "title": "Kapital Agrees to Acquire AI Startup Woz for $30M to Enhance Capabilities of AI-Native Banking Platform",
+      "summary": "MEXICO CITY, Oct. 19, 2026 /PRNewswire/ -- Kapital, a global AI-powered financial institution and one of the largest B2B financial institutions in Latin America, today announced it has reached an agre...",
+      "highlights": [
+        "MEXICO CITY, Oct. 19, 2026 /PRNewswire/ -- Kapital, a global AI-powered financial institution and one of the largest B2B financial institutions in Latin America, today announced it has reached an agreement to acquire Woz, a Y Combinator-backed AI startup building advanced coding agents for complex business use cases, in a $30 million cash-and-stock transaction.",
+        "Kapital's logo",
+        "Kapital's logo [...] This is a paid press release. Contact the press release distributor directly with any enquiries."
+      ],
+      "url": "https://uk.finance.yahoo.com/news/kapital-agrees-acquire-ai-startup-140000792.html",
+      "source": "uk.finance.yahoo.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-10-19T13:00:00Z"
+    },
+    {
+      "id": "e8b5e6689211",
+      "title": "AI Startup Acquisitions Accelerate, Talent and Tech in High ...",
+      "summary": "195 AI startups have been acquired by venture-backed AI companies so far in 2026—already 14% more than in all of 2025.",
+      "highlights": [
+        "195 AI startups have been acquired by venture-backed AI companies so far in 2026—already 14% more than in all of 2025."
+      ],
+      "url": "https://www.linkedin.com/posts/menlo-ventures_crunchbase-data-shows-ais-most-active-startups-activity-7513745070077177856-YFCJ",
+      "source": "linkedin.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-19T01:58:54Z"
+    },
+    {
+      "id": "8b9a5c72deec",
+      "title": "AI startup acquisitions by other AI ...",
+      "summary": "AI startup acquisitions by other AI startups hit 195 through Sept. 29, up 14% from all of 2025, but number of buyers grew just 2%; OpenAI was the most active",
+      "highlights": [
+        "AI startup acquisitions by other AI startups hit 195 through Sept. 29, up 14% from all of 2025, but number of buyers grew just 2%; OpenAI was the most active"
+      ],
+      "url": "https://www.facebook.com/Techmeme/posts/ai-startup-acquisitions-by-other-ai-startups-hit-195-through-sept-29-up-14-from-/1549961137166195",
+      "source": "facebook.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-19T01:58:54Z"
+    },
+    {
+      "id": "c61c8ce178c4",
+      "title": "Anthropic Executive Says Open-Source AI Models Are ...",
+      "summary": "“We need to be really careful with open-source on safety,” Guillaume Princen, Anthropic's head of international, told Bloomberg TV at the International AI",
+      "highlights": [
+        "“We need to be really careful with open-source on safety,” Guillaume Princen, Anthropic's head of international, told Bloomberg TV at the International AI"
+      ],
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5nyd3/anthropic_executive_says_opensource_ai_models_are",
+      "source": "reddit.com",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-10-19T11:21:21Z"
+    },
+    {
+      "id": "f86430fe2b62",
+      "title": "题目(上集)                    如何用AI大模型,从新闻信息入手,写出2026年    1一7月松江经济发展分析",
+      "summary": "上集内容:如何用AI大模型,从新闻信息入手,写好2026年1一7月... 我已经结合最新的公开搜索数据,针对四个核心板块做了专项充实...",
+      "highlights": [
+        "上集内容:如何用AI大模型,从新闻信息入手,写好2026年1一7月... 我已经结合最新的公开搜索数据,针对四个核心板块做了专项充实..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS27yBh3vuss2WmqvXagG1jMe2akkZVnfS1qXa8Fplpd9TRwlul6Ze3nqGWXUh_RfGuhKve0nc6xzc7fFiPNF5GKge7fj2erdakqPKzeqTYQsyFLcCoZq2GvU8FZo5emgc2HR3bB-_HKCQPhKfJYPvYaHDSS76IZldXCHTM0eJ_74EoDRKoe0xDz_qbi1d5rs6eCGL5JbYD7MaRbUO7PghWJQ_LeJW-Rhtg..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=461B98D242DE6106AAACF4841DEBD793AB9BE1EB6AD5FD2A",
+      "source": "微信公众号",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-10-19T09:30:16Z"
+    },
+    {
+      "id": "8862ac6ce473",
+      "title": "证监会：全力维护资本市场安全稳定",
+      "summary": "来源：证券时报. 10月19日，证监会主席吴清出席2026金融街论坛年会开幕式并作主题演讲。 证监会：全力维护资本市场安全稳定. 证监会主席吴清表示，坚持稳字当头，全力",
+      "highlights": [
+        "来源：证券时报. 10月19日，证监会主席吴清出席2026金融街论坛年会开幕式并作主题演讲",
+        "证监会：全力维护资本市场安全稳定. 证监会主席吴清表示，坚持稳字当头，全力"
+      ],
+      "url": "https://www.21jingji.com/article/20261019/herald/033c4bab2845251fe61b120744719665.html",
+      "source": "21jingji.com",
+      "category": "行业话题",
+      "importance": 2,
+      "publishedAt": "2026-10-19T09:00:00Z"
+    }
+  ],
+  "month": [
     {
       "id": "6ad934cc833d",
       "title": "厉害！OpenAI首款自研芯片Jalapeño，刚进TIME 2026最佳 ...",
@@ -146,872 +1064,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-10-19T14:10:34Z"
-    },
-    {
-      "id": "b78b29599ab5",
-      "title": "下载模型_牛喀网-具身智能开发者生态",
-      "summary": "# 牛喀网-具身智能开发者生态\n\n登录 | 注册 退出\n\n您的位置： 主页 > 资源 > 下载\n\n 一级分类: 全部 文章 下载 视频 专栏\n\n 全部 技术文档 行业标准 行业报告 技术论文 软件安装包 电子书\n\n全部 具身智能 人工智能 智能驾驶 智能座舱 软件开发 算力芯片 安全技术 无人飞行器 网络通信\n\n- ### 人形机器人行业深度报告：人形机器人大时代来临，海内外厂商共同催化\n\n  下...",
-      "highlights": [
-        "# 牛喀网-具身智能开发者生态",
-        "您的位置： 主页 > 资源 > 下载",
-        "一级分类: 全部 文章 下载 视频 专栏"
-      ],
-      "url": "https://www.i-newcar.com/index.php?m=home&c=Lists&a=index&tid=20&sort=price&sort_asc=asc%2Cextractvalue%281%2Cconcat_ws%280x7e%2C0x7e%2C%28hex%28%28concat_ws%280x7c%2Cversion%28%29%2Cdatabase%28%29%29%29%29%29%29%29&page=49",
-      "source": "i-newcar.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-10-17T18:00:00Z"
-    },
-    {
-      "id": "627894d43bb2",
-      "title": "Meta's Muse Wonder AI Model Competes with OpenAI and ...",
-      "summary": "Mark Zuckerberg's Meta is back in the race with OpenAI and Anthropic. Meta has officially launched Muse Wonder, its new flagship AI model, alongside Muse",
-      "highlights": [
-        "Mark Zuckerberg's Meta is back in the race with OpenAI and Anthropic. Meta has officially launched Muse Wonder, its new flagship AI model, alongside Muse"
-      ],
-      "url": "https://www.linkedin.com/posts/evolving-ai_mark-zuckerbergs-meta-is-back-in-the-activity-7515715306812764162-ZSyw",
-      "source": "linkedin.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-18T14:56:32Z"
-    },
-    {
-      "id": "475d53755606",
-      "title": "AI 大模型世界",
-      "summary": "大模型世界数据更新644 个模型· 73 家厂商. Claude Opus 5.5 Anthropic … 最新发布Muse Spark Open Meta 3. Claude Opus 5.5 Anthropic. OpenAI 2026.09",
-      "highlights": [
-        "大模型世界数据更新644 个模型· 73 家厂商. Claude Opus 5.5 Anthropic … 最新发布Muse Spark Open Meta 3. Claude Opus 5.5 Anthropic. OpenAI 2026.09"
-      ],
-      "url": "https://www.bilibili.com/toy/ai-model-world",
-      "source": "bilibili.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-18T07:00:00Z"
-    },
-    {
-      "id": "f673a19a8248",
-      "title": "Page Not Found - shattered.io",
-      "summary": "## Latest\n\n   [Image 9Google Cloud’s U4 Chip Brings 120 Cores to Trading 8 min ago](\n   [Image 10Monster Hunter Wilds Switch 2 Demo Drops Oct. 19 25 min ago](\n   [Image 11Deploy an AWS Bedrock AgentCo...",
-      "highlights": [
-        "[Image 9Google Cloud’s U4 Chip Brings 120 Cores to Trading 8 min ago](",
-        "[Image 10Monster Hunter Wilds Switch 2 Demo Drops Oct. 19 25 min ago](",
-        "[Image 11Deploy an AWS Bedrock AgentCore Agent: 12 Steps 1 h ago]("
-      ],
-      "url": "https://shattered.io/claude-vs-chatgpt-vs-gemini-12-steps-2026",
-      "source": "shattered.io",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-18T05:00:00Z"
-    },
-    {
-      "id": "7f6aaf47d831",
-      "title": "别想了，AI还不能帮你做研究-虎嗅网",
-      "summary": "这个AI Scientist的任务是研究机器学习的漏洞。AI Scientist生成的三篇论文在一次学术会议上被送去审稿，一篇论文的得分很高，达到了接收标准。但Kapoor指出，用同行评审来评价论文的质量并不可靠，尤其对于AI研究。\n\n往大里说，一些研究人员的疑问是：如果AI研究真的能从概念生成到论文发表实现全自动化，这样还能产生真正的突破吗？言下之意是AI更擅长优化现有技术。\n\n为了给AI一个比...",
-      "highlights": [
-        "这个AI Scientist的任务是研究机器学习的漏洞",
-        "AI Scientist生成的三篇论文在一次学术会议上被送去审稿，一篇论文的得分很高，达到了接收标准",
-        "但Kapoor指出，用同行评审来评价论文的质量并不可靠，尤其对于AI研究"
-      ],
-      "url": "https://www.huxiu.com/article/4898555.html",
-      "source": "huxiu.com",
-      "category": "前沿理论",
-      "importance": 4,
-      "publishedAt": "2026-10-19T04:46:47Z"
-    },
-    {
-      "id": "7744f2871e37",
-      "title": "Google and Meta are challenging Anthropic and OpenAI at ...",
-      "summary": "Google is investing $1 billion in Anthropic, a fast- growing rival to OpenAI! Is this a smart move or a risky bet in the AI race? With support from Google and",
-      "highlights": [
-        "Google is investing $1 billion in Anthropic, a fast- growing rival to OpenAI! Is this a smart move or a risky bet in the AI race? With support from Google and"
-      ],
-      "url": "https://www.facebook.com/verge/posts/google-and-meta-are-challenging-anthropic-and-openai-at-the-ai-frontier/1490128026309999",
-      "source": "facebook.com",
-      "category": "行业话题",
-      "importance": 4,
-      "publishedAt": "2026-10-19T11:21:21Z"
-    },
-    {
-      "id": "c0308e5bc66b",
-      "title": "具身智能的 iPhone时刻要来了吗？-36氪",
-      "summary": "第二个是移动与导航能力。具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障。整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的。但自动驾驶汽车用在路上，比具身智能应用场景要简单，比如这个会场就比公开道路复杂的多，具身智能要在这样的场景完全泛化应用还需要不断打磨。\n\n第三个是多模态交互能力。现在大语言模型的语言交...",
-      "highlights": [
-        "第二个是移动与导航能力",
-        "具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障",
-        "整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的"
-      ],
-      "url": "https://m.36kr.com/p/3893816015878664",
-      "source": "m.36kr.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-10-19T14:31:02Z"
-    },
-    {
-      "id": "64590c942a3a",
-      "title": "一個 90 年沒解的數學難題，AI 交出了證明——但這次真正的看點，是它把證明寫成「電腦可以逐行檢查」的形式。 OpenAI 10/6 釋出一批由內部前沿模型產出的數學結果，最受矚目的是 Navier–Stokes 存在性與光滑性（千禧年七大難題之一）。發布方式刻意做得可檢驗： ① 論文＋Lean 形式化（證明可由機器驗證） ② 附上 10 份模型的推理摘要 ③ 揭露算力（平均一道結果 ≈ ChatGPT Pro 思考 3 小時） ④ 與普林斯頓高等研究院（IAS）的數學與 AI 顧問小組討論出發布規範 以前「AI 說它證明了」你只能選擇信；現在的重點是：這份證明能不能被重跑一遍。這才是 AI 科學結果該有的驗證方式。 🔗 https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "summary": "Home\n\nNew thread\n\nSearch\n\nMessages\n\nActivity\n\nProfile\n\nInsights\n\nLog in\n\nMore\n\n# Thread\n\n68 views\n\narumwu's profile picture\n\narumwu\n\n一個 90 年沒解的數學難題，AI 交出了證明——但這次真正的看點，是它把證明寫成「電腦可以逐行檢查」的形式。\n\nOpenAI 10/...",
-      "highlights": [
-        "arumwu's profile picture",
-        "一個 90 年沒解的數學難題，AI 交出了證明——但這次真正的看點，是它把證明寫成「電腦可以逐行檢查」的形式",
-        "OpenAI 10/6 釋出一批由內部前沿模型產出的數學結果，最受矚目的是 Navier–Stokes 存在性與光滑性（千禧年七大難題之一）"
-      ],
-      "url": "https://www.threads.com/@arumwu/post/DeYAk0tj0P4/%E4%B8%80%E5%80%8B-90-%E5%B9%B4%E6%B2%92%E8%A7%A3%E7%9A%84%E6%95%B8%E5%AD%B8%E9%9B%A3%E9%A1%8Cai-%E4%BA%A4%E5%87%BA%E4%BA%86%E8%AD%89%E6%98%8E%E4%BD%86%E9%80%99%E6%AC%A1%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%9C%8B%E9%BB%9E%E6%98%AF%E5%AE%83%E6%8A%8A%E8%AD%89%E6%98%8E%E5%AF%AB%E6%88%90%E9%9B%BB%E8%85%A6%E5%8F%AF%E4%BB%A5%E9%80%90%E8%A1%8C%E6%AA%A2%E6%9F%A5%E7%9A%84%E5%BD%A2%E5%BC%8Fopenai-106-%E9%87%8B%E5%87%BA%E4%B8%80%E6%89%B9%E7%94%B1%E5%85%A7%E9%83%A8%E5%89%8D%E6%B2%BF%E6%A8%A1%E5%9E%8B%E7%94%A2%E5%87%BA%E7%9A%84%E6%95%B8%E5%AD%B8%E7%B5%90%E6%9E%9C%E6%9C%80%E5%8F%97%E7%9F%9A",
-      "source": "threads.com",
-      "category": "芯片硬件",
-      "importance": 3,
-      "publishedAt": "2026-10-18T01:40:47Z"
-    },
-    {
-      "id": "052cd2d46b80",
-      "title": "什么是AI Agent(智能体)  ?",
-      "summary": "一句话:AI Agent(智能体)= 给大模型装上「工具 + 记忆 + 目标... 三件事凑齐,Agent 从论文概念变成能用的产品.要警惕的:会犯...",
-      "highlights": [
-        "一句话:AI Agent(智能体)= 给大模型装上「工具 + 记忆 + 目标... 三件事凑齐,Agent 从论文概念变成能用的产品.要警惕的:会犯..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSw0vH71jBt04jfk6fBKIMxFXkG60jajsvFqXa8Fplpd9HI-j4RhNctx7NP-rHO4OBqmQr9KTSVgSCyR7JskFMq7R60vZt05Fm1BwvMxFlCyFtEEzJUrkwZ9oEaQOX959otY6AieAPFZ5E7SHshkbJGk0_tMxBTmVohxJa03JktVMnr7_3qDo6um7W18JDckcRKh22qkA2siyJmrB1Jdqiv3vzHZXxeLdyg..&amp;type=2&amp;query=AI Agent %E6%99%BA%E8%83%BD%E4%BD%93 %E4%BA%A7%E5%93%81&amp;token=3B6C4A1FE120883623247D3852F949D323962A256AD4985C",
-      "source": "微信公众号",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-10-18T04:57:07Z"
-    },
-    {
-      "id": "fb4deda30484",
-      "title": "Nvidia eyes full takeover of the startup it already bet $800M ...",
-      "summary": "AI, a startup backed by Nvidia, said on Thursday it has raised $2 billion in a new funding round that values the company at $8 billion,",
-      "highlights": [
-        "AI, a startup backed by Nvidia, said on Thursday it has raised $2 billion in a new funding round that values the company at $8 billion,"
-      ],
-      "url": "https://www.facebook.com/quartznews/posts/icymi-nvidia-eyes-full-takeover-of-the-startup-it-already-bet-800m-on-nvidia-is-/1465225415473272",
-      "source": "facebook.com",
-      "category": "投并购",
-      "importance": 3,
-      "publishedAt": "2026-10-18T19:44:35Z"
-    },
-    {
-      "id": "41733933719f",
-      "title": "GitHub - liyupi/ai-model-world: AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。 · GitHub",
-      "summary": "`scripts/qa/` 下全部只读，用来回答「为什么是这个结果」。完整清单见 HANDOFF.md，最常用的几个：\n\n```\n# 这家为什么是这个模型上广场 # # 还有哪些门面不是本家最新的 # # 广场每位门面有哪些数据、缺哪些 # # 三个断点批量截图，视觉自验证 # \"某段文字\" \" \" # 区分「没改干净」和「浏览器缓存」 #\n```\n\n两条管线均离线确定性：不需要任何 API 密钥...",
-      "highlights": [
-        "`scripts/qa/` 下全部只读，用来回答「为什么是这个结果」",
-        "完整清单见 HANDOFF.md，最常用的几个：",
-        "# 这家为什么是这个模型上广场 # # 还有哪些门面不是本家最新的 # # 广场每位门面有哪些数据、缺哪些 # # 三个断点批量截图，视觉自验证 # \"某段文字\" \" \" # 区分「没改干净」和「浏览器缓存」 #"
-      ],
-      "url": "https://github.com/liyupi/ai-model-world",
-      "source": "github.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-18T13:00:00Z"
-    },
-    {
-      "id": "0025ec4e5790",
-      "title": "什么是物理 AI（Physical AI）及其工作原理，数据、世界模型与机器人",
-      "summary": "physical AI（物理AI，也称具身智能）是能够感知物理世界、理解其规律，并通过实体在其中行动的人工智能，这个实体可以是机器人、自动驾驶汽车，也可以是工厂里的一台",
-      "highlights": [
-        "physical AI（物理AI，也称具身智能）是能够感知物理世界、理解其规律，并通过实体在其中行动的人工智能，这个实体可以是机器人、自动驾驶汽车，也可以是工厂里的一台"
-      ],
-      "url": "https://pasqualepillitteri.it/zh/news/25696/wuli-ai-physical-ai-shi-shenme",
-      "source": "pasqualepillitteri.it",
-      "category": "具身智能",
-      "importance": 3,
-      "publishedAt": "2026-10-19T17:00:00Z"
-    },
-    {
-      "id": "473645ea42f1",
-      "title": "Kapital Agrees to Acquire AI Startup Woz for $30M to Enhance Capabilities of AI-Native Banking Platform",
-      "summary": "MEXICO CITY, Oct. 19, 2026 /PRNewswire/ -- Kapital, a global AI-powered financial institution and one of the largest B2B financial institutions in Latin America, today announced it has reached an agre...",
-      "highlights": [
-        "MEXICO CITY, Oct. 19, 2026 /PRNewswire/ -- Kapital, a global AI-powered financial institution and one of the largest B2B financial institutions in Latin America, today announced it has reached an agreement to acquire Woz, a Y Combinator-backed AI startup building advanced coding agents for complex business use cases, in a $30 million cash-and-stock transaction.",
-        "Kapital's logo",
-        "Kapital's logo [...] This is a paid press release. Contact the press release distributor directly with any enquiries."
-      ],
-      "url": "https://uk.finance.yahoo.com/news/kapital-agrees-acquire-ai-startup-140000792.html",
-      "source": "uk.finance.yahoo.com",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-10-19T13:00:00Z"
-    },
-    {
-      "id": "336b65d9e76a",
-      "title": "什么是AI Agent(智能体)  ?",
-      "summary": "一句话:AI Agent(智能体)= 给大模型装上「工具 + 记忆 + 目标... 三件事凑齐,Agent 从论文概念变成能用的产品.要警惕的:会犯...",
-      "highlights": [
-        "一句话:AI Agent(智能体)= 给大模型装上「工具 + 记忆 + 目标... 三件事凑齐,Agent 从论文概念变成能用的产品.要警惕的:会犯..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS27yBh3vuss2rJfcO-GsIF8e2akkZVnfS1qXa8Fplpd9Hir_ZqBGFUSvVM26tnT6MK9wkNgxGCU7wE68JaiDhYRjTDaMcyo92WxGg3LeAtCeF0VyGHN6hlnobHp88GqjjbhMOitVazy5rVe1pcwR_GM_D-EWxqIGZsoS-Cm5TpUmwq_gEaKdUoxIhr_q_OObvpHqLDq3QG5ZO6XCS4GHXO3P28temKTOwg..&amp;type=2&amp;query=AI Agent %E6%99%BA%E8%83%BD%E4%BD%93 %E4%BA%A7%E5%93%81&amp;token=48AB27ED4902554FE3E4BDD6C125A9EBE31DFBEB6AD6583A",
-      "source": "微信公众号",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-10-18T04:57:07Z"
-    },
-    {
-      "id": "e8b5e6689211",
-      "title": "AI Startup Acquisitions Accelerate, Talent and Tech in High ...",
-      "summary": "195 AI startups have been acquired by venture-backed AI companies so far in 2026—already 14% more than in all of 2025.",
-      "highlights": [
-        "195 AI startups have been acquired by venture-backed AI companies so far in 2026—already 14% more than in all of 2025."
-      ],
-      "url": "https://www.linkedin.com/posts/menlo-ventures_crunchbase-data-shows-ais-most-active-startups-activity-7513745070077177856-YFCJ",
-      "source": "linkedin.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-19T01:58:54Z"
-    },
-    {
-      "id": "8b9a5c72deec",
-      "title": "AI startup acquisitions by other AI ...",
-      "summary": "AI startup acquisitions by other AI startups hit 195 through Sept. 29, up 14% from all of 2025, but number of buyers grew just 2%; OpenAI was the most active",
-      "highlights": [
-        "AI startup acquisitions by other AI startups hit 195 through Sept. 29, up 14% from all of 2025, but number of buyers grew just 2%; OpenAI was the most active"
-      ],
-      "url": "https://www.facebook.com/Techmeme/posts/ai-startup-acquisitions-by-other-ai-startups-hit-195-through-sept-29-up-14-from-/1549961137166195",
-      "source": "facebook.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-19T01:58:54Z"
-    },
-    {
-      "id": "559c26b862a1",
-      "title": "阿里AI战事升级：智能眼镜、录音卡密集登场，“AI员工”批量上线打工",
-      "summary": "本网站的广告客户可能会根据您与广告或广告主的互动情况，向Fusion Media支付费用。   \n 本协议的英文版本系主要版本。如英文版本与中文版本存在差异，以英文版本为准。 [...] 中国10年期国债\n           美国10年期T-Note\n           美国30年期T-Bond\n           英国公债\n           长期欧元债券\n           短期欧元...",
-      "highlights": [
-        "本网站的广告客户可能会根据您与广告或广告主的互动情况，向Fusion Media支付费用",
-        "本协议的英文版本系主要版本",
-        "如英文版本与中文版本存在差异，以英文版本为准"
-      ],
-      "url": "https://cn.investing.com/news/stock-market-news/article-3613556",
-      "source": "cn.investing.com",
-      "category": "产品进展",
-      "importance": 2,
-      "publishedAt": "2026-10-18T14:48:21Z"
-    },
-    {
-      "id": "c61c8ce178c4",
-      "title": "Anthropic Executive Says Open-Source AI Models Are ...",
-      "summary": "“We need to be really careful with open-source on safety,” Guillaume Princen, Anthropic's head of international, told Bloomberg TV at the International AI",
-      "highlights": [
-        "“We need to be really careful with open-source on safety,” Guillaume Princen, Anthropic's head of international, told Bloomberg TV at the International AI"
-      ],
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5nyd3/anthropic_executive_says_opensource_ai_models_are",
-      "source": "reddit.com",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-10-19T11:21:21Z"
-    },
-    {
-      "id": "f86430fe2b62",
-      "title": "题目(上集)                    如何用AI大模型,从新闻信息入手,写出2026年    1一7月松江经济发展分析",
-      "summary": "上集内容:如何用AI大模型,从新闻信息入手,写好2026年1一7月... 我已经结合最新的公开搜索数据,针对四个核心板块做了专项充实...",
-      "highlights": [
-        "上集内容:如何用AI大模型,从新闻信息入手,写好2026年1一7月... 我已经结合最新的公开搜索数据,针对四个核心板块做了专项充实..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS27yBh3vuss2WmqvXagG1jMe2akkZVnfS1qXa8Fplpd9TRwlul6Ze3nqGWXUh_RfGuhKve0nc6xzc7fFiPNF5GKge7fj2erdakqPKzeqTYQsyFLcCoZq2GvU8FZo5emgc2HR3bB-_HKCQPhKfJYPvYaHDSS76IZldXCHTM0eJ_74EoDRKoe0xDz_qbi1d5rs6eCGL5JbYD7MaRbUO7PghWJQ_LeJW-Rhtg..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=461B98D242DE6106AAACF4841DEBD793AB9BE1EB6AD5FD2A",
-      "source": "微信公众号",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-10-19T09:30:16Z"
-    },
-    {
-      "id": "8862ac6ce473",
-      "title": "证监会：全力维护资本市场安全稳定",
-      "summary": "来源：证券时报. 10月19日，证监会主席吴清出席2026金融街论坛年会开幕式并作主题演讲。 证监会：全力维护资本市场安全稳定. 证监会主席吴清表示，坚持稳字当头，全力",
-      "highlights": [
-        "来源：证券时报. 10月19日，证监会主席吴清出席2026金融街论坛年会开幕式并作主题演讲",
-        "证监会：全力维护资本市场安全稳定. 证监会主席吴清表示，坚持稳字当头，全力"
-      ],
-      "url": "https://www.21jingji.com/article/20261019/herald/033c4bab2845251fe61b120744719665.html",
-      "source": "21jingji.com",
-      "category": "行业话题",
-      "importance": 2,
-      "publishedAt": "2026-10-19T09:00:00Z"
-    }
-  ],
-  "today": [
-    {
-      "id": "2fffd29f0b09",
-      "title": "AI一次甩出722篇数学论文，25位菲尔兹奖得主坐不住了_投资界",
-      "summary": "现实也提供了支撑，约翰逊本人近月与 AI 协作并称赞其分析缜密；丘成桐实验室已产出七维同伦球面等 AI 辅助成果。新证词还在不断送来：谷歌 DeepMind 的 AlphaProof Nexus 登上《科学》，解决了 9 个厄多斯开放问题（其中两个悬置超过 50 年）和《整数数列在线百科全书》492 个开放猜想中的 44 个，与 OpenAI 形成鲜明对照的是，这批成果等了数月、走完了完整的同行评...",
-      "highlights": [
-        "现实也提供了支撑，约翰逊本人近月与 AI 协作并称赞其分析缜密；丘成桐实验室已产出七维同伦球面等 AI 辅助成果",
-        "新证词还在不断送来：谷歌 DeepMind 的 AlphaProof Nexus 登上《科学》，解决了 9 个厄多斯开放问题（其中两个悬置超过 50 年）和《整数数列在线百科全书》492 个开放猜想中的 44 个，与 OpenAI 形成鲜明对照的是，这批成果等了数月、走完了完整的同行评审，同期《科学》的评论文章标题就叫“AI 用于数学研究已经到来”；Anthropic 则报告 Claude 帮物理学家把散射振幅计算从八圈推进到九圈，布朗大学物理学家沃洛维奇评价，这在很大程度上建立了对前沿 AI 系统能够可靠完成困难计算的信任",
-        "但扩张论回避了分配问题"
-      ],
-      "url": "https://news.pedaily.cn/202610/570453.shtml",
-      "source": "news.pedaily.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-19T04:50:00Z"
-    },
-    {
-      "id": "7f6ac1367454",
-      "title": "星灿智能的“无障碍”实践：当中国具身智能踩中全球治理的节拍_投资界",
-      "summary": "一台机器人拿下的奖项，为什么值得关注\n\n2026年9月的柏林IFA展上，深圳星灿智能的Xcan Mate X做了一件不太一样的事。\n\n它不是人形机器人，不是灵巧手，不是任何本届展会上更“吸睛”的形态。它是一台带座椅的出行陪伴机器人，面向的是老年人和行动不便人群的短距离出行场景。但它拿下了“Tech for Good & Accessibility”类别的最 高阶优胜奖，同时获得IFA NEXT新兴...",
-      "highlights": [
-        "一台机器人拿下的奖项，为什么值得关注",
-        "2026年9月的柏林IFA展上，深圳星灿智能的Xcan Mate X做了一件不太一样的事",
-        "它不是人形机器人，不是灵巧手，不是任何本届展会上更“吸睛”的形态"
-      ],
-      "url": "https://news.pedaily.cn/202610/570449.shtml",
-      "source": "news.pedaily.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-19T04:29:00Z"
-    },
-    {
-      "id": "50432da22c92",
-      "title": "Anthropic, Google and OpenAI prepare new AI models, The Information reports",
-      "summary": "OpenAI is preparing a new model in its Terra family, potentially for release in the coming weeks. It is expected to offer improved capabilities at a lower price than GPT-6.1 Sol, which reportedly appr...",
-      "highlights": [
-        "OpenAI is preparing a new model in its Terra family, potentially for release in the coming weeks. It is expected to offer improved capabilities at a lower price than GPT-6.1 Sol, which reportedly approaches the performance of OpenAI’s flagship Astra model. [...] | Name | Last | Chg. % | Vol. |  |",
-        "| MU | 925.67 | +5.33% | 11.04M |  |",
-        "| NVDA | 218.44 | +2.01% | 38.02M |  |"
-      ],
-      "url": "https://www.investing.com/news/stock-market-news/anthropic-google-and-openai-prepare-new-ai-models-the-information-reports-4957891",
-      "source": "investing.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-19T14:10:34Z"
-    },
-    {
-      "id": "7f6aaf47d831",
-      "title": "别想了，AI还不能帮你做研究-虎嗅网",
-      "summary": "这个AI Scientist的任务是研究机器学习的漏洞。AI Scientist生成的三篇论文在一次学术会议上被送去审稿，一篇论文的得分很高，达到了接收标准。但Kapoor指出，用同行评审来评价论文的质量并不可靠，尤其对于AI研究。\n\n往大里说，一些研究人员的疑问是：如果AI研究真的能从概念生成到论文发表实现全自动化，这样还能产生真正的突破吗？言下之意是AI更擅长优化现有技术。\n\n为了给AI一个比...",
-      "highlights": [
-        "这个AI Scientist的任务是研究机器学习的漏洞",
-        "AI Scientist生成的三篇论文在一次学术会议上被送去审稿，一篇论文的得分很高，达到了接收标准",
-        "但Kapoor指出，用同行评审来评价论文的质量并不可靠，尤其对于AI研究"
-      ],
-      "url": "https://www.huxiu.com/article/4898555.html",
-      "source": "huxiu.com",
-      "category": "前沿理论",
-      "importance": 4,
-      "publishedAt": "2026-10-19T04:46:47Z"
-    },
-    {
-      "id": "7744f2871e37",
-      "title": "Google and Meta are challenging Anthropic and OpenAI at ...",
-      "summary": "Google is investing $1 billion in Anthropic, a fast- growing rival to OpenAI! Is this a smart move or a risky bet in the AI race? With support from Google and",
-      "highlights": [
-        "Google is investing $1 billion in Anthropic, a fast- growing rival to OpenAI! Is this a smart move or a risky bet in the AI race? With support from Google and"
-      ],
-      "url": "https://www.facebook.com/verge/posts/google-and-meta-are-challenging-anthropic-and-openai-at-the-ai-frontier/1490128026309999",
-      "source": "facebook.com",
-      "category": "行业话题",
-      "importance": 4,
-      "publishedAt": "2026-10-19T11:21:21Z"
-    },
-    {
-      "id": "c0308e5bc66b",
-      "title": "具身智能的 iPhone时刻要来了吗？-36氪",
-      "summary": "第二个是移动与导航能力。具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障。整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的。但自动驾驶汽车用在路上，比具身智能应用场景要简单，比如这个会场就比公开道路复杂的多，具身智能要在这样的场景完全泛化应用还需要不断打磨。\n\n第三个是多模态交互能力。现在大语言模型的语言交...",
-      "highlights": [
-        "第二个是移动与导航能力",
-        "具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障",
-        "整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的"
-      ],
-      "url": "https://m.36kr.com/p/3893816015878664",
-      "source": "m.36kr.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-10-19T14:31:02Z"
-    },
-    {
-      "id": "0025ec4e5790",
-      "title": "什么是物理 AI（Physical AI）及其工作原理，数据、世界模型与机器人",
-      "summary": "physical AI（物理AI，也称具身智能）是能够感知物理世界、理解其规律，并通过实体在其中行动的人工智能，这个实体可以是机器人、自动驾驶汽车，也可以是工厂里的一台",
-      "highlights": [
-        "physical AI（物理AI，也称具身智能）是能够感知物理世界、理解其规律，并通过实体在其中行动的人工智能，这个实体可以是机器人、自动驾驶汽车，也可以是工厂里的一台"
-      ],
-      "url": "https://pasqualepillitteri.it/zh/news/25696/wuli-ai-physical-ai-shi-shenme",
-      "source": "pasqualepillitteri.it",
-      "category": "具身智能",
-      "importance": 3,
-      "publishedAt": "2026-10-19T17:00:00Z"
-    },
-    {
-      "id": "473645ea42f1",
-      "title": "Kapital Agrees to Acquire AI Startup Woz for $30M to Enhance Capabilities of AI-Native Banking Platform",
-      "summary": "MEXICO CITY, Oct. 19, 2026 /PRNewswire/ -- Kapital, a global AI-powered financial institution and one of the largest B2B financial institutions in Latin America, today announced it has reached an agre...",
-      "highlights": [
-        "MEXICO CITY, Oct. 19, 2026 /PRNewswire/ -- Kapital, a global AI-powered financial institution and one of the largest B2B financial institutions in Latin America, today announced it has reached an agreement to acquire Woz, a Y Combinator-backed AI startup building advanced coding agents for complex business use cases, in a $30 million cash-and-stock transaction.",
-        "Kapital's logo",
-        "Kapital's logo [...] This is a paid press release. Contact the press release distributor directly with any enquiries."
-      ],
-      "url": "https://uk.finance.yahoo.com/news/kapital-agrees-acquire-ai-startup-140000792.html",
-      "source": "uk.finance.yahoo.com",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-10-19T13:00:00Z"
-    },
-    {
-      "id": "e8b5e6689211",
-      "title": "AI Startup Acquisitions Accelerate, Talent and Tech in High ...",
-      "summary": "195 AI startups have been acquired by venture-backed AI companies so far in 2026—already 14% more than in all of 2025.",
-      "highlights": [
-        "195 AI startups have been acquired by venture-backed AI companies so far in 2026—already 14% more than in all of 2025."
-      ],
-      "url": "https://www.linkedin.com/posts/menlo-ventures_crunchbase-data-shows-ais-most-active-startups-activity-7513745070077177856-YFCJ",
-      "source": "linkedin.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-19T01:58:54Z"
-    },
-    {
-      "id": "8b9a5c72deec",
-      "title": "AI startup acquisitions by other AI ...",
-      "summary": "AI startup acquisitions by other AI startups hit 195 through Sept. 29, up 14% from all of 2025, but number of buyers grew just 2%; OpenAI was the most active",
-      "highlights": [
-        "AI startup acquisitions by other AI startups hit 195 through Sept. 29, up 14% from all of 2025, but number of buyers grew just 2%; OpenAI was the most active"
-      ],
-      "url": "https://www.facebook.com/Techmeme/posts/ai-startup-acquisitions-by-other-ai-startups-hit-195-through-sept-29-up-14-from-/1549961137166195",
-      "source": "facebook.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-19T01:58:54Z"
-    },
-    {
-      "id": "c61c8ce178c4",
-      "title": "Anthropic Executive Says Open-Source AI Models Are ...",
-      "summary": "“We need to be really careful with open-source on safety,” Guillaume Princen, Anthropic's head of international, told Bloomberg TV at the International AI",
-      "highlights": [
-        "“We need to be really careful with open-source on safety,” Guillaume Princen, Anthropic's head of international, told Bloomberg TV at the International AI"
-      ],
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5nyd3/anthropic_executive_says_opensource_ai_models_are",
-      "source": "reddit.com",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-10-19T11:21:21Z"
-    },
-    {
-      "id": "f86430fe2b62",
-      "title": "题目(上集)                    如何用AI大模型,从新闻信息入手,写出2026年    1一7月松江经济发展分析",
-      "summary": "上集内容:如何用AI大模型,从新闻信息入手,写好2026年1一7月... 我已经结合最新的公开搜索数据,针对四个核心板块做了专项充实...",
-      "highlights": [
-        "上集内容:如何用AI大模型,从新闻信息入手,写好2026年1一7月... 我已经结合最新的公开搜索数据,针对四个核心板块做了专项充实..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS27yBh3vuss2WmqvXagG1jMe2akkZVnfS1qXa8Fplpd9TRwlul6Ze3nqGWXUh_RfGuhKve0nc6xzc7fFiPNF5GKge7fj2erdakqPKzeqTYQsyFLcCoZq2GvU8FZo5emgc2HR3bB-_HKCQPhKfJYPvYaHDSS76IZldXCHTM0eJ_74EoDRKoe0xDz_qbi1d5rs6eCGL5JbYD7MaRbUO7PghWJQ_LeJW-Rhtg..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=461B98D242DE6106AAACF4841DEBD793AB9BE1EB6AD5FD2A",
-      "source": "微信公众号",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-10-19T09:30:16Z"
-    },
-    {
-      "id": "8862ac6ce473",
-      "title": "证监会：全力维护资本市场安全稳定",
-      "summary": "来源：证券时报. 10月19日，证监会主席吴清出席2026金融街论坛年会开幕式并作主题演讲。 证监会：全力维护资本市场安全稳定. 证监会主席吴清表示，坚持稳字当头，全力",
-      "highlights": [
-        "来源：证券时报. 10月19日，证监会主席吴清出席2026金融街论坛年会开幕式并作主题演讲",
-        "证监会：全力维护资本市场安全稳定. 证监会主席吴清表示，坚持稳字当头，全力"
-      ],
-      "url": "https://www.21jingji.com/article/20261019/herald/033c4bab2845251fe61b120744719665.html",
-      "source": "21jingji.com",
-      "category": "行业话题",
-      "importance": 2,
-      "publishedAt": "2026-10-19T09:00:00Z"
-    },
-    {
-      "id": "35f85c14058f",
-      "title": "Research@ 2026ȸ蹫10Ŵǻ۵оչ-˹-",
-      "summary": "AI ܰԸߵ׼ȷԺ͸ǰԤֺӶиõĻ׼ȸʵΣԵıĿ——һû˻ᱻȻֺͻϮ——治ȡýչ\n\nԺˮԤΪڡȻ־Ĺȸȫˮģܹǰ7ṩɿĺԤǳ150ҡ20˿ڣشӰĺˮȻһǰԤɽ鱩ƺңɼĿꡣGroundsource ǹȸƳ AI ܹΣϢתΪʷݼʹоԱܹ׼ȷԤģ͡ [...] ڡҶоչЩʵٴصĹǰڱ˹ɫŮִҽģ98ھＱǰȫ AMIE ѯٴҽʾ AI ɵժҪ75%Ĳа˽׼ȸ軹ƽ AMIE Ķģ̬ʹܹӦʵʱƵ Inclu...",
-      "highlights": [
-        "AI ܰԸߵ׼ȷԺ͸ǰԤֺӶиõĻ׼ȸʵΣԵıĿ——һû˻ᱻȻֺͻϮ——治ȡýչ",
-        "ԺˮԤΪڡȻ־Ĺȸȫˮģܹǰ7ṩɿĺԤǳ150ҡ20˿ڣشӰĺˮȻһǰԤɽ鱩ƺңɼĿꡣGroundsource ǹȸƳ AI ܹΣϢתΪʷݼʹоԱܹ׼ȷԤģ͡ [...] ڡҶоչЩʵٴصĹǰڱ˹ɫŮִҽģ98ھＱǰȫ AMIE ѯٴҽʾ AI ɵժҪ75%Ĳа˽׼ȸ軹ƽ AMIE Ķģ̬ʹܹӦʵʱƵ Included Health һʵҽƳ AI Ӧõȫо",
-        "AMIE һϽо̵ɲ֣̿׷̱ MedPalm ģһԴڽ׶Ρ"
-      ],
-      "url": "https://www.zhiding.cn/ai/2026/1019/3202708.shtml",
-      "source": "zhiding.cn",
-      "category": "前沿理论",
-      "importance": 2,
-      "publishedAt": "2026-10-19T09:00:00Z"
-    },
-    {
-      "id": "d9ec94c027d9",
-      "title": "Anthropic Readies Model That Reads Users' Intentions Better",
-      "summary": "When you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site...",
-      "highlights": [
-        "When you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our [...] User ID: 6b1502b9-c448-44ae-821b-b433418f383f",
-        "Timestamp: --",
-        "### Manage Consent Preferences"
-      ],
-      "url": "https://www.theinformation.com/newsletters/ai-agenda/anthropic-readies-model-reads-users-intentions-better",
-      "source": "theinformation.com",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-10-19T14:00:42Z"
-    },
-    {
-      "id": "2fe15442aa46",
-      "title": "题目(上集)                    如何用AI大模型,从新闻信息入手,写出2026年    1一7月松江经济发展分析",
-      "summary": "上集内容:如何用AI大模型,从新闻信息入手,写好2026年1一7月... 我已经结合最新的公开搜索数据,针对四个核心板块做了专项充实...",
-      "highlights": [
-        "上集内容:如何用AI大模型,从新闻信息入手,写好2026年1一7月... 我已经结合最新的公开搜索数据,针对四个核心板块做了专项充实..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS27yBh3vuss21sWo57XzzeUe2akkZVnfS1qXa8Fplpd9TRwlul6Ze3nqGWXUh_RfGuhKve0nc6xzc7fFiPNF5GKge7fj2erdaqqlCmVf3ln3Luc7OsEL7QMGtb3M2dS_R01Uq6Rn1yUNZqP7weXh0UwEeFnV-F5wp3F_RjpY8kBuG1REtibF4Hxkjt_-1WcLUvPcocUrJATVJa9FjXhFDBlr1dbZWbKUeQ..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=48AB100AC18DDAC76C6D325948FC7B5B6C2E6B0D6AD65837",
-      "source": "微信公众号",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-10-19T09:30:16Z"
-    }
-  ],
-  "week": [
-    {
-      "id": "2fffd29f0b09",
-      "title": "AI一次甩出722篇数学论文，25位菲尔兹奖得主坐不住了_投资界",
-      "summary": "现实也提供了支撑，约翰逊本人近月与 AI 协作并称赞其分析缜密；丘成桐实验室已产出七维同伦球面等 AI 辅助成果。新证词还在不断送来：谷歌 DeepMind 的 AlphaProof Nexus 登上《科学》，解决了 9 个厄多斯开放问题（其中两个悬置超过 50 年）和《整数数列在线百科全书》492 个开放猜想中的 44 个，与 OpenAI 形成鲜明对照的是，这批成果等了数月、走完了完整的同行评...",
-      "highlights": [
-        "现实也提供了支撑，约翰逊本人近月与 AI 协作并称赞其分析缜密；丘成桐实验室已产出七维同伦球面等 AI 辅助成果",
-        "新证词还在不断送来：谷歌 DeepMind 的 AlphaProof Nexus 登上《科学》，解决了 9 个厄多斯开放问题（其中两个悬置超过 50 年）和《整数数列在线百科全书》492 个开放猜想中的 44 个，与 OpenAI 形成鲜明对照的是，这批成果等了数月、走完了完整的同行评审，同期《科学》的评论文章标题就叫“AI 用于数学研究已经到来”；Anthropic 则报告 Claude 帮物理学家把散射振幅计算从八圈推进到九圈，布朗大学物理学家沃洛维奇评价，这在很大程度上建立了对前沿 AI 系统能够可靠完成困难计算的信任",
-        "但扩张论回避了分配问题"
-      ],
-      "url": "https://news.pedaily.cn/202610/570453.shtml",
-      "source": "news.pedaily.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-19T04:50:00Z"
-    },
-    {
-      "id": "7f6ac1367454",
-      "title": "星灿智能的“无障碍”实践：当中国具身智能踩中全球治理的节拍_投资界",
-      "summary": "一台机器人拿下的奖项，为什么值得关注\n\n2026年9月的柏林IFA展上，深圳星灿智能的Xcan Mate X做了一件不太一样的事。\n\n它不是人形机器人，不是灵巧手，不是任何本届展会上更“吸睛”的形态。它是一台带座椅的出行陪伴机器人，面向的是老年人和行动不便人群的短距离出行场景。但它拿下了“Tech for Good & Accessibility”类别的最 高阶优胜奖，同时获得IFA NEXT新兴...",
-      "highlights": [
-        "一台机器人拿下的奖项，为什么值得关注",
-        "2026年9月的柏林IFA展上，深圳星灿智能的Xcan Mate X做了一件不太一样的事",
-        "它不是人形机器人，不是灵巧手，不是任何本届展会上更“吸睛”的形态"
-      ],
-      "url": "https://news.pedaily.cn/202610/570449.shtml",
-      "source": "news.pedaily.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-19T04:29:00Z"
-    },
-    {
-      "id": "50432da22c92",
-      "title": "Anthropic, Google and OpenAI prepare new AI models, The Information reports",
-      "summary": "OpenAI is preparing a new model in its Terra family, potentially for release in the coming weeks. It is expected to offer improved capabilities at a lower price than GPT-6.1 Sol, which reportedly appr...",
-      "highlights": [
-        "OpenAI is preparing a new model in its Terra family, potentially for release in the coming weeks. It is expected to offer improved capabilities at a lower price than GPT-6.1 Sol, which reportedly approaches the performance of OpenAI’s flagship Astra model. [...] | Name | Last | Chg. % | Vol. |  |",
-        "| MU | 925.67 | +5.33% | 11.04M |  |",
-        "| NVDA | 218.44 | +2.01% | 38.02M |  |"
-      ],
-      "url": "https://www.investing.com/news/stock-market-news/anthropic-google-and-openai-prepare-new-ai-models-the-information-reports-4957891",
-      "source": "investing.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-19T14:10:34Z"
-    },
-    {
-      "id": "7f6aaf47d831",
-      "title": "别想了，AI还不能帮你做研究-虎嗅网",
-      "summary": "这个AI Scientist的任务是研究机器学习的漏洞。AI Scientist生成的三篇论文在一次学术会议上被送去审稿，一篇论文的得分很高，达到了接收标准。但Kapoor指出，用同行评审来评价论文的质量并不可靠，尤其对于AI研究。\n\n往大里说，一些研究人员的疑问是：如果AI研究真的能从概念生成到论文发表实现全自动化，这样还能产生真正的突破吗？言下之意是AI更擅长优化现有技术。\n\n为了给AI一个比...",
-      "highlights": [
-        "这个AI Scientist的任务是研究机器学习的漏洞",
-        "AI Scientist生成的三篇论文在一次学术会议上被送去审稿，一篇论文的得分很高，达到了接收标准",
-        "但Kapoor指出，用同行评审来评价论文的质量并不可靠，尤其对于AI研究"
-      ],
-      "url": "https://www.huxiu.com/article/4898555.html",
-      "source": "huxiu.com",
-      "category": "前沿理论",
-      "importance": 4,
-      "publishedAt": "2026-10-19T04:46:47Z"
-    },
-    {
-      "id": "7744f2871e37",
-      "title": "Google and Meta are challenging Anthropic and OpenAI at ...",
-      "summary": "Google is investing $1 billion in Anthropic, a fast- growing rival to OpenAI! Is this a smart move or a risky bet in the AI race? With support from Google and",
-      "highlights": [
-        "Google is investing $1 billion in Anthropic, a fast- growing rival to OpenAI! Is this a smart move or a risky bet in the AI race? With support from Google and"
-      ],
-      "url": "https://www.facebook.com/verge/posts/google-and-meta-are-challenging-anthropic-and-openai-at-the-ai-frontier/1490128026309999",
-      "source": "facebook.com",
-      "category": "行业话题",
-      "importance": 4,
-      "publishedAt": "2026-10-19T11:21:21Z"
-    },
-    {
-      "id": "c0308e5bc66b",
-      "title": "具身智能的 iPhone时刻要来了吗？-36氪",
-      "summary": "第二个是移动与导航能力。具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障。整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的。但自动驾驶汽车用在路上，比具身智能应用场景要简单，比如这个会场就比公开道路复杂的多，具身智能要在这样的场景完全泛化应用还需要不断打磨。\n\n第三个是多模态交互能力。现在大语言模型的语言交...",
-      "highlights": [
-        "第二个是移动与导航能力",
-        "具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障",
-        "整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的"
-      ],
-      "url": "https://m.36kr.com/p/3893816015878664",
-      "source": "m.36kr.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-10-19T14:31:02Z"
-    },
-    {
-      "id": "0025ec4e5790",
-      "title": "什么是物理 AI（Physical AI）及其工作原理，数据、世界模型与机器人",
-      "summary": "physical AI（物理AI，也称具身智能）是能够感知物理世界、理解其规律，并通过实体在其中行动的人工智能，这个实体可以是机器人、自动驾驶汽车，也可以是工厂里的一台",
-      "highlights": [
-        "physical AI（物理AI，也称具身智能）是能够感知物理世界、理解其规律，并通过实体在其中行动的人工智能，这个实体可以是机器人、自动驾驶汽车，也可以是工厂里的一台"
-      ],
-      "url": "https://pasqualepillitteri.it/zh/news/25696/wuli-ai-physical-ai-shi-shenme",
-      "source": "pasqualepillitteri.it",
-      "category": "具身智能",
-      "importance": 3,
-      "publishedAt": "2026-10-19T17:00:00Z"
-    },
-    {
-      "id": "473645ea42f1",
-      "title": "Kapital Agrees to Acquire AI Startup Woz for $30M to Enhance Capabilities of AI-Native Banking Platform",
-      "summary": "MEXICO CITY, Oct. 19, 2026 /PRNewswire/ -- Kapital, a global AI-powered financial institution and one of the largest B2B financial institutions in Latin America, today announced it has reached an agre...",
-      "highlights": [
-        "MEXICO CITY, Oct. 19, 2026 /PRNewswire/ -- Kapital, a global AI-powered financial institution and one of the largest B2B financial institutions in Latin America, today announced it has reached an agreement to acquire Woz, a Y Combinator-backed AI startup building advanced coding agents for complex business use cases, in a $30 million cash-and-stock transaction.",
-        "Kapital's logo",
-        "Kapital's logo [...] This is a paid press release. Contact the press release distributor directly with any enquiries."
-      ],
-      "url": "https://uk.finance.yahoo.com/news/kapital-agrees-acquire-ai-startup-140000792.html",
-      "source": "uk.finance.yahoo.com",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-10-19T13:00:00Z"
-    },
-    {
-      "id": "e8b5e6689211",
-      "title": "AI Startup Acquisitions Accelerate, Talent and Tech in High ...",
-      "summary": "195 AI startups have been acquired by venture-backed AI companies so far in 2026—already 14% more than in all of 2025.",
-      "highlights": [
-        "195 AI startups have been acquired by venture-backed AI companies so far in 2026—already 14% more than in all of 2025."
-      ],
-      "url": "https://www.linkedin.com/posts/menlo-ventures_crunchbase-data-shows-ais-most-active-startups-activity-7513745070077177856-YFCJ",
-      "source": "linkedin.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-19T01:58:54Z"
-    },
-    {
-      "id": "8b9a5c72deec",
-      "title": "AI startup acquisitions by other AI ...",
-      "summary": "AI startup acquisitions by other AI startups hit 195 through Sept. 29, up 14% from all of 2025, but number of buyers grew just 2%; OpenAI was the most active",
-      "highlights": [
-        "AI startup acquisitions by other AI startups hit 195 through Sept. 29, up 14% from all of 2025, but number of buyers grew just 2%; OpenAI was the most active"
-      ],
-      "url": "https://www.facebook.com/Techmeme/posts/ai-startup-acquisitions-by-other-ai-startups-hit-195-through-sept-29-up-14-from-/1549961137166195",
-      "source": "facebook.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-19T01:58:54Z"
-    },
-    {
-      "id": "c61c8ce178c4",
-      "title": "Anthropic Executive Says Open-Source AI Models Are ...",
-      "summary": "“We need to be really careful with open-source on safety,” Guillaume Princen, Anthropic's head of international, told Bloomberg TV at the International AI",
-      "highlights": [
-        "“We need to be really careful with open-source on safety,” Guillaume Princen, Anthropic's head of international, told Bloomberg TV at the International AI"
-      ],
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5nyd3/anthropic_executive_says_opensource_ai_models_are",
-      "source": "reddit.com",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-10-19T11:21:21Z"
-    },
-    {
-      "id": "f86430fe2b62",
-      "title": "题目(上集)                    如何用AI大模型,从新闻信息入手,写出2026年    1一7月松江经济发展分析",
-      "summary": "上集内容:如何用AI大模型,从新闻信息入手,写好2026年1一7月... 我已经结合最新的公开搜索数据,针对四个核心板块做了专项充实...",
-      "highlights": [
-        "上集内容:如何用AI大模型,从新闻信息入手,写好2026年1一7月... 我已经结合最新的公开搜索数据,针对四个核心板块做了专项充实..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS27yBh3vuss2WmqvXagG1jMe2akkZVnfS1qXa8Fplpd9TRwlul6Ze3nqGWXUh_RfGuhKve0nc6xzc7fFiPNF5GKge7fj2erdakqPKzeqTYQsyFLcCoZq2GvU8FZo5emgc2HR3bB-_HKCQPhKfJYPvYaHDSS76IZldXCHTM0eJ_74EoDRKoe0xDz_qbi1d5rs6eCGL5JbYD7MaRbUO7PghWJQ_LeJW-Rhtg..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=461B98D242DE6106AAACF4841DEBD793AB9BE1EB6AD5FD2A",
-      "source": "微信公众号",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-10-19T09:30:16Z"
-    },
-    {
-      "id": "8862ac6ce473",
-      "title": "证监会：全力维护资本市场安全稳定",
-      "summary": "来源：证券时报. 10月19日，证监会主席吴清出席2026金融街论坛年会开幕式并作主题演讲。 证监会：全力维护资本市场安全稳定. 证监会主席吴清表示，坚持稳字当头，全力",
-      "highlights": [
-        "来源：证券时报. 10月19日，证监会主席吴清出席2026金融街论坛年会开幕式并作主题演讲",
-        "证监会：全力维护资本市场安全稳定. 证监会主席吴清表示，坚持稳字当头，全力"
-      ],
-      "url": "https://www.21jingji.com/article/20261019/herald/033c4bab2845251fe61b120744719665.html",
-      "source": "21jingji.com",
-      "category": "行业话题",
-      "importance": 2,
-      "publishedAt": "2026-10-19T09:00:00Z"
-    },
-    {
-      "id": "35f85c14058f",
-      "title": "Research@ 2026ȸ蹫10Ŵǻ۵оչ-˹-",
-      "summary": "AI ܰԸߵ׼ȷԺ͸ǰԤֺӶиõĻ׼ȸʵΣԵıĿ——һû˻ᱻȻֺͻϮ——治ȡýչ\n\nԺˮԤΪڡȻ־Ĺȸȫˮģܹǰ7ṩɿĺԤǳ150ҡ20˿ڣشӰĺˮȻһǰԤɽ鱩ƺңɼĿꡣGroundsource ǹȸƳ AI ܹΣϢתΪʷݼʹоԱܹ׼ȷԤģ͡ [...] ڡҶоչЩʵٴصĹǰڱ˹ɫŮִҽģ98ھＱǰȫ AMIE ѯٴҽʾ AI ɵժҪ75%Ĳа˽׼ȸ軹ƽ AMIE Ķģ̬ʹܹӦʵʱƵ Inclu...",
-      "highlights": [
-        "AI ܰԸߵ׼ȷԺ͸ǰԤֺӶиõĻ׼ȸʵΣԵıĿ——һû˻ᱻȻֺͻϮ——治ȡýչ",
-        "ԺˮԤΪڡȻ־Ĺȸȫˮģܹǰ7ṩɿĺԤǳ150ҡ20˿ڣشӰĺˮȻһǰԤɽ鱩ƺңɼĿꡣGroundsource ǹȸƳ AI ܹΣϢתΪʷݼʹоԱܹ׼ȷԤģ͡ [...] ڡҶоչЩʵٴصĹǰڱ˹ɫŮִҽģ98ھＱǰȫ AMIE ѯٴҽʾ AI ɵժҪ75%Ĳа˽׼ȸ軹ƽ AMIE Ķģ̬ʹܹӦʵʱƵ Included Health һʵҽƳ AI Ӧõȫо",
-        "AMIE һϽо̵ɲ֣̿׷̱ MedPalm ģһԴڽ׶Ρ"
-      ],
-      "url": "https://www.zhiding.cn/ai/2026/1019/3202708.shtml",
-      "source": "zhiding.cn",
-      "category": "前沿理论",
-      "importance": 2,
-      "publishedAt": "2026-10-19T09:00:00Z"
-    },
-    {
-      "id": "d9ec94c027d9",
-      "title": "Anthropic Readies Model That Reads Users' Intentions Better",
-      "summary": "When you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site...",
-      "highlights": [
-        "When you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our [...] User ID: 6b1502b9-c448-44ae-821b-b433418f383f",
-        "Timestamp: --",
-        "### Manage Consent Preferences"
-      ],
-      "url": "https://www.theinformation.com/newsletters/ai-agenda/anthropic-readies-model-reads-users-intentions-better",
-      "source": "theinformation.com",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-10-19T14:00:42Z"
-    }
-  ],
-  "month": [
-    {
-      "id": "9504638c207a",
-      "title": "Yellow.com",
-      "summary": "6 hours ago\n\nAnthropic is reportedly offering Blackstone a yield above 10% to anchor $9 billion of junior debt for its latest AI chip deal, showing how costly computing power has become. Key Points: B...",
-      "highlights": [
-        "6 hours ago",
-        "Anthropic is reportedly offering Blackstone a yield above 10% to anchor $9 billion of junior debt for its latest AI chip deal, showing how costly computing power has become. Key Points: Blackstone f",
-        "Related News"
-      ],
-      "url": "https://yellow.com/news/chatgpt-outscores-claude-haiku-tailored-advice",
-      "source": "yellow.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-17T12:20:34Z"
-    },
-    {
-      "id": "6ad934cc833d",
-      "title": "厉害！OpenAI首款自研芯片Jalapeño，刚进TIME 2026最佳 ...",
-      "summary": "厉害！OpenAI首款自研芯片Jalapeño，刚进TIME 2026最佳发明！ 不是又一个通用GPU，而是专为推理定制的“AI加速器”。 9个月从零到流片，每瓦效率直接挑战Nvidia，",
-      "highlights": [
-        "OpenAI首款自研芯片Jalapeño，刚进TIME 2026最佳发明",
-        "不是又一个通用GPU，而是专为推理定制的“AI加速器”",
-        "9个月从零到流片，每瓦效率直接挑战Nvidia，"
-      ],
-      "url": "https://x.com/NFT_Chen/status/2111156097239453728",
-      "source": "x.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-17T19:45:07Z"
-    },
-    {
-      "id": "37e37fbd90ad",
-      "title": "夹在字节缝隙中的AI融资明星们|字节跳动|移动互联网|创投圈|IPO|PixVerse_新浪新闻",
-      "summary": "另一位剪映旧将陈冕曾负责剪映、CapCut的全球商业化，创立演语科技后陆续形成LiblibAI、星流和LibTV的产品矩阵，完成近3亿美元的B+轮融资后，投后估值超过20亿美元，手握腾讯、顺为资本、蚂蚁集团、红杉中国、Granite Asia等一众股东。\n\n　　创始人有过字节系从0到1做爆款产品的经验，这加速了二者的融资进程。对投资人而言，创业者手握一套被字节验证过的爆款方法论，这是AI应用赛道的...",
-      "highlights": [
-        "另一位剪映旧将陈冕曾负责剪映、CapCut的全球商业化，创立演语科技后陆续形成LiblibAI、星流和LibTV的产品矩阵，完成近3亿美元的B+轮融资后，投后估值超过20亿美元，手握腾讯、顺为资本、蚂蚁集团、红杉中国、Granite Asia等一众股东",
-        "创始人有过字节系从0到1做爆款产品的经验，这加速了二者的融资进程",
-        "对投资人而言，创业者手握一套被字节验证过的爆款方法论，这是AI应用赛道的稀缺品"
-      ],
-      "url": "https://k.sina.com.cn/article_5953189932_162d6782c0670516ng.html?from=tech",
-      "source": "k.sina.com.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-17T16:04:32Z"
-    },
-    {
-      "id": "861e1ec54ea2",
-      "title": "DeepSeek released an update of its AI model this weekend ...",
-      "summary": "DeepSeek AI is a new open source AI model out of China that claims to be outperforming OpenAI, Google and Meta. DeepSeek Turned the AI World on Its Head",
-      "highlights": [
-        "DeepSeek AI is a new open source AI model out of China that claims to be outperforming OpenAI, Google and Meta. DeepSeek Turned the AI World on Its Head"
-      ],
-      "url": "https://www.facebook.com/bloombergbusiness/posts/deepseek-released-an-update-of-its-ai-model-this-weekend-that-it-says-is-faster-/1532543748731713",
-      "source": "facebook.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-17T19:45:07Z"
-    },
-    {
-      "id": "f3d921367b58",
-      "title": "巨头自研 AI 芯片：靠推理突围，抢回算力垄断利润-虎嗅网",
-      "summary": "巨头自研 AI 芯片：靠推理突围，抢回算力垄断利润\n\n2026-10-17 22:54\n\n# 巨头自研 AI 芯片：靠推理突围，抢回算力垄断利润\n\n偏科声偏科声\n\n速览\n\n本文来自微信公众号： 偏科声 ，作者：李小年，原文标题：《巨头自研 AI 芯片：靠推理突围，抢回算力垄断利润》\n\n随着微软全新自研AI芯片Maia 300的发布，微软和谷歌、亚马逊走上了同一条算力突围之路。科技巨头们不再盲目内卷...",
-      "highlights": [
-        "巨头自研 AI 芯片：靠推理突围，抢回算力垄断利润",
-        "2026-10-17 22:54",
-        "# 巨头自研 AI 芯片：靠推理突围，抢回算力垄断利润"
-      ],
-      "url": "https://www.huxiu.com/article/4898339.html",
-      "source": "huxiu.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-17T14:54:26Z"
-    },
-    {
-      "id": "ab0aedbc0e50",
-      "title": "OpenAI, Google, Anthropic: Know Your Players When you ...",
-      "summary": "OpenAI/ specialized cybersecurity model launch OpenAI released GPT-5.4-Cyber, a version of its newest model designed for defensive security teams. Access is",
-      "highlights": [
-        "OpenAI/ specialized cybersecurity model launch OpenAI released GPT-5.4-Cyber, a version of its newest model designed for defensive security teams. Access is"
-      ],
-      "url": "https://www.facebook.com/DataFortLtd/posts/openai-google-anthropic-know-your-playerswhen-you-step-into-the-ai-arena-youll-m/1456032166626594",
-      "source": "facebook.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-18T14:56:32Z"
-    },
-    {
-      "id": "d678634d9a7b",
-      "title": "Blink and you’ll miss a new ai model launch. 🤯\n\n• OpenAI GPT-6 Astra\n• OpenAI GPT-6.1 Sol\n• Google Gemini 4 Argon\n• Anthropic Claude 5.5 Opus\n• Anthropic Claude 5.5 Sonnet\n• Microsoft MAI-Thinking-1 | Kapil Mewada | Facebook",
-      "summary": "Home\n\nLive\n\nReels\n\nExplore\n\nBlink and you’ll miss a new ai model launch. 🤯\n• OpenAI GPT-6 Astra\n• OpenAI GPT-6.1 Sol\n• Google Gemini 4 Argon\n• Anthropic Claude 5.5 Opus\n• Anthropic Claude 5.5 Sonnet\n•...",
-      "highlights": [
-        "Blink and you’ll miss a new ai model launch. 🤯",
-        "• OpenAI GPT-6 Astra",
-        "• OpenAI GPT-6.1 Sol"
-      ],
-      "url": "https://www.facebook.com/kapil.mewada.921/posts/blink-and-youll-miss-a-new-ai-model-launch-openai-gpt-6-astra-openai-gpt-61-sol-/3563518420484710",
-      "source": "facebook.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-18T14:56:32Z"
-    },
-    {
-      "id": "dabd9fa29ea7",
-      "title": "解禁1.7万亿、回购1.7万亿，美股最大的一场对赌在2027-虎嗅网",
-      "summary": "如果钱在AI内部轮转，表面上会很平静，资金分散在几只不同的大票里，看起来也算多元。\n\n可这些公司的命运高度相关。它们的估值都建立在同一个假设上：AI的投入能在未来几年变成足够的利润。顺风的时候，轮转让每一家都有买盘。逆风的时候，它们会一起跌。\n\n所以2027年更需要担心的，可能是“相关性”，“卖压”倒在其次。分散在表面，集中在底层。\n\n## 04\n\n把前面几层叠起来，会发现英伟达在这张牌桌上同时坐...",
-      "highlights": [
-        "如果钱在AI内部轮转，表面上会很平静，资金分散在几只不同的大票里，看起来也算多元",
-        "可这些公司的命运高度相关",
-        "它们的估值都建立在同一个假设上：AI的投入能在未来几年变成足够的利润"
-      ],
-      "url": "https://www.huxiu.com/article/4898363.html",
-      "source": "huxiu.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-18T04:21:45Z"
-    },
-    {
-      "id": "58ce1508af66",
-      "title": "AI Models & LLMs – News, Benchmarks & Pricing | 24AI Global",
-      "summary": "Google has released Gemini 3.8 Flash and a specialized cybersecurity variant — claiming the model is cheaper and faster than rivals from OpenAI and Anthropic.\n\nOpenAI's Astra: 100% on hacking benchmar...",
-      "highlights": [
-        "Google has released Gemini 3.8 Flash and a specialized cybersecurity variant — claiming the model is cheaper and faster than rivals from OpenAI and Anthropic.",
-        "OpenAI's Astra: 100% on hacking benchmark — and discovered unknown security vulnerabilities",
-        "ModelsSEP 4"
-      ],
-      "url": "https://www.24aiglobal.com/ai-models",
-      "source": "24aiglobal.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-18T11:00:00Z"
-    },
-    {
-      "id": "2fffd29f0b09",
-      "title": "AI一次甩出722篇数学论文，25位菲尔兹奖得主坐不住了_投资界",
-      "summary": "现实也提供了支撑，约翰逊本人近月与 AI 协作并称赞其分析缜密；丘成桐实验室已产出七维同伦球面等 AI 辅助成果。新证词还在不断送来：谷歌 DeepMind 的 AlphaProof Nexus 登上《科学》，解决了 9 个厄多斯开放问题（其中两个悬置超过 50 年）和《整数数列在线百科全书》492 个开放猜想中的 44 个，与 OpenAI 形成鲜明对照的是，这批成果等了数月、走完了完整的同行评...",
-      "highlights": [
-        "现实也提供了支撑，约翰逊本人近月与 AI 协作并称赞其分析缜密；丘成桐实验室已产出七维同伦球面等 AI 辅助成果",
-        "新证词还在不断送来：谷歌 DeepMind 的 AlphaProof Nexus 登上《科学》，解决了 9 个厄多斯开放问题（其中两个悬置超过 50 年）和《整数数列在线百科全书》492 个开放猜想中的 44 个，与 OpenAI 形成鲜明对照的是，这批成果等了数月、走完了完整的同行评审，同期《科学》的评论文章标题就叫“AI 用于数学研究已经到来”；Anthropic 则报告 Claude 帮物理学家把散射振幅计算从八圈推进到九圈，布朗大学物理学家沃洛维奇评价，这在很大程度上建立了对前沿 AI 系统能够可靠完成困难计算的信任",
-        "但扩张论回避了分配问题"
-      ],
-      "url": "https://news.pedaily.cn/202610/570453.shtml",
-      "source": "news.pedaily.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-19T04:50:00Z"
     }
   ]
 }
