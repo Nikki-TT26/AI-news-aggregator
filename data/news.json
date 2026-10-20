@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T15:53:43Z",
+  "updatedAt": "2026-10-20T20:56:30Z",
   "latest": [
     {
       "id": "2fffd29f0b09",
@@ -224,6 +224,81 @@
       "publishedAt": "2026-10-20T12:00:00Z"
     },
     {
+      "id": "de60a2ac8671",
+      "title": "亚马逊叫板英伟达！TorchNeuron落地，AI应用集体沸腾-文轩财经丨智库 产经 指数",
+      "summary": "这种“既自研又采购、既竞争又互联”的双线策略，恰恰说明AI算力市场正在从单极走向多极：英伟达依然是性能标杆，但云厂商需要通过自研芯片压低成本、锁定客户，并在议价中掌握主动。过去缺的那块软件拼图，如今由TorchNeuron补上——这也是市场将其解读为“剑指CUDA护城河”的原因。\n\n对AI应用层而言，这一变化的意义甚至大于芯片参数本身。当训练和推理算力从“英伟达一家定价”走向多云、多芯片可选，模型...",
+      "highlights": [
+        "这种“既自研又采购、既竞争又互联”的双线策略，恰恰说明AI算力市场正在从单极走向多极：英伟达依然是性能标杆，但云厂商需要通过自研芯片压低成本、锁定客户，并在议价中掌握主动",
+        "过去缺的那块软件拼图，如今由TorchNeuron补上——这也是市场将其解读为“剑指CUDA护城河”的原因",
+        "对AI应用层而言，这一变化的意义甚至大于芯片参数本身"
+      ],
+      "url": "https://www.wenxuan.news/live/24894.html",
+      "source": "wenxuan.news",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-20T10:00:00Z"
+    },
+    {
+      "id": "4d90f6dbae6a",
+      "title": "【明日主题前瞻】大厂密集发布Agent产品，智能体赛道竞争白热化 _ 东方财富网",
+      "summary": "上市公司中，天娱数科围绕真实营销场景，持续完善“基础模型—智能体—场景应用”的技术架构，推动智能体能力在内容创作、素材生产、广告投放、直播运营和客户服务等关键环节落地。焦点科技表示，2026年6月，专为外贸订单转化打造的AI产品\"贸探\"正式上线。产品内置业务、运营、培训三大专家智能体，具备长记忆、企业数字资产管理与外贸专属知识体系三项差异化能力。\n\n国产卫星互联网首次实现地球三极联网通信\n\n　　据...",
+      "highlights": [
+        "上市公司中，天娱数科围绕真实营销场景，持续完善“基础模型—智能体—场景应用”的技术架构，推动智能体能力在内容创作、素材生产、广告投放、直播运营和客户服务等关键环节落地",
+        "焦点科技表示，2026年6月，专为外贸订单转化打造的AI产品\"贸探\"正式上线",
+        "产品内置业务、运营、培训三大专家智能体，具备长记忆、企业数字资产管理与外贸专属知识体系三项差异化能力"
+      ],
+      "url": "https://finance.eastmoney.com/a/202610193900110750.html",
+      "source": "finance.eastmoney.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-19T00:00:00Z"
+    },
+    {
+      "id": "737c78bb8dff",
+      "title": "读懂物理规律 预判事物演化 物理AI加快走进千行百业|上海证券报",
+      "summary": "“世界模型正经历从‘虚拟智能’走向‘物理智能’的关键跃迁。”在主旨演讲环节，陈博远分享说，当前的AI技术已打通大语言模型、多模态模型、智能体应用环节，正在通往世界模型与未来通用物理智能模型阶段。他与团队正在做的，就是将“围绕目标规划任务、调用工具，并根据执行反馈调整”与物理空间世界相连接，从而打造“世界模型+建模物理”，可预测世界变化与行动后果，未来成为具身智能、智能制造、自动驾驶、仿真产业等共性...",
+      "highlights": [
+        "“世界模型正经历从‘虚拟智能’走向‘物理智能’的关键跃迁",
+        "”在主旨演讲环节，陈博远分享说，当前的AI技术已打通大语言模型、多模态模型、智能体应用环节，正在通往世界模型与未来通用物理智能模型阶段",
+        "他与团队正在做的，就是将“围绕目标规划任务、调用工具，并根据执行反馈调整”与物理空间世界相连接，从而打造“世界模型+建模物理”，可预测世界变化与行动后果，未来成为具身智能、智能制造、自动驾驶、仿真产业等共性底座"
+      ],
+      "url": "https://paper.cnstock.com/html/2026-10/21/content_2279512.htm",
+      "source": "paper.cnstock.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-20T17:00:00Z"
+    },
+    {
+      "id": "beffff538699",
+      "title": "Sundar Pichai: Google’s Frontier Imperative, Compute Scarcity Dilemmas, Future AI Products and Businesses",
+      "summary": "His company’s latest Gemini 4 Argon model — long-promised and recently delivered — beats OpenAI and Anthropic’s latest public models on coding, math, science, and knowledge-work benchmarks and has pla...",
+      "highlights": [
+        "His company’s latest Gemini 4 Argon model — long-promised and recently delivered — beats OpenAI and Anthropic’s latest public models on coding, math, science, and knowledge-work benchmarks and has placed Google’s AI back among the world’s best. [...] You can read the full conversation, lightly edited for length and clarity, below, or listen to it on Apple Podcasts, Spotify, YouTube, or your podcast app of choice.",
+        "# Why Google is committed to the AI frontier",
+        "Alex Kantrowitz: Google is back at the frontier with Gemini 4 Argon, which beats OpenAI’s and Anthropic’s public models on benchmarks spanning coding, math, science, and knowledge work. [...] Very early on, when we looked at the founding team of Anthropic, it was very clear to us this was a world-class team which was involved in some of the earliest GPT models. We were quickly able to assess that they would be at the frontier."
+      ],
+      "url": "https://www.bigtechnology.com/p/sundar-pichai-googles-frontier-imperative",
+      "source": "bigtechnology.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-20T17:00:00Z"
+    },
+    {
+      "id": "fd87910f7c34",
+      "title": "Not Anthropic. Not OpenAI. This Is the Artificial Intelligence (AI) Stock I'd Buy Before the Next Mega-IPO. - The Globe and Mail",
+      "summary": "Anthropic's relationship with Google runs even deeper. In October 2025, Anthropic announced its use of Google's custom silicon, called Tensor Processing Units (TPUs). In April, this relationship was e...",
+      "highlights": [
+        "Anthropic's relationship with Google runs even deeper. In October 2025, Anthropic announced its use of Google's custom silicon, called Tensor Processing Units (TPUs). In April, this relationship was expanded to include multiple gigawatts of TPU capacity expected to come online in 2027.",
+        "These arrangements create an attractive business model for Alphabet because the company can develop AI products for consumers while simultaneously supplying infrastructure that competing enterprises need. [...] ##",
+        "## Latest in"
+      ],
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/8229197/not-anthropic-not-openai-this-is-the-artificial-intelligence-ai-stock-id-buy-before-the-next-mega-ipo",
+      "source": "theglobeandmail.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-20T12:00:00Z"
+    },
+    {
       "id": "7f6aaf47d831",
       "title": "别想了，AI还不能帮你做研究-虎嗅网",
       "summary": "这个AI Scientist的任务是研究机器学习的漏洞。AI Scientist生成的三篇论文在一次学术会议上被送去审稿，一篇论文的得分很高，达到了接收标准。但Kapoor指出，用同行评审来评价论文的质量并不可靠，尤其对于AI研究。\n\n往大里说，一些研究人员的疑问是：如果AI研究真的能从概念生成到论文发表实现全自动化，这样还能产生真正的突破吗？言下之意是AI更擅长优化现有技术。\n\n为了给AI一个比...",
@@ -362,75 +437,6 @@
       "category": "投并购",
       "importance": 4,
       "publishedAt": "2026-10-20T11:00:16Z"
-    },
-    {
-      "id": "fb4deda30484",
-      "title": "Nvidia eyes full takeover of the startup it already bet $800M ...",
-      "summary": "AI, a startup backed by Nvidia, said on Thursday it has raised $2 billion in a new funding round that values the company at $8 billion,",
-      "highlights": [
-        "AI, a startup backed by Nvidia, said on Thursday it has raised $2 billion in a new funding round that values the company at $8 billion,"
-      ],
-      "url": "https://www.facebook.com/quartznews/posts/icymi-nvidia-eyes-full-takeover-of-the-startup-it-already-bet-800m-on-nvidia-is-/1465225415473272",
-      "source": "facebook.com",
-      "category": "投并购",
-      "importance": 3,
-      "publishedAt": "2026-10-18T19:44:35Z"
-    },
-    {
-      "id": "0025ec4e5790",
-      "title": "什么是物理 AI（Physical AI）及其工作原理，数据、世界模型与机器人",
-      "summary": "physical AI（物理AI，也称具身智能）是能够感知物理世界、理解其规律，并通过实体在其中行动的人工智能，这个实体可以是机器人、自动驾驶汽车，也可以是工厂里的一台",
-      "highlights": [
-        "physical AI（物理AI，也称具身智能）是能够感知物理世界、理解其规律，并通过实体在其中行动的人工智能，这个实体可以是机器人、自动驾驶汽车，也可以是工厂里的一台"
-      ],
-      "url": "https://pasqualepillitteri.it/zh/news/25696/wuli-ai-physical-ai-shi-shenme",
-      "source": "pasqualepillitteri.it",
-      "category": "具身智能",
-      "importance": 3,
-      "publishedAt": "2026-10-19T17:00:00Z"
-    },
-    {
-      "id": "473645ea42f1",
-      "title": "Kapital Agrees to Acquire AI Startup Woz for $30M to Enhance Capabilities of AI-Native Banking Platform",
-      "summary": "MEXICO CITY, Oct. 19, 2026 /PRNewswire/ -- Kapital, a global AI-powered financial institution and one of the largest B2B financial institutions in Latin America, today announced it has reached an agre...",
-      "highlights": [
-        "MEXICO CITY, Oct. 19, 2026 /PRNewswire/ -- Kapital, a global AI-powered financial institution and one of the largest B2B financial institutions in Latin America, today announced it has reached an agreement to acquire Woz, a Y Combinator-backed AI startup building advanced coding agents for complex business use cases, in a $30 million cash-and-stock transaction.",
-        "Kapital's logo",
-        "Kapital's logo [...] This is a paid press release. Contact the press release distributor directly with any enquiries."
-      ],
-      "url": "https://uk.finance.yahoo.com/news/kapital-agrees-acquire-ai-startup-140000792.html",
-      "source": "uk.finance.yahoo.com",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-10-19T13:00:00Z"
-    },
-    {
-      "id": "aea79cc74203",
-      "title": "TCS offers industrial intelligence foundry to boost agentic AI scaling for enterprises - Consultancy.uk",
-      "summary": "# TCS offers industrial intelligence foundry to boost agentic AI scaling for enterprises. ***Tata Consultancy Services has launched a new industrial intelligence foundry. The AI offering enables scale...",
-      "highlights": [
-        "# TCS offers industrial intelligence foundry to boost agentic AI scaling for enterprises. ***Tata Consultancy Services has launched a new industrial intelligence foundry. The AI offering enables scaled AI deployment across industrial enterprises, according to the firm, and is set to reduce new product introduction timelines by 25%.***. And Tata Consultancy Services’ intelligence foundry is aiming to address the critical gap between AI experimentation and enterprise-wide execution, providing industry-specific agents which can integrate into existing workflows safely and securely. Speaking on the opportunity, Ramachandran S, practice leader for engineering and manufacturing in HFS Research, said, “Most enterprise AI still lives on desktops, while there is untapped value on shop floors in industrial and physical AI. Industrial Intelligence Foundry is TCS’ bet to fill this gap with domain-specific AI, with the potential for significant business impact, scaling AI Implementations and not just another agentic AI project.”. According to a statement from the firm, the offering can “help enterprises reduce new product introduction timelines by 25% and improve manufacturing productivity by 20-25%”."
-      ],
-      "url": "https://www.consultancy.uk/news/45908/tcs-offers-industrial-intelligence-foundry-to-boost-agentic-ai-scaling-for-enterprises",
-      "source": "consultancy.uk",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-10-20T05:05:00Z"
-    },
-    {
-      "id": "8de5ba2c452e",
-      "title": "东方财富资讯",
-      "summary": "点击阅读全文\n\n前往东方财富APP阅读全文\n\n取消 前往\n\n分享成功\n\n#### 热门推荐\n\n即将前往东方财富APP查看原文\n\n取消 确定\n\n 分享至：\n 微信\n 朋友圈\n 微博\n\n郑重声明：东方财富发布此内容旨在传播更多信息，与本站立场无关，不构成投资建议。据此操作，风险自担。\n\n热点阅读\n:   国家发展改革委：将根据需要及时出台新的增量政策 确保经济运行保持在合理区间\n\n    国家发展改革...",
-      "highlights": [
-        "前往东方财富APP阅读全文",
-        "即将前往东方财富APP查看原文",
-        "郑重声明：东方财富发布此内容旨在传播更多信息，与本站立场无关，不构成投资建议"
-      ],
-      "url": "https://wap.eastmoney.com/a/202610203900814090.html",
-      "source": "wap.eastmoney.com",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-10-20T02:00:00Z"
     }
   ],
   "today": [
@@ -509,6 +515,66 @@
       "publishedAt": "2026-10-20T12:00:00Z"
     },
     {
+      "id": "de60a2ac8671",
+      "title": "亚马逊叫板英伟达！TorchNeuron落地，AI应用集体沸腾-文轩财经丨智库 产经 指数",
+      "summary": "这种“既自研又采购、既竞争又互联”的双线策略，恰恰说明AI算力市场正在从单极走向多极：英伟达依然是性能标杆，但云厂商需要通过自研芯片压低成本、锁定客户，并在议价中掌握主动。过去缺的那块软件拼图，如今由TorchNeuron补上——这也是市场将其解读为“剑指CUDA护城河”的原因。\n\n对AI应用层而言，这一变化的意义甚至大于芯片参数本身。当训练和推理算力从“英伟达一家定价”走向多云、多芯片可选，模型...",
+      "highlights": [
+        "这种“既自研又采购、既竞争又互联”的双线策略，恰恰说明AI算力市场正在从单极走向多极：英伟达依然是性能标杆，但云厂商需要通过自研芯片压低成本、锁定客户，并在议价中掌握主动",
+        "过去缺的那块软件拼图，如今由TorchNeuron补上——这也是市场将其解读为“剑指CUDA护城河”的原因",
+        "对AI应用层而言，这一变化的意义甚至大于芯片参数本身"
+      ],
+      "url": "https://www.wenxuan.news/live/24894.html",
+      "source": "wenxuan.news",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-20T10:00:00Z"
+    },
+    {
+      "id": "737c78bb8dff",
+      "title": "读懂物理规律 预判事物演化 物理AI加快走进千行百业|上海证券报",
+      "summary": "“世界模型正经历从‘虚拟智能’走向‘物理智能’的关键跃迁。”在主旨演讲环节，陈博远分享说，当前的AI技术已打通大语言模型、多模态模型、智能体应用环节，正在通往世界模型与未来通用物理智能模型阶段。他与团队正在做的，就是将“围绕目标规划任务、调用工具，并根据执行反馈调整”与物理空间世界相连接，从而打造“世界模型+建模物理”，可预测世界变化与行动后果，未来成为具身智能、智能制造、自动驾驶、仿真产业等共性...",
+      "highlights": [
+        "“世界模型正经历从‘虚拟智能’走向‘物理智能’的关键跃迁",
+        "”在主旨演讲环节，陈博远分享说，当前的AI技术已打通大语言模型、多模态模型、智能体应用环节，正在通往世界模型与未来通用物理智能模型阶段",
+        "他与团队正在做的，就是将“围绕目标规划任务、调用工具，并根据执行反馈调整”与物理空间世界相连接，从而打造“世界模型+建模物理”，可预测世界变化与行动后果，未来成为具身智能、智能制造、自动驾驶、仿真产业等共性底座"
+      ],
+      "url": "https://paper.cnstock.com/html/2026-10/21/content_2279512.htm",
+      "source": "paper.cnstock.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-20T17:00:00Z"
+    },
+    {
+      "id": "beffff538699",
+      "title": "Sundar Pichai: Google’s Frontier Imperative, Compute Scarcity Dilemmas, Future AI Products and Businesses",
+      "summary": "His company’s latest Gemini 4 Argon model — long-promised and recently delivered — beats OpenAI and Anthropic’s latest public models on coding, math, science, and knowledge-work benchmarks and has pla...",
+      "highlights": [
+        "His company’s latest Gemini 4 Argon model — long-promised and recently delivered — beats OpenAI and Anthropic’s latest public models on coding, math, science, and knowledge-work benchmarks and has placed Google’s AI back among the world’s best. [...] You can read the full conversation, lightly edited for length and clarity, below, or listen to it on Apple Podcasts, Spotify, YouTube, or your podcast app of choice.",
+        "# Why Google is committed to the AI frontier",
+        "Alex Kantrowitz: Google is back at the frontier with Gemini 4 Argon, which beats OpenAI’s and Anthropic’s public models on benchmarks spanning coding, math, science, and knowledge work. [...] Very early on, when we looked at the founding team of Anthropic, it was very clear to us this was a world-class team which was involved in some of the earliest GPT models. We were quickly able to assess that they would be at the frontier."
+      ],
+      "url": "https://www.bigtechnology.com/p/sundar-pichai-googles-frontier-imperative",
+      "source": "bigtechnology.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-20T17:00:00Z"
+    },
+    {
+      "id": "fd87910f7c34",
+      "title": "Not Anthropic. Not OpenAI. This Is the Artificial Intelligence (AI) Stock I'd Buy Before the Next Mega-IPO. - The Globe and Mail",
+      "summary": "Anthropic's relationship with Google runs even deeper. In October 2025, Anthropic announced its use of Google's custom silicon, called Tensor Processing Units (TPUs). In April, this relationship was e...",
+      "highlights": [
+        "Anthropic's relationship with Google runs even deeper. In October 2025, Anthropic announced its use of Google's custom silicon, called Tensor Processing Units (TPUs). In April, this relationship was expanded to include multiple gigawatts of TPU capacity expected to come online in 2027.",
+        "These arrangements create an attractive business model for Alphabet because the company can develop AI products for consumers while simultaneously supplying infrastructure that competing enterprises need. [...] ##",
+        "## Latest in"
+      ],
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/8229197/not-anthropic-not-openai-this-is-the-artificial-intelligence-ai-stock-id-buy-before-the-next-mega-ipo",
+      "source": "theglobeandmail.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-20T12:00:00Z"
+    },
+    {
       "id": "d1dc3e07ea3d",
       "title": "Fintech Funding Fell 21% In Q3 As Deals Grew Scarcer",
       "summary": "Fintech Funding Surges 23% In H1 2026 As Investors Concentrate Their Bets On AI And Financial Infrastructure\n Crunchbase Data: Q3 2026 Posted A Record Count Of Billion-Dollar Rounds As The Global AI R...",
@@ -522,6 +588,21 @@
       "category": "投并购",
       "importance": 4,
       "publishedAt": "2026-10-20T11:00:16Z"
+    },
+    {
+      "id": "d69e7a5f0145",
+      "title": "Exclusive: OpenAI acquires biotech startup as AI race moves into drug development",
+      "summary": "Image 3            \n   Image 4            \n       \n   Image 5            \n   Image 6            \n   Image 7            \n\nSmarter, faster on what matters.\n\nExplore Axios Newsletters\n\n   About Axios\n   ...",
+      "highlights": [
+        "Smarter, faster on what matters.",
+        "Explore Axios Newsletters",
+        "About Axios"
+      ],
+      "url": "https://www.axios.com/2026/10/20/exclusive-openai-biotech-startup-drug-development",
+      "source": "axios.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-20T17:55:04Z"
     },
     {
       "id": "aea79cc74203",
@@ -608,6 +689,35 @@
       "category": "投并购",
       "importance": 2,
       "publishedAt": "2026-10-20T11:51:26Z"
+    },
+    {
+      "id": "44195adc0d1a",
+      "title": "Max For AI on X: \"多么讽刺啊。 一位模型安全研究者做出了 ...",
+      "summary": "这篇论文叫《Internal Safety Collapse in Frontier LLM》,专门研究如何突破前沿大模型内部的安全机制。 按照作者自己的说法,他已经在接近100个LLM上进行了实验,相关结果",
+      "highlights": [
+        "这篇论文叫《Internal Safety Collapse in Frontier LLM》,专门研究如何突破前沿大模型内部的安全机制",
+        "按照作者自己的说法,他已经在接近100个LLM上进行了实验,相关结果"
+      ],
+      "url": "https://x.com/MaxForAI/status/2110922653246894238",
+      "source": "x.com",
+      "category": "前沿理论",
+      "importance": 2,
+      "publishedAt": "2026-10-20T20:56:30Z"
+    },
+    {
+      "id": "6b50f8183724",
+      "title": "读完论文还想追问？来北京线下，与NeurIPS 2026作者当面聊_搜狐网",
+      "summary": "展开剩余\n\n71\n\n%\n\n今年，NeurIPS 迎来第 40 届大会，将于 2026 年 12 月 6 日至 12 日在澳大利亚悉尼举行，并于 12 月 9 日至 13 日在美国亚特兰大和法国巴黎设立卫星会场。随着全球 AI 研究热度持续攀升，本届 NeurIPS 主赛道共收到 30,709 篇有效论文投稿，最终录用 7,900 篇，录用率约为 25.7%。\n\n为了给广大 AI 研究者、开发者及行...",
+      "highlights": [
+        "今年，NeurIPS 迎来第 40 届大会，将于 2026 年 12 月 6 日至 12 日在澳大利亚悉尼举行，并于 12 月 9 日至 13 日在美国亚特兰大和法国巴黎设立卫星会场",
+        "随着全球 AI 研究热度持续攀升，本届 NeurIPS 主赛道共收到 30,709 篇有效论文投稿，最终录用 7,900 篇，录用率约为 25.7%",
+        "为了给广大 AI 研究者、开发者及行业从业者搭建一个自由、开放、轻松的学术交流平台，机器之心计划于 11 月 21 日在北京举办「NeurIPS 2026 论文分享会」，邀请优秀论文作者与业内研究者分享最新研究成果，交流技术思考，共同探讨 AI 领域值得关注的新方向"
+      ],
+      "url": "https://m.sohu.com/a/1090135022_129720?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "前沿理论",
+      "importance": 2,
+      "publishedAt": "2026-10-20T13:53:58Z"
     }
   ],
   "week": [
@@ -836,49 +946,6 @@
   ],
   "month": [
     {
-      "id": "ab0aedbc0e50",
-      "title": "OpenAI, Google, Anthropic: Know Your Players When you ...",
-      "summary": "OpenAI/ specialized cybersecurity model launch OpenAI released GPT-5.4-Cyber, a version of its newest model designed for defensive security teams. Access is",
-      "highlights": [
-        "OpenAI/ specialized cybersecurity model launch OpenAI released GPT-5.4-Cyber, a version of its newest model designed for defensive security teams. Access is"
-      ],
-      "url": "https://www.facebook.com/DataFortLtd/posts/openai-google-anthropic-know-your-playerswhen-you-step-into-the-ai-arena-youll-m/1456032166626594",
-      "source": "facebook.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-18T14:56:32Z"
-    },
-    {
-      "id": "d678634d9a7b",
-      "title": "Blink and you’ll miss a new ai model launch. 🤯\n\n• OpenAI GPT-6 Astra\n• OpenAI GPT-6.1 Sol\n• Google Gemini 4 Argon\n• Anthropic Claude 5.5 Opus\n• Anthropic Claude 5.5 Sonnet\n• Microsoft MAI-Thinking-1 | Kapil Mewada | Facebook",
-      "summary": "Home\n\nLive\n\nReels\n\nExplore\n\nBlink and you’ll miss a new ai model launch. 🤯\n• OpenAI GPT-6 Astra\n• OpenAI GPT-6.1 Sol\n• Google Gemini 4 Argon\n• Anthropic Claude 5.5 Opus\n• Anthropic Claude 5.5 Sonnet\n•...",
-      "highlights": [
-        "Blink and you’ll miss a new ai model launch. 🤯",
-        "• OpenAI GPT-6 Astra",
-        "• OpenAI GPT-6.1 Sol"
-      ],
-      "url": "https://www.facebook.com/kapil.mewada.921/posts/blink-and-youll-miss-a-new-ai-model-launch-openai-gpt-6-astra-openai-gpt-61-sol-/3563518420484710",
-      "source": "facebook.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-18T14:56:32Z"
-    },
-    {
-      "id": "58ce1508af66",
-      "title": "AI Models & LLMs – News, Benchmarks & Pricing | 24AI Global",
-      "summary": "Google has released Gemini 3.8 Flash and a specialized cybersecurity variant — claiming the model is cheaper and faster than rivals from OpenAI and Anthropic.\n\nOpenAI's Astra: 100% on hacking benchmar...",
-      "highlights": [
-        "Google has released Gemini 3.8 Flash and a specialized cybersecurity variant — claiming the model is cheaper and faster than rivals from OpenAI and Anthropic.",
-        "OpenAI's Astra: 100% on hacking benchmark — and discovered unknown security vulnerabilities",
-        "ModelsSEP 4"
-      ],
-      "url": "https://www.24aiglobal.com/ai-models",
-      "source": "24aiglobal.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-18T11:00:00Z"
-    },
-    {
       "id": "2fffd29f0b09",
       "title": "AI一次甩出722篇数学论文，25位菲尔兹奖得主坐不住了_投资界",
       "summary": "现实也提供了支撑，约翰逊本人近月与 AI 协作并称赞其分析缜密；丘成桐实验室已产出七维同伦球面等 AI 辅助成果。新证词还在不断送来：谷歌 DeepMind 的 AlphaProof Nexus 登上《科学》，解决了 9 个厄多斯开放问题（其中两个悬置超过 50 年）和《整数数列在线百科全书》492 个开放猜想中的 44 个，与 OpenAI 形成鲜明对照的是，这批成果等了数月、走完了完整的同行评...",
@@ -980,6 +1047,51 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-10-19T10:00:00Z"
+    },
+    {
+      "id": "0804bf35c2c7",
+      "title": "Muse能带火国内个人AI智能体吗？ - 21经济网",
+      "summary": "21世纪经济报道\n\n21财经APP 南财号 数字报 越声智投\n\n首页 宏观 公司 金融 证券 全球 观点 汽车 新健康 人文 智库 更多)\n\n大湾区 一带一路 文旅 理财 投资通 21视频 直播 品牌活动\n\n首页 视频 正文\n\n# Muse能带火国内个人AI智能体吗？\n\n###### 2026年10月20日 15:32   钛媒体\n\n头部玩家产品持续更新。10月13日，谷歌正式发布专为处理复杂、长...",
+      "highlights": [
+        "21财经APP 南财号 数字报 越声智投",
+        "首页 宏观 公司 金融 证券 全球 观点 汽车 新健康 人文 智库 更多)",
+        "大湾区 一带一路 文旅 理财 投资通 21视频 直播 品牌活动"
+      ],
+      "url": "https://www.21jingji.com/article/20261020/herald/764f21096c7df79078991503268042a6.html",
+      "source": "21jingji.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-20T07:00:00Z"
+    },
+    {
+      "id": "e79ecaf1ec9d",
+      "title": "昨夜今晨重要资讯（10月19日-10月20日） — Noticias de TradingView",
+      "summary": "AI 初创公司 Tenstorrent 完成 15 亿美元的 E 轮融资，投后估值达到 62 亿美元。本轮融资由 Trace Capital 和 Innovation X 领投，参与方包括 Agostinelli Group、ARK Invest、Brett Barna、Cadence Ventures、Eclipse、Fidelity Management & Research Company、...",
+      "highlights": [
+        "AI 初创公司 Tenstorrent 完成 15 亿美元的 E 轮融资，投后估值达到 62 亿美元",
+        "本轮融资由 Trace Capital 和 Innovation X 领投，参与方包括 Agostinelli Group、ARK Invest、Brett Barna、Cadence Ventures、Eclipse、Fidelity Management & Research Company、Maverick Silicon、摩根士丹利（Morgan Stanley）、Protagonist、SanDisk、T. Rowe Price\\、Tether Investments、Troluce Capital、Virtu Financial 以及 XTX Markets 等新老投资者",
+        "MiniMax发布M3.1 Flash，智能体任务成本较前代降低70% [...] 谷歌前CEO施密特被曝持有Anthropic约1%股份"
+      ],
+      "url": "https://es.tradingview.com/news/panews:87b1d9dc7e3f9:0",
+      "source": "es.tradingview.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-20T02:00:00Z"
+    },
+    {
+      "id": "74d04726816f",
+      "title": "吴清最新发言八大要点：谈中国资产、市场稳定和AI浪潮_搜狐网",
+      "summary": "持续深化资本市场包容性改革方面，吴清表示，聚焦支持新质生产力发展，落实落细“两创板”改革举措，进一步完善科技企业识别筛选等机制。研究推进多层次市场改革，实施更具包容性适应性的发行上市、并购重组等制度。\n\n吴清还指出，深化再融资改革，择机发布新修订的上市公司证券发行注册管理办法及配套规则。“这一过程中，我们将加快推动出台上市公司监管条例，健全公司治理、信息披露、投资者保护等制度机制，培育和壮大优质上...",
+      "highlights": [
+        "持续深化资本市场包容性改革方面，吴清表示，聚焦支持新质生产力发展，落实落细“两创板”改革举措，进一步完善科技企业识别筛选等机制",
+        "研究推进多层次市场改革，实施更具包容性适应性的发行上市、并购重组等制度",
+        "吴清还指出，深化再融资改革，择机发布新修订的上市公司证券发行注册管理办法及配套规则"
+      ],
+      "url": "https://m.sohu.com/a/1089837776_260616?scm=10001.198_14-198_14_exp.0.0-0-0-0-0.",
+      "source": "m.sohu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-19T20:51:00Z"
     }
   ]
 }
