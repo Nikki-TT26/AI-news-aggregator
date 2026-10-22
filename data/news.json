@@ -1,50 +1,6 @@
 {
-  "updatedAt": "2026-10-22T10:43:43Z",
+  "updatedAt": "2026-10-22T16:08:51Z",
   "latest": [
-    {
-      "id": "29fe3d27e695",
-      "title": "DeepSeek“帕累托改进图”刷屏AI圈 - 21经济网",
-      "summary": "21世纪经济报道\n\n21财经APP 南财号 数字报 越声智投\n\n首页 宏观 公司 金融 证券 全球 观点 汽车 新健康 人文 智库 更多)\n\n大湾区 一带一路 文旅 理财 投资通 21视频 直播 品牌活动\n\n首页 公司 正文\n\n# DeepSeek“帕累托改进图”刷屏AI圈\n\n###### 2026年10月20日 20:30   21世纪经济报道 21财经APP   赵云帆\n\nDeepSeek V...",
-      "highlights": [
-        "21财经APP 南财号 数字报 越声智投",
-        "首页 宏观 公司 金融 证券 全球 观点 汽车 新健康 人文 智库 更多)",
-        "大湾区 一带一路 文旅 理财 投资通 21视频 直播 品牌活动"
-      ],
-      "url": "https://www.21jingji.com/article/20261020/herald/11f2fc08b17c4145ad7e68b18545726f.html",
-      "source": "21jingji.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-20T12:00:00Z"
-    },
-    {
-      "id": "8275bedcfa55",
-      "title": "港股AI应用，最新核心公司梳理！_新浪新闻",
-      "summary": "1. 平台生态型AI巨头\n\n　　以阿里巴巴-W和百度集团-SW为代表，核心优势在于底层模型能力、算力储备与生态闭环。阿里依托阿里云、通义大模型，将AI深度赋能电商、云计算、企业办公等全域生态场景；百度凭借文心大模型与原生搜索流量优势，深耕AI基础技术、智能云与智能化生态。\n\n　　2. AI大模型\n\n　　智谱：2026年1月登陆港股，市值突破3200亿港元。GLM-5采用MoE混合专家架构，上下文窗...",
-      "highlights": [
-        "1. 平台生态型AI巨头",
-        "以阿里巴巴-W和百度集团-SW为代表，核心优势在于底层模型能力、算力储备与生态闭环",
-        "阿里依托阿里云、通义大模型，将AI深度赋能电商、云计算、企业办公等全域生态场景；百度凭借文心大模型与原生搜索流量优势，深耕AI基础技术、智能云与智能化生态"
-      ],
-      "url": "https://news.sina.com.cn/sx/2026-10-20/detail-inivwcmk0884271.shtml",
-      "source": "news.sina.com.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-20T14:52:00Z"
-    },
-    {
-      "id": "5479bc49b208",
-      "title": "Not Anthropic. Not OpenAI. This Is the Artificial Intelligence (AI) Stock I'd Buy Before the Next Mega-IPO. | The Motley Fool",
-      "summary": "Anthropic's relationship with Google runs even deeper. In October 2025, Anthropic announced its use of Google's custom silicon, called Tensor Processing Units (TPUs). In April, this relationship was e...",
-      "highlights": [
-        "Anthropic's relationship with Google runs even deeper. In October 2025, Anthropic announced its use of Google's custom silicon, called Tensor Processing Units (TPUs). In April, this relationship was expanded to include multiple gigawatts of TPU capacity expected to come online in 2027.",
-        "These arrangements create an attractive business model for Alphabet because the company can develop AI products for consumers while simultaneously supplying infrastructure that competing enterprises need. [...] The answer is simple: Alphabet is positioned to benefit from Anthropic's success in multiple ways. First, its equity investment will appreciate as Anthropic's valuation increases. Additionally, Anthropic is a major customer for Google's cloud infrastructure and custom AI chips. Third, Google's tie-up with Anthropic gives it exposure to an alternative AI ecosystem, reducing its dependence on Gemini emerging as the industry's go-to model. [...] One of Alphabet's quiet advantages is that it doesn't need its Gemini AI models to beat ChatGPT or Claude. That reason is Google Cloud provides compute infrastructure to its competitors. In May 2025, OpenAI agreed to use Google Cloud's capacity to train and deploy its AI models."
-      ],
-      "url": "https://www.fool.com/investing/2026/10/20/not-anthropic-not-openai-this-is-the-artificial-in",
-      "source": "fool.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-20T12:00:00Z"
-    },
     {
       "id": "737c78bb8dff",
       "title": "读懂物理规律 预判事物演化 物理AI加快走进千行百业|上海证券报",
@@ -74,21 +30,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-10-20T17:00:00Z"
-    },
-    {
-      "id": "fd87910f7c34",
-      "title": "Not Anthropic. Not OpenAI. This Is the Artificial Intelligence (AI) Stock I'd Buy Before the Next Mega-IPO. - The Globe and Mail",
-      "summary": "Anthropic's relationship with Google runs even deeper. In October 2025, Anthropic announced its use of Google's custom silicon, called Tensor Processing Units (TPUs). In April, this relationship was e...",
-      "highlights": [
-        "Anthropic's relationship with Google runs even deeper. In October 2025, Anthropic announced its use of Google's custom silicon, called Tensor Processing Units (TPUs). In April, this relationship was expanded to include multiple gigawatts of TPU capacity expected to come online in 2027.",
-        "These arrangements create an attractive business model for Alphabet because the company can develop AI products for consumers while simultaneously supplying infrastructure that competing enterprises need. [...] ##",
-        "## Latest in"
-      ],
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/8229197/not-anthropic-not-openai-this-is-the-artificial-intelligence-ai-stock-id-buy-before-the-next-mega-ipo",
-      "source": "theglobeandmail.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-20T12:00:00Z"
     },
     {
       "id": "aba0c97c22f8",
@@ -160,19 +101,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-10-21T15:32:13Z"
-    },
-    {
-      "id": "66d945ff63a9",
-      "title": "MIT’s SwarmWorld agent society result holds up on consumer GPUs - The Next Web",
-      "summary": "In August, researchers at MIT dropped a society of AI agents into a shared world with no instructions. They showed it could invent, build and maintain technology better than the same number of agents ...",
-      "highlights": [
-        "In August, researchers at MIT dropped a society of AI agents into a shared world with no instructions. They showed it could invent, build and maintain technology better than the same number of agents working alone. The study ran on a hosted frontier model. A research team working with Apex Fusion has now reproduced the central experiment on four RTX 3090 gaming GPUs. Apex Fusion is a Swiss foundation building infrastructure for AI agents. The MIT team released its code, prompts and complete traces, which is what made an outside replication possible. The replication, led by Časlav Nedeljković of HAL8, set out to test whether SwarmWorld’s result depended on a frontier model. The replication itself ran directly on the team’s own GPUs. The team also registered its model server as a supplier on the Vector marketplace, an OpenAI-compatible gateway that meters each request and settles usage on-chain in AP3X, the network’s utility token."
-      ],
-      "url": "https://thenextweb.com/news/mit-swarmworld-agent-society-replication-open-weight-consumer-gpus",
-      "source": "thenextweb.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-20T15:18:03Z"
     },
     {
       "id": "73e373d1c624",
@@ -391,19 +319,77 @@
       "publishedAt": "2026-10-21T20:00:00Z"
     },
     {
-      "id": "d1dc3e07ea3d",
-      "title": "Fintech Funding Fell 21% In Q3 As Deals Grew Scarcer",
-      "summary": "Fintech Funding Surges 23% In H1 2026 As Investors Concentrate Their Bets On AI And Financial Infrastructure\n Crunchbase Data: Q3 2026 Posted A Record Count Of Billion-Dollar Rounds As The Global AI R...",
+      "id": "8ecc62f169b4",
+      "title": "沃尔玛推出新工具支持AI智能体代理购物 - 电商派",
+      "summary": "电商派\n\n# 沃尔玛推出新工具支持AI智能体代理购物\n\n2026-10-22 17:03\n\n10月22日消息，沃尔玛正式推出自有智能体网关，用于处理交易，并上线多项面向使用AI Agent的消费者的新功能，允许获准接入的Agent为用户搜索商品、完成购买。这套技术将同时支持沃尔玛及其折扣仓储门店山姆会员店的AI购物。此前，沃尔玛已经宣布和Meta的Muse达成合作，同时接入了ChatGPT、Gem...",
       "highlights": [
-        "Fintech Funding Surges 23% In H1 2026 As Investors Concentrate Their Bets On AI And Financial Infrastructure",
-        "Crunchbase Data: Q3 2026 Posted A Record Count Of Billion-Dollar Rounds As The Global AI Race Heats Up",
-        "LatAm Startup Funding Jumps 26% In Q3 As VCs Begin ‘Rediscovering’ The Region"
+        "# 沃尔玛推出新工具支持AI智能体代理购物",
+        "2026-10-22 17:03",
+        "10月22日消息，沃尔玛正式推出自有智能体网关，用于处理交易，并上线多项面向使用AI Agent的消费者的新功能，允许获准接入的Agent为用户搜索商品、完成购买"
       ],
-      "url": "https://news.crunchbase.com/venture/q3-2026-fintech-startup-funding-deal-count-fell-ai",
-      "source": "news.crunchbase.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-10-20T11:00:16Z"
+      "url": "https://www.pai.com.cn/p/01m5hd961jnq68s1xypjb3vc39",
+      "source": "pai.com.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-22T09:00:00Z"
+    },
+    {
+      "id": "821edaa45619",
+      "title": "Meta Muse持续“霸榜”！海内外大厂密集切入智能体赛道，CPU重回“C位”丨盘中雷达 _ 东方财富网",
+      "summary": "产业侧，海内外大厂密集切入智能体赛道。谷歌发布通用工作智能体Gemini Agent、OpenAI推出个人智能体Dot；近期腾讯、阿里、字节、DeepSeek等国内头部厂商相继推进AI智能体产品迭代与生态布局，AI应用端发展聚焦终端场景落地与生态壁垒搭建。Meta近日推出消费级AI智能体Muse，依托较强产品适配性与自身流量分发优势，上线后下载、日活数据表现显著优于竞品同期水平，标志其在C端AI智...",
+      "highlights": [
+        "产业侧，海内外大厂密集切入智能体赛道",
+        "谷歌发布通用工作智能体Gemini Agent、OpenAI推出个人智能体Dot；近期腾讯、阿里、字节、DeepSeek等国内头部厂商相继推进AI智能体产品迭代与生态布局，AI应用端发展聚焦终端场景落地与生态壁垒搭建",
+        "Meta近日推出消费级AI智能体Muse，依托较强产品适配性与自身流量分发优势，上线后下载、日活数据表现显著优于竞品同期水平，标志其在C端AI智能体赛道实现阶段性突破"
+      ],
+      "url": "https://finance.eastmoney.com/a/202610213902580915.html",
+      "source": "finance.eastmoney.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-21T06:00:00Z"
+    },
+    {
+      "id": "82a6d0b68568",
+      "title": "从数据到模型，再到真实场景：穹彻分享具身智能技术探索 - 具身之家",
+      "summary": "在数据方面，具身智能尚未形成如自动驾驶般成熟的数据采集产业，仍面临真实场景数据采集成本高、任务分布不均衡、数据质量难以保证等挑战。穹彻自 2021 年启动大规模具身数据采集研究，逐步探索无本体数据采集路线，目前已建立覆盖 50 余个城市的采集网络，峰值支持 1000 人同时采集，累计采集来源超过 1 万个。同时，穹彻搭建了 AI 原生的数据质量管控与标注体系，并联合阿里云建设无本体数据产线，实现从...",
+      "highlights": [
+        "在数据方面，具身智能尚未形成如自动驾驶般成熟的数据采集产业，仍面临真实场景数据采集成本高、任务分布不均衡、数据质量难以保证等挑战",
+        "穹彻自 2021 年启动大规模具身数据采集研究，逐步探索无本体数据采集路线，目前已建立覆盖 50 余个城市的采集网络，峰值支持 1000 人同时采集，累计采集来源超过 1 万个",
+        "同时，穹彻搭建了 AI 原生的数据质量管控与标注体系，并联合阿里云建设无本体数据产线，实现从数据入库到治理的全链路自动化，大幅提升数据管线效率"
+      ],
+      "url": "http://www.jushenhome.com/news/2047",
+      "source": "jushenhome.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-21T16:00:00Z"
+    },
+    {
+      "id": "959c6f42f824",
+      "title": "雷军投的机器人芯片公司，年内融资超25亿 - 智东西",
+      "summary": "产品方面，辉羲智能光至R1芯片已形成R1 MAX与R1 PRO两档家族：R1 MAX提供500TOPS算力、已量产交付多家具身智能客户；R1 PRO是面向具身智能原生设计的大小脑融合SoC，将CPU、NPU、GPU及实时接口集成于单颗芯片，片内完成感知、推理、决策与运动控制的闭环，算力375TOPS。\n\n量产进展上，2025年其搭载光至R1芯片的计算平台应用于智元精灵G2机器人；2026年6月，多...",
+      "highlights": [
+        "产品方面，辉羲智能光至R1芯片已形成R1 MAX与R1 PRO两档家族：R1 MAX提供500TOPS算力、已量产交付多家具身智能客户；R1 PRO是面向具身智能原生设计的大小脑融合SoC，将CPU、NPU、GPU及实时接口集成于单颗芯片，片内完成感知、推理、决策与运动控制的闭环，算力375TOPS",
+        "量产进展上，2025年其搭载光至R1芯片的计算平台应用于智元精灵G2机器人；2026年6月，多台搭载光至R1的智元精灵G2机器人连续6天产线直播作业，累计完成作业17625次，任务成功率达99.99%",
+        "目前，该公司产品应用覆盖工业制造、智慧零售、商用餐饮、无人物流等场景，Huixi Embodied系列出货量持续增长"
+      ],
+      "url": "https://m.zhidx.com/p/603423.html",
+      "source": "m.zhidx.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-22T03:00:00Z"
+    },
+    {
+      "id": "5c2af150df8a",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business - TechCrunch",
+      "summary": "# OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business. OpenAI on Tuesday acquired a four-year-old AI biotech software startup called Orchestra Bio, the company announced via its web...",
+      "highlights": [
+        "# OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business. OpenAI on Tuesday acquired a four-year-old AI biotech software startup called Orchestra Bio, the company announced via its website. Terms of the deal were not disclosed, but the startup had reportedly raised around $20 million as of 2025 from backers like Andreessen Horowitz, Atria, and 8VC. Orchestra creates AI agents that help biotech companies manage the minutiae of drug discovery operations, from tracking finances to resolving scheduling issues with clinical trials. OpenAI says it’s adding Orchestra’s team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results. The acquisition is a classic example of how the biggest AI labs (namely OpenAI and Anthropic) are building ever more software for the biggest industries, like pharma. In the startup world, there is an ongoing fear that at any moment, the labs will launch new features and become competitors."
+      ],
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%E2%81%A0-to-beef-up-its-biotech-business/",
+      "source": "techcrunch.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-20T20:35:10Z"
     },
     {
       "id": "420ec52bd063",
@@ -430,6 +416,21 @@
       "category": "芯片硬件",
       "importance": 4,
       "publishedAt": "2026-10-21T04:18:45Z"
+    },
+    {
+      "id": "0b12ee963dbe",
+      "title": "“我会做空一整年”！传奇投资人警告2027年美股或迎来艰难一年-市场参考-金十数据",
+      "summary": "但他认为，这一趋势正在逆转。人工智能行业可能迎来Anthropic和OpenAI的大规模股票发行，SpaceX（SPCX）也刚刚完成一次发行。与此同时，人工智能基础设施建设需要大量资金，企业可能通过更多二次发行筹集资本，进一步增加市场股票供给。\n\n琼斯的警告正值投资者重新评估美股牛市前景之际。随着通胀压力、债券收益率上升以及美联储政策可能进一步收紧的担忧加剧，持续的上涨行情面临动能减弱的风险。\n\n...",
+      "highlights": [
+        "但他认为，这一趋势正在逆转",
+        "人工智能行业可能迎来Anthropic和OpenAI的大规模股票发行，SpaceX（SPCX）也刚刚完成一次发行",
+        "与此同时，人工智能基础设施建设需要大量资金，企业可能通过更多二次发行筹集资本，进一步增加市场股票供给"
+      ],
+      "url": "https://xnews.jin10.com/details/232390",
+      "source": "xnews.jin10.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-10-22T01:00:00Z"
     }
   ],
   "today": [
@@ -463,6 +464,36 @@
       "publishedAt": "2026-10-22T10:00:00Z"
     },
     {
+      "id": "8ecc62f169b4",
+      "title": "沃尔玛推出新工具支持AI智能体代理购物 - 电商派",
+      "summary": "电商派\n\n# 沃尔玛推出新工具支持AI智能体代理购物\n\n2026-10-22 17:03\n\n10月22日消息，沃尔玛正式推出自有智能体网关，用于处理交易，并上线多项面向使用AI Agent的消费者的新功能，允许获准接入的Agent为用户搜索商品、完成购买。这套技术将同时支持沃尔玛及其折扣仓储门店山姆会员店的AI购物。此前，沃尔玛已经宣布和Meta的Muse达成合作，同时接入了ChatGPT、Gem...",
+      "highlights": [
+        "# 沃尔玛推出新工具支持AI智能体代理购物",
+        "2026-10-22 17:03",
+        "10月22日消息，沃尔玛正式推出自有智能体网关，用于处理交易，并上线多项面向使用AI Agent的消费者的新功能，允许获准接入的Agent为用户搜索商品、完成购买"
+      ],
+      "url": "https://www.pai.com.cn/p/01m5hd961jnq68s1xypjb3vc39",
+      "source": "pai.com.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-22T09:00:00Z"
+    },
+    {
+      "id": "959c6f42f824",
+      "title": "雷军投的机器人芯片公司，年内融资超25亿 - 智东西",
+      "summary": "产品方面，辉羲智能光至R1芯片已形成R1 MAX与R1 PRO两档家族：R1 MAX提供500TOPS算力、已量产交付多家具身智能客户；R1 PRO是面向具身智能原生设计的大小脑融合SoC，将CPU、NPU、GPU及实时接口集成于单颗芯片，片内完成感知、推理、决策与运动控制的闭环，算力375TOPS。\n\n量产进展上，2025年其搭载光至R1芯片的计算平台应用于智元精灵G2机器人；2026年6月，多...",
+      "highlights": [
+        "产品方面，辉羲智能光至R1芯片已形成R1 MAX与R1 PRO两档家族：R1 MAX提供500TOPS算力、已量产交付多家具身智能客户；R1 PRO是面向具身智能原生设计的大小脑融合SoC，将CPU、NPU、GPU及实时接口集成于单颗芯片，片内完成感知、推理、决策与运动控制的闭环，算力375TOPS",
+        "量产进展上，2025年其搭载光至R1芯片的计算平台应用于智元精灵G2机器人；2026年6月，多台搭载光至R1的智元精灵G2机器人连续6天产线直播作业，累计完成作业17625次，任务成功率达99.99%",
+        "目前，该公司产品应用覆盖工业制造、智慧零售、商用餐饮、无人物流等场景，Huixi Embodied系列出货量持续增长"
+      ],
+      "url": "https://m.zhidx.com/p/603423.html",
+      "source": "m.zhidx.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-22T03:00:00Z"
+    },
+    {
       "id": "0b12ee963dbe",
       "title": "“我会做空一整年”！传奇投资人警告2027年美股或迎来艰难一年-市场参考-金十数据",
       "summary": "但他认为，这一趋势正在逆转。人工智能行业可能迎来Anthropic和OpenAI的大规模股票发行，SpaceX（SPCX）也刚刚完成一次发行。与此同时，人工智能基础设施建设需要大量资金，企业可能通过更多二次发行筹集资本，进一步增加市场股票供给。\n\n琼斯的警告正值投资者重新评估美股牛市前景之际。随着通胀压力、债券收益率上升以及美联储政策可能进一步收紧的担忧加剧，持续的上涨行情面临动能减弱的风险。\n\n...",
@@ -478,6 +509,58 @@
       "publishedAt": "2026-10-22T01:00:00Z"
     },
     {
+      "id": "c80a6608f1d2",
+      "title": "DeepSeek reportedly raises $15B days after US restrictions - TechCrunch",
+      "summary": "Just two days after the U.S. ordered federal civilian agencies to remove DeepSeek’s AI technology from their systems over security concerns, the Chinese AI lab has raised about $15 billion, about 100 ...",
+      "highlights": [
+        "Just two days after the U.S. ordered federal civilian agencies to remove DeepSeek’s AI technology from their systems over security concerns, the Chinese AI lab has raised about $15 billion, about 100 billion yuan, one of the biggest funding rounds in the country, Bloomberg reported. The reported funding follows DeepSeek’s investment round in June, when it raised more than $7 billion at a valuation of $50 billion. The company was also reportedly seeking an additional $1.5 billion at a valuation of around $71 billion in July, with plans for a potential IPO in China as early as next year. The Hangzhou-based AI startup is ramping up spending on AI infrastructure and open models for domestic and international markets, even as it faces restrictions in the U.S., the report said. The massive funding round is the latest sign of investors pouring billions into AI companies around the world, including those in China, to compete in the global AI race."
+      ],
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "source": "techcrunch.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-10-22T13:11:13Z"
+    },
+    {
+      "id": "afffbab33a78",
+      "title": "China’s DeepSeek Raises $15 Billion to Challenge Top US AI Labs - Bloomberg.com",
+      "summary": "# China’s DeepSeek Raises $15 Billion to Challenge Top US AI Labs. ## Takeaways by Bloomberg AISubscribe. The Chinese AI pioneer DeepSeek has raised about 100 billion yuan ($15 billion) in its latest ...",
+      "highlights": [
+        "# China’s DeepSeek Raises $15 Billion to Challenge Top US AI Labs. ## Takeaways by Bloomberg AISubscribe. The Chinese AI pioneer DeepSeek has raised about 100 billion yuan ($15 billion) in its latest fundraising round, one of the country’s largest ever and a sign of the startup’s ambitions to compete globally with the likes of Anthropic PBC and OpenAI. The Hangzhou-based firm boosted its financing target at least twice as it talked with investors, from 50 billion yuan to 80 billion yuan before reaching the final tally, according to people familiar with the matter. and WeChat-operator Tencent Holdings Ltd. were among the biggest investors in the round, said the people, asking not to be named as the details aren’t public. ### More From Bloomberg. Ken Griffin Says AI ‘Almost Certainly’ in a Bubble Right Now. MiniMax Erases Post-IPO Gain as AI Model Rivalry Intensifies. AI Boom Has Years to Run Before Risks Bite, Chiavarone Says. Citadel Securities’ Rubner Says AI Trade to Gain After Midterms."
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs",
+      "source": "bloomberg.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-22T02:17:34Z"
+    },
+    {
+      "id": "b590a447b029",
+      "title": "A good company is not always a good investment: VMS Group CEO - CNBC",
+      "summary": "A good company is not always a good investment: VMS Group CEO. VMS Group Chairman and CEO Benny Chong compares AI opportunities in the U.S. and China, highlighting U.S. strengths in computing and appl...",
+      "highlights": [
+        "A good company is not always a good investment: VMS Group CEO. VMS Group Chairman and CEO Benny Chong compares AI opportunities in the U.S. and China, highlighting U.S. strengths in computing and applications and China’s in power, energy and open source. Ahead of potential Anthropic and OpenAI IPOs, he says a good company may not be worth its valuation and notes VMS typically invests three to four years before a listing."
+      ],
+      "url": "https://www.cnbc.com/video/2026/10/22/a-good-company-is-not-always-a-good-investment-vms-group-ceo.html",
+      "source": "cnbc.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-10-22T05:38:13Z"
+    },
+    {
+      "id": "293c5c8e47e7",
+      "title": "宇树王兴兴：具身智能最快明年迎ChatGPT时刻",
+      "summary": "中国机器人制造商宇树科技创始人王兴兴认为，物理人工智能（AI）已出现技术突破的迹象，具身智能最快可能在明年迎来类似ChatGPT问世时的重大突破。但他也警告，",
+      "highlights": [
+        "中国机器人制造商宇树科技创始人王兴兴认为，物理人工智能（AI）已出现技术突破的迹象，具身智能最快可能在明年迎来类似ChatGPT问世时的重大突破"
+      ],
+      "url": "https://www.zaochenbao.com/news/china/202610/2283924.html",
+      "source": "zaochenbao.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-10-22T08:00:00Z"
+    },
+    {
       "id": "224813bfc652",
       "title": "16 reactions | Is AI’s memory bottleneck an opportunity for Micron?\n\n“Memory is a major bottleneck for AI.” Defiance ETFs CIO Sylvia Jablonski highlights Micron’s order backlog, expanding margins, and pricing power amid broader concerns over AI spending. | Charles Payne",
       "summary": "[](\n\nFunding the AI boom—or fueling concern? Tressis Chief Economist Daniel Lacalle explains why circular financing doesn’t worry him, pointing to its use across other industries and arguing that mark...",
@@ -491,6 +574,21 @@
       "category": "投并购",
       "importance": 3,
       "publishedAt": "2026-10-22T02:03:52Z"
+    },
+    {
+      "id": "1f5f52860c0a",
+      "title": "ѫʱ й˾Ը֤سЧ_ƾƵ_֤ȯ֮",
+      "summary": "Ʒ棬ǰȣʱΧAI-AgentforcęMASЭͬƽ̨KnowForce AI֪ʶ̨AI-PaaSGenAI OSƽ̨DevForceEduAgentVisderoԭܡMontoForceȲƷKnowForce֪ʶ̨λTokenɱŻʾ˾ۼƷҵͻ21ңѡIDCйAI 50ǿʵͨԺ崴ʵࡷ\n\n߶ǿӦǣ\n\nҵܼߵγ˶Ӧ [...] ۹гϣصҵӳͬݡ(00268.HK)ڲƽ̨ƽAgent죻΢˼(02013...",
+      "highlights": [
+        "Ʒ棬ǰȣʱΧAI-AgentforcęMASЭͬƽ̨KnowForce AI֪ʶ̨AI-PaaSGenAI OSƽ̨DevForceEduAgentVisderoԭܡMontoForceȲƷKnowForce֪ʶ̨λTokenɱŻʾ˾ۼƷҵͻ21ңѡIDCйAI 50ǿʵͨԺ崴ʵࡷ",
+        "ҵܼߵγ˶Ӧ [...] ۹гϣصҵӳͬݡ(00268.HK)ڲƽ̨ƽAgent죻΢˼(02013.HK)WAI̼Ӫ(06051.HK)ͼ˾(01357.HK)ֱڵƳƳ幦ܣ(02513.HK)AutoGLMն壻(02723.HK)ƳDeepAgentҪ˵ǣ۹ɹ˾ľҵӦԸԹΪ׼ӳϵԵо",
+        "ڸ۹AIӦù˾Уʱ(02556.HK)¶Ϊǰ [...] һ£±ѫָ߱˼ʹùߵĵTokenȴͳһһʽʱŴGPU֮ƸߡͬʱOpenShellȫοܹӦҵڰϵͳʱİȫǣƳAgent Knowledge Foundation֧ҵר֪ʶģͽкѵγ˵ġȨܡ"
+      ],
+      "url": "https://finance.stockstar.com/SS2026102200031262.shtml",
+      "source": "finance.stockstar.com",
+      "category": "芯片硬件",
+      "importance": 3,
+      "publishedAt": "2026-10-22T10:00:00Z"
     },
     {
       "id": "e0e9e841f3f0",
@@ -559,24 +657,37 @@
       "category": "前沿理论",
       "importance": 2,
       "publishedAt": "2026-10-22T10:43:43Z"
+    },
+    {
+      "id": "45a7fce9142d",
+      "title": "λʤ2026ʮҵҵȫ̵_ƾƵ_֤ȯ֮",
+      "summary": "λ˵һɡ,ȫʵִŤŷҵ֮һWalker S2ӵ52ɶ,ȫ״Ȳϵͳʵ724Сʱҵ2025ȫߴλ˽1079̨,14Ԫ,ǵϡµһʿչʵѵ2026Ŀ̨,ȫϵŷԲҵǰС\n\nԪ(AgiBot) [...] Ԫ(AgiBot)\n\nĸ˾ֵ150Ԫ,ƻ2026۹IPO20263ۼͻ10,000̨,ģҵȡԪģGO-1ViLLAܹMoEרҼܹ,WITA OmniΪȫ׿Ϲ汸ģ͡Ƽ1000̨3C,ʤԪ㲿ͬƷҵ,ʽ˫㹲7ϡӹ...",
+      "highlights": [
+        "λ˵һɡ,ȫʵִŤŷҵ֮һWalker S2ӵ52ɶ,ȫ״Ȳϵͳʵ724Сʱҵ2025ȫߴλ˽1079̨,14Ԫ,ǵϡµһʿչʵѵ2026Ŀ̨,ȫϵŷԲҵǰС",
+        "Ԫ(AgiBot) [...] Ԫ(AgiBot)",
+        "ĸ˾ֵ150Ԫ,ƻ2026۹IPO20263ۼͻ10,000̨,ģҵȡԪģGO-1ViLLAܹMoEרҼܹ,WITA OmniΪȫ׿Ϲ汸ģ͡Ƽ1000̨3C,ʤԪ㲿ͬƷҵ,ʽ˫㹲7ϡӹ˾ٽ㡱ֵͻ10Ԫ"
+      ],
+      "url": "https://finance.stockstar.com/IG2026102200029451.shtml",
+      "source": "finance.stockstar.com",
+      "category": "具身智能",
+      "importance": 2,
+      "publishedAt": "2026-10-22T09:00:00Z"
+    },
+    {
+      "id": "d808104a69b0",
+      "title": "Gradient Labs Wins Bronze at Money20/20’s Money Awards 2026 - FinTech Magazine",
+      "summary": "# Gradient Labs Wins Bronze at Money20/20’s Money Awards 2026. CEO and Co-Founder of Gradient Labs, Dimitri Masin, shares what it means for the AI startup to win Bronze at Money20/20 USA’s Money Award...",
+      "highlights": [
+        "# Gradient Labs Wins Bronze at Money20/20’s Money Awards 2026. CEO and Co-Founder of Gradient Labs, Dimitri Masin, shares what it means for the AI startup to win Bronze at Money20/20 USA’s Money Awards 2026. Gradient Labs, the AI company building customer support agents for financial services, has won Bronze in the AI and Automation subcategory of the Banking category at The Money Awards 2026, presented at Money20/20 USA in Las Vegas. Dimitri Masin, CEO and Co-Founder of Gradient Labs, says: “We started Gradient Labs with the belief that banks should run on auto-pilot, with compliant AI agents handling the customer operations that consume most of their energy today. “That belief has paid off: our agents now reach more than 32 million end users, in some of the largest AI deployments in financial services.”. * Gradient Labs won Bronze in the Banking category at The Money Awards 2026."
+      ],
+      "url": "https://fintechmagazine.com/news/gradient-labs-wins-bronze-at-money20-20s-money-awards-2026",
+      "source": "fintechmagazine.com",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-10-22T12:25:43Z"
     }
   ],
   "week": [
-    {
-      "id": "0804bf35c2c7",
-      "title": "Muse能带火国内个人AI智能体吗？ - 21经济网",
-      "summary": "21世纪经济报道\n\n21财经APP 南财号 数字报 越声智投\n\n首页 宏观 公司 金融 证券 全球 观点 汽车 新健康 人文 智库 更多)\n\n大湾区 一带一路 文旅 理财 投资通 21视频 直播 品牌活动\n\n首页 视频 正文\n\n# Muse能带火国内个人AI智能体吗？\n\n###### 2026年10月20日 15:32   钛媒体\n\n头部玩家产品持续更新。10月13日，谷歌正式发布专为处理复杂、长...",
-      "highlights": [
-        "21财经APP 南财号 数字报 越声智投",
-        "首页 宏观 公司 金融 证券 全球 观点 汽车 新健康 人文 智库 更多)",
-        "大湾区 一带一路 文旅 理财 投资通 21视频 直播 品牌活动"
-      ],
-      "url": "https://www.21jingji.com/article/20261020/herald/764f21096c7df79078991503268042a6.html",
-      "source": "21jingji.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-20T07:00:00Z"
-    },
     {
       "id": "29fe3d27e695",
       "title": "DeepSeek“帕累托改进图”刷屏AI圈 - 21经济网",
@@ -620,21 +731,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-10-20T12:00:00Z"
-    },
-    {
-      "id": "de60a2ac8671",
-      "title": "亚马逊叫板英伟达！TorchNeuron落地，AI应用集体沸腾-文轩财经丨智库 产经 指数",
-      "summary": "这种“既自研又采购、既竞争又互联”的双线策略，恰恰说明AI算力市场正在从单极走向多极：英伟达依然是性能标杆，但云厂商需要通过自研芯片压低成本、锁定客户，并在议价中掌握主动。过去缺的那块软件拼图，如今由TorchNeuron补上——这也是市场将其解读为“剑指CUDA护城河”的原因。\n\n对AI应用层而言，这一变化的意义甚至大于芯片参数本身。当训练和推理算力从“英伟达一家定价”走向多云、多芯片可选，模型...",
-      "highlights": [
-        "这种“既自研又采购、既竞争又互联”的双线策略，恰恰说明AI算力市场正在从单极走向多极：英伟达依然是性能标杆，但云厂商需要通过自研芯片压低成本、锁定客户，并在议价中掌握主动",
-        "过去缺的那块软件拼图，如今由TorchNeuron补上——这也是市场将其解读为“剑指CUDA护城河”的原因",
-        "对AI应用层而言，这一变化的意义甚至大于芯片参数本身"
-      ],
-      "url": "https://www.wenxuan.news/live/24894.html",
-      "source": "wenxuan.news",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-20T10:00:00Z"
     },
     {
       "id": "737c78bb8dff",
@@ -753,21 +849,6 @@
       "publishedAt": "2026-10-21T15:32:13Z"
     },
     {
-      "id": "6e1d6098eff6",
-      "title": "抄底资金蜂拥而至，费城半导体终结连跌! AI算力主题从反攻迈向新一轮牛市趋势还差哪些催化剂?",
-      "summary": "信用市场解释了为何强劲订单仍难完全托住股价。CoreWeave股价此前一周大幅下跌约25%，周一虽受高盛升级CoreWeave股票评级至“买入”带来看涨提振，盘中一度上涨约5%，最终仍收跌0.44%，报61.12美元;其2031年到期美元债收益率上周一度突破16%，周一随着市场悲观情绪有所缓和，一度回落至15.13%。此前五年期CDS突破1100基点，反映出极高的信用风险定价;所谓超过60%的隐含...",
-      "highlights": [
-        "信用市场解释了为何强劲订单仍难完全托住股价",
-        "CoreWeave股价此前一周大幅下跌约25%，周一虽受高盛升级CoreWeave股票评级至“买入”带来看涨提振，盘中一度上涨约5%，最终仍收跌0.44%，报61.12美元;其2031年到期美元债收益率上周一度突破16%，周一随着市场悲观情绪有所缓和，一度回落至15.13%",
-        "此前五年期CDS突破1100基点，反映出极高的信用风险定价;所谓超过60%的隐含违约概率，是包含风险溢价、并依赖回收率假设的市场模型结果"
-      ],
-      "url": "https://www.moomoo.com/hans/news/post/1001681822",
-      "source": "moomoo.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-20T08:00:13Z"
-    },
-    {
       "id": "66d945ff63a9",
       "title": "MIT’s SwarmWorld agent society result holds up on consumer GPUs - The Next Web",
       "summary": "In August, researchers at MIT dropped a society of AI agents into a shared world with no instructions. They showed it could invent, build and maintain technology better than the same number of agents ...",
@@ -779,24 +860,50 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-10-20T15:18:03Z"
+    },
+    {
+      "id": "73e373d1c624",
+      "title": "Nvidia CEO Jensen Huang says AI will create more programmers, not replace them - Ynetnews",
+      "summary": "## At GTC Berlin 2026, Nvidia unveils safeguards against rogue AI agents powered by Israeli-developed chips, a humanoid robot and advances in self-driving cars and cancer research, as Huang argues AI ...",
+      "highlights": [
+        "## At GTC Berlin 2026, Nvidia unveils safeguards against rogue AI agents powered by Israeli-developed chips, a humanoid robot and advances in self-driving cars and cancer research, as Huang argues AI will expand opportunities for software developers. Artificial intelligence will not eliminate programmers but will instead increase their numbers, Nvidia founder and CEO Jensen Huang said Wednesday at the company's GTC Berlin 2026 conference, where the technology giant unveiled new safeguards for autonomous AI agents, humanoid robots and advances in self-driving vehicles and cancer treatment. \"More people will write programs using the new tools, and every company will become an AI company.\" He also highlighted the dramatic growth in AI computing power, saying that the processing capabilities of the company's AI chips had increased 1,000-fold since their introduction. The company has become central to the development and operation of increasingly powerful AI systems, positioning it to shape not only how the technology advances but also how it is controlled."
+      ],
+      "url": "https://www.ynetnews.com/tech-and-digital/article/hjjrq4u3zg",
+      "source": "ynetnews.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-21T13:21:03Z"
+    },
+    {
+      "id": "1ea0bf0c96ae",
+      "title": "Nvidia OpenShell gets a hardware stack for Anthropic and OpenAI agents - The Next Web",
+      "summary": "Nvidia has released a design for running AI agents inside fixed limits, from enterprise infrastructure to edge machines. Anthropic, OpenAI, Meta, Microsoft, Google Cloud and AWS are among the companie...",
+      "highlights": [
+        "Nvidia has released a design for running AI agents inside fixed limits, from enterprise infrastructure to edge machines. Anthropic, OpenAI, Meta, Microsoft, Google Cloud and AWS are among the companies working with it, Nvidia said. The design builds on OpenShell, Nvidia’s open source runtime software, which sets a boundary around what an agent can do. OpenShell is also part of the agent safety platform Nvidia launched in September. The software that drives the agents and their tools runs on Vera CPUs. BlueField-4 data processing units run Nvidia Sentry, software that watches agent behaviour from outside the main system. If an agent tries to move outside its software boundary, Sentry quarantines and stops it in milliseconds, Nvidia said. Agents from Anthropic, Cohere, Google, Meta, OpenAI, Perplexity, Reflection and SpaceX Super Intelligence can run on OpenShell infrastructure, Nvidia said. > “With the OpenShell Reference Architecture, agents can think on Rubin, act on Vera and be governed on BlueField,” Huang said."
+      ],
+      "url": "https://thenextweb.com/news/nvidia-openshell-ai-agents-safety-anthropic-openai",
+      "source": "thenextweb.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-21T11:21:45Z"
+    },
+    {
+      "id": "cb43de0a32f6",
+      "title": "Meta(META.US)财报盘后来袭：AI交易的“关键检验”，是定心丸还是催命符？-手机金融界",
+      "summary": "智通财经  2026-10-21 20:38:43\n\n10秒看完全文要点\n\n看要点\n\nMeta(META.US)即将发布最新一季财报之际，投资者对人工智能(AI)行情的前景愈发焦虑。而这份财报既有可能安抚部分紧张情绪，也有可能进一步放大市场恐慌。\n\n“Meta若交出亮眼财报，将提振市场信心，并有望通过缓解外界对整个行业需求的担忧来重新激活AI行情，”持有Meta股票的Runnymede Capit...",
+      "highlights": [
+        "智通财经  2026-10-21 20:38:43",
+        "Meta(META.US)即将发布最新一季财报之际，投资者对人工智能(AI)行情的前景愈发焦虑",
+        "而这份财报既有可能安抚部分紧张情绪，也有可能进一步放大市场恐慌"
+      ],
+      "url": "https://m.jrj.com.cn/madapter/stock/2026/10/21203858813557.shtml",
+      "source": "m.jrj.com.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-21T12:00:00Z"
     }
   ],
   "month": [
-    {
-      "id": "0804bf35c2c7",
-      "title": "Muse能带火国内个人AI智能体吗？ - 21经济网",
-      "summary": "21世纪经济报道\n\n21财经APP 南财号 数字报 越声智投\n\n首页 宏观 公司 金融 证券 全球 观点 汽车 新健康 人文 智库 更多)\n\n大湾区 一带一路 文旅 理财 投资通 21视频 直播 品牌活动\n\n首页 视频 正文\n\n# Muse能带火国内个人AI智能体吗？\n\n###### 2026年10月20日 15:32   钛媒体\n\n头部玩家产品持续更新。10月13日，谷歌正式发布专为处理复杂、长...",
-      "highlights": [
-        "21财经APP 南财号 数字报 越声智投",
-        "首页 宏观 公司 金融 证券 全球 观点 汽车 新健康 人文 智库 更多)",
-        "大湾区 一带一路 文旅 理财 投资通 21视频 直播 品牌活动"
-      ],
-      "url": "https://www.21jingji.com/article/20261020/herald/764f21096c7df79078991503268042a6.html",
-      "source": "21jingji.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-20T07:00:00Z"
-    },
     {
       "id": "29fe3d27e695",
       "title": "DeepSeek“帕累托改进图”刷屏AI圈 - 21经济网",
@@ -840,21 +947,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-10-20T12:00:00Z"
-    },
-    {
-      "id": "de60a2ac8671",
-      "title": "亚马逊叫板英伟达！TorchNeuron落地，AI应用集体沸腾-文轩财经丨智库 产经 指数",
-      "summary": "这种“既自研又采购、既竞争又互联”的双线策略，恰恰说明AI算力市场正在从单极走向多极：英伟达依然是性能标杆，但云厂商需要通过自研芯片压低成本、锁定客户，并在议价中掌握主动。过去缺的那块软件拼图，如今由TorchNeuron补上——这也是市场将其解读为“剑指CUDA护城河”的原因。\n\n对AI应用层而言，这一变化的意义甚至大于芯片参数本身。当训练和推理算力从“英伟达一家定价”走向多云、多芯片可选，模型...",
-      "highlights": [
-        "这种“既自研又采购、既竞争又互联”的双线策略，恰恰说明AI算力市场正在从单极走向多极：英伟达依然是性能标杆，但云厂商需要通过自研芯片压低成本、锁定客户，并在议价中掌握主动",
-        "过去缺的那块软件拼图，如今由TorchNeuron补上——这也是市场将其解读为“剑指CUDA护城河”的原因",
-        "对AI应用层而言，这一变化的意义甚至大于芯片参数本身"
-      ],
-      "url": "https://www.wenxuan.news/live/24894.html",
-      "source": "wenxuan.news",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-20T10:00:00Z"
     },
     {
       "id": "737c78bb8dff",
@@ -930,6 +1022,34 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-10-21T10:41:15Z"
+    },
+    {
+      "id": "cf03fdd3462a",
+      "title": "‘Doing What It Takes’ in AI. OpenAI, Meta & TSMC. ARD #185",
+      "summary": "Why it matters: ChatGPT is already at about 1.2 billion weekly users, and less than 5 percent of that is subscription based. So a lot of the rest is going to be ad driven, the way Google and Meta were...",
+      "highlights": [
+        "Why it matters: ChatGPT is already at about 1.2 billion weekly users, and less than 5 percent of that is subscription based. So a lot of the rest is going to be ad driven, the way Google and Meta were built. Slow and steady progress, shown ahead of Anthropic’s pre-Thanksgiving mega AI IPO, as I discussed in AI-RTZ #1228. The competition between the two continues in earnest, and both are doing what it takes. [...] AI-RTZ #1240, ‘Microsoft’s Copilot evolving to ‘a Costco of AI’’",
+        "AI-RTZ #1238, ‘Meta’s ‘Wonder Full’ Muse Joins the AI Frontier’",
+        "AI-RTZ #1233, ‘Nvidia’s Open Source ‘AI Factory’ Push vs China’"
+      ],
+      "url": "https://michaelparekh.substack.com/p/doing-what-it-takes-in-ai-openai",
+      "source": "michaelparekh.substack.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-21T10:41:15Z"
+    },
+    {
+      "id": "ce03cd05c788",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business | TechCrunch",
+      "summary": "Orchestra creates AI agents that help biotech companies manage the minutiae of drug discovery operations, from tracking finances to resolving scheduling issues with clinical trials. [...] The acquisit...",
+      "highlights": [
+        "Orchestra creates AI agents that help biotech companies manage the minutiae of drug discovery operations, from tracking finances to resolving scheduling issues with clinical trials. [...] The acquisition is a classic example of how the biggest AI labs (namely OpenAI and Anthropic) are building ever more software for the biggest industries, like pharma. In the startup world, there is an ongoing fear that at any moment, the labs will launch new features and become competitors. In this case, Orchestra is getting absorbed, rather than stomped out. [...] OpenAI says it’s adding Orchestra’s team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results. OpenAI has already won some big names as customers for Rosalind, including, it says, Moderna⁠ and Novo Nordisk⁠."
+      ],
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%E2%81%A0-to-beef-up-its-biotech-business",
+      "source": "techcrunch.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-20T20:35:10Z"
     }
   ]
 }
