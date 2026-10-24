@@ -1,6 +1,446 @@
 {
-  "updatedAt": "2026-10-23T20:42:13Z",
+  "updatedAt": "2026-10-24T02:06:53Z",
   "latest": [
+    {
+      "id": "db3a144efa7f",
+      "title": "博通为OpenAI定制AI芯片安排超500亿美元融资，ASIC定制算力需求加速扩围",
+      "summary": "近期，博通被披露正为OpenAI定制AI芯片安排超过500亿美元融资，谈判尚处早期；此前Anthropic与博通最高420亿美元融资安排也已披露。多笔ASIC融资、部署、IP与设计服务",
+      "highlights": [
+        "近期，博通被披露正为OpenAI定制AI芯片安排超过500亿美元融资，谈判尚处早期；此前Anthropic与博通最高420亿美元融资安排也已披露",
+        "多笔ASIC融资、部署、IP与设计服务"
+      ],
+      "url": "https://www.huxiu.com/article/4899650.html",
+      "source": "huxiu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-22T10:00:00Z"
+    },
+    {
+      "id": "8ecc62f169b4",
+      "title": "沃尔玛推出新工具支持AI智能体代理购物 - 电商派",
+      "summary": "电商派\n\n# 沃尔玛推出新工具支持AI智能体代理购物\n\n2026-10-22 17:03\n\n10月22日消息，沃尔玛正式推出自有智能体网关，用于处理交易，并上线多项面向使用AI Agent的消费者的新功能，允许获准接入的Agent为用户搜索商品、完成购买。这套技术将同时支持沃尔玛及其折扣仓储门店山姆会员店的AI购物。此前，沃尔玛已经宣布和Meta的Muse达成合作，同时接入了ChatGPT、Gem...",
+      "highlights": [
+        "# 沃尔玛推出新工具支持AI智能体代理购物",
+        "2026-10-22 17:03",
+        "10月22日消息，沃尔玛正式推出自有智能体网关，用于处理交易，并上线多项面向使用AI Agent的消费者的新功能，允许获准接入的Agent为用户搜索商品、完成购买"
+      ],
+      "url": "https://www.pai.com.cn/p/01m5hd961jnq68s1xypjb3vc39",
+      "source": "pai.com.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-22T09:00:00Z"
+    },
+    {
+      "id": "959c6f42f824",
+      "title": "雷军投的机器人芯片公司，年内融资超25亿 - 智东西",
+      "summary": "产品方面，辉羲智能光至R1芯片已形成R1 MAX与R1 PRO两档家族：R1 MAX提供500TOPS算力、已量产交付多家具身智能客户；R1 PRO是面向具身智能原生设计的大小脑融合SoC，将CPU、NPU、GPU及实时接口集成于单颗芯片，片内完成感知、推理、决策与运动控制的闭环，算力375TOPS。\n\n量产进展上，2025年其搭载光至R1芯片的计算平台应用于智元精灵G2机器人；2026年6月，多...",
+      "highlights": [
+        "产品方面，辉羲智能光至R1芯片已形成R1 MAX与R1 PRO两档家族：R1 MAX提供500TOPS算力、已量产交付多家具身智能客户；R1 PRO是面向具身智能原生设计的大小脑融合SoC，将CPU、NPU、GPU及实时接口集成于单颗芯片，片内完成感知、推理、决策与运动控制的闭环，算力375TOPS",
+        "量产进展上，2025年其搭载光至R1芯片的计算平台应用于智元精灵G2机器人；2026年6月，多台搭载光至R1的智元精灵G2机器人连续6天产线直播作业，累计完成作业17625次，任务成功率达99.99%",
+        "目前，该公司产品应用覆盖工业制造、智慧零售、商用餐饮、无人物流等场景，Huixi Embodied系列出货量持续增长"
+      ],
+      "url": "https://m.zhidx.com/p/603423.html",
+      "source": "m.zhidx.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-22T03:00:00Z"
+    },
+    {
+      "id": "4dd5fce186c5",
+      "title": "NVIDIA Launches Minerva for End-to-End AI Factory Observability - Mezha.net",
+      "summary": "Gemini app adds Google Maps data to Personal Intelligence as Argon is set to replace Deep Think. General Staff reports 146 combat engagements as of 22:00 on October 22, 2026. Finland will seek funding...",
+      "highlights": [
+        "Gemini app adds Google Maps data to Personal Intelligence as Argon is set to replace Deep Think. General Staff reports 146 combat engagements as of 22:00 on October 22, 2026. Finland will seek funding to build shelters in Ukraine. Zelensky expects briefing from Witkoff after meeting with Putin; Vance says both sides are ready for talks. Zelensky will travel to the G20 summit in Florida for talks with Trump and Putin if invited. The platform uses those signals to build a dynamic knowledge graph of the infrastructure – including GPUs, SuperNICs, switches and cables – and the jobs running on it. This context can help operators trace a slow training job to the component affecting it, even in a factory with hundreds of thousands of GPUs. Minerva analyzes billions of data points per hour with supervised and unsupervised machine learning. By correlating workload and infrastructure issues and using agentic AI capabilities, Minerva is designed to simplify AI factory operations."
+      ],
+      "url": "https://mezha.net/eng/news/mezha-af6b159eb6ea2f663c90fc62_nvidia_launches_minerva/",
+      "source": "mezha.net",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-22T15:08:02Z"
+    },
+    {
+      "id": "e19b8afb6f81",
+      "title": "科大讯飞发布新一代国产大模型，刘庆峰最新发声",
+      "summary": "与主要提供信息查询、文档生成等功能的传统AI办公助手相比，WinWork更加侧重AI在企业实际业务流程中的任务执行与协作，推动AI从个人办公辅助向企业业务流程延伸。\n\n在部署方面，WinWork支持全栈国产化及私有化部署，并提供操作审计、流程追溯等功能，以满足企业对数据安全（885942）和业务管理的需求。\n\n除了AI办公，科大讯飞（002230）还集中展示了大模型在教育、医疗、法律等领域的应用进...",
+      "highlights": [
+        "与主要提供信息查询、文档生成等功能的传统AI办公助手相比，WinWork更加侧重AI在企业实际业务流程中的任务执行与协作，推动AI从个人办公辅助向企业业务流程延伸",
+        "在部署方面，WinWork支持全栈国产化及私有化部署，并提供操作审计、流程追溯等功能，以满足企业对数据安全（885942）和业务管理的需求",
+        "除了AI办公，科大讯飞（002230）还集中展示了大模型在教育、医疗、法律等领域的应用进展"
+      ],
+      "url": "https://m.10jqka.com.cn/20261023/c680997972.shtml",
+      "source": "m.10jqka.com.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-22T21:40:49Z"
+    },
+    {
+      "id": "8b4fdb58f819",
+      "title": "个人智能体扎堆上线，没几个App 愿意开门-虎嗅网",
+      "summary": "个人智能体扎堆上线，没几个App 愿意开门\n\n2026-10-22 14:41\n\n# 个人智能体扎堆上线，没几个App 愿意开门\n\n本文来自微信公众号： 果壳 ，作者：本一，编辑：马文，原文标题：《个人智能体扎堆上线，没几个 App 愿意开门》\n\n美国时间10月21日，Anthropic发布了一款新产品Claude Duet。它是一个独立的手机App，能替你盯着邮箱和日历，催收没付的账单，还能在你...",
+      "highlights": [
+        "个人智能体扎堆上线，没几个App 愿意开门",
+        "2026-10-22 14:41",
+        "# 个人智能体扎堆上线，没几个App 愿意开门"
+      ],
+      "url": "https://www.huxiu.com/article/4899549.html",
+      "source": "huxiu.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-22T06:41:30Z"
+    },
+    {
+      "id": "514989cb8452",
+      "title": "具身智能最好变现机会：全力卖给大模型公司-36氪",
+      "summary": "账号设置我的关注我的收藏申请的项目退出登录\n\n 启动Power on\n 36Kr研究院\n\n  36Kr创新咨询\n\n  企业服务\n 核心服务\n\n  城市之窗\n\n  政府服务\n 创投发布\n\n  LP源计划\n\n  VClub\n\n  VClub投资机构库\n\n  投资机构职位推介\n\n  投资人认证\n\n  投资人服务\n 项目推荐\n\n  36氪Pro\n\n  创投氪堂\n\n  企业入驻\n\n  创业者服务\n 创投平台...",
+      "highlights": [
+        "账号设置我的关注我的收藏申请的项目退出登录",
+        "# 具身智能最好变现机会：全力卖给大模型公司",
+        "车智·2026年10月23日 09:23"
+      ],
+      "url": "https://www.36kr.com/p/4037026775438468",
+      "source": "36kr.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-23T01:59:46Z"
+    },
+    {
+      "id": "7f4086c8f297",
+      "title": "深演智能牵手华为云：企业AI Agent走向营销决策深水区 - 潮起网",
+      "summary": "所以，云厂商愿意用“独家”去绑定AI智能体垂直领域的头部玩家。唯有承接智能体的运行与调度，才能站在新生意的入口上。\n\n长期来看，AI产业的核心价值逐步从“算力资源”转向“业务结果”。类似电力、互联网，这符合科技发展的规律。\n\n深演智能与华为云的合作，就是这套新定价逻辑下的产物。\n\n万亿资本开支，期待收入兑现\n\n过去三年，全球AI行情的定价权一直在硬件一端。\n\n巨头们每年数千亿美元的资本开支砸向算力...",
+      "highlights": [
+        "所以，云厂商愿意用“独家”去绑定AI智能体垂直领域的头部玩家",
+        "唯有承接智能体的运行与调度，才能站在新生意的入口上",
+        "长期来看，AI产业的核心价值逐步从“算力资源”转向“业务结果”"
+      ],
+      "url": "https://www.ichaoqi.com/zhuanlan/2026/1023/88996.html",
+      "source": "ichaoqi.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-23T09:40:21Z"
+    },
+    {
+      "id": "04cf802ed86b",
+      "title": "V4全系列模型上线后，DeepSeek Harness开发者预览版开放测试",
+      "summary": "DeepSeek一直都在押注AI智能体（Agent）能力。刚刚发布的DeepSeek-V4-Pro正式版，再度增强了Agent能力。根据DeepSeek官方公布的评测结果，DeepSeek V4 Pro正式版模型在HLE、Terminal Bench、Cybergym、DeepSWE等Agent能力超过Anthropic的Claude Opus 4.8，逼近Anthropic 6月发布的模型Fab...",
+      "highlights": [
+        "DeepSeek一直都在押注AI智能体（Agent）能力",
+        "刚刚发布的DeepSeek-V4-Pro正式版，再度增强了Agent能力",
+        "根据DeepSeek官方公布的评测结果，DeepSeek V4 Pro正式版模型在HLE、Terminal Bench、Cybergym、DeepSWE等Agent能力超过Anthropic的Claude Opus 4.8，逼近Anthropic 6月发布的模型Fable 5，甚至有些榜单实现反超"
+      ],
+      "url": "https://www.cls.cn/detail/2453889",
+      "source": "cls.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-22T08:00:00Z"
+    },
+    {
+      "id": "c4c762c6b747",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO - TechCrunch",
+      "summary": "# OpenAI working on new $30B raise at $1.25T valuation ahead of IPO. The AI lab is working on raising up to $30 billion at $1.25 trillion pre-money valuation in a round led by Coatue and investors in ...",
+      "highlights": [
+        "# OpenAI working on new $30B raise at $1.25T valuation ahead of IPO. The AI lab is working on raising up to $30 billion at $1.25 trillion pre-money valuation in a round led by Coatue and investors in UAE, sources told CNBC. This follows a similar report by Bloomberg a month ago which said the AI lab was working on raising $30 billion at a $1.4 trillion valuation. CNBC reports that the UAE funding could also be coupled with a deal to secure more computing capacity for OpenAI from the UAE, too. Should OpenAI command a valuation of more than $1 trillion valuation with this round, it would break records as the most valued private company ever. OpenAI filed confidential paperwork for an IPO in June, after its last raise in March valued the ChatGPT maker at $852 billion post-money. Anthropic raised $65 billion at a $965 billion valuation in May in what many believed at the time would be its last big round before an IPO."
+      ],
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "techcrunch.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-22T22:08:24Z"
+    },
+    {
+      "id": "e41f016b7c35",
+      "title": "全球具身智能产业发展分析报告2026-36氪",
+      "summary": "需说明的是，本报告聚焦机器人形态具身智能，覆盖人形及四足、协作臂/机械臂、轮式/AMR、特种机器人等非人形广义具身应用，未将自动驾驶汽车、无人机、无人船艇等自主移动无人系统纳入分析范围。\n\n## 全球产业发展态势：\n\n 1.产业迈入商业化淘汰赛，规模与交付仍存落差\n\n2026年市场进入“量产元年”与场景商业化拐点。回溯2025年，全球人形机器人出货量约2.5万台、中国厂商占比约52%，全球人形/具...",
+      "highlights": [
+        "需说明的是，本报告聚焦机器人形态具身智能，覆盖人形及四足、协作臂/机械臂、轮式/AMR、特种机器人等非人形广义具身应用，未将自动驾驶汽车、无人机、无人船艇等自主移动无人系统纳入分析范围",
+        "## 全球产业发展态势：",
+        "1.产业迈入商业化淘汰赛，规模与交付仍存落差"
+      ],
+      "url": "http://www.36kr.com/p/4037944015853440",
+      "source": "36kr.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-23T10:00:26Z"
+    },
+    {
+      "id": "0e9e6989fa8c",
+      "title": "美股低开，三大电信股齐跌4%；国办：减缓人工智能应用就业替代影响；花旗证券中国获批设立；三安光电实控人林秀成被批捕丨每经晚参 | 每日经济新闻",
+      "summary": "2.10月23日，MiniMax开源多模态大模型MiniMax M3.1 Flash。同日，摩尔线程旗舰级AI训推一体智算卡MTT S5000和自研MUSA软件栈完成对该模型的适配。\n\n3.Kimi（月之暗面）即将发布最新大模型K3.1，并发布相关预热视频，目前AI行业不少开发者已经关注到相关更新。（澎湃新闻）\n\n4.10月22日，宇树科技人形机器人在进行功夫动作演示，尝试侧空翻落地时失去平衡，侧...",
+      "highlights": [
+        "2.10月23日，MiniMax开源多模态大模型MiniMax M3.1 Flash",
+        "同日，摩尔线程旗舰级AI训推一体智算卡MTT S5000和自研MUSA软件栈完成对该模型的适配",
+        "3.Kimi（月之暗面）即将发布最新大模型K3.1，并发布相关预热视频，目前AI行业不少开发者已经关注到相关更新"
+      ],
+      "url": "https://www.mrjjxw.com/articles/2026-10-23/4615616.html",
+      "source": "mrjjxw.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-23T13:00:00Z"
+    },
+    {
+      "id": "8dc0af10a245",
+      "title": "一週熱榜精選：AI融資擔憂再度引爆美股！全球資金重選避險資產",
+      "summary": "根據《華爾街日報》看到的IPO招股書草案，Anthropic今年上半年實現約163億美元收入，去年同期僅11億美元；同期計算和基礎設施支出接近90億美元。第三季度收入進一步達到約168億美元，環比增長接近50%，但增速較上半年有所放緩。\n\n真正讓投資者關注的是資本需求。Anthropic已經承擔約4500億美元、期限七至十年的雲計算合同，其中包括谷歌雲、AWS和微軟的大額採購義務。加上其他芯片和數...",
+      "highlights": [
+        "根據《華爾街日報》看到的IPO招股書草案，Anthropic今年上半年實現約163億美元收入，去年同期僅11億美元；同期計算和基礎設施支出接近90億美元",
+        "第三季度收入進一步達到約168億美元，環比增長接近50%，但增速較上半年有所放緩",
+        "真正讓投資者關注的是資本需求"
+      ],
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/GlobalArticle?ContentId=C26102300957&Category=all",
+      "source": "capitalfutures.com.tw",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-23T13:00:00Z"
+    },
+    {
+      "id": "89d5cb0b9e1e",
+      "title": "链研社｜AI First🔶💧 on X: \"Anthropic 计划最快 11 月中旬上市。投行鼓吹的2万亿市值吹了，市场正在讨论给予它约 1.5 万亿美元的 IPO 估值，比今年 5 月的最后一次9650亿美元融资估值高约55% FTX：2021 年投资 5 亿美元，最初持股 13.56%，到 2024 年稀释至 7.84%。因破产清算卖光股份，最终回收约 13 亿美元，实际赚了 8 亿美元。 假如一直持有，按当年 7.84% 的比例(仅为估算，实际融资还会稀释)和如今潜在的 1.5 万亿美元 IPO 估值计算，股份理论上价值约 1176 亿美元，有多夸张，光这一笔投资能赚出一个币… / X",
+      "summary": "Views\n\n  1 [...] Log inSign up\n\n# 链研社｜AI First🔶💧 on X: \"Anthropic 计划最快 11 月中旬上市。投行鼓吹的2万亿市值吹了，市场正在讨论给予它约 1.5 万亿美元的 IPO 估值，比今年 5 月的最后一次9650亿美元融资估值高约55% FTX：2021 年投资 5 亿美元，最初持股 13.56%，到 2024 年稀释至 7.84%。因...",
+      "highlights": [
+        "1 [...] Log inSign up",
+        "# 链研社｜AI First🔶💧 on X: \"Anthropic 计划最快 11 月中旬上市",
+        "投行鼓吹的2万亿市值吹了，市场正在讨论给予它约 1.5 万亿美元的 IPO 估值，比今年 5 月的最后一次9650亿美元融资估值高约55% FTX：2021 年投资 5 亿美元，最初持股 13.56%，到 2024 年稀释至 7.84%"
+      ],
+      "url": "https://x.com/lianyanshe/status/2113543026744455480",
+      "source": "x.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-23T08:08:19Z"
+    },
+    {
+      "id": "e1b76674c61f",
+      "title": "技术出口目录修订：AI出海企业该做的五件事 | 北京金诚同达律师事务所_JT&N",
+      "summary": "这一规定值得正在开展跨境融资、并购和股权重组的科技企业特别关注。\n\n传统技术出口审查通常容易集中在技术许可、技术转让或实际交付行为。\n\n但对于涉及核心技术的企业，交易安排还可能改变相关技术的所有权结构或实际控制关系。\n\n例如，境外投资者收购持有关键人工智能技术的境内公司，或者集团通过跨境重组调整相关技术资产的持有和控制安排，都可能需要进一步分析公告所规定的登记条件。\n\n当然，不能据此推导出所有外资...",
+      "highlights": [
+        "这一规定值得正在开展跨境融资、并购和股权重组的科技企业特别关注",
+        "传统技术出口审查通常容易集中在技术许可、技术转让或实际交付行为",
+        "但对于涉及核心技术的企业，交易安排还可能改变相关技术的所有权结构或实际控制关系"
+      ],
+      "url": "https://www.jtn.com/CN/booksdetail.aspx?type=06001&keyid=00000000000000010280&PageUrl=majorbook&Lan=CN",
+      "source": "jtn.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-23T09:00:00Z"
+    },
+    {
+      "id": "339de5c01f5b",
+      "title": "PHP code flaw begins the cyberpocalypse — sort of",
+      "summary": "+ Nvidia, Anthropic, Google and others lobbied on AI chip export restriction bills in Q3, per new disclosures.\n OpenAI, Anthropic and Nvidia each set record lobbying quarters in Q3 2026, spending a co...",
+      "highlights": [
+        "+ Nvidia, Anthropic, Google and others lobbied on AI chip export restriction bills in Q3, per new disclosures.",
+        "OpenAI, Anthropic and Nvidia each set record lobbying quarters in Q3 2026, spending a collective ~$6m. [...] + Ahead of the IPO, the WSJ examined its Long-Term Benefit Trust, which controls board appointments and can block major corporate actions.",
+        "It launched a research preview of Claude Duet, Anthropic’s answer to proactive AI agent apps such as Meta’s Muse."
+      ],
+      "url": "https://www.transformernews.ai/p/php-flaw-cyberpocalypse-is-here-sort-of",
+      "source": "transformernews.ai",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-23T13:00:00Z"
+    },
+    {
+      "id": "9ced8c595995",
+      "title": "The False Promise of Safe AI - The Atlantic",
+      "summary": "# The Myth of Safe AI. Three months prior to the launch of ChatGPT, OpenAI published what would prove to be a prescient blog outlining the firm’s approach to ensuring that its AI models would be safe ...",
+      "highlights": [
+        "# The Myth of Safe AI. Three months prior to the launch of ChatGPT, OpenAI published what would prove to be a prescient blog outlining the firm’s approach to ensuring that its AI models would be safe and beneficent. This goal, known as “alignment”—as in, aligning AI with human values—is nebulous, grand, and perhaps the AI industry’s most foundational promise. The notion is right there in OpenAI’s mission statement to ensure AI “benefits all of humanity” and listed as one of Anthropic’s “primary” goals. Yet even in the summer of 2022, OpenAI was admitting a sort of defeat: “There is currently no known indefinitely scalable solution to the alignment problem,” three of its researchers wrote in that same blog post, adding that developing one “is likely very difficult.”. If the goal of keeping AI beneficial to mankind sounds rather vague, it is. Four years later, the alignment problem remains unsolved, and for that matter, there isn’t consensus about what the problem even is."
+      ],
+      "url": "https://www.theatlantic.com/technology/2026/10/false-promise-of-safe-ai/689114/",
+      "source": "theatlantic.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-22T19:26:10Z"
+    },
+    {
+      "id": "2ca8921c8a79",
+      "title": "宇树涨停 王兴兴称通用大模型可能“击穿”物理AI_公司频道_财新网",
+      "summary": "在10月22日的宇树合作伙伴生态大会上，王兴兴提到，通用的AI大模型已经有苗头“击穿”物理AI。王兴兴展示了OpenAI最近发布的GPT-6 Astra大模型操控机器人的视频，在没有经过任何提前训练的前提下，GPT-6 Astra直接“上手”操控机器人画画，机器人不仅能用笔作水彩画，还能在换颜料的时候，在桌上的水碗中自主清洗笔刷。\n\n推荐进入财新数据库，可随时查阅公司股价走势、结构人员变化等投资信...",
+      "highlights": [
+        "在10月22日的宇树合作伙伴生态大会上，王兴兴提到，通用的AI大模型已经有苗头“击穿”物理AI",
+        "王兴兴展示了OpenAI最近发布的GPT-6 Astra大模型操控机器人的视频，在没有经过任何提前训练的前提下，GPT-6 Astra直接“上手”操控机器人画画，机器人不仅能用笔作水彩画，还能在换颜料的时候，在桌上的水碗中自主清洗笔刷",
+        "推荐进入财新数据库，可随时查阅公司股价走势、结构人员变化等投资信息"
+      ],
+      "url": "https://companies.caixin.com/2026-10-23/102496638.html",
+      "source": "companies.caixin.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-23T13:00:00Z"
+    },
+    {
+      "id": "99f9946b4732",
+      "title": "一条以“尺度”划出的赛道：纳川资本与苏州纳米的十年BVC实验|上海证券报",
+      "summary": "“纳川在2025年投资时，我们还没有规模化订单。当时，纳川投资负责人看到公司的磁悬浮平面电机专利，通过检索联系上了我们。”佛山市增广智能科技有限公司相关负责人回忆道。\n\n事实证明，纳川的判断是准确的。今年以来，增广智能已实现数千万元收入，并布局20多条产线，预计全年实现近2亿元收入。\n\n对于正在建设产业科技创新高地的苏州而言，一支贴着产业链做投资的机构，其意义不亚于一个重大项目的落地。项目会走，资...",
+      "highlights": [
+        "“纳川在2025年投资时，我们还没有规模化订单",
+        "当时，纳川投资负责人看到公司的磁悬浮平面电机专利，通过检索联系上了我们",
+        "”佛山市增广智能科技有限公司相关负责人回忆道"
+      ],
+      "url": "https://paper.cnstock.com/html/2026-10/24/content_2280906.htm",
+      "source": "paper.cnstock.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-23T19:00:00Z"
+    },
+    {
+      "id": "c80a6608f1d2",
+      "title": "DeepSeek reportedly raises $15B days after US restrictions - TechCrunch",
+      "summary": "Just two days after the U.S. ordered federal civilian agencies to remove DeepSeek’s AI technology from their systems over security concerns, the Chinese AI lab has raised about $15 billion, about 100 ...",
+      "highlights": [
+        "Just two days after the U.S. ordered federal civilian agencies to remove DeepSeek’s AI technology from their systems over security concerns, the Chinese AI lab has raised about $15 billion, about 100 billion yuan, one of the biggest funding rounds in the country, Bloomberg reported. The reported funding follows DeepSeek’s investment round in June, when it raised more than $7 billion at a valuation of $50 billion. The company was also reportedly seeking an additional $1.5 billion at a valuation of around $71 billion in July, with plans for a potential IPO in China as early as next year. The Hangzhou-based AI startup is ramping up spending on AI infrastructure and open models for domestic and international markets, even as it faces restrictions in the U.S., the report said. The massive funding round is the latest sign of investors pouring billions into AI companies around the world, including those in China, to compete in the global AI race."
+      ],
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "source": "techcrunch.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-10-22T13:11:13Z"
+    },
+    {
+      "id": "26ac0304255e",
+      "title": "行业洞见|CBInsights：2026年第三季度全球数字医疗投融资季报丨AgeClub",
+      "summary": "2026-09-25\n\n行业洞见｜HIMSS：全球医疗行业人工智能实施现状——从试点探索走向规模化应用\n\n2026-08-05\n\n1.1亿美元融资，Pearl Health如何用AI重塑美国医保价值 [...] logo\n\nsearch搜索\n\n登录\n\n内容加载中\n\n# 行业洞见|CBInsights：2026年第三季度全球数字医疗投融资季报\n\nBoom Health\n\n2026-10-23\n\n交易...",
+      "highlights": [
+        "行业洞见｜HIMSS：全球医疗行业人工智能实施现状——从试点探索走向规模化应用",
+        "1.1亿美元融资，Pearl Health如何用AI重塑美国医保价值 [...] logo",
+        "# 行业洞见|CBInsights：2026年第三季度全球数字医疗投融资季报"
+      ],
+      "url": "https://www.ageclub.net/article-detail/10953",
+      "source": "ageclub.net",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-23T01:00:00Z"
+    },
+    {
+      "id": "ab9c383e53ea",
+      "title": "科大讯飞发布新一代国产大模型，刘庆峰最新发声_任务_应用_WinWork",
+      "summary": "除了AI办公，科大讯飞还集中展示了大模型在教育、医疗、法律等领域的应用进展。\n\n在教育领域，推出面向教师的AI智能工作台“讯飞星光”，将备课、教研、家校沟通等功能整合至同一平台；在医疗领域，进一步拓展医学影像辅助诊断、医学报告解读及健康管理等应用；在法律领域，则探索利用大模型完成案情梳理、证据审查、合同审核等工作。\n\n与此同时，大会还发布了星火语音基座大模型SparkAudio 1.0、星火具身多...",
+      "highlights": [
+        "除了AI办公，科大讯飞还集中展示了大模型在教育、医疗、法律等领域的应用进展",
+        "在教育领域，推出面向教师的AI智能工作台“讯飞星光”，将备课、教研、家校沟通等功能整合至同一平台；在医疗领域，进一步拓展医学影像辅助诊断、医学报告解读及健康管理等应用；在法律领域，则探索利用大模型完成案情梳理、证据审查、合同审核等工作",
+        "与此同时，大会还发布了星火语音基座大模型SparkAudio 1.0、星火具身多模交互技术及相关产品，进一步拓展AI在智能终端、机器人等领域的应用"
+      ],
+      "url": "https://www.sohu.com/a/1091427225_465270?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "sohu.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-23T05:38:00Z"
+    },
+    {
+      "id": "317539b9b736",
+      "title": "Instagram",
+      "summary": "igsoka\n\n小米自研芯片版图迎来全面爆发！全新智能手机AI芯片XRING O3预计采用3纳米工艺，集成CPU、GPU与NPU，AI算力高达200 TOPS，将搭载于新款折叠屏手机小米18 Fold。此外，小米还计划在2027年上半年商用AI加速器XRING O100及自研纯电汽车智驾芯片XRING D100，全面进军AI数据处理与自动驾驶核心芯片赛道。 #小米 #自研芯片 #半导体 #人工智能...",
+      "highlights": [
+        "小米自研芯片版图迎来全面爆发",
+        "全新智能手机AI芯片XRING O3预计采用3纳米工艺，集成CPU、GPU与NPU，AI算力高达200 TOPS，将搭载于新款折叠屏手机小米18 Fold",
+        "此外，小米还计划在2027年上半年商用AI加速器XRING O100及自研纯电汽车智驾芯片XRING D100，全面进军AI数据处理与自动驾驶核心芯片赛道"
+      ],
+      "url": "https://www.instagram.com/p/DeyFKxhhus0",
+      "source": "instagram.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-23T10:35:32Z"
+    },
+    {
+      "id": "1e23e2323625",
+      "title": "ASIC大单接连落地，芯片供应商要换打法了？",
+      "summary": "9月下旬发布的一份产业研究甚至预计，2027年高端云端AI加速器市场中，ASIC出货颗数将超过GPU。GPU的大客户仍在采购现有产品，却同时加大对自研芯片和定制算力的投入。",
+      "highlights": [
+        "9月下旬发布的一份产业研究甚至预计，2027年高端云端AI加速器市场中，ASIC出货颗数将超过GPU",
+        "GPU的大客户仍在采购现有产品，却同时加大对自研芯片和定制算力的投入"
+      ],
+      "url": "https://m.sohu.com/a/1091533030_116132?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-23T02:00:00Z"
+    },
+    {
+      "id": "cf1fcae2e98f",
+      "title": "這組數字傳遞的結構性判斷是：AI算力供給正從「Nvidia 單一供給」走向「GPU+自研ASIC雙軌」，雲商自研晶片成爲本次上修的重要邊際來源。 兩條線索交叉處還有一個容易被誤讀的細節：高盛下調了2026E的8-GPU出貨7%（隱含AI晶片相應-3%），理由是頭部美系雲商轉向更高密度的機架方案。 這不是需求走弱，而是「同一塊蛋糕換了切法」——短口徑的收縮與長口徑的擴張並存，恰恰說明高盛把2027-28年視爲AI服務器價值兌現的主戰場。 再者，高盛回答了市場最關心的問題：內存漲價會不會侵蝕需求？ 答案是否定的，且路徑清晰。 一方面，內存成本上漲直接推升服務器整機ASP，通用與AI服務器均受影響——報告明確對通用服務器「出貨量與ASP雙雙上調」，2026-28E通用服務器出貨增速預計+20%/+12%/+8%。",
+      "summary": "Home\n\nNew thread\n\nSearch\n\nMessages\n\nActivity\n\nProfile\n\nInsights\n\nLog in\n\nMore\n\n# Thread\n\n22 views\n\nallen.jenyang's profile picture\n\nallen.jenyang\n\n華爾街見聞\n\n這組數字傳遞的結構性判斷是：AI算力供給正從「Nvidia 單一供給」走向「GPU+自研AS...",
+      "highlights": [
+        "allen.jenyang's profile picture",
+        "allen.jenyang",
+        "這組數字傳遞的結構性判斷是：AI算力供給正從「Nvidia 單一供給」走向「GPU+自研ASIC雙軌」，雲商自研晶片成爲本次上修的重要邊際來源"
+      ],
+      "url": "https://www.threads.com/@allen.jenyang/post/Des-pTZk-rk/%E9%80%99%E7%B5%84%E6%95%B8%E5%AD%97%E5%82%B3%E9%81%9E%E7%9A%84%E7%B5%90%E6%A7%8B%E6%80%A7%E5%88%A4%E6%96%B7%E6%98%AFai%E7%AE%97%E5%8A%9B%E4%BE%9B%E7%B5%A6%E6%AD%A3%E5%BE%9Envidia-%E5%96%AE%E4%B8%80%E4%BE%9B%E7%B5%A6%E8%B5%B0%E5%90%91gpu%E8%87%AA%E7%A0%94asic%E9%9B%99%E8%BB%8C%E9%9B%B2%E5%95%86%E8%87%AA%E7%A0%94%E6%99%B6%E7%89%87%E6%88%90%E7%88%B2%E6%9C%AC%E6%AC%A1%E4%B8%8A%E4%BF%AE%E7%9A%84%E9%87%8D%E8%A6%81%E9%82%8A%E9%9A%9B%E4%BE%86%E6%BA%90%E5%85%A9%E6%A2%9D%E7%B7%9A%E7%B4%A2%E4%BA%A4%E5%8F%89%E8%99%95%E9%82%84%E6%9C%89%E4%B8%80%E5%80%8B%E5%AE%B9%E6%98%93%E8%A2%AB%E8%AA%A4%E8%AE%80",
+      "source": "threads.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-23T10:35:32Z"
+    },
+    {
+      "id": "316fab86d1d3",
+      "title": "近三天AI要闻回顾:并购融资芯片三线并进",
+      "summary": "2026年内累计股权融资规模已超25亿元,本轮由北京市人工智能产业投资基金领投.来源:证券时报、科创板日报4. Salesforce 56.6...",
+      "highlights": [
+        "2026年内累计股权融资规模已超25亿元,本轮由北京市人工智能产业投资基金领投.来源:证券时报、科创板日报4. Salesforce 56.6..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-97vPXyxte7_pwIf8jsjF6bQdr74GnXE1qXa8Fplpd9CJNmweTZKnCudkfpYLeJJFr7rQlNQNaFDGVdUxcQmL2ovvrdMn-PO58MFntdI36OF19rA9-e1sPU2IE9BIuqQd-0HksRQbDxXHPTLAw5e7v3npq6WkYkE08BBR93pM7RUiOqz7fS3dscZXo_n_aaadKKunStYcPUtYtEmLHe5s_6zvkPgoArRQ..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=7156D2F86649593A2F287050A523E6772FDEC9F06ADB3872",
+      "source": "微信公众号",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-10-23T01:19:24Z"
+    },
+    {
+      "id": "e8b4d71978b5",
+      "title": "个人智能体扎堆上线，没几个 App 愿意开门",
+      "summary": "美国时间10 月21 日，Anthropic 发布了一款新产品Claude Duet。它是一个独立的手机App，能替你盯着邮箱和日历，催收没付的账单，还能在你同意后下单付款。",
+      "highlights": [
+        "美国时间10 月21 日，Anthropic 发布了一款新产品Claude Duet",
+        "它是一个独立的手机App，能替你盯着邮箱和日历，催收没付的账单，还能在你同意后下单付款"
+      ],
+      "url": "https://www.wenxuecity.com/news/2026/10/23/126813396.html?read=1&subid=news",
+      "source": "wenxuecity.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-23T08:00:00Z"
+    },
+    {
+      "id": "4d5806ba9b27",
+      "title": "AI盛宴突然变成融资考验！Meta领跌科技股，信用市场发出危险信号-股票-金融界",
+      "summary": "Meta第三季度自由现金流为负21.2亿美元，而去年同期为正106.3亿美元，这是公司十多年来首次出现季度现金消耗。随着数据中心、服务器和其他AI基础设施支出持续增加，原本依靠经营现金流覆盖投资的模式正面临更大压力。\n\nDakota Wealth高级投资组合经理罗伯特·帕夫利克（Robert Pavlik）表示，支出增加、自由现金流转负，同时相关投入尚未产生足够收入，正让投资者担心AI建设会成为持...",
+      "highlights": [
+        "Meta第三季度自由现金流为负21.2亿美元，而去年同期为正106.3亿美元，这是公司十多年来首次出现季度现金消耗",
+        "随着数据中心、服务器和其他AI基础设施支出持续增加，原本依靠经营现金流覆盖投资的模式正面临更大压力",
+        "Dakota Wealth高级投资组合经理罗伯特·帕夫利克（Robert Pavlik）表示，支出增加、自由现金流转负，同时相关投入尚未产生足够收入，正让投资者担心AI建设会成为持续吞噬资金的项目"
+      ],
+      "url": "https://stock.jrj.com.cn/2026/10/23171258841393.shtml",
+      "source": "stock.jrj.com.cn",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-10-23T09:00:00Z"
+    },
+    {
+      "id": "34342f2529e9",
+      "title": "美国早间新闻电话会议 | OpenAI融资轮接近300亿美元，估值达1.25万亿美元 - moomoo 社区",
+      "summary": "本网站不构成Moomoo Financial Singapore Pte. Ltd.向不符合法律法规和相关要求允许的司法管辖区（例如中国或其他司法管辖区）的投资者做出邀约或招揽。受当地条件限制的人士，请自行承担访问本网站的风险，并且您有责任遵守当地法律。\n\n任何引荐来本页面的广告内容，并未被新加坡金融管理局(MAS)审核。\n\nCopyright © 2026 Moomoo Technologies...",
+      "highlights": [
+        "本网站不构成Moomoo Financial Singapore Pte. Ltd.向不符合法律法规和相关要求允许的司法管辖区（例如中国或其他司法管辖区）的投资者做出邀约或招揽",
+        "受当地条件限制的人士，请自行承担访问本网站的风险，并且您有责任遵守当地法律",
+        "任何引荐来本页面的广告内容，并未被新加坡金融管理局(MAS)审核"
+      ],
+      "url": "http://www.moomoo.com/hans/community/feed/us-morning-news-call-openai-nears-30-billion-funding-round-117489960681478",
+      "source": "moomoo.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-10-23T11:00:00Z"
+    },
+    {
+      "id": "661e84a1c6e9",
+      "title": "具身智能的第一桶金，被车企先挣了_风闻",
+      "summary": "星源智创始人刘东对行业作过一个坐标式判断：“具身智能现在大致处在自动驾驶2016年前后的阶段——Demo已经大量跑通，但到真正形成生产力还有一段路。”这个类比并不夸张。新能源汽车也走过类似的路：先有资本热潮，再进入消费热潮。如今的人形机器人，正处在资本热潮退潮、商业化验证尚未完成的阶段，就像2016年L2辅助驾驶刚规模化落地，距离今天城市NOA普及，中间隔了近十年。\n\n　　终局方向其实不难判断。毕...",
+      "highlights": [
+        "星源智创始人刘东对行业作过一个坐标式判断：“具身智能现在大致处在自动驾驶2016年前后的阶段——Demo已经大量跑通，但到真正形成生产力还有一段路",
+        "新能源汽车也走过类似的路：先有资本热潮，再进入消费热潮",
+        "如今的人形机器人，正处在资本热潮退潮、商业化验证尚未完成的阶段，就像2016年L2辅助驾驶刚规模化落地，距离今天城市NOA普及，中间隔了近十年"
+      ],
+      "url": "https://user.guancha.cn/main/content?id=1758627",
+      "source": "user.guancha.cn",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-10-23T09:00:00Z"
+    }
+  ],
+  "today": [],
+  "week": [
     {
       "id": "9c22a3978138",
       "title": "Anthropic Joins the A.I. Agent Race With Claude Duet - The New York Times",
@@ -218,735 +658,9 @@
       "category": "具身智能",
       "importance": 5,
       "publishedAt": "2026-10-23T10:00:26Z"
-    },
-    {
-      "id": "0e9e6989fa8c",
-      "title": "美股低开，三大电信股齐跌4%；国办：减缓人工智能应用就业替代影响；花旗证券中国获批设立；三安光电实控人林秀成被批捕丨每经晚参 | 每日经济新闻",
-      "summary": "2.10月23日，MiniMax开源多模态大模型MiniMax M3.1 Flash。同日，摩尔线程旗舰级AI训推一体智算卡MTT S5000和自研MUSA软件栈完成对该模型的适配。\n\n3.Kimi（月之暗面）即将发布最新大模型K3.1，并发布相关预热视频，目前AI行业不少开发者已经关注到相关更新。（澎湃新闻）\n\n4.10月22日，宇树科技人形机器人在进行功夫动作演示，尝试侧空翻落地时失去平衡，侧...",
-      "highlights": [
-        "2.10月23日，MiniMax开源多模态大模型MiniMax M3.1 Flash",
-        "同日，摩尔线程旗舰级AI训推一体智算卡MTT S5000和自研MUSA软件栈完成对该模型的适配",
-        "3.Kimi（月之暗面）即将发布最新大模型K3.1，并发布相关预热视频，目前AI行业不少开发者已经关注到相关更新"
-      ],
-      "url": "https://www.mrjjxw.com/articles/2026-10-23/4615616.html",
-      "source": "mrjjxw.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-23T13:00:00Z"
-    },
-    {
-      "id": "8dc0af10a245",
-      "title": "一週熱榜精選：AI融資擔憂再度引爆美股！全球資金重選避險資產",
-      "summary": "根據《華爾街日報》看到的IPO招股書草案，Anthropic今年上半年實現約163億美元收入，去年同期僅11億美元；同期計算和基礎設施支出接近90億美元。第三季度收入進一步達到約168億美元，環比增長接近50%，但增速較上半年有所放緩。\n\n真正讓投資者關注的是資本需求。Anthropic已經承擔約4500億美元、期限七至十年的雲計算合同，其中包括谷歌雲、AWS和微軟的大額採購義務。加上其他芯片和數...",
-      "highlights": [
-        "根據《華爾街日報》看到的IPO招股書草案，Anthropic今年上半年實現約163億美元收入，去年同期僅11億美元；同期計算和基礎設施支出接近90億美元",
-        "第三季度收入進一步達到約168億美元，環比增長接近50%，但增速較上半年有所放緩",
-        "真正讓投資者關注的是資本需求"
-      ],
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/GlobalArticle?ContentId=C26102300957&Category=all",
-      "source": "capitalfutures.com.tw",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-23T13:00:00Z"
-    },
-    {
-      "id": "89d5cb0b9e1e",
-      "title": "链研社｜AI First🔶💧 on X: \"Anthropic 计划最快 11 月中旬上市。投行鼓吹的2万亿市值吹了，市场正在讨论给予它约 1.5 万亿美元的 IPO 估值，比今年 5 月的最后一次9650亿美元融资估值高约55% FTX：2021 年投资 5 亿美元，最初持股 13.56%，到 2024 年稀释至 7.84%。因破产清算卖光股份，最终回收约 13 亿美元，实际赚了 8 亿美元。 假如一直持有，按当年 7.84% 的比例(仅为估算，实际融资还会稀释)和如今潜在的 1.5 万亿美元 IPO 估值计算，股份理论上价值约 1176 亿美元，有多夸张，光这一笔投资能赚出一个币… / X",
-      "summary": "Views\n\n  1 [...] Log inSign up\n\n# 链研社｜AI First🔶💧 on X: \"Anthropic 计划最快 11 月中旬上市。投行鼓吹的2万亿市值吹了，市场正在讨论给予它约 1.5 万亿美元的 IPO 估值，比今年 5 月的最后一次9650亿美元融资估值高约55% FTX：2021 年投资 5 亿美元，最初持股 13.56%，到 2024 年稀释至 7.84%。因...",
-      "highlights": [
-        "1 [...] Log inSign up",
-        "# 链研社｜AI First🔶💧 on X: \"Anthropic 计划最快 11 月中旬上市",
-        "投行鼓吹的2万亿市值吹了，市场正在讨论给予它约 1.5 万亿美元的 IPO 估值，比今年 5 月的最后一次9650亿美元融资估值高约55% FTX：2021 年投资 5 亿美元，最初持股 13.56%，到 2024 年稀释至 7.84%"
-      ],
-      "url": "https://x.com/lianyanshe/status/2113543026744455480",
-      "source": "x.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-23T08:08:19Z"
-    },
-    {
-      "id": "e1b76674c61f",
-      "title": "技术出口目录修订：AI出海企业该做的五件事 | 北京金诚同达律师事务所_JT&N",
-      "summary": "这一规定值得正在开展跨境融资、并购和股权重组的科技企业特别关注。\n\n传统技术出口审查通常容易集中在技术许可、技术转让或实际交付行为。\n\n但对于涉及核心技术的企业，交易安排还可能改变相关技术的所有权结构或实际控制关系。\n\n例如，境外投资者收购持有关键人工智能技术的境内公司，或者集团通过跨境重组调整相关技术资产的持有和控制安排，都可能需要进一步分析公告所规定的登记条件。\n\n当然，不能据此推导出所有外资...",
-      "highlights": [
-        "这一规定值得正在开展跨境融资、并购和股权重组的科技企业特别关注",
-        "传统技术出口审查通常容易集中在技术许可、技术转让或实际交付行为",
-        "但对于涉及核心技术的企业，交易安排还可能改变相关技术的所有权结构或实际控制关系"
-      ],
-      "url": "https://www.jtn.com/CN/booksdetail.aspx?type=06001&keyid=00000000000000010280&PageUrl=majorbook&Lan=CN",
-      "source": "jtn.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-23T09:00:00Z"
-    },
-    {
-      "id": "339de5c01f5b",
-      "title": "PHP code flaw begins the cyberpocalypse — sort of",
-      "summary": "+ Nvidia, Anthropic, Google and others lobbied on AI chip export restriction bills in Q3, per new disclosures.\n OpenAI, Anthropic and Nvidia each set record lobbying quarters in Q3 2026, spending a co...",
-      "highlights": [
-        "+ Nvidia, Anthropic, Google and others lobbied on AI chip export restriction bills in Q3, per new disclosures.",
-        "OpenAI, Anthropic and Nvidia each set record lobbying quarters in Q3 2026, spending a collective ~$6m. [...] + Ahead of the IPO, the WSJ examined its Long-Term Benefit Trust, which controls board appointments and can block major corporate actions.",
-        "It launched a research preview of Claude Duet, Anthropic’s answer to proactive AI agent apps such as Meta’s Muse."
-      ],
-      "url": "https://www.transformernews.ai/p/php-flaw-cyberpocalypse-is-here-sort-of",
-      "source": "transformernews.ai",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-23T13:00:00Z"
-    },
-    {
-      "id": "9ced8c595995",
-      "title": "The False Promise of Safe AI - The Atlantic",
-      "summary": "# The Myth of Safe AI. Three months prior to the launch of ChatGPT, OpenAI published what would prove to be a prescient blog outlining the firm’s approach to ensuring that its AI models would be safe ...",
-      "highlights": [
-        "# The Myth of Safe AI. Three months prior to the launch of ChatGPT, OpenAI published what would prove to be a prescient blog outlining the firm’s approach to ensuring that its AI models would be safe and beneficent. This goal, known as “alignment”—as in, aligning AI with human values—is nebulous, grand, and perhaps the AI industry’s most foundational promise. The notion is right there in OpenAI’s mission statement to ensure AI “benefits all of humanity” and listed as one of Anthropic’s “primary” goals. Yet even in the summer of 2022, OpenAI was admitting a sort of defeat: “There is currently no known indefinitely scalable solution to the alignment problem,” three of its researchers wrote in that same blog post, adding that developing one “is likely very difficult.”. If the goal of keeping AI beneficial to mankind sounds rather vague, it is. Four years later, the alignment problem remains unsolved, and for that matter, there isn’t consensus about what the problem even is."
-      ],
-      "url": "https://www.theatlantic.com/technology/2026/10/false-promise-of-safe-ai/689114/",
-      "source": "theatlantic.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-22T19:26:10Z"
-    },
-    {
-      "id": "0b12ee963dbe",
-      "title": "“我会做空一整年”！传奇投资人警告2027年美股或迎来艰难一年-市场参考-金十数据",
-      "summary": "但他认为，这一趋势正在逆转。人工智能行业可能迎来Anthropic和OpenAI的大规模股票发行，SpaceX（SPCX）也刚刚完成一次发行。与此同时，人工智能基础设施建设需要大量资金，企业可能通过更多二次发行筹集资本，进一步增加市场股票供给。\n\n琼斯的警告正值投资者重新评估美股牛市前景之际。随着通胀压力、债券收益率上升以及美联储政策可能进一步收紧的担忧加剧，持续的上涨行情面临动能减弱的风险。\n\n...",
-      "highlights": [
-        "但他认为，这一趋势正在逆转",
-        "人工智能行业可能迎来Anthropic和OpenAI的大规模股票发行，SpaceX（SPCX）也刚刚完成一次发行",
-        "与此同时，人工智能基础设施建设需要大量资金，企业可能通过更多二次发行筹集资本，进一步增加市场股票供给"
-      ],
-      "url": "https://xnews.jin10.com/details/232390",
-      "source": "xnews.jin10.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-10-22T01:00:00Z"
-    },
-    {
-      "id": "c80a6608f1d2",
-      "title": "DeepSeek reportedly raises $15B days after US restrictions - TechCrunch",
-      "summary": "Just two days after the U.S. ordered federal civilian agencies to remove DeepSeek’s AI technology from their systems over security concerns, the Chinese AI lab has raised about $15 billion, about 100 ...",
-      "highlights": [
-        "Just two days after the U.S. ordered federal civilian agencies to remove DeepSeek’s AI technology from their systems over security concerns, the Chinese AI lab has raised about $15 billion, about 100 billion yuan, one of the biggest funding rounds in the country, Bloomberg reported. The reported funding follows DeepSeek’s investment round in June, when it raised more than $7 billion at a valuation of $50 billion. The company was also reportedly seeking an additional $1.5 billion at a valuation of around $71 billion in July, with plans for a potential IPO in China as early as next year. The Hangzhou-based AI startup is ramping up spending on AI infrastructure and open models for domestic and international markets, even as it faces restrictions in the U.S., the report said. The massive funding round is the latest sign of investors pouring billions into AI companies around the world, including those in China, to compete in the global AI race."
-      ],
-      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-      "source": "techcrunch.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-10-22T13:11:13Z"
-    },
-    {
-      "id": "26ac0304255e",
-      "title": "行业洞见|CBInsights：2026年第三季度全球数字医疗投融资季报丨AgeClub",
-      "summary": "2026-09-25\n\n行业洞见｜HIMSS：全球医疗行业人工智能实施现状——从试点探索走向规模化应用\n\n2026-08-05\n\n1.1亿美元融资，Pearl Health如何用AI重塑美国医保价值 [...] logo\n\nsearch搜索\n\n登录\n\n内容加载中\n\n# 行业洞见|CBInsights：2026年第三季度全球数字医疗投融资季报\n\nBoom Health\n\n2026-10-23\n\n交易...",
-      "highlights": [
-        "行业洞见｜HIMSS：全球医疗行业人工智能实施现状——从试点探索走向规模化应用",
-        "1.1亿美元融资，Pearl Health如何用AI重塑美国医保价值 [...] logo",
-        "# 行业洞见|CBInsights：2026年第三季度全球数字医疗投融资季报"
-      ],
-      "url": "https://www.ageclub.net/article-detail/10953",
-      "source": "ageclub.net",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-23T01:00:00Z"
-    },
-    {
-      "id": "ab9c383e53ea",
-      "title": "科大讯飞发布新一代国产大模型，刘庆峰最新发声_任务_应用_WinWork",
-      "summary": "除了AI办公，科大讯飞还集中展示了大模型在教育、医疗、法律等领域的应用进展。\n\n在教育领域，推出面向教师的AI智能工作台“讯飞星光”，将备课、教研、家校沟通等功能整合至同一平台；在医疗领域，进一步拓展医学影像辅助诊断、医学报告解读及健康管理等应用；在法律领域，则探索利用大模型完成案情梳理、证据审查、合同审核等工作。\n\n与此同时，大会还发布了星火语音基座大模型SparkAudio 1.0、星火具身多...",
-      "highlights": [
-        "除了AI办公，科大讯飞还集中展示了大模型在教育、医疗、法律等领域的应用进展",
-        "在教育领域，推出面向教师的AI智能工作台“讯飞星光”，将备课、教研、家校沟通等功能整合至同一平台；在医疗领域，进一步拓展医学影像辅助诊断、医学报告解读及健康管理等应用；在法律领域，则探索利用大模型完成案情梳理、证据审查、合同审核等工作",
-        "与此同时，大会还发布了星火语音基座大模型SparkAudio 1.0、星火具身多模交互技术及相关产品，进一步拓展AI在智能终端、机器人等领域的应用"
-      ],
-      "url": "https://www.sohu.com/a/1091427225_465270?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "sohu.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-23T05:38:00Z"
-    },
-    {
-      "id": "317539b9b736",
-      "title": "Instagram",
-      "summary": "igsoka\n\n小米自研芯片版图迎来全面爆发！全新智能手机AI芯片XRING O3预计采用3纳米工艺，集成CPU、GPU与NPU，AI算力高达200 TOPS，将搭载于新款折叠屏手机小米18 Fold。此外，小米还计划在2027年上半年商用AI加速器XRING O100及自研纯电汽车智驾芯片XRING D100，全面进军AI数据处理与自动驾驶核心芯片赛道。 #小米 #自研芯片 #半导体 #人工智能...",
-      "highlights": [
-        "小米自研芯片版图迎来全面爆发",
-        "全新智能手机AI芯片XRING O3预计采用3纳米工艺，集成CPU、GPU与NPU，AI算力高达200 TOPS，将搭载于新款折叠屏手机小米18 Fold",
-        "此外，小米还计划在2027年上半年商用AI加速器XRING O100及自研纯电汽车智驾芯片XRING D100，全面进军AI数据处理与自动驾驶核心芯片赛道"
-      ],
-      "url": "https://www.instagram.com/p/DeyFKxhhus0",
-      "source": "instagram.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-10-23T10:35:32Z"
-    },
-    {
-      "id": "1e23e2323625",
-      "title": "ASIC大单接连落地，芯片供应商要换打法了？",
-      "summary": "9月下旬发布的一份产业研究甚至预计，2027年高端云端AI加速器市场中，ASIC出货颗数将超过GPU。GPU的大客户仍在采购现有产品，却同时加大对自研芯片和定制算力的投入。",
-      "highlights": [
-        "9月下旬发布的一份产业研究甚至预计，2027年高端云端AI加速器市场中，ASIC出货颗数将超过GPU",
-        "GPU的大客户仍在采购现有产品，却同时加大对自研芯片和定制算力的投入"
-      ],
-      "url": "https://m.sohu.com/a/1091533030_116132?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-10-23T02:00:00Z"
-    },
-    {
-      "id": "cf1fcae2e98f",
-      "title": "這組數字傳遞的結構性判斷是：AI算力供給正從「Nvidia 單一供給」走向「GPU+自研ASIC雙軌」，雲商自研晶片成爲本次上修的重要邊際來源。 兩條線索交叉處還有一個容易被誤讀的細節：高盛下調了2026E的8-GPU出貨7%（隱含AI晶片相應-3%），理由是頭部美系雲商轉向更高密度的機架方案。 這不是需求走弱，而是「同一塊蛋糕換了切法」——短口徑的收縮與長口徑的擴張並存，恰恰說明高盛把2027-28年視爲AI服務器價值兌現的主戰場。 再者，高盛回答了市場最關心的問題：內存漲價會不會侵蝕需求？ 答案是否定的，且路徑清晰。 一方面，內存成本上漲直接推升服務器整機ASP，通用與AI服務器均受影響——報告明確對通用服務器「出貨量與ASP雙雙上調」，2026-28E通用服務器出貨增速預計+20%/+12%/+8%。",
-      "summary": "Home\n\nNew thread\n\nSearch\n\nMessages\n\nActivity\n\nProfile\n\nInsights\n\nLog in\n\nMore\n\n# Thread\n\n22 views\n\nallen.jenyang's profile picture\n\nallen.jenyang\n\n華爾街見聞\n\n這組數字傳遞的結構性判斷是：AI算力供給正從「Nvidia 單一供給」走向「GPU+自研AS...",
-      "highlights": [
-        "allen.jenyang's profile picture",
-        "allen.jenyang",
-        "這組數字傳遞的結構性判斷是：AI算力供給正從「Nvidia 單一供給」走向「GPU+自研ASIC雙軌」，雲商自研晶片成爲本次上修的重要邊際來源"
-      ],
-      "url": "https://www.threads.com/@allen.jenyang/post/Des-pTZk-rk/%E9%80%99%E7%B5%84%E6%95%B8%E5%AD%97%E5%82%B3%E9%81%9E%E7%9A%84%E7%B5%90%E6%A7%8B%E6%80%A7%E5%88%A4%E6%96%B7%E6%98%AFai%E7%AE%97%E5%8A%9B%E4%BE%9B%E7%B5%A6%E6%AD%A3%E5%BE%9Envidia-%E5%96%AE%E4%B8%80%E4%BE%9B%E7%B5%A6%E8%B5%B0%E5%90%91gpu%E8%87%AA%E7%A0%94asic%E9%9B%99%E8%BB%8C%E9%9B%B2%E5%95%86%E8%87%AA%E7%A0%94%E6%99%B6%E7%89%87%E6%88%90%E7%88%B2%E6%9C%AC%E6%AC%A1%E4%B8%8A%E4%BF%AE%E7%9A%84%E9%87%8D%E8%A6%81%E9%82%8A%E9%9A%9B%E4%BE%86%E6%BA%90%E5%85%A9%E6%A2%9D%E7%B7%9A%E7%B4%A2%E4%BA%A4%E5%8F%89%E8%99%95%E9%82%84%E6%9C%89%E4%B8%80%E5%80%8B%E5%AE%B9%E6%98%93%E8%A2%AB%E8%AA%A4%E8%AE%80",
-      "source": "threads.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-10-23T10:35:32Z"
-    },
-    {
-      "id": "316fab86d1d3",
-      "title": "近三天AI要闻回顾:并购融资芯片三线并进",
-      "summary": "2026年内累计股权融资规模已超25亿元,本轮由北京市人工智能产业投资基金领投.来源:证券时报、科创板日报4. Salesforce 56.6...",
-      "highlights": [
-        "2026年内累计股权融资规模已超25亿元,本轮由北京市人工智能产业投资基金领投.来源:证券时报、科创板日报4. Salesforce 56.6..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-97vPXyxte7_pwIf8jsjF6bQdr74GnXE1qXa8Fplpd9CJNmweTZKnCudkfpYLeJJFr7rQlNQNaFDGVdUxcQmL2ovvrdMn-PO58MFntdI36OF19rA9-e1sPU2IE9BIuqQd-0HksRQbDxXHPTLAw5e7v3npq6WkYkE08BBR93pM7RUiOqz7fS3dscZXo_n_aaadKKunStYcPUtYtEmLHe5s_6zvkPgoArRQ..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=7156D2F86649593A2F287050A523E6772FDEC9F06ADB3872",
-      "source": "微信公众号",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-10-23T01:19:24Z"
-    },
-    {
-      "id": "e8b4d71978b5",
-      "title": "个人智能体扎堆上线，没几个 App 愿意开门",
-      "summary": "美国时间10 月21 日，Anthropic 发布了一款新产品Claude Duet。它是一个独立的手机App，能替你盯着邮箱和日历，催收没付的账单，还能在你同意后下单付款。",
-      "highlights": [
-        "美国时间10 月21 日，Anthropic 发布了一款新产品Claude Duet",
-        "它是一个独立的手机App，能替你盯着邮箱和日历，催收没付的账单，还能在你同意后下单付款"
-      ],
-      "url": "https://www.wenxuecity.com/news/2026/10/23/126813396.html?read=1&subid=news",
-      "source": "wenxuecity.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-23T08:00:00Z"
     }
   ],
-  "today": [
-    {
-      "id": "514989cb8452",
-      "title": "具身智能最好变现机会：全力卖给大模型公司-36氪",
-      "summary": "账号设置我的关注我的收藏申请的项目退出登录\n\n 启动Power on\n 36Kr研究院\n\n  36Kr创新咨询\n\n  企业服务\n 核心服务\n\n  城市之窗\n\n  政府服务\n 创投发布\n\n  LP源计划\n\n  VClub\n\n  VClub投资机构库\n\n  投资机构职位推介\n\n  投资人认证\n\n  投资人服务\n 项目推荐\n\n  36氪Pro\n\n  创投氪堂\n\n  企业入驻\n\n  创业者服务\n 创投平台...",
-      "highlights": [
-        "账号设置我的关注我的收藏申请的项目退出登录",
-        "# 具身智能最好变现机会：全力卖给大模型公司",
-        "车智·2026年10月23日 09:23"
-      ],
-      "url": "https://www.36kr.com/p/4037026775438468",
-      "source": "36kr.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-23T01:59:46Z"
-    },
-    {
-      "id": "7f4086c8f297",
-      "title": "深演智能牵手华为云：企业AI Agent走向营销决策深水区 - 潮起网",
-      "summary": "所以，云厂商愿意用“独家”去绑定AI智能体垂直领域的头部玩家。唯有承接智能体的运行与调度，才能站在新生意的入口上。\n\n长期来看，AI产业的核心价值逐步从“算力资源”转向“业务结果”。类似电力、互联网，这符合科技发展的规律。\n\n深演智能与华为云的合作，就是这套新定价逻辑下的产物。\n\n万亿资本开支，期待收入兑现\n\n过去三年，全球AI行情的定价权一直在硬件一端。\n\n巨头们每年数千亿美元的资本开支砸向算力...",
-      "highlights": [
-        "所以，云厂商愿意用“独家”去绑定AI智能体垂直领域的头部玩家",
-        "唯有承接智能体的运行与调度，才能站在新生意的入口上",
-        "长期来看，AI产业的核心价值逐步从“算力资源”转向“业务结果”"
-      ],
-      "url": "https://www.ichaoqi.com/zhuanlan/2026/1023/88996.html",
-      "source": "ichaoqi.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-23T09:40:21Z"
-    },
-    {
-      "id": "e41f016b7c35",
-      "title": "全球具身智能产业发展分析报告2026-36氪",
-      "summary": "需说明的是，本报告聚焦机器人形态具身智能，覆盖人形及四足、协作臂/机械臂、轮式/AMR、特种机器人等非人形广义具身应用，未将自动驾驶汽车、无人机、无人船艇等自主移动无人系统纳入分析范围。\n\n## 全球产业发展态势：\n\n 1.产业迈入商业化淘汰赛，规模与交付仍存落差\n\n2026年市场进入“量产元年”与场景商业化拐点。回溯2025年，全球人形机器人出货量约2.5万台、中国厂商占比约52%，全球人形/具...",
-      "highlights": [
-        "需说明的是，本报告聚焦机器人形态具身智能，覆盖人形及四足、协作臂/机械臂、轮式/AMR、特种机器人等非人形广义具身应用，未将自动驾驶汽车、无人机、无人船艇等自主移动无人系统纳入分析范围",
-        "## 全球产业发展态势：",
-        "1.产业迈入商业化淘汰赛，规模与交付仍存落差"
-      ],
-      "url": "http://www.36kr.com/p/4037944015853440",
-      "source": "36kr.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-23T10:00:26Z"
-    },
-    {
-      "id": "0e9e6989fa8c",
-      "title": "美股低开，三大电信股齐跌4%；国办：减缓人工智能应用就业替代影响；花旗证券中国获批设立；三安光电实控人林秀成被批捕丨每经晚参 | 每日经济新闻",
-      "summary": "2.10月23日，MiniMax开源多模态大模型MiniMax M3.1 Flash。同日，摩尔线程旗舰级AI训推一体智算卡MTT S5000和自研MUSA软件栈完成对该模型的适配。\n\n3.Kimi（月之暗面）即将发布最新大模型K3.1，并发布相关预热视频，目前AI行业不少开发者已经关注到相关更新。（澎湃新闻）\n\n4.10月22日，宇树科技人形机器人在进行功夫动作演示，尝试侧空翻落地时失去平衡，侧...",
-      "highlights": [
-        "2.10月23日，MiniMax开源多模态大模型MiniMax M3.1 Flash",
-        "同日，摩尔线程旗舰级AI训推一体智算卡MTT S5000和自研MUSA软件栈完成对该模型的适配",
-        "3.Kimi（月之暗面）即将发布最新大模型K3.1，并发布相关预热视频，目前AI行业不少开发者已经关注到相关更新"
-      ],
-      "url": "https://www.mrjjxw.com/articles/2026-10-23/4615616.html",
-      "source": "mrjjxw.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-23T13:00:00Z"
-    },
-    {
-      "id": "8dc0af10a245",
-      "title": "一週熱榜精選：AI融資擔憂再度引爆美股！全球資金重選避險資產",
-      "summary": "根據《華爾街日報》看到的IPO招股書草案，Anthropic今年上半年實現約163億美元收入，去年同期僅11億美元；同期計算和基礎設施支出接近90億美元。第三季度收入進一步達到約168億美元，環比增長接近50%，但增速較上半年有所放緩。\n\n真正讓投資者關注的是資本需求。Anthropic已經承擔約4500億美元、期限七至十年的雲計算合同，其中包括谷歌雲、AWS和微軟的大額採購義務。加上其他芯片和數...",
-      "highlights": [
-        "根據《華爾街日報》看到的IPO招股書草案，Anthropic今年上半年實現約163億美元收入，去年同期僅11億美元；同期計算和基礎設施支出接近90億美元",
-        "第三季度收入進一步達到約168億美元，環比增長接近50%，但增速較上半年有所放緩",
-        "真正讓投資者關注的是資本需求"
-      ],
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/GlobalArticle?ContentId=C26102300957&Category=all",
-      "source": "capitalfutures.com.tw",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-23T13:00:00Z"
-    },
-    {
-      "id": "89d5cb0b9e1e",
-      "title": "链研社｜AI First🔶💧 on X: \"Anthropic 计划最快 11 月中旬上市。投行鼓吹的2万亿市值吹了，市场正在讨论给予它约 1.5 万亿美元的 IPO 估值，比今年 5 月的最后一次9650亿美元融资估值高约55% FTX：2021 年投资 5 亿美元，最初持股 13.56%，到 2024 年稀释至 7.84%。因破产清算卖光股份，最终回收约 13 亿美元，实际赚了 8 亿美元。 假如一直持有，按当年 7.84% 的比例(仅为估算，实际融资还会稀释)和如今潜在的 1.5 万亿美元 IPO 估值计算，股份理论上价值约 1176 亿美元，有多夸张，光这一笔投资能赚出一个币… / X",
-      "summary": "Views\n\n  1 [...] Log inSign up\n\n# 链研社｜AI First🔶💧 on X: \"Anthropic 计划最快 11 月中旬上市。投行鼓吹的2万亿市值吹了，市场正在讨论给予它约 1.5 万亿美元的 IPO 估值，比今年 5 月的最后一次9650亿美元融资估值高约55% FTX：2021 年投资 5 亿美元，最初持股 13.56%，到 2024 年稀释至 7.84%。因...",
-      "highlights": [
-        "1 [...] Log inSign up",
-        "# 链研社｜AI First🔶💧 on X: \"Anthropic 计划最快 11 月中旬上市",
-        "投行鼓吹的2万亿市值吹了，市场正在讨论给予它约 1.5 万亿美元的 IPO 估值，比今年 5 月的最后一次9650亿美元融资估值高约55% FTX：2021 年投资 5 亿美元，最初持股 13.56%，到 2024 年稀释至 7.84%"
-      ],
-      "url": "https://x.com/lianyanshe/status/2113543026744455480",
-      "source": "x.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-23T08:08:19Z"
-    },
-    {
-      "id": "e1b76674c61f",
-      "title": "技术出口目录修订：AI出海企业该做的五件事 | 北京金诚同达律师事务所_JT&N",
-      "summary": "这一规定值得正在开展跨境融资、并购和股权重组的科技企业特别关注。\n\n传统技术出口审查通常容易集中在技术许可、技术转让或实际交付行为。\n\n但对于涉及核心技术的企业，交易安排还可能改变相关技术的所有权结构或实际控制关系。\n\n例如，境外投资者收购持有关键人工智能技术的境内公司，或者集团通过跨境重组调整相关技术资产的持有和控制安排，都可能需要进一步分析公告所规定的登记条件。\n\n当然，不能据此推导出所有外资...",
-      "highlights": [
-        "这一规定值得正在开展跨境融资、并购和股权重组的科技企业特别关注",
-        "传统技术出口审查通常容易集中在技术许可、技术转让或实际交付行为",
-        "但对于涉及核心技术的企业，交易安排还可能改变相关技术的所有权结构或实际控制关系"
-      ],
-      "url": "https://www.jtn.com/CN/booksdetail.aspx?type=06001&keyid=00000000000000010280&PageUrl=majorbook&Lan=CN",
-      "source": "jtn.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-23T09:00:00Z"
-    },
-    {
-      "id": "339de5c01f5b",
-      "title": "PHP code flaw begins the cyberpocalypse — sort of",
-      "summary": "+ Nvidia, Anthropic, Google and others lobbied on AI chip export restriction bills in Q3, per new disclosures.\n OpenAI, Anthropic and Nvidia each set record lobbying quarters in Q3 2026, spending a co...",
-      "highlights": [
-        "+ Nvidia, Anthropic, Google and others lobbied on AI chip export restriction bills in Q3, per new disclosures.",
-        "OpenAI, Anthropic and Nvidia each set record lobbying quarters in Q3 2026, spending a collective ~$6m. [...] + Ahead of the IPO, the WSJ examined its Long-Term Benefit Trust, which controls board appointments and can block major corporate actions.",
-        "It launched a research preview of Claude Duet, Anthropic’s answer to proactive AI agent apps such as Meta’s Muse."
-      ],
-      "url": "https://www.transformernews.ai/p/php-flaw-cyberpocalypse-is-here-sort-of",
-      "source": "transformernews.ai",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-23T13:00:00Z"
-    },
-    {
-      "id": "26ac0304255e",
-      "title": "行业洞见|CBInsights：2026年第三季度全球数字医疗投融资季报丨AgeClub",
-      "summary": "2026-09-25\n\n行业洞见｜HIMSS：全球医疗行业人工智能实施现状——从试点探索走向规模化应用\n\n2026-08-05\n\n1.1亿美元融资，Pearl Health如何用AI重塑美国医保价值 [...] logo\n\nsearch搜索\n\n登录\n\n内容加载中\n\n# 行业洞见|CBInsights：2026年第三季度全球数字医疗投融资季报\n\nBoom Health\n\n2026-10-23\n\n交易...",
-      "highlights": [
-        "行业洞见｜HIMSS：全球医疗行业人工智能实施现状——从试点探索走向规模化应用",
-        "1.1亿美元融资，Pearl Health如何用AI重塑美国医保价值 [...] logo",
-        "# 行业洞见|CBInsights：2026年第三季度全球数字医疗投融资季报"
-      ],
-      "url": "https://www.ageclub.net/article-detail/10953",
-      "source": "ageclub.net",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-23T01:00:00Z"
-    },
-    {
-      "id": "ab9c383e53ea",
-      "title": "科大讯飞发布新一代国产大模型，刘庆峰最新发声_任务_应用_WinWork",
-      "summary": "除了AI办公，科大讯飞还集中展示了大模型在教育、医疗、法律等领域的应用进展。\n\n在教育领域，推出面向教师的AI智能工作台“讯飞星光”，将备课、教研、家校沟通等功能整合至同一平台；在医疗领域，进一步拓展医学影像辅助诊断、医学报告解读及健康管理等应用；在法律领域，则探索利用大模型完成案情梳理、证据审查、合同审核等工作。\n\n与此同时，大会还发布了星火语音基座大模型SparkAudio 1.0、星火具身多...",
-      "highlights": [
-        "除了AI办公，科大讯飞还集中展示了大模型在教育、医疗、法律等领域的应用进展",
-        "在教育领域，推出面向教师的AI智能工作台“讯飞星光”，将备课、教研、家校沟通等功能整合至同一平台；在医疗领域，进一步拓展医学影像辅助诊断、医学报告解读及健康管理等应用；在法律领域，则探索利用大模型完成案情梳理、证据审查、合同审核等工作",
-        "与此同时，大会还发布了星火语音基座大模型SparkAudio 1.0、星火具身多模交互技术及相关产品，进一步拓展AI在智能终端、机器人等领域的应用"
-      ],
-      "url": "https://www.sohu.com/a/1091427225_465270?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "sohu.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-23T05:38:00Z"
-    },
-    {
-      "id": "317539b9b736",
-      "title": "Instagram",
-      "summary": "igsoka\n\n小米自研芯片版图迎来全面爆发！全新智能手机AI芯片XRING O3预计采用3纳米工艺，集成CPU、GPU与NPU，AI算力高达200 TOPS，将搭载于新款折叠屏手机小米18 Fold。此外，小米还计划在2027年上半年商用AI加速器XRING O100及自研纯电汽车智驾芯片XRING D100，全面进军AI数据处理与自动驾驶核心芯片赛道。 #小米 #自研芯片 #半导体 #人工智能...",
-      "highlights": [
-        "小米自研芯片版图迎来全面爆发",
-        "全新智能手机AI芯片XRING O3预计采用3纳米工艺，集成CPU、GPU与NPU，AI算力高达200 TOPS，将搭载于新款折叠屏手机小米18 Fold",
-        "此外，小米还计划在2027年上半年商用AI加速器XRING O100及自研纯电汽车智驾芯片XRING D100，全面进军AI数据处理与自动驾驶核心芯片赛道"
-      ],
-      "url": "https://www.instagram.com/p/DeyFKxhhus0",
-      "source": "instagram.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-10-23T10:35:32Z"
-    },
-    {
-      "id": "1e23e2323625",
-      "title": "ASIC大单接连落地，芯片供应商要换打法了？",
-      "summary": "9月下旬发布的一份产业研究甚至预计，2027年高端云端AI加速器市场中，ASIC出货颗数将超过GPU。GPU的大客户仍在采购现有产品，却同时加大对自研芯片和定制算力的投入。",
-      "highlights": [
-        "9月下旬发布的一份产业研究甚至预计，2027年高端云端AI加速器市场中，ASIC出货颗数将超过GPU",
-        "GPU的大客户仍在采购现有产品，却同时加大对自研芯片和定制算力的投入"
-      ],
-      "url": "https://m.sohu.com/a/1091533030_116132?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-10-23T02:00:00Z"
-    },
-    {
-      "id": "cf1fcae2e98f",
-      "title": "這組數字傳遞的結構性判斷是：AI算力供給正從「Nvidia 單一供給」走向「GPU+自研ASIC雙軌」，雲商自研晶片成爲本次上修的重要邊際來源。 兩條線索交叉處還有一個容易被誤讀的細節：高盛下調了2026E的8-GPU出貨7%（隱含AI晶片相應-3%），理由是頭部美系雲商轉向更高密度的機架方案。 這不是需求走弱，而是「同一塊蛋糕換了切法」——短口徑的收縮與長口徑的擴張並存，恰恰說明高盛把2027-28年視爲AI服務器價值兌現的主戰場。 再者，高盛回答了市場最關心的問題：內存漲價會不會侵蝕需求？ 答案是否定的，且路徑清晰。 一方面，內存成本上漲直接推升服務器整機ASP，通用與AI服務器均受影響——報告明確對通用服務器「出貨量與ASP雙雙上調」，2026-28E通用服務器出貨增速預計+20%/+12%/+8%。",
-      "summary": "Home\n\nNew thread\n\nSearch\n\nMessages\n\nActivity\n\nProfile\n\nInsights\n\nLog in\n\nMore\n\n# Thread\n\n22 views\n\nallen.jenyang's profile picture\n\nallen.jenyang\n\n華爾街見聞\n\n這組數字傳遞的結構性判斷是：AI算力供給正從「Nvidia 單一供給」走向「GPU+自研AS...",
-      "highlights": [
-        "allen.jenyang's profile picture",
-        "allen.jenyang",
-        "這組數字傳遞的結構性判斷是：AI算力供給正從「Nvidia 單一供給」走向「GPU+自研ASIC雙軌」，雲商自研晶片成爲本次上修的重要邊際來源"
-      ],
-      "url": "https://www.threads.com/@allen.jenyang/post/Des-pTZk-rk/%E9%80%99%E7%B5%84%E6%95%B8%E5%AD%97%E5%82%B3%E9%81%9E%E7%9A%84%E7%B5%90%E6%A7%8B%E6%80%A7%E5%88%A4%E6%96%B7%E6%98%AFai%E7%AE%97%E5%8A%9B%E4%BE%9B%E7%B5%A6%E6%AD%A3%E5%BE%9Envidia-%E5%96%AE%E4%B8%80%E4%BE%9B%E7%B5%A6%E8%B5%B0%E5%90%91gpu%E8%87%AA%E7%A0%94asic%E9%9B%99%E8%BB%8C%E9%9B%B2%E5%95%86%E8%87%AA%E7%A0%94%E6%99%B6%E7%89%87%E6%88%90%E7%88%B2%E6%9C%AC%E6%AC%A1%E4%B8%8A%E4%BF%AE%E7%9A%84%E9%87%8D%E8%A6%81%E9%82%8A%E9%9A%9B%E4%BE%86%E6%BA%90%E5%85%A9%E6%A2%9D%E7%B7%9A%E7%B4%A2%E4%BA%A4%E5%8F%89%E8%99%95%E9%82%84%E6%9C%89%E4%B8%80%E5%80%8B%E5%AE%B9%E6%98%93%E8%A2%AB%E8%AA%A4%E8%AE%80",
-      "source": "threads.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-10-23T10:35:32Z"
-    },
-    {
-      "id": "316fab86d1d3",
-      "title": "近三天AI要闻回顾:并购融资芯片三线并进",
-      "summary": "2026年内累计股权融资规模已超25亿元,本轮由北京市人工智能产业投资基金领投.来源:证券时报、科创板日报4. Salesforce 56.6...",
-      "highlights": [
-        "2026年内累计股权融资规模已超25亿元,本轮由北京市人工智能产业投资基金领投.来源:证券时报、科创板日报4. Salesforce 56.6..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-97vPXyxte7_pwIf8jsjF6bQdr74GnXE1qXa8Fplpd9CJNmweTZKnCudkfpYLeJJFr7rQlNQNaFDGVdUxcQmL2ovvrdMn-PO58MFntdI36OF19rA9-e1sPU2IE9BIuqQd-0HksRQbDxXHPTLAw5e7v3npq6WkYkE08BBR93pM7RUiOqz7fS3dscZXo_n_aaadKKunStYcPUtYtEmLHe5s_6zvkPgoArRQ..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=7156D2F86649593A2F287050A523E6772FDEC9F06ADB3872",
-      "source": "微信公众号",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-10-23T01:19:24Z"
-    },
-    {
-      "id": "e8b4d71978b5",
-      "title": "个人智能体扎堆上线，没几个 App 愿意开门",
-      "summary": "美国时间10 月21 日，Anthropic 发布了一款新产品Claude Duet。它是一个独立的手机App，能替你盯着邮箱和日历，催收没付的账单，还能在你同意后下单付款。",
-      "highlights": [
-        "美国时间10 月21 日，Anthropic 发布了一款新产品Claude Duet",
-        "它是一个独立的手机App，能替你盯着邮箱和日历，催收没付的账单，还能在你同意后下单付款"
-      ],
-      "url": "https://www.wenxuecity.com/news/2026/10/23/126813396.html?read=1&subid=news",
-      "source": "wenxuecity.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-23T08:00:00Z"
-    },
-    {
-      "id": "4d5806ba9b27",
-      "title": "AI盛宴突然变成融资考验！Meta领跌科技股，信用市场发出危险信号-股票-金融界",
-      "summary": "Meta第三季度自由现金流为负21.2亿美元，而去年同期为正106.3亿美元，这是公司十多年来首次出现季度现金消耗。随着数据中心、服务器和其他AI基础设施支出持续增加，原本依靠经营现金流覆盖投资的模式正面临更大压力。\n\nDakota Wealth高级投资组合经理罗伯特·帕夫利克（Robert Pavlik）表示，支出增加、自由现金流转负，同时相关投入尚未产生足够收入，正让投资者担心AI建设会成为持...",
-      "highlights": [
-        "Meta第三季度自由现金流为负21.2亿美元，而去年同期为正106.3亿美元，这是公司十多年来首次出现季度现金消耗",
-        "随着数据中心、服务器和其他AI基础设施支出持续增加，原本依靠经营现金流覆盖投资的模式正面临更大压力",
-        "Dakota Wealth高级投资组合经理罗伯特·帕夫利克（Robert Pavlik）表示，支出增加、自由现金流转负，同时相关投入尚未产生足够收入，正让投资者担心AI建设会成为持续吞噬资金的项目"
-      ],
-      "url": "https://stock.jrj.com.cn/2026/10/23171258841393.shtml",
-      "source": "stock.jrj.com.cn",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-10-23T09:00:00Z"
-    },
-    {
-      "id": "34342f2529e9",
-      "title": "美国早间新闻电话会议 | OpenAI融资轮接近300亿美元，估值达1.25万亿美元 - moomoo 社区",
-      "summary": "本网站不构成Moomoo Financial Singapore Pte. Ltd.向不符合法律法规和相关要求允许的司法管辖区（例如中国或其他司法管辖区）的投资者做出邀约或招揽。受当地条件限制的人士，请自行承担访问本网站的风险，并且您有责任遵守当地法律。\n\n任何引荐来本页面的广告内容，并未被新加坡金融管理局(MAS)审核。\n\nCopyright © 2026 Moomoo Technologies...",
-      "highlights": [
-        "本网站不构成Moomoo Financial Singapore Pte. Ltd.向不符合法律法规和相关要求允许的司法管辖区（例如中国或其他司法管辖区）的投资者做出邀约或招揽",
-        "受当地条件限制的人士，请自行承担访问本网站的风险，并且您有责任遵守当地法律",
-        "任何引荐来本页面的广告内容，并未被新加坡金融管理局(MAS)审核"
-      ],
-      "url": "http://www.moomoo.com/hans/community/feed/us-morning-news-call-openai-nears-30-billion-funding-round-117489960681478",
-      "source": "moomoo.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-10-23T11:00:00Z"
-    },
-    {
-      "id": "661e84a1c6e9",
-      "title": "具身智能的第一桶金，被车企先挣了_风闻",
-      "summary": "星源智创始人刘东对行业作过一个坐标式判断：“具身智能现在大致处在自动驾驶2016年前后的阶段——Demo已经大量跑通，但到真正形成生产力还有一段路。”这个类比并不夸张。新能源汽车也走过类似的路：先有资本热潮，再进入消费热潮。如今的人形机器人，正处在资本热潮退潮、商业化验证尚未完成的阶段，就像2016年L2辅助驾驶刚规模化落地，距离今天城市NOA普及，中间隔了近十年。\n\n　　终局方向其实不难判断。毕...",
-      "highlights": [
-        "星源智创始人刘东对行业作过一个坐标式判断：“具身智能现在大致处在自动驾驶2016年前后的阶段——Demo已经大量跑通，但到真正形成生产力还有一段路",
-        "新能源汽车也走过类似的路：先有资本热潮，再进入消费热潮",
-        "如今的人形机器人，正处在资本热潮退潮、商业化验证尚未完成的阶段，就像2016年L2辅助驾驶刚规模化落地，距离今天城市NOA普及，中间隔了近十年"
-      ],
-      "url": "https://user.guancha.cn/main/content?id=1758627",
-      "source": "user.guancha.cn",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-10-23T09:00:00Z"
-    },
-    {
-      "id": "905f2b3e3323",
-      "title": "全球具身智能产业发展分析报告2026-36氪",
-      "summary": "## 主要发现\n\n具身智能（Embodied AI）正从概念验证迈入产业化与商业化的拐点阶段，已成为全球科技竞争与新质生产力的战略制高点。\n\n需说明的是，本报告聚焦机器人形态具身智能，覆盖人形及四足、协作臂/机械臂、轮式/AMR、特种机器人等非人形广义具身应用，未将自动驾驶汽车、无人机、无人船艇等自主移动无人系统纳入分析范围。\n\n## 全球产业发展态势：\n\n2026年市场进入“量产元年”与场景商业...",
-      "highlights": [
-        "具身智能（Embodied AI）正从概念验证迈入产业化与商业化的拐点阶段，已成为全球科技竞争与新质生产力的战略制高点",
-        "需说明的是，本报告聚焦机器人形态具身智能，覆盖人形及四足、协作臂/机械臂、轮式/AMR、特种机器人等非人形广义具身应用，未将自动驾驶汽车、无人机、无人船艇等自主移动无人系统纳入分析范围",
-        "## 全球产业发展态势："
-      ],
-      "url": "https://m.36kr.com/p/4037944015853440",
-      "source": "m.36kr.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-10-23T09:45:37Z"
-    },
-    {
-      "id": "620f6b7fa0f3",
-      "title": "Alphabet's Google Cloud Announces General Availability of Anthropic-Managed Deployment Option for Claude Models",
-      "summary": "1. Crypto\n\n   Crypto\n2. AI\n\n   AI\n\nPREMIUM  MT Newswires\n\n# Alphabet's Google Cloud Announces General Availability of Anthropic-Managed Deployment Option for Claude Models\n\nMT Newswires\n\n1 min read\n\n ...",
-      "highlights": [
-        "PREMIUM  MT Newswires",
-        "# Alphabet's Google Cloud Announces General Availability of Anthropic-Managed Deployment Option for Claude Models",
-        "MT Newswires"
-      ],
-      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-apos-google-cloud-announces-082035137.html",
-      "source": "finance.yahoo.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-23T07:00:00Z"
-    },
-    {
-      "id": "1fb893a0eb00",
-      "title": "近三天AI要闻回顾:并购融资芯片三线并进",
-      "summary": "2026年内累计股权融资规模已超25亿元,本轮由北京市人工智能产业投资基金领投.来源:证券时报、科创板日报4. Salesforce 56.6...",
-      "highlights": [
-        "2026年内累计股权融资规模已超25亿元,本轮由北京市人工智能产业投资基金领投.来源:证券时报、科创板日报4. Salesforce 56.6..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-97vPXyxte7Vr1UFfX96M2bQdr74GnXE1qXa8Fplpd9CJNmweTZKnCudkfpYLeJJFr7rQlNQNaFDGVdUxcQmL2ovvrdMn-POzVK2D_xaAJuJgLii9o_yb3OnGMuM7-h0d2JkmGAM7JLFlQPvsAMZAsQnOLIYxiBnVDkywnXvzNQrO60ZViSjp_K6qpR0Sby6E9lwFhXwMpQ2wuaJmissjjFcvUoAZZH7Q..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=73D74C07FD3D9CFFEAECB56EE584DC1AEB8F52DC6ADB843B",
-      "source": "微信公众号",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-10-23T01:19:24Z"
-    },
-    {
-      "id": "fd67309c5da3",
-      "title": "AI Tools Are Generating Massive Attacks for Little Cost - Dark Reading",
-      "summary": "Over five days in September, a Chinese-speaking attacker used three different AI harnesses and both open-weight and public AI models to target 105 different e-commerce sites. Malicious agents stole at...",
-      "highlights": [
-        "Over five days in September, a Chinese-speaking attacker used three different AI harnesses and both open-weight and public AI models to target 105 different e-commerce sites. Malicious agents stole at least 600,000 payment card records from two, installed credit-card skimmers on the websites of five, and gained some degree of illicit access to the rest, which includes at least one Fortune 500 company, according to Gambit Security, which discovered the campaign. \"The scale and success of this campaign are remarkable for just one week, especially considering the size of some of the victims,\" says Sa'ar Elias, co-founder and chief research officer for Gambit Security. In another instance, researchers with AI cyber-defense firm Silverfort conduct lab tests using an orchestrating agent and publicly available versions of Claude Opus to explore how quickly autonomous AI can turn initial access into a full compromise. Companies should focus on the economics of recovering from an attack and how to protect their minimum viable business processes, says Gambit Security's Elias."
-      ],
-      "url": "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
-      "source": "darkreading.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-23T17:33:23Z"
-    },
-    {
-      "id": "d3c93c2b78fb",
-      "title": "AI's Impact on Mathematics Isn't Adding up - Business Insider",
-      "summary": "The problem of AI's impact on mathematicians is proving difficult to solve. OpenAI solving a historically difficult math problem last month kicked off a wider debate about the role AI should play in m...",
-      "highlights": [
-        "The problem of AI's impact on mathematicians is proving difficult to solve. OpenAI solving a historically difficult math problem last month kicked off a wider debate about the role AI should play in mathematics. He said mathematicians have largely gone from anger to acceptance about AI usage in the field. Terence Tao, a UCLA professor and math prodigy, isn't necessarily pessimistic about AI but also said the \"romantic era\" of math is over. Shortly after publishing its solution to the Navier-Stokes equations, OpenAI solved an additional 700-plus math problems and released the data on GitHub. NYU Math professor Tristan Buckmaster said OpenAI's solutions dump wiped out entire research programs. The reaction to a student-run Caltech AI math event shows how seriously some mathematicians take the threat. Moreno-Earle maintains the mathathon was less about causing a stir and more about ensuring humans have a place in the field of mathematics in the AI era. And there are also questions about how AI is coming up with these solutions."
-      ],
-      "url": "https://www.businessinsider.com/ai-disruption-mathematics-researchers-debate-future-of-the-field-2026-10",
-      "source": "businessinsider.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-23T11:25:41Z"
-    },
-    {
-      "id": "a4d5bd2f3e09",
-      "title": "OpenAI signs AI safety research deal with Poland’s NASK institute - The Next Web",
-      "summary": "OpenAI has partnered with Poland’s NASK National Research Institute to research AI safety and security, as concerns grow over AI agents behaving in ways their developers did not intend. The company an...",
-      "highlights": [
-        "OpenAI has partnered with Poland’s NASK National Research Institute to research AI safety and security, as concerns grow over AI agents behaving in ways their developers did not intend. The company announced the agreement today, saying the two organisations would work together to test increasingly powerful AI systems, identify vulnerabilities and develop stronger safeguards. In August, OpenAI said some of its test agents had escaped a controlled testing environment and coordinated an attack on Hugging Face, a platform for sharing AI models. Under the new agreement, OpenAI will work with NASK’s AI Safety Research Center, which serves as Poland’s AI safety institute. > “Collaboration with OpenAI is a natural step for the Institute and its AI Safety Research Center. The company has called on the US to work with other countries on shared technical standards for frontier AI, referring to the most advanced AI systems. OpenAI already works on AI safety with the UK AI Security Institute and a US organisation known as CAISSI."
-      ],
-      "url": "https://thenextweb.com/news/openai-nask-poland-ai-safety-research",
-      "source": "thenextweb.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-23T09:24:42Z"
-    },
-    {
-      "id": "4bd566931ab3",
-      "title": "OpenAI and Poland’s NASK collaborate on AI safety research - Reuters",
-      "summary": "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. ## Browse Business. # OpenAI and Poland’s NASK collaborate on AI safety research. Oct...",
-      "highlights": [
-        "Exclusive news, data and analytics for financial market professionals Learn more about Refinitiv. ## Browse World. ## Browse Business. # OpenAI and Poland’s NASK collaborate on AI safety research. Oct 23 (Reuters) - OpenAI said on Friday it would collaborate with Poland’s NASK National Research Institute ​on AI safety, security and technical ‌research, as rising incidents of rogue behaviour by AI agents put AI safety in the spotlight. *   OpenAI’s safety practices have been ​in the spotlight in recent months, after the company said a swarm of its AI agents escaped ​containment and hacked into the AI platform Hugging ​Face. *   OpenAI said it ​has called for the US to ​work ⁠with countries around the world on international technical standards for frontier AI, the most advanced ⁠AI ​systems, drawing on the expertise ​of AI safety institutes and standards bodies. Our Standards: The Thomson Reuters Trust Principles., opens new tab. ### Browse. *   Media Center, opens new tab. *   Reuters and AI, opens new tab. *   #### World-Check, opens new tab."
-      ],
-      "url": "https://www.reuters.com/legal/litigation/openai-polands-nask-collaborate-ai-safety-research-2026-10-23/",
-      "source": "reuters.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-23T06:25:24Z"
-    },
-    {
-      "id": "570d7aa6665b",
-      "title": "近三天AI要闻回顾:并购融资芯片三线并进",
-      "summary": "2026年内累计股权融资规模已超25亿元,本轮由北京市人工智能产业投资基金领投.来源:证券时报、科创板日报4. Salesforce 56.6...",
-      "highlights": [
-        "2026年内累计股权融资规模已超25亿元,本轮由北京市人工智能产业投资基金领投.来源:证券时报、科创板日报4. Salesforce 56.6..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-97vPXyxte72hvApyzujH-bQdr74GnXE1qXa8Fplpd9CJNmweTZKnCudkfpYLeJJFr7rQlNQNaFDGVdUxcQmL2ovvrdMn-PO4LvJZm6hUDQWMepgN-0USBEvyDTR0oPJR4g_YsEJOZPXZLnFtlMmgu74KxXeRGAVCtdBQr_0XeJegl7F7TKSi-BJeHunHymssYxwMgddZV8nhXRmMuHOKfvzHZXxeLdyg..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=75FFEA1B32B8354961673EE962DA04E161F03DCF6ADBC6A3",
-      "source": "微信公众号",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-10-23T01:19:24Z"
-    },
-    {
-      "id": "e73e26bd6f40",
-      "title": "【立方基金通】75亿元人工智能基金落地/DeepSeek拟新融资1000亿元/国内具身智能市场规模将超万亿",
-      "summary": "10月22日，有市场消息称，国内大模型公司DeepSeek（深度求索）拟在最新一轮融资中筹得约1000亿元人民币（约150亿美元），腾讯和宁德时代为本轮出资最多的投资方，交易",
-      "highlights": [
-        "10月22日，有市场消息称，国内大模型公司DeepSeek（深度求索）拟在最新一轮融资中筹得约1000亿元人民币（约150亿美元），腾讯和宁德时代为本轮出资最多的投资方，交易"
-      ],
-      "url": "https://app.dahecube.com/article.html?artid=290720%3Frecid%3D1",
-      "source": "app.dahecube.com",
-      "category": "投并购",
-      "importance": 3,
-      "publishedAt": "2026-10-23T07:00:00Z"
-    },
-    {
-      "id": "0fd19d0f568d",
-      "title": "Hacking attempts rise after flaws found in program affecting 70 percent of websites - Little Rock Public Radio",
-      "summary": "A few months ago AI caused global alarm after autonomous agents were found to have cheated on evaluations and then tried to cover it up, in what became known as the \"Hugging Face hack.\". This week, AI...",
-      "highlights": [
-        "A few months ago AI caused global alarm after autonomous agents were found to have cheated on evaluations and then tried to cover it up, in what became known as the \"Hugging Face hack.\". This week, AI and hacking are back in the spotlight with AI technology credited to have helped prevent a global cybersecurity crisis. Cyber-security firm Wiz Research, using OpenAI technology, announced on Wednesday it had discovered security flaws in a computer programming language that helps run some 70 percent of the world's websites. OpenAI called the bug \"one of the most impactful vulnerabilities in recent memory.\" Wiz Research warned that its \"successful exploitation could allow attackers to take control of affected servers, steal sensitive data, and deface the websites running on them.\". \"These findings rank among the most severe vulnerabilities discovered in PHP, and arguably in software history,\" the firm said, adding that before publicly disclosing the flaw, teams had worked on building a solution that's now available to websites to protect themselves."
-      ],
-      "url": "https://www.ualrpublicradio.org/npr-news/2026-10-23/hacking-attempts-rise-after-flaws-found-in-program-affecting-70-percent-of-websites",
-      "source": "ualrpublicradio.org",
-      "category": "具身智能",
-      "importance": 3,
-      "publishedAt": "2026-10-23T09:37:38Z"
-    },
-    {
-      "id": "22c6f1e602d1",
-      "title": "Rivian Third Dimension AI: 15-Person Deal Explained [2026]",
-      "summary": "Rivian bought a small, mostly UK-based AI startup on October 22, 2026, and the purchase tells you where autonomy work is heading. TechCrunch reported that the automaker acquired Third Dimension AI, a ...",
-      "highlights": [
-        "Rivian bought a small, mostly UK-based AI startup on October 22, 2026, and the purchase tells you where autonomy work is heading. TechCrunch reported that the automaker acquired Third Dimension AI, a world model startup with a 15-person team, to speed up its self-driving ambitions. Rivian’s own announcement, published on Yahoo Finance, ties the deal to synthetic data generation and full-world simulation for its driver-assistance and self-driving systems. [...] ### What did Rivian buy on October 22, 2026?",
-        "Rivian Automotive, Inc. acquired Third Dimension AI, Inc., a startup whose platform converts real-world data into high-fidelity, controllable 3D environments for driving simulation.",
-        "### How much did Rivian pay?"
-      ],
-      "url": "https://shattered.io/rivian-third-dimension-ai-world-model-acquisition-2026",
-      "source": "shattered.io",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-10-23T00:30:27Z"
-    },
-    {
-      "id": "a2d466dd188e",
-      "title": "清华大学（自动化系）-加速进化人形机器人联合研究中心揭牌仪式举行",
-      "summary": "清华新闻网10月23日电10月20日，清华大学（自动化系）-加速进化人形机器人联合研究中心（以下简称“联合研究中心”）揭牌仪式在主楼举行。 自动化系主任、具身智能与",
-      "highlights": [
-        "清华新闻网10月23日电10月20日，清华大学（自动化系）-加速进化人形机器人联合研究中心（以下简称“联合研究中心”）揭牌仪式在主楼举行",
-        "自动化系主任、具身智能与"
-      ],
-      "url": "http://www.tsinghua.edu.cn/info/1178/128903.htm",
-      "source": "tsinghua.edu.cn",
-      "category": "具身智能",
-      "importance": 2,
-      "publishedAt": "2026-10-23T02:00:00Z"
-    },
-    {
-      "id": "2fb8d20851d9",
-      "title": "通商研究 | AI技术出口规则拟调整:投融资、并购与红筹重组要关注什么——中国禁止限制出口技术目录中的人工智能技术相关解读",
-      "summary": "的人工智能、生物医药、光伏技术范围(征求意见稿)》(以下... 据此,部分股权、并购和重组交易也需从技术出口角度评估:交易...",
-      "highlights": [
-        "的人工智能、生物医药、光伏技术范围(征求意见稿)》(以下... 据此,部分股权、并购和重组交易也需从技术出口角度评估:交易..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-97vPXyxte7_pwIf8jsjF6bQdr74GnXE1qXa8Fplpd9oJt05Lc-FWzt4vAN72u4xuxkss-GHiEEu4VtMfNmAlnT6PpQ5KgaGi96IPE6KwyBmE-p45SUL5KzmptZal3TeSaMLXXdme1G3HXvOL78g2DcjBluVEv6U7gQ4hUDmb1OpC_Ff6JAh_qQrfRatGB_l9vJctcD6Nnud2bj-j_pLCe54z_tGSZTqA..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=7156D2F86649593A2F287050A523E6772FDEC9F06ADB3872",
-      "source": "微信公众号",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-23T08:20:43Z"
-    },
-    {
-      "id": "49d6d470e6b0",
-      "title": "Icertis veterans reunite as AI startup HumanTronik acquires tech consultancy CloudMoyo",
-      "summary": "HumanTronik, an AI startup co-founded this year by Icertis co-founder Monish Darda, has acquired tech consultancy CloudMoyo, which Darda helped spin out of",
-      "highlights": [
-        "HumanTronik, an AI startup co-founded this year by Icertis co-founder Monish Darda, has acquired tech consultancy CloudMoyo, which Darda helped spin out of"
-      ],
-      "url": "https://www.geekwire.com/2026/icertis-veterans-reunite-as-ai-startup-humantronik-acquires-tech-consultancy-cloudmoyo",
-      "source": "geekwire.com",
-      "category": "行业话题",
-      "importance": 2,
-      "publishedAt": "2026-10-23T14:00:00Z"
-    },
-    {
-      "id": "3fdf0becab26",
-      "title": "通商研究 | AI技术出口规则拟调整:投融资、并购与红筹重组要关注什么——中国禁止限制出口技术目录中的人工智能技术相关解读",
-      "summary": "的人工智能、生物医药、光伏技术范围(征求意见稿)》(以下... 据此,部分股权、并购和重组交易也需从技术出口角度评估:交易...",
-      "highlights": [
-        "的人工智能、生物医药、光伏技术范围(征求意见稿)》(以下... 据此,部分股权、并购和重组交易也需从技术出口角度评估:交易..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-97vPXyxte7Vr1UFfX96M2bQdr74GnXE1qXa8Fplpd9oJt05Lc-FWzt4vAN72u4xuxkss-GHiEEu4VtMfNmAlnT6PpQ5KgaGkD3q0Wle3ImtVMKi404vX5Xi20Wp7Veu8MCNA7mdoGHWMuguD0ZyztuSD5qMALhevvgQ4bJSeMuVy0VfFM2fCYhYQb468OgQw7iteidoZF4NFwvFQ84t-15Nu7CnoSqqg..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=73D74C07FD3D9CFFEAECB56EE584DC1AEB8F52DC6ADB843B",
-      "source": "微信公众号",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-23T08:20:43Z"
-    },
-    {
-      "id": "9b3de99466df",
-      "title": "As AI upends job descriptions, it's time for 'replacement language' - HR Executive",
-      "summary": "## Instant Insights /. HR Technology  Emerging HR Tech. # As AI upends job descriptions, it's time for 'replacement language'. October 23, 2026 at 03:00 AM. Request academic re-use from www.copyright....",
-      "highlights": [
-        "## Instant Insights /. HR Technology  Emerging HR Tech. # As AI upends job descriptions, it's time for 'replacement language'. October 23, 2026 at 03:00 AM. Request academic re-use from www.copyright.com. All other uses, submit a request to  . ### Related Stories. Barclays layoffs: 'AI makes our people more productive' Why AI won't be the new boss just yet How AI can counter mass applications in hiring AI skills taking priority within financial services talent hunt Findem wins Excellence in HR Tech award among 2026 HR Top Products A 'slow-moving tsunami' is transforming the job market. ### Recommended For You."
-      ],
-      "url": "https://hrexecutive.com/as-ai-upends-job-descriptions-its-time-for-replacement-language/",
-      "source": "hrexecutive.com",
-      "category": "产品进展",
-      "importance": 2,
-      "publishedAt": "2026-10-23T08:05:29Z"
-    },
-    {
-      "id": "19df3bddcaff",
-      "title": "通商研究 | AI技术出口规则拟调整:投融资、并购与红筹重组要关注什么——中国禁止限制出口技术目录中的人工智能技术相关解读",
-      "summary": "的人工智能、生物医药、光伏技术范围(征求意见稿)》(以下... 据此,部分股权、并购和重组交易也需从技术出口角度评估:交易...",
-      "highlights": [
-        "的人工智能、生物医药、光伏技术范围(征求意见稿)》(以下... 据此,部分股权、并购和重组交易也需从技术出口角度评估:交易..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-97vPXyxte72hvApyzujH-bQdr74GnXE1qXa8Fplpd9oJt05Lc-FWzt4vAN72u4xuxkss-GHiEEu4VtMfNmAlnT6PpQ5KgaGhaUp8F_eP7yK68NhEI284P_AlfLVSAPBkEAj2gpehV4n_tsVLivP5XgFlhYKkuOOjio70Xmkbk2eqf1LtrDdW-UKunn6PZsaOn10YOt6hnXS_9006uApQvy08OLTBhW0A..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=75FFEA1B32B8354961673EE962DA04E161F03DCF6ADBC6A3",
-      "source": "微信公众号",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-23T08:20:43Z"
-    }
-  ],
-  "week": [
-    {
-      "id": "81083463038d",
-      "title": "抢在Anthropic IPO前 OpenAI竞速1.4万亿估值",
-      "summary": "几乎在同一时间窗口，全球两家头部AI公司正在做着方向不同但逻辑相通的资本动作：OpenAI加速推进新一轮私募融资，目标估值指向1.4万亿美元；而它最直接的竞争",
-      "highlights": [
-        "几乎在同一时间窗口，全球两家头部AI公司正在做着方向不同但逻辑相通的资本动作：OpenAI加速推进新一轮私募融资，目标估值指向1.4万亿美元；而它最直接的竞争"
-      ],
-      "url": "https://m.sohu.com/a/1090923411_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-21T20:00:00Z"
-    },
+  "month": [
     {
       "id": "9c22a3978138",
       "title": "Anthropic Joins the A.I. Agent Race With Claude Duet - The New York Times",
@@ -1005,21 +719,6 @@
       "publishedAt": "2026-10-21T22:00:00Z"
     },
     {
-      "id": "41bcad8193b5",
-      "title": "中共AI投资隐患多 周小川：失败或致金融动荡 | 大紀元",
-      "summary": "中国AI投资热潮引发各界关注，机构和专家的分析中提到了其中暗藏的隐患，除了周小川提到的数据中心算力利用率，还有地方政府外行领导内行、加剧经济分化、水资源缺乏等问题。\n\n英国广播公司（BBC）此前的报导认为，从企业角度出发，政府资金托住了市场，但政府资金也在改变市场。地方政府变成“股东”，获得的不只是股权，还有对企业决策的影响力，创业者必须在“拿钱活下去”和“保持选择权”之间，做出自己的判断。\n\n报...",
-      "highlights": [
-        "中国AI投资热潮引发各界关注，机构和专家的分析中提到了其中暗藏的隐患，除了周小川提到的数据中心算力利用率，还有地方政府外行领导内行、加剧经济分化、水资源缺乏等问题",
-        "英国广播公司（BBC）此前的报导认为，从企业角度出发，政府资金托住了市场，但政府资金也在改变市场",
-        "地方政府变成“股东”，获得的不只是股权，还有对企业决策的影响力，创业者必须在“拿钱活下去”和“保持选择权”之间，做出自己的判断"
-      ],
-      "url": "https://www.epochtimes.com/gb/26/10/21/n14874110.htm",
-      "source": "epochtimes.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-21T20:00:00Z"
-    },
-    {
       "id": "8ecc62f169b4",
       "title": "沃尔玛推出新工具支持AI智能体代理购物 - 电商派",
       "summary": "电商派\n\n# 沃尔玛推出新工具支持AI智能体代理购物\n\n2026-10-22 17:03\n\n10月22日消息，沃尔玛正式推出自有智能体网关，用于处理交易，并上线多项面向使用AI Agent的消费者的新功能，允许获准接入的Agent为用户搜索商品、完成购买。这套技术将同时支持沃尔玛及其折扣仓储门店山姆会员店的AI购物。此前，沃尔玛已经宣布和Meta的Muse达成合作，同时接入了ChatGPT、Gem...",
@@ -1033,21 +732,6 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-10-22T09:00:00Z"
-    },
-    {
-      "id": "82a6d0b68568",
-      "title": "从数据到模型，再到真实场景：穹彻分享具身智能技术探索 - 具身之家",
-      "summary": "在数据方面，具身智能尚未形成如自动驾驶般成熟的数据采集产业，仍面临真实场景数据采集成本高、任务分布不均衡、数据质量难以保证等挑战。穹彻自 2021 年启动大规模具身数据采集研究，逐步探索无本体数据采集路线，目前已建立覆盖 50 余个城市的采集网络，峰值支持 1000 人同时采集，累计采集来源超过 1 万个。同时，穹彻搭建了 AI 原生的数据质量管控与标注体系，并联合阿里云建设无本体数据产线，实现从...",
-      "highlights": [
-        "在数据方面，具身智能尚未形成如自动驾驶般成熟的数据采集产业，仍面临真实场景数据采集成本高、任务分布不均衡、数据质量难以保证等挑战",
-        "穹彻自 2021 年启动大规模具身数据采集研究，逐步探索无本体数据采集路线，目前已建立覆盖 50 余个城市的采集网络，峰值支持 1000 人同时采集，累计采集来源超过 1 万个",
-        "同时，穹彻搭建了 AI 原生的数据质量管控与标注体系，并联合阿里云建设无本体数据产线，实现从数据入库到治理的全链路自动化，大幅提升数据管线效率"
-      ],
-      "url": "http://www.jushenhome.com/news/2047",
-      "source": "jushenhome.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-21T16:00:00Z"
     },
     {
       "id": "959c6f42f824",
@@ -1108,21 +792,6 @@
       "publishedAt": "2026-10-22T06:41:30Z"
     },
     {
-      "id": "7b449bc243f5",
-      "title": "中共AI投资隐患多 周小川：失败或致金融动荡 | 大纪元",
-      "summary": "英国广播公司（BBC）此前的报导认为，从企业角度出发，政府资金托住了市场，但政府资金也在改变市场。地方政府变成“股东”，获得的不只是股权，还有对企业决策的影响力，创业者必须在“拿钱活下去”和“保持选择权”之间，做出自己的判断。\n\n报导还认为，中共地方政府想依靠投资AI来增加财政收入并不容易。香港中文大学经济学副教授庄太量表示，地方政府在土地财政快速萎缩的当下，股权财政远水救不了近火。土地出让是当年...",
-      "highlights": [
-        "英国广播公司（BBC）此前的报导认为，从企业角度出发，政府资金托住了市场，但政府资金也在改变市场",
-        "地方政府变成“股东”，获得的不只是股权，还有对企业决策的影响力，创业者必须在“拿钱活下去”和“保持选择权”之间，做出自己的判断",
-        "报导还认为，中共地方政府想依靠投资AI来增加财政收入并不容易"
-      ],
-      "url": "https://www.epochtimes.com/gb/26/10/21/n14874110.htm/amp",
-      "source": "epochtimes.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-21T20:00:00Z"
-    },
-    {
       "id": "99a6265e9d4b",
       "title": "从数据到模型，再到真实场景：穹彻分享具身智能技术探索 - 具身之家",
       "summary": "在数据方面，具身智能尚未形成如自动驾驶般成熟的数据采集产业，仍面临真实场景数据采集成本高、任务分布不均衡、数据质量难以保证等挑战。穹彻自 2021 年启动大规模具身数据采集研究，逐步探索无本体数据采集路线，目前已建立覆盖 50 余个城市的采集网络，峰值支持 1000 人同时采集，累计采集来源超过 1 万个。同时，穹彻搭建了 AI 原生的数据质量管控与标注体系，并联合阿里云建设无本体数据产线，实现从...",
@@ -1136,166 +805,6 @@
       "category": "具身智能",
       "importance": 5,
       "publishedAt": "2026-10-22T02:00:00Z"
-    },
-    {
-      "id": "514989cb8452",
-      "title": "具身智能最好变现机会：全力卖给大模型公司-36氪",
-      "summary": "账号设置我的关注我的收藏申请的项目退出登录\n\n 启动Power on\n 36Kr研究院\n\n  36Kr创新咨询\n\n  企业服务\n 核心服务\n\n  城市之窗\n\n  政府服务\n 创投发布\n\n  LP源计划\n\n  VClub\n\n  VClub投资机构库\n\n  投资机构职位推介\n\n  投资人认证\n\n  投资人服务\n 项目推荐\n\n  36氪Pro\n\n  创投氪堂\n\n  企业入驻\n\n  创业者服务\n 创投平台...",
-      "highlights": [
-        "账号设置我的关注我的收藏申请的项目退出登录",
-        "# 具身智能最好变现机会：全力卖给大模型公司",
-        "车智·2026年10月23日 09:23"
-      ],
-      "url": "https://www.36kr.com/p/4037026775438468",
-      "source": "36kr.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-23T01:59:46Z"
-    }
-  ],
-  "month": [
-    {
-      "id": "81083463038d",
-      "title": "抢在Anthropic IPO前 OpenAI竞速1.4万亿估值",
-      "summary": "几乎在同一时间窗口，全球两家头部AI公司正在做着方向不同但逻辑相通的资本动作：OpenAI加速推进新一轮私募融资，目标估值指向1.4万亿美元；而它最直接的竞争",
-      "highlights": [
-        "几乎在同一时间窗口，全球两家头部AI公司正在做着方向不同但逻辑相通的资本动作：OpenAI加速推进新一轮私募融资，目标估值指向1.4万亿美元；而它最直接的竞争"
-      ],
-      "url": "https://m.sohu.com/a/1090923411_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-21T20:00:00Z"
-    },
-    {
-      "id": "9c22a3978138",
-      "title": "Anthropic Joins the A.I. Agent Race With Claude Duet - The New York Times",
-      "summary": "# Anthropic Joins the A.I. Agent Race With Claude Duet. The tool, which is not yet widely available, will compete with OpenAI’s dots and Meta’s Muse. It is built for work and not personal errands. Ant...",
-      "highlights": [
-        "# Anthropic Joins the A.I. Agent Race With Claude Duet. The tool, which is not yet widely available, will compete with OpenAI’s dots and Meta’s Muse. It is built for work and not personal errands. Anthropic, the artificial intelligence company behind the Claude chatbot, introduced an A.I. agent on Wednesday that acts as a personal digital assistant. Called Claude Duet, the tool is in an early test phase but joins a fast-growing field of A.I. assistants that take actions and perform tasks on their own. It will compete with OpenAI’s dots, which debuted last month; Meta’s Muse; Google’s Gemini Spark; and agents from the start-up Instinct, which raised $1 billion in its latest funding round. Unlike OpenAI and Meta, which have pitched their agents as assistants for everyday tasks like booking reservations, Anthropic said Claude Duet was built for work and was less capable at personal errands. Claude Duet is Anthropic’s most direct attempt to move its chatbot from answering questions to running parts of people’s working lives."
-      ],
-      "url": "https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html",
-      "source": "nytimes.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-21T22:45:12Z"
-    },
-    {
-      "id": "0ec3a7d1388e",
-      "title": "史上最大IPO，要来了",
-      "summary": "Anthropic凭借Claude聊天机器人、AI编程工具ClaudeCode以及ClaudeCowork在企业市场站稳脚跟。该公司周三宣布推出ClaudeDuet预览版。这是一款面向小企业和专业人士的AI代理产品，预计将与OpenAI的Dots和Meta的Muse展开竞争。\n\nIPO市场正显现转冷迹象\n\n在这场巨型IPO即将到来之际，今年原本火热的IPO市场正显现转冷迹象。\n\n本周早些时候，韩国...",
-      "highlights": [
-        "Anthropic凭借Claude聊天机器人、AI编程工具ClaudeCode以及ClaudeCowork在企业市场站稳脚跟",
-        "该公司周三宣布推出ClaudeDuet预览版",
-        "这是一款面向小企业和专业人士的AI代理产品，预计将与OpenAI的Dots和Meta的Muse展开竞争"
-      ],
-      "url": "https://m.stnn.cc/detail/6ad956fc8f9d2b19ddcbd860.html",
-      "source": "m.stnn.cc",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-22T00:00:00Z"
-    },
-    {
-      "id": "db3a144efa7f",
-      "title": "博通为OpenAI定制AI芯片安排超500亿美元融资，ASIC定制算力需求加速扩围",
-      "summary": "近期，博通被披露正为OpenAI定制AI芯片安排超过500亿美元融资，谈判尚处早期；此前Anthropic与博通最高420亿美元融资安排也已披露。多笔ASIC融资、部署、IP与设计服务",
-      "highlights": [
-        "近期，博通被披露正为OpenAI定制AI芯片安排超过500亿美元融资，谈判尚处早期；此前Anthropic与博通最高420亿美元融资安排也已披露",
-        "多笔ASIC融资、部署、IP与设计服务"
-      ],
-      "url": "https://www.huxiu.com/article/4899650.html",
-      "source": "huxiu.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-22T10:00:00Z"
-    },
-    {
-      "id": "7a5313cf7240",
-      "title": "Agent Endpoint 概览  |  Gemini Enterprise Agent Platform  |  Google Cloud Documentation",
-      "summary": "部署前：\n  + 创建管理项目。\n  + 向工作负载身份池注册企业 CA，以便受管设备可以使用其现有证书进行身份验证。\n  + 在 Agent Registry 中注册已获批准的 MCP 服务器和 API 端点。\n  + 定义代理系列。\n  + 附加 IAM 访问权限政策和 Model Armor 模板。\n 设备部署：\n  + 通过 MDM 将 Agent Endpoint 运行时和引导配置分发到...",
-      "highlights": [
-        "+ 向工作负载身份池注册企业 CA，以便受管设备可以使用其现有证书进行身份验证",
-        "+ 在 Agent Registry 中注册已获批准的 MCP 服务器和 API 端点",
-        "+ 附加 IAM 访问权限政策和 Model Armor 模板"
-      ],
-      "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/govern/agent-endpoint?hl=zh-CN",
-      "source": "docs.cloud.google.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-21T22:00:00Z"
-    },
-    {
-      "id": "41bcad8193b5",
-      "title": "中共AI投资隐患多 周小川：失败或致金融动荡 | 大紀元",
-      "summary": "中国AI投资热潮引发各界关注，机构和专家的分析中提到了其中暗藏的隐患，除了周小川提到的数据中心算力利用率，还有地方政府外行领导内行、加剧经济分化、水资源缺乏等问题。\n\n英国广播公司（BBC）此前的报导认为，从企业角度出发，政府资金托住了市场，但政府资金也在改变市场。地方政府变成“股东”，获得的不只是股权，还有对企业决策的影响力，创业者必须在“拿钱活下去”和“保持选择权”之间，做出自己的判断。\n\n报...",
-      "highlights": [
-        "中国AI投资热潮引发各界关注，机构和专家的分析中提到了其中暗藏的隐患，除了周小川提到的数据中心算力利用率，还有地方政府外行领导内行、加剧经济分化、水资源缺乏等问题",
-        "英国广播公司（BBC）此前的报导认为，从企业角度出发，政府资金托住了市场，但政府资金也在改变市场",
-        "地方政府变成“股东”，获得的不只是股权，还有对企业决策的影响力，创业者必须在“拿钱活下去”和“保持选择权”之间，做出自己的判断"
-      ],
-      "url": "https://www.epochtimes.com/gb/26/10/21/n14874110.htm",
-      "source": "epochtimes.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-21T20:00:00Z"
-    },
-    {
-      "id": "8ecc62f169b4",
-      "title": "沃尔玛推出新工具支持AI智能体代理购物 - 电商派",
-      "summary": "电商派\n\n# 沃尔玛推出新工具支持AI智能体代理购物\n\n2026-10-22 17:03\n\n10月22日消息，沃尔玛正式推出自有智能体网关，用于处理交易，并上线多项面向使用AI Agent的消费者的新功能，允许获准接入的Agent为用户搜索商品、完成购买。这套技术将同时支持沃尔玛及其折扣仓储门店山姆会员店的AI购物。此前，沃尔玛已经宣布和Meta的Muse达成合作，同时接入了ChatGPT、Gem...",
-      "highlights": [
-        "# 沃尔玛推出新工具支持AI智能体代理购物",
-        "2026-10-22 17:03",
-        "10月22日消息，沃尔玛正式推出自有智能体网关，用于处理交易，并上线多项面向使用AI Agent的消费者的新功能，允许获准接入的Agent为用户搜索商品、完成购买"
-      ],
-      "url": "https://www.pai.com.cn/p/01m5hd961jnq68s1xypjb3vc39",
-      "source": "pai.com.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-22T09:00:00Z"
-    },
-    {
-      "id": "82a6d0b68568",
-      "title": "从数据到模型，再到真实场景：穹彻分享具身智能技术探索 - 具身之家",
-      "summary": "在数据方面，具身智能尚未形成如自动驾驶般成熟的数据采集产业，仍面临真实场景数据采集成本高、任务分布不均衡、数据质量难以保证等挑战。穹彻自 2021 年启动大规模具身数据采集研究，逐步探索无本体数据采集路线，目前已建立覆盖 50 余个城市的采集网络，峰值支持 1000 人同时采集，累计采集来源超过 1 万个。同时，穹彻搭建了 AI 原生的数据质量管控与标注体系，并联合阿里云建设无本体数据产线，实现从...",
-      "highlights": [
-        "在数据方面，具身智能尚未形成如自动驾驶般成熟的数据采集产业，仍面临真实场景数据采集成本高、任务分布不均衡、数据质量难以保证等挑战",
-        "穹彻自 2021 年启动大规模具身数据采集研究，逐步探索无本体数据采集路线，目前已建立覆盖 50 余个城市的采集网络，峰值支持 1000 人同时采集，累计采集来源超过 1 万个",
-        "同时，穹彻搭建了 AI 原生的数据质量管控与标注体系，并联合阿里云建设无本体数据产线，实现从数据入库到治理的全链路自动化，大幅提升数据管线效率"
-      ],
-      "url": "http://www.jushenhome.com/news/2047",
-      "source": "jushenhome.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-21T16:00:00Z"
-    },
-    {
-      "id": "959c6f42f824",
-      "title": "雷军投的机器人芯片公司，年内融资超25亿 - 智东西",
-      "summary": "产品方面，辉羲智能光至R1芯片已形成R1 MAX与R1 PRO两档家族：R1 MAX提供500TOPS算力、已量产交付多家具身智能客户；R1 PRO是面向具身智能原生设计的大小脑融合SoC，将CPU、NPU、GPU及实时接口集成于单颗芯片，片内完成感知、推理、决策与运动控制的闭环，算力375TOPS。\n\n量产进展上，2025年其搭载光至R1芯片的计算平台应用于智元精灵G2机器人；2026年6月，多...",
-      "highlights": [
-        "产品方面，辉羲智能光至R1芯片已形成R1 MAX与R1 PRO两档家族：R1 MAX提供500TOPS算力、已量产交付多家具身智能客户；R1 PRO是面向具身智能原生设计的大小脑融合SoC，将CPU、NPU、GPU及实时接口集成于单颗芯片，片内完成感知、推理、决策与运动控制的闭环，算力375TOPS",
-        "量产进展上，2025年其搭载光至R1芯片的计算平台应用于智元精灵G2机器人；2026年6月，多台搭载光至R1的智元精灵G2机器人连续6天产线直播作业，累计完成作业17625次，任务成功率达99.99%",
-        "目前，该公司产品应用覆盖工业制造、智慧零售、商用餐饮、无人物流等场景，Huixi Embodied系列出货量持续增长"
-      ],
-      "url": "https://m.zhidx.com/p/603423.html",
-      "source": "m.zhidx.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-22T03:00:00Z"
-    },
-    {
-      "id": "4dd5fce186c5",
-      "title": "NVIDIA Launches Minerva for End-to-End AI Factory Observability - Mezha.net",
-      "summary": "Gemini app adds Google Maps data to Personal Intelligence as Argon is set to replace Deep Think. General Staff reports 146 combat engagements as of 22:00 on October 22, 2026. Finland will seek funding...",
-      "highlights": [
-        "Gemini app adds Google Maps data to Personal Intelligence as Argon is set to replace Deep Think. General Staff reports 146 combat engagements as of 22:00 on October 22, 2026. Finland will seek funding to build shelters in Ukraine. Zelensky expects briefing from Witkoff after meeting with Putin; Vance says both sides are ready for talks. Zelensky will travel to the G20 summit in Florida for talks with Trump and Putin if invited. The platform uses those signals to build a dynamic knowledge graph of the infrastructure – including GPUs, SuperNICs, switches and cables – and the jobs running on it. This context can help operators trace a slow training job to the component affecting it, even in a factory with hundreds of thousands of GPUs. Minerva analyzes billions of data points per hour with supervised and unsupervised machine learning. By correlating workload and infrastructure issues and using agentic AI capabilities, Minerva is designed to simplify AI factory operations."
-      ],
-      "url": "https://mezha.net/eng/news/mezha-af6b159eb6ea2f663c90fc62_nvidia_launches_minerva/",
-      "source": "mezha.net",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-22T15:08:02Z"
     }
   ]
 }
