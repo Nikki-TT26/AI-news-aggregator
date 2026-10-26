@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-26T01:55:30Z",
+  "updatedAt": "2026-10-26T11:38:04Z",
   "latest": [
-    {
-      "id": "91f752b3f8f7",
-      "title": "Kimi K3.1-Pro凌晨王炸登场，性能强悍到海外刷屏了_模型_Opus_代码",
-      "summary": "月之暗面发布最新模型Kimi K3.1 Pro。总参数2.8万亿，激活1040亿，100万上下文窗口，代码、3D创作、金融调研全面升级。消息一出，海外AI圈直接刷屏，登上热搜榜。模型权重将在11月4日之前开放。登顶最强开源模型，海外用户震惊了知名大模型竞技平台Arena发布最新榜单：代码领域，Kimi K3.1 Pro以1692分超过Claude Opus 5（Max），成本还降了70%；也超过G...",
-      "highlights": [
-        "月之暗面发布最新模型Kimi K3.1 Pro",
-        "总参数2.8万亿，激活1040亿，100万上下文窗口，代码、3D创作、金融调研全面升级",
-        "消息一出，海外AI圈直接刷屏，登上热搜榜"
-      ],
-      "url": "https://www.sohu.com/a/1092028844_121627717",
-      "source": "sohu.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-24T10:06:00Z"
-    },
     {
       "id": "4ee506c0f117",
       "title": "机器人IPO门槛提高 具身智能一级市场预期变了",
@@ -75,34 +60,94 @@
       "publishedAt": "2026-10-25T10:33:35Z"
     },
     {
-      "id": "2f4d951edcce",
-      "title": "3万亿级参数规模 全球最大开源AI大模型上新-中新网",
-      "summary": "大字体\n\n小字体\n\n分享到：\n\n)\n\n中新社北京10月24日电 (记者 刘亮)10月24日凌晨，中国人工智能(AI)大模型企业月之暗面(Moonshot AI)发布新一代开源大模型Kimi K3.1 Pro。该模型为3万亿级参数规模，支持100万词元(Token)上下文窗口，蝉联全球参数规模最大的开源模型。\n\n|  |\n\n|  |\n\n　　Kimi K3.1 Pro是Kimi K3的后训练版本，后训...",
+      "id": "7a906c684aff",
+      "title": "发布“地球最强”模型仅几天后 OpenAI首席科学家发长文呼吁放慢AI开发",
+      "summary": "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”。他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标。\n\n他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行。\n\nOpenAI首席执行官奥尔特曼（Sam Altman）在...",
       "highlights": [
-        "中新社北京10月24日电 (记者 刘亮)10月24日凌晨，中国人工智能(AI)大模型企业月之暗面(Moonshot AI)发布新一代开源大模型Kimi K3.1 Pro",
-        "该模型为3万亿级参数规模，支持100万词元(Token)上下文窗口，蝉联全球参数规模最大的开源模型",
-        "Kimi K3.1 Pro是Kimi K3的后训练版本，后训练算力大幅增加"
+        "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”",
+        "他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标",
+        "他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行"
       ],
-      "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720310.shtml",
-      "source": "chinanews.com.cn",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-24T06:00:00Z"
+      "url": "https://www.cls.cn/detail/2475526",
+      "source": "cls.cn",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-10-25T03:00:00Z"
     },
     {
-      "id": "0b12ee963dbe",
-      "title": "“我会做空一整年”！传奇投资人警告2027年美股或迎来艰难一年-市场参考-金十数据",
-      "summary": "但他认为，这一趋势正在逆转。人工智能行业可能迎来Anthropic和OpenAI的大规模股票发行，SpaceX（SPCX）也刚刚完成一次发行。与此同时，人工智能基础设施建设需要大量资金，企业可能通过更多二次发行筹集资本，进一步增加市场股票供给。\n\n琼斯的警告正值投资者重新评估美股牛市前景之际。随着通胀压力、债券收益率上升以及美联储政策可能进一步收紧的担忧加剧，持续的上涨行情面临动能减弱的风险。\n\n...",
+      "id": "d89f32d7e68d",
+      "title": "马斯克称SpaceX已完成400亿美元GPU债务融资，以可赎回债为主",
+      "summary": "新云公司（如Nebius和CoreWeave）与Alphabet、亚马逊等大型云服务商不同，主要面向科技客户，提供专为AI定制的算力服务。过去两周，市场已开始押注美国新云及数据中心公司走弱，担忧其依赖债务驱动的AI基础设施扩张难以为继，相关股票遭遇抛售。\n\n马斯克的表态，与SpaceX自身的融资逻辑形成鲜明对比：正是凭借星链和火箭发射业务提供的独立于AI数据中心的稳定收入，SpaceX才得以在信贷...",
       "highlights": [
-        "但他认为，这一趋势正在逆转",
-        "人工智能行业可能迎来Anthropic和OpenAI的大规模股票发行，SpaceX（SPCX）也刚刚完成一次发行",
-        "与此同时，人工智能基础设施建设需要大量资金，企业可能通过更多二次发行筹集资本，进一步增加市场股票供给"
+        "新云公司（如Nebius和CoreWeave）与Alphabet、亚马逊等大型云服务商不同，主要面向科技客户，提供专为AI定制的算力服务",
+        "过去两周，市场已开始押注美国新云及数据中心公司走弱，担忧其依赖债务驱动的AI基础设施扩张难以为继，相关股票遭遇抛售",
+        "马斯克的表态，与SpaceX自身的融资逻辑形成鲜明对比：正是凭借星链和火箭发射业务提供的独立于AI数据中心的稳定收入，SpaceX才得以在信贷市场收紧之际维持融资渠道畅通"
       ],
-      "url": "https://xnews.jin10.com/details/232390",
-      "source": "xnews.jin10.com",
+      "url": "https://wallstreetcn.com/articles/3784441",
+      "source": "wallstreetcn.com",
       "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-10-24T09:00:00Z"
+      "importance": 5,
+      "publishedAt": "2026-10-26T03:11:54Z"
+    },
+    {
+      "id": "63b5025fcdbf",
+      "title": "从开源首个3D算力软件底座到“年度科创先锋”，清微智能如何成为中国新质引擎-财经-金融界",
+      "summary": "展开 \n\n加载更多\n\n关闭 下载金融界app\n\n 行业巨头连续签下大单，全球数据中心光纤光缆需求同比激增\n 中东地缘风险持续，打开军工行业成长天花板\n 油价大幅上涨 机构关注集运+油运龙头企业盈利有保障（附概念股）\n 苹果首款折叠屏iPhone发布，三年创新周期提振供应链关注度\n 9月电子布价格环比再涨10%-20%，供需缺口支撑行业景气延续\n 水泥“涨价潮”席卷全国 行业供给有望持续优化(附概念...",
+      "highlights": [
+        "关闭 下载金融界app",
+        "行业巨头连续签下大单，全球数据中心光纤光缆需求同比激增",
+        "中东地缘风险持续，打开军工行业成长天花板"
+      ],
+      "url": "https://finance.jrj.com.cn/2026/10/26114858866254.shtml",
+      "source": "finance.jrj.com.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-26T03:00:00Z"
+    },
+    {
+      "id": "5708cc8a762c",
+      "title": "中签不等于赚钱，港股IPO热潮“降温” - 21经济网",
+      "summary": "蓝水资本首席投资官李泽铭表示，IPO上市过程中散户认购意愿比较低，部分认购冷淡的IPO可能存在关联方“围飞”操作，就是募资通过未披露安排回流到承配人，并未真正用于公司运营，这种情况以前比较罕见，最近港股上市IPO比较多，但市场资金有限，香港证监会深入调查并披露案情，显示监管层对严重违规行为的执法态度，对案件还原度也可能继续提高。如果违规查实，相关集资额可能面临还原或退还，涉事公司甚至可能被撤销上市...",
+      "highlights": [
+        "蓝水资本首席投资官李泽铭表示，IPO上市过程中散户认购意愿比较低，部分认购冷淡的IPO可能存在关联方“围飞”操作，就是募资通过未披露安排回流到承配人，并未真正用于公司运营，这种情况以前比较罕见，最近港股上市IPO比较多，但市场资金有限，香港证监会深入调查并披露案情，显示监管层对严重违规行为的执法态度，对案件还原度也可能继续提高",
+        "如果违规查实，相关集资额可能面临还原或退还，涉事公司甚至可能被撤销上市地位；涉案机构与人员除面临罚款、吊销牌照等处分外，还可能被追究刑事责任",
+        "数据上看，2026年前三季度，港股IPO募资额已达到3880亿港元，同比增长106%，全年有望冲击5000亿港元历史新高"
+      ],
+      "url": "https://www.21jingji.com/article/20261025/herald/a43d47ba68cbb5882c7b78f406f8d887.html",
+      "source": "21jingji.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-25T12:00:00Z"
+    },
+    {
+      "id": "652c04d55be5",
+      "title": "国信证券:《物理AI行业深度报告：技术路径基本成熟，受益于工业智能化及自动化需求｜信息技术研报》-发现报告",
+      "summary": "具身智能指基于物理实体的智能系统，其核心运行机制依赖于感知、交互、学习三大要素，应用于人形机器人、智能工厂、自动驾驶、智能家居等领域。\n 2025年以来，我国具身智能产业政策持续升温，被纳入政府工作报告和“十五五”规划纲要，确立为国家未来产业的重点发展方向。\n 地方层面，产业正加速从单点突破转向系统布局，明确2027年核心产业规模、量产台数等量化目标，并通过资金与数据要素支持推进特色产业集群建设。...",
+      "highlights": [
+        "具身智能指基于物理实体的智能系统，其核心运行机制依赖于感知、交互、学习三大要素，应用于人形机器人、智能工厂、自动驾驶、智能家居等领域",
+        "2025年以来，我国具身智能产业政策持续升温，被纳入政府工作报告和“十五五”规划纲要，确立为国家未来产业的重点发展方向",
+        "地方层面，产业正加速从单点突破转向系统布局，明确2027年核心产业规模、量产台数等量化目标，并通过资金与数据要素支持推进特色产业集群建设"
+      ],
+      "url": "https://www.fxbaogao.com/detail/5800977",
+      "source": "fxbaogao.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-26T05:00:00Z"
+    },
+    {
+      "id": "b407b0660e94",
+      "title": "从通用大模型到具身智能，还有多远 近期围绕物理AI与具身智能，产业界有几项进展。OA的Astra展现出跨界控制机器人能力，在物理动作测试中超越多款专门训练... - 雪球",
+      "summary": "陆家嘴幽灵\n\n陆家嘴幽灵()\n\n发布于来自雪球 · 上海\n\n# 从通用大模型到具身智能，还有多远\n\n来源：雪球App，作者： 陆家嘴幽灵，（\n\n近期围绕物理AI与具身智能，产业界有几项进展。OA的Astra展现出跨界控制机器人能力，在物理动作测试中超越多款专门训练的具身模型，同时以三倍薪酬招募执行器、齿轮设计与数据运营人才，重启硬件研发；AMD以82亿美元收购李飞飞的World Labs，英伟达持...",
+      "highlights": [
+        "发布于来自雪球 · 上海",
+        "# 从通用大模型到具身智能，还有多远",
+        "来源：雪球App，作者： 陆家嘴幽灵，（"
+      ],
+      "url": "https://www.xueqiu.com/5332385101/413796511",
+      "source": "xueqiu.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-25T11:00:00Z"
     },
     {
       "id": "7446df164f28",
@@ -117,6 +162,76 @@
       "category": "投并购",
       "importance": 4,
       "publishedAt": "2026-10-25T01:00:00Z"
+    },
+    {
+      "id": "781aaac8b906",
+      "title": "月之暗面发布Kimi K3.1 Pro 11月开放开源权重- AI",
+      "summary": "2026年10月24日，中国AI创业公司月之暗面推出最新大语言模型Kimi K3.1 Pro。该模型为今年7月发布的Kimi K3的后训练版本，参数量达3万亿，按计划将于11月4日通过开源",
+      "highlights": [
+        "2026年10月24日，中国AI创业公司月之暗面推出最新大语言模型Kimi K3.1 Pro",
+        "该模型为今年7月发布的Kimi K3的后训练版本，参数量达3万亿，按计划将于11月4日通过开源"
+      ],
+      "url": "https://www.ebrun.com/20261026/716353.shtml",
+      "source": "ebrun.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-26T08:00:00Z"
+    },
+    {
+      "id": "928806716edf",
+      "title": "Counterpoint：人形机器人AI芯片市场爆发",
+      "summary": "在垂直整合阵营中，特斯拉与小鹏汽车依托汽车制造经验、自研芯片、专有AI 模型以及软硬件全栈布局，有望重塑人形机器人AI 加速器格局。",
+      "highlights": [
+        "在垂直整合阵营中，特斯拉与小鹏汽车依托汽车制造经验、自研芯片、专有AI 模型以及软硬件全栈布局，有望重塑人形机器人AI 加速器格局"
+      ],
+      "url": "https://tech.ifeng.com/c/8xXe6BGxdJf",
+      "source": "tech.ifeng.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-26T10:00:00Z"
+    },
+    {
+      "id": "c864bd3d5e54",
+      "title": "无问芯穹与三体宇宙联合发布智子Agent 1.0，以Agentic Infra支撑科幻IP角色智能体落地-品玩",
+      "summary": "未来，双方还将进一步探索角色长期记忆与关系演进、多角色共享世界观协同叙事、多模态跨媒介交互等方向。无问芯穹也将持续沉淀支持多IP、多角色、多终端运营的共性基础设施能力，为包括三体宇宙在内的IP方提供可复用的底层支撑，推动科幻IP AI Agent从个案走向产业化发展。\n\n下载品玩App，比99.9%的人更先知道关于「业界动态」的新故事\n\n下载品玩App\n\n比99.9%的人更先知道关于「业界动态」的...",
+      "highlights": [
+        "未来，双方还将进一步探索角色长期记忆与关系演进、多角色共享世界观协同叙事、多模态跨媒介交互等方向",
+        "无问芯穹也将持续沉淀支持多IP、多角色、多终端运营的共性基础设施能力，为包括三体宇宙在内的IP方提供可复用的底层支撑，推动科幻IP AI Agent从个案走向产业化发展",
+        "下载品玩App，比99.9%的人更先知道关于「业界动态」的新故事"
+      ],
+      "url": "https://www.pingwest.com/a/318752",
+      "source": "pingwest.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-26T02:00:00Z"
+    },
+    {
+      "id": "f2060c46cf71",
+      "title": "个人智能体扎堆遭 APP 拒绝，松延动力冲刺港股 IPO | AI周报",
+      "summary": "本周核心变化：大模型进入“主动时代”. MiniMax 发布M3.1 Flash，Agent 价格降七成. MiniMax 正式发布新一代Flash 模型M3.1 Flash，主打Agent 任务交付能力升级，调用",
+      "highlights": [
+        "本周核心变化：大模型进入“主动时代”. MiniMax 发布M3.1 Flash，Agent 价格降七成. MiniMax 正式发布新一代Flash 模型M3.1 Flash，主打Agent 任务交付能力升级，调用"
+      ],
+      "url": "https://xiaguangshe.com/16703",
+      "source": "xiaguangshe.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-26T10:00:00Z"
+    },
+    {
+      "id": "1af9c31b3869",
+      "title": "What’s Riding on Anthropic Going Public? Nearly Everything. - The New York Times",
+      "summary": "Anthropic and OpenAI, its chief rival, sit atop a pyramid of business partners and suppliers — infrastructure providers, chipmakers, energy companies and A.I. start-ups — that have all spent heavily o...",
+      "highlights": [
+        "Anthropic and OpenAI, its chief rival, sit atop a pyramid of business partners and suppliers — infrastructure providers, chipmakers, energy companies and A.I. start-ups — that have all spent heavily over the last four years because they believe demand for A.I. products will keep growing. [...] Anthropic’s listing will provide the first in-depth look at the health of a key business underlying the A.I. boom — and will be a test of its durability. Is there unending appetite for A.I. services to justify the spending on chips, data centers and other infrastructure? Or will Anthropic’s performance show that there are limits?",
+        "“For the market, it’s a bellwether,” said Umesh Padval, an investor at Seligman Ventures, who has worked in tech for nearly 40 years. [...] Supported by",
+        "# What’s Riding on Anthropic’s Market Debut? Nearly Everything."
+      ],
+      "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html",
+      "source": "nytimes.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-26T09:02:15Z"
     },
     {
       "id": "8dc71b69fa7c",
@@ -147,21 +262,6 @@
       "category": "模型发布",
       "importance": 3,
       "publishedAt": "2026-10-25T03:00:00Z"
-    },
-    {
-      "id": "83ea8cefa890",
-      "title": "中国官媒披露，中国头部人工智能（AI）开发商深度求索（DeepSeek）和MiniMax已履行相关登记手续，完成模型开源和海外授权。 中国央视旗下新媒体“玉渊谭天”星期五（10月23日）发文披露上述消息，并称海外网民也呼吁其他中国开源大语言模型跟进。 据路透社报",
-      "summary": "下载早报APP|每日新闻简报|\n\nImage 1\n\n1.   联合早报中文网\n\n# 焦点\n\n# 中国官媒：DeepSeek和MiniMax完成AI模型出海登记\n\n发布：2026-10-24 18:30 | 焦点 来源：联合早报中文网\n\nImage 3: 中国官媒：DeepSeek和MiniMax完成AI模型出海登记\n\n中国官媒披露，中国头部人工智能（AI）开发商深度求索（DeepSeek）和Min...",
-      "highlights": [
-        "下载早报APP|每日新闻简报|",
-        "1.   联合早报中文网",
-        "# 中国官媒：DeepSeek和MiniMax完成AI模型出海登记"
-      ],
-      "url": "https://www.zaochenbao.com/news/china/202610/2484054.html",
-      "source": "zaochenbao.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-24T10:00:00Z"
     },
     {
       "id": "44a64d616425",
@@ -302,10 +402,154 @@
       "category": "投并购",
       "importance": 2,
       "publishedAt": "2026-10-26T01:55:59Z"
+    },
+    {
+      "id": "91f5292e66c6",
+      "title": "国信证券：深耕产业沃土 做科创同行者",
+      "summary": "国信证券。国信证券供图. 珠江两岸，创新潮涌。从人工智能、半导体，到低空经济、商业航天，一批新产业加速成长，一批科技企业从实验室走向生产线。",
+      "highlights": [
+        "国信证券供图. 珠江两岸，创新潮涌",
+        "从人工智能、半导体，到低空经济、商业航天，一批新产业加速成长，一批科技企业从实验室走向生产线"
+      ],
+      "url": "https://www.sohu.com/a/1092675502_161794",
+      "source": "sohu.com",
+      "category": "芯片硬件",
+      "importance": 2,
+      "publishedAt": "2026-10-25T15:00:00Z"
+    },
+    {
+      "id": "63b92c9d8c42",
+      "title": "Robots will not have a \"ChatGPT moment\", but the boom has already begun.",
+      "summary": "Meanwhile, we have already witnessed the first wave of Physical AI companies stepping out of laboratories and prototype testing phases to boldly advance toward large-scale deployment in the real world...",
+      "highlights": [
+        "Meanwhile, we have already witnessed the first wave of Physical AI companies stepping out of laboratories and prototype testing phases to boldly advance toward large-scale deployment in the real world. In fact, Waymo has been walking this path in the autonomous driving sector for years. [...] Share by Image",
+        "Under the stringent fault-tolerance thresholds and high costs of idle hardware in the real world, embodied AI follows a penetration curve similar to that of autonomous driving, quietly initiating widespread adoption in vertical scenarios through exceptional reliability.",
+        "Author: RoboStrategy Research Team"
+      ],
+      "url": "https://www.techflowpost.com/en-US/article/34866",
+      "source": "techflowpost.com",
+      "category": "前沿理论",
+      "importance": 2,
+      "publishedAt": "2026-10-26T07:43:09Z"
     }
   ],
   "today": [
     {
+      "id": "d89f32d7e68d",
+      "title": "马斯克称SpaceX已完成400亿美元GPU债务融资，以可赎回债为主",
+      "summary": "新云公司（如Nebius和CoreWeave）与Alphabet、亚马逊等大型云服务商不同，主要面向科技客户，提供专为AI定制的算力服务。过去两周，市场已开始押注美国新云及数据中心公司走弱，担忧其依赖债务驱动的AI基础设施扩张难以为继，相关股票遭遇抛售。\n\n马斯克的表态，与SpaceX自身的融资逻辑形成鲜明对比：正是凭借星链和火箭发射业务提供的独立于AI数据中心的稳定收入，SpaceX才得以在信贷...",
+      "highlights": [
+        "新云公司（如Nebius和CoreWeave）与Alphabet、亚马逊等大型云服务商不同，主要面向科技客户，提供专为AI定制的算力服务",
+        "过去两周，市场已开始押注美国新云及数据中心公司走弱，担忧其依赖债务驱动的AI基础设施扩张难以为继，相关股票遭遇抛售",
+        "马斯克的表态，与SpaceX自身的融资逻辑形成鲜明对比：正是凭借星链和火箭发射业务提供的独立于AI数据中心的稳定收入，SpaceX才得以在信贷市场收紧之际维持融资渠道畅通"
+      ],
+      "url": "https://wallstreetcn.com/articles/3784441",
+      "source": "wallstreetcn.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-26T03:11:54Z"
+    },
+    {
+      "id": "63b5025fcdbf",
+      "title": "从开源首个3D算力软件底座到“年度科创先锋”，清微智能如何成为中国新质引擎-财经-金融界",
+      "summary": "展开 \n\n加载更多\n\n关闭 下载金融界app\n\n 行业巨头连续签下大单，全球数据中心光纤光缆需求同比激增\n 中东地缘风险持续，打开军工行业成长天花板\n 油价大幅上涨 机构关注集运+油运龙头企业盈利有保障（附概念股）\n 苹果首款折叠屏iPhone发布，三年创新周期提振供应链关注度\n 9月电子布价格环比再涨10%-20%，供需缺口支撑行业景气延续\n 水泥“涨价潮”席卷全国 行业供给有望持续优化(附概念...",
+      "highlights": [
+        "关闭 下载金融界app",
+        "行业巨头连续签下大单，全球数据中心光纤光缆需求同比激增",
+        "中东地缘风险持续，打开军工行业成长天花板"
+      ],
+      "url": "https://finance.jrj.com.cn/2026/10/26114858866254.shtml",
+      "source": "finance.jrj.com.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-26T03:00:00Z"
+    },
+    {
+      "id": "652c04d55be5",
+      "title": "国信证券:《物理AI行业深度报告：技术路径基本成熟，受益于工业智能化及自动化需求｜信息技术研报》-发现报告",
+      "summary": "具身智能指基于物理实体的智能系统，其核心运行机制依赖于感知、交互、学习三大要素，应用于人形机器人、智能工厂、自动驾驶、智能家居等领域。\n 2025年以来，我国具身智能产业政策持续升温，被纳入政府工作报告和“十五五”规划纲要，确立为国家未来产业的重点发展方向。\n 地方层面，产业正加速从单点突破转向系统布局，明确2027年核心产业规模、量产台数等量化目标，并通过资金与数据要素支持推进特色产业集群建设。...",
+      "highlights": [
+        "具身智能指基于物理实体的智能系统，其核心运行机制依赖于感知、交互、学习三大要素，应用于人形机器人、智能工厂、自动驾驶、智能家居等领域",
+        "2025年以来，我国具身智能产业政策持续升温，被纳入政府工作报告和“十五五”规划纲要，确立为国家未来产业的重点发展方向",
+        "地方层面，产业正加速从单点突破转向系统布局，明确2027年核心产业规模、量产台数等量化目标，并通过资金与数据要素支持推进特色产业集群建设"
+      ],
+      "url": "https://www.fxbaogao.com/detail/5800977",
+      "source": "fxbaogao.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-26T05:00:00Z"
+    },
+    {
+      "id": "781aaac8b906",
+      "title": "月之暗面发布Kimi K3.1 Pro 11月开放开源权重- AI",
+      "summary": "2026年10月24日，中国AI创业公司月之暗面推出最新大语言模型Kimi K3.1 Pro。该模型为今年7月发布的Kimi K3的后训练版本，参数量达3万亿，按计划将于11月4日通过开源",
+      "highlights": [
+        "2026年10月24日，中国AI创业公司月之暗面推出最新大语言模型Kimi K3.1 Pro",
+        "该模型为今年7月发布的Kimi K3的后训练版本，参数量达3万亿，按计划将于11月4日通过开源"
+      ],
+      "url": "https://www.ebrun.com/20261026/716353.shtml",
+      "source": "ebrun.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-26T08:00:00Z"
+    },
+    {
+      "id": "928806716edf",
+      "title": "Counterpoint：人形机器人AI芯片市场爆发",
+      "summary": "在垂直整合阵营中，特斯拉与小鹏汽车依托汽车制造经验、自研芯片、专有AI 模型以及软硬件全栈布局，有望重塑人形机器人AI 加速器格局。",
+      "highlights": [
+        "在垂直整合阵营中，特斯拉与小鹏汽车依托汽车制造经验、自研芯片、专有AI 模型以及软硬件全栈布局，有望重塑人形机器人AI 加速器格局"
+      ],
+      "url": "https://tech.ifeng.com/c/8xXe6BGxdJf",
+      "source": "tech.ifeng.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-26T10:00:00Z"
+    },
+    {
+      "id": "c864bd3d5e54",
+      "title": "无问芯穹与三体宇宙联合发布智子Agent 1.0，以Agentic Infra支撑科幻IP角色智能体落地-品玩",
+      "summary": "未来，双方还将进一步探索角色长期记忆与关系演进、多角色共享世界观协同叙事、多模态跨媒介交互等方向。无问芯穹也将持续沉淀支持多IP、多角色、多终端运营的共性基础设施能力，为包括三体宇宙在内的IP方提供可复用的底层支撑，推动科幻IP AI Agent从个案走向产业化发展。\n\n下载品玩App，比99.9%的人更先知道关于「业界动态」的新故事\n\n下载品玩App\n\n比99.9%的人更先知道关于「业界动态」的...",
+      "highlights": [
+        "未来，双方还将进一步探索角色长期记忆与关系演进、多角色共享世界观协同叙事、多模态跨媒介交互等方向",
+        "无问芯穹也将持续沉淀支持多IP、多角色、多终端运营的共性基础设施能力，为包括三体宇宙在内的IP方提供可复用的底层支撑，推动科幻IP AI Agent从个案走向产业化发展",
+        "下载品玩App，比99.9%的人更先知道关于「业界动态」的新故事"
+      ],
+      "url": "https://www.pingwest.com/a/318752",
+      "source": "pingwest.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-26T02:00:00Z"
+    },
+    {
+      "id": "f2060c46cf71",
+      "title": "个人智能体扎堆遭 APP 拒绝，松延动力冲刺港股 IPO | AI周报",
+      "summary": "本周核心变化：大模型进入“主动时代”. MiniMax 发布M3.1 Flash，Agent 价格降七成. MiniMax 正式发布新一代Flash 模型M3.1 Flash，主打Agent 任务交付能力升级，调用",
+      "highlights": [
+        "本周核心变化：大模型进入“主动时代”. MiniMax 发布M3.1 Flash，Agent 价格降七成. MiniMax 正式发布新一代Flash 模型M3.1 Flash，主打Agent 任务交付能力升级，调用"
+      ],
+      "url": "https://xiaguangshe.com/16703",
+      "source": "xiaguangshe.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-26T10:00:00Z"
+    },
+    {
+      "id": "1af9c31b3869",
+      "title": "What’s Riding on Anthropic Going Public? Nearly Everything. - The New York Times",
+      "summary": "Anthropic and OpenAI, its chief rival, sit atop a pyramid of business partners and suppliers — infrastructure providers, chipmakers, energy companies and A.I. start-ups — that have all spent heavily o...",
+      "highlights": [
+        "Anthropic and OpenAI, its chief rival, sit atop a pyramid of business partners and suppliers — infrastructure providers, chipmakers, energy companies and A.I. start-ups — that have all spent heavily over the last four years because they believe demand for A.I. products will keep growing. [...] Anthropic’s listing will provide the first in-depth look at the health of a key business underlying the A.I. boom — and will be a test of its durability. Is there unending appetite for A.I. services to justify the spending on chips, data centers and other infrastructure? Or will Anthropic’s performance show that there are limits?",
+        "“For the market, it’s a bellwether,” said Umesh Padval, an investor at Seligman Ventures, who has worked in tech for nearly 40 years. [...] Supported by",
+        "# What’s Riding on Anthropic’s Market Debut? Nearly Everything."
+      ],
+      "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html",
+      "source": "nytimes.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-26T09:02:15Z"
+    },
+    {
       "id": "53575c36d750",
       "title": "Multibillion-dollar M&A and infrastructure deals (Oct 2026)",
       "summary": "This week's headlines cover major AI financing plans by SpaceX and OpenAI, to Amazon's potential acquisition of an AI startup. $7 Billion Acquisition of AI",
@@ -344,10 +588,140 @@
       "category": "投并购",
       "importance": 2,
       "publishedAt": "2026-10-26T01:55:59Z"
+    },
+    {
+      "id": "63b92c9d8c42",
+      "title": "Robots will not have a \"ChatGPT moment\", but the boom has already begun.",
+      "summary": "Meanwhile, we have already witnessed the first wave of Physical AI companies stepping out of laboratories and prototype testing phases to boldly advance toward large-scale deployment in the real world...",
+      "highlights": [
+        "Meanwhile, we have already witnessed the first wave of Physical AI companies stepping out of laboratories and prototype testing phases to boldly advance toward large-scale deployment in the real world. In fact, Waymo has been walking this path in the autonomous driving sector for years. [...] Share by Image",
+        "Under the stringent fault-tolerance thresholds and high costs of idle hardware in the real world, embodied AI follows a penetration curve similar to that of autonomous driving, quietly initiating widespread adoption in vertical scenarios through exceptional reliability.",
+        "Author: RoboStrategy Research Team"
+      ],
+      "url": "https://www.techflowpost.com/en-US/article/34866",
+      "source": "techflowpost.com",
+      "category": "前沿理论",
+      "importance": 2,
+      "publishedAt": "2026-10-26T07:43:09Z"
     }
   ],
   "week": [
     {
+      "id": "d89f32d7e68d",
+      "title": "马斯克称SpaceX已完成400亿美元GPU债务融资，以可赎回债为主",
+      "summary": "新云公司（如Nebius和CoreWeave）与Alphabet、亚马逊等大型云服务商不同，主要面向科技客户，提供专为AI定制的算力服务。过去两周，市场已开始押注美国新云及数据中心公司走弱，担忧其依赖债务驱动的AI基础设施扩张难以为继，相关股票遭遇抛售。\n\n马斯克的表态，与SpaceX自身的融资逻辑形成鲜明对比：正是凭借星链和火箭发射业务提供的独立于AI数据中心的稳定收入，SpaceX才得以在信贷...",
+      "highlights": [
+        "新云公司（如Nebius和CoreWeave）与Alphabet、亚马逊等大型云服务商不同，主要面向科技客户，提供专为AI定制的算力服务",
+        "过去两周，市场已开始押注美国新云及数据中心公司走弱，担忧其依赖债务驱动的AI基础设施扩张难以为继，相关股票遭遇抛售",
+        "马斯克的表态，与SpaceX自身的融资逻辑形成鲜明对比：正是凭借星链和火箭发射业务提供的独立于AI数据中心的稳定收入，SpaceX才得以在信贷市场收紧之际维持融资渠道畅通"
+      ],
+      "url": "https://wallstreetcn.com/articles/3784441",
+      "source": "wallstreetcn.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-26T03:11:54Z"
+    },
+    {
+      "id": "63b5025fcdbf",
+      "title": "从开源首个3D算力软件底座到“年度科创先锋”，清微智能如何成为中国新质引擎-财经-金融界",
+      "summary": "展开 \n\n加载更多\n\n关闭 下载金融界app\n\n 行业巨头连续签下大单，全球数据中心光纤光缆需求同比激增\n 中东地缘风险持续，打开军工行业成长天花板\n 油价大幅上涨 机构关注集运+油运龙头企业盈利有保障（附概念股）\n 苹果首款折叠屏iPhone发布，三年创新周期提振供应链关注度\n 9月电子布价格环比再涨10%-20%，供需缺口支撑行业景气延续\n 水泥“涨价潮”席卷全国 行业供给有望持续优化(附概念...",
+      "highlights": [
+        "关闭 下载金融界app",
+        "行业巨头连续签下大单，全球数据中心光纤光缆需求同比激增",
+        "中东地缘风险持续，打开军工行业成长天花板"
+      ],
+      "url": "https://finance.jrj.com.cn/2026/10/26114858866254.shtml",
+      "source": "finance.jrj.com.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-26T03:00:00Z"
+    },
+    {
+      "id": "652c04d55be5",
+      "title": "国信证券:《物理AI行业深度报告：技术路径基本成熟，受益于工业智能化及自动化需求｜信息技术研报》-发现报告",
+      "summary": "具身智能指基于物理实体的智能系统，其核心运行机制依赖于感知、交互、学习三大要素，应用于人形机器人、智能工厂、自动驾驶、智能家居等领域。\n 2025年以来，我国具身智能产业政策持续升温，被纳入政府工作报告和“十五五”规划纲要，确立为国家未来产业的重点发展方向。\n 地方层面，产业正加速从单点突破转向系统布局，明确2027年核心产业规模、量产台数等量化目标，并通过资金与数据要素支持推进特色产业集群建设。...",
+      "highlights": [
+        "具身智能指基于物理实体的智能系统，其核心运行机制依赖于感知、交互、学习三大要素，应用于人形机器人、智能工厂、自动驾驶、智能家居等领域",
+        "2025年以来，我国具身智能产业政策持续升温，被纳入政府工作报告和“十五五”规划纲要，确立为国家未来产业的重点发展方向",
+        "地方层面，产业正加速从单点突破转向系统布局，明确2027年核心产业规模、量产台数等量化目标，并通过资金与数据要素支持推进特色产业集群建设"
+      ],
+      "url": "https://www.fxbaogao.com/detail/5800977",
+      "source": "fxbaogao.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-26T05:00:00Z"
+    },
+    {
+      "id": "781aaac8b906",
+      "title": "月之暗面发布Kimi K3.1 Pro 11月开放开源权重- AI",
+      "summary": "2026年10月24日，中国AI创业公司月之暗面推出最新大语言模型Kimi K3.1 Pro。该模型为今年7月发布的Kimi K3的后训练版本，参数量达3万亿，按计划将于11月4日通过开源",
+      "highlights": [
+        "2026年10月24日，中国AI创业公司月之暗面推出最新大语言模型Kimi K3.1 Pro",
+        "该模型为今年7月发布的Kimi K3的后训练版本，参数量达3万亿，按计划将于11月4日通过开源"
+      ],
+      "url": "https://www.ebrun.com/20261026/716353.shtml",
+      "source": "ebrun.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-26T08:00:00Z"
+    },
+    {
+      "id": "928806716edf",
+      "title": "Counterpoint：人形机器人AI芯片市场爆发",
+      "summary": "在垂直整合阵营中，特斯拉与小鹏汽车依托汽车制造经验、自研芯片、专有AI 模型以及软硬件全栈布局，有望重塑人形机器人AI 加速器格局。",
+      "highlights": [
+        "在垂直整合阵营中，特斯拉与小鹏汽车依托汽车制造经验、自研芯片、专有AI 模型以及软硬件全栈布局，有望重塑人形机器人AI 加速器格局"
+      ],
+      "url": "https://tech.ifeng.com/c/8xXe6BGxdJf",
+      "source": "tech.ifeng.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-26T10:00:00Z"
+    },
+    {
+      "id": "c864bd3d5e54",
+      "title": "无问芯穹与三体宇宙联合发布智子Agent 1.0，以Agentic Infra支撑科幻IP角色智能体落地-品玩",
+      "summary": "未来，双方还将进一步探索角色长期记忆与关系演进、多角色共享世界观协同叙事、多模态跨媒介交互等方向。无问芯穹也将持续沉淀支持多IP、多角色、多终端运营的共性基础设施能力，为包括三体宇宙在内的IP方提供可复用的底层支撑，推动科幻IP AI Agent从个案走向产业化发展。\n\n下载品玩App，比99.9%的人更先知道关于「业界动态」的新故事\n\n下载品玩App\n\n比99.9%的人更先知道关于「业界动态」的...",
+      "highlights": [
+        "未来，双方还将进一步探索角色长期记忆与关系演进、多角色共享世界观协同叙事、多模态跨媒介交互等方向",
+        "无问芯穹也将持续沉淀支持多IP、多角色、多终端运营的共性基础设施能力，为包括三体宇宙在内的IP方提供可复用的底层支撑，推动科幻IP AI Agent从个案走向产业化发展",
+        "下载品玩App，比99.9%的人更先知道关于「业界动态」的新故事"
+      ],
+      "url": "https://www.pingwest.com/a/318752",
+      "source": "pingwest.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-26T02:00:00Z"
+    },
+    {
+      "id": "f2060c46cf71",
+      "title": "个人智能体扎堆遭 APP 拒绝，松延动力冲刺港股 IPO | AI周报",
+      "summary": "本周核心变化：大模型进入“主动时代”. MiniMax 发布M3.1 Flash，Agent 价格降七成. MiniMax 正式发布新一代Flash 模型M3.1 Flash，主打Agent 任务交付能力升级，调用",
+      "highlights": [
+        "本周核心变化：大模型进入“主动时代”. MiniMax 发布M3.1 Flash，Agent 价格降七成. MiniMax 正式发布新一代Flash 模型M3.1 Flash，主打Agent 任务交付能力升级，调用"
+      ],
+      "url": "https://xiaguangshe.com/16703",
+      "source": "xiaguangshe.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-26T10:00:00Z"
+    },
+    {
+      "id": "1af9c31b3869",
+      "title": "What’s Riding on Anthropic Going Public? Nearly Everything. - The New York Times",
+      "summary": "Anthropic and OpenAI, its chief rival, sit atop a pyramid of business partners and suppliers — infrastructure providers, chipmakers, energy companies and A.I. start-ups — that have all spent heavily o...",
+      "highlights": [
+        "Anthropic and OpenAI, its chief rival, sit atop a pyramid of business partners and suppliers — infrastructure providers, chipmakers, energy companies and A.I. start-ups — that have all spent heavily over the last four years because they believe demand for A.I. products will keep growing. [...] Anthropic’s listing will provide the first in-depth look at the health of a key business underlying the A.I. boom — and will be a test of its durability. Is there unending appetite for A.I. services to justify the spending on chips, data centers and other infrastructure? Or will Anthropic’s performance show that there are limits?",
+        "“For the market, it’s a bellwether,” said Umesh Padval, an investor at Seligman Ventures, who has worked in tech for nearly 40 years. [...] Supported by",
+        "# What’s Riding on Anthropic’s Market Debut? Nearly Everything."
+      ],
+      "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html",
+      "source": "nytimes.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-26T09:02:15Z"
+    },
+    {
       "id": "53575c36d750",
       "title": "Multibillion-dollar M&A and infrastructure deals (Oct 2026)",
       "summary": "This week's headlines cover major AI financing plans by SpaceX and OpenAI, to Amazon's potential acquisition of an AI startup. $7 Billion Acquisition of AI",
@@ -386,6 +760,21 @@
       "category": "投并购",
       "importance": 2,
       "publishedAt": "2026-10-26T01:55:59Z"
+    },
+    {
+      "id": "63b92c9d8c42",
+      "title": "Robots will not have a \"ChatGPT moment\", but the boom has already begun.",
+      "summary": "Meanwhile, we have already witnessed the first wave of Physical AI companies stepping out of laboratories and prototype testing phases to boldly advance toward large-scale deployment in the real world...",
+      "highlights": [
+        "Meanwhile, we have already witnessed the first wave of Physical AI companies stepping out of laboratories and prototype testing phases to boldly advance toward large-scale deployment in the real world. In fact, Waymo has been walking this path in the autonomous driving sector for years. [...] Share by Image",
+        "Under the stringent fault-tolerance thresholds and high costs of idle hardware in the real world, embodied AI follows a penetration curve similar to that of autonomous driving, quietly initiating widespread adoption in vertical scenarios through exceptional reliability.",
+        "Author: RoboStrategy Research Team"
+      ],
+      "url": "https://www.techflowpost.com/en-US/article/34866",
+      "source": "techflowpost.com",
+      "category": "前沿理论",
+      "importance": 2,
+      "publishedAt": "2026-10-26T07:43:09Z"
     }
   ],
   "month": [
@@ -446,6 +835,21 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-10-25T08:09:32Z"
+    },
+    {
+      "id": "2aac72938366",
+      "title": "投看Tocanvc10.19 ~10.25 每周融资简报：具身智能与半导体集中爆发_凤凰网",
+      "summary": "本周硬科技融资维持高景气度，具身智能整条产业链获得资本完整加持，从大算力芯片、存算一体、RISC-V 内核、力控执行器、多模态物理数据集、仿真平台一直到整机本体与场景落地，上下游同步拿到资金，产业生态建设全面提速。海外大额融资集中在 AI 芯片、商业航天、生物合成领域，并购则偏向数据平台、仿真工具类技术公司，技术壁垒与产业协同价值成为核心投资逻辑。\n\n生物医药赛道多点开花，合成生物、基因疗法、CR...",
+      "highlights": [
+        "本周硬科技融资维持高景气度，具身智能整条产业链获得资本完整加持，从大算力芯片、存算一体、RISC-V 内核、力控执行器、多模态物理数据集、仿真平台一直到整机本体与场景落地，上下游同步拿到资金，产业生态建设全面提速",
+        "海外大额融资集中在 AI 芯片、商业航天、生物合成领域，并购则偏向数据平台、仿真工具类技术公司，技术壁垒与产业协同价值成为核心投资逻辑",
+        "生物医药赛道多点开花，合成生物、基因疗法、CRO、宠物药多条管线持续推进，AI 与生物技术的融合持续深化，创新药研发效率与成功率逐步提升"
+      ],
+      "url": "https://finance.ifeng.com/c/8xWUaVaDRTw",
+      "source": "finance.ifeng.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-25T10:33:35Z"
     },
     {
       "id": "99f9946b4732",
@@ -518,21 +922,6 @@
       ],
       "url": "https://www.transformernews.ai/p/php-flaw-cyberpocalypse-is-here-sort-of",
       "source": "transformernews.ai",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-23T13:00:00Z"
-    },
-    {
-      "id": "2ca8921c8a79",
-      "title": "宇树涨停 王兴兴称通用大模型可能“击穿”物理AI_公司频道_财新网",
-      "summary": "在10月22日的宇树合作伙伴生态大会上，王兴兴提到，通用的AI大模型已经有苗头“击穿”物理AI。王兴兴展示了OpenAI最近发布的GPT-6 Astra大模型操控机器人的视频，在没有经过任何提前训练的前提下，GPT-6 Astra直接“上手”操控机器人画画，机器人不仅能用笔作水彩画，还能在换颜料的时候，在桌上的水碗中自主清洗笔刷。\n\n推荐进入财新数据库，可随时查阅公司股价走势、结构人员变化等投资信...",
-      "highlights": [
-        "在10月22日的宇树合作伙伴生态大会上，王兴兴提到，通用的AI大模型已经有苗头“击穿”物理AI",
-        "王兴兴展示了OpenAI最近发布的GPT-6 Astra大模型操控机器人的视频，在没有经过任何提前训练的前提下，GPT-6 Astra直接“上手”操控机器人画画，机器人不仅能用笔作水彩画，还能在换颜料的时候，在桌上的水碗中自主清洗笔刷",
-        "推荐进入财新数据库，可随时查阅公司股价走势、结构人员变化等投资信息"
-      ],
-      "url": "https://companies.caixin.com/2026-10-23/102496638.html",
-      "source": "companies.caixin.com",
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-10-23T13:00:00Z"
