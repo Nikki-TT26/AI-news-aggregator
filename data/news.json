@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T17:42:53Z",
+  "updatedAt": "2026-10-26T21:57:40Z",
   "latest": [
     {
       "id": "4ee506c0f117",
@@ -240,6 +240,36 @@
       "publishedAt": "2026-10-26T09:46:00Z"
     },
     {
+      "id": "da1ac942daae",
+      "title": "亚马逊向英伟达CUDA发起挑战：AI芯片战争，终于打到了软件生态的核心_财富号_东方财富网",
+      "summary": "评论 0 \n\n收藏\n\n大 中 小\n\n2026年10月19日，亚马逊公布了一项看似属于开发者工具、实际上可能影响全球AI计算产业格局的新动作：推出TorchNeuron，使开发者能够以较小的代码修改成本，将基于PyTorch框架开发的AI程序运行在亚马逊自研的Trainium芯片上。该工具计划以免费开源的形式发布，核心目标是降低开发者从英伟达GPU迁移到亚马逊自研加速器的难度。根据路透社报道，亚马逊...",
+      "highlights": [
+        "2026年10月19日，亚马逊公布了一项看似属于开发者工具、实际上可能影响全球AI计算产业格局的新动作：推出TorchNeuron，使开发者能够以较小的代码修改成本，将基于PyTorch框架开发的AI程序运行在亚马逊自研的Trainium芯片上",
+        "该工具计划以免费开源的形式发布，核心目标是降低开发者从英伟达GPU迁移到亚马逊自研加速器的难度",
+        "根据路透社报道，亚马逊表示，已有30多个早期客户在机器人、世界模型和语音AI等领域测试相关方案"
+      ],
+      "url": "https://caifuhao.eastmoney.com/news/20261022120534561302840",
+      "source": "caifuhao.eastmoney.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-25T01:00:00Z"
+    },
+    {
+      "id": "d88d5337fdcc",
+      "title": "国信证券：深耕产业沃土 做科创同行者_搜狐网",
+      "summary": "这一创新的意义，不仅在于帮助一家创投机构获得资本动能，更在于打通长期资金进入科技创新领域的新渠道。\n\n创投机构通过发行科创债获得长期低成本资金，再将资金通过股权投资投向人工智能、半导体、生物医药等科技企业，形成“债券融资—股权投资—产业培育”的资金传导链条。\n\n2025年11月，国信证券还独立主承销全国首批科创可转债。科创可转债兼具债权融资和股权转化属性，为研发投入大、成长周期较长的科技企业提供了...",
+      "highlights": [
+        "这一创新的意义，不仅在于帮助一家创投机构获得资本动能，更在于打通长期资金进入科技创新领域的新渠道",
+        "创投机构通过发行科创债获得长期低成本资金，再将资金通过股权投资投向人工智能、半导体、生物医药等科技企业，形成“债券融资—股权投资—产业培育”的资金传导链条",
+        "2025年11月，国信证券还独立主承销全国首批科创可转债"
+      ],
+      "url": "https://m.sohu.com/a/1092675502_161794?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-25T23:26:40Z"
+    },
+    {
       "id": "7446df164f28",
       "title": "监管提高机器人企业IPO门槛后，具身智能资本动作密集而投资人心态分化",
       "summary": "监管提高机器人企业IPO门槛后，松延动力被传保密提交香港IPO申请、智元推进新一轮融资，具身智能企业资本动作仍密集。投资人对接续出手出现分化，IPO预期节奏调整，",
@@ -339,19 +369,19 @@
       "publishedAt": "2026-10-26T10:00:00Z"
     },
     {
-      "id": "8dc71b69fa7c",
-      "title": "菲尔兹奖不保险：AI三个月爆破百年数学难题",
-      "summary": "OpenAI发布722篇数学论文，菲尔兹奖得主含泪见证AI碾压。从黎曼猜想到卡塔兰常数，困扰学界百年的难题瞬间被破解。AI三巨头军备竞速，数学家的饭碗、信念和未来一夜",
+      "id": "317539b9b736",
+      "title": "Instagram",
+      "summary": "igsoka\n\n小米自研芯片版图迎来全面爆发！全新智能手机AI芯片XRING O3预计采用3纳米工艺，集成CPU、GPU与NPU，AI算力高达200 TOPS，将搭载于新款折叠屏手机小米18 Fold。此外，小米还计划在2027年上半年商用AI加速器XRING O100及自研纯电汽车智驾芯片XRING D100，全面进军AI数据处理与自动驾驶核心芯片赛道。 #小米 #自研芯片 #半导体 #人工智能...",
       "highlights": [
-        "OpenAI发布722篇数学论文，菲尔兹奖得主含泪见证AI碾压",
-        "从黎曼猜想到卡塔兰常数，困扰学界百年的难题瞬间被破解",
-        "AI三巨头军备竞速，数学家的饭碗、信念和未来一夜"
+        "小米自研芯片版图迎来全面爆发",
+        "全新智能手机AI芯片XRING O3预计采用3纳米工艺，集成CPU、GPU与NPU，AI算力高达200 TOPS，将搭载于新款折叠屏手机小米18 Fold",
+        "此外，小米还计划在2027年上半年商用AI加速器XRING O100及自研纯电汽车智驾芯片XRING D100，全面进军AI数据处理与自动驾驶核心芯片赛道"
       ],
-      "url": "https://haiwaiwai.com/news/231023",
-      "source": "haiwaiwai.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-24T18:00:00Z"
+      "url": "https://www.instagram.com/p/DeyFKxhhus0",
+      "source": "instagram.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-26T21:57:40Z"
     },
     {
       "id": "bc5afb537773",
@@ -408,36 +438,6 @@
       "category": "模型发布",
       "importance": 3,
       "publishedAt": "2026-10-24T22:16:28Z"
-    },
-    {
-      "id": "09740453f09f",
-      "title": "Instagram",
-      "summary": "Driven by rapid commercial adoption and soaring valuations, some AI startups are generating secondary demand and activity much earlier in their lifecycles compared to traditional timelines. But does t...",
-      "highlights": [
-        "Driven by rapid commercial adoption and soaring valuations, some AI startups are generating secondary demand and activity much earlier in their lifecycles compared to traditional timelines. But does this represent a temporary, cycle-driven surge—or a permanent shift in private-market liquidity expectations?",
-        "In our latest post on EquityZen Insights, we break down the data to find out.",
-        "To read the full article 👉 link in bio."
-      ],
-      "url": "https://www.instagram.com/p/DetzzknFg2E",
-      "source": "instagram.com",
-      "category": "行业话题",
-      "importance": 2,
-      "publishedAt": "2026-10-25T10:14:12Z"
-    },
-    {
-      "id": "a7a6acb9265c",
-      "title": "Instagram",
-      "summary": "besteduhk\n\n【港產具身智能②/理大澳大聯合實驗室 攜手攻關多個項目　情感機械人服務長者及自動駕駛】具身智能發展迅速，已在服務行業嶄露頭角。香港理工大學與澳門大學合辦的「機器人與具身智能聯合實驗室」（下稱「聯合實驗室」）成立半年，已在多個項目中開展合作，包括服務長者的情感機械人、自動駕駛等。  \n  \n實驗室負責人之一、澳門大學信息學院院長須成忠教授日前接受《大公報》專訪時透露，實驗室其中...",
-      "highlights": [
-        "【港產具身智能②/理大澳大聯合實驗室 攜手攻關多個項目　情感機械人服務長者及自動駕駛】具身智能發展迅速，已在服務行業嶄露頭角",
-        "香港理工大學與澳門大學合辦的「機器人與具身智能聯合實驗室」（下稱「聯合實驗室」）成立半年，已在多個項目中開展合作，包括服務長者的情感機械人、自動駕駛等",
-        "實驗室負責人之一、澳門大學信息學院院長須成忠教授日前接受《大公報》專訪時透露，實驗室其中一項具有歷史性意義的研究成果，便是規劃橫琴直通澳門的自動駕駛跨境巴士，目標是三年內完成落地，作為澳門回歸祖國30周年的獻禮工程"
-      ],
-      "url": "https://www.instagram.com/p/DesdaNhjT2D",
-      "source": "instagram.com",
-      "category": "具身智能",
-      "importance": 2,
-      "publishedAt": "2026-10-25T15:06:53Z"
     }
   ],
   "today": [
@@ -662,6 +662,21 @@
       "publishedAt": "2026-10-26T10:00:00Z"
     },
     {
+      "id": "317539b9b736",
+      "title": "Instagram",
+      "summary": "igsoka\n\n小米自研芯片版图迎来全面爆发！全新智能手机AI芯片XRING O3预计采用3纳米工艺，集成CPU、GPU与NPU，AI算力高达200 TOPS，将搭载于新款折叠屏手机小米18 Fold。此外，小米还计划在2027年上半年商用AI加速器XRING O100及自研纯电汽车智驾芯片XRING D100，全面进军AI数据处理与自动驾驶核心芯片赛道。 #小米 #自研芯片 #半导体 #人工智能...",
+      "highlights": [
+        "小米自研芯片版图迎来全面爆发",
+        "全新智能手机AI芯片XRING O3预计采用3纳米工艺，集成CPU、GPU与NPU，AI算力高达200 TOPS，将搭载于新款折叠屏手机小米18 Fold",
+        "此外，小米还计划在2027年上半年商用AI加速器XRING O100及自研纯电汽车智驾芯片XRING D100，全面进军AI数据处理与自动驾驶核心芯片赛道"
+      ],
+      "url": "https://www.instagram.com/p/DeyFKxhhus0",
+      "source": "instagram.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-26T21:57:40Z"
+    },
+    {
       "id": "53575c36d750",
       "title": "Multibillion-dollar M&A and infrastructure deals (Oct 2026)",
       "summary": "This week's headlines cover major AI financing plans by SpaceX and OpenAI, to Amazon's potential acquisition of an AI startup. $7 Billion Acquisition of AI",
@@ -724,6 +739,48 @@
         "→DeepSeek大模型,登顶全球第一根据OpenRouter最新数据测算,上周(10月19日至25日)全球AI大模型总调用量为188万亿Token..."
       ],
       "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS07XdexdSAmpbeNBSftnGsAqkZ_Sx3PrI1qXa8Fplpd9i0_taK8SlCyhtjxsUnWcnTbpCoj3uqwt0po0xpA51gnKA__otoiE1QaR78r-lBzYxdgnqQKmLj2n885kubTBtaItbzlCm9iouSt4iGbBkph4xms3GVk4S2kmHN2JF0CkHMuPBWxIkWFkmc5EN-jGcj1i1IQHPzMCbDmFHvukJRlr1dbZWbKUeQ..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=97358ABB16A4658CBCBAE27C672A3F64BD4D41636ADF9116",
+      "source": "微信公众号",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-10-26T11:00:58Z"
+    },
+    {
+      "id": "76de845d2633",
+      "title": "从问答走向交付：AI智能体转向生产线，释放了哪些信号？-中国新闻网-浙江新闻",
+      "summary": "安徽|北京|重庆|福建|甘肃|贵州|广东|广西|海南|河北|河南|湖北|湖南|黑龙江|江苏|江西|吉林|辽宁|内蒙古|宁夏|青海|山东|山西|陕西|上海|四川|天津|新疆|兵团|云南|浙江\n\n\n\n\n\n\n\n\n\n主办单位:中国新闻社浙江分社 地址:浙江省杭州市文一西路1199号中新大厦11楼 邮编:311100\n\n联系电话:0571-8832 5066 投稿信箱:zhejiang@chinanews....",
+      "highlights": [
+        "安徽|北京|重庆|福建|甘肃|贵州|广东|广西|海南|河北|河南|湖北|湖南|黑龙江|江苏|江西|吉林|辽宁|内蒙古|宁夏|青海|山东|山西|陕西|上海|四川|天津|新疆|兵团|云南|浙江",
+        "主办单位:中国新闻社浙江分社 地址:浙江省杭州市文一西路1199号中新大厦11楼 邮编:311100",
+        "联系电话:0571-8832 5066 投稿信箱:zhejiang@chinanews.com.cn"
+      ],
+      "url": "http://www.zj.chinanews.com.cn/jzkzj/2026-10-26/detail-ihfmppat9983245.shtml",
+      "source": "zj.chinanews.com.cn",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-10-26T05:00:00Z"
+    },
+    {
+      "id": "bd1df692ebe1",
+      "title": "南方财经全媒体集团",
+      "summary": "南方财经网是南方财经全媒体集团门户网站，主打财经新闻，是21世纪经济报道、TVS1、投资快报等原创新闻最重要的展现平台。同时有机整合21财经客户端深度策划、抢鲜报及",
+      "highlights": [
+        "南方财经网是南方财经全媒体集团门户网站，主打财经新闻，是21世纪经济报道、TVS1、投资快报等原创新闻最重要的展现平台",
+        "同时有机整合21财经客户端深度策划、抢鲜报及"
+      ],
+      "url": "https://m.sfccn.com/2026/10-26/2NMDE0MDRfMjI4MzE2NA.html",
+      "source": "m.sfccn.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-26T14:00:00Z"
+    },
+    {
+      "id": "fdb271d86e6c",
+      "title": "AI快讯:DeepSeek大模型周调用量全球第一,松下员工违规上传几十万人信息至AI平台",
+      "summary": "→DeepSeek大模型,登顶全球第一根据OpenRouter最新数据测算,上周(10月19日至25日)全球AI大模型总调用量为188万亿Token...",
+      "highlights": [
+        "→DeepSeek大模型,登顶全球第一根据OpenRouter最新数据测算,上周(10月19日至25日)全球AI大模型总调用量为188万亿Token..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS07XdexdSAmpe8wsGJsysAhgpLDFyxV--VqXa8Fplpd9DYpEtYjl7mns6yhlHtG9nXNVk9zfKR0vWeonI0_cZd6ZRQQNh1uiZFAHhmlN8tauelovqTVaScqWQMQNs3QWfTHO2TLIzKGV3YGdLES_OeKmh6Rr-53wEUUP-5Jqzm1v858dXZezJQYZ_-2nvlSZN8QDuWgo80OTUCNZfkBJ4Xzm0CtGSSkZQQ..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=99337CFB2E834FF3E6E0B9238D2F22E7E79C12B66ADFCCCD",
       "source": "微信公众号",
       "category": "模型发布",
       "importance": 2,
