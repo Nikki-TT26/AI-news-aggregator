@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T16:55:03Z",
+  "updatedAt": "2026-10-27T21:30:58Z",
   "latest": [
     {
       "id": "d89f32d7e68d",
@@ -435,18 +435,19 @@
       "publishedAt": "2026-10-27T01:38:45Z"
     },
     {
-      "id": "781aaac8b906",
-      "title": "月之暗面发布Kimi K3.1 Pro 11月开放开源权重- AI",
-      "summary": "2026年10月24日，中国AI创业公司月之暗面推出最新大语言模型Kimi K3.1 Pro。该模型为今年7月发布的Kimi K3的后训练版本，参数量达3万亿，按计划将于11月4日通过开源",
+      "id": "301f53556c43",
+      "title": "AI融资冷热分化：股票投资者热情升温 债券投资者趋谨慎",
+      "summary": "AI建设需要源源不断的资金\n\nAI基础设施建设需要持续不断的资金投入，也需要投资者长期支持科技企业雄心勃勃的资本开支计划。为满足这些需求，企业正积极利用股票发行、私人贷款、项目融资和债券等各类融资渠道，其中项目融资规模今年已大幅增长。\n\n高盛首席信贷策略师Amanda Lynam表示：“这从一开始就注定需要各类融资渠道共同发力。”\n\n近期三项重大融资进展凸显了AI企业对资金的迫切需求。\n\nMeta...",
       "highlights": [
-        "2026年10月24日，中国AI创业公司月之暗面推出最新大语言模型Kimi K3.1 Pro",
-        "该模型为今年7月发布的Kimi K3的后训练版本，参数量达3万亿，按计划将于11月4日通过开源"
+        "AI建设需要源源不断的资金",
+        "AI基础设施建设需要持续不断的资金投入，也需要投资者长期支持科技企业雄心勃勃的资本开支计划",
+        "为满足这些需求，企业正积极利用股票发行、私人贷款、项目融资和债券等各类融资渠道，其中项目融资规模今年已大幅增长"
       ],
-      "url": "https://www.ebrun.com/20261026/716353.shtml",
-      "source": "ebrun.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-26T08:00:00Z"
+      "url": "https://www.cls.cn/detail/2516946",
+      "source": "cls.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-27T13:00:00Z"
     }
   ],
   "today": [
@@ -541,6 +542,36 @@
       "publishedAt": "2026-10-27T01:38:45Z"
     },
     {
+      "id": "301f53556c43",
+      "title": "AI融资冷热分化：股票投资者热情升温 债券投资者趋谨慎",
+      "summary": "AI建设需要源源不断的资金\n\nAI基础设施建设需要持续不断的资金投入，也需要投资者长期支持科技企业雄心勃勃的资本开支计划。为满足这些需求，企业正积极利用股票发行、私人贷款、项目融资和债券等各类融资渠道，其中项目融资规模今年已大幅增长。\n\n高盛首席信贷策略师Amanda Lynam表示：“这从一开始就注定需要各类融资渠道共同发力。”\n\n近期三项重大融资进展凸显了AI企业对资金的迫切需求。\n\nMeta...",
+      "highlights": [
+        "AI建设需要源源不断的资金",
+        "AI基础设施建设需要持续不断的资金投入，也需要投资者长期支持科技企业雄心勃勃的资本开支计划",
+        "为满足这些需求，企业正积极利用股票发行、私人贷款、项目融资和债券等各类融资渠道，其中项目融资规模今年已大幅增长"
+      ],
+      "url": "https://www.cls.cn/detail/2516946",
+      "source": "cls.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-27T13:00:00Z"
+    },
+    {
+      "id": "5a88faeb9441",
+      "title": "Instagram",
+      "summary": "🤖💥 Anthropic just signed one of the biggest compute deals in AI history.  \n  \nThe maker of Claude has agreed multibillion-dollar deals with Google and Broadcom, securing access to up to 1 MILLION of G...",
+      "highlights": [
+        "🤖💥 Anthropic just signed one of the biggest compute deals in AI history.",
+        "The maker of Claude has agreed multibillion-dollar deals with Google and Broadcom, securing access to up to 1 MILLION of Google's custom TPUs and enough new capacity to bring more than a gigawatt of computing power online by the end of 2026. ⚡",
+        "That's not a chip order. That's a power station for intelligence. 🚀 [...] 💬 The AI arms race isn't slowing down — it's going megawatt. Who's your bet on: Anthropic or OpenAI?"
+      ],
+      "url": "https://www.instagram.com/p/De3cGuTFvzC",
+      "source": "instagram.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-27T21:30:58Z"
+    },
+    {
       "id": "260a983eaeb4",
       "title": "星火医疗大模型V3.7发布，讯飞晓医三大核心能力重磅升级-CSDN.NET",
       "summary": "本次论坛汇聚了国家卫生健康委医管中心、中国信息通信研究院、中国心血管健康联盟，中日友好医院、解放军总医院国家骨科与运动康复临床研究中心、山东大学齐鲁医院、中国科学技术大学附属第一医院（安徽省立医院）、中南大学湘雅医院、首都医科大学宣武医院、北京大学第一医院、北京安定医院，以及中华医学会杂志社、人民卫生电子音像出版社等行业专家。会上，讯飞医疗正式发布AI患者管理平台3.0，并携手产学研用各方正式启动...",
@@ -598,6 +629,46 @@
       "category": "产品进展",
       "importance": 3,
       "publishedAt": "2026-10-27T10:00:00Z"
+    },
+    {
+      "id": "86cb137773c3",
+      "title": "数千亿资金“押注”AI与人形机器人赛道",
+      "summary": "政策红利与增量资金双向共振，国内股权投资市场格局正在发生深刻变化。2026年前三季度，一级市场募、投、退三端同步回暖；资本加速向人工智能",
+      "highlights": [
+        "政策红利与增量资金双向共振，国内股权投资市场格局正在发生深刻变化",
+        "2026年前三季度，一级市场募、投、退三端同步回暖；资本加速向人工智能"
+      ],
+      "url": "https://finance.sina.cn/stock/ggyj/2026-10-27/detail-iniwrqsv8914775.d.html?vt=4&wm=2284_1116%3Fpt",
+      "source": "finance.sina.cn",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-10-27T05:00:00Z"
+    },
+    {
+      "id": "91fe1d121ea8",
+      "title": "Is my bearishness on OpenAI/Anthropic justified?",
+      "summary": "I think I remain ultimately bearish on OpenAI and Anthropic’s position in the market but I wanted to iterate a few points on here and see if I’m",
+      "highlights": [
+        "I think I remain ultimately bearish on OpenAI and Anthropic’s position in the market but I wanted to iterate a few points on here and see if I’m"
+      ],
+      "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1xf1whn/is_my_bearishness_on_openaianthropic_justified",
+      "source": "reddit.com",
+      "category": "行业话题",
+      "importance": 3,
+      "publishedAt": "2026-10-27T21:30:58Z"
+    },
+    {
+      "id": "6f881e498ae3",
+      "title": "安记食品(603696):安记食品股份有限公司关于聘任公司董事会秘书",
+      "summary": "原标题:安记食品:安记食品股份有限公司关于聘任公司董事会秘书的公告. 证券代码：603696 证券简称：安记食品 公告编号：2026-038",
+      "highlights": [
+        "原标题:安记食品:安记食品股份有限公司关于聘任公司董事会秘书的公告. 证券代码：603696 证券简称：安记食品 公告编号：2026-038"
+      ],
+      "url": "https://www.cfi.net.cn/p20261027000913.html",
+      "source": "cfi.net.cn",
+      "category": "行业话题",
+      "importance": 2,
+      "publishedAt": "2026-10-27T08:00:00Z"
     }
   ],
   "week": [
@@ -859,21 +930,6 @@
       "publishedAt": "2026-10-26T03:00:00Z"
     },
     {
-      "id": "5708cc8a762c",
-      "title": "中签不等于赚钱，港股IPO热潮“降温” - 21经济网",
-      "summary": "蓝水资本首席投资官李泽铭表示，IPO上市过程中散户认购意愿比较低，部分认购冷淡的IPO可能存在关联方“围飞”操作，就是募资通过未披露安排回流到承配人，并未真正用于公司运营，这种情况以前比较罕见，最近港股上市IPO比较多，但市场资金有限，香港证监会深入调查并披露案情，显示监管层对严重违规行为的执法态度，对案件还原度也可能继续提高。如果违规查实，相关集资额可能面临还原或退还，涉事公司甚至可能被撤销上市...",
-      "highlights": [
-        "蓝水资本首席投资官李泽铭表示，IPO上市过程中散户认购意愿比较低，部分认购冷淡的IPO可能存在关联方“围飞”操作，就是募资通过未披露安排回流到承配人，并未真正用于公司运营，这种情况以前比较罕见，最近港股上市IPO比较多，但市场资金有限，香港证监会深入调查并披露案情，显示监管层对严重违规行为的执法态度，对案件还原度也可能继续提高",
-        "如果违规查实，相关集资额可能面临还原或退还，涉事公司甚至可能被撤销上市地位；涉案机构与人员除面临罚款、吊销牌照等处分外，还可能被追究刑事责任",
-        "数据上看，2026年前三季度，港股IPO募资额已达到3880亿港元，同比增长106%，全年有望冲击5000亿港元历史新高"
-      ],
-      "url": "https://www.21jingji.com/article/20261025/herald/a43d47ba68cbb5882c7b78f406f8d887.html",
-      "source": "21jingji.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-25T12:00:00Z"
-    },
-    {
       "id": "652c04d55be5",
       "title": "国信证券:《物理AI行业深度报告：技术路径基本成熟，受益于工业智能化及自动化需求｜信息技术研报》-发现报告",
       "summary": "具身智能指基于物理实体的智能系统，其核心运行机制依赖于感知、交互、学习三大要素，应用于人形机器人、智能工厂、自动驾驶、智能家居等领域。\n 2025年以来，我国具身智能产业政策持续升温，被纳入政府工作报告和“十五五”规划纲要，确立为国家未来产业的重点发展方向。\n 地方层面，产业正加速从单点突破转向系统布局，明确2027年核心产业规模、量产台数等量化目标，并通过资金与数据要素支持推进特色产业集群建设。...",
@@ -977,6 +1033,21 @@
       "category": "具身智能",
       "importance": 5,
       "publishedAt": "2026-10-26T09:46:00Z"
+    },
+    {
+      "id": "d88d5337fdcc",
+      "title": "国信证券：深耕产业沃土 做科创同行者_搜狐网",
+      "summary": "这一创新的意义，不仅在于帮助一家创投机构获得资本动能，更在于打通长期资金进入科技创新领域的新渠道。\n\n创投机构通过发行科创债获得长期低成本资金，再将资金通过股权投资投向人工智能、半导体、生物医药等科技企业，形成“债券融资—股权投资—产业培育”的资金传导链条。\n\n2025年11月，国信证券还独立主承销全国首批科创可转债。科创可转债兼具债权融资和股权转化属性，为研发投入大、成长周期较长的科技企业提供了...",
+      "highlights": [
+        "这一创新的意义，不仅在于帮助一家创投机构获得资本动能，更在于打通长期资金进入科技创新领域的新渠道",
+        "创投机构通过发行科创债获得长期低成本资金，再将资金通过股权投资投向人工智能、半导体、生物医药等科技企业，形成“债券融资—股权投资—产业培育”的资金传导链条",
+        "2025年11月，国信证券还独立主承销全国首批科创可转债"
+      ],
+      "url": "https://m.sohu.com/a/1092675502_161794?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-25T23:26:40Z"
     }
   ]
 }
