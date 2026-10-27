@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-10-26T21:57:40Z",
+  "updatedAt": "2026-10-27T02:33:34Z",
   "latest": [
-    {
-      "id": "4ee506c0f117",
-      "title": "机器人IPO门槛提高 具身智能一级市场预期变了",
-      "summary": "深朴智能和ST美芝这笔交易涉及上市公司重组及潜在的控制权变更，本身并不等同于深朴智能完成上市。不过，在IPO节奏放缓的背景下，收购上市公司能否成为具身智能企业另一条资本化路径，也成为值得讨论的话题。\n\n对于借助并购加快资本化的设想，张之宽表示，若直接申报上市面临障碍，换一条路径也不是绕过相关审核要求的合理方式。“如果是纯粹的资本化运作，未必是一件好事。现阶段企业还是应该把更多精力放在研发、产品能力...",
-      "highlights": [
-        "深朴智能和ST美芝这笔交易涉及上市公司重组及潜在的控制权变更，本身并不等同于深朴智能完成上市",
-        "不过，在IPO节奏放缓的背景下，收购上市公司能否成为具身智能企业另一条资本化路径，也成为值得讨论的话题",
-        "对于借助并购加快资本化的设想，张之宽表示，若直接申报上市面临障碍，换一条路径也不是绕过相关审核要求的合理方式"
-      ],
-      "url": "https://www.cls.cn/detail/2514289",
-      "source": "cls.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-25T00:00:00Z"
-    },
     {
       "id": "fbb32f61273f",
       "title": "#TechWeekInReview shows AI acquisitions, fresh capital and the next moves in startup growth\n➡️ @OptiComm.AI is preparing a €1.5–2 million funding round to support its expansion into the US, with existing investors already committed to participate. The AI-powered platform helps food and beverage distributors improve sales and inventory decisions. In November 2025, TechAngels investors participated in its €500,000 round through the SeedBlink Nominee structure.\nA recent case study highlights how bringing investors together through a single nominee can simplify the cap table and make future funding rounds easier to manage, a practical example of how investment structures can support a startup well beyond the initial round.\n➡️ @VoicePatrol has secured $3.4 million in funding. The startup uses AI to detect abusive behavior in multiplayer gaming voice chats, distinguishing harmful interactions from ordinary competitive banter. According to the company, its technology has helped clients reduce severe toxicity by 55–75% within three weeks of activating automated interventions.\n➡️ @Opaque Systems, the AI security startup co-founded by two Romanian researchers, is being acquired by @Anthropic, the company behind Claude. The transaction value has not been disclosed.  Originating from research at UC Berkeley, Opaque develops technologies that allow organizations to work with sensitive data while protecting confidentiality and verifying AI system behavior. The acquisition highlights the growing importance of security and trust as AI becomes more deeply integrated into business operations.\nThe investment will support international expansion and further product development.\n➡️ @TWIPLA is in discussions with investment funds to potentially accelerate product development and international growth, after building its business entirely through its own revenues. The website intelligence platform developed in Cluj-Napoca reports approximately 60% growth in 2026 and has surpassed 3 million website installations since launch.\nThe company is considering both minority and majority investment options, but no financing decision has been announced.\n➡️ @Boxd, a Dutch AI infrastructure startup co-founded by a Romanian entrepreneur is scaling its operations following a €2 million funding round announced in September.\nThe company provides cloud-based virtual computers where developers and AI agents can run code, test applications and execute workflows. With demand growing faster than its onboarding capacity and many customers already based in the US, Boxd is now preparing to expand its server infrastructure across the Atlantic.\n➡️ @.lumen is planning its first autonomous robotics pilot projects in Cluj-Napoca in Q1 2027, expanding the applications of its AI navigation technology beyond smart glasses for visually impaired people. Rather than building robots, the Romanian startup plans to equip humanoid and quadruped robots with software that enables autonomous navigation, with potential applications in logistics and deliveries. Meanwhile, .lumen is preparing deliveries of its smart glasses and exploring entry into additional international markets.\nComing up\n➡️ Wealth & Investment Forum | October 22 | Bucharest — TechAngels joins as an institutional partner, bringing the early-stage investment perspective into broader conversations about capital and long-term investing.\n➡️ ESIL Moldova | October 22 | Chișinău — TechAngels continues its involvement in strengthening Moldova's angel investment ecosystem through a program developed with local and international partners.\nFunding is only one part of the growth story. The decisions around when to raise, how to expand and where to invest next matter just as much and these are precisely the decisions where experienced angel investors can bring value beyond capital.\n#TechAngels #TechWeekInReview #RomanianStartups #AngelInvesting #VentureCapital #AI #StartupEcosystem #Innovation | Techangels Romania",
@@ -240,21 +225,6 @@
       "publishedAt": "2026-10-26T09:46:00Z"
     },
     {
-      "id": "da1ac942daae",
-      "title": "亚马逊向英伟达CUDA发起挑战：AI芯片战争，终于打到了软件生态的核心_财富号_东方财富网",
-      "summary": "评论 0 \n\n收藏\n\n大 中 小\n\n2026年10月19日，亚马逊公布了一项看似属于开发者工具、实际上可能影响全球AI计算产业格局的新动作：推出TorchNeuron，使开发者能够以较小的代码修改成本，将基于PyTorch框架开发的AI程序运行在亚马逊自研的Trainium芯片上。该工具计划以免费开源的形式发布，核心目标是降低开发者从英伟达GPU迁移到亚马逊自研加速器的难度。根据路透社报道，亚马逊...",
-      "highlights": [
-        "2026年10月19日，亚马逊公布了一项看似属于开发者工具、实际上可能影响全球AI计算产业格局的新动作：推出TorchNeuron，使开发者能够以较小的代码修改成本，将基于PyTorch框架开发的AI程序运行在亚马逊自研的Trainium芯片上",
-        "该工具计划以免费开源的形式发布，核心目标是降低开发者从英伟达GPU迁移到亚马逊自研加速器的难度",
-        "根据路透社报道，亚马逊表示，已有30多个早期客户在机器人、世界模型和语音AI等领域测试相关方案"
-      ],
-      "url": "https://caifuhao.eastmoney.com/news/20261022120534561302840",
-      "source": "caifuhao.eastmoney.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-25T01:00:00Z"
-    },
-    {
       "id": "d88d5337fdcc",
       "title": "国信证券：深耕产业沃土 做科创同行者_搜狐网",
       "summary": "这一创新的意义，不仅在于帮助一家创投机构获得资本动能，更在于打通长期资金进入科技创新领域的新渠道。\n\n创投机构通过发行科创债获得长期低成本资金，再将资金通过股权投资投向人工智能、半导体、生物医药等科技企业，形成“债券融资—股权投资—产业培育”的资金传导链条。\n\n2025年11月，国信证券还独立主承销全国首批科创可转债。科创可转债兼具债权融资和股权转化属性，为研发投入大、成长周期较长的科技企业提供了...",
@@ -270,18 +240,152 @@
       "publishedAt": "2026-10-25T23:26:40Z"
     },
     {
-      "id": "7446df164f28",
-      "title": "监管提高机器人企业IPO门槛后，具身智能资本动作密集而投资人心态分化",
-      "summary": "监管提高机器人企业IPO门槛后，松延动力被传保密提交香港IPO申请、智元推进新一轮融资，具身智能企业资本动作仍密集。投资人对接续出手出现分化，IPO预期节奏调整，",
+      "id": "3579e3da8f2f",
+      "title": "DeepSeek新版模型单周调用量登顶全球首位，环比暴增801%-36氪",
+      "summary": "10月26日消息，在OpenRouter发布的最新一周全球AI大模型调用量周榜单上（10月19日至25日），拿下榜首的是DeepSeek在10月17日更新的V4.1-Flash-1017版本。该模型单周调用量达到33.6万亿Token，环比增幅高达801%，成为近一周爆发力最强的模型，也是拉动国产模型整体增量的核心动力。\n\n公开资料显示，V4.1-Flash-1017以9月10日发布的V4.1 F...",
       "highlights": [
-        "监管提高机器人企业IPO门槛后，松延动力被传保密提交香港IPO申请、智元推进新一轮融资，具身智能企业资本动作仍密集",
-        "投资人对接续出手出现分化，IPO预期节奏调整，"
+        "10月26日消息，在OpenRouter发布的最新一周全球AI大模型调用量周榜单上（10月19日至25日），拿下榜首的是DeepSeek在10月17日更新的V4.1-Flash-1017版本",
+        "该模型单周调用量达到33.6万亿Token，环比增幅高达801%，成为近一周爆发力最强的模型，也是拉动国产模型整体增量的核心动力",
+        "公开资料显示，V4.1-Flash-1017以9月10日发布的V4.1 Flash为基底，延续552B总参数、输入激活8B、输出激活16B的非对称MoE架构，原生支持多模态，重点优化代码、自动化Agent与视觉任务"
       ],
-      "url": "https://www.huxiu.com/article/4900219.html",
-      "source": "huxiu.com",
+      "url": "https://www.36kr.com/p/4042510353257347",
+      "source": "36kr.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-26T11:02:59Z"
+    },
+    {
+      "id": "330e8e304ebc",
+      "title": "环比增长801%，DeepSeek一款大模型单周调用量登顶全球第一！MiniMax新模型跻身前三，智谱GLM 5.3跌出榜单 | 每经网",
+      "summary": "《每日经济新闻》注意到，上周，全球调用量排名前五均为中国AI大模型。其中，DeepSeek V4.1-Flash-1017位居第一，周调用量达33. 6万亿Token，环比增长801%。\n\n10月17日，DeepSeek V4.1-Flash-1017版本官宣更新。本次更新以9月10日发布的V4.1 Flash为基础，改善推理、编程、自动化及视觉任务表现。DeepSeek称，新模型在各方面的基准测...",
+      "highlights": [
+        "《每日经济新闻》注意到，上周，全球调用量排名前五均为中国AI大模型",
+        "其中，DeepSeek V4.1-Flash-1017位居第一，周调用量达33. 6万亿Token，环比增长801%",
+        "10月17日，DeepSeek V4.1-Flash-1017版本官宣更新"
+      ],
+      "url": "https://www.nbd.com.cn/articles/2026-10-26/4617229.html",
+      "source": "nbd.com.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-26T02:00:00Z"
+    },
+    {
+      "id": "d49a6b373f5a",
+      "title": "从“拼模型”到“抢入口”：国产大模型加速进军消费硬件市场新趋势",
+      "summary": "数据上看，AI大模型似乎正处于繁花似锦、烈火烹油的黄金时代。\n\n但正如《围城》一样，外人看到的都是美好，只有内行人才懂这些数据背后的辛酸——行业太卷了，卷到只要落后一步就会失去用户。\n\n据《新智元》统计，从今年年初到9月22日，包括豆包、阿里千问、DEEPSEEK在内的十家主要厂商共发布了至少28个旗舰模型，平均每9.5天就有一个国产大模型发布。\n\n（来源：新智元）\n\n而在价格上，2026年上半年...",
+      "highlights": [
+        "数据上看，AI大模型似乎正处于繁花似锦、烈火烹油的黄金时代",
+        "但正如《围城》一样，外人看到的都是美好，只有内行人才懂这些数据背后的辛酸——行业太卷了，卷到只要落后一步就会失去用户",
+        "据《新智元》统计，从今年年初到9月22日，包括豆包、阿里千问、DEEPSEEK在内的十家主要厂商共发布了至少28个旗舰模型，平均每9.5天就有一个国产大模型发布"
+      ],
+      "url": "https://eu.36kr.com/zh/p/4041590228424327",
+      "source": "eu.36kr.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-26T02:00:00Z"
+    },
+    {
+      "id": "06c8bddd69ef",
+      "title": "一天吃透一个行业108：AI推理算力，国内算力厂商选型参考（收藏版）|大模型|GPU|芯片|SRAM|模型_新浪新闻",
+      "summary": "核心看点\n 昇腾\n\n  　　昇腾系列AI芯片、推理加速模组\n\n  　　达芬奇全栈自研架构\n\n  　　软硬件协同开发，训练推理产品矩阵完整，国内智算集群项目落地较多，配套开发工具链成熟\n 寒武纪\n\n  　　思元系列芯片\n\n  　　AI芯片架构，训推一体\n\n  　　产品覆盖云端训练、云端推理、边缘推理多场景，适配多模态、大语言模型业务\n 海光信息\n\n  　　DCU系列计算芯片\n\n  　　通用计算架构\n...",
+      "highlights": [
+        "昇腾系列AI芯片、推理加速模组",
+        "软硬件协同开发，训练推理产品矩阵完整，国内智算集群项目落地较多，配套开发工具链成熟",
+        "AI芯片架构，训推一体"
+      ],
+      "url": "https://k.sina.com.cn/article_5426766895_14375e42f00102zv2o.html?from=tech&subch=otech",
+      "source": "k.sina.com.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-26T12:25:04Z"
+    },
+    {
+      "id": "a71698b1fa2e",
+      "title": "从电到光的AI算力芯片变革，光本位科技加速产业化落地_新浪财经_新浪网",
+      "summary": "新浪首页\n 新闻\n 体育\n 财经\n 娱乐\n 科技\n 博客\n 图片\n 专栏\n 更多\n\n 汽车 教育 时尚 女性 星座 健康\n 房产历史视频收藏育儿读书\n 佛学游戏旅游邮箱导航\n\n 新浪微博\n 新浪新闻\n 新浪财经\n 新浪体育\n 新浪众测\n 新浪博客\n 新浪视频\n 新浪游戏\n 天气通\n\n[](\n\n滚动新闻 > 正文\n\n# 从电到光的AI算力芯片变革，光本位科技加速产业化落地\n\n从电到光的AI算力芯片变...",
+      "highlights": [
+        "汽车 教育 时尚 女性 星座 健康",
+        "房产历史视频收藏育儿读书",
+        "# 从电到光的AI算力芯片变革，光本位科技加速产业化落地"
+      ],
+      "url": "https://finance.sina.com.cn/roll/2026-10-26/doc-iniwpwir9271658.shtml",
+      "source": "finance.sina.com.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-26T08:57:34Z"
+    },
+    {
+      "id": "114e6b94d6fd",
+      "title": "马斯克贷款2700亿，准备大干一场 - 电商派",
+      "summary": "收入重心在变，支出重心变化得更猛烈。\n\n这组数字清楚表明，AI扩张正在消耗大量资金，融资能力已经成为这门生意的重要竞争条件。\n\nwatermark,image_d2F0ZXJtYXJrLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEy,g_south,t_55,x_1,y_20\n\n图源：X\n\n资本开支很容易制造规模感。机房面积、芯片数量、采购金额，随便...",
+      "highlights": [
+        "收入重心在变，支出重心变化得更猛烈",
+        "这组数字清楚表明，AI扩张正在消耗大量资金，融资能力已经成为这门生意的重要竞争条件",
+        "watermark,image_d2F0ZXJtYXJrLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEy,g_south,t_55,x_1,y_20"
+      ],
+      "url": "https://www.pai.com.cn/p/01m5vgxz4tkarqv0jevdekbvkx",
+      "source": "pai.com.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-26T07:00:00Z"
+    },
+    {
+      "id": "15773c20cffd",
+      "title": "AI Colonies Are Coming - Time Magazine",
+      "summary": "Each new release of a frontier AI model, such as Anthropic’s Mythos or OpenAI’s Astra, brings a new wave of speculation over how much closer this takes us to artificial general intelligence (AGI) and ...",
+      "highlights": [
+        "Each new release of a frontier AI model, such as Anthropic’s Mythos or OpenAI’s Astra, brings a new wave of speculation over how much closer this takes us to artificial general intelligence (AGI) and how much further that lofty goal remains. OpenAI recently announced that an internal model, claimed to be “significantly more capable than GPT‑6 Astra,” solved Navier-Stokes, one of a handful of legendary math problems each carrying a million-dollar bounty. Think of what a lone honeybee or termite can accomplish compared to a colony of them. While OpenAI deployed its AI colony to solve a math problem that no human or individual AI agent could, Google DeepMind recently set an AI colony loose on math problems for a different purpose. As calls to pace the frontier abound, let us not lose sight of the fact that the AI frontier isn’t what each model can do in isolation—it is what a colony of them can accomplish together."
+      ],
+      "url": "https://time.com/article/2026/10/26/ai-colonies-are-coming/",
+      "source": "time.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-26T11:00:04Z"
+    },
+    {
+      "id": "36e222547355",
+      "title": "数解硬科技企业融资：多久拿到首笔融资，IPO要几年? - 21经济网",
+      "summary": "21世纪经济报道\n\n21财经APP 南财号 数字报 越声智投\n\n首页 宏观 公司 金融 证券 全球 观点 汽车 新健康 人文 智库 更多)\n\n大湾区 一带一路 文旅 理财 投资通 21视频 直播 品牌活动\n\n首页 金融 正文\n\n# 数解硬科技企业融资：多久拿到首笔融资，IPO要几年?\n\n###### 2026年10月26日 15:47   澎湃新闻\n\n2026年10月22日， DeepSeek（深...",
+      "highlights": [
+        "21财经APP 南财号 数字报 越声智投",
+        "首页 宏观 公司 金融 证券 全球 观点 汽车 新健康 人文 智库 更多)",
+        "大湾区 一带一路 文旅 理财 投资通 21视频 直播 品牌活动"
+      ],
+      "url": "https://www.21jingji.com/article/20261026/herald/4f1891a7ad060c5645d0477e7ef1c1ff.html",
+      "source": "21jingji.com",
       "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-10-25T01:00:00Z"
+      "importance": 5,
+      "publishedAt": "2026-10-26T07:00:00Z"
+    },
+    {
+      "id": "91f5292e66c6",
+      "title": "国信证券：深耕产业沃土 做科创同行者_企业_科技_债券融资",
+      "summary": "财经\n\n娱乐\n\n# 国信证券：深耕产业沃土 做科创同行者\n\n2026-10-25 23:26  来源: 南方日报\n\n发布于：广东省\n\n国信证券。国信证券供图\n\n珠江两岸，创新潮涌。从人工智能、半导体，到低空经济、商业航天，一批新产业加速成长，一批科技企业从实验室走向生产线。创新越是向前，越需要资本力量一路托举。\n\n作为扎根广东30余年的老牌券商，国信证券把自身发展融入区域产业跃迁，从早期投资、上市...",
+      "highlights": [
+        "# 国信证券：深耕产业沃土 做科创同行者",
+        "2026-10-25 23:26  来源: 南方日报",
+        "从人工智能、半导体，到低空经济、商业航天，一批新产业加速成长，一批科技企业从实验室走向生产线"
+      ],
+      "url": "https://www.sohu.com/a/1092675502_161794",
+      "source": "sohu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-25T23:26:00Z"
+    },
+    {
+      "id": "de702c4a2ee2",
+      "title": "物理AI刷屏，券商分析师电话会排满！AI投资新主线浮出水面？ - 证券 - 南方财经网",
+      "summary": "开源证券据此判断，物理世界可能成为AI能力规模化变现的出口，具身智能公司的收入结构将由一次性硬件销售转为贯穿机器人全生命周期的持续性收入，估值逻辑也随之从制造估值转向平台估值。这解释了本轮资金为何优先给数据与模型端溢价，而非本体与零部件。\n\n算力叙事的接续是第三层。黄仁勋在柏林GTC上称“下一轮计算浪潮是理解并作用于物理世界的AI”。\n\n国联民生海外团队的解读是：物理AI横跨自动驾驶、人形机器人与...",
+      "highlights": [
+        "开源证券据此判断，物理世界可能成为AI能力规模化变现的出口，具身智能公司的收入结构将由一次性硬件销售转为贯穿机器人全生命周期的持续性收入，估值逻辑也随之从制造估值转向平台估值",
+        "这解释了本轮资金为何优先给数据与模型端溢价，而非本体与零部件",
+        "算力叙事的接续是第三层"
+      ],
+      "url": "https://www.sfccn.com/2026/10-26/2NMDE0MDRfMjI4MzE2NA.html",
+      "source": "sfccn.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-26T14:00:00Z"
     },
     {
       "id": "781aaac8b906",
@@ -337,454 +441,23 @@
       "category": "产品进展",
       "importance": 4,
       "publishedAt": "2026-10-26T10:00:00Z"
-    },
-    {
-      "id": "1af9c31b3869",
-      "title": "What’s Riding on Anthropic Going Public? Nearly Everything. - The New York Times",
-      "summary": "Anthropic and OpenAI, its chief rival, sit atop a pyramid of business partners and suppliers — infrastructure providers, chipmakers, energy companies and A.I. start-ups — that have all spent heavily o...",
-      "highlights": [
-        "Anthropic and OpenAI, its chief rival, sit atop a pyramid of business partners and suppliers — infrastructure providers, chipmakers, energy companies and A.I. start-ups — that have all spent heavily over the last four years because they believe demand for A.I. products will keep growing. [...] Anthropic’s listing will provide the first in-depth look at the health of a key business underlying the A.I. boom — and will be a test of its durability. Is there unending appetite for A.I. services to justify the spending on chips, data centers and other infrastructure? Or will Anthropic’s performance show that there are limits?",
-        "“For the market, it’s a bellwether,” said Umesh Padval, an investor at Seligman Ventures, who has worked in tech for nearly 40 years. [...] Supported by",
-        "# What’s Riding on Anthropic’s Market Debut? Nearly Everything."
-      ],
-      "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html",
-      "source": "nytimes.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-26T09:02:15Z"
-    },
-    {
-      "id": "dc213468ed44",
-      "title": "2026年轻松突破年薪30W，试试Transformer与VLM开发-电子工程专辑",
-      "summary": "图片\n\n零样本缺陷检测\n\n零样本工业缺陷检测模型是当前工业AI领域的前沿研究方向，旨在通过多模态大模型的图像与文本提示输入结合，实现感知与认知模型融合，解决传统CNN与YOLO系列模型的监督学习方式在缺陷检测面临的核心痛点：依赖大量缺陷样本、难以应对新缺陷。\n\n图片\n图片\n图片\n图片\n\n多模态VLM模型工业缺陷检测的优势在于真正意义上的“零样本”，无需针对特定任务训练，灵活度高，可应对开放词汇描述...",
-      "highlights": [
-        "零样本工业缺陷检测模型是当前工业AI领域的前沿研究方向，旨在通过多模态大模型的图像与文本提示输入结合，实现感知与认知模型融合，解决传统CNN与YOLO系列模型的监督学习方式在缺陷检测面临的核心痛点：依赖大量缺陷样本、难以应对新缺陷",
-        "多模态VLM模型工业缺陷检测的优势在于真正意义上的“零样本”，无需针对特定任务训练，灵活度高，可应对开放词汇描述的新缺陷",
-        "工业支持急速五分钟换型、四张参考样本准确率可以达到99%"
-      ],
-      "url": "https://www.eet-china.com/mp/a533922.html",
-      "source": "eet-china.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-26T10:00:00Z"
-    },
-    {
-      "id": "317539b9b736",
-      "title": "Instagram",
-      "summary": "igsoka\n\n小米自研芯片版图迎来全面爆发！全新智能手机AI芯片XRING O3预计采用3纳米工艺，集成CPU、GPU与NPU，AI算力高达200 TOPS，将搭载于新款折叠屏手机小米18 Fold。此外，小米还计划在2027年上半年商用AI加速器XRING O100及自研纯电汽车智驾芯片XRING D100，全面进军AI数据处理与自动驾驶核心芯片赛道。 #小米 #自研芯片 #半导体 #人工智能...",
-      "highlights": [
-        "小米自研芯片版图迎来全面爆发",
-        "全新智能手机AI芯片XRING O3预计采用3纳米工艺，集成CPU、GPU与NPU，AI算力高达200 TOPS，将搭载于新款折叠屏手机小米18 Fold",
-        "此外，小米还计划在2027年上半年商用AI加速器XRING O100及自研纯电汽车智驾芯片XRING D100，全面进军AI数据处理与自动驾驶核心芯片赛道"
-      ],
-      "url": "https://www.instagram.com/p/DeyFKxhhus0",
-      "source": "instagram.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-10-26T21:57:40Z"
-    },
-    {
-      "id": "bc5afb537773",
-      "title": "财新闻｜全球最大开源AI大模型上新！Kimi K3.1 Pro横空出世_财新mini+_财新网",
-      "summary": "推广\n\n### 图片推荐\n\n图集｜全美举办2500场“不要国王”集会 特朗普支持率跌至33%创新低 视线｜高中生抗议触发连锁反应 法国街头暴力蔓延撬动政局 图集｜欧美亚多国青年街头抗争 呼吁教育住房政治等改革 图集｜法国55万人抗议引发暴力冲突 超2300人被捕 图集｜朝韩对立升级 朝鲜宣布重启对韩扩音器广播 加固边境村庄防务  图集｜西藏那曲市巴青县7.0级强震致16人遇难 仍存余震风险 视线｜...",
-      "highlights": [
-        "图集｜全美举办2500场“不要国王”集会 特朗普支持率跌至33%创新低 视线｜高中生抗议触发连锁反应 法国街头暴力蔓延撬动政局 图集｜欧美亚多国青年街头抗争 呼吁教育住房政治等改革 图集｜法国55万人抗议引发暴力冲突 超2300人被捕 图集｜朝韩对立升级 朝鲜宣布重启对韩扩音器广播 加固边境村庄防务  图集｜西藏那曲市巴青县7.0级强震致16人遇难 仍存余震风险 视线｜熊出没请注意：气候变暖与食物匮乏引发的“人熊冲突战” 一周天下｜欧美亚多国爆发街头抗议、 巴西大选弃票率创新高",
-        "图集｜全美举办2500场“不要国王”集会 特朗普支持率跌至33%创新低 视线｜高中生抗议触发连锁反应 法国街头暴力蔓延撬动政局 图集｜欧美亚多国青年街头抗争 呼吁教育住房政治等改革 图集｜法国55万人抗议引发暴力冲突 超2300人被捕 图集｜朝韩对立升级 朝鲜宣布重启对韩扩音器广播 加固边境村庄防务  图集｜西藏那曲市巴青县7.0级强震致16人遇难 仍存余震风险 视线｜熊出没请注意：气候变暖与食物匮乏引发的“人熊冲突战” 一周天下｜欧美亚多国爆发街头抗议、 巴西大选弃票率创新高 [...] 近日，DeepSeek宣布将内部使用的AI推理框架DeepInfer全面开源，成为开源社区的又一标志性动作",
-        "360集团创始人周鸿祎对此表示，这背后“是一种技术自信，更是一种开源普惠的理念”；往深一层看，这件事还有一个更重要的意义——AI时代的技术主权"
-      ],
-      "url": "https://mini.caixin.com/2026-10-25/102497002.html",
-      "source": "mini.caixin.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-25T03:00:00Z"
-    },
-    {
-      "id": "44a64d616425",
-      "title": "让它天天在客厅摔盘子吧？ 2026 年10 月21 日的特斯拉财报 ...",
-      "summary": "车主自己掏电费、自己买车，特斯拉每天躺着就能拿到上亿公里的真实行驶数据。 人形机器人完全没有这个条件。 一台走路还打晃、手指抓不准杯子的机器人，没有哪个家庭愿意买",
-      "highlights": [
-        "车主自己掏电费、自己买车，特斯拉每天躺着就能拿到上亿公里的真实行驶数据",
-        "人形机器人完全没有这个条件",
-        "一台走路还打晃、手指抓不准杯子的机器人，没有哪个家庭愿意买"
-      ],
-      "url": "https://x.com/mubeitech/status/2113224236173079038?lang=ar-x-fm",
-      "source": "x.com",
-      "category": "具身智能",
-      "importance": 3,
-      "publishedAt": "2026-10-25T15:06:53Z"
-    },
-    {
-      "id": "53575c36d750",
-      "title": "Multibillion-dollar M&A and infrastructure deals (Oct 2026)",
-      "summary": "This week's headlines cover major AI financing plans by SpaceX and OpenAI, to Amazon's potential acquisition of an AI startup. $7 Billion Acquisition of AI",
-      "highlights": [
-        "This week's headlines cover major AI financing plans by SpaceX and OpenAI, to Amazon's potential acquisition of an AI startup. $7 Billion Acquisition of AI"
-      ],
-      "url": "https://www.facebook.com/vinventuresfund/posts/-%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%97%F0%9D%97%A8%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%A5%F0%9D%97%AC-%F0%9D%97%A5%F0%9D%97%A2%F0%9D%97%A8%F0%9D%97%A1%F0%9D%97%97%F0%9D%97%A8%F0%9D%97%A3-%F0%9D%97%A8%F0%9D%97%A3%F0%9D%97%97%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%98%F0%9D%97%97-%F0%9D%9F%AD%F0%9D%9F%AF-%F0%9D%97%A2%F0%9D%97%96%F0%9D%97%A7%F0%9D%97%A2%F0%9D%97%95%F0%9D%97%98%F0%9D%97%A5-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B2this-weeks-headlines-cover-major-ai-fin/122190823196606521",
-      "source": "facebook.com",
-      "category": "投并购",
-      "importance": 3,
-      "publishedAt": "2026-10-26T01:55:59Z"
-    },
-    {
-      "id": "4fdb0df3bc8d",
-      "title": "今日AI大模型新闻速览(10月25日)",
-      "summary": "模型已在Kimi.ai、App、Kimi Work、Kimi Code和API上线,完整权重将在11月4日前发布.2. 消息称DeepSeek完成约1000亿元新一...",
-      "highlights": [
-        "模型已在Kimi.ai、App、Kimi Work、Kimi Code和API上线,完整权重将在11月4日前发布.2. 消息称DeepSeek完成约1000亿元新一..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemWZCHGEdz49RAHgdH-3ByCFqXa8Fplpd9y4xutM-RXwTTvJrFWklKd0JZ96uxnhWE7GtXcqarogmq2RqOwQUtGJKYaT_9PRq725R7tLQTy3ieNlDrad0pzZ1fylXsYGOCkEe2KFiGJHV5Q_W8kRpuZm7JaVkTqaeWrK-aZmC4aTF-vc4w52WZFkn1dD_W3em6tclPAUdj6AL1AfaFW2DefQ..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=8FE7D351D77635D3E3E5BC5643DD1BBAE34E7CF86ADEB328",
-      "source": "微信公众号",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-24T22:16:28Z"
     }
   ],
   "today": [
     {
-      "id": "d89f32d7e68d",
-      "title": "马斯克称SpaceX已完成400亿美元GPU债务融资，以可赎回债为主",
-      "summary": "新云公司（如Nebius和CoreWeave）与Alphabet、亚马逊等大型云服务商不同，主要面向科技客户，提供专为AI定制的算力服务。过去两周，市场已开始押注美国新云及数据中心公司走弱，担忧其依赖债务驱动的AI基础设施扩张难以为继，相关股票遭遇抛售。\n\n马斯克的表态，与SpaceX自身的融资逻辑形成鲜明对比：正是凭借星链和火箭发射业务提供的独立于AI数据中心的稳定收入，SpaceX才得以在信贷...",
+      "id": "260a983eaeb4",
+      "title": "星火医疗大模型V3.7发布，讯飞晓医三大核心能力重磅升级-CSDN.NET",
+      "summary": "本次论坛汇聚了国家卫生健康委医管中心、中国信息通信研究院、中国心血管健康联盟，中日友好医院、解放军总医院国家骨科与运动康复临床研究中心、山东大学齐鲁医院、中国科学技术大学附属第一医院（安徽省立医院）、中南大学湘雅医院、首都医科大学宣武医院、北京大学第一医院、北京安定医院，以及中华医学会杂志社、人民卫生电子音像出版社等行业专家。会上，讯飞医疗正式发布AI患者管理平台3.0，并携手产学研用各方正式启动...",
       "highlights": [
-        "新云公司（如Nebius和CoreWeave）与Alphabet、亚马逊等大型云服务商不同，主要面向科技客户，提供专为AI定制的算力服务",
-        "过去两周，市场已开始押注美国新云及数据中心公司走弱，担忧其依赖债务驱动的AI基础设施扩张难以为继，相关股票遭遇抛售",
-        "马斯克的表态，与SpaceX自身的融资逻辑形成鲜明对比：正是凭借星链和火箭发射业务提供的独立于AI数据中心的稳定收入，SpaceX才得以在信贷市场收紧之际维持融资渠道畅通"
+        "本次论坛汇聚了国家卫生健康委医管中心、中国信息通信研究院、中国心血管健康联盟，中日友好医院、解放军总医院国家骨科与运动康复临床研究中心、山东大学齐鲁医院、中国科学技术大学附属第一医院（安徽省立医院）、中南大学湘雅医院、首都医科大学宣武医院、北京大学第一医院、北京安定医院，以及中华医学会杂志社、人民卫生电子音像出版社等行业专家",
+        "会上，讯飞医疗正式发布AI患者管理平台3.0，并携手产学研用各方正式启动AI患者管理专家共识专项计划",
+        "AI患者管理平台3.0以\"新场景、新AI、新体验\"完成体系化升级：场景层面，从单科专病管理向全院分层服务拓展，已沉淀160余条标准化专病管理路径，覆盖30余个主流临床科室；AI能力层面，依托更精准的患者画像、智能随访Agent与动态循证推理能力，可根据患者康复进度自动调整管理方案、智能识别风险、触发分级干预，并结合医生、护士、营养师、康复师的多师共管模式，实现个体化、连续化、精准化的全病程照护"
       ],
-      "url": "https://wallstreetcn.com/articles/3784441",
-      "source": "wallstreetcn.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-26T03:11:54Z"
-    },
-    {
-      "id": "63b5025fcdbf",
-      "title": "从开源首个3D算力软件底座到“年度科创先锋”，清微智能如何成为中国新质引擎-财经-金融界",
-      "summary": "展开 \n\n加载更多\n\n关闭 下载金融界app\n\n 行业巨头连续签下大单，全球数据中心光纤光缆需求同比激增\n 中东地缘风险持续，打开军工行业成长天花板\n 油价大幅上涨 机构关注集运+油运龙头企业盈利有保障（附概念股）\n 苹果首款折叠屏iPhone发布，三年创新周期提振供应链关注度\n 9月电子布价格环比再涨10%-20%，供需缺口支撑行业景气延续\n 水泥“涨价潮”席卷全国 行业供给有望持续优化(附概念...",
-      "highlights": [
-        "关闭 下载金融界app",
-        "行业巨头连续签下大单，全球数据中心光纤光缆需求同比激增",
-        "中东地缘风险持续，打开军工行业成长天花板"
-      ],
-      "url": "https://finance.jrj.com.cn/2026/10/26114858866254.shtml",
-      "source": "finance.jrj.com.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-26T03:00:00Z"
-    },
-    {
-      "id": "652c04d55be5",
-      "title": "国信证券:《物理AI行业深度报告：技术路径基本成熟，受益于工业智能化及自动化需求｜信息技术研报》-发现报告",
-      "summary": "具身智能指基于物理实体的智能系统，其核心运行机制依赖于感知、交互、学习三大要素，应用于人形机器人、智能工厂、自动驾驶、智能家居等领域。\n 2025年以来，我国具身智能产业政策持续升温，被纳入政府工作报告和“十五五”规划纲要，确立为国家未来产业的重点发展方向。\n 地方层面，产业正加速从单点突破转向系统布局，明确2027年核心产业规模、量产台数等量化目标，并通过资金与数据要素支持推进特色产业集群建设。...",
-      "highlights": [
-        "具身智能指基于物理实体的智能系统，其核心运行机制依赖于感知、交互、学习三大要素，应用于人形机器人、智能工厂、自动驾驶、智能家居等领域",
-        "2025年以来，我国具身智能产业政策持续升温，被纳入政府工作报告和“十五五”规划纲要，确立为国家未来产业的重点发展方向",
-        "地方层面，产业正加速从单点突破转向系统布局，明确2027年核心产业规模、量产台数等量化目标，并通过资金与数据要素支持推进特色产业集群建设"
-      ],
-      "url": "https://www.fxbaogao.com/detail/5800977",
-      "source": "fxbaogao.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-26T05:00:00Z"
-    },
-    {
-      "id": "721da7c5d522",
-      "title": "DeepSeek，登顶全球_搜狐网",
-      "summary": "## DeepSeek，登顶全球\n\n界面新闻\n\n界面新闻\n\n图片来源：视觉中国\n\n> 界面新闻记者 | 宋佳楠\n\n10月26日消息，在OpenRouter发布的最新一周全球AI大模型调用量周榜单上（10月19日至25日），拿下榜首的是DeepSeek在10月17日更新的V4.1-Flash-1017版本。该模型单周调用量达到33.6万亿Token，环比增幅高达801%，成为近一周爆发力最强的模型，...",
-      "highlights": [
-        "## DeepSeek，登顶全球",
-        "> 界面新闻记者 | 宋佳楠",
-        "10月26日消息，在OpenRouter发布的最新一周全球AI大模型调用量周榜单上（10月19日至25日），拿下榜首的是DeepSeek在10月17日更新的V4.1-Flash-1017版本"
-      ],
-      "url": "https://m.sohu.com/a/1092936502_313745?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-26T16:53:29Z"
-    },
-    {
-      "id": "54d2245489b8",
-      "title": "DeepSeek，全球第一！ - 财闻网",
-      "summary": "首页 正文\n\n# DeepSeek，全球第一！\n\n财闻   顾群生  2026-10-26 14:35:08\n\n据财闻了解，单模型方面，上周全球调用量排名前五均为中国AI大模型。DeepSeek V4.1-Flash-1017以33.6万亿Token的周调用量位居第一，环比增长801%；DeepSeek V4.1 Flash以18万亿Token排名第二。MiniMax M3.1 Flash（免费版...",
-      "highlights": [
-        "# DeepSeek，全球第一",
-        "财闻   顾群生  2026-10-26 14:35:08",
-        "据财闻了解，单模型方面，上周全球调用量排名前五均为中国AI大模型"
-      ],
-      "url": "https://www.caiwennews.com/article/1667502.shtml",
-      "source": "caiwennews.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-26T14:35:08Z"
-    },
-    {
-      "id": "cf2508fb4c2e",
-      "title": "2026国产AI算力厂商全景复盘：细分突围，多元架构构筑产业新生态|2026世界人工智能大会|AI芯片|自主可控|Token|芯片_新浪新闻",
-      "summary": "奇异摩尔推出全栈国产化超节点互联解决方案，同时联合壁仞科技亮相国产GPU直通国产RDMA网卡的IBGDA创新方案，打通国产算力硬件互联壁垒。奇异摩尔联合创始人兼产品及解决方案副总裁祝俊东表示，国产算力发展已进入关键转折期，高速互联不再是产业配套，而是决定算力系统整体效能的核心命脉。其自研全栈方案具备可演进、可协同、无绑定的核心优势，既能支撑各类芯片厂商基于统一底座快速搭建超节点系统，也能让上层AI...",
-      "highlights": [
-        "奇异摩尔推出全栈国产化超节点互联解决方案，同时联合壁仞科技亮相国产GPU直通国产RDMA网卡的IBGDA创新方案，打通国产算力硬件互联壁垒",
-        "奇异摩尔联合创始人兼产品及解决方案副总裁祝俊东表示，国产算力发展已进入关键转折期，高速互联不再是产业配套，而是决定算力系统整体效能的核心命脉",
-        "其自研全栈方案具备可演进、可协同、无绑定的核心优势，既能支撑各类芯片厂商基于统一底座快速搭建超节点系统，也能让上层AI应用实现无缝横向扩展，推动国产算力产业从各自为战走向集群合力突围"
-      ],
-      "url": "https://k.sina.com.cn/article_5426766895_14375e42f00102zv34.html?from=tech&subch=otech",
-      "source": "k.sina.com.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-26T12:30:56Z"
-    },
-    {
-      "id": "d578954a818b",
-      "title": "突发：Anthropic启动IPO，Meta融资350亿美元，彰显市场对人工智能的强劲需求 - moomoo 社区",
-      "summary": "donwloadimg\nappLogo\n\n# 突发：Anthropic启动IPO，Meta融资350亿美元，彰显市场对人工智能的强劲需求\n\n点击上方图片中的相关股票，将其添加到您的自选列表。 ## 发生了什么 $Anthropic (ANT.US)$该公司已公开向纳斯达克提交IPO申请，股票代码为ANT，预计于美国东部时间上午9:00发布S-1文件，由此开启新一轮人工智能相关股票的供给窗口。 $M...",
-      "highlights": [
-        "donwloadimg",
-        "# 突发：Anthropic启动IPO，Meta融资350亿美元，彰显市场对人工智能的强劲需求",
-        "点击上方图片中的相关股票，将其添加到您的自选列表"
-      ],
-      "url": "https://www.moomoo.com/hans/community/feed/breaking-news-anthropic-ipo-meta-35b-raise-test-ai-appetite-117507513385366",
-      "source": "moomoo.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-26T13:00:00Z"
-    },
-    {
-      "id": "3895495c2c6e",
-      "title": "VC/PE周报｜政策加码国际级创投中心；AI芯片与超导材料持续吸金 | 每日经济新闻",
-      "summary": "## 君信资本宣布募资\n\n日前，君信资本宣布三期基金完成中国证券基金业协会备案，该基金总规模为15亿元，首关逾10亿元，其中65%左右资金为一二期基金老LP出资。从资金结构看，45%为大型国资平台、55%为民营投资机构，部分被投企业首次参与君信资本三期基金出资。\n\n在投资方向上，三期基金聚焦半导体和生物医药两大战新产业赛道，投资阶段以A、B轮为主，多数资金投向中早期硬科技项目。退出方式以IPO、转...",
-      "highlights": [
-        "## 君信资本宣布募资",
-        "日前，君信资本宣布三期基金完成中国证券基金业协会备案，该基金总规模为15亿元，首关逾10亿元，其中65%左右资金为一二期基金老LP出资",
-        "从资金结构看，45%为大型国资平台、55%为民营投资机构，部分被投企业首次参与君信资本三期基金出资"
-      ],
-      "url": "https://www.mrjjxw.com/articles/2026-10-26/4618013.html",
-      "source": "mrjjxw.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-26T09:00:00Z"
-    },
-    {
-      "id": "af576e367fdd",
-      "title": "模感科技完成亿元级天使+轮融资，提供覆盖硬件、算法与模型的全栈方案_投资界",
-      "summary": "模型层面，模感科技正同步推进基于触觉的多模态融合触觉世界动作模型MoWorld。相较于仅依赖视觉等信息进行环境判断，触觉能够提供接触力、物体形变及局部交互状态等信息。公司希望利用高频、多维的触觉反馈，持续修正机器人动作执行过程中的判断与控制，并将触觉信息作为物理先验补充到模型中，提升机器人在真实环境中的交互能力，缩小仿真训练与真实执行之间的差距。\n\n据介绍，目前，模感科技的全身触觉系统已在推进与多...",
-      "highlights": [
-        "模型层面，模感科技正同步推进基于触觉的多模态融合触觉世界动作模型MoWorld",
-        "相较于仅依赖视觉等信息进行环境判断，触觉能够提供接触力、物体形变及局部交互状态等信息",
-        "公司希望利用高频、多维的触觉反馈，持续修正机器人动作执行过程中的判断与控制，并将触觉信息作为物理先验补充到模型中，提升机器人在真实环境中的交互能力，缩小仿真训练与真实执行之间的差距"
-      ],
-      "url": "https://news.pedaily.cn/202610/570873.shtml",
-      "source": "news.pedaily.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-26T09:46:00Z"
-    },
-    {
-      "id": "781aaac8b906",
-      "title": "月之暗面发布Kimi K3.1 Pro 11月开放开源权重- AI",
-      "summary": "2026年10月24日，中国AI创业公司月之暗面推出最新大语言模型Kimi K3.1 Pro。该模型为今年7月发布的Kimi K3的后训练版本，参数量达3万亿，按计划将于11月4日通过开源",
-      "highlights": [
-        "2026年10月24日，中国AI创业公司月之暗面推出最新大语言模型Kimi K3.1 Pro",
-        "该模型为今年7月发布的Kimi K3的后训练版本，参数量达3万亿，按计划将于11月4日通过开源"
-      ],
-      "url": "https://www.ebrun.com/20261026/716353.shtml",
-      "source": "ebrun.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-26T08:00:00Z"
-    },
-    {
-      "id": "928806716edf",
-      "title": "Counterpoint：人形机器人AI芯片市场爆发",
-      "summary": "在垂直整合阵营中，特斯拉与小鹏汽车依托汽车制造经验、自研芯片、专有AI 模型以及软硬件全栈布局，有望重塑人形机器人AI 加速器格局。",
-      "highlights": [
-        "在垂直整合阵营中，特斯拉与小鹏汽车依托汽车制造经验、自研芯片、专有AI 模型以及软硬件全栈布局，有望重塑人形机器人AI 加速器格局"
-      ],
-      "url": "https://tech.ifeng.com/c/8xXe6BGxdJf",
-      "source": "tech.ifeng.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-10-26T10:00:00Z"
-    },
-    {
-      "id": "c864bd3d5e54",
-      "title": "无问芯穹与三体宇宙联合发布智子Agent 1.0，以Agentic Infra支撑科幻IP角色智能体落地-品玩",
-      "summary": "未来，双方还将进一步探索角色长期记忆与关系演进、多角色共享世界观协同叙事、多模态跨媒介交互等方向。无问芯穹也将持续沉淀支持多IP、多角色、多终端运营的共性基础设施能力，为包括三体宇宙在内的IP方提供可复用的底层支撑，推动科幻IP AI Agent从个案走向产业化发展。\n\n下载品玩App，比99.9%的人更先知道关于「业界动态」的新故事\n\n下载品玩App\n\n比99.9%的人更先知道关于「业界动态」的...",
-      "highlights": [
-        "未来，双方还将进一步探索角色长期记忆与关系演进、多角色共享世界观协同叙事、多模态跨媒介交互等方向",
-        "无问芯穹也将持续沉淀支持多IP、多角色、多终端运营的共性基础设施能力，为包括三体宇宙在内的IP方提供可复用的底层支撑，推动科幻IP AI Agent从个案走向产业化发展",
-        "下载品玩App，比99.9%的人更先知道关于「业界动态」的新故事"
-      ],
-      "url": "https://www.pingwest.com/a/318752",
-      "source": "pingwest.com",
+      "url": "https://www.csdn.net/article/2026-10-27/169238754",
+      "source": "csdn.net",
       "category": "产品进展",
       "importance": 4,
-      "publishedAt": "2026-10-26T02:00:00Z"
-    },
-    {
-      "id": "f2060c46cf71",
-      "title": "个人智能体扎堆遭 APP 拒绝，松延动力冲刺港股 IPO | AI周报",
-      "summary": "本周核心变化：大模型进入“主动时代”. MiniMax 发布M3.1 Flash，Agent 价格降七成. MiniMax 正式发布新一代Flash 模型M3.1 Flash，主打Agent 任务交付能力升级，调用",
-      "highlights": [
-        "本周核心变化：大模型进入“主动时代”. MiniMax 发布M3.1 Flash，Agent 价格降七成. MiniMax 正式发布新一代Flash 模型M3.1 Flash，主打Agent 任务交付能力升级，调用"
-      ],
-      "url": "https://xiaguangshe.com/16703",
-      "source": "xiaguangshe.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-26T10:00:00Z"
-    },
-    {
-      "id": "1af9c31b3869",
-      "title": "What’s Riding on Anthropic Going Public? Nearly Everything. - The New York Times",
-      "summary": "Anthropic and OpenAI, its chief rival, sit atop a pyramid of business partners and suppliers — infrastructure providers, chipmakers, energy companies and A.I. start-ups — that have all spent heavily o...",
-      "highlights": [
-        "Anthropic and OpenAI, its chief rival, sit atop a pyramid of business partners and suppliers — infrastructure providers, chipmakers, energy companies and A.I. start-ups — that have all spent heavily over the last four years because they believe demand for A.I. products will keep growing. [...] Anthropic’s listing will provide the first in-depth look at the health of a key business underlying the A.I. boom — and will be a test of its durability. Is there unending appetite for A.I. services to justify the spending on chips, data centers and other infrastructure? Or will Anthropic’s performance show that there are limits?",
-        "“For the market, it’s a bellwether,” said Umesh Padval, an investor at Seligman Ventures, who has worked in tech for nearly 40 years. [...] Supported by",
-        "# What’s Riding on Anthropic’s Market Debut? Nearly Everything."
-      ],
-      "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html",
-      "source": "nytimes.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-26T09:02:15Z"
-    },
-    {
-      "id": "dc213468ed44",
-      "title": "2026年轻松突破年薪30W，试试Transformer与VLM开发-电子工程专辑",
-      "summary": "图片\n\n零样本缺陷检测\n\n零样本工业缺陷检测模型是当前工业AI领域的前沿研究方向，旨在通过多模态大模型的图像与文本提示输入结合，实现感知与认知模型融合，解决传统CNN与YOLO系列模型的监督学习方式在缺陷检测面临的核心痛点：依赖大量缺陷样本、难以应对新缺陷。\n\n图片\n图片\n图片\n图片\n\n多模态VLM模型工业缺陷检测的优势在于真正意义上的“零样本”，无需针对特定任务训练，灵活度高，可应对开放词汇描述...",
-      "highlights": [
-        "零样本工业缺陷检测模型是当前工业AI领域的前沿研究方向，旨在通过多模态大模型的图像与文本提示输入结合，实现感知与认知模型融合，解决传统CNN与YOLO系列模型的监督学习方式在缺陷检测面临的核心痛点：依赖大量缺陷样本、难以应对新缺陷",
-        "多模态VLM模型工业缺陷检测的优势在于真正意义上的“零样本”，无需针对特定任务训练，灵活度高，可应对开放词汇描述的新缺陷",
-        "工业支持急速五分钟换型、四张参考样本准确率可以达到99%"
-      ],
-      "url": "https://www.eet-china.com/mp/a533922.html",
-      "source": "eet-china.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-26T10:00:00Z"
-    },
-    {
-      "id": "317539b9b736",
-      "title": "Instagram",
-      "summary": "igsoka\n\n小米自研芯片版图迎来全面爆发！全新智能手机AI芯片XRING O3预计采用3纳米工艺，集成CPU、GPU与NPU，AI算力高达200 TOPS，将搭载于新款折叠屏手机小米18 Fold。此外，小米还计划在2027年上半年商用AI加速器XRING O100及自研纯电汽车智驾芯片XRING D100，全面进军AI数据处理与自动驾驶核心芯片赛道。 #小米 #自研芯片 #半导体 #人工智能...",
-      "highlights": [
-        "小米自研芯片版图迎来全面爆发",
-        "全新智能手机AI芯片XRING O3预计采用3纳米工艺，集成CPU、GPU与NPU，AI算力高达200 TOPS，将搭载于新款折叠屏手机小米18 Fold",
-        "此外，小米还计划在2027年上半年商用AI加速器XRING O100及自研纯电汽车智驾芯片XRING D100，全面进军AI数据处理与自动驾驶核心芯片赛道"
-      ],
-      "url": "https://www.instagram.com/p/DeyFKxhhus0",
-      "source": "instagram.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-10-26T21:57:40Z"
-    },
-    {
-      "id": "53575c36d750",
-      "title": "Multibillion-dollar M&A and infrastructure deals (Oct 2026)",
-      "summary": "This week's headlines cover major AI financing plans by SpaceX and OpenAI, to Amazon's potential acquisition of an AI startup. $7 Billion Acquisition of AI",
-      "highlights": [
-        "This week's headlines cover major AI financing plans by SpaceX and OpenAI, to Amazon's potential acquisition of an AI startup. $7 Billion Acquisition of AI"
-      ],
-      "url": "https://www.facebook.com/vinventuresfund/posts/-%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%97%F0%9D%97%A8%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%A5%F0%9D%97%AC-%F0%9D%97%A5%F0%9D%97%A2%F0%9D%97%A8%F0%9D%97%A1%F0%9D%97%97%F0%9D%97%A8%F0%9D%97%A3-%F0%9D%97%A8%F0%9D%97%A3%F0%9D%97%97%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%98%F0%9D%97%97-%F0%9D%9F%AD%F0%9D%9F%AF-%F0%9D%97%A2%F0%9D%97%96%F0%9D%97%A7%F0%9D%97%A2%F0%9D%97%95%F0%9D%97%98%F0%9D%97%A5-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B2this-weeks-headlines-cover-major-ai-fin/122190823196606521",
-      "source": "facebook.com",
-      "category": "投并购",
-      "importance": 3,
-      "publishedAt": "2026-10-26T01:55:59Z"
-    },
-    {
-      "id": "54f9d95cd11d",
-      "title": "顛覆兩年一次的研發週期談到Tesla 與SpaceX 跨足晶片製造 ...",
-      "summary": "我公開預測過，中國克服算力限制的速度會比多數人預期的更快，大約在2到3年內就能透過微影設備與晶片製造解決算力瓶頸。」 #算力、電力基礎建設與AI安全共識面對AGI",
-      "highlights": [
-        "我公開預測過，中國克服算力限制的速度會比多數人預期的更快，大約在2到3年內就能透過微影設備與晶片製造解決算力瓶頸",
-        "」 #算力、電力基礎建設與AI安全共識面對AGI"
-      ],
-      "url": "https://www.instagram.com/p/DeWAZVLE4c_",
-      "source": "instagram.com",
-      "category": "芯片硬件",
-      "importance": 2,
-      "publishedAt": "2026-10-26T01:55:59Z"
-    },
-    {
-      "id": "e8b5e6689211",
-      "title": "AI Startup Acquisitions Accelerate, Talent and Tech in High ...",
-      "summary": "195 AI startups have been acquired by venture-backed AI companies so far in 2026—already 14% more than in all of 2025.",
-      "highlights": [
-        "195 AI startups have been acquired by venture-backed AI companies so far in 2026—already 14% more than in all of 2025."
-      ],
-      "url": "https://www.linkedin.com/posts/menlo-ventures_crunchbase-data-shows-ais-most-active-startups-activity-7513745070077177856-YFCJ",
-      "source": "linkedin.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-26T01:55:59Z"
-    },
-    {
-      "id": "63b92c9d8c42",
-      "title": "Robots will not have a \"ChatGPT moment\", but the boom has already begun.",
-      "summary": "Meanwhile, we have already witnessed the first wave of Physical AI companies stepping out of laboratories and prototype testing phases to boldly advance toward large-scale deployment in the real world...",
-      "highlights": [
-        "Meanwhile, we have already witnessed the first wave of Physical AI companies stepping out of laboratories and prototype testing phases to boldly advance toward large-scale deployment in the real world. In fact, Waymo has been walking this path in the autonomous driving sector for years. [...] Share by Image",
-        "Under the stringent fault-tolerance thresholds and high costs of idle hardware in the real world, embodied AI follows a penetration curve similar to that of autonomous driving, quietly initiating widespread adoption in vertical scenarios through exceptional reliability.",
-        "Author: RoboStrategy Research Team"
-      ],
-      "url": "https://www.techflowpost.com/en-US/article/34866",
-      "source": "techflowpost.com",
-      "category": "前沿理论",
-      "importance": 2,
-      "publishedAt": "2026-10-26T07:43:09Z"
-    },
-    {
-      "id": "f6b3595e40ee",
-      "title": "AI快讯:DeepSeek大模型周调用量全球第一,松下员工违规上传几十万人信息至AI平台",
-      "summary": "→DeepSeek大模型,登顶全球第一根据OpenRouter最新数据测算,上周(10月19日至25日)全球AI大模型总调用量为188万亿Token...",
-      "highlights": [
-        "→DeepSeek大模型,登顶全球第一根据OpenRouter最新数据测算,上周(10月19日至25日)全球AI大模型总调用量为188万亿Token..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS07XdexdSAmpbeNBSftnGsAqkZ_Sx3PrI1qXa8Fplpd9i0_taK8SlCyhtjxsUnWcnTbpCoj3uqwt0po0xpA51gnKA__otoiE1QaR78r-lBzYxdgnqQKmLj2n885kubTBtaItbzlCm9iouSt4iGbBkph4xms3GVk4S2kmHN2JF0CkHMuPBWxIkWFkmc5EN-jGcj1i1IQHPzMCbDmFHvukJRlr1dbZWbKUeQ..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=97358ABB16A4658CBCBAE27C672A3F64BD4D41636ADF9116",
-      "source": "微信公众号",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-10-26T11:00:58Z"
-    },
-    {
-      "id": "76de845d2633",
-      "title": "从问答走向交付：AI智能体转向生产线，释放了哪些信号？-中国新闻网-浙江新闻",
-      "summary": "安徽|北京|重庆|福建|甘肃|贵州|广东|广西|海南|河北|河南|湖北|湖南|黑龙江|江苏|江西|吉林|辽宁|内蒙古|宁夏|青海|山东|山西|陕西|上海|四川|天津|新疆|兵团|云南|浙江\n\n\n\n\n\n\n\n\n\n主办单位:中国新闻社浙江分社 地址:浙江省杭州市文一西路1199号中新大厦11楼 邮编:311100\n\n联系电话:0571-8832 5066 投稿信箱:zhejiang@chinanews....",
-      "highlights": [
-        "安徽|北京|重庆|福建|甘肃|贵州|广东|广西|海南|河北|河南|湖北|湖南|黑龙江|江苏|江西|吉林|辽宁|内蒙古|宁夏|青海|山东|山西|陕西|上海|四川|天津|新疆|兵团|云南|浙江",
-        "主办单位:中国新闻社浙江分社 地址:浙江省杭州市文一西路1199号中新大厦11楼 邮编:311100",
-        "联系电话:0571-8832 5066 投稿信箱:zhejiang@chinanews.com.cn"
-      ],
-      "url": "http://www.zj.chinanews.com.cn/jzkzj/2026-10-26/detail-ihfmppat9983245.shtml",
-      "source": "zj.chinanews.com.cn",
-      "category": "产品进展",
-      "importance": 2,
-      "publishedAt": "2026-10-26T05:00:00Z"
-    },
-    {
-      "id": "bd1df692ebe1",
-      "title": "南方财经全媒体集团",
-      "summary": "南方财经网是南方财经全媒体集团门户网站，主打财经新闻，是21世纪经济报道、TVS1、投资快报等原创新闻最重要的展现平台。同时有机整合21财经客户端深度策划、抢鲜报及",
-      "highlights": [
-        "南方财经网是南方财经全媒体集团门户网站，主打财经新闻，是21世纪经济报道、TVS1、投资快报等原创新闻最重要的展现平台",
-        "同时有机整合21财经客户端深度策划、抢鲜报及"
-      ],
-      "url": "https://m.sfccn.com/2026/10-26/2NMDE0MDRfMjI4MzE2NA.html",
-      "source": "m.sfccn.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-26T14:00:00Z"
-    },
-    {
-      "id": "fdb271d86e6c",
-      "title": "AI快讯:DeepSeek大模型周调用量全球第一,松下员工违规上传几十万人信息至AI平台",
-      "summary": "→DeepSeek大模型,登顶全球第一根据OpenRouter最新数据测算,上周(10月19日至25日)全球AI大模型总调用量为188万亿Token...",
-      "highlights": [
-        "→DeepSeek大模型,登顶全球第一根据OpenRouter最新数据测算,上周(10月19日至25日)全球AI大模型总调用量为188万亿Token..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS07XdexdSAmpe8wsGJsysAhgpLDFyxV--VqXa8Fplpd9DYpEtYjl7mns6yhlHtG9nXNVk9zfKR0vWeonI0_cZd6ZRQQNh1uiZFAHhmlN8tauelovqTVaScqWQMQNs3QWfTHO2TLIzKGV3YGdLES_OeKmh6Rr-53wEUUP-5Jqzm1v858dXZezJQYZ_-2nvlSZN8QDuWgo80OTUCNZfkBJ4Xzm0CtGSSkZQQ..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=99337CFB2E834FF3E6E0B9238D2F22E7E79C12B66ADFCCCD",
-      "source": "微信公众号",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-10-26T11:00:58Z"
+      "publishedAt": "2026-10-27T01:00:00Z"
     }
   ],
   "week": [
@@ -924,89 +597,94 @@
       "publishedAt": "2026-10-26T09:46:00Z"
     },
     {
-      "id": "781aaac8b906",
-      "title": "月之暗面发布Kimi K3.1 Pro 11月开放开源权重- AI",
-      "summary": "2026年10月24日，中国AI创业公司月之暗面推出最新大语言模型Kimi K3.1 Pro。该模型为今年7月发布的Kimi K3的后训练版本，参数量达3万亿，按计划将于11月4日通过开源",
+      "id": "3579e3da8f2f",
+      "title": "DeepSeek新版模型单周调用量登顶全球首位，环比暴增801%-36氪",
+      "summary": "10月26日消息，在OpenRouter发布的最新一周全球AI大模型调用量周榜单上（10月19日至25日），拿下榜首的是DeepSeek在10月17日更新的V4.1-Flash-1017版本。该模型单周调用量达到33.6万亿Token，环比增幅高达801%，成为近一周爆发力最强的模型，也是拉动国产模型整体增量的核心动力。\n\n公开资料显示，V4.1-Flash-1017以9月10日发布的V4.1 F...",
       "highlights": [
-        "2026年10月24日，中国AI创业公司月之暗面推出最新大语言模型Kimi K3.1 Pro",
-        "该模型为今年7月发布的Kimi K3的后训练版本，参数量达3万亿，按计划将于11月4日通过开源"
+        "10月26日消息，在OpenRouter发布的最新一周全球AI大模型调用量周榜单上（10月19日至25日），拿下榜首的是DeepSeek在10月17日更新的V4.1-Flash-1017版本",
+        "该模型单周调用量达到33.6万亿Token，环比增幅高达801%，成为近一周爆发力最强的模型，也是拉动国产模型整体增量的核心动力",
+        "公开资料显示，V4.1-Flash-1017以9月10日发布的V4.1 Flash为基底，延续552B总参数、输入激活8B、输出激活16B的非对称MoE架构，原生支持多模态，重点优化代码、自动化Agent与视觉任务"
       ],
-      "url": "https://www.ebrun.com/20261026/716353.shtml",
-      "source": "ebrun.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-26T08:00:00Z"
-    },
-    {
-      "id": "928806716edf",
-      "title": "Counterpoint：人形机器人AI芯片市场爆发",
-      "summary": "在垂直整合阵营中，特斯拉与小鹏汽车依托汽车制造经验、自研芯片、专有AI 模型以及软硬件全栈布局，有望重塑人形机器人AI 加速器格局。",
-      "highlights": [
-        "在垂直整合阵营中，特斯拉与小鹏汽车依托汽车制造经验、自研芯片、专有AI 模型以及软硬件全栈布局，有望重塑人形机器人AI 加速器格局"
-      ],
-      "url": "https://tech.ifeng.com/c/8xXe6BGxdJf",
-      "source": "tech.ifeng.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-10-26T10:00:00Z"
-    },
-    {
-      "id": "c864bd3d5e54",
-      "title": "无问芯穹与三体宇宙联合发布智子Agent 1.0，以Agentic Infra支撑科幻IP角色智能体落地-品玩",
-      "summary": "未来，双方还将进一步探索角色长期记忆与关系演进、多角色共享世界观协同叙事、多模态跨媒介交互等方向。无问芯穹也将持续沉淀支持多IP、多角色、多终端运营的共性基础设施能力，为包括三体宇宙在内的IP方提供可复用的底层支撑，推动科幻IP AI Agent从个案走向产业化发展。\n\n下载品玩App，比99.9%的人更先知道关于「业界动态」的新故事\n\n下载品玩App\n\n比99.9%的人更先知道关于「业界动态」的...",
-      "highlights": [
-        "未来，双方还将进一步探索角色长期记忆与关系演进、多角色共享世界观协同叙事、多模态跨媒介交互等方向",
-        "无问芯穹也将持续沉淀支持多IP、多角色、多终端运营的共性基础设施能力，为包括三体宇宙在内的IP方提供可复用的底层支撑，推动科幻IP AI Agent从个案走向产业化发展",
-        "下载品玩App，比99.9%的人更先知道关于「业界动态」的新故事"
-      ],
-      "url": "https://www.pingwest.com/a/318752",
-      "source": "pingwest.com",
+      "url": "https://www.36kr.com/p/4042510353257347",
+      "source": "36kr.com",
       "category": "产品进展",
-      "importance": 4,
+      "importance": 5,
+      "publishedAt": "2026-10-26T11:02:59Z"
+    },
+    {
+      "id": "330e8e304ebc",
+      "title": "环比增长801%，DeepSeek一款大模型单周调用量登顶全球第一！MiniMax新模型跻身前三，智谱GLM 5.3跌出榜单 | 每经网",
+      "summary": "《每日经济新闻》注意到，上周，全球调用量排名前五均为中国AI大模型。其中，DeepSeek V4.1-Flash-1017位居第一，周调用量达33. 6万亿Token，环比增长801%。\n\n10月17日，DeepSeek V4.1-Flash-1017版本官宣更新。本次更新以9月10日发布的V4.1 Flash为基础，改善推理、编程、自动化及视觉任务表现。DeepSeek称，新模型在各方面的基准测...",
+      "highlights": [
+        "《每日经济新闻》注意到，上周，全球调用量排名前五均为中国AI大模型",
+        "其中，DeepSeek V4.1-Flash-1017位居第一，周调用量达33. 6万亿Token，环比增长801%",
+        "10月17日，DeepSeek V4.1-Flash-1017版本官宣更新"
+      ],
+      "url": "https://www.nbd.com.cn/articles/2026-10-26/4617229.html",
+      "source": "nbd.com.cn",
+      "category": "模型发布",
+      "importance": 5,
       "publishedAt": "2026-10-26T02:00:00Z"
     },
     {
-      "id": "f2060c46cf71",
-      "title": "个人智能体扎堆遭 APP 拒绝，松延动力冲刺港股 IPO | AI周报",
-      "summary": "本周核心变化：大模型进入“主动时代”. MiniMax 发布M3.1 Flash，Agent 价格降七成. MiniMax 正式发布新一代Flash 模型M3.1 Flash，主打Agent 任务交付能力升级，调用",
+      "id": "d49a6b373f5a",
+      "title": "从“拼模型”到“抢入口”：国产大模型加速进军消费硬件市场新趋势",
+      "summary": "数据上看，AI大模型似乎正处于繁花似锦、烈火烹油的黄金时代。\n\n但正如《围城》一样，外人看到的都是美好，只有内行人才懂这些数据背后的辛酸——行业太卷了，卷到只要落后一步就会失去用户。\n\n据《新智元》统计，从今年年初到9月22日，包括豆包、阿里千问、DEEPSEEK在内的十家主要厂商共发布了至少28个旗舰模型，平均每9.5天就有一个国产大模型发布。\n\n（来源：新智元）\n\n而在价格上，2026年上半年...",
       "highlights": [
-        "本周核心变化：大模型进入“主动时代”. MiniMax 发布M3.1 Flash，Agent 价格降七成. MiniMax 正式发布新一代Flash 模型M3.1 Flash，主打Agent 任务交付能力升级，调用"
+        "数据上看，AI大模型似乎正处于繁花似锦、烈火烹油的黄金时代",
+        "但正如《围城》一样，外人看到的都是美好，只有内行人才懂这些数据背后的辛酸——行业太卷了，卷到只要落后一步就会失去用户",
+        "据《新智元》统计，从今年年初到9月22日，包括豆包、阿里千问、DEEPSEEK在内的十家主要厂商共发布了至少28个旗舰模型，平均每9.5天就有一个国产大模型发布"
       ],
-      "url": "https://xiaguangshe.com/16703",
-      "source": "xiaguangshe.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-26T10:00:00Z"
-    },
-    {
-      "id": "1af9c31b3869",
-      "title": "What’s Riding on Anthropic Going Public? Nearly Everything. - The New York Times",
-      "summary": "Anthropic and OpenAI, its chief rival, sit atop a pyramid of business partners and suppliers — infrastructure providers, chipmakers, energy companies and A.I. start-ups — that have all spent heavily o...",
-      "highlights": [
-        "Anthropic and OpenAI, its chief rival, sit atop a pyramid of business partners and suppliers — infrastructure providers, chipmakers, energy companies and A.I. start-ups — that have all spent heavily over the last four years because they believe demand for A.I. products will keep growing. [...] Anthropic’s listing will provide the first in-depth look at the health of a key business underlying the A.I. boom — and will be a test of its durability. Is there unending appetite for A.I. services to justify the spending on chips, data centers and other infrastructure? Or will Anthropic’s performance show that there are limits?",
-        "“For the market, it’s a bellwether,” said Umesh Padval, an investor at Seligman Ventures, who has worked in tech for nearly 40 years. [...] Supported by",
-        "# What’s Riding on Anthropic’s Market Debut? Nearly Everything."
-      ],
-      "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html",
-      "source": "nytimes.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-26T09:02:15Z"
-    },
-    {
-      "id": "dc213468ed44",
-      "title": "2026年轻松突破年薪30W，试试Transformer与VLM开发-电子工程专辑",
-      "summary": "图片\n\n零样本缺陷检测\n\n零样本工业缺陷检测模型是当前工业AI领域的前沿研究方向，旨在通过多模态大模型的图像与文本提示输入结合，实现感知与认知模型融合，解决传统CNN与YOLO系列模型的监督学习方式在缺陷检测面临的核心痛点：依赖大量缺陷样本、难以应对新缺陷。\n\n图片\n图片\n图片\n图片\n\n多模态VLM模型工业缺陷检测的优势在于真正意义上的“零样本”，无需针对特定任务训练，灵活度高，可应对开放词汇描述...",
-      "highlights": [
-        "零样本工业缺陷检测模型是当前工业AI领域的前沿研究方向，旨在通过多模态大模型的图像与文本提示输入结合，实现感知与认知模型融合，解决传统CNN与YOLO系列模型的监督学习方式在缺陷检测面临的核心痛点：依赖大量缺陷样本、难以应对新缺陷",
-        "多模态VLM模型工业缺陷检测的优势在于真正意义上的“零样本”，无需针对特定任务训练，灵活度高，可应对开放词汇描述的新缺陷",
-        "工业支持急速五分钟换型、四张参考样本准确率可以达到99%"
-      ],
-      "url": "https://www.eet-china.com/mp/a533922.html",
-      "source": "eet-china.com",
+      "url": "https://eu.36kr.com/zh/p/4041590228424327",
+      "source": "eu.36kr.com",
       "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-26T10:00:00Z"
+      "importance": 5,
+      "publishedAt": "2026-10-26T02:00:00Z"
+    },
+    {
+      "id": "06c8bddd69ef",
+      "title": "一天吃透一个行业108：AI推理算力，国内算力厂商选型参考（收藏版）|大模型|GPU|芯片|SRAM|模型_新浪新闻",
+      "summary": "核心看点\n 昇腾\n\n  　　昇腾系列AI芯片、推理加速模组\n\n  　　达芬奇全栈自研架构\n\n  　　软硬件协同开发，训练推理产品矩阵完整，国内智算集群项目落地较多，配套开发工具链成熟\n 寒武纪\n\n  　　思元系列芯片\n\n  　　AI芯片架构，训推一体\n\n  　　产品覆盖云端训练、云端推理、边缘推理多场景，适配多模态、大语言模型业务\n 海光信息\n\n  　　DCU系列计算芯片\n\n  　　通用计算架构\n...",
+      "highlights": [
+        "昇腾系列AI芯片、推理加速模组",
+        "软硬件协同开发，训练推理产品矩阵完整，国内智算集群项目落地较多，配套开发工具链成熟",
+        "AI芯片架构，训推一体"
+      ],
+      "url": "https://k.sina.com.cn/article_5426766895_14375e42f00102zv2o.html?from=tech&subch=otech",
+      "source": "k.sina.com.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-26T12:25:04Z"
+    },
+    {
+      "id": "a71698b1fa2e",
+      "title": "从电到光的AI算力芯片变革，光本位科技加速产业化落地_新浪财经_新浪网",
+      "summary": "新浪首页\n 新闻\n 体育\n 财经\n 娱乐\n 科技\n 博客\n 图片\n 专栏\n 更多\n\n 汽车 教育 时尚 女性 星座 健康\n 房产历史视频收藏育儿读书\n 佛学游戏旅游邮箱导航\n\n 新浪微博\n 新浪新闻\n 新浪财经\n 新浪体育\n 新浪众测\n 新浪博客\n 新浪视频\n 新浪游戏\n 天气通\n\n[](\n\n滚动新闻 > 正文\n\n# 从电到光的AI算力芯片变革，光本位科技加速产业化落地\n\n从电到光的AI算力芯片变...",
+      "highlights": [
+        "汽车 教育 时尚 女性 星座 健康",
+        "房产历史视频收藏育儿读书",
+        "# 从电到光的AI算力芯片变革，光本位科技加速产业化落地"
+      ],
+      "url": "https://finance.sina.com.cn/roll/2026-10-26/doc-iniwpwir9271658.shtml",
+      "source": "finance.sina.com.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-26T08:57:34Z"
+    },
+    {
+      "id": "114e6b94d6fd",
+      "title": "马斯克贷款2700亿，准备大干一场 - 电商派",
+      "summary": "收入重心在变，支出重心变化得更猛烈。\n\n这组数字清楚表明，AI扩张正在消耗大量资金，融资能力已经成为这门生意的重要竞争条件。\n\nwatermark,image_d2F0ZXJtYXJrLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEy,g_south,t_55,x_1,y_20\n\n图源：X\n\n资本开支很容易制造规模感。机房面积、芯片数量、采购金额，随便...",
+      "highlights": [
+        "收入重心在变，支出重心变化得更猛烈",
+        "这组数字清楚表明，AI扩张正在消耗大量资金，融资能力已经成为这门生意的重要竞争条件",
+        "watermark,image_d2F0ZXJtYXJrLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEy,g_south,t_55,x_1,y_20"
+      ],
+      "url": "https://www.pai.com.cn/p/01m5vgxz4tkarqv0jevdekbvkx",
+      "source": "pai.com.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-26T07:00:00Z"
     }
   ],
   "month": [
