@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T11:08:12Z",
+  "updatedAt": "2026-10-27T16:55:03Z",
   "latest": [
     {
       "id": "d89f32d7e68d",
@@ -30,21 +30,6 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-10-26T03:00:00Z"
-    },
-    {
-      "id": "5708cc8a762c",
-      "title": "中签不等于赚钱，港股IPO热潮“降温” - 21经济网",
-      "summary": "蓝水资本首席投资官李泽铭表示，IPO上市过程中散户认购意愿比较低，部分认购冷淡的IPO可能存在关联方“围飞”操作，就是募资通过未披露安排回流到承配人，并未真正用于公司运营，这种情况以前比较罕见，最近港股上市IPO比较多，但市场资金有限，香港证监会深入调查并披露案情，显示监管层对严重违规行为的执法态度，对案件还原度也可能继续提高。如果违规查实，相关集资额可能面临还原或退还，涉事公司甚至可能被撤销上市...",
-      "highlights": [
-        "蓝水资本首席投资官李泽铭表示，IPO上市过程中散户认购意愿比较低，部分认购冷淡的IPO可能存在关联方“围飞”操作，就是募资通过未披露安排回流到承配人，并未真正用于公司运营，这种情况以前比较罕见，最近港股上市IPO比较多，但市场资金有限，香港证监会深入调查并披露案情，显示监管层对严重违规行为的执法态度，对案件还原度也可能继续提高",
-        "如果违规查实，相关集资额可能面临还原或退还，涉事公司甚至可能被撤销上市地位；涉案机构与人员除面临罚款、吊销牌照等处分外，还可能被追究刑事责任",
-        "数据上看，2026年前三季度，港股IPO募资额已达到3880亿港元，同比增长106%，全年有望冲击5000亿港元历史新高"
-      ],
-      "url": "https://www.21jingji.com/article/20261025/herald/a43d47ba68cbb5882c7b78f406f8d887.html",
-      "source": "21jingji.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-25T12:00:00Z"
     },
     {
       "id": "652c04d55be5",
@@ -435,6 +420,21 @@
       "publishedAt": "2026-10-26T13:05:25Z"
     },
     {
+      "id": "8a75c874e817",
+      "title": "圖解丨Anthropic“算力芯片”版圖首次曝光：英偉達佔42% — TradingView News",
+      "summary": "Gelonghui\nGelonghui\n\n# 圖解丨Anthropic“算力芯片”版圖首次曝光：英偉達佔42%\n\n格隆匯10月27日｜隨着AI巨頭Anthropic正式遞交S-1上市申請文件，其底層算力佈局與合作圖譜迎來首次全面曝光。數據顯示，Anthropic目前已簽約的算力規模達到約11GW(吉瓦)：\n\n英偉達GPU(佔比約42%)：以4.7GW的簽約算力總量居首。其中，通過SpaceXSI合...",
+      "highlights": [
+        "# 圖解丨Anthropic“算力芯片”版圖首次曝光：英偉達佔42%",
+        "格隆匯10月27日｜隨着AI巨頭Anthropic正式遞交S-1上市申請文件，其底層算力佈局與合作圖譜迎來首次全面曝光",
+        "數據顯示，Anthropic目前已簽約的算力規模達到約11GW(吉瓦)："
+      ],
+      "url": "https://www.tradingview.com/news/gelonghui:7a4c32f94acdf:0",
+      "source": "tradingview.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-27T01:38:45Z"
+    },
+    {
       "id": "781aaac8b906",
       "title": "月之暗面发布Kimi K3.1 Pro 11月开放开源权重- AI",
       "summary": "2026年10月24日，中国AI创业公司月之暗面推出最新大语言模型Kimi K3.1 Pro。该模型为今年7月发布的Kimi K3的后训练版本，参数量达3万亿，按计划将于11月4日通过开源",
@@ -524,6 +524,21 @@
       "category": "具身智能",
       "importance": 5,
       "publishedAt": "2026-10-27T10:56:53Z"
+    },
+    {
+      "id": "8a75c874e817",
+      "title": "圖解丨Anthropic“算力芯片”版圖首次曝光：英偉達佔42% — TradingView News",
+      "summary": "Gelonghui\nGelonghui\n\n# 圖解丨Anthropic“算力芯片”版圖首次曝光：英偉達佔42%\n\n格隆匯10月27日｜隨着AI巨頭Anthropic正式遞交S-1上市申請文件，其底層算力佈局與合作圖譜迎來首次全面曝光。數據顯示，Anthropic目前已簽約的算力規模達到約11GW(吉瓦)：\n\n英偉達GPU(佔比約42%)：以4.7GW的簽約算力總量居首。其中，通過SpaceXSI合...",
+      "highlights": [
+        "# 圖解丨Anthropic“算力芯片”版圖首次曝光：英偉達佔42%",
+        "格隆匯10月27日｜隨着AI巨頭Anthropic正式遞交S-1上市申請文件，其底層算力佈局與合作圖譜迎來首次全面曝光",
+        "數據顯示，Anthropic目前已簽約的算力規模達到約11GW(吉瓦)："
+      ],
+      "url": "https://www.tradingview.com/news/gelonghui:7a4c32f94acdf:0",
+      "source": "tradingview.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-27T01:38:45Z"
     },
     {
       "id": "260a983eaeb4",
@@ -814,64 +829,6 @@
   ],
   "month": [
     {
-      "id": "fbb32f61273f",
-      "title": "#TechWeekInReview shows AI acquisitions, fresh capital and the next moves in startup growth\n➡️ @OptiComm.AI is preparing a €1.5–2 million funding round to support its expansion into the US, with existing investors already committed to participate. The AI-powered platform helps food and beverage distributors improve sales and inventory decisions. In November 2025, TechAngels investors participated in its €500,000 round through the SeedBlink Nominee structure.\nA recent case study highlights how bringing investors together through a single nominee can simplify the cap table and make future funding rounds easier to manage, a practical example of how investment structures can support a startup well beyond the initial round.\n➡️ @VoicePatrol has secured $3.4 million in funding. The startup uses AI to detect abusive behavior in multiplayer gaming voice chats, distinguishing harmful interactions from ordinary competitive banter. According to the company, its technology has helped clients reduce severe toxicity by 55–75% within three weeks of activating automated interventions.\n➡️ @Opaque Systems, the AI security startup co-founded by two Romanian researchers, is being acquired by @Anthropic, the company behind Claude. The transaction value has not been disclosed.  Originating from research at UC Berkeley, Opaque develops technologies that allow organizations to work with sensitive data while protecting confidentiality and verifying AI system behavior. The acquisition highlights the growing importance of security and trust as AI becomes more deeply integrated into business operations.\nThe investment will support international expansion and further product development.\n➡️ @TWIPLA is in discussions with investment funds to potentially accelerate product development and international growth, after building its business entirely through its own revenues. The website intelligence platform developed in Cluj-Napoca reports approximately 60% growth in 2026 and has surpassed 3 million website installations since launch.\nThe company is considering both minority and majority investment options, but no financing decision has been announced.\n➡️ @Boxd, a Dutch AI infrastructure startup co-founded by a Romanian entrepreneur is scaling its operations following a €2 million funding round announced in September.\nThe company provides cloud-based virtual computers where developers and AI agents can run code, test applications and execute workflows. With demand growing faster than its onboarding capacity and many customers already based in the US, Boxd is now preparing to expand its server infrastructure across the Atlantic.\n➡️ @.lumen is planning its first autonomous robotics pilot projects in Cluj-Napoca in Q1 2027, expanding the applications of its AI navigation technology beyond smart glasses for visually impaired people. Rather than building robots, the Romanian startup plans to equip humanoid and quadruped robots with software that enables autonomous navigation, with potential applications in logistics and deliveries. Meanwhile, .lumen is preparing deliveries of its smart glasses and exploring entry into additional international markets.\nComing up\n➡️ Wealth & Investment Forum | October 22 | Bucharest — TechAngels joins as an institutional partner, bringing the early-stage investment perspective into broader conversations about capital and long-term investing.\n➡️ ESIL Moldova | October 22 | Chișinău — TechAngels continues its involvement in strengthening Moldova's angel investment ecosystem through a program developed with local and international partners.\nFunding is only one part of the growth story. The decisions around when to raise, how to expand and where to invest next matter just as much and these are precisely the decisions where experienced angel investors can bring value beyond capital.\n#TechAngels #TechWeekInReview #RomanianStartups #AngelInvesting #VentureCapital #AI #StartupEcosystem #Innovation | Techangels Romania",
-      "summary": "potentially eligible for a €150,000 investment. And a bit of news from our side, too. ➡️ We published the TechAngels H1 2026 results: our members made more than €1 million in direct investments during...",
-      "highlights": [
-        "potentially eligible for a €150,000 investment. And a bit of news from our side, too. ➡️ We published the TechAngels H1 2026 results: our members made more than €1 million in direct investments during the first six months of the year, 18% more than in the same period of 2025. For H2, members indicated a potential €2.18 million available for new investments. The appetite is there, but turning that potential into actual investment will require truly convincing projects. #TechAngels [...] model. FintechOS reached operational profitability in H1 2026 and its US business expanded 130%. For the next 12 months, the company is targeting growth of more than 200% in the US. ➡️ OptiComm.ai is preparing its next funding round of €1.5–2 million to accelerate its entry into the US, where it already has a go-to-market partner focused on food & beverage distributors. The Romanian startup builds AI agents for B2B sales teams, helping sales reps monitor customers, spot opportunities and [...] opportunities and automate parts of the sales process. It now has 14 large clients across seven countries and is targeting €1 million in recurring revenue this year. ➡️ @Ubex AI is also getting ready to meet investors. Built bootstrapped over four years in Mallorca and now being developed from Cluj, the startup plans to open its first external funding round in October or November. Its platform allows companies to build applications, workflows and AI agents through conversation, without writing"
-      ],
-      "url": "https://www.facebook.com/TechAngelsRomania/videos/techweekinreview-shows-ai-acquisitions-fresh-capital-and-the-next-moves-in-start/1123856030576987",
-      "source": "facebook.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-25T10:14:12Z"
-    },
-    {
-      "id": "fea7c98327dc",
-      "title": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies",
-      "summary": "Ad\n\nThey flag other risks, too. Protests against data centers have flared in Texas and Utah. Open models could undermine China's grip on information. And then there's the problem of losing control ove...",
-      "highlights": [
-        "They flag other risks, too. Protests against data centers have flared in Texas and Utah. Open models could undermine China's grip on information. And then there's the problem of losing control over the technology itself. Recently, hundreds of autonomous agents from an OpenAI model attacked Hugging Face and many other websites, with other AI companies reporting similar incidents.",
-        "## Taiwan remains the single biggest vulnerability [...] The US and China have locked up the global AI market. Expanding it takes enormous capital, energy, and cutting-edge chips that no other country can supply at scale.",
-        "Their strategies are mirror images. Washington trades closed systems for political loyalty, while Beijing gives away open-weight models to spread its own standards. Both face mounting financial pressure from sky-high investment and rising interest costs. [...] The authors propose an AI détente modeled on the Cold War, including caps on model capabilities for cyberattacks and biodesign. Getting China to accept limits while it trails technologically would be difficult, the authors write."
-      ],
-      "url": "https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies",
-      "source": "the-decoder.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-25T08:09:32Z"
-    },
-    {
-      "id": "2aac72938366",
-      "title": "投看Tocanvc10.19 ~10.25 每周融资简报：具身智能与半导体集中爆发_凤凰网",
-      "summary": "本周硬科技融资维持高景气度，具身智能整条产业链获得资本完整加持，从大算力芯片、存算一体、RISC-V 内核、力控执行器、多模态物理数据集、仿真平台一直到整机本体与场景落地，上下游同步拿到资金，产业生态建设全面提速。海外大额融资集中在 AI 芯片、商业航天、生物合成领域，并购则偏向数据平台、仿真工具类技术公司，技术壁垒与产业协同价值成为核心投资逻辑。\n\n生物医药赛道多点开花，合成生物、基因疗法、CR...",
-      "highlights": [
-        "本周硬科技融资维持高景气度，具身智能整条产业链获得资本完整加持，从大算力芯片、存算一体、RISC-V 内核、力控执行器、多模态物理数据集、仿真平台一直到整机本体与场景落地，上下游同步拿到资金，产业生态建设全面提速",
-        "海外大额融资集中在 AI 芯片、商业航天、生物合成领域，并购则偏向数据平台、仿真工具类技术公司，技术壁垒与产业协同价值成为核心投资逻辑",
-        "生物医药赛道多点开花，合成生物、基因疗法、CRO、宠物药多条管线持续推进，AI 与生物技术的融合持续深化，创新药研发效率与成功率逐步提升"
-      ],
-      "url": "https://finance.ifeng.com/c/8xWUaVaDRTw",
-      "source": "finance.ifeng.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-25T10:33:35Z"
-    },
-    {
-      "id": "7a906c684aff",
-      "title": "发布“地球最强”模型仅几天后 OpenAI首席科学家发长文呼吁放慢AI开发",
-      "summary": "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”。他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标。\n\n他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行。\n\nOpenAI首席执行官奥尔特曼（Sam Altman）在...",
-      "highlights": [
-        "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”",
-        "他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标",
-        "他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行"
-      ],
-      "url": "https://www.cls.cn/detail/2475526",
-      "source": "cls.cn",
-      "category": "前沿理论",
-      "importance": 5,
-      "publishedAt": "2026-10-25T03:00:00Z"
-    },
-    {
       "id": "d89f32d7e68d",
       "title": "马斯克称SpaceX已完成400亿美元GPU债务融资，以可赎回债为主",
       "summary": "新云公司（如Nebius和CoreWeave）与Alphabet、亚马逊等大型云服务商不同，主要面向科技客户，提供专为AI定制的算力服务。过去两周，市场已开始押注美国新云及数据中心公司走弱，担忧其依赖债务驱动的AI基础设施扩张难以为继，相关股票遭遇抛售。\n\n马斯克的表态，与SpaceX自身的融资逻辑形成鲜明对比：正是凭借星链和火箭发射业务提供的独立于AI数据中心的稳定收入，SpaceX才得以在信贷...",
@@ -932,21 +889,6 @@
       "publishedAt": "2026-10-26T05:00:00Z"
     },
     {
-      "id": "b407b0660e94",
-      "title": "从通用大模型到具身智能，还有多远 近期围绕物理AI与具身智能，产业界有几项进展。OA的Astra展现出跨界控制机器人能力，在物理动作测试中超越多款专门训练... - 雪球",
-      "summary": "陆家嘴幽灵\n\n陆家嘴幽灵()\n\n发布于来自雪球 · 上海\n\n# 从通用大模型到具身智能，还有多远\n\n来源：雪球App，作者： 陆家嘴幽灵，（\n\n近期围绕物理AI与具身智能，产业界有几项进展。OA的Astra展现出跨界控制机器人能力，在物理动作测试中超越多款专门训练的具身模型，同时以三倍薪酬招募执行器、齿轮设计与数据运营人才，重启硬件研发；AMD以82亿美元收购李飞飞的World Labs，英伟达持...",
-      "highlights": [
-        "发布于来自雪球 · 上海",
-        "# 从通用大模型到具身智能，还有多远",
-        "来源：雪球App，作者： 陆家嘴幽灵，（"
-      ],
-      "url": "https://www.xueqiu.com/5332385101/413796511",
-      "source": "xueqiu.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-25T11:00:00Z"
-    },
-    {
       "id": "721da7c5d522",
       "title": "DeepSeek，登顶全球_搜狐网",
       "summary": "## DeepSeek，登顶全球\n\n界面新闻\n\n界面新闻\n\n图片来源：视觉中国\n\n> 界面新闻记者 | 宋佳楠\n\n10月26日消息，在OpenRouter发布的最新一周全球AI大模型调用量周榜单上（10月19日至25日），拿下榜首的是DeepSeek在10月17日更新的V4.1-Flash-1017版本。该模型单周调用量达到33.6万亿Token，环比增幅高达801%，成为近一周爆发力最强的模型，...",
@@ -960,6 +902,81 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-10-26T16:53:29Z"
+    },
+    {
+      "id": "54d2245489b8",
+      "title": "DeepSeek，全球第一！ - 财闻网",
+      "summary": "首页 正文\n\n# DeepSeek，全球第一！\n\n财闻   顾群生  2026-10-26 14:35:08\n\n据财闻了解，单模型方面，上周全球调用量排名前五均为中国AI大模型。DeepSeek V4.1-Flash-1017以33.6万亿Token的周调用量位居第一，环比增长801%；DeepSeek V4.1 Flash以18万亿Token排名第二。MiniMax M3.1 Flash（免费版...",
+      "highlights": [
+        "# DeepSeek，全球第一",
+        "财闻   顾群生  2026-10-26 14:35:08",
+        "据财闻了解，单模型方面，上周全球调用量排名前五均为中国AI大模型"
+      ],
+      "url": "https://www.caiwennews.com/article/1667502.shtml",
+      "source": "caiwennews.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-26T14:35:08Z"
+    },
+    {
+      "id": "cf2508fb4c2e",
+      "title": "2026国产AI算力厂商全景复盘：细分突围，多元架构构筑产业新生态|2026世界人工智能大会|AI芯片|自主可控|Token|芯片_新浪新闻",
+      "summary": "奇异摩尔推出全栈国产化超节点互联解决方案，同时联合壁仞科技亮相国产GPU直通国产RDMA网卡的IBGDA创新方案，打通国产算力硬件互联壁垒。奇异摩尔联合创始人兼产品及解决方案副总裁祝俊东表示，国产算力发展已进入关键转折期，高速互联不再是产业配套，而是决定算力系统整体效能的核心命脉。其自研全栈方案具备可演进、可协同、无绑定的核心优势，既能支撑各类芯片厂商基于统一底座快速搭建超节点系统，也能让上层AI...",
+      "highlights": [
+        "奇异摩尔推出全栈国产化超节点互联解决方案，同时联合壁仞科技亮相国产GPU直通国产RDMA网卡的IBGDA创新方案，打通国产算力硬件互联壁垒",
+        "奇异摩尔联合创始人兼产品及解决方案副总裁祝俊东表示，国产算力发展已进入关键转折期，高速互联不再是产业配套，而是决定算力系统整体效能的核心命脉",
+        "其自研全栈方案具备可演进、可协同、无绑定的核心优势，既能支撑各类芯片厂商基于统一底座快速搭建超节点系统，也能让上层AI应用实现无缝横向扩展，推动国产算力产业从各自为战走向集群合力突围"
+      ],
+      "url": "https://k.sina.com.cn/article_5426766895_14375e42f00102zv34.html?from=tech&subch=otech",
+      "source": "k.sina.com.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-26T12:30:56Z"
+    },
+    {
+      "id": "d578954a818b",
+      "title": "突发：Anthropic启动IPO，Meta融资350亿美元，彰显市场对人工智能的强劲需求 - moomoo 社区",
+      "summary": "donwloadimg\nappLogo\n\n# 突发：Anthropic启动IPO，Meta融资350亿美元，彰显市场对人工智能的强劲需求\n\n点击上方图片中的相关股票，将其添加到您的自选列表。 ## 发生了什么 $Anthropic (ANT.US)$该公司已公开向纳斯达克提交IPO申请，股票代码为ANT，预计于美国东部时间上午9:00发布S-1文件，由此开启新一轮人工智能相关股票的供给窗口。 $M...",
+      "highlights": [
+        "donwloadimg",
+        "# 突发：Anthropic启动IPO，Meta融资350亿美元，彰显市场对人工智能的强劲需求",
+        "点击上方图片中的相关股票，将其添加到您的自选列表"
+      ],
+      "url": "https://www.moomoo.com/hans/community/feed/breaking-news-anthropic-ipo-meta-35b-raise-test-ai-appetite-117507513385366",
+      "source": "moomoo.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-26T13:00:00Z"
+    },
+    {
+      "id": "3895495c2c6e",
+      "title": "VC/PE周报｜政策加码国际级创投中心；AI芯片与超导材料持续吸金 | 每日经济新闻",
+      "summary": "## 君信资本宣布募资\n\n日前，君信资本宣布三期基金完成中国证券基金业协会备案，该基金总规模为15亿元，首关逾10亿元，其中65%左右资金为一二期基金老LP出资。从资金结构看，45%为大型国资平台、55%为民营投资机构，部分被投企业首次参与君信资本三期基金出资。\n\n在投资方向上，三期基金聚焦半导体和生物医药两大战新产业赛道，投资阶段以A、B轮为主，多数资金投向中早期硬科技项目。退出方式以IPO、转...",
+      "highlights": [
+        "## 君信资本宣布募资",
+        "日前，君信资本宣布三期基金完成中国证券基金业协会备案，该基金总规模为15亿元，首关逾10亿元，其中65%左右资金为一二期基金老LP出资",
+        "从资金结构看，45%为大型国资平台、55%为民营投资机构，部分被投企业首次参与君信资本三期基金出资"
+      ],
+      "url": "https://www.mrjjxw.com/articles/2026-10-26/4618013.html",
+      "source": "mrjjxw.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-26T09:00:00Z"
+    },
+    {
+      "id": "af576e367fdd",
+      "title": "模感科技完成亿元级天使+轮融资，提供覆盖硬件、算法与模型的全栈方案_投资界",
+      "summary": "模型层面，模感科技正同步推进基于触觉的多模态融合触觉世界动作模型MoWorld。相较于仅依赖视觉等信息进行环境判断，触觉能够提供接触力、物体形变及局部交互状态等信息。公司希望利用高频、多维的触觉反馈，持续修正机器人动作执行过程中的判断与控制，并将触觉信息作为物理先验补充到模型中，提升机器人在真实环境中的交互能力，缩小仿真训练与真实执行之间的差距。\n\n据介绍，目前，模感科技的全身触觉系统已在推进与多...",
+      "highlights": [
+        "模型层面，模感科技正同步推进基于触觉的多模态融合触觉世界动作模型MoWorld",
+        "相较于仅依赖视觉等信息进行环境判断，触觉能够提供接触力、物体形变及局部交互状态等信息",
+        "公司希望利用高频、多维的触觉反馈，持续修正机器人动作执行过程中的判断与控制，并将触觉信息作为物理先验补充到模型中，提升机器人在真实环境中的交互能力，缩小仿真训练与真实执行之间的差距"
+      ],
+      "url": "https://news.pedaily.cn/202610/570873.shtml",
+      "source": "news.pedaily.cn",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-26T09:46:00Z"
     }
   ]
 }
