@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T17:28:38Z",
+  "updatedAt": "2026-10-28T21:56:38Z",
   "latest": [
     {
       "id": "91a2f5f41252",
@@ -375,19 +375,6 @@
       "publishedAt": "2026-10-28T01:19:46Z"
     },
     {
-      "id": "8d091756d381",
-      "title": "Intel to Acquire Startup Classiq in Quantum Computing Push - Bloomberg.com",
-      "summary": "# Intel to Acquire Startup Classiq in Quantum Computing Push. ## Takeaways by Bloomberg AISubscribe. agreed to buy Israeli startup Classiq Technologies Ltd. as part of a push to capitalize on quantum ...",
-      "highlights": [
-        "# Intel to Acquire Startup Classiq in Quantum Computing Push. ## Takeaways by Bloomberg AISubscribe. agreed to buy Israeli startup Classiq Technologies Ltd. as part of a push to capitalize on quantum computing, a still-nascent field that is seeking commercial applications. The chipmaker didn’t disclose the price it’s paying for Classiq, whose clients include BMW AG and AT&T Inc. The announcement comes just head of Intel’s third-quarter earnings report Thursday. ### More From Bloomberg. Startup Pursues Palmer Luckey’s Vision of Enhanced Military Dogs. Satellite Maker Apex in Funding Talks At $4 Billion Valuation. Ex-OpenAI Science Head Launches Startup With $215 Million. OpenAI Shifts Value to $1.25 Trillion as Funding Talks Finalize. Redotpay Said to Prepare Confidential IPO Filing By Year-End."
-      ],
-      "url": "https://www.bloomberg.com/news/articles/2026-10-26/intel-to-buy-israeli-startup-classiq-in-quantum-computing-push",
-      "source": "bloomberg.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-26T21:42:17Z"
-    },
-    {
       "id": "bbd18034c533",
       "title": "All Eyes on AI: Global Markets Rally After Anthropic IPO News - Global Banking & Finance Review",
       "summary": "10/27/2026 | Global Edition. Posted on October 27, 2026. ## Global Markets Surge as AI Investments and IPOs Shape Investor Sentiment. A look at the day ahead in European and global markets from Ankur ...",
@@ -401,48 +388,64 @@
       "publishedAt": "2026-10-27T06:01:22Z"
     },
     {
-      "id": "ece43f459dba",
-      "title": "豆包跨越「临界点」后，字节AI下一步怎么走？-36氪",
-      "summary": "2026 年 2 月 5 日，Anthropic 发布了旗下的最新模型成果 Claude Opus 4.6，并且随之宣布：\n\n在 AI 彻底改变软件编程行业的工作方式后，现在是时候进军更广泛的职场了。\n\n紧接着，这一模型发布之后，多家金融服务公司的股价在当日应声跳水。其中，金融数据和软件公司 FaceSet 跌幅超 8%，创 2020 年 3 月以来新低；老牌信息服务提供商 Thomson Reu...",
+      "id": "a483542a8124",
+      "title": "OpenAI据悉计划采购谷歌AI芯片，进一步降低对英伟达的依赖_新浪财经_新浪网",
+      "summary": "与采购现成GPU或TPU不同，自研芯片可以根据OpenAI模型的计算需求进行针对性设计，从而在特定工作负载下优化性能、功耗及运行成本。不过，自研芯片仍需要经过研发、制造和部署等环节，短期内难以完全替代现有计算基础设施。\n\n　　OpenAI同时推进外部采购与芯片自主研发，反映出大型AI企业正在通过多种技术路线扩大算力供给，以应对持续增长的模型训练和推理需求。\n\n三、谷歌扩大TPU外部销售，AI芯片市...",
       "highlights": [
-        "2026 年 2 月 5 日，Anthropic 发布了旗下的最新模型成果 Claude Opus 4.6，并且随之宣布：",
-        "在 AI 彻底改变软件编程行业的工作方式后，现在是时候进军更广泛的职场了",
-        "紧接着，这一模型发布之后，多家金融服务公司的股价在当日应声跳水"
+        "与采购现成GPU或TPU不同，自研芯片可以根据OpenAI模型的计算需求进行针对性设计，从而在特定工作负载下优化性能、功耗及运行成本",
+        "不过，自研芯片仍需要经过研发、制造和部署等环节，短期内难以完全替代现有计算基础设施",
+        "OpenAI同时推进外部采购与芯片自主研发，反映出大型AI企业正在通过多种技术路线扩大算力供给，以应对持续增长的模型训练和推理需求"
       ],
-      "url": "https://m.36kr.com/p/3867066152713092",
-      "source": "m.36kr.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-27T00:03:08Z"
-    },
-    {
-      "id": "a23a5b2a9831",
-      "title": "科大讯飞发布全模态类人交互座舱——星火智慧座舱3.0 - 新华网客户端",
-      "summary": "业内人士表示，随着汽车产业正从电动化加速迈向智能化，AI上车已从前沿探索走向产业共识，行业关注点正从“有没有大模型”转向“能否真正理解用户、协同整车能力，并在安全可靠前提下持续提供有用服务”，推动座舱从演示走向量产、从功能叠加走向体验进化。\n\n在智能汽车赛道，科大讯飞已深耕多年，累计量产上车超过8100万辆、合作车企数量超50家。面向海外市场，讯飞汽车多语种已支持32门海外语种，其中大模型重点语种...",
-      "highlights": [
-        "业内人士表示，随着汽车产业正从电动化加速迈向智能化，AI上车已从前沿探索走向产业共识，行业关注点正从“有没有大模型”转向“能否真正理解用户、协同整车能力，并在安全可靠前提下持续提供有用服务”，推动座舱从演示走向量产、从功能叠加走向体验进化",
-        "在智能汽车赛道，科大讯飞已深耕多年，累计量产上车超过8100万辆、合作车企数量超50家",
-        "面向海外市场，讯飞汽车多语种已支持32门海外语种，其中大模型重点语种突破20种；80%出海新车型选择讯飞，覆盖60个国家和地区"
-      ],
-      "url": "https://app.xinhuanet.com/news/article.html?articleId=202610279ca9879e872f434c9aa7f3f8f9be5263",
-      "source": "app.xinhuanet.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-27T11:00:00Z"
-    },
-    {
-      "id": "ac7d9dca829d",
-      "title": "OpenAI据悉计划采购谷歌AI芯片，进一步降低对英伟达的依赖",
-      "summary": "10月27日，OpenAI据悉正计划采购谷歌自主研发的人工智能芯片，以扩大算力规模并实现芯片供应来源多元化。此次潜在交易涉及谷歌张量处理单元（TPU），但双方尚未确定",
-      "highlights": [
-        "10月27日，OpenAI据悉正计划采购谷歌自主研发的人工智能芯片，以扩大算力规模并实现芯片供应来源多元化",
-        "此次潜在交易涉及谷歌张量处理单元（TPU），但双方尚未确定"
-      ],
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwuefz9591252.shtml?cre=tianyi&mod=pchp&loc=9&r=0&rfunc=95&tj=cxvertical_pc_hp&tr=12",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwuefz9591252.shtml?cre=tianyi&mod=pchp&loc=26&r=0&rfunc=56&tj=cxvertical_pc_hp&tr=12",
       "source": "finance.sina.com.cn",
       "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-10-28T06:00:00Z"
+      "importance": 5,
+      "publishedAt": "2026-10-28T06:41:04Z"
+    },
+    {
+      "id": "3e83a3882f8d",
+      "title": "个人智能体扎堆遭 APP 拒绝，松延动力冲刺港股 IPO 丨 AI周报 - 21经济网",
+      "summary": "AI for Work 已成为 AI 应用最活跃的赛道，月活用户同比增长 50.6%。本周钛动科技发布行业首个 Pro-Agent 产品 Navos Pro，面向跨境电商、外贸与营销场景，强调“主动发现业务机会并交付真实增长”，而不是被动回答问题。行业共识正在形成：Agent 已经过了“能做演示”的阶段，进入按结果付费的商业化早期。从 C 端聊天到 B 端干活，AI 的变现路径终于清晰起来。\n\n霞...",
+      "highlights": [
+        "AI for Work 已成为 AI 应用最活跃的赛道，月活用户同比增长 50.6%",
+        "本周钛动科技发布行业首个 Pro-Agent 产品 Navos Pro，面向跨境电商、外贸与营销场景，强调“主动发现业务机会并交付真实增长”，而不是被动回答问题",
+        "行业共识正在形成：Agent 已经过了“能做演示”的阶段，进入按结果付费的商业化早期"
+      ],
+      "url": "https://www.21jingji.com/article/20261027/herald/7e0210c2a3e773524a8bad3c68b9daa8.html",
+      "source": "21jingji.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-27T21:00:00Z"
+    },
+    {
+      "id": "46eeec9519ee",
+      "title": "Salesforce 为 Agent Fabric 新增 Agent Evals 和成本控制功能 – Unite.AI",
+      "summary": "公告通过一个零售商场景介绍这一工作流程。某零售商将订单支持智能体切换到成本更低的 AI 模型，以降低运营成本。切换后，Agent Evals 按计划运行测试，并发现该智能体提供了有关延迟订单的不准确信息。系统会标记这一质量问题；由于团队希望在流程中保留人工参与，系统会请求批准后再隔离该智能体。获批后，智能体将被隔离；与此同时，团队会完善其处理延迟订单的指令，在成本较低的模型上重新运行评估以确认性能...",
+      "highlights": [
+        "公告通过一个零售商场景介绍这一工作流程",
+        "某零售商将订单支持智能体切换到成本更低的 AI 模型，以降低运营成本",
+        "切换后，Agent Evals 按计划运行测试，并发现该智能体提供了有关延迟订单的不准确信息"
+      ],
+      "url": "https://www.unite.ai/zh-cn/salesforce-adds-agent-evals-and-cost-controls-to-agent-fabric",
+      "source": "unite.ai",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-27T13:29:18Z"
+    },
+    {
+      "id": "b5b9900e0b7f",
+      "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
+      "summary": "Anthropic, OpenAI's main rival, signed an agreement with Google and Broadcom in April for multiple gigawatts ofnext-generation TPU capacity that it expects to come online starting in 2027.\n\nAlphabet b...",
+      "highlights": [
+        "Anthropic, OpenAI's main rival, signed an agreement with Google and Broadcom in April for multiple gigawatts ofnext-generation TPU capacity that it expects to come online starting in 2027.",
+        "Alphabet began delivering TPU systems to customers' own data centers in the second quarter, according to its CFO. Google Cloud also began offering OpenAI's GPT-6 models to select customers in private preview last week.",
+        "## Daily Debrief Newsletter [...] NewsArtificial Intelligence"
+      ],
+      "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
+      "source": "decrypt.co",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-28T19:16:02Z"
     }
   ],
   "today": [
@@ -552,6 +555,96 @@
       "publishedAt": "2026-10-28T01:19:46Z"
     },
     {
+      "id": "a483542a8124",
+      "title": "OpenAI据悉计划采购谷歌AI芯片，进一步降低对英伟达的依赖_新浪财经_新浪网",
+      "summary": "与采购现成GPU或TPU不同，自研芯片可以根据OpenAI模型的计算需求进行针对性设计，从而在特定工作负载下优化性能、功耗及运行成本。不过，自研芯片仍需要经过研发、制造和部署等环节，短期内难以完全替代现有计算基础设施。\n\n　　OpenAI同时推进外部采购与芯片自主研发，反映出大型AI企业正在通过多种技术路线扩大算力供给，以应对持续增长的模型训练和推理需求。\n\n三、谷歌扩大TPU外部销售，AI芯片市...",
+      "highlights": [
+        "与采购现成GPU或TPU不同，自研芯片可以根据OpenAI模型的计算需求进行针对性设计，从而在特定工作负载下优化性能、功耗及运行成本",
+        "不过，自研芯片仍需要经过研发、制造和部署等环节，短期内难以完全替代现有计算基础设施",
+        "OpenAI同时推进外部采购与芯片自主研发，反映出大型AI企业正在通过多种技术路线扩大算力供给，以应对持续增长的模型训练和推理需求"
+      ],
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwuefz9591252.shtml?cre=tianyi&mod=pchp&loc=26&r=0&rfunc=56&tj=cxvertical_pc_hp&tr=12",
+      "source": "finance.sina.com.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-28T06:41:04Z"
+    },
+    {
+      "id": "b5b9900e0b7f",
+      "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
+      "summary": "Anthropic, OpenAI's main rival, signed an agreement with Google and Broadcom in April for multiple gigawatts ofnext-generation TPU capacity that it expects to come online starting in 2027.\n\nAlphabet b...",
+      "highlights": [
+        "Anthropic, OpenAI's main rival, signed an agreement with Google and Broadcom in April for multiple gigawatts ofnext-generation TPU capacity that it expects to come online starting in 2027.",
+        "Alphabet began delivering TPU systems to customers' own data centers in the second quarter, according to its CFO. Google Cloud also began offering OpenAI's GPT-6 models to select customers in private preview last week.",
+        "## Daily Debrief Newsletter [...] NewsArtificial Intelligence"
+      ],
+      "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
+      "source": "decrypt.co",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-28T19:16:02Z"
+    },
+    {
+      "id": "2614ff476cc9",
+      "title": "OpenAI plans to buy Google's AI chips: Report - The Hindu",
+      "summary": "Deals with customers including rival Anthropic have ‌fueled demand for Google’s TPUs. Alphabet expects to begin recognising a small ​percentage of revenue from TPU sales agreements by the end of this ...",
+      "highlights": [
+        "Deals with customers including rival Anthropic have ‌fueled demand for Google’s TPUs. Alphabet expects to begin recognising a small ​percentage of revenue from TPU sales agreements by the end of this year, with the vast ⁠majority expected to be recognised in 2027, CFO Anat Ashkenazi ⁠previously said.",
+        "OpenAI in June unveiled its first custom AI chip designed with Broadcom, and said ‌it planned to deploy the processor by the end of this year as part of a multi-generation chip ​programme. [...] SUBSCRIBE NOW",
+        "OpenAI is already among the largest buyers of Nvidia’s graphics processing units (GPUs), ‌which it uses to train and deploy AI ​models. Reuters reported in June 2025 that the ChatGPT maker had begun renting Google’s AI ⁠chips."
+      ],
+      "url": "https://www.thehindu.com/sci-tech/technology/openai-plans-to-buy-googles-ai-chips-report/article71634170.ece/amp",
+      "source": "thehindu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-28T03:45:41Z"
+    },
+    {
+      "id": "2df87b5fb46a",
+      "title": "OpenAI plans to buy Google's TPU chips, report says",
+      "summary": "Last week, OpenAI announced a partnership placing its frontier models and the Codex coding agent inside Model Garden, Google Cloud’s AI catalog, where customers will pay through Google Cloud Marketpla...",
+      "highlights": [
+        "Last week, OpenAI announced a partnership placing its frontier models and the Codex coding agent inside Model Garden, Google Cloud’s AI catalog, where customers will pay through Google Cloud Marketplace. Three of those models, GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna, entered private preview for select enterprise clients on Oct. 21, according to Google Cloud. [...] Broadcom CEO Hock Tan called the chip “just the beginning of a multi-generation roadmap.” Nothing in the TPU report explained how a Google purchase would fit alongside the Jalapeño program.",
+        "Unanswered questions include the TPU generation involved, the size of any order and the planned workload, training or serving. Anthropic, an OpenAI competitor, already buys TPUs, and its agreements have helped push up demand for Google’s chips. [...] Thomas Kurian, who runs Google Cloud, said the company wants customers to have “a broad selection of models, including those from OpenAI.” A TPU purchase would give Google a second role, as a hardware vendor to the lab whose models it now offers to cloud buyers.",
+        "Custom silicon is another track for OpenAI. On June 24, it unveiled Jalapeño, its first in-house AI accelerator, developed with Broadcom and slated for initial deployment before 2026 ends."
+      ],
+      "url": "https://betanews.com/article/openai-plans-to-buy-google-tpu-chips",
+      "source": "betanews.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-28T18:10:23Z"
+    },
+    {
+      "id": "2bdf0384f9fa",
+      "title": "OpenAI plans to buy Google AI chips to reduce Nvidia reliance: report",
+      "summary": "Deals with customers including rival Anthropic have fueled demand for Google's TPUs.\n\nAlphabet expects to begin recognizing a small percentage of revenue from TPU sales agreements by the end of this y...",
+      "highlights": [
+        "Deals with customers including rival Anthropic have fueled demand for Google's TPUs.",
+        "Alphabet expects to begin recognizing a small percentage of revenue from TPU sales agreements by the end of this year, with the vast majority expected to be recognized in 2027, CFO Anat Ashkenazi previously said.",
+        "OpenAI is already among the largest buyers of Nvidia’s graphics processing units (GPUs), which it uses to train and deploy AI models. [...] Last week, OpenAI said it would make its frontier AI models available through Google Cloud."
+      ],
+      "url": "https://www.thenews.com.pk/latest/1421576-openai-plans-to-buy-google-ai-chips-to-reduce-nvidia-reliance-report",
+      "source": "thenews.com.pk",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-28T07:07:00Z"
+    },
+    {
+      "id": "6da571e71001",
+      "title": "GOOGL Stock Inches Higher On Buzz Around OpenAI Eying TPUs — TradingView News",
+      "summary": "Custom Chips Market Expands\n\nGoogle provides TPUs through Google Cloud to customers including Anthropic, and has announced plans to supply them to Oracle and a new Blackstone joint venture.\n\nOpenAI, a...",
+      "highlights": [
+        "Custom Chips Market Expands",
+        "Google provides TPUs through Google Cloud to customers including Anthropic, and has announced plans to supply them to Oracle and a new Blackstone joint venture.",
+        "OpenAI, a major buyer of Nvidia chips, unveiled its first custom AI chip in June, designed with Broadcom, and said it plans to deploy the processor by the end of this year as part of a multi-generation chip program."
+      ],
+      "url": "https://www.tradingview.com/news/stocktwits:8106ba203094b:0-googl-stock-inches-higher-on-buzz-around-openai-eying-tpus",
+      "source": "tradingview.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-28T04:59:22Z"
+    },
+    {
       "id": "ac7d9dca829d",
       "title": "OpenAI据悉计划采购谷歌AI芯片，进一步降低对英伟达的依赖",
       "summary": "10月27日，OpenAI据悉正计划采购谷歌自主研发的人工智能芯片，以扩大算力规模并实现芯片供应来源多元化。此次潜在交易涉及谷歌张量处理单元（TPU），但双方尚未确定",
@@ -615,6 +708,34 @@
         "长期采购英伟达芯片的OpenAI,准备转向谷歌了.这个信号一出来,最紧张的不是别人,正是英伟达.AI芯片的格局,会不会就此生变..."
       ],
       "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyf0p2Coso1-gBdEw5hfdtgMD-GeODvwzFqXa8Fplpd9QqB3EWJNC5Zc85ecqjp9L6yZncSl6NcarCSEbHJ6HiKqeykPLBNi8o4qMDbGPxvxJS0YRdaG4BowJQTLRtPh26y2CTOaWP1NLFmpJA9Bw4ge-tv46oHzVEucSJYxXasuSJRoYwbDpkdSzigsFzWLoX3eWBmq_-Ddir88_LADX5yFW6cwuUnkdA..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=AF3B4ED82EBCE17E7A7F24909DF96EC97A233AD26AE230C2",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-28T03:02:07Z"
+    },
+    {
+      "id": "0ed3bdf1f94e",
+      "title": "谷歌发布新一代世界模型Genie 4，加强物理AI技术布局—新闻—科学网",
+      "summary": "4与大模型Gemini 4 Argon协同模拟人形机器人执行任务的实验。  在演示中，Gemini 4 Argon负责将用户指令拆解为多个步骤，Genie 4则根据这些指令，实时生成机器人执行任务的模拟画面，展示了美国机器人公司Apptronik旗下Apollo人形机器人下跳棋的过程。  这一实验也展示出谷歌在物理AI领域的技术布局：尝试将大模型的任务规划与推理能力，同世界模型的环境模拟能力结合起...",
+      "highlights": [
+        "4与大模型Gemini 4 Argon协同模拟人形机器人执行任务的实验",
+        "在演示中，Gemini 4 Argon负责将用户指令拆解为多个步骤，Genie 4则根据这些指令，实时生成机器人执行任务的模拟画面，展示了美国机器人公司Apptronik旗下Apollo人形机器人下跳棋的过程",
+        "这一实验也展示出谷歌在物理AI领域的技术布局：尝试将大模型的任务规划与推理能力，同世界模型的环境模拟能力结合起来，让AI能够在虚拟世界中模拟不同任务及其执行过程"
+      ],
+      "url": "https://news.sciencenet.cn/htmlnews/2026/10/573744.shtm",
+      "source": "news.sciencenet.cn",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-10-28T04:00:00Z"
+    },
+    {
+      "id": "c3585206f8b5",
+      "title": "OpenAi计划采购谷歌AI芯片,降低对英伟达芯片依赖",
+      "summary": "长期采购英伟达芯片的OpenAI,准备转向谷歌了.这个信号一出来,最紧张的不是别人,正是英伟达.AI芯片的格局,会不会就此生变...",
+      "highlights": [
+        "长期采购英伟达芯片的OpenAI,准备转向谷歌了.这个信号一出来,最紧张的不是别人,正是英伟达.AI芯片的格局,会不会就此生变..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyf0p2Coso1-P6VywametnNi8z58QCPIWFqXa8Fplpd9sSWbi46R1fJMQDHU0qE7TUNNGDDR-UPvutmKIHcjjKqfhIf6AvWVVlgKcPcRKAJ_aWGE37qrkrJfk_ERFNmkSkJZp8Zvo43vt3qaRmzAUC3hWAUdFVhPvsY0dmAx69G_Y1qHRRiTM_VmoRXksUXbq3Bd6Je_sAPru9H1Wq72kbzI3OTRHYU2og..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=B19505B56403041FB4B5ED5E115542B4B41F48636AE26F91",
       "source": "微信公众号",
       "category": "芯片硬件",
       "importance": 4,
@@ -701,6 +822,64 @@
       "category": "投并购",
       "importance": 3,
       "publishedAt": "2026-10-28T13:27:10Z"
+    },
+    {
+      "id": "f999c230b713",
+      "title": "讯飞星火医疗大模型V3.7升级，AI患者管理3.0发布并启动行业标准共建-粤港澳都市网_粤港澳大湾区门户资讯网站",
+      "summary": "国家卫生健康委医管中心、中国信息通信研究院、中国心血管健康联盟，中日友好医院、解放军总医院国家骨科与运动康复临床研究中心、山东大学齐鲁医院、中国科学技术大学附属第一医院（安徽省立医院）、中南大学湘雅医院、首都医科大学宣武医院、北京大学第一医院、北京安定医院，以及中华医学会杂志社、人民卫生电子音像出版社等单位的领导和专家出席。论坛由讯飞医疗副总裁、患者管理产品线总经理葛磊主持。\n\n论坛现场，三家医院...",
+      "highlights": [
+        "国家卫生健康委医管中心、中国信息通信研究院、中国心血管健康联盟，中日友好医院、解放军总医院国家骨科与运动康复临床研究中心、山东大学齐鲁医院、中国科学技术大学附属第一医院（安徽省立医院）、中南大学湘雅医院、首都医科大学宣武医院、北京大学第一医院、北京安定医院，以及中华医学会杂志社、人民卫生电子音像出版社等单位的领导和专家出席",
+        "论坛由讯飞医疗副总裁、患者管理产品线总经理葛磊主持",
+        "论坛现场，三家医院代表分别带来了各具特色的落地实践成果，用真实临床数据介绍了AI患者管理的实用价值，也为全行业沉淀了可复制、可推广的实践经验"
+      ],
+      "url": "https://www.ygacity.com/company/20261028/27257.html",
+      "source": "ygacity.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-10-28T04:00:00Z"
+    },
+    {
+      "id": "aee375ca4cb2",
+      "title": "招商进入AI时代 广东将发布产业招商大模型 - 21经济网",
+      "summary": "21世纪经济报道\n\n21财经APP 南财号 数字报 越声智投\n\n首页 宏观 公司 金融 证券 全球 观点 汽车 新健康 人文 智库 更多)\n\n大湾区 一带一路 文旅 理财 投资通 21视频 直播 品牌活动\n\n首页 视频 正文\n\n# 招商进入AI时代 广东将发布产业招商大模型\n\n###### 2026年10月28日 14:53   广东经视   陈映梅\n\n10月28日，2026粤港澳大湾区全球招商大...",
+      "highlights": [
+        "21财经APP 南财号 数字报 越声智投",
+        "首页 宏观 公司 金融 证券 全球 观点 汽车 新健康 人文 智库 更多)",
+        "大湾区 一带一路 文旅 理财 投资通 21视频 直播 品牌活动"
+      ],
+      "url": "https://www.21jingji.com/article/20261028/herald/930665352b4062cf1108d8a7ed42a10b.html",
+      "source": "21jingji.com",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-10-28T06:00:00Z"
+    },
+    {
+      "id": "a67eed0fd0db",
+      "title": "彭博行业研究：到2030年中国将在8个关键行业领先，包括AI大语言模型_凤凰网",
+      "summary": "彭博行业研究：中国AI大模型将在2030年引领全球\n\n# 彭博行业研究：中国AI大模型将在2030年引领全球\n\n领衔的彭博行业研究分析师在报告中称，在对AI竞赛至关重要的其他类别中，中国企业目前大多落后，但到2030年将具备竞争力，包括生产运行AI所需的硬件，从芯片到光网络组件。\n\n报告称中国将在8个行业领先\n\n“到2030年，美国和中国有望共同引领AI技术发展，两国都不太可能取得全面主导地位。”...",
+      "highlights": [
+        "彭博行业研究：中国AI大模型将在2030年引领全球",
+        "# 彭博行业研究：中国AI大模型将在2030年引领全球",
+        "领衔的彭博行业研究分析师在报告中称，在对AI竞赛至关重要的其他类别中，中国企业目前大多落后，但到2030年将具备竞争力，包括生产运行AI所需的硬件，从芯片到光网络组件"
+      ],
+      "url": "https://original.ifeng.com/c/8xabEL09CBt",
+      "source": "original.ifeng.com",
+      "category": "芯片硬件",
+      "importance": 3,
+      "publishedAt": "2026-10-28T05:36:22Z"
+    },
+    {
+      "id": "72cacbfdab10",
+      "title": "2026上海AI Agent智能体开发公司选型指南:技术分层、场景成熟度、源码交付与长期维护的完整决策参考",
+      "summary": "梳理上海AI Agent智能体开发公司的格局结构,并把D-coding放在... 首批联合体成员,这类产学研协作本身不直接等同于产品能力,...",
+      "highlights": [
+        "梳理上海AI Agent智能体开发公司的格局结构,并把D-coding放在... 首批联合体成员,这类产学研协作本身不直接等同于产品能力,..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyf0p2Coso1-zKGv8-4z5pli8z58QCPIWFqXa8Fplpd9xstvRYjIU4kV-QZEwLSFI-aCKKa9hVyANn9lUM4rcG9j-NmFV9aAHaTukog3fZ0HQfA38ZOmvLKzo6vmIRPgNvQlTN9RQRBsyYxyG-f6-qdvWs9LFgTGOmtDhSxIQkfYaFnmlqw1aGwPG54T2KX5oe7TCVwaRVaKhM1Wa58d_RcY-UZGbO56rA..&amp;type=2&amp;query=AI Agent %E6%99%BA%E8%83%BD%E4%BD%93 %E4%BA%A7%E5%93%81&amp;token=B19513EDC7B8B8BC101651E2ADEFAA3710479CC36AE26F93",
+      "source": "微信公众号",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-10-28T16:52:31Z"
     },
     {
       "id": "e7b72c56c241",
@@ -800,99 +979,23 @@
       "category": "投并购",
       "importance": 2,
       "publishedAt": "2026-10-28T00:00:00Z"
+    },
+    {
+      "id": "b16fbe1c8125",
+      "title": "傳百度將披露世界模型進度 有望先用於自動駕駛",
+      "summary": "中媒科创板日报报导，中国科技巨头百度计划近日披露世界模型的研发进展与成果，并认为可能先在自动驾驶落地。据悉，若该模型用于自动驾驶，可提升复杂场景下的预测与",
+      "highlights": [
+        "中媒科创板日报报导，中国科技巨头百度计划近日披露世界模型的研发进展与成果，并认为可能先在自动驾驶落地",
+        "据悉，若该模型用于自动驾驶，可提升复杂场景下的预测与"
+      ],
+      "url": "https://www.worldjournal.com/wj/story/121474/9843547?zh-cn=",
+      "source": "worldjournal.com",
+      "category": "具身智能",
+      "importance": 2,
+      "publishedAt": "2026-10-28T17:00:00Z"
     }
   ],
   "week": [
-    {
-      "id": "721da7c5d522",
-      "title": "DeepSeek，登顶全球_搜狐网",
-      "summary": "## DeepSeek，登顶全球\n\n界面新闻\n\n界面新闻\n\n图片来源：视觉中国\n\n> 界面新闻记者 | 宋佳楠\n\n10月26日消息，在OpenRouter发布的最新一周全球AI大模型调用量周榜单上（10月19日至25日），拿下榜首的是DeepSeek在10月17日更新的V4.1-Flash-1017版本。该模型单周调用量达到33.6万亿Token，环比增幅高达801%，成为近一周爆发力最强的模型，...",
-      "highlights": [
-        "## DeepSeek，登顶全球",
-        "> 界面新闻记者 | 宋佳楠",
-        "10月26日消息，在OpenRouter发布的最新一周全球AI大模型调用量周榜单上（10月19日至25日），拿下榜首的是DeepSeek在10月17日更新的V4.1-Flash-1017版本"
-      ],
-      "url": "https://m.sohu.com/a/1092936502_313745?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-26T16:53:29Z"
-    },
-    {
-      "id": "54d2245489b8",
-      "title": "DeepSeek，全球第一！ - 财闻网",
-      "summary": "首页 正文\n\n# DeepSeek，全球第一！\n\n财闻   顾群生  2026-10-26 14:35:08\n\n据财闻了解，单模型方面，上周全球调用量排名前五均为中国AI大模型。DeepSeek V4.1-Flash-1017以33.6万亿Token的周调用量位居第一，环比增长801%；DeepSeek V4.1 Flash以18万亿Token排名第二。MiniMax M3.1 Flash（免费版...",
-      "highlights": [
-        "# DeepSeek，全球第一",
-        "财闻   顾群生  2026-10-26 14:35:08",
-        "据财闻了解，单模型方面，上周全球调用量排名前五均为中国AI大模型"
-      ],
-      "url": "https://www.caiwennews.com/article/1667502.shtml",
-      "source": "caiwennews.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-26T14:35:08Z"
-    },
-    {
-      "id": "cf2508fb4c2e",
-      "title": "2026国产AI算力厂商全景复盘：细分突围，多元架构构筑产业新生态|2026世界人工智能大会|AI芯片|自主可控|Token|芯片_新浪新闻",
-      "summary": "奇异摩尔推出全栈国产化超节点互联解决方案，同时联合壁仞科技亮相国产GPU直通国产RDMA网卡的IBGDA创新方案，打通国产算力硬件互联壁垒。奇异摩尔联合创始人兼产品及解决方案副总裁祝俊东表示，国产算力发展已进入关键转折期，高速互联不再是产业配套，而是决定算力系统整体效能的核心命脉。其自研全栈方案具备可演进、可协同、无绑定的核心优势，既能支撑各类芯片厂商基于统一底座快速搭建超节点系统，也能让上层AI...",
-      "highlights": [
-        "奇异摩尔推出全栈国产化超节点互联解决方案，同时联合壁仞科技亮相国产GPU直通国产RDMA网卡的IBGDA创新方案，打通国产算力硬件互联壁垒",
-        "奇异摩尔联合创始人兼产品及解决方案副总裁祝俊东表示，国产算力发展已进入关键转折期，高速互联不再是产业配套，而是决定算力系统整体效能的核心命脉",
-        "其自研全栈方案具备可演进、可协同、无绑定的核心优势，既能支撑各类芯片厂商基于统一底座快速搭建超节点系统，也能让上层AI应用实现无缝横向扩展，推动国产算力产业从各自为战走向集群合力突围"
-      ],
-      "url": "https://k.sina.com.cn/article_5426766895_14375e42f00102zv34.html?from=tech&subch=otech",
-      "source": "k.sina.com.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-26T12:30:56Z"
-    },
-    {
-      "id": "d578954a818b",
-      "title": "突发：Anthropic启动IPO，Meta融资350亿美元，彰显市场对人工智能的强劲需求 - moomoo 社区",
-      "summary": "donwloadimg\nappLogo\n\n# 突发：Anthropic启动IPO，Meta融资350亿美元，彰显市场对人工智能的强劲需求\n\n点击上方图片中的相关股票，将其添加到您的自选列表。 ## 发生了什么 $Anthropic (ANT.US)$该公司已公开向纳斯达克提交IPO申请，股票代码为ANT，预计于美国东部时间上午9:00发布S-1文件，由此开启新一轮人工智能相关股票的供给窗口。 $M...",
-      "highlights": [
-        "donwloadimg",
-        "# 突发：Anthropic启动IPO，Meta融资350亿美元，彰显市场对人工智能的强劲需求",
-        "点击上方图片中的相关股票，将其添加到您的自选列表"
-      ],
-      "url": "https://www.moomoo.com/hans/community/feed/breaking-news-anthropic-ipo-meta-35b-raise-test-ai-appetite-117507513385366",
-      "source": "moomoo.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-26T13:00:00Z"
-    },
-    {
-      "id": "06c8bddd69ef",
-      "title": "一天吃透一个行业108：AI推理算力，国内算力厂商选型参考（收藏版）|大模型|GPU|芯片|SRAM|模型_新浪新闻",
-      "summary": "核心看点\n 昇腾\n\n  　　昇腾系列AI芯片、推理加速模组\n\n  　　达芬奇全栈自研架构\n\n  　　软硬件协同开发，训练推理产品矩阵完整，国内智算集群项目落地较多，配套开发工具链成熟\n 寒武纪\n\n  　　思元系列芯片\n\n  　　AI芯片架构，训推一体\n\n  　　产品覆盖云端训练、云端推理、边缘推理多场景，适配多模态、大语言模型业务\n 海光信息\n\n  　　DCU系列计算芯片\n\n  　　通用计算架构\n...",
-      "highlights": [
-        "昇腾系列AI芯片、推理加速模组",
-        "软硬件协同开发，训练推理产品矩阵完整，国内智算集群项目落地较多，配套开发工具链成熟",
-        "AI芯片架构，训推一体"
-      ],
-      "url": "https://k.sina.com.cn/article_5426766895_14375e42f00102zv2o.html?from=tech&subch=otech",
-      "source": "k.sina.com.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-26T12:25:04Z"
-    },
-    {
-      "id": "de702c4a2ee2",
-      "title": "物理AI刷屏，券商分析师电话会排满！AI投资新主线浮出水面？ - 证券 - 南方财经网",
-      "summary": "开源证券据此判断，物理世界可能成为AI能力规模化变现的出口，具身智能公司的收入结构将由一次性硬件销售转为贯穿机器人全生命周期的持续性收入，估值逻辑也随之从制造估值转向平台估值。这解释了本轮资金为何优先给数据与模型端溢价，而非本体与零部件。\n\n算力叙事的接续是第三层。黄仁勋在柏林GTC上称“下一轮计算浪潮是理解并作用于物理世界的AI”。\n\n国联民生海外团队的解读是：物理AI横跨自动驾驶、人形机器人与...",
-      "highlights": [
-        "开源证券据此判断，物理世界可能成为AI能力规模化变现的出口，具身智能公司的收入结构将由一次性硬件销售转为贯穿机器人全生命周期的持续性收入，估值逻辑也随之从制造估值转向平台估值",
-        "这解释了本轮资金为何优先给数据与模型端溢价，而非本体与零部件",
-        "算力叙事的接续是第三层"
-      ],
-      "url": "https://www.sfccn.com/2026/10-26/2NMDE0MDRfMjI4MzE2NA.html",
-      "source": "sfccn.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-26T14:00:00Z"
-    },
     {
       "id": "91a2f5f41252",
       "title": "图解丨Anthropic“算力芯片”版图首次曝光：英伟达占42%_新浪财经",
@@ -969,21 +1072,6 @@
       "publishedAt": "2026-10-27T10:56:53Z"
     },
     {
-      "id": "03330222ea9c",
-      "title": "Anthropic's IPO filing shows explosive growth, risks and staggering costs",
-      "summary": "However, tech companies are still hungry for cash. Meta is aiming ​to raise up to $95 billion in its largest-ever equity fundraising, while SpaceX has inked a $40 billion deal with Apollo to lease AI ...",
-      "highlights": [
-        "However, tech companies are still hungry for cash. Meta is aiming ​to raise up to $95 billion in its largest-ever equity fundraising, while SpaceX has inked a $40 billion deal with Apollo to lease AI chips and server hardware.",
-        "## VALUATION EXPECTATIONS",
-        "Some current and prospective investors are valuing Anthropic at about $1.5 trillion, down from roughly $2 trillion a week ago, after the AI startup disclosed some financial details at a recent investor event, Reuters reported. [...] Amazon and Google were among Anthropic's early strategic partners, investing billions ​of dollars in the startup while ⁠providing the cloud infrastructure needed to train and deploy Claude models."
-      ],
-      "url": "https://www.reuters.com/legal/transactional/anthropic-opens-books-ais-explosive-growth-staggering-costs-2026-10-26",
-      "source": "reuters.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-26T13:05:25Z"
-    },
-    {
       "id": "8a75c874e817",
       "title": "圖解丨Anthropic“算力芯片”版圖首次曝光：英偉達佔42% — TradingView News",
       "summary": "Gelonghui\nGelonghui\n\n# 圖解丨Anthropic“算力芯片”版圖首次曝光：英偉達佔42%\n\n格隆匯10月27日｜隨着AI巨頭Anthropic正式遞交S-1上市申請文件，其底層算力佈局與合作圖譜迎來首次全面曝光。數據顯示，Anthropic目前已簽約的算力規模達到約11GW(吉瓦)：\n\n英偉達GPU(佔比約42%)：以4.7GW的簽約算力總量居首。其中，通過SpaceXSI合...",
@@ -1027,99 +1115,114 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-10-27T21:30:58Z"
+    },
+    {
+      "id": "e5e629adfdaf",
+      "title": "DeepSeek大模型，登顶全球第一-拱墅新闻网",
+      "summary": "10月17日，DeepSeek V4.1-Flash-1017刚刚官宣更新。本次更新以9月10日发布的V4.1 Flash为基础，改善推理、编程、自动化及视觉任务表现。DeepSeek称，新模型在各方面的基准测试中取得了长足的提升，并在多个Harness（控制框架）下达到了新的性能-费用帕累托最优，即最佳性价比。\n\nDeepSeek V4.1-Flash-1017通过基于自反馈的强化学习（RL）训...",
+      "highlights": [
+        "10月17日，DeepSeek V4.1-Flash-1017刚刚官宣更新",
+        "本次更新以9月10日发布的V4.1 Flash为基础，改善推理、编程、自动化及视觉任务表现",
+        "DeepSeek称，新模型在各方面的基准测试中取得了长足的提升，并在多个Harness（控制框架）下达到了新的性能-费用帕累托最优，即最佳性价比"
+      ],
+      "url": "https://www.gongshunews.com/content/2026-10/28/content_9940011.html",
+      "source": "gongshunews.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-28T00:00:00Z"
+    },
+    {
+      "id": "7f3f03c884fe",
+      "title": "图解丨Anthropic“算力芯片”版图首次曝光：英伟达占42% — Noticias de TradingView",
+      "summary": "GelonghuiGelonghui\n\nFlashImportante\n\n# 图解丨Anthropic“算力芯片”版图首次曝光：英伟达占42%\n\nNVDA\n\n格隆汇10月27日｜随着AI巨头Anthropic正式递交S-1上市申请文件，其底层算力布局与合作图谱迎来首次全面曝光。数据显示，Anthropic目前已签约的算力规模达到约11GW(吉瓦)：\n\n英伟达GPU(占比约42%)：以4.7GW的签...",
+      "highlights": [
+        "GelonghuiGelonghui",
+        "FlashImportante",
+        "# 图解丨Anthropic“算力芯片”版图首次曝光：英伟达占42%"
+      ],
+      "url": "https://es.tradingview.com/news/gelonghui:7a4c32f94e3f9:0",
+      "source": "es.tradingview.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-27T01:00:00Z"
+    },
+    {
+      "id": "2248fecaf947",
+      "title": "Moneta Markets | 億滙 on X: \"为何AI算力爆发带动「钨」需求？探讨AI晶片排名与硬体材料趋势\" / X",
+      "summary": "顾名思义，AI芯片是专为加速深度学习算法而设计的硬件设备。与传统处理器相比，它们针对并行计算、内存访问速度等方面进行了大幅度的优化。这使得它们在处理大规模数据集与实时预测时，拥有一般芯片难以匹敌的高效率。\n\n在现代的芯片设计中，多芯粒系统已经成为突破单一 SoC 性能上限的新趋势。通过将不同的元件芯片整合在单一封装中，可以大幅提升工作负载的可扩展性与处理速度。而在这类复杂的架构中，如何妥善管理电源...",
+      "highlights": [
+        "顾名思义，AI芯片是专为加速深度学习算法而设计的硬件设备",
+        "与传统处理器相比，它们针对并行计算、内存访问速度等方面进行了大幅度的优化",
+        "这使得它们在处理大规模数据集与实时预测时，拥有一般芯片难以匹敌的高效率"
+      ],
+      "url": "https://x.com/monetamarketscn/status/2115004272475877383",
+      "source": "x.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-27T08:54:48Z"
+    },
+    {
+      "id": "123d028a4a7b",
+      "title": "干掉游戏引擎？谷歌最新世界模型拉爆了",
+      "summary": "而另一家前不久刚刚发布世界模型PixVerse R2的爱诗科技，也获得了巨人网络、中国儒意、三七互娱这样的游戏厂商投资，爱诗科技创立以来累计融资超50亿元，今年7月完成最新一轮C+轮融资后，估值超20亿美元（约人民币134亿元）。\n\n在世界模型之外，厂商们对大模型的其他投资相信大家就更加耳熟能详了，比如米哈游很早就已投资了MiniMax、腾讯自己有混元AI等创作工具，公共技术线下的ARC实验室也正...",
+      "highlights": [
+        "而另一家前不久刚刚发布世界模型PixVerse R2的爱诗科技，也获得了巨人网络、中国儒意、三七互娱这样的游戏厂商投资，爱诗科技创立以来累计融资超50亿元，今年7月完成最新一轮C+轮融资后，估值超20亿美元（约人民币134亿元）",
+        "在世界模型之外，厂商们对大模型的其他投资相信大家就更加耳熟能详了，比如米哈游很早就已投资了MiniMax、腾讯自己有混元AI等创作工具，公共技术线下的ARC实验室也正在研究世界模型与智能体等方向等等",
+        "归根结底，世界模型在短期内对游戏行业的直接影响尚未明晰，但由此打开的想象空间与未来图景，正是行业在AI发展浪潮下想要抓住的长期变量"
+      ],
+      "url": "https://cgames.com/contents/2/13259.html",
+      "source": "cgames.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-27T23:00:00Z"
+    },
+    {
+      "id": "9d3fc09e92ed",
+      "title": "圖解丨Anthropic“算力芯片”版圖首次曝光：英偉達佔42% — Noticias de TradingView",
+      "summary": "GelonghuiGelonghui\n\nFlashImportante\n\n# 圖解丨Anthropic“算力芯片”版圖首次曝光：英偉達佔42%\n\nNVDA\n\n格隆匯10月27日｜隨着AI巨頭Anthropic正式遞交S-1上市申請文件，其底層算力佈局與合作圖譜迎來首次全面曝光。數據顯示，Anthropic目前已簽約的算力規模達到約11GW(吉瓦)：\n\n英偉達GPU(佔比約42%)：以4.7GW的簽...",
+      "highlights": [
+        "GelonghuiGelonghui",
+        "FlashImportante",
+        "# 圖解丨Anthropic“算力芯片”版圖首次曝光：英偉達佔42%"
+      ],
+      "url": "https://es.tradingview.com/news/gelonghui:7a4c32f94acdf:0",
+      "source": "es.tradingview.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-27T01:00:00Z"
+    },
+    {
+      "id": "eab976ea7c2b",
+      "title": "支持分批次融资轮次的观点_新浪财经_新浪网",
+      "summary": "下面进入本期专栏正文……\n\n　　如今几乎每家 AI 初创企业融资，都会采用多批次融资结构：不同投资人按照不同估值入股。早些年，就算只有两批份额都算罕见；而现在，三批次融资交易都已经出现。\n\n　　众所周知，不少投资人对这种多批次融资并不满意（尤其是那些无法拿到低估值份额的机构）。部分投资人批评，该模式让大型风投机构可以施展自身影响力，迫使小型风投只能参与价格更高的第二批份额。他们还指出，即便部分甚至...",
+      "highlights": [
+        "下面进入本期专栏正文……",
+        "如今几乎每家 AI 初创企业融资，都会采用多批次融资结构：不同投资人按照不同估值入股",
+        "早些年，就算只有两批份额都算罕见；而现在，三批次融资交易都已经出现"
+      ],
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsfqr4534808.shtml?cre=tianyi&mod=pchp&loc=34&r=0&rfunc=85&tj=cxvertical_pc_hp&tr=12",
+      "source": "finance.sina.com.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-27T10:01:59Z"
+    },
+    {
+      "id": "3f0e21aa0318",
+      "title": "具身智能最大的敌人，是“吃灰”-虎嗅网",
+      "summary": "第一是运控：\n\n汽车的运控与机器人有本质差异，“现在的运控，汽车和机器人还是会有一些不一样，甚至导航方面也会有一些不一样”，加上齿轮、电机这类专用关键模组，汽车体系里没有完全对应的积累——这30%的差异化能力，只能自己补课。\n\n第二是芯片：\n\n智能化是机器人成本的大头，芯片与存储不便宜，意味着低价路线天然做不出真正的智能化产品。\n\n第三是长期存留机制。\n\n这是张贵兵用词很特别的一处，指机器人如何把...",
+      "highlights": [
+        "汽车的运控与机器人有本质差异，“现在的运控，汽车和机器人还是会有一些不一样，甚至导航方面也会有一些不一样”，加上齿轮、电机这类专用关键模组，汽车体系里没有完全对应的积累——这30%的差异化能力，只能自己补课",
+        "智能化是机器人成本的大头，芯片与存储不便宜，意味着低价路线天然做不出真正的智能化产品",
+        "这是张贵兵用词很特别的一处，指机器人如何把“用过、记住、继续用”变成长期行为"
+      ],
+      "url": "https://www.huxiu.com/article/4900414.html",
+      "source": "huxiu.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-27T02:17:05Z"
     }
   ],
   "month": [
-    {
-      "id": "721da7c5d522",
-      "title": "DeepSeek，登顶全球_搜狐网",
-      "summary": "## DeepSeek，登顶全球\n\n界面新闻\n\n界面新闻\n\n图片来源：视觉中国\n\n> 界面新闻记者 | 宋佳楠\n\n10月26日消息，在OpenRouter发布的最新一周全球AI大模型调用量周榜单上（10月19日至25日），拿下榜首的是DeepSeek在10月17日更新的V4.1-Flash-1017版本。该模型单周调用量达到33.6万亿Token，环比增幅高达801%，成为近一周爆发力最强的模型，...",
-      "highlights": [
-        "## DeepSeek，登顶全球",
-        "> 界面新闻记者 | 宋佳楠",
-        "10月26日消息，在OpenRouter发布的最新一周全球AI大模型调用量周榜单上（10月19日至25日），拿下榜首的是DeepSeek在10月17日更新的V4.1-Flash-1017版本"
-      ],
-      "url": "https://m.sohu.com/a/1092936502_313745?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-26T16:53:29Z"
-    },
-    {
-      "id": "54d2245489b8",
-      "title": "DeepSeek，全球第一！ - 财闻网",
-      "summary": "首页 正文\n\n# DeepSeek，全球第一！\n\n财闻   顾群生  2026-10-26 14:35:08\n\n据财闻了解，单模型方面，上周全球调用量排名前五均为中国AI大模型。DeepSeek V4.1-Flash-1017以33.6万亿Token的周调用量位居第一，环比增长801%；DeepSeek V4.1 Flash以18万亿Token排名第二。MiniMax M3.1 Flash（免费版...",
-      "highlights": [
-        "# DeepSeek，全球第一",
-        "财闻   顾群生  2026-10-26 14:35:08",
-        "据财闻了解，单模型方面，上周全球调用量排名前五均为中国AI大模型"
-      ],
-      "url": "https://www.caiwennews.com/article/1667502.shtml",
-      "source": "caiwennews.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-26T14:35:08Z"
-    },
-    {
-      "id": "cf2508fb4c2e",
-      "title": "2026国产AI算力厂商全景复盘：细分突围，多元架构构筑产业新生态|2026世界人工智能大会|AI芯片|自主可控|Token|芯片_新浪新闻",
-      "summary": "奇异摩尔推出全栈国产化超节点互联解决方案，同时联合壁仞科技亮相国产GPU直通国产RDMA网卡的IBGDA创新方案，打通国产算力硬件互联壁垒。奇异摩尔联合创始人兼产品及解决方案副总裁祝俊东表示，国产算力发展已进入关键转折期，高速互联不再是产业配套，而是决定算力系统整体效能的核心命脉。其自研全栈方案具备可演进、可协同、无绑定的核心优势，既能支撑各类芯片厂商基于统一底座快速搭建超节点系统，也能让上层AI...",
-      "highlights": [
-        "奇异摩尔推出全栈国产化超节点互联解决方案，同时联合壁仞科技亮相国产GPU直通国产RDMA网卡的IBGDA创新方案，打通国产算力硬件互联壁垒",
-        "奇异摩尔联合创始人兼产品及解决方案副总裁祝俊东表示，国产算力发展已进入关键转折期，高速互联不再是产业配套，而是决定算力系统整体效能的核心命脉",
-        "其自研全栈方案具备可演进、可协同、无绑定的核心优势，既能支撑各类芯片厂商基于统一底座快速搭建超节点系统，也能让上层AI应用实现无缝横向扩展，推动国产算力产业从各自为战走向集群合力突围"
-      ],
-      "url": "https://k.sina.com.cn/article_5426766895_14375e42f00102zv34.html?from=tech&subch=otech",
-      "source": "k.sina.com.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-26T12:30:56Z"
-    },
-    {
-      "id": "d578954a818b",
-      "title": "突发：Anthropic启动IPO，Meta融资350亿美元，彰显市场对人工智能的强劲需求 - moomoo 社区",
-      "summary": "donwloadimg\nappLogo\n\n# 突发：Anthropic启动IPO，Meta融资350亿美元，彰显市场对人工智能的强劲需求\n\n点击上方图片中的相关股票，将其添加到您的自选列表。 ## 发生了什么 $Anthropic (ANT.US)$该公司已公开向纳斯达克提交IPO申请，股票代码为ANT，预计于美国东部时间上午9:00发布S-1文件，由此开启新一轮人工智能相关股票的供给窗口。 $M...",
-      "highlights": [
-        "donwloadimg",
-        "# 突发：Anthropic启动IPO，Meta融资350亿美元，彰显市场对人工智能的强劲需求",
-        "点击上方图片中的相关股票，将其添加到您的自选列表"
-      ],
-      "url": "https://www.moomoo.com/hans/community/feed/breaking-news-anthropic-ipo-meta-35b-raise-test-ai-appetite-117507513385366",
-      "source": "moomoo.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-26T13:00:00Z"
-    },
-    {
-      "id": "06c8bddd69ef",
-      "title": "一天吃透一个行业108：AI推理算力，国内算力厂商选型参考（收藏版）|大模型|GPU|芯片|SRAM|模型_新浪新闻",
-      "summary": "核心看点\n 昇腾\n\n  　　昇腾系列AI芯片、推理加速模组\n\n  　　达芬奇全栈自研架构\n\n  　　软硬件协同开发，训练推理产品矩阵完整，国内智算集群项目落地较多，配套开发工具链成熟\n 寒武纪\n\n  　　思元系列芯片\n\n  　　AI芯片架构，训推一体\n\n  　　产品覆盖云端训练、云端推理、边缘推理多场景，适配多模态、大语言模型业务\n 海光信息\n\n  　　DCU系列计算芯片\n\n  　　通用计算架构\n...",
-      "highlights": [
-        "昇腾系列AI芯片、推理加速模组",
-        "软硬件协同开发，训练推理产品矩阵完整，国内智算集群项目落地较多，配套开发工具链成熟",
-        "AI芯片架构，训推一体"
-      ],
-      "url": "https://k.sina.com.cn/article_5426766895_14375e42f00102zv2o.html?from=tech&subch=otech",
-      "source": "k.sina.com.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-26T12:25:04Z"
-    },
-    {
-      "id": "de702c4a2ee2",
-      "title": "物理AI刷屏，券商分析师电话会排满！AI投资新主线浮出水面？ - 证券 - 南方财经网",
-      "summary": "开源证券据此判断，物理世界可能成为AI能力规模化变现的出口，具身智能公司的收入结构将由一次性硬件销售转为贯穿机器人全生命周期的持续性收入，估值逻辑也随之从制造估值转向平台估值。这解释了本轮资金为何优先给数据与模型端溢价，而非本体与零部件。\n\n算力叙事的接续是第三层。黄仁勋在柏林GTC上称“下一轮计算浪潮是理解并作用于物理世界的AI”。\n\n国联民生海外团队的解读是：物理AI横跨自动驾驶、人形机器人与...",
-      "highlights": [
-        "开源证券据此判断，物理世界可能成为AI能力规模化变现的出口，具身智能公司的收入结构将由一次性硬件销售转为贯穿机器人全生命周期的持续性收入，估值逻辑也随之从制造估值转向平台估值",
-        "这解释了本轮资金为何优先给数据与模型端溢价，而非本体与零部件",
-        "算力叙事的接续是第三层"
-      ],
-      "url": "https://www.sfccn.com/2026/10-26/2NMDE0MDRfMjI4MzE2NA.html",
-      "source": "sfccn.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-26T14:00:00Z"
-    },
     {
       "id": "91a2f5f41252",
       "title": "图解丨Anthropic“算力芯片”版图首次曝光：英伟达占42%_新浪财经",
@@ -1179,6 +1282,96 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-10-27T02:02:58Z"
+    },
+    {
+      "id": "fd7352734044",
+      "title": "这家全球汽零巨头，为何跨界做机器人？_搜狐网",
+      "summary": "2014年12月，均胜电子以超过9000万欧元收购德国高端内饰件公司群英，其后与原均胜功能件业务整合成全新的均胜群英。均胜群英擅长座舱空气管理系统、智能表面技术，而且在真木、真铝、碳纤维和新材料及工艺上有一定积累，长期服务奔驰、宝马、奥迪、大众、通用和兰博基尼等国际车企。\n\n2016年至2018年，均胜又先后收购德国TechniSat汽车业务、美国汽车安全供应商KSS以及日本高田优质资产。公司一跃...",
+      "highlights": [
+        "2014年12月，均胜电子以超过9000万欧元收购德国高端内饰件公司群英，其后与原均胜功能件业务整合成全新的均胜群英",
+        "均胜群英擅长座舱空气管理系统、智能表面技术，而且在真木、真铝、碳纤维和新材料及工艺上有一定积累，长期服务奔驰、宝马、奥迪、大众、通用和兰博基尼等国际车企",
+        "2016年至2018年，均胜又先后收购德国TechniSat汽车业务、美国汽车安全供应商KSS以及日本高田优质资产"
+      ],
+      "url": "https://m.sohu.com/a/1093240062_114778?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-27T10:56:53Z"
+    },
+    {
+      "id": "8a75c874e817",
+      "title": "圖解丨Anthropic“算力芯片”版圖首次曝光：英偉達佔42% — TradingView News",
+      "summary": "Gelonghui\nGelonghui\n\n# 圖解丨Anthropic“算力芯片”版圖首次曝光：英偉達佔42%\n\n格隆匯10月27日｜隨着AI巨頭Anthropic正式遞交S-1上市申請文件，其底層算力佈局與合作圖譜迎來首次全面曝光。數據顯示，Anthropic目前已簽約的算力規模達到約11GW(吉瓦)：\n\n英偉達GPU(佔比約42%)：以4.7GW的簽約算力總量居首。其中，通過SpaceXSI合...",
+      "highlights": [
+        "# 圖解丨Anthropic“算力芯片”版圖首次曝光：英偉達佔42%",
+        "格隆匯10月27日｜隨着AI巨頭Anthropic正式遞交S-1上市申請文件，其底層算力佈局與合作圖譜迎來首次全面曝光",
+        "數據顯示，Anthropic目前已簽約的算力規模達到約11GW(吉瓦)："
+      ],
+      "url": "https://www.tradingview.com/news/gelonghui:7a4c32f94acdf:0",
+      "source": "tradingview.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-27T01:38:45Z"
+    },
+    {
+      "id": "301f53556c43",
+      "title": "AI融资冷热分化：股票投资者热情升温 债券投资者趋谨慎",
+      "summary": "AI建设需要源源不断的资金\n\nAI基础设施建设需要持续不断的资金投入，也需要投资者长期支持科技企业雄心勃勃的资本开支计划。为满足这些需求，企业正积极利用股票发行、私人贷款、项目融资和债券等各类融资渠道，其中项目融资规模今年已大幅增长。\n\n高盛首席信贷策略师Amanda Lynam表示：“这从一开始就注定需要各类融资渠道共同发力。”\n\n近期三项重大融资进展凸显了AI企业对资金的迫切需求。\n\nMeta...",
+      "highlights": [
+        "AI建设需要源源不断的资金",
+        "AI基础设施建设需要持续不断的资金投入，也需要投资者长期支持科技企业雄心勃勃的资本开支计划",
+        "为满足这些需求，企业正积极利用股票发行、私人贷款、项目融资和债券等各类融资渠道，其中项目融资规模今年已大幅增长"
+      ],
+      "url": "https://www.cls.cn/detail/2516946",
+      "source": "cls.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-27T13:00:00Z"
+    },
+    {
+      "id": "5a88faeb9441",
+      "title": "Instagram",
+      "summary": "🤖💥 Anthropic just signed one of the biggest compute deals in AI history.  \n  \nThe maker of Claude has agreed multibillion-dollar deals with Google and Broadcom, securing access to up to 1 MILLION of G...",
+      "highlights": [
+        "🤖💥 Anthropic just signed one of the biggest compute deals in AI history.",
+        "The maker of Claude has agreed multibillion-dollar deals with Google and Broadcom, securing access to up to 1 MILLION of Google's custom TPUs and enough new capacity to bring more than a gigawatt of computing power online by the end of 2026. ⚡",
+        "That's not a chip order. That's a power station for intelligence. 🚀 [...] 💬 The AI arms race isn't slowing down — it's going megawatt. Who's your bet on: Anthropic or OpenAI?"
+      ],
+      "url": "https://www.instagram.com/p/De3cGuTFvzC",
+      "source": "instagram.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-27T21:30:58Z"
+    },
+    {
+      "id": "e5e629adfdaf",
+      "title": "DeepSeek大模型，登顶全球第一-拱墅新闻网",
+      "summary": "10月17日，DeepSeek V4.1-Flash-1017刚刚官宣更新。本次更新以9月10日发布的V4.1 Flash为基础，改善推理、编程、自动化及视觉任务表现。DeepSeek称，新模型在各方面的基准测试中取得了长足的提升，并在多个Harness（控制框架）下达到了新的性能-费用帕累托最优，即最佳性价比。\n\nDeepSeek V4.1-Flash-1017通过基于自反馈的强化学习（RL）训...",
+      "highlights": [
+        "10月17日，DeepSeek V4.1-Flash-1017刚刚官宣更新",
+        "本次更新以9月10日发布的V4.1 Flash为基础，改善推理、编程、自动化及视觉任务表现",
+        "DeepSeek称，新模型在各方面的基准测试中取得了长足的提升，并在多个Harness（控制框架）下达到了新的性能-费用帕累托最优，即最佳性价比"
+      ],
+      "url": "https://www.gongshunews.com/content/2026-10/28/content_9940011.html",
+      "source": "gongshunews.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-28T00:00:00Z"
+    },
+    {
+      "id": "7f3f03c884fe",
+      "title": "图解丨Anthropic“算力芯片”版图首次曝光：英伟达占42% — Noticias de TradingView",
+      "summary": "GelonghuiGelonghui\n\nFlashImportante\n\n# 图解丨Anthropic“算力芯片”版图首次曝光：英伟达占42%\n\nNVDA\n\n格隆汇10月27日｜随着AI巨头Anthropic正式递交S-1上市申请文件，其底层算力布局与合作图谱迎来首次全面曝光。数据显示，Anthropic目前已签约的算力规模达到约11GW(吉瓦)：\n\n英伟达GPU(占比约42%)：以4.7GW的签...",
+      "highlights": [
+        "GelonghuiGelonghui",
+        "FlashImportante",
+        "# 图解丨Anthropic“算力芯片”版图首次曝光：英伟达占42%"
+      ],
+      "url": "https://es.tradingview.com/news/gelonghui:7a4c32f94e3f9:0",
+      "source": "es.tradingview.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-27T01:00:00Z"
     }
   ]
 }
