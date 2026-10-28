@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T21:30:58Z",
+  "updatedAt": "2026-10-28T02:42:43Z",
   "latest": [
     {
       "id": "d89f32d7e68d",
@@ -137,21 +137,6 @@
       "publishedAt": "2026-10-26T09:46:00Z"
     },
     {
-      "id": "d88d5337fdcc",
-      "title": "国信证券：深耕产业沃土 做科创同行者_搜狐网",
-      "summary": "这一创新的意义，不仅在于帮助一家创投机构获得资本动能，更在于打通长期资金进入科技创新领域的新渠道。\n\n创投机构通过发行科创债获得长期低成本资金，再将资金通过股权投资投向人工智能、半导体、生物医药等科技企业，形成“债券融资—股权投资—产业培育”的资金传导链条。\n\n2025年11月，国信证券还独立主承销全国首批科创可转债。科创可转债兼具债权融资和股权转化属性，为研发投入大、成长周期较长的科技企业提供了...",
-      "highlights": [
-        "这一创新的意义，不仅在于帮助一家创投机构获得资本动能，更在于打通长期资金进入科技创新领域的新渠道",
-        "创投机构通过发行科创债获得长期低成本资金，再将资金通过股权投资投向人工智能、半导体、生物医药等科技企业，形成“债券融资—股权投资—产业培育”的资金传导链条",
-        "2025年11月，国信证券还独立主承销全国首批科创可转债"
-      ],
-      "url": "https://m.sohu.com/a/1092675502_161794?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-25T23:26:40Z"
-    },
-    {
       "id": "3579e3da8f2f",
       "title": "DeepSeek新版模型单周调用量登顶全球首位，环比暴增801%-36氪",
       "summary": "10月26日消息，在OpenRouter发布的最新一周全球AI大模型调用量周榜单上（10月19日至25日），拿下榜首的是DeepSeek在10月17日更新的V4.1-Flash-1017版本。该模型单周调用量达到33.6万亿Token，环比增幅高达801%，成为近一周爆发力最强的模型，也是拉动国产模型整体增量的核心动力。\n\n公开资料显示，V4.1-Flash-1017以9月10日发布的V4.1 F...",
@@ -165,36 +150,6 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-10-26T11:02:59Z"
-    },
-    {
-      "id": "330e8e304ebc",
-      "title": "环比增长801%，DeepSeek一款大模型单周调用量登顶全球第一！MiniMax新模型跻身前三，智谱GLM 5.3跌出榜单 | 每经网",
-      "summary": "《每日经济新闻》注意到，上周，全球调用量排名前五均为中国AI大模型。其中，DeepSeek V4.1-Flash-1017位居第一，周调用量达33. 6万亿Token，环比增长801%。\n\n10月17日，DeepSeek V4.1-Flash-1017版本官宣更新。本次更新以9月10日发布的V4.1 Flash为基础，改善推理、编程、自动化及视觉任务表现。DeepSeek称，新模型在各方面的基准测...",
-      "highlights": [
-        "《每日经济新闻》注意到，上周，全球调用量排名前五均为中国AI大模型",
-        "其中，DeepSeek V4.1-Flash-1017位居第一，周调用量达33. 6万亿Token，环比增长801%",
-        "10月17日，DeepSeek V4.1-Flash-1017版本官宣更新"
-      ],
-      "url": "https://www.nbd.com.cn/articles/2026-10-26/4617229.html",
-      "source": "nbd.com.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-26T02:00:00Z"
-    },
-    {
-      "id": "d49a6b373f5a",
-      "title": "从“拼模型”到“抢入口”：国产大模型加速进军消费硬件市场新趋势",
-      "summary": "数据上看，AI大模型似乎正处于繁花似锦、烈火烹油的黄金时代。\n\n但正如《围城》一样，外人看到的都是美好，只有内行人才懂这些数据背后的辛酸——行业太卷了，卷到只要落后一步就会失去用户。\n\n据《新智元》统计，从今年年初到9月22日，包括豆包、阿里千问、DEEPSEEK在内的十家主要厂商共发布了至少28个旗舰模型，平均每9.5天就有一个国产大模型发布。\n\n（来源：新智元）\n\n而在价格上，2026年上半年...",
-      "highlights": [
-        "数据上看，AI大模型似乎正处于繁花似锦、烈火烹油的黄金时代",
-        "但正如《围城》一样，外人看到的都是美好，只有内行人才懂这些数据背后的辛酸——行业太卷了，卷到只要落后一步就会失去用户",
-        "据《新智元》统计，从今年年初到9月22日，包括豆包、阿里千问、DEEPSEEK在内的十家主要厂商共发布了至少28个旗舰模型，平均每9.5天就有一个国产大模型发布"
-      ],
-      "url": "https://eu.36kr.com/zh/p/4041590228424327",
-      "source": "eu.36kr.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-26T02:00:00Z"
     },
     {
       "id": "06c8bddd69ef",
@@ -268,21 +223,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-10-26T07:00:00Z"
-    },
-    {
-      "id": "91f5292e66c6",
-      "title": "国信证券：深耕产业沃土 做科创同行者_企业_科技_债券融资",
-      "summary": "财经\n\n娱乐\n\n# 国信证券：深耕产业沃土 做科创同行者\n\n2026-10-25 23:26  来源: 南方日报\n\n发布于：广东省\n\n国信证券。国信证券供图\n\n珠江两岸，创新潮涌。从人工智能、半导体，到低空经济、商业航天，一批新产业加速成长，一批科技企业从实验室走向生产线。创新越是向前，越需要资本力量一路托举。\n\n作为扎根广东30余年的老牌券商，国信证券把自身发展融入区域产业跃迁，从早期投资、上市...",
-      "highlights": [
-        "# 国信证券：深耕产业沃土 做科创同行者",
-        "2026-10-25 23:26  来源: 南方日报",
-        "从人工智能、半导体，到低空经济、商业航天，一批新产业加速成长，一批科技企业从实验室走向生产线"
-      ],
-      "url": "https://www.sohu.com/a/1092675502_161794",
-      "source": "sohu.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-25T23:26:00Z"
     },
     {
       "id": "de702c4a2ee2",
@@ -448,113 +388,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-10-27T13:00:00Z"
-    }
-  ],
-  "today": [
-    {
-      "id": "91a2f5f41252",
-      "title": "图解丨Anthropic“算力芯片”版图首次曝光：英伟达占42%_新浪财经",
-      "summary": "腾讯QQ QQ空间\n\n格隆汇10月27日｜随着AI巨头Anthropic正式递交S-1上市申请文件，其底层算力布局与合作图谱迎来首次全面曝光。数据显示，Anthropic目前已签约的算力规模达到约11GW(吉瓦)： 英伟达GPU(占比约42%)：以4.7GW的签约算力总量居首。其中，通过SpaceXSI合作获取的算力规模高达3.2GW，占其 NVIDIA总算力的近七成；其余1.5GW则分布于Mic...",
-      "highlights": [
-        "格隆汇10月27日｜随着AI巨头Anthropic正式递交S-1上市申请文件，其底层算力布局与合作图谱迎来首次全面曝光",
-        "数据显示，Anthropic目前已签约的算力规模达到约11GW(吉瓦)： 英伟达GPU(占比约42%)：以4.7GW的签约算力总量居首",
-        "其中，通过SpaceXSI合作获取的算力规模高达3.2GW，占其 NVIDIA总算力的近七成；其余1.5GW则分布于Microsoft、Nscale及Lambda等云服务商"
-      ],
-      "url": "https://cj.sina.cn/articles/view/5115326071/130e5ae77020033ere",
-      "source": "cj.sina.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-27T01:38:45Z"
-    },
-    {
-      "id": "7485dc796a52",
-      "title": "「DeepSeek们」在意算力，不在意Meta王炸_投资界",
-      "summary": "昆仑芯之外，平头哥的表现也可圈可点。\n\n公开资料显示，平头哥已推出镇岳系列存储主控芯片、倚天系列Arm服务器CPU、真武系列AI芯片、ICN Switch互联芯片、磐脉系列智能网卡等数据中心核心芯片，实现算力、网力和存力的全栈自研。\n\n一名市场人士告诉锌刻度：“平头哥的发展路径并不局限于大模型推理，而是涵盖主流芯片体系，走的是全栈自研的路线，但目前服务的是阿里巴巴算力生态，暂未对外赋能。”\n\n不过...",
-      "highlights": [
-        "昆仑芯之外，平头哥的表现也可圈可点",
-        "公开资料显示，平头哥已推出镇岳系列存储主控芯片、倚天系列Arm服务器CPU、真武系列AI芯片、ICN Switch互联芯片、磐脉系列智能网卡等数据中心核心芯片，实现算力、网力和存力的全栈自研",
-        "一名市场人士告诉锌刻度：“平头哥的发展路径并不局限于大模型推理，而是涵盖主流芯片体系，走的是全栈自研的路线，但目前服务的是阿里巴巴算力生态，暂未对外赋能"
-      ],
-      "url": "https://news.pedaily.cn/202610/570919.shtml",
-      "source": "news.pedaily.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-27T05:35:00Z"
-    },
-    {
-      "id": "0830025e3b95",
-      "title": "芯片制造格局，被改写-36氪",
-      "summary": "来源：TrendForce\n\nAI芯片复杂度的上升的同时，市场需求也在快速释放。TrendForce在2026年3月预计，全年全球晶圆代工产业营收将同比增长24.8%，达到约2188亿美元；其中台积电5/4nm及更先进制程的产能到2026年底仍将维持满载。而拉动这一轮产能高负荷运转的，正是英伟达、AMD的AI GPU，还有谷歌、AWS、Meta等云厂商与AI企业的自研芯片订单。\n\n在封装环节也面临...",
-      "highlights": [
-        "来源：TrendForce",
-        "AI芯片复杂度的上升的同时，市场需求也在快速释放",
-        "TrendForce在2026年3月预计，全年全球晶圆代工产业营收将同比增长24.8%，达到约2188亿美元；其中台积电5/4nm及更先进制程的产能到2026年底仍将维持满载"
-      ],
-      "url": "http://www.36kr.com/p/4043465786889350",
-      "source": "36kr.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-27T07:28:16Z"
-    },
-    {
-      "id": "b8fe90f3f59d",
-      "title": "投资人，等不及机器人长大-虎嗅网",
-      "summary": "过去，投资机构期待下一轮融资抬高估值，再由IPO完成退出。现在，即便完成上市，也未必能够按照原先的价格把股权卖出去。\n\n## 02\n\n## 从一份PPT融资，到百亿估值也缺钱\n\n资本市场的变化，已经开始影响机器人公司的扩张。\n\n在此前的融资热潮中，名校背景、技术团队和一份商业计划书，就能够帮助一些创业者迅速获得投资机构关注。在部分投资人看来，毕业于清华、北大等高校，拥有人工智能或机器人研究经历，再...",
-      "highlights": [
-        "过去，投资机构期待下一轮融资抬高估值，再由IPO完成退出",
-        "现在，即便完成上市，也未必能够按照原先的价格把股权卖出去",
-        "## 从一份PPT融资，到百亿估值也缺钱"
-      ],
-      "url": "https://www.huxiu.com/article/4900691.html",
-      "source": "huxiu.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-27T02:02:58Z"
-    },
-    {
-      "id": "fd7352734044",
-      "title": "这家全球汽零巨头，为何跨界做机器人？_搜狐网",
-      "summary": "2014年12月，均胜电子以超过9000万欧元收购德国高端内饰件公司群英，其后与原均胜功能件业务整合成全新的均胜群英。均胜群英擅长座舱空气管理系统、智能表面技术，而且在真木、真铝、碳纤维和新材料及工艺上有一定积累，长期服务奔驰、宝马、奥迪、大众、通用和兰博基尼等国际车企。\n\n2016年至2018年，均胜又先后收购德国TechniSat汽车业务、美国汽车安全供应商KSS以及日本高田优质资产。公司一跃...",
-      "highlights": [
-        "2014年12月，均胜电子以超过9000万欧元收购德国高端内饰件公司群英，其后与原均胜功能件业务整合成全新的均胜群英",
-        "均胜群英擅长座舱空气管理系统、智能表面技术，而且在真木、真铝、碳纤维和新材料及工艺上有一定积累，长期服务奔驰、宝马、奥迪、大众、通用和兰博基尼等国际车企",
-        "2016年至2018年，均胜又先后收购德国TechniSat汽车业务、美国汽车安全供应商KSS以及日本高田优质资产"
-      ],
-      "url": "https://m.sohu.com/a/1093240062_114778?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-27T10:56:53Z"
-    },
-    {
-      "id": "8a75c874e817",
-      "title": "圖解丨Anthropic“算力芯片”版圖首次曝光：英偉達佔42% — TradingView News",
-      "summary": "Gelonghui\nGelonghui\n\n# 圖解丨Anthropic“算力芯片”版圖首次曝光：英偉達佔42%\n\n格隆匯10月27日｜隨着AI巨頭Anthropic正式遞交S-1上市申請文件，其底層算力佈局與合作圖譜迎來首次全面曝光。數據顯示，Anthropic目前已簽約的算力規模達到約11GW(吉瓦)：\n\n英偉達GPU(佔比約42%)：以4.7GW的簽約算力總量居首。其中，通過SpaceXSI合...",
-      "highlights": [
-        "# 圖解丨Anthropic“算力芯片”版圖首次曝光：英偉達佔42%",
-        "格隆匯10月27日｜隨着AI巨頭Anthropic正式遞交S-1上市申請文件，其底層算力佈局與合作圖譜迎來首次全面曝光",
-        "數據顯示，Anthropic目前已簽約的算力規模達到約11GW(吉瓦)："
-      ],
-      "url": "https://www.tradingview.com/news/gelonghui:7a4c32f94acdf:0",
-      "source": "tradingview.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-27T01:38:45Z"
-    },
-    {
-      "id": "301f53556c43",
-      "title": "AI融资冷热分化：股票投资者热情升温 债券投资者趋谨慎",
-      "summary": "AI建设需要源源不断的资金\n\nAI基础设施建设需要持续不断的资金投入，也需要投资者长期支持科技企业雄心勃勃的资本开支计划。为满足这些需求，企业正积极利用股票发行、私人贷款、项目融资和债券等各类融资渠道，其中项目融资规模今年已大幅增长。\n\n高盛首席信贷策略师Amanda Lynam表示：“这从一开始就注定需要各类融资渠道共同发力。”\n\n近期三项重大融资进展凸显了AI企业对资金的迫切需求。\n\nMeta...",
-      "highlights": [
-        "AI建设需要源源不断的资金",
-        "AI基础设施建设需要持续不断的资金投入，也需要投资者长期支持科技企业雄心勃勃的资本开支计划",
-        "为满足这些需求，企业正积极利用股票发行、私人贷款、项目融资和债券等各类融资渠道，其中项目融资规模今年已大幅增长"
-      ],
-      "url": "https://www.cls.cn/detail/2516946",
-      "source": "cls.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-27T13:00:00Z"
     },
     {
       "id": "5a88faeb9441",
@@ -572,103 +405,109 @@
       "publishedAt": "2026-10-27T21:30:58Z"
     },
     {
-      "id": "260a983eaeb4",
-      "title": "星火医疗大模型V3.7发布，讯飞晓医三大核心能力重磅升级-CSDN.NET",
-      "summary": "本次论坛汇聚了国家卫生健康委医管中心、中国信息通信研究院、中国心血管健康联盟，中日友好医院、解放军总医院国家骨科与运动康复临床研究中心、山东大学齐鲁医院、中国科学技术大学附属第一医院（安徽省立医院）、中南大学湘雅医院、首都医科大学宣武医院、北京大学第一医院、北京安定医院，以及中华医学会杂志社、人民卫生电子音像出版社等行业专家。会上，讯飞医疗正式发布AI患者管理平台3.0，并携手产学研用各方正式启动...",
+      "id": "e5e629adfdaf",
+      "title": "DeepSeek大模型，登顶全球第一-拱墅新闻网",
+      "summary": "10月17日，DeepSeek V4.1-Flash-1017刚刚官宣更新。本次更新以9月10日发布的V4.1 Flash为基础，改善推理、编程、自动化及视觉任务表现。DeepSeek称，新模型在各方面的基准测试中取得了长足的提升，并在多个Harness（控制框架）下达到了新的性能-费用帕累托最优，即最佳性价比。\n\nDeepSeek V4.1-Flash-1017通过基于自反馈的强化学习（RL）训...",
       "highlights": [
-        "本次论坛汇聚了国家卫生健康委医管中心、中国信息通信研究院、中国心血管健康联盟，中日友好医院、解放军总医院国家骨科与运动康复临床研究中心、山东大学齐鲁医院、中国科学技术大学附属第一医院（安徽省立医院）、中南大学湘雅医院、首都医科大学宣武医院、北京大学第一医院、北京安定医院，以及中华医学会杂志社、人民卫生电子音像出版社等行业专家",
-        "会上，讯飞医疗正式发布AI患者管理平台3.0，并携手产学研用各方正式启动AI患者管理专家共识专项计划",
-        "AI患者管理平台3.0以\"新场景、新AI、新体验\"完成体系化升级：场景层面，从单科专病管理向全院分层服务拓展，已沉淀160余条标准化专病管理路径，覆盖30余个主流临床科室；AI能力层面，依托更精准的患者画像、智能随访Agent与动态循证推理能力，可根据患者康复进度自动调整管理方案、智能识别风险、触发分级干预，并结合医生、护士、营养师、康复师的多师共管模式，实现个体化、连续化、精准化的全病程照护"
+        "10月17日，DeepSeek V4.1-Flash-1017刚刚官宣更新",
+        "本次更新以9月10日发布的V4.1 Flash为基础，改善推理、编程、自动化及视觉任务表现",
+        "DeepSeek称，新模型在各方面的基准测试中取得了长足的提升，并在多个Harness（控制框架）下达到了新的性能-费用帕累托最优，即最佳性价比"
       ],
-      "url": "https://www.csdn.net/article/2026-10-27/169238754",
-      "source": "csdn.net",
-      "category": "产品进展",
-      "importance": 4,
+      "url": "https://www.gongshunews.com/content/2026-10/28/content_9940011.html",
+      "source": "gongshunews.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-28T00:00:00Z"
+    },
+    {
+      "id": "7f3f03c884fe",
+      "title": "图解丨Anthropic“算力芯片”版图首次曝光：英伟达占42% — Noticias de TradingView",
+      "summary": "GelonghuiGelonghui\n\nFlashImportante\n\n# 图解丨Anthropic“算力芯片”版图首次曝光：英伟达占42%\n\nNVDA\n\n格隆汇10月27日｜随着AI巨头Anthropic正式递交S-1上市申请文件，其底层算力布局与合作图谱迎来首次全面曝光。数据显示，Anthropic目前已签约的算力规模达到约11GW(吉瓦)：\n\n英伟达GPU(占比约42%)：以4.7GW的签...",
+      "highlights": [
+        "GelonghuiGelonghui",
+        "FlashImportante",
+        "# 图解丨Anthropic“算力芯片”版图首次曝光：英伟达占42%"
+      ],
+      "url": "https://es.tradingview.com/news/gelonghui:7a4c32f94e3f9:0",
+      "source": "es.tradingview.com",
+      "category": "芯片硬件",
+      "importance": 5,
       "publishedAt": "2026-10-27T01:00:00Z"
     },
     {
-      "id": "ece43f459dba",
-      "title": "豆包跨越「临界点」后，字节AI下一步怎么走？-36氪",
-      "summary": "2026 年 2 月 5 日，Anthropic 发布了旗下的最新模型成果 Claude Opus 4.6，并且随之宣布：\n\n在 AI 彻底改变软件编程行业的工作方式后，现在是时候进军更广泛的职场了。\n\n紧接着，这一模型发布之后，多家金融服务公司的股价在当日应声跳水。其中，金融数据和软件公司 FaceSet 跌幅超 8%，创 2020 年 3 月以来新低；老牌信息服务提供商 Thomson Reu...",
+      "id": "2248fecaf947",
+      "title": "Moneta Markets | 億滙 on X: \"为何AI算力爆发带动「钨」需求？探讨AI晶片排名与硬体材料趋势\" / X",
+      "summary": "顾名思义，AI芯片是专为加速深度学习算法而设计的硬件设备。与传统处理器相比，它们针对并行计算、内存访问速度等方面进行了大幅度的优化。这使得它们在处理大规模数据集与实时预测时，拥有一般芯片难以匹敌的高效率。\n\n在现代的芯片设计中，多芯粒系统已经成为突破单一 SoC 性能上限的新趋势。通过将不同的元件芯片整合在单一封装中，可以大幅提升工作负载的可扩展性与处理速度。而在这类复杂的架构中，如何妥善管理电源...",
       "highlights": [
-        "2026 年 2 月 5 日，Anthropic 发布了旗下的最新模型成果 Claude Opus 4.6，并且随之宣布：",
-        "在 AI 彻底改变软件编程行业的工作方式后，现在是时候进军更广泛的职场了",
-        "紧接着，这一模型发布之后，多家金融服务公司的股价在当日应声跳水"
+        "顾名思义，AI芯片是专为加速深度学习算法而设计的硬件设备",
+        "与传统处理器相比，它们针对并行计算、内存访问速度等方面进行了大幅度的优化",
+        "这使得它们在处理大规模数据集与实时预测时，拥有一般芯片难以匹敌的高效率"
       ],
-      "url": "https://m.36kr.com/p/3867066152713092",
-      "source": "m.36kr.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-27T00:03:08Z"
+      "url": "https://x.com/monetamarketscn/status/2115004272475877383",
+      "source": "x.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-27T08:54:48Z"
+    }
+  ],
+  "today": [
+    {
+      "id": "e5e629adfdaf",
+      "title": "DeepSeek大模型，登顶全球第一-拱墅新闻网",
+      "summary": "10月17日，DeepSeek V4.1-Flash-1017刚刚官宣更新。本次更新以9月10日发布的V4.1 Flash为基础，改善推理、编程、自动化及视觉任务表现。DeepSeek称，新模型在各方面的基准测试中取得了长足的提升，并在多个Harness（控制框架）下达到了新的性能-费用帕累托最优，即最佳性价比。\n\nDeepSeek V4.1-Flash-1017通过基于自反馈的强化学习（RL）训...",
+      "highlights": [
+        "10月17日，DeepSeek V4.1-Flash-1017刚刚官宣更新",
+        "本次更新以9月10日发布的V4.1 Flash为基础，改善推理、编程、自动化及视觉任务表现",
+        "DeepSeek称，新模型在各方面的基准测试中取得了长足的提升，并在多个Harness（控制框架）下达到了新的性能-费用帕累托最优，即最佳性价比"
+      ],
+      "url": "https://www.gongshunews.com/content/2026-10/28/content_9940011.html",
+      "source": "gongshunews.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-28T00:00:00Z"
     },
     {
-      "id": "a23a5b2a9831",
-      "title": "科大讯飞发布全模态类人交互座舱——星火智慧座舱3.0 - 新华网客户端",
-      "summary": "业内人士表示，随着汽车产业正从电动化加速迈向智能化，AI上车已从前沿探索走向产业共识，行业关注点正从“有没有大模型”转向“能否真正理解用户、协同整车能力，并在安全可靠前提下持续提供有用服务”，推动座舱从演示走向量产、从功能叠加走向体验进化。\n\n在智能汽车赛道，科大讯飞已深耕多年，累计量产上车超过8100万辆、合作车企数量超50家。面向海外市场，讯飞汽车多语种已支持32门海外语种，其中大模型重点语种...",
+      "id": "138ecc3ab19f",
+      "title": "Anthropic’s record IPO faces some big questions",
+      "summary": "The AI giant faces three threats: rivals that are catching up, prices that are collapsing, and bills that keep climbing. Anthropic said nearly all its",
       "highlights": [
-        "业内人士表示，随着汽车产业正从电动化加速迈向智能化，AI上车已从前沿探索走向产业共识，行业关注点正从“有没有大模型”转向“能否真正理解用户、协同整车能力，并在安全可靠前提下持续提供有用服务”，推动座舱从演示走向量产、从功能叠加走向体验进化",
-        "在智能汽车赛道，科大讯飞已深耕多年，累计量产上车超过8100万辆、合作车企数量超50家",
-        "面向海外市场，讯飞汽车多语种已支持32门海外语种，其中大模型重点语种突破20种；80%出海新车型选择讯飞，覆盖60个国家和地区"
+        "The AI giant faces three threats: rivals that are catching up, prices that are collapsing, and bills that keep climbing. Anthropic said nearly all its"
       ],
-      "url": "https://app.xinhuanet.com/news/article.html?articleId=202610279ca9879e872f434c9aa7f3f8f9be5263",
-      "source": "app.xinhuanet.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-27T05:00:00Z"
-    },
-    {
-      "id": "3ae97476ce06",
-      "title": "个人智能体扎堆遭 APP 拒绝，松延动力冲刺港股 IPO | AI周报- DoNews专栏",
-      "summary": "logo   logo\n\n\n\n标签: AI\n\n关于我们| 电子协议| 合作联系| 京ICP备2025120072号",
-      "highlights": [
-        "logo   logo",
-        "关于我们| 电子协议| 合作联系| 京ICP备2025120072号"
-      ],
-      "url": "https://www.donews.com/article/detail/8927/108871.html",
-      "source": "donews.com",
-      "category": "产品进展",
+      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/28/anthropic-s-record-ipo-faces-some-big-questions",
+      "source": "freemalaysiatoday.com",
+      "category": "投并购",
       "importance": 3,
-      "publishedAt": "2026-10-27T10:00:00Z"
+      "publishedAt": "2026-10-28T02:00:00Z"
     },
     {
-      "id": "86cb137773c3",
-      "title": "数千亿资金“押注”AI与人形机器人赛道",
-      "summary": "政策红利与增量资金双向共振，国内股权投资市场格局正在发生深刻变化。2026年前三季度，一级市场募、投、退三端同步回暖；资本加速向人工智能",
+      "id": "99d33b5795d4",
+      "title": "StartupMag",
+      "summary": "Looking ahead, expect more capital to flow to vertical AI you can certify and pilot in regulated industries, and to middleware that helps incumbents adopt those tools quickly.\n\nWe've broken down every...",
       "highlights": [
-        "政策红利与增量资金双向共振，国内股权投资市场格局正在发生深刻变化",
-        "2026年前三季度，一级市场募、投、退三端同步回暖；资本加速向人工智能"
+        "Looking ahead, expect more capital to flow to vertical AI you can certify and pilot in regulated industries, and to middleware that helps incumbents adopt those tools quickly.",
+        "We've broken down every round, including the startups, founders, and investors behind each deal.",
+        "Image 1: 👉 Full Weekly Briefing:"
       ],
-      "url": "https://finance.sina.cn/stock/ggyj/2026-10-27/detail-iniwrqsv8914775.d.html?vt=4&wm=2284_1116%3Fpt",
-      "source": "finance.sina.cn",
-      "category": "具身智能",
+      "url": "https://www.facebook.com/startupmagUK/posts/investors-are-shifting-money-into-ai-that-actually-does-work-for-people-not-just/1131400982743152",
+      "source": "facebook.com",
+      "category": "模型发布",
       "importance": 3,
-      "publishedAt": "2026-10-27T05:00:00Z"
+      "publishedAt": "2026-10-28T02:42:43Z"
     },
     {
-      "id": "91fe1d121ea8",
-      "title": "Is my bearishness on OpenAI/Anthropic justified?",
-      "summary": "I think I remain ultimately bearish on OpenAI and Anthropic’s position in the market but I wanted to iterate a few points on here and see if I’m",
+      "id": "e7b72c56c241",
+      "title": "Instagram",
+      "summary": "AI, Healthtech Lead This Week’s Startup Funding With $93.9 Mn And $60.6 Mn, Respectively. 👇  \n  \n🔹 AI Startups Top Funding Charts: AI startups raised $93.9 Mn across six deals for the second consecuti...",
       "highlights": [
-        "I think I remain ultimately bearish on OpenAI and Anthropic’s position in the market but I wanted to iterate a few points on here and see if I’m"
+        "AI, Healthtech Lead This Week’s Startup Funding With $93.9 Mn And $60.6 Mn, Respectively. 👇",
+        "🔹 AI Startups Top Funding Charts: AI startups raised $93.9 Mn across six deals for the second consecutive week. Ajeet Singh-led AI-powered martech startup Different emerged from stealth with a $48 Mn round, the biggest cheque for an AI startup this week. [...] 🔹 Trifecta Capital, Blume Ventures Most Active: The venture debt firm and early-stage VC backed two startups each, emerging as the most active investors this week.",
+        "🔗 Want the full funding breakdown? Dive into the story via the link in bio!"
       ],
-      "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1xf1whn/is_my_bearishness_on_openaianthropic_justified",
-      "source": "reddit.com",
-      "category": "行业话题",
-      "importance": 3,
-      "publishedAt": "2026-10-27T21:30:58Z"
-    },
-    {
-      "id": "6f881e498ae3",
-      "title": "安记食品(603696):安记食品股份有限公司关于聘任公司董事会秘书",
-      "summary": "原标题:安记食品:安记食品股份有限公司关于聘任公司董事会秘书的公告. 证券代码：603696 证券简称：安记食品 公告编号：2026-038",
-      "highlights": [
-        "原标题:安记食品:安记食品股份有限公司关于聘任公司董事会秘书的公告. 证券代码：603696 证券简称：安记食品 公告编号：2026-038"
-      ],
-      "url": "https://www.cfi.net.cn/p20261027000913.html",
-      "source": "cfi.net.cn",
-      "category": "行业话题",
+      "url": "https://www.instagram.com/p/De4Bx8EiAYe",
+      "source": "instagram.com",
+      "category": "投并购",
       "importance": 2,
-      "publishedAt": "2026-10-27T08:00:00Z"
+      "publishedAt": "2026-10-28T02:42:43Z"
     }
   ],
   "week": [
