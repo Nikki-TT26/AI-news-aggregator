@@ -1,6 +1,447 @@
 {
-  "updatedAt": "2026-10-29T22:04:14Z",
+  "updatedAt": "2026-10-30T03:06:23Z",
   "latest": [
+    {
+      "id": "b4860d3fd8b8",
+      "title": "OpenAI Is Buying Google’s AI Chips, a Hit to Nvidia’s Biggest Customer Bond - 24/7 Wall St.",
+      "summary": "No terms, volumes, timing, or chip generation have been disclosed. Until one of the companies confirms it, this remains a reported plan, since nobody has shown a signed order.\n\nOpenAI has used TPUs be...",
+      "highlights": [
+        "No terms, volumes, timing, or chip generation have been disclosed. Until one of the companies confirms it, this remains a reported plan, since nobody has shown a signed order.",
+        "OpenAI has used TPUs before. It began renting Google’s AI chips in June 2025, and the report adds that it now owns them. A year earlier, OpenAI said it had “no specific plans to use TPUs at present.” [...] OpenAI has been moving in this direction for a while. It recently said it would offer its frontier models through Google Cloud. In June, it announced its first custom chip, and a current job listing asks for “significant experience optimizing real workloads on TPUs for training or inference.”",
+        "A buyer this large wants a second supplier because it gains leverage on price, protection against supply shortages, and software that is not tied to a single vendor. [...] OpenAI has spent more on NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) graphics processors than almost any other company, and it now plans to buy Google’s own AI chips, according to The Information. The report came out the night of October 27, 2026. It cites one person familiar with the matter and mentions Google’s tensor processing units (TPUs), custom chips built for AI work."
+      ],
+      "url": "https://247wallst.com/investing/2026/10/28/openai-is-buying-googles-ai-chips-a-hit-to-nvidias-biggest-customer-bond",
+      "source": "247wallst.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-28T11:22:22Z"
+    },
+    {
+      "id": "43d351a61306",
+      "title": "大河财立方",
+      "summary": "微纳核芯完成超10亿元C2轮融资\n\n近日，存算一体AI芯片公司微纳核芯完成超10亿元C2轮融资，本轮由建投投资领投，杭州资本、凯泰资本、晓池资本、烟台财金、盛堃投资、国投泰康、领阳基金跟投。微纳核芯成立于2021年，首创三维存算一体3D-CIM™新架构，依托国产成熟工艺实现先进制程等效算力，产品应用于云、边、端大模型推理场景。\n\n百奥几何完成1亿美元A+轮融资\n\n近日，AI Native生物科技研...",
+      "highlights": [
+        "微纳核芯完成超10亿元C2轮融资",
+        "近日，存算一体AI芯片公司微纳核芯完成超10亿元C2轮融资，本轮由建投投资领投，杭州资本、凯泰资本、晓池资本、烟台财金、盛堃投资、国投泰康、领阳基金跟投",
+        "微纳核芯成立于2021年，首创三维存算一体3D-CIM™新架构，依托国产成熟工艺实现先进制程等效算力，产品应用于云、边、端大模型推理场景"
+      ],
+      "url": "https://app.dahecube.com/article.html?artid=291167%3Frecid%3D1",
+      "source": "app.dahecube.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-28T08:00:00Z"
+    },
+    {
+      "id": "9d51619f5944",
+      "title": "OpenAI狂发700篇数学论文，陶哲轩为何呼吁紧急刹车？|数学家|人类|手稿|图灵奖|数学界_新浪新闻",
+      "summary": "理解比证明更贵：陶哲轩反复强调，数学珍贵的是推导中诞生的新思想、新方法，“证明越来越便宜，理解反而越来越贵了”。\n\n　　三、理性看待的分寸\n\n　　助手角色已被接受：多数数学家并不抵制AI当研究助手，不少人已用它学习、分担工作、获取灵感。\n\n　　独立研究鱼龙混杂：AI独立做数学既有重大突破，也会制造混乱残次品；解决猜想只是数学的半壁江山，新概念、新抽象仍是人类主场。\n\n　　转向新范式：图灵奖得主杨立...",
+      "highlights": [
+        "理解比证明更贵：陶哲轩反复强调，数学珍贵的是推导中诞生的新思想、新方法，“证明越来越便宜，理解反而越来越贵了”",
+        "助手角色已被接受：多数数学家并不抵制AI当研究助手，不少人已用它学习、分担工作、获取灵感",
+        "独立研究鱼龙混杂：AI独立做数学既有重大突破，也会制造混乱残次品；解决猜想只是数学的半壁江山，新概念、新抽象仍是人类主场"
+      ],
+      "url": "https://k.sina.com.cn/article_7879996043_1d5af328b06802l0j0.html?from=science",
+      "source": "k.sina.com.cn",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-10-28T07:56:10Z"
+    },
+    {
+      "id": "a21274fe1fc0",
+      "title": "Google's Oracle chip deal is another warning for Nvidia",
+      "summary": "Anthropic isn't the only one Nvidia should be worried about. OpenAI currently has a job listing for a software engineer to optimize its models for TPUs, and The Information reported Tuesday that OpenA...",
+      "highlights": [
+        "Anthropic isn't the only one Nvidia should be worried about. OpenAI currently has a job listing for a software engineer to optimize its models for TPUs, and The Information reported Tuesday that OpenAI plans to buy TPUs from Google.",
+        "Meanwhile, several analysts have predicted Google's TPU business is about to explode as more companies hedge their bets with a multichip strategy — providing an opening for Google and others to further move onto Nvidia's turf. [...] In its IPO paperwork filed this week, Anthropic said it planned to spend $114.5 billion on Google compute between April 2026 and July 2033. While it didn't say how much of that would be going to TPUs specifically, it did estimate spending between $125 billion and $150 billion for TPU capacity from Google and other providers.",
+        "In the same filing, Anthropic said it's also using Amazon's Trainium chips and AMD's GPUs, in addition to chips from Nvidia and Google."
+      ],
+      "url": "https://www.businessinsider.com/google-ai-chip-business-oracle-tpus-nvidia-threat-anthropic-openai-2026-10",
+      "source": "businessinsider.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-28T16:28:34Z"
+    },
+    {
+      "id": "a483542a8124",
+      "title": "OpenAI据悉计划采购谷歌AI芯片，进一步降低对英伟达的依赖_新浪财经_新浪网",
+      "summary": "与采购现成GPU或TPU不同，自研芯片可以根据OpenAI模型的计算需求进行针对性设计，从而在特定工作负载下优化性能、功耗及运行成本。不过，自研芯片仍需要经过研发、制造和部署等环节，短期内难以完全替代现有计算基础设施。\n\n　　OpenAI同时推进外部采购与芯片自主研发，反映出大型AI企业正在通过多种技术路线扩大算力供给，以应对持续增长的模型训练和推理需求。\n\n三、谷歌扩大TPU外部销售，AI芯片市...",
+      "highlights": [
+        "与采购现成GPU或TPU不同，自研芯片可以根据OpenAI模型的计算需求进行针对性设计，从而在特定工作负载下优化性能、功耗及运行成本",
+        "不过，自研芯片仍需要经过研发、制造和部署等环节，短期内难以完全替代现有计算基础设施",
+        "OpenAI同时推进外部采购与芯片自主研发，反映出大型AI企业正在通过多种技术路线扩大算力供给，以应对持续增长的模型训练和推理需求"
+      ],
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwuefz9591252.shtml?cre=tianyi&mod=pchp&loc=26&r=0&rfunc=56&tj=cxvertical_pc_hp&tr=12",
+      "source": "finance.sina.com.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-28T06:41:04Z"
+    },
+    {
+      "id": "b5b9900e0b7f",
+      "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
+      "summary": "Anthropic, OpenAI's main rival, signed an agreement with Google and Broadcom in April for multiple gigawatts ofnext-generation TPU capacity that it expects to come online starting in 2027.\n\nAlphabet b...",
+      "highlights": [
+        "Anthropic, OpenAI's main rival, signed an agreement with Google and Broadcom in April for multiple gigawatts ofnext-generation TPU capacity that it expects to come online starting in 2027.",
+        "Alphabet began delivering TPU systems to customers' own data centers in the second quarter, according to its CFO. Google Cloud also began offering OpenAI's GPT-6 models to select customers in private preview last week.",
+        "## Daily Debrief Newsletter [...] NewsArtificial Intelligence"
+      ],
+      "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
+      "source": "decrypt.co",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-28T19:16:02Z"
+    },
+    {
+      "id": "2614ff476cc9",
+      "title": "OpenAI plans to buy Google's AI chips: Report - The Hindu",
+      "summary": "Deals with customers including rival Anthropic have ‌fueled demand for Google’s TPUs. Alphabet expects to begin recognising a small ​percentage of revenue from TPU sales agreements by the end of this ...",
+      "highlights": [
+        "Deals with customers including rival Anthropic have ‌fueled demand for Google’s TPUs. Alphabet expects to begin recognising a small ​percentage of revenue from TPU sales agreements by the end of this year, with the vast ⁠majority expected to be recognised in 2027, CFO Anat Ashkenazi ⁠previously said.",
+        "OpenAI in June unveiled its first custom AI chip designed with Broadcom, and said ‌it planned to deploy the processor by the end of this year as part of a multi-generation chip ​programme. [...] SUBSCRIBE NOW",
+        "OpenAI is already among the largest buyers of Nvidia’s graphics processing units (GPUs), ‌which it uses to train and deploy AI ​models. Reuters reported in June 2025 that the ChatGPT maker had begun renting Google’s AI ⁠chips."
+      ],
+      "url": "https://www.thehindu.com/sci-tech/technology/openai-plans-to-buy-googles-ai-chips-report/article71634170.ece/amp",
+      "source": "thehindu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-28T03:45:41Z"
+    },
+    {
+      "id": "2df87b5fb46a",
+      "title": "OpenAI plans to buy Google's TPU chips, report says",
+      "summary": "Last week, OpenAI announced a partnership placing its frontier models and the Codex coding agent inside Model Garden, Google Cloud’s AI catalog, where customers will pay through Google Cloud Marketpla...",
+      "highlights": [
+        "Last week, OpenAI announced a partnership placing its frontier models and the Codex coding agent inside Model Garden, Google Cloud’s AI catalog, where customers will pay through Google Cloud Marketplace. Three of those models, GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna, entered private preview for select enterprise clients on Oct. 21, according to Google Cloud. [...] Broadcom CEO Hock Tan called the chip “just the beginning of a multi-generation roadmap.” Nothing in the TPU report explained how a Google purchase would fit alongside the Jalapeño program.",
+        "Unanswered questions include the TPU generation involved, the size of any order and the planned workload, training or serving. Anthropic, an OpenAI competitor, already buys TPUs, and its agreements have helped push up demand for Google’s chips. [...] Thomas Kurian, who runs Google Cloud, said the company wants customers to have “a broad selection of models, including those from OpenAI.” A TPU purchase would give Google a second role, as a hardware vendor to the lab whose models it now offers to cloud buyers.",
+        "Custom silicon is another track for OpenAI. On June 24, it unveiled Jalapeño, its first in-house AI accelerator, developed with Broadcom and slated for initial deployment before 2026 ends."
+      ],
+      "url": "https://betanews.com/article/openai-plans-to-buy-google-tpu-chips",
+      "source": "betanews.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-28T18:10:23Z"
+    },
+    {
+      "id": "2bdf0384f9fa",
+      "title": "OpenAI plans to buy Google AI chips to reduce Nvidia reliance: report",
+      "summary": "Deals with customers including rival Anthropic have fueled demand for Google's TPUs.\n\nAlphabet expects to begin recognizing a small percentage of revenue from TPU sales agreements by the end of this y...",
+      "highlights": [
+        "Deals with customers including rival Anthropic have fueled demand for Google's TPUs.",
+        "Alphabet expects to begin recognizing a small percentage of revenue from TPU sales agreements by the end of this year, with the vast majority expected to be recognized in 2027, CFO Anat Ashkenazi previously said.",
+        "OpenAI is already among the largest buyers of Nvidia’s graphics processing units (GPUs), which it uses to train and deploy AI models. [...] Last week, OpenAI said it would make its frontier AI models available through Google Cloud."
+      ],
+      "url": "https://www.thenews.com.pk/latest/1421576-openai-plans-to-buy-google-ai-chips-to-reduce-nvidia-reliance-report",
+      "source": "thenews.com.pk",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-28T07:07:00Z"
+    },
+    {
+      "id": "6da571e71001",
+      "title": "GOOGL Stock Inches Higher On Buzz Around OpenAI Eying TPUs — TradingView News",
+      "summary": "Custom Chips Market Expands\n\nGoogle provides TPUs through Google Cloud to customers including Anthropic, and has announced plans to supply them to Oracle and a new Blackstone joint venture.\n\nOpenAI, a...",
+      "highlights": [
+        "Custom Chips Market Expands",
+        "Google provides TPUs through Google Cloud to customers including Anthropic, and has announced plans to supply them to Oracle and a new Blackstone joint venture.",
+        "OpenAI, a major buyer of Nvidia chips, unveiled its first custom AI chip in June, designed with Broadcom, and said it plans to deploy the processor by the end of this year as part of a multi-generation chip program."
+      ],
+      "url": "https://www.tradingview.com/news/stocktwits:8106ba203094b:0-googl-stock-inches-higher-on-buzz-around-openai-eying-tpus",
+      "source": "tradingview.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-28T04:59:22Z"
+    },
+    {
+      "id": "9d987aba56f4",
+      "title": "OpenAI竟然准备向最大竞争对手Google买AI芯片！Nvidia最 ...",
+      "summary": "过去AI算力市场最大的赢家是Nvidia。 训练模型需要GPU，运行ChatGPT同样需要大量 ... 如果未来OpenAI、Anthropic等AI公司同时使用Nvidia GPU、Google TPU和自研芯片。",
+      "highlights": [
+        "过去AI算力市场最大的赢家是Nvidia",
+        "训练模型需要GPU，运行ChatGPT同样需要大量 ... 如果未来OpenAI、Anthropic等AI公司同时使用Nvidia GPU、Google TPU和自研芯片"
+      ],
+      "url": "https://www.facebook.com/groups/1383301019446926/posts/1758551615255196",
+      "source": "facebook.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-29T11:51:36Z"
+    },
+    {
+      "id": "1c34fd85bcfc",
+      "title": "北京Q3投出1075亿元，全国第一 | 投中网",
+      "summary": "钱主要去了人工智能。本季度披露的全国十笔重点融资案例，北京就占了四笔，包括月之暗面、可灵AI、生数科技和VAST四家企业的融资交易：\n\n月之暗面这一轮投后估值350亿美元，认购金额超出原定目标3倍多，提前关闭。可灵AI投后估值约180亿美元，是全球视频生成大模型单轮最大融资。\n\n月之暗面和可灵AI两笔合计超过426亿元，占到北京千亿投资的39.6%。剩下436起融资分掉649亿。\n\n北京的单笔均值...",
+      "highlights": [
+        "本季度披露的全国十笔重点融资案例，北京就占了四笔，包括月之暗面、可灵AI、生数科技和VAST四家企业的融资交易：",
+        "月之暗面这一轮投后估值350亿美元，认购金额超出原定目标3倍多，提前关闭",
+        "可灵AI投后估值约180亿美元，是全球视频生成大模型单轮最大融资"
+      ],
+      "url": "https://www.chinaventure.com.cn/news/80-20261029-393824.html",
+      "source": "chinaventure.com.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-29T08:00:00Z"
+    },
+    {
+      "id": "27aa644f02d5",
+      "title": "一天吃透一条产业链：物理AI-数采_投资界",
+      "summary": "首页\n 资讯\n 快讯\n VC情报局\n 活动\n 研究\n 创投号\n\n 深度\n 热门\n 天天IPO\n AI先锋\n 机器人\n 医疗健康\n 大消费\n 视频\n 99个发现\n\n首页产业ai正文\n\n# 一天吃透一条产业链：物理AI-数采\n\n作者：RunningLu 来源：微信公众号：飞跑的鹿 更新于： 3823字\n\n01  产业链全景图\n\n02  物理AI-数据采集 简介\n\n人形机器人四肢硬件方案逐步定型，行业瓶...",
+      "highlights": [
+        "# 一天吃透一条产业链：物理AI-数采",
+        "作者：RunningLu 来源：微信公众号：飞跑的鹿 更新于： 3823字",
+        "02  物理AI-数据采集 简介"
+      ],
+      "url": "https://news.pedaily.cn/202610/571051.shtml",
+      "source": "news.pedaily.cn",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-29T04:01:00Z"
+    },
+    {
+      "id": "13ce98e14374",
+      "title": "尚躍投資集團有限公司已收购人工智文档搜索工具SeekfilAI-品玩",
+      "summary": "尚躍投資集團有限公司收购 SeekfilAI，是国内 AI 数据基础设施赛道一个标志性动作：头部数据服务商不再局限于标注和采集，开始向上构建知识检索层，服务世界模型与具身智能这类下一代 AI。当机器人、自动驾驶 Agent 需要一边感知环境，一边翻阅技术文档做出决策时，感知数据和文档知识一体化底座，才是真正稀缺的基础设施。\n\n下载品玩App，比99.9%的人更先知道关于「业界动态」的新故事\n\n下载...",
+      "highlights": [
+        "尚躍投資集團有限公司收购 SeekfilAI，是国内 AI 数据基础设施赛道一个标志性动作：头部数据服务商不再局限于标注和采集，开始向上构建知识检索层，服务世界模型与具身智能这类下一代 AI",
+        "当机器人、自动驾驶 Agent 需要一边感知环境，一边翻阅技术文档做出决策时，感知数据和文档知识一体化底座，才是真正稀缺的基础设施",
+        "下载品玩App，比99.9%的人更先知道关于「业界动态」的新故事"
+      ],
+      "url": "https://www.pingwest.com/a/318876",
+      "source": "pingwest.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-28T11:00:00Z"
+    },
+    {
+      "id": "17cd308335da",
+      "title": "Apple's 'Pro and Tell,' Google's Two New AI Models ...",
+      "summary": "OpenAI Turns to Google's TPUs. Apple's 'Pro and Tell,' Google's Two New AI Models, OpenAI Eyes Google's Custom Chips … on Anthropic's S-1, GPU Prices,",
+      "highlights": [
+        "OpenAI Turns to Google's TPUs. Apple's 'Pro and Tell,' Google's Two New AI Models, OpenAI Eyes Google's Custom Chips … on Anthropic's S-1, GPU Prices,"
+      ],
+      "url": "https://www.youtube.com/watch?v=OF0Yyvtdgcw",
+      "source": "youtube.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-29T11:51:36Z"
+    },
+    {
+      "id": "415abacc16e9",
+      "title": "WorkBuddy点燃AI办公生态战 - 维科号V",
+      "summary": "这6个月，WorkBuddy先成为了赛道第一的桌面智能体，再把底座拆出去。腾讯对顺序的解释是：生态是结果，先有产品，后有生态。\n\nWorkBuddy由腾讯云CodeBuddy团队打造，定位“全场景职场AI智能体”。它的起点并不显眼——据公开报道，最初的0.01版原型是团队负责人带少数几名工程师用一个周末做出来的，当晚全公司内测。此后的半年里，产品从个人版一路做到企业版与Agent Suite，个人...",
+      "highlights": [
+        "这6个月，WorkBuddy先成为了赛道第一的桌面智能体，再把底座拆出去",
+        "腾讯对顺序的解释是：生态是结果，先有产品，后有生态",
+        "WorkBuddy由腾讯云CodeBuddy团队打造，定位“全场景职场AI智能体”"
+      ],
+      "url": "https://mp.ofweek.com/ai/a656714338607",
+      "source": "mp.ofweek.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-28T17:00:00Z"
+    },
+    {
+      "id": "6c3cdf8c9d69",
+      "title": "大河财立方",
+      "summary": "扰动之心完成数千万元天使+轮融资\n\n近日，AI for Science新锐企业上海扰动之心人工智能科技有限公司完成数千万元天使+轮融资，本轮由清松资本领投、可可资本跟投。公司成立于2025年4月，以扰动组学、几何深度学习、世界模型理论为技术底座，致力于打造PerturbSeek™数字生命世界模型生态系统。\n\n湾测技术完成数千万元战略融资\n\n近日，高端工业传感器研发商湾测技术完成数千万元战略融资，本...",
+      "highlights": [
+        "扰动之心完成数千万元天使+轮融资",
+        "近日，AI for Science新锐企业上海扰动之心人工智能科技有限公司完成数千万元天使+轮融资，本轮由清松资本领投、可可资本跟投",
+        "公司成立于2025年4月，以扰动组学、几何深度学习、世界模型理论为技术底座，致力于打造PerturbSeek™数字生命世界模型生态系统"
+      ],
+      "url": "https://app.dahecube.com/article.html?artid=291274%3Frecid%3D1",
+      "source": "app.dahecube.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-29T07:00:00Z"
+    },
+    {
+      "id": "9355d4308643",
+      "title": "具身智能最大的敌人，是“吃灰”_澎湃号·湃客_澎湃新闻-The Paper",
+      "summary": "具身智能最大的敌人，是“吃灰”\n\n人形机器人的腿部与关节结构——运控与专用模组仍需补课\n\n一线工程师的感受则更具体。虎嗅对话了墨甲机器人一位视觉工程师，对方坦言：“目前的瓶颈是一个训练场景很难在下一个场景复用，需要更多算力和时间。这也是具身智能的通病——通用型机器人的卡点，就是换一个场景，就要单独为这个场景做训练。”\n\n交流中，我们谈到了一个解决方案：像L4自动驾驶公司一样，在复杂路段通过云端派人...",
+      "highlights": [
+        "具身智能最大的敌人，是“吃灰”",
+        "人形机器人的腿部与关节结构——运控与专用模组仍需补课",
+        "一线工程师的感受则更具体"
+      ],
+      "url": "https://www.thepaper.cn/newsDetail_forward_34350266",
+      "source": "thepaper.cn",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-29T00:01:29Z"
+    },
+    {
+      "id": "545fba284757",
+      "title": "350余家企业聚金陵，亮出“智造”最新成果 - 盐城新闻网",
+      "summary": "身高一米八的人形机器人既能打太极也能搬物料，灵巧的机械臂在产线上精准作业，有的机器人甚至能稳稳倒酒、熟练发扑克牌，把精细活做得有模有样；南京本土企业的人形机器人已经走进商超、展会现场提供服务。库卡、安川这些工业机器人“老朋友”带来了能搬35公斤重物的协作机器人，南京本土的埃斯顿则展示国产重载机器人的硬实力。炼钢车间里，AI大模型已经上岗，南钢和徐工把真正的“智能工厂”搬到了展台。汽车展区，长安、尚...",
+      "highlights": [
+        "身高一米八的人形机器人既能打太极也能搬物料，灵巧的机械臂在产线上精准作业，有的机器人甚至能稳稳倒酒、熟练发扑克牌，把精细活做得有模有样；南京本土企业的人形机器人已经走进商超、展会现场提供服务",
+        "库卡、安川这些工业机器人“老朋友”带来了能搬35公斤重物的协作机器人，南京本土的埃斯顿则展示国产重载机器人的硬实力",
+        "炼钢车间里，AI大模型已经上岗，南钢和徐工把真正的“智能工厂”搬到了展台"
+      ],
+      "url": "https://www.ycnews.cn/ycwx/2026/10-29/VDpP0KND.html",
+      "source": "ycnews.cn",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-29T08:00:00Z"
+    },
+    {
+      "id": "baa211a60987",
+      "title": "AI: Google’s TPU Moment, with OpenAI, Oracle & Anthropic. AI-RTZ #1254",
+      "summary": "RTZ #766: Google TPU sees notable OpenAI win vs Nvidia\n RTZ #921: Google’s TPUs making Nvidia GPUs a better competitor\n AI-RTZ #1065: Google’s latest TPU chips improve on power efficient AI Compute\n R...",
+      "highlights": [
+        "RTZ #766: Google TPU sees notable OpenAI win vs Nvidia",
+        "RTZ #921: Google’s TPUs making Nvidia GPUs a better competitor",
+        "AI-RTZ #1065: Google’s latest TPU chips improve on power efficient AI Compute"
+      ],
+      "url": "https://michaelparekh.substack.com/p/ai-googles-tpu-moment-with-openai",
+      "source": "michaelparekh.substack.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-29T04:00:00Z"
+    },
+    {
+      "id": "e872423e38e8",
+      "title": "OpenAI plans to buy Google's AI chips | Ticker",
+      "summary": "OpenAI plans to purchase AI chips from Google, according to sources. The move aims to reduce reliance on Nvidia, its main hardware supplier.Details regarding the price, quantity of chips, and delivery...",
+      "highlights": [
+        "OpenAI plans to purchase AI chips from Google, according to sources. The move aims to reduce reliance on Nvidia, its main hardware supplier.Details regarding the price, quantity of chips, and delivery dates remain undisclosed. OpenAI is a significant customer of Nvidia.",
+        "The sought-after chips are Google’s tensor processing units, designed specifically for AI computation. Google first introduced TPUs in 2016 after successfully running them in its data centres for over a year. [...] Ticker",
+        "Ticker Studios"
+      ],
+      "url": "https://tickernews.co/openai-plans-to-buy-googles-ai-chips",
+      "source": "tickernews.co",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-29T07:58:57Z"
+    },
+    {
+      "id": "d98dcd6665b4",
+      "title": "实测从一问一答到自主代办，个人智能体开启AI新竞争周期_搜狐网",
+      "summary": "## 实测从一问一答到自主代办，个人智能体开启AI新竞争周期\n\n新京报\n\nPersonal Agent（个人智能体）赛道骤然变得拥挤。10月27日，蚂蚁集团发布灵光2.0，定位为“能管事的个人AI助理”，官方数据显示产品上线6天下载量突破200万。同样，阿里千问、字节、腾讯也已纷纷下场。\n\n仅仅两个月前，这条赛道还近乎无人问津。海外市场已率先落子：9月8日Meta个人智能体Muse率先在北美上线；...",
+      "highlights": [
+        "## 实测从一问一答到自主代办，个人智能体开启AI新竞争周期",
+        "Personal Agent（个人智能体）赛道骤然变得拥挤",
+        "10月27日，蚂蚁集团发布灵光2.0，定位为“能管事的个人AI助理”，官方数据显示产品上线6天下载量突破200万"
+      ],
+      "url": "https://m.sohu.com/a/1094505296_114988?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-29T18:32:16Z"
+    },
+    {
+      "id": "755589ca7cfe",
+      "title": "Google’s AI Chips Step Out of Nvidia’s Shadow | Value The Markets",
+      "summary": "Value The Markets\n\nNews   Latest Analysis   Investing Ideas   Data Stories   Crypto \n\nEducation Articles   Investing Glossary\n\n`⌘K`\n\nPress `esc` to close search\n\n## Articles\n\n## Tickers\n\n# Google’s AI...",
+      "highlights": [
+        "Value The Markets",
+        "News   Latest Analysis   Investing Ideas   Data Stories   Crypto",
+        "Education Articles   Investing Glossary"
+      ],
+      "url": "https://www.valuethemarkets.com/analysis/googles-ai-chips-step-out-of-nvidias-shadow",
+      "source": "valuethemarkets.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-29T09:32:22Z"
+    },
+    {
+      "id": "08534e8747a9",
+      "title": "Solving the $300-500 Billion Problem of DARK GPUs. Connecting Dots - NextBigFuture.com",
+      "summary": "Elon Musk has said there could be up to 15 GW of stranded compute sitting in partially completed data centers (COMPANY). Now there are GPUs and memory, already bought and often sitting in warehouses, ...",
+      "highlights": [
+        "Elon Musk has said there could be up to 15 GW of stranded compute sitting in partially completed data centers (COMPANY). Now there are GPUs and memory, already bought and often sitting in warehouses, that cannot be plugged in. Multiply 15 GW by about $35B/GW and you get roughly $525 billion of NVIDIA content (MODEL). Hyperscalers order the GPUs, build the powered shell, then wait for the power and the missing parts. So the GPU gap (~15 GW of dark chips) matches the power gap (≥15 GW in 2027). SpaceX expects about 3 GW of AI compute at the end of 2026 and plans to add 20 GW in 2027, for 23 GW (COMPANY). In the new case, the customer brings its own GPUs, CPUs and memory, which are $25–30 billion of a $50 billion build, and SpaceX gives a hardware credit for them. SpaceX fills the AI power gap: +20 GW in 2027, from 3 GW to 23 GW."
+      ],
+      "url": "https://www.nextbigfuture.com/2026/10/solving-the-300-500-billion-problem-of-dark-gpus-connecting-dots.html",
+      "source": "nextbigfuture.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-28T08:03:46Z"
+    },
+    {
+      "id": "f6db3d262f58",
+      "title": "速递|OpenAI计划采购谷歌AI芯片,降低对英伟达的依赖",
+      "summary": "图片来源:OpenAI据一位知情人士透露,OpenAI计划采购谷歌的AI芯片.这将为谷歌带来重大利好,也意味着英伟达正面临一个日益...",
+      "highlights": [
+        "图片来源:OpenAI据一位知情人士透露,OpenAI计划采购谷歌的AI芯片.这将为谷歌带来重大利好,也意味着英伟达正面临一个日益..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyf0p2Coso1-Hn0iQUG50Bxi8z58QCPIWFqXa8Fplpd9IyTW3WzwpbGUn1ZL21JW-hV6K6cHNbZJh6HEOXUAQ8Q7-uMK0nuVM_fwL_6qKE5Zj1NAcCXbTiCiFiy5DLeLFA4tTuvvcqSQBk36jEw6XBZF2pil-5YoLPokvRzCJRevw2RSh-J-efNZLx7oYgL0NyXqKoK84LguEZFXdDOBonN6VKrzu_4XKA..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=B44E51C834FD92F1B8B1E6495EB35698B8B50B8F6AE2B713",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-29T01:39:13Z"
+    },
+    {
+      "id": "c37b3e5042aa",
+      "title": "中国大模型训练如何突破算力瓶颈",
+      "summary": "“算”：高端GPU无法购买，自研的瓶颈不在设计，而在先进制程，制程背后是光刻机等设备的管制。华为面向训练的昇腾950DT，8位精度算力约1 PFLOPS，约为英伟达B200的两成多；",
+      "highlights": [
+        "“算”：高端GPU无法购买，自研的瓶颈不在设计，而在先进制程，制程背后是光刻机等设备的管制",
+        "华为面向训练的昇腾950DT，8位精度算力约1 PFLOPS，约为英伟达B200的两成多；"
+      ],
+      "url": "http://www.36kr.com/p/4046750431318918",
+      "source": "36kr.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-29T09:00:00Z"
+    },
+    {
+      "id": "4e3aa4f8b6a9",
+      "title": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重-36氪",
+      "summary": "前者算是个标准的AI开发平台，后者则是在常见的文件整理、数据处理、文档生成、浏览器控制、桌面控制、定时任务上，增加了设计、写作、幻灯片等功能，除此之外则没看到太多的特色和优势。\n\n（图源：阿里）\n\n字节也没闲着，TRAE本身就是国内最早出圈的AI开发工具，后来推出的TRAE Work更是把开发工具往通用工作台推。\n\n相比腾讯WorkBuddy借助自家生态扩展，TRAE Work更像一个面向个人和小...",
+      "highlights": [
+        "前者算是个标准的AI开发平台，后者则是在常见的文件整理、数据处理、文档生成、浏览器控制、桌面控制、定时任务上，增加了设计、写作、幻灯片等功能，除此之外则没看到太多的特色和优势",
+        "字节也没闲着，TRAE本身就是国内最早出圈的AI开发工具，后来推出的TRAE Work更是把开发工具往通用工作台推",
+        "相比腾讯WorkBuddy借助自家生态扩展，TRAE Work更像一个面向个人和小团队的效率入口"
+      ],
+      "url": "https://m.36kr.com/p/3884179708787593",
+      "source": "m.36kr.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-29T01:01:15Z"
+    },
+    {
+      "id": "14401429ae1b",
+      "title": "OpenAI reportedly plans to buy Google's AI chips (TPUs)",
+      "summary": "OpenAI plans to buy Google's AI chips (TPUs). OpenAI will make its frontier models available through Google Cloud, OpenAI had begun renting Google's TPUs.",
+      "highlights": [
+        "OpenAI plans to buy Google's AI chips (TPUs). OpenAI will make its frontier models available through Google Cloud, OpenAI had begun renting Google's TPUs."
+      ],
+      "url": "https://www.reddit.com/r/artificial/comments/1xhzycw/openai_reportedly_plans_to_buy_googles_ai_chips",
+      "source": "reddit.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-29T11:51:36Z"
+    },
+    {
+      "id": "6a2a28292037",
+      "title": "Anthropic has filed paperwork for a proposed initial public offering, setting up a potential market debut for the maker of the Claude artificial intelligence chatbot. Investors should look beyond the excitement surrounding the company: https://bit.ly/4idheIK \n\nRob De Lessio from Strategic Wealth Designers offers his financial insight every Tuesday at 5 p.m. on Local 12 News. | LOCAL 12, WKRC-TV",
+      "summary": "LOCAL 12, WKRC-TV\n\n660 views\n\n · \n\n5h ago\n\nImage 16: Video thumbnail 3:41\n\n[](\n\nUC-listed apartment building faces complaints as inspector alerts health department\n\nLOCAL 12, WKRC-TV\n\n8.2K views\n\n · \n...",
+      "highlights": [
+        "LOCAL 12, WKRC-TV",
+        "Image 16: Video thumbnail 3:41",
+        "UC-listed apartment building faces complaints as inspector alerts health department"
+      ],
+      "url": "https://www.facebook.com/WKRCTV/posts/anthropic-has-filed-paperwork-for-a-proposed-initial-public-offering-setting-up-/1587210606786482",
+      "source": "facebook.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-29T11:51:36Z"
+    },
+    {
+      "id": "1a9ed5c75c9b",
+      "title": "速递|OpenAI计划采购谷歌AI芯片,降低对英伟达的依赖",
+      "summary": "图片来源:OpenAI据一位知情人士透露,OpenAI计划采购谷歌的AI芯片.这将为谷歌带来重大利好,也意味着英伟达正面临一个日益...",
+      "highlights": [
+        "图片来源:OpenAI据一位知情人士透露,OpenAI计划采购谷歌的AI芯片.这将为谷歌带来重大利好,也意味着英伟达正面临一个日益..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyf0p2Coso1-fj3vyBxGcjZ27GEBMr8pJFqXa8Fplpd96FLkglph_1VEAtT-4ATQUFpDGuYuEUv4qxJd--6aOKtScvxYN3y1jbWb1rZrfWKydFwBBSwObrzR5OMqCVS4SsmfCDCI_zfrn3mf_ZnPT75ugPW8__lpmGh3496obx2lLtTYYr_t7AtJigUuNIz21x196Z2mdebcbYvB6o6EeYdj3x9Nw6p-Fg..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=B8AF8A8CB5E56D3F161049EE5AE03E66176A33706AE33343",
+      "source": "微信公众号",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-29T01:39:13Z"
+    }
+  ],
+  "today": [],
+  "week": [
     {
       "id": "e5e629adfdaf",
       "title": "DeepSeek大模型，登顶全球第一-拱墅新闻网",
@@ -223,665 +664,9 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-10-28T07:07:00Z"
-    },
-    {
-      "id": "6da571e71001",
-      "title": "GOOGL Stock Inches Higher On Buzz Around OpenAI Eying TPUs — TradingView News",
-      "summary": "Custom Chips Market Expands\n\nGoogle provides TPUs through Google Cloud to customers including Anthropic, and has announced plans to supply them to Oracle and a new Blackstone joint venture.\n\nOpenAI, a...",
-      "highlights": [
-        "Custom Chips Market Expands",
-        "Google provides TPUs through Google Cloud to customers including Anthropic, and has announced plans to supply them to Oracle and a new Blackstone joint venture.",
-        "OpenAI, a major buyer of Nvidia chips, unveiled its first custom AI chip in June, designed with Broadcom, and said it plans to deploy the processor by the end of this year as part of a multi-generation chip program."
-      ],
-      "url": "https://www.tradingview.com/news/stocktwits:8106ba203094b:0-googl-stock-inches-higher-on-buzz-around-openai-eying-tpus",
-      "source": "tradingview.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-28T04:59:22Z"
-    },
-    {
-      "id": "9d987aba56f4",
-      "title": "OpenAI竟然准备向最大竞争对手Google买AI芯片！Nvidia最 ...",
-      "summary": "过去AI算力市场最大的赢家是Nvidia。 训练模型需要GPU，运行ChatGPT同样需要大量 ... 如果未来OpenAI、Anthropic等AI公司同时使用Nvidia GPU、Google TPU和自研芯片。",
-      "highlights": [
-        "过去AI算力市场最大的赢家是Nvidia",
-        "训练模型需要GPU，运行ChatGPT同样需要大量 ... 如果未来OpenAI、Anthropic等AI公司同时使用Nvidia GPU、Google TPU和自研芯片"
-      ],
-      "url": "https://www.facebook.com/groups/1383301019446926/posts/1758551615255196",
-      "source": "facebook.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-29T11:51:36Z"
-    },
-    {
-      "id": "c76fd7336a3e",
-      "title": "您喜爱的智能体现已集成到 Android Studio 中  |  Android Developers' Blog",
-      "summary": "BYOA_Claude_no_rounding.png\n\n您可以从 40 多个编码智能体中进行选择，包括 Claude Agent、OpenAI 的 Codex、Junie 和 Google Antigravity。这些智能体可以访问 Android 模拟器、构建系统、Logcat 等 Android Studio 工具，还可以使用 Android 技能来完成复杂的任务。\n\n如需开始使用 BYOA...",
-      "highlights": [
-        "BYOA_Claude_no_rounding.png",
-        "您可以从 40 多个编码智能体中进行选择，包括 Claude Agent、OpenAI 的 Codex、Junie 和 Google Antigravity",
-        "这些智能体可以访问 Android 模拟器、构建系统、Logcat 等 Android Studio 工具，还可以使用 Android 技能来完成复杂的任务"
-      ],
-      "url": "https://developer.android.com/blog/posts/ai-agents-android-studio-integration?hl=zh-cn",
-      "source": "developer.android.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-28T00:00:00Z"
-    },
-    {
-      "id": "1c34fd85bcfc",
-      "title": "北京Q3投出1075亿元，全国第一 | 投中网",
-      "summary": "钱主要去了人工智能。本季度披露的全国十笔重点融资案例，北京就占了四笔，包括月之暗面、可灵AI、生数科技和VAST四家企业的融资交易：\n\n月之暗面这一轮投后估值350亿美元，认购金额超出原定目标3倍多，提前关闭。可灵AI投后估值约180亿美元，是全球视频生成大模型单轮最大融资。\n\n月之暗面和可灵AI两笔合计超过426亿元，占到北京千亿投资的39.6%。剩下436起融资分掉649亿。\n\n北京的单笔均值...",
-      "highlights": [
-        "本季度披露的全国十笔重点融资案例，北京就占了四笔，包括月之暗面、可灵AI、生数科技和VAST四家企业的融资交易：",
-        "月之暗面这一轮投后估值350亿美元，认购金额超出原定目标3倍多，提前关闭",
-        "可灵AI投后估值约180亿美元，是全球视频生成大模型单轮最大融资"
-      ],
-      "url": "https://www.chinaventure.com.cn/news/80-20261029-393824.html",
-      "source": "chinaventure.com.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-29T08:00:00Z"
-    },
-    {
-      "id": "27aa644f02d5",
-      "title": "一天吃透一条产业链：物理AI-数采_投资界",
-      "summary": "首页\n 资讯\n 快讯\n VC情报局\n 活动\n 研究\n 创投号\n\n 深度\n 热门\n 天天IPO\n AI先锋\n 机器人\n 医疗健康\n 大消费\n 视频\n 99个发现\n\n首页产业ai正文\n\n# 一天吃透一条产业链：物理AI-数采\n\n作者：RunningLu 来源：微信公众号：飞跑的鹿 更新于： 3823字\n\n01  产业链全景图\n\n02  物理AI-数据采集 简介\n\n人形机器人四肢硬件方案逐步定型，行业瓶...",
-      "highlights": [
-        "# 一天吃透一条产业链：物理AI-数采",
-        "作者：RunningLu 来源：微信公众号：飞跑的鹿 更新于： 3823字",
-        "02  物理AI-数据采集 简介"
-      ],
-      "url": "https://news.pedaily.cn/202610/571051.shtml",
-      "source": "news.pedaily.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-29T04:01:00Z"
-    },
-    {
-      "id": "13ce98e14374",
-      "title": "尚躍投資集團有限公司已收购人工智文档搜索工具SeekfilAI-品玩",
-      "summary": "尚躍投資集團有限公司收购 SeekfilAI，是国内 AI 数据基础设施赛道一个标志性动作：头部数据服务商不再局限于标注和采集，开始向上构建知识检索层，服务世界模型与具身智能这类下一代 AI。当机器人、自动驾驶 Agent 需要一边感知环境，一边翻阅技术文档做出决策时，感知数据和文档知识一体化底座，才是真正稀缺的基础设施。\n\n下载品玩App，比99.9%的人更先知道关于「业界动态」的新故事\n\n下载...",
-      "highlights": [
-        "尚躍投資集團有限公司收购 SeekfilAI，是国内 AI 数据基础设施赛道一个标志性动作：头部数据服务商不再局限于标注和采集，开始向上构建知识检索层，服务世界模型与具身智能这类下一代 AI",
-        "当机器人、自动驾驶 Agent 需要一边感知环境，一边翻阅技术文档做出决策时，感知数据和文档知识一体化底座，才是真正稀缺的基础设施",
-        "下载品玩App，比99.9%的人更先知道关于「业界动态」的新故事"
-      ],
-      "url": "https://www.pingwest.com/a/318876",
-      "source": "pingwest.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-28T11:00:00Z"
-    },
-    {
-      "id": "c7e8e6e7bd92",
-      "title": "Anthropic diversifies AI chips, OpenAI turns to Google: Can Nvidia lose its dominance? What investors need to know | Company Business News",
-      "summary": "Although Anthropic’s chip mix is not new, the company is now pitching it as a core advantage to investors, Moorhead said.\n\nHowever, switching between chip platforms remains difficult, particularly whe...",
-      "highlights": [
-        "Although Anthropic’s chip mix is not new, the company is now pitching it as a core advantage to investors, Moorhead said.",
-        "However, switching between chip platforms remains difficult, particularly when training AI models rather than running them, he said. Only the biggest AI companies have the resources to make the shift.",
-        "Anthropic also continues to spend billions on Nvidia computing capacity, Moorhead said. [...] Meanwhile, OpenAI intends to buy artificial intelligence computing chips from Alphabet Inc.’s Google as a part of its AI buildout, a source close to the development told Bloomberg."
-      ],
-      "url": "https://www.livemint.com/companies/news/anthropic-diversifies-ai-chips-openai-turns-to-google-can-nvidia-lose-its-dominance-what-investors-need-to-know-11793148904527.html",
-      "source": "livemint.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-28T02:30:19Z"
-    },
-    {
-      "id": "17cd308335da",
-      "title": "Apple's 'Pro and Tell,' Google's Two New AI Models ...",
-      "summary": "OpenAI Turns to Google's TPUs. Apple's 'Pro and Tell,' Google's Two New AI Models, OpenAI Eyes Google's Custom Chips … on Anthropic's S-1, GPU Prices,",
-      "highlights": [
-        "OpenAI Turns to Google's TPUs. Apple's 'Pro and Tell,' Google's Two New AI Models, OpenAI Eyes Google's Custom Chips … on Anthropic's S-1, GPU Prices,"
-      ],
-      "url": "https://www.youtube.com/watch?v=OF0Yyvtdgcw",
-      "source": "youtube.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-29T11:51:36Z"
-    },
-    {
-      "id": "ba395803dcdc",
-      "title": "人工智能的简史(一口气看完大模型发展史！AI是怎么变强的)_人工智能_边学边练",
-      "summary": "2026年2月：Claude Opus 4.6/Sonnet 4.6发布  \n代码与Agent场景深度优化，开发者首选\n\n2026年2月：OpenAI o3-pro发布  \n图像思考+长链规划，复杂任务效率提升3–5倍\n\n2026年3月：百模大战升级  \n通义千问Qwen3、文心大模型5.0、智谱GLM-5 Turbo  \n国产第一梯队全面迭代\n\n2026年3月：OpenClaw v3.8发布  ...",
-      "highlights": [
-        "2026年2月：Claude Opus 4.6/Sonnet 4.6发布",
-        "代码与Agent场景深度优化，开发者首选",
-        "2026年2月：OpenAI o3-pro发布"
-      ],
-      "url": "https://www.skillup.host/ai/6948.html",
-      "source": "skillup.host",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-28T02:00:00Z"
-    },
-    {
-      "id": "415abacc16e9",
-      "title": "WorkBuddy点燃AI办公生态战 - 维科号V",
-      "summary": "这6个月，WorkBuddy先成为了赛道第一的桌面智能体，再把底座拆出去。腾讯对顺序的解释是：生态是结果，先有产品，后有生态。\n\nWorkBuddy由腾讯云CodeBuddy团队打造，定位“全场景职场AI智能体”。它的起点并不显眼——据公开报道，最初的0.01版原型是团队负责人带少数几名工程师用一个周末做出来的，当晚全公司内测。此后的半年里，产品从个人版一路做到企业版与Agent Suite，个人...",
-      "highlights": [
-        "这6个月，WorkBuddy先成为了赛道第一的桌面智能体，再把底座拆出去",
-        "腾讯对顺序的解释是：生态是结果，先有产品，后有生态",
-        "WorkBuddy由腾讯云CodeBuddy团队打造，定位“全场景职场AI智能体”"
-      ],
-      "url": "https://mp.ofweek.com/ai/a656714338607",
-      "source": "mp.ofweek.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-28T17:00:00Z"
-    },
-    {
-      "id": "6c3cdf8c9d69",
-      "title": "大河财立方",
-      "summary": "扰动之心完成数千万元天使+轮融资\n\n近日，AI for Science新锐企业上海扰动之心人工智能科技有限公司完成数千万元天使+轮融资，本轮由清松资本领投、可可资本跟投。公司成立于2025年4月，以扰动组学、几何深度学习、世界模型理论为技术底座，致力于打造PerturbSeek™数字生命世界模型生态系统。\n\n湾测技术完成数千万元战略融资\n\n近日，高端工业传感器研发商湾测技术完成数千万元战略融资，本...",
-      "highlights": [
-        "扰动之心完成数千万元天使+轮融资",
-        "近日，AI for Science新锐企业上海扰动之心人工智能科技有限公司完成数千万元天使+轮融资，本轮由清松资本领投、可可资本跟投",
-        "公司成立于2025年4月，以扰动组学、几何深度学习、世界模型理论为技术底座，致力于打造PerturbSeek™数字生命世界模型生态系统"
-      ],
-      "url": "https://app.dahecube.com/article.html?artid=291274%3Frecid%3D1",
-      "source": "app.dahecube.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-29T07:00:00Z"
-    },
-    {
-      "id": "9355d4308643",
-      "title": "具身智能最大的敌人，是“吃灰”_澎湃号·湃客_澎湃新闻-The Paper",
-      "summary": "具身智能最大的敌人，是“吃灰”\n\n人形机器人的腿部与关节结构——运控与专用模组仍需补课\n\n一线工程师的感受则更具体。虎嗅对话了墨甲机器人一位视觉工程师，对方坦言：“目前的瓶颈是一个训练场景很难在下一个场景复用，需要更多算力和时间。这也是具身智能的通病——通用型机器人的卡点，就是换一个场景，就要单独为这个场景做训练。”\n\n交流中，我们谈到了一个解决方案：像L4自动驾驶公司一样，在复杂路段通过云端派人...",
-      "highlights": [
-        "具身智能最大的敌人，是“吃灰”",
-        "人形机器人的腿部与关节结构——运控与专用模组仍需补课",
-        "一线工程师的感受则更具体"
-      ],
-      "url": "https://www.thepaper.cn/newsDetail_forward_34350266",
-      "source": "thepaper.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-29T00:01:29Z"
-    },
-    {
-      "id": "545fba284757",
-      "title": "350余家企业聚金陵，亮出“智造”最新成果 - 盐城新闻网",
-      "summary": "身高一米八的人形机器人既能打太极也能搬物料，灵巧的机械臂在产线上精准作业，有的机器人甚至能稳稳倒酒、熟练发扑克牌，把精细活做得有模有样；南京本土企业的人形机器人已经走进商超、展会现场提供服务。库卡、安川这些工业机器人“老朋友”带来了能搬35公斤重物的协作机器人，南京本土的埃斯顿则展示国产重载机器人的硬实力。炼钢车间里，AI大模型已经上岗，南钢和徐工把真正的“智能工厂”搬到了展台。汽车展区，长安、尚...",
-      "highlights": [
-        "身高一米八的人形机器人既能打太极也能搬物料，灵巧的机械臂在产线上精准作业，有的机器人甚至能稳稳倒酒、熟练发扑克牌，把精细活做得有模有样；南京本土企业的人形机器人已经走进商超、展会现场提供服务",
-        "库卡、安川这些工业机器人“老朋友”带来了能搬35公斤重物的协作机器人，南京本土的埃斯顿则展示国产重载机器人的硬实力",
-        "炼钢车间里，AI大模型已经上岗，南钢和徐工把真正的“智能工厂”搬到了展台"
-      ],
-      "url": "https://www.ycnews.cn/ycwx/2026/10-29/VDpP0KND.html",
-      "source": "ycnews.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-29T08:00:00Z"
-    },
-    {
-      "id": "baa211a60987",
-      "title": "AI: Google’s TPU Moment, with OpenAI, Oracle & Anthropic. AI-RTZ #1254",
-      "summary": "RTZ #766: Google TPU sees notable OpenAI win vs Nvidia\n RTZ #921: Google’s TPUs making Nvidia GPUs a better competitor\n AI-RTZ #1065: Google’s latest TPU chips improve on power efficient AI Compute\n R...",
-      "highlights": [
-        "RTZ #766: Google TPU sees notable OpenAI win vs Nvidia",
-        "RTZ #921: Google’s TPUs making Nvidia GPUs a better competitor",
-        "AI-RTZ #1065: Google’s latest TPU chips improve on power efficient AI Compute"
-      ],
-      "url": "https://michaelparekh.substack.com/p/ai-googles-tpu-moment-with-openai",
-      "source": "michaelparekh.substack.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-29T04:00:00Z"
-    },
-    {
-      "id": "e872423e38e8",
-      "title": "OpenAI plans to buy Google's AI chips | Ticker",
-      "summary": "OpenAI plans to purchase AI chips from Google, according to sources. The move aims to reduce reliance on Nvidia, its main hardware supplier.Details regarding the price, quantity of chips, and delivery...",
-      "highlights": [
-        "OpenAI plans to purchase AI chips from Google, according to sources. The move aims to reduce reliance on Nvidia, its main hardware supplier.Details regarding the price, quantity of chips, and delivery dates remain undisclosed. OpenAI is a significant customer of Nvidia.",
-        "The sought-after chips are Google’s tensor processing units, designed specifically for AI computation. Google first introduced TPUs in 2016 after successfully running them in its data centres for over a year. [...] Ticker",
-        "Ticker Studios"
-      ],
-      "url": "https://tickernews.co/openai-plans-to-buy-googles-ai-chips",
-      "source": "tickernews.co",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-29T07:58:57Z"
     }
   ],
-  "today": [
-    {
-      "id": "9d987aba56f4",
-      "title": "OpenAI竟然准备向最大竞争对手Google买AI芯片！Nvidia最 ...",
-      "summary": "过去AI算力市场最大的赢家是Nvidia。 训练模型需要GPU，运行ChatGPT同样需要大量 ... 如果未来OpenAI、Anthropic等AI公司同时使用Nvidia GPU、Google TPU和自研芯片。",
-      "highlights": [
-        "过去AI算力市场最大的赢家是Nvidia",
-        "训练模型需要GPU，运行ChatGPT同样需要大量 ... 如果未来OpenAI、Anthropic等AI公司同时使用Nvidia GPU、Google TPU和自研芯片"
-      ],
-      "url": "https://www.facebook.com/groups/1383301019446926/posts/1758551615255196",
-      "source": "facebook.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-29T11:51:36Z"
-    },
-    {
-      "id": "1c34fd85bcfc",
-      "title": "北京Q3投出1075亿元，全国第一 | 投中网",
-      "summary": "钱主要去了人工智能。本季度披露的全国十笔重点融资案例，北京就占了四笔，包括月之暗面、可灵AI、生数科技和VAST四家企业的融资交易：\n\n月之暗面这一轮投后估值350亿美元，认购金额超出原定目标3倍多，提前关闭。可灵AI投后估值约180亿美元，是全球视频生成大模型单轮最大融资。\n\n月之暗面和可灵AI两笔合计超过426亿元，占到北京千亿投资的39.6%。剩下436起融资分掉649亿。\n\n北京的单笔均值...",
-      "highlights": [
-        "本季度披露的全国十笔重点融资案例，北京就占了四笔，包括月之暗面、可灵AI、生数科技和VAST四家企业的融资交易：",
-        "月之暗面这一轮投后估值350亿美元，认购金额超出原定目标3倍多，提前关闭",
-        "可灵AI投后估值约180亿美元，是全球视频生成大模型单轮最大融资"
-      ],
-      "url": "https://www.chinaventure.com.cn/news/80-20261029-393824.html",
-      "source": "chinaventure.com.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-29T08:00:00Z"
-    },
-    {
-      "id": "27aa644f02d5",
-      "title": "一天吃透一条产业链：物理AI-数采_投资界",
-      "summary": "首页\n 资讯\n 快讯\n VC情报局\n 活动\n 研究\n 创投号\n\n 深度\n 热门\n 天天IPO\n AI先锋\n 机器人\n 医疗健康\n 大消费\n 视频\n 99个发现\n\n首页产业ai正文\n\n# 一天吃透一条产业链：物理AI-数采\n\n作者：RunningLu 来源：微信公众号：飞跑的鹿 更新于： 3823字\n\n01  产业链全景图\n\n02  物理AI-数据采集 简介\n\n人形机器人四肢硬件方案逐步定型，行业瓶...",
-      "highlights": [
-        "# 一天吃透一条产业链：物理AI-数采",
-        "作者：RunningLu 来源：微信公众号：飞跑的鹿 更新于： 3823字",
-        "02  物理AI-数据采集 简介"
-      ],
-      "url": "https://news.pedaily.cn/202610/571051.shtml",
-      "source": "news.pedaily.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-29T04:01:00Z"
-    },
-    {
-      "id": "17cd308335da",
-      "title": "Apple's 'Pro and Tell,' Google's Two New AI Models ...",
-      "summary": "OpenAI Turns to Google's TPUs. Apple's 'Pro and Tell,' Google's Two New AI Models, OpenAI Eyes Google's Custom Chips … on Anthropic's S-1, GPU Prices,",
-      "highlights": [
-        "OpenAI Turns to Google's TPUs. Apple's 'Pro and Tell,' Google's Two New AI Models, OpenAI Eyes Google's Custom Chips … on Anthropic's S-1, GPU Prices,"
-      ],
-      "url": "https://www.youtube.com/watch?v=OF0Yyvtdgcw",
-      "source": "youtube.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-29T11:51:36Z"
-    },
-    {
-      "id": "6c3cdf8c9d69",
-      "title": "大河财立方",
-      "summary": "扰动之心完成数千万元天使+轮融资\n\n近日，AI for Science新锐企业上海扰动之心人工智能科技有限公司完成数千万元天使+轮融资，本轮由清松资本领投、可可资本跟投。公司成立于2025年4月，以扰动组学、几何深度学习、世界模型理论为技术底座，致力于打造PerturbSeek™数字生命世界模型生态系统。\n\n湾测技术完成数千万元战略融资\n\n近日，高端工业传感器研发商湾测技术完成数千万元战略融资，本...",
-      "highlights": [
-        "扰动之心完成数千万元天使+轮融资",
-        "近日，AI for Science新锐企业上海扰动之心人工智能科技有限公司完成数千万元天使+轮融资，本轮由清松资本领投、可可资本跟投",
-        "公司成立于2025年4月，以扰动组学、几何深度学习、世界模型理论为技术底座，致力于打造PerturbSeek™数字生命世界模型生态系统"
-      ],
-      "url": "https://app.dahecube.com/article.html?artid=291274%3Frecid%3D1",
-      "source": "app.dahecube.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-29T07:00:00Z"
-    },
-    {
-      "id": "9355d4308643",
-      "title": "具身智能最大的敌人，是“吃灰”_澎湃号·湃客_澎湃新闻-The Paper",
-      "summary": "具身智能最大的敌人，是“吃灰”\n\n人形机器人的腿部与关节结构——运控与专用模组仍需补课\n\n一线工程师的感受则更具体。虎嗅对话了墨甲机器人一位视觉工程师，对方坦言：“目前的瓶颈是一个训练场景很难在下一个场景复用，需要更多算力和时间。这也是具身智能的通病——通用型机器人的卡点，就是换一个场景，就要单独为这个场景做训练。”\n\n交流中，我们谈到了一个解决方案：像L4自动驾驶公司一样，在复杂路段通过云端派人...",
-      "highlights": [
-        "具身智能最大的敌人，是“吃灰”",
-        "人形机器人的腿部与关节结构——运控与专用模组仍需补课",
-        "一线工程师的感受则更具体"
-      ],
-      "url": "https://www.thepaper.cn/newsDetail_forward_34350266",
-      "source": "thepaper.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-29T00:01:29Z"
-    },
-    {
-      "id": "545fba284757",
-      "title": "350余家企业聚金陵，亮出“智造”最新成果 - 盐城新闻网",
-      "summary": "身高一米八的人形机器人既能打太极也能搬物料，灵巧的机械臂在产线上精准作业，有的机器人甚至能稳稳倒酒、熟练发扑克牌，把精细活做得有模有样；南京本土企业的人形机器人已经走进商超、展会现场提供服务。库卡、安川这些工业机器人“老朋友”带来了能搬35公斤重物的协作机器人，南京本土的埃斯顿则展示国产重载机器人的硬实力。炼钢车间里，AI大模型已经上岗，南钢和徐工把真正的“智能工厂”搬到了展台。汽车展区，长安、尚...",
-      "highlights": [
-        "身高一米八的人形机器人既能打太极也能搬物料，灵巧的机械臂在产线上精准作业，有的机器人甚至能稳稳倒酒、熟练发扑克牌，把精细活做得有模有样；南京本土企业的人形机器人已经走进商超、展会现场提供服务",
-        "库卡、安川这些工业机器人“老朋友”带来了能搬35公斤重物的协作机器人，南京本土的埃斯顿则展示国产重载机器人的硬实力",
-        "炼钢车间里，AI大模型已经上岗，南钢和徐工把真正的“智能工厂”搬到了展台"
-      ],
-      "url": "https://www.ycnews.cn/ycwx/2026/10-29/VDpP0KND.html",
-      "source": "ycnews.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-29T08:00:00Z"
-    },
-    {
-      "id": "baa211a60987",
-      "title": "AI: Google’s TPU Moment, with OpenAI, Oracle & Anthropic. AI-RTZ #1254",
-      "summary": "RTZ #766: Google TPU sees notable OpenAI win vs Nvidia\n RTZ #921: Google’s TPUs making Nvidia GPUs a better competitor\n AI-RTZ #1065: Google’s latest TPU chips improve on power efficient AI Compute\n R...",
-      "highlights": [
-        "RTZ #766: Google TPU sees notable OpenAI win vs Nvidia",
-        "RTZ #921: Google’s TPUs making Nvidia GPUs a better competitor",
-        "AI-RTZ #1065: Google’s latest TPU chips improve on power efficient AI Compute"
-      ],
-      "url": "https://michaelparekh.substack.com/p/ai-googles-tpu-moment-with-openai",
-      "source": "michaelparekh.substack.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-29T04:00:00Z"
-    },
-    {
-      "id": "e872423e38e8",
-      "title": "OpenAI plans to buy Google's AI chips | Ticker",
-      "summary": "OpenAI plans to purchase AI chips from Google, according to sources. The move aims to reduce reliance on Nvidia, its main hardware supplier.Details regarding the price, quantity of chips, and delivery...",
-      "highlights": [
-        "OpenAI plans to purchase AI chips from Google, according to sources. The move aims to reduce reliance on Nvidia, its main hardware supplier.Details regarding the price, quantity of chips, and delivery dates remain undisclosed. OpenAI is a significant customer of Nvidia.",
-        "The sought-after chips are Google’s tensor processing units, designed specifically for AI computation. Google first introduced TPUs in 2016 after successfully running them in its data centres for over a year. [...] Ticker",
-        "Ticker Studios"
-      ],
-      "url": "https://tickernews.co/openai-plans-to-buy-googles-ai-chips",
-      "source": "tickernews.co",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-29T07:58:57Z"
-    },
-    {
-      "id": "d98dcd6665b4",
-      "title": "实测从一问一答到自主代办，个人智能体开启AI新竞争周期_搜狐网",
-      "summary": "## 实测从一问一答到自主代办，个人智能体开启AI新竞争周期\n\n新京报\n\nPersonal Agent（个人智能体）赛道骤然变得拥挤。10月27日，蚂蚁集团发布灵光2.0，定位为“能管事的个人AI助理”，官方数据显示产品上线6天下载量突破200万。同样，阿里千问、字节、腾讯也已纷纷下场。\n\n仅仅两个月前，这条赛道还近乎无人问津。海外市场已率先落子：9月8日Meta个人智能体Muse率先在北美上线；...",
-      "highlights": [
-        "## 实测从一问一答到自主代办，个人智能体开启AI新竞争周期",
-        "Personal Agent（个人智能体）赛道骤然变得拥挤",
-        "10月27日，蚂蚁集团发布灵光2.0，定位为“能管事的个人AI助理”，官方数据显示产品上线6天下载量突破200万"
-      ],
-      "url": "https://m.sohu.com/a/1094505296_114988?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-29T18:32:16Z"
-    },
-    {
-      "id": "755589ca7cfe",
-      "title": "Google’s AI Chips Step Out of Nvidia’s Shadow | Value The Markets",
-      "summary": "Value The Markets\n\nNews   Latest Analysis   Investing Ideas   Data Stories   Crypto \n\nEducation Articles   Investing Glossary\n\n`⌘K`\n\nPress `esc` to close search\n\n## Articles\n\n## Tickers\n\n# Google’s AI...",
-      "highlights": [
-        "Value The Markets",
-        "News   Latest Analysis   Investing Ideas   Data Stories   Crypto",
-        "Education Articles   Investing Glossary"
-      ],
-      "url": "https://www.valuethemarkets.com/analysis/googles-ai-chips-step-out-of-nvidias-shadow",
-      "source": "valuethemarkets.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-29T09:32:22Z"
-    },
-    {
-      "id": "f6db3d262f58",
-      "title": "速递|OpenAI计划采购谷歌AI芯片,降低对英伟达的依赖",
-      "summary": "图片来源:OpenAI据一位知情人士透露,OpenAI计划采购谷歌的AI芯片.这将为谷歌带来重大利好,也意味着英伟达正面临一个日益...",
-      "highlights": [
-        "图片来源:OpenAI据一位知情人士透露,OpenAI计划采购谷歌的AI芯片.这将为谷歌带来重大利好,也意味着英伟达正面临一个日益..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyf0p2Coso1-Hn0iQUG50Bxi8z58QCPIWFqXa8Fplpd9IyTW3WzwpbGUn1ZL21JW-hV6K6cHNbZJh6HEOXUAQ8Q7-uMK0nuVM_fwL_6qKE5Zj1NAcCXbTiCiFiy5DLeLFA4tTuvvcqSQBk36jEw6XBZF2pil-5YoLPokvRzCJRevw2RSh-J-efNZLx7oYgL0NyXqKoK84LguEZFXdDOBonN6VKrzu_4XKA..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=B44E51C834FD92F1B8B1E6495EB35698B8B50B8F6AE2B713",
-      "source": "微信公众号",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-10-29T01:39:13Z"
-    },
-    {
-      "id": "c37b3e5042aa",
-      "title": "中国大模型训练如何突破算力瓶颈",
-      "summary": "“算”：高端GPU无法购买，自研的瓶颈不在设计，而在先进制程，制程背后是光刻机等设备的管制。华为面向训练的昇腾950DT，8位精度算力约1 PFLOPS，约为英伟达B200的两成多；",
-      "highlights": [
-        "“算”：高端GPU无法购买，自研的瓶颈不在设计，而在先进制程，制程背后是光刻机等设备的管制",
-        "华为面向训练的昇腾950DT，8位精度算力约1 PFLOPS，约为英伟达B200的两成多；"
-      ],
-      "url": "http://www.36kr.com/p/4046750431318918",
-      "source": "36kr.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-10-29T09:00:00Z"
-    },
-    {
-      "id": "4e3aa4f8b6a9",
-      "title": "豆包千问下架“智能体”？翻译闹乌龙，Agent其实是大厂重中之重-36氪",
-      "summary": "前者算是个标准的AI开发平台，后者则是在常见的文件整理、数据处理、文档生成、浏览器控制、桌面控制、定时任务上，增加了设计、写作、幻灯片等功能，除此之外则没看到太多的特色和优势。\n\n（图源：阿里）\n\n字节也没闲着，TRAE本身就是国内最早出圈的AI开发工具，后来推出的TRAE Work更是把开发工具往通用工作台推。\n\n相比腾讯WorkBuddy借助自家生态扩展，TRAE Work更像一个面向个人和小...",
-      "highlights": [
-        "前者算是个标准的AI开发平台，后者则是在常见的文件整理、数据处理、文档生成、浏览器控制、桌面控制、定时任务上，增加了设计、写作、幻灯片等功能，除此之外则没看到太多的特色和优势",
-        "字节也没闲着，TRAE本身就是国内最早出圈的AI开发工具，后来推出的TRAE Work更是把开发工具往通用工作台推",
-        "相比腾讯WorkBuddy借助自家生态扩展，TRAE Work更像一个面向个人和小团队的效率入口"
-      ],
-      "url": "https://m.36kr.com/p/3884179708787593",
-      "source": "m.36kr.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-29T01:01:15Z"
-    },
-    {
-      "id": "14401429ae1b",
-      "title": "OpenAI reportedly plans to buy Google's AI chips (TPUs)",
-      "summary": "OpenAI plans to buy Google's AI chips (TPUs). OpenAI will make its frontier models available through Google Cloud, OpenAI had begun renting Google's TPUs.",
-      "highlights": [
-        "OpenAI plans to buy Google's AI chips (TPUs). OpenAI will make its frontier models available through Google Cloud, OpenAI had begun renting Google's TPUs."
-      ],
-      "url": "https://www.reddit.com/r/artificial/comments/1xhzycw/openai_reportedly_plans_to_buy_googles_ai_chips",
-      "source": "reddit.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-10-29T11:51:36Z"
-    },
-    {
-      "id": "6a2a28292037",
-      "title": "Anthropic has filed paperwork for a proposed initial public offering, setting up a potential market debut for the maker of the Claude artificial intelligence chatbot. Investors should look beyond the excitement surrounding the company: https://bit.ly/4idheIK \n\nRob De Lessio from Strategic Wealth Designers offers his financial insight every Tuesday at 5 p.m. on Local 12 News. | LOCAL 12, WKRC-TV",
-      "summary": "LOCAL 12, WKRC-TV\n\n660 views\n\n · \n\n5h ago\n\nImage 16: Video thumbnail 3:41\n\n[](\n\nUC-listed apartment building faces complaints as inspector alerts health department\n\nLOCAL 12, WKRC-TV\n\n8.2K views\n\n · \n...",
-      "highlights": [
-        "LOCAL 12, WKRC-TV",
-        "Image 16: Video thumbnail 3:41",
-        "UC-listed apartment building faces complaints as inspector alerts health department"
-      ],
-      "url": "https://www.facebook.com/WKRCTV/posts/anthropic-has-filed-paperwork-for-a-proposed-initial-public-offering-setting-up-/1587210606786482",
-      "source": "facebook.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-29T11:51:36Z"
-    },
-    {
-      "id": "1a9ed5c75c9b",
-      "title": "速递|OpenAI计划采购谷歌AI芯片,降低对英伟达的依赖",
-      "summary": "图片来源:OpenAI据一位知情人士透露,OpenAI计划采购谷歌的AI芯片.这将为谷歌带来重大利好,也意味着英伟达正面临一个日益...",
-      "highlights": [
-        "图片来源:OpenAI据一位知情人士透露,OpenAI计划采购谷歌的AI芯片.这将为谷歌带来重大利好,也意味着英伟达正面临一个日益..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyf0p2Coso1-fj3vyBxGcjZ27GEBMr8pJFqXa8Fplpd96FLkglph_1VEAtT-4ATQUFpDGuYuEUv4qxJd--6aOKtScvxYN3y1jbWb1rZrfWKydFwBBSwObrzR5OMqCVS4SsmfCDCI_zfrn3mf_ZnPT75ugPW8__lpmGh3496obx2lLtTYYr_t7AtJigUuNIz21x196Z2mdebcbYvB6o6EeYdj3x9Nw6p-Fg..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=B8AF8A8CB5E56D3F161049EE5AE03E66176A33706AE33343",
-      "source": "微信公众号",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-10-29T01:39:13Z"
-    },
-    {
-      "id": "82cf077d1803",
-      "title": "腾讯串起AI办公流：Buddy One上线 腾讯网盘发布 - 视频 - 南方财经网",
-      "summary": "腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生表示，AI个人提效已得到规模化验证，企业组织提效正在加速铺开。腾讯将全面开放WorkBuddy平台能力，加速模型、智能体产品矩阵和云基础设施布局，助力全球企业释放AI生产力。\n\n在和企业微信深度融合之后，腾讯在本次会上宣布WorkBuddy全面打通内外部生态，并面向个人用户发布AI办公协同体系Buddy One，打通腾讯文档、腾讯会议、腾讯网盘...",
-      "highlights": [
-        "腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生表示，AI个人提效已得到规模化验证，企业组织提效正在加速铺开",
-        "腾讯将全面开放WorkBuddy平台能力，加速模型、智能体产品矩阵和云基础设施布局，助力全球企业释放AI生产力",
-        "在和企业微信深度融合之后，腾讯在本次会上宣布WorkBuddy全面打通内外部生态，并面向个人用户发布AI办公协同体系Buddy One，打通腾讯文档、腾讯会议、腾讯网盘和ima，共享WorkBuddy Agent底座，让AI跨应用协同完成任务"
-      ],
-      "url": "https://www.sfccn.com/2026/10-29/wMMDE1MThfMjI4NzAwMg.html",
-      "source": "sfccn.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-29T10:00:00Z"
-    },
-    {
-      "id": "c0308e5bc66b",
-      "title": "具身智能的 iPhone时刻要来了吗？-36氪",
-      "summary": "第二个是移动与导航能力。具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障。整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的。但自动驾驶汽车用在路上，比具身智能应用场景要简单，比如这个会场就比公开道路复杂的多，具身智能要在这样的场景完全泛化应用还需要不断打磨。\n\n第三个是多模态交互能力。现在大语言模型的语言交...",
-      "highlights": [
-        "第二个是移动与导航能力",
-        "具身智能毕竟是在三维物理世界当中，首先要知道自己在哪里，然后要去哪里，要做自动的路径规划，还要做动态避障",
-        "整个技术只能说相对成熟，从自动驾驶端到端和VLA这种直接外延到具身智能行业是可以用的"
-      ],
-      "url": "https://m.36kr.com/p/3893816015878664",
-      "source": "m.36kr.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-10-29T07:01:50Z"
-    },
-    {
-      "id": "97e4d234f91e",
-      "title": "速递|OpenAI计划采购谷歌AI芯片,降低对英伟达的依赖",
-      "summary": "图片来源:OpenAI据一位知情人士透露,OpenAI计划采购谷歌的AI芯片.这将为谷歌带来重大利好,也意味着英伟达正面临一个日益...",
-      "highlights": [
-        "图片来源:OpenAI据一位知情人士透露,OpenAI计划采购谷歌的AI芯片.这将为谷歌带来重大利好,也意味着英伟达正面临一个日益..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyf0p2Coso1-MZ58rkOanIZ27GEBMr8pJFqXa8Fplpd96FLkglph_1VEAtT-4ATQUFpDGuYuEUv4qxJd--6aOKtScvxYN3y1jevbdRiziSPW4f3ivYxXaaqYmV_k5wYo781eYElmvq2Lj6EafP4HhyLOI0p6g-zS86cJl-5VkXxHp6BiS28dziHkJ2pNYe0ZshGGC2OAh6sjojXNKKCxnpi54z_tGSZTqA..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=BB6F8550E80361A48F96D16EA613F140901475B06AE384D5",
-      "source": "微信公众号",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-10-29T01:39:13Z"
-    },
-    {
-      "id": "ec48a702802c",
-      "title": "谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价 - InfoQ",
-      "summary": "AI摘要\n\nGemini 4 Carbon 是谷歌最新发布的前沿大模型，在 Artificial Analysis v5.0 智能指数中以 59 分登顶，并在漏洞发现、利用与修复三项网络安全任务中表现领先。其核心突破在于长程智能体执行能力，已支持多日连续运行解决复杂工程问题。当前正通过 Fairwind 计划向可信网络安全专家有限开放。\n\n聚焦长程智能体工作流设计；在漏洞挖掘与修复等安全任务中全面...",
-      "highlights": [
-        "Gemini 4 Carbon 是谷歌最新发布的前沿大模型，在 Artificial Analysis v5.0 智能指数中以 59 分登顶，并在漏洞发现、利用与修复三项网络安全任务中表现领先",
-        "其核心突破在于长程智能体执行能力，已支持多日连续运行解决复杂工程问题",
-        "当前正通过 Fairwind 计划向可信网络安全专家有限开放"
-      ],
-      "url": "https://www.infoq.cn/article/dXwHCW7kjGX1kjPqtla9",
-      "source": "infoq.cn",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-29T13:00:00Z"
-    },
-    {
-      "id": "32c56445266a",
-      "title": "速递|OpenAI计划采购谷歌AI芯片,降低对英伟达的依赖",
-      "summary": "图片来源:OpenAI据一位知情人士透露,OpenAI计划采购谷歌的AI芯片.这将为谷歌带来重大利好,也意味着英伟达正面临一个日益...",
-      "highlights": [
-        "图片来源:OpenAI据一位知情人士透露,OpenAI计划采购谷歌的AI芯片.这将为谷歌带来重大利好,也意味着英伟达正面临一个日益..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvX2TnfylMGFfuZ4YHbQDZR4lqXa8Fplpd9RwGX-tPL2BfuvZVIaq1exoli8FiwwnUpHk-Oe09Ao_Ftt-CjVS9J6pFJ3jrmnFR4srvkod0GFmHyEQfZhLOgi3ShA1WFJ8w0K9_FfaZf1kvTUO9M-lwBmgALWZeK_80nt2Y1FTqerx3nih0txGc1M5tlE31WIEDS9LOgEkuo2pUNGbbB75bUeA..&amp;type=2&amp;query=AI %E8%8A%AF%E7%89%87 %E8%8B%B1%E4%BC%9F%E8%BE%BE OpenAI&amp;token=BDBA36630E89C17238316839ECD570883837B9876AE3C2D8",
-      "source": "微信公众号",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-10-29T01:39:13Z"
-    },
-    {
-      "id": "8603236c9e5e",
-      "title": "攻克千禧年难题之后：斯坦福推出After42，让AI学会提出“值得研究”的问题-36氪",
-      "summary": "# 攻克千禧年难题之后：斯坦福推出After42，让AI学会提出“值得研究”的问题\n\n在道格拉斯·亚当斯的科幻小说《银河系漫游指南》中，超级计算机“深思”耗费 750万年，终于算出了“生命、宇宙以及一切的终极答案”：42。这是人类对机器解答能力的一种浪漫想象。\n\n近期，前沿 AI 开始在一些定义明确、长期未解决的开放问题上取得突破。在数学领域，有研究报告称解决了纳维尔斯托克斯千禧年难题和准黎曼猜想...",
-      "highlights": [
-        "# 攻克千禧年难题之后：斯坦福推出After42，让AI学会提出“值得研究”的问题",
-        "在道格拉斯·亚当斯的科幻小说《银河系漫游指南》中，超级计算机“深思”耗费 750万年，终于算出了“生命、宇宙以及一切的终极答案”：42",
-        "这是人类对机器解答能力的一种浪漫想象"
-      ],
-      "url": "https://www.36kr.com/p/4046713681990529",
-      "source": "36kr.com",
-      "category": "前沿理论",
-      "importance": 3,
-      "publishedAt": "2026-10-29T13:00:02Z"
-    },
-    {
-      "id": "c5cb408eee8d",
-      "title": "AI infrastructure startup Simplismart has raised $14 million ...",
-      "summary": "Simplismart has raised $14 million. Generative AI and foundational start-ups secured around $100 million in funding. AI Tooling start-ups received",
-      "highlights": [
-        "Simplismart has raised $14 million. Generative AI and foundational start-ups secured around $100 million in funding. AI Tooling start-ups received"
-      ],
-      "url": "https://www.facebook.com/yourstorycom/posts/ai-infrastructure-startup-simplismart-has-raised-14-million-in-a-series-b-round-/1624034293091872",
-      "source": "facebook.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-29T03:01:45Z"
-    },
-    {
-      "id": "82bd8cc2cbbd",
-      "title": "Instagram",
-      "summary": "intellbenefit\n\nAI 開始幫科學家想問題，科學就能全自動了嗎？  \n  \n想像一座每天都在長高的圖書館：論文愈來愈多，實驗資料也愈來愈龐大。研究者除了讀懂資料，還得決定下一步值得做什麼。  \n  \n2026 年《Nature》的研究與綜述，讓我們看見 AI 正在協助兩件事：  \n- 把分散線索組成可測試的研究假說。  \n- 搜尋可能的物理實驗配置。  \n  \n但這三件事，千萬別畫上等...",
-      "highlights": [
-        "intellbenefit",
-        "AI 開始幫科學家想問題，科學就能全自動了嗎",
-        "想像一座每天都在長高的圖書館：論文愈來愈多，實驗資料也愈來愈龐大"
-      ],
-      "url": "https://www.instagram.com/p/De8KOoZiRyR",
-      "source": "instagram.com",
-      "category": "前沿理论",
-      "importance": 2,
-      "publishedAt": "2026-10-29T11:51:36Z"
-    },
-    {
-      "id": "b3159d1b9846",
-      "title": "ѶԿ̬ȫAgentϵͳ_",
-      "summary": "ҳ > ƼƵ > ҵѶ\n\n# ѶԿ̬ȫAgentϵͳ\n\n2026-10-29 16:15:38Դ\n\nԱʹAIЧѾǱѡ⣬ҵҲҪAI׼ľִУǿгϵľ򲻽ˡ1029վٰѶȫ̬ϣѶŸ߼ִиܲáǻ۲ҵҵȺCEOʾѶΧư칫Эͬݹҵִ󳡾WorkBuddy Agentƽ̨ҵӪɽϵͳ [...] ȣǻӿȫĽ衣\n\nѶƺ⿪ٶȳڱҵȣȫѲ𳬹200̨ȥһ꣬ڷ˸ǡī硢桢ŵú̩ġδһ꣬ǻһչޡжŷ޺޵Ĳ֡\n\nΣǴԼ۱ȵĻʩ\n\nA...",
-      "highlights": [
-        "ҳ > ƼƵ > ҵѶ",
-        "# ѶԿ̬ȫAgentϵͳ",
-        "2026-10-29 16:15:38Դ"
-      ],
-      "url": "https://www.cnr.cn/tech/techgd/20261029/t20261029_527856346.shtml",
-      "source": "cnr.cn",
-      "category": "产品进展",
-      "importance": 2,
-      "publishedAt": "2026-10-29T00:00:00Z"
-    },
-    {
-      "id": "02336fb84e6d",
-      "title": "IBMƳҵAIݹܿط-AIʩ-",
-      "summary": "Ƽ\n \n Ƽ\n Solidot\n\n\n\n[](\n\nҳ/AIʩ/\n\n# IBMƳҵAIݹܿط\n\nIBMʽAgent IdentityHashiCorp VaultչAIwatsonx Orchestrateʵֿƽ̨עᡢ֤Ȩ޹ܿʵʱּڰҵӦGartnerԤ2028Fortune 500ҵƽ15Ĺս\n\n\n\n2026-10-29  ĶԼ4\n\nIBM Agent IdentityʽߣIBMͬʱHashiCor...",
-      "highlights": [
-        "# IBMƳҵAIݹܿط",
-        "IBMʽAgent IdentityHashiCorp VaultչAIwatsonx Orchestrateʵֿƽ̨עᡢ֤Ȩ޹ܿʵʱּڰҵӦGartnerԤ2028Fortune 500ҵƽ15Ĺս",
-        "2026-10-29  ĶԼ4"
-      ],
-      "url": "https://www.zhiding.cn/ai-infrastructure/2026/1029/3203983.shtml",
-      "source": "zhiding.cn",
-      "category": "产品进展",
-      "importance": 2,
-      "publishedAt": "2026-10-29T05:00:00Z"
-    },
-    {
-      "id": "de7c6cc408da",
-      "title": "邀得牛津大學John Tasioulas 教授主講，探討AI 時代的人權 ...",
-      "summary": "... 前沿研究見解。 今井教授介紹一套名為「生成式AI賦能推論」（Generative AI–Powered Inference, GPI）的創新方法，探討如何運用生成式AI突破傳統研究的限制，從文字",
-      "highlights": [
-        "今井教授介紹一套名為「生成式AI賦能推論」（Generative AI–Powered Inference, GPI）的創新方法，探討如何運用生成式AI突破傳統研究的限制，從文字"
-      ],
-      "url": "https://www.instagram.com/p/De0acqfnx1r",
-      "source": "instagram.com",
-      "category": "前沿理论",
-      "importance": 2,
-      "publishedAt": "2026-10-29T22:04:14Z"
-    },
-    {
-      "id": "8ce8cc3653d1",
-      "title": "🤖 人工智能：🇺🇸約 15,000 頁的數學證明，交由電腦逐步檢查。AI 初創 Axiom Math 美國時間 10 月 26 日宣布，用數十個 AI 代理在 24 日內把被稱「巨大定理」的有限單群分類轉寫成程式碼，稱這是首個完整的電腦檢查證明，過程找出 34 處與文獻不符。",
-      "summary": "Home\n\nNew thread\n\nSearch\n\nMessages\n\nActivity\n\nProfile\n\nInsights\n\nLog in\n\nMore\n\n# Thread\n\n2.3K views\n\nwhaleagent's profile picture\n\nwhaleagent\n\n🤖 人工智能：🇺🇸約 15,000 頁的數學證明，交由電腦逐步檢查。AI 初創 Axiom Math 美國時間 1...",
-      "highlights": [
-        "whaleagent's profile picture",
-        "🤖 人工智能：🇺🇸約 15,000 頁的數學證明，交由電腦逐步檢查",
-        "AI 初創 Axiom Math 美國時間 10 月 26 日宣布，用數十個 AI 代理在 24 日內把被稱「巨大定理」的有限單群分類轉寫成程式碼，稱這是首個完整的電腦檢查證明，過程找出 34 處與文獻不符"
-      ],
-      "url": "https://www.threads.com/@whaleagent/post/DfBLxtoE-OT/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%B4%84-15000-%E9%A0%81%E7%9A%84%E6%95%B8%E5%AD%B8%E8%AD%89%E6%98%8E%E4%BA%A4%E7%94%B1%E9%9B%BB%E8%85%A6%E9%80%90%E6%AD%A5%E6%AA%A2%E6%9F%A5ai-%E5%88%9D%E5%89%B5-axiom-math-%E7%BE%8E%E5%9C%8B%E6%99%82%E9%96%93-10-%E6%9C%88-26-%E6%97%A5%E5%AE%A3%E5%B8%83%E7%94%A8%E6%95%B8%E5%8D%81%E5%80%8B-ai-%E4%BB%A3%E7%90%86%E5%9C%A8-24-%E6%97%A5%E5%85%A7%E6%8A%8A%E8%A2%AB%E7%A8%B1%E5%B7%A8",
-      "source": "threads.com",
-      "category": "产品进展",
-      "importance": 2,
-      "publishedAt": "2026-10-29T22:04:14Z"
-    }
-  ],
-  "week": [
-    {
-      "id": "5a88faeb9441",
-      "title": "Instagram",
-      "summary": "🤖💥 Anthropic just signed one of the biggest compute deals in AI history.  \n  \nThe maker of Claude has agreed multibillion-dollar deals with Google and Broadcom, securing access to up to 1 MILLION of G...",
-      "highlights": [
-        "🤖💥 Anthropic just signed one of the biggest compute deals in AI history.",
-        "The maker of Claude has agreed multibillion-dollar deals with Google and Broadcom, securing access to up to 1 MILLION of Google's custom TPUs and enough new capacity to bring more than a gigawatt of computing power online by the end of 2026. ⚡",
-        "That's not a chip order. That's a power station for intelligence. 🚀 [...] 💬 The AI arms race isn't slowing down — it's going megawatt. Who's your bet on: Anthropic or OpenAI?"
-      ],
-      "url": "https://www.instagram.com/p/De3cGuTFvzC",
-      "source": "instagram.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-27T21:30:58Z"
-    },
+  "month": [
     {
       "id": "e5e629adfdaf",
       "title": "DeepSeek大模型，登顶全球第一-拱墅新闻网",
@@ -1029,216 +814,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-10-28T01:19:46Z"
-    },
-    {
-      "id": "a483542a8124",
-      "title": "OpenAI据悉计划采购谷歌AI芯片，进一步降低对英伟达的依赖_新浪财经_新浪网",
-      "summary": "与采购现成GPU或TPU不同，自研芯片可以根据OpenAI模型的计算需求进行针对性设计，从而在特定工作负载下优化性能、功耗及运行成本。不过，自研芯片仍需要经过研发、制造和部署等环节，短期内难以完全替代现有计算基础设施。\n\n　　OpenAI同时推进外部采购与芯片自主研发，反映出大型AI企业正在通过多种技术路线扩大算力供给，以应对持续增长的模型训练和推理需求。\n\n三、谷歌扩大TPU外部销售，AI芯片市...",
-      "highlights": [
-        "与采购现成GPU或TPU不同，自研芯片可以根据OpenAI模型的计算需求进行针对性设计，从而在特定工作负载下优化性能、功耗及运行成本",
-        "不过，自研芯片仍需要经过研发、制造和部署等环节，短期内难以完全替代现有计算基础设施",
-        "OpenAI同时推进外部采购与芯片自主研发，反映出大型AI企业正在通过多种技术路线扩大算力供给，以应对持续增长的模型训练和推理需求"
-      ],
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwuefz9591252.shtml?cre=tianyi&mod=pchp&loc=26&r=0&rfunc=56&tj=cxvertical_pc_hp&tr=12",
-      "source": "finance.sina.com.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-28T06:41:04Z"
-    },
-    {
-      "id": "3e83a3882f8d",
-      "title": "个人智能体扎堆遭 APP 拒绝，松延动力冲刺港股 IPO 丨 AI周报 - 21经济网",
-      "summary": "AI for Work 已成为 AI 应用最活跃的赛道，月活用户同比增长 50.6%。本周钛动科技发布行业首个 Pro-Agent 产品 Navos Pro，面向跨境电商、外贸与营销场景，强调“主动发现业务机会并交付真实增长”，而不是被动回答问题。行业共识正在形成：Agent 已经过了“能做演示”的阶段，进入按结果付费的商业化早期。从 C 端聊天到 B 端干活，AI 的变现路径终于清晰起来。\n\n霞...",
-      "highlights": [
-        "AI for Work 已成为 AI 应用最活跃的赛道，月活用户同比增长 50.6%",
-        "本周钛动科技发布行业首个 Pro-Agent 产品 Navos Pro，面向跨境电商、外贸与营销场景，强调“主动发现业务机会并交付真实增长”，而不是被动回答问题",
-        "行业共识正在形成：Agent 已经过了“能做演示”的阶段，进入按结果付费的商业化早期"
-      ],
-      "url": "https://www.21jingji.com/article/20261027/herald/7e0210c2a3e773524a8bad3c68b9daa8.html",
-      "source": "21jingji.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-27T21:00:00Z"
-    },
-    {
-      "id": "b5b9900e0b7f",
-      "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
-      "summary": "Anthropic, OpenAI's main rival, signed an agreement with Google and Broadcom in April for multiple gigawatts ofnext-generation TPU capacity that it expects to come online starting in 2027.\n\nAlphabet b...",
-      "highlights": [
-        "Anthropic, OpenAI's main rival, signed an agreement with Google and Broadcom in April for multiple gigawatts ofnext-generation TPU capacity that it expects to come online starting in 2027.",
-        "Alphabet began delivering TPU systems to customers' own data centers in the second quarter, according to its CFO. Google Cloud also began offering OpenAI's GPT-6 models to select customers in private preview last week.",
-        "## Daily Debrief Newsletter [...] NewsArtificial Intelligence"
-      ],
-      "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
-      "source": "decrypt.co",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-28T19:16:02Z"
-    },
-    {
-      "id": "2614ff476cc9",
-      "title": "OpenAI plans to buy Google's AI chips: Report - The Hindu",
-      "summary": "Deals with customers including rival Anthropic have ‌fueled demand for Google’s TPUs. Alphabet expects to begin recognising a small ​percentage of revenue from TPU sales agreements by the end of this ...",
-      "highlights": [
-        "Deals with customers including rival Anthropic have ‌fueled demand for Google’s TPUs. Alphabet expects to begin recognising a small ​percentage of revenue from TPU sales agreements by the end of this year, with the vast ⁠majority expected to be recognised in 2027, CFO Anat Ashkenazi ⁠previously said.",
-        "OpenAI in June unveiled its first custom AI chip designed with Broadcom, and said ‌it planned to deploy the processor by the end of this year as part of a multi-generation chip ​programme. [...] SUBSCRIBE NOW",
-        "OpenAI is already among the largest buyers of Nvidia’s graphics processing units (GPUs), ‌which it uses to train and deploy AI ​models. Reuters reported in June 2025 that the ChatGPT maker had begun renting Google’s AI ⁠chips."
-      ],
-      "url": "https://www.thehindu.com/sci-tech/technology/openai-plans-to-buy-googles-ai-chips-report/article71634170.ece/amp",
-      "source": "thehindu.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-28T03:45:41Z"
-    }
-  ],
-  "month": [
-    {
-      "id": "5a88faeb9441",
-      "title": "Instagram",
-      "summary": "🤖💥 Anthropic just signed one of the biggest compute deals in AI history.  \n  \nThe maker of Claude has agreed multibillion-dollar deals with Google and Broadcom, securing access to up to 1 MILLION of G...",
-      "highlights": [
-        "🤖💥 Anthropic just signed one of the biggest compute deals in AI history.",
-        "The maker of Claude has agreed multibillion-dollar deals with Google and Broadcom, securing access to up to 1 MILLION of Google's custom TPUs and enough new capacity to bring more than a gigawatt of computing power online by the end of 2026. ⚡",
-        "That's not a chip order. That's a power station for intelligence. 🚀 [...] 💬 The AI arms race isn't slowing down — it's going megawatt. Who's your bet on: Anthropic or OpenAI?"
-      ],
-      "url": "https://www.instagram.com/p/De3cGuTFvzC",
-      "source": "instagram.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-27T21:30:58Z"
-    },
-    {
-      "id": "e5e629adfdaf",
-      "title": "DeepSeek大模型，登顶全球第一-拱墅新闻网",
-      "summary": "10月17日，DeepSeek V4.1-Flash-1017刚刚官宣更新。本次更新以9月10日发布的V4.1 Flash为基础，改善推理、编程、自动化及视觉任务表现。DeepSeek称，新模型在各方面的基准测试中取得了长足的提升，并在多个Harness（控制框架）下达到了新的性能-费用帕累托最优，即最佳性价比。\n\nDeepSeek V4.1-Flash-1017通过基于自反馈的强化学习（RL）训...",
-      "highlights": [
-        "10月17日，DeepSeek V4.1-Flash-1017刚刚官宣更新",
-        "本次更新以9月10日发布的V4.1 Flash为基础，改善推理、编程、自动化及视觉任务表现",
-        "DeepSeek称，新模型在各方面的基准测试中取得了长足的提升，并在多个Harness（控制框架）下达到了新的性能-费用帕累托最优，即最佳性价比"
-      ],
-      "url": "https://www.gongshunews.com/content/2026-10/28/content_9940011.html",
-      "source": "gongshunews.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-28T00:00:00Z"
-    },
-    {
-      "id": "123d028a4a7b",
-      "title": "干掉游戏引擎？谷歌最新世界模型拉爆了",
-      "summary": "而另一家前不久刚刚发布世界模型PixVerse R2的爱诗科技，也获得了巨人网络、中国儒意、三七互娱这样的游戏厂商投资，爱诗科技创立以来累计融资超50亿元，今年7月完成最新一轮C+轮融资后，估值超20亿美元（约人民币134亿元）。\n\n在世界模型之外，厂商们对大模型的其他投资相信大家就更加耳熟能详了，比如米哈游很早就已投资了MiniMax、腾讯自己有混元AI等创作工具，公共技术线下的ARC实验室也正...",
-      "highlights": [
-        "而另一家前不久刚刚发布世界模型PixVerse R2的爱诗科技，也获得了巨人网络、中国儒意、三七互娱这样的游戏厂商投资，爱诗科技创立以来累计融资超50亿元，今年7月完成最新一轮C+轮融资后，估值超20亿美元（约人民币134亿元）",
-        "在世界模型之外，厂商们对大模型的其他投资相信大家就更加耳熟能详了，比如米哈游很早就已投资了MiniMax、腾讯自己有混元AI等创作工具，公共技术线下的ARC实验室也正在研究世界模型与智能体等方向等等",
-        "归根结底，世界模型在短期内对游戏行业的直接影响尚未明晰，但由此打开的想象空间与未来图景，正是行业在AI发展浪潮下想要抓住的长期变量"
-      ],
-      "url": "https://cgames.com/contents/2/13259.html",
-      "source": "cgames.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-27T23:00:00Z"
-    },
-    {
-      "id": "3bb5a432fc54",
-      "title": "‘Racing Far & Wide’ in AI. Anthropic, Nvidia & Google. ARD #193",
-      "summary": "OpenAI lost some momentum. And Anthropic is cutting its own costs: Opus 5.5 costs about 40 percent less per task than Opus 5, and the newest Haiku model about 75 percent less to run. By one estimate, ...",
-      "highlights": [
-        "OpenAI lost some momentum. And Anthropic is cutting its own costs: Opus 5.5 costs about 40 percent less per task than Opus 5, and the newest Haiku model about 75 percent less to run. By one estimate, Anthropic is now at least 40 percent bigger than OpenAI on revenue, though we won’t know until we see more data. [...] OpenAI is racing a different way: on price. By one research firm’s count, it has released this year’s cheapest models per task, and its lowest-cost model is about 80 percent cheaper than Anthropic’s cheapest, per The Information in ‘Why Cheaper Models Won’t Win OpenAI the Enterprise’. That has won it some customers, like Rippling, which I discussed at some length on Monday (AI-RTZ #1251). But capability still wins. After Anthropic’s Opus 5.5 came out in late September, OpenAI lost some [...] A world model, as I’ve explained before, doesn’t focus on words and tokens alone. It simulates a whole world, in 3D, that you can move through and change as you go. The new Genie 4 model from Google DeepMind is more realistic, with better physics and people who move and react naturally. It’s multimodal, with native sound: wind in the trees, waves in the ocean, and characters who talk back. You can change the scene in plain words while it runs, and each world now lasts about two minutes, up from"
-      ],
-      "url": "https://michaelparekh.substack.com/p/racing-far-and-wide-in-ai-anthropic",
-      "source": "michaelparekh.substack.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-27T23:00:00Z"
-    },
-    {
-      "id": "4a99e1e7ed5d",
-      "title": "OpenAI plans to buy Google's AI chips, The Information reports",
-      "summary": "OpenAI is already among the largest buyers of Nvidia's (NVDA.O), opens new tab ​graphics processing units (GPUs), which it uses to train and deploy AI models. ​Reuters reported in June 2025 that the C...",
-      "highlights": [
-        "OpenAI is already among the largest buyers of Nvidia's (NVDA.O), opens new tab ​graphics processing units (GPUs), which it uses to train and deploy AI models. ​Reuters reported in June 2025 that the ChatGPT maker had begun renting Google's AI chips.",
-        "Google's Tensor Processing ‌Units (TPUs) ⁠have gained traction as an alternative to Nvidia's market-leading AI chips as companies seek cheaper options. Google began selling TPUs directly to some customers this year. [...] The reported plan would deepen ties between OpenAI and Alphabet's Google, which compete in AI products and search but have increasingly struck commercial deals. Last week, OpenAI ​said it would make its frontier AI models available through Google Cloud.",
-        "The Reuters Daily Briefing newsletter provides all the news you need to start your day. Sign up here. [...] Alphabet will report its quarterly results later on Wednesday, with investors looking for signs that ​its heavy investment ​in AI is ⁠continuing to drive growth in its cloud business."
-      ],
-      "url": "https://www.reuters.com/business/openai-plans-buy-googles-ai-chips-information-reports-2026-10-28",
-      "source": "reuters.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-28T01:23:43Z"
-    },
-    {
-      "id": "b4860d3fd8b8",
-      "title": "OpenAI Is Buying Google’s AI Chips, a Hit to Nvidia’s Biggest Customer Bond - 24/7 Wall St.",
-      "summary": "No terms, volumes, timing, or chip generation have been disclosed. Until one of the companies confirms it, this remains a reported plan, since nobody has shown a signed order.\n\nOpenAI has used TPUs be...",
-      "highlights": [
-        "No terms, volumes, timing, or chip generation have been disclosed. Until one of the companies confirms it, this remains a reported plan, since nobody has shown a signed order.",
-        "OpenAI has used TPUs before. It began renting Google’s AI chips in June 2025, and the report adds that it now owns them. A year earlier, OpenAI said it had “no specific plans to use TPUs at present.” [...] OpenAI has been moving in this direction for a while. It recently said it would offer its frontier models through Google Cloud. In June, it announced its first custom chip, and a current job listing asks for “significant experience optimizing real workloads on TPUs for training or inference.”",
-        "A buyer this large wants a second supplier because it gains leverage on price, protection against supply shortages, and software that is not tied to a single vendor. [...] OpenAI has spent more on NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) graphics processors than almost any other company, and it now plans to buy Google’s own AI chips, according to The Information. The report came out the night of October 27, 2026. It cites one person familiar with the matter and mentions Google’s tensor processing units (TPUs), custom chips built for AI work."
-      ],
-      "url": "https://247wallst.com/investing/2026/10/28/openai-is-buying-googles-ai-chips-a-hit-to-nvidias-biggest-customer-bond",
-      "source": "247wallst.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-28T11:22:22Z"
-    },
-    {
-      "id": "43d351a61306",
-      "title": "大河财立方",
-      "summary": "微纳核芯完成超10亿元C2轮融资\n\n近日，存算一体AI芯片公司微纳核芯完成超10亿元C2轮融资，本轮由建投投资领投，杭州资本、凯泰资本、晓池资本、烟台财金、盛堃投资、国投泰康、领阳基金跟投。微纳核芯成立于2021年，首创三维存算一体3D-CIM™新架构，依托国产成熟工艺实现先进制程等效算力，产品应用于云、边、端大模型推理场景。\n\n百奥几何完成1亿美元A+轮融资\n\n近日，AI Native生物科技研...",
-      "highlights": [
-        "微纳核芯完成超10亿元C2轮融资",
-        "近日，存算一体AI芯片公司微纳核芯完成超10亿元C2轮融资，本轮由建投投资领投，杭州资本、凯泰资本、晓池资本、烟台财金、盛堃投资、国投泰康、领阳基金跟投",
-        "微纳核芯成立于2021年，首创三维存算一体3D-CIM™新架构，依托国产成熟工艺实现先进制程等效算力，产品应用于云、边、端大模型推理场景"
-      ],
-      "url": "https://app.dahecube.com/article.html?artid=291167%3Frecid%3D1",
-      "source": "app.dahecube.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-28T08:00:00Z"
-    },
-    {
-      "id": "97b362005e3b",
-      "title": "一文读懂 RSI：大模型递归自进化五大技术路线全景解析 - AI-Frontiers - 博客园",
-      "summary": "这项工作证明 AI 已能独立完成科学研究的全部环节。自主科学发现技术的进步，有望极大提升科研生产力的可扩展性、加速科学突破。论文同时开源了代码，并讨论了 AI 科研中的安全问题，呼吁在发展中审慎推进。\n\nautoresearch（Karpathy 极简自动化 AI 训练研究循环）\n\n由 Andrej Karpathy 开源的极简 AI4AI 自进化项目（核心代码仅 600 余行）。它让 AI 智能...",
-      "highlights": [
-        "这项工作证明 AI 已能独立完成科学研究的全部环节",
-        "自主科学发现技术的进步，有望极大提升科研生产力的可扩展性、加速科学突破",
-        "论文同时开源了代码，并讨论了 AI 科研中的安全问题，呼吁在发展中审慎推进"
-      ],
-      "url": "https://www.cnblogs.com/aifrontiers/p/23432044",
-      "source": "cnblogs.com",
-      "category": "前沿理论",
-      "importance": 5,
-      "publishedAt": "2026-10-27T23:00:00Z"
-    },
-    {
-      "id": "9d51619f5944",
-      "title": "OpenAI狂发700篇数学论文，陶哲轩为何呼吁紧急刹车？|数学家|人类|手稿|图灵奖|数学界_新浪新闻",
-      "summary": "理解比证明更贵：陶哲轩反复强调，数学珍贵的是推导中诞生的新思想、新方法，“证明越来越便宜，理解反而越来越贵了”。\n\n　　三、理性看待的分寸\n\n　　助手角色已被接受：多数数学家并不抵制AI当研究助手，不少人已用它学习、分担工作、获取灵感。\n\n　　独立研究鱼龙混杂：AI独立做数学既有重大突破，也会制造混乱残次品；解决猜想只是数学的半壁江山，新概念、新抽象仍是人类主场。\n\n　　转向新范式：图灵奖得主杨立...",
-      "highlights": [
-        "理解比证明更贵：陶哲轩反复强调，数学珍贵的是推导中诞生的新思想、新方法，“证明越来越便宜，理解反而越来越贵了”",
-        "助手角色已被接受：多数数学家并不抵制AI当研究助手，不少人已用它学习、分担工作、获取灵感",
-        "独立研究鱼龙混杂：AI独立做数学既有重大突破，也会制造混乱残次品；解决猜想只是数学的半壁江山，新概念、新抽象仍是人类主场"
-      ],
-      "url": "https://k.sina.com.cn/article_7879996043_1d5af328b06802l0j0.html?from=science",
-      "source": "k.sina.com.cn",
-      "category": "前沿理论",
-      "importance": 5,
-      "publishedAt": "2026-10-28T07:56:10Z"
-    },
-    {
-      "id": "a21274fe1fc0",
-      "title": "Google's Oracle chip deal is another warning for Nvidia",
-      "summary": "Anthropic isn't the only one Nvidia should be worried about. OpenAI currently has a job listing for a software engineer to optimize its models for TPUs, and The Information reported Tuesday that OpenA...",
-      "highlights": [
-        "Anthropic isn't the only one Nvidia should be worried about. OpenAI currently has a job listing for a software engineer to optimize its models for TPUs, and The Information reported Tuesday that OpenAI plans to buy TPUs from Google.",
-        "Meanwhile, several analysts have predicted Google's TPU business is about to explode as more companies hedge their bets with a multichip strategy — providing an opening for Google and others to further move onto Nvidia's turf. [...] In its IPO paperwork filed this week, Anthropic said it planned to spend $114.5 billion on Google compute between April 2026 and July 2033. While it didn't say how much of that would be going to TPUs specifically, it did estimate spending between $125 billion and $150 billion for TPU capacity from Google and other providers.",
-        "In the same filing, Anthropic said it's also using Amazon's Trainium chips and AMD's GPUs, in addition to chips from Nvidia and Google."
-      ],
-      "url": "https://www.businessinsider.com/google-ai-chip-business-oracle-tpus-nvidia-threat-anthropic-openai-2026-10",
-      "source": "businessinsider.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-28T16:28:34Z"
     }
   ]
 }
