@@ -1,36 +1,6 @@
 {
-  "updatedAt": "2026-10-30T17:17:48Z",
+  "updatedAt": "2026-10-30T21:43:47Z",
   "latest": [
-    {
-      "id": "b5b9900e0b7f",
-      "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
-      "summary": "Anthropic, OpenAI's main rival, signed an agreement with Google and Broadcom in April for multiple gigawatts ofnext-generation TPU capacity that it expects to come online starting in 2027.\n\nAlphabet b...",
-      "highlights": [
-        "Anthropic, OpenAI's main rival, signed an agreement with Google and Broadcom in April for multiple gigawatts ofnext-generation TPU capacity that it expects to come online starting in 2027.",
-        "Alphabet began delivering TPU systems to customers' own data centers in the second quarter, according to its CFO. Google Cloud also began offering OpenAI's GPT-6 models to select customers in private preview last week.",
-        "## Daily Debrief Newsletter [...] NewsArtificial Intelligence"
-      ],
-      "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
-      "source": "decrypt.co",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-28T19:16:02Z"
-    },
-    {
-      "id": "2df87b5fb46a",
-      "title": "OpenAI plans to buy Google's TPU chips, report says",
-      "summary": "Last week, OpenAI announced a partnership placing its frontier models and the Codex coding agent inside Model Garden, Google Cloud’s AI catalog, where customers will pay through Google Cloud Marketpla...",
-      "highlights": [
-        "Last week, OpenAI announced a partnership placing its frontier models and the Codex coding agent inside Model Garden, Google Cloud’s AI catalog, where customers will pay through Google Cloud Marketplace. Three of those models, GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna, entered private preview for select enterprise clients on Oct. 21, according to Google Cloud. [...] Broadcom CEO Hock Tan called the chip “just the beginning of a multi-generation roadmap.” Nothing in the TPU report explained how a Google purchase would fit alongside the Jalapeño program.",
-        "Unanswered questions include the TPU generation involved, the size of any order and the planned workload, training or serving. Anthropic, an OpenAI competitor, already buys TPUs, and its agreements have helped push up demand for Google’s chips. [...] Thomas Kurian, who runs Google Cloud, said the company wants customers to have “a broad selection of models, including those from OpenAI.” A TPU purchase would give Google a second role, as a hardware vendor to the lab whose models it now offers to cloud buyers.",
-        "Custom silicon is another track for OpenAI. On June 24, it unveiled Jalapeño, its first in-house AI accelerator, developed with Broadcom and slated for initial deployment before 2026 ends."
-      ],
-      "url": "https://betanews.com/article/openai-plans-to-buy-google-tpu-chips",
-      "source": "betanews.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-28T18:10:23Z"
-    },
     {
       "id": "9d987aba56f4",
       "title": "OpenAI竟然准备向最大竞争对手Google买AI芯片！Nvidia最 ...",
@@ -333,21 +303,6 @@
       "publishedAt": "2026-10-29T01:39:13Z"
     },
     {
-      "id": "ded6f8bd45c1",
-      "title": "Google 发布 Gemini 4 Carbon，但这款最新 AI 模型尚未开放使用 | Межа",
-      "summary": "2026年10月28日 星期三 22:41\n\nGoogle 发布 Gemini 4 Carbon，但这款最新 AI 模型尚未开放使用\n\n照片来源: Ars Technica\n\nGoogle表示，Gemini 4 Carbon在其公布的测试中均以微弱优势胜过Argon，并在多项网络安全指标上表现更佳。公司计划在进一步测试后分阶段推出该模型，但尚未确定更广泛开放的时间。\n\nGoogle 在发布 Gem...",
-      "highlights": [
-        "2026年10月28日 星期三 22:41",
-        "Google 发布 Gemini 4 Carbon，但这款最新 AI 模型尚未开放使用",
-        "照片来源: Ars Technica"
-      ],
-      "url": "https://mezha.net/ch/news/mezha-721146dc4df9479164fe9f5e_google-unveils-gemini-4-carbon-but",
-      "source": "mezha.net",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-28T20:41:21Z"
-    },
-    {
       "id": "ec48a702802c",
       "title": "谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价 - InfoQ",
       "summary": "AI摘要\n\nGemini 4 Carbon 是谷歌最新发布的前沿大模型，在 Artificial Analysis v5.0 智能指数中以 59 分登顶，并在漏洞发现、利用与修复三项网络安全任务中表现领先。其核心突破在于长程智能体执行能力，已支持多日连续运行解决复杂工程问题。当前正通过 Fairwind 计划向可信网络安全专家有限开放。\n\n聚焦长程智能体工作流设计；在漏洞挖掘与修复等安全任务中全面...",
@@ -434,6 +389,47 @@
       "category": "芯片硬件",
       "importance": 4,
       "publishedAt": "2026-10-29T01:39:13Z"
+    },
+    {
+      "id": "c5518d51fbb3",
+      "title": "Want to invest in Anthropic before its IPO? These 5 funds offer exposure to the AI giant. - Business Insider",
+      "summary": "AI giant Anthropic is set to go public in mid-November, but there are ways for eager investors to get exposure ahead of the IPO. Not all of the funds listed below are ETFs, which are highly liquid sin...",
+      "highlights": [
+        "AI giant Anthropic is set to go public in mid-November, but there are ways for eager investors to get exposure ahead of the IPO. Not all of the funds listed below are ETFs, which are highly liquid since they trade like stocks. Also, some of the funds, like Corgi's MANGOS ETF, use complex derivative such as perpetual futures and swaps to simulate exposure to a private company. Anthropic is expected to IPO at around a $1.5 trillion to $2 trillion market cap, which would make it one of the top 10 largest most valuable companies in the world. With all that in mind, let's take a look at some of the funds offering exposure to Anthropic before it hits the public market. Comments: \"Invests in companies addressing a critical AI bottleneck of moving data faster—and had the most pre-IPO exposure to Anthropic by portfolio weight of any U.S.-listed ETF as of Sept."
+      ],
+      "url": "https://www.businessinsider.com/how-to-invest-in-anthropic-before-its-ipo-funds-etfs-2026-10",
+      "source": "businessinsider.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-30T16:32:10Z"
+    },
+    {
+      "id": "8a0d7487dfa0",
+      "title": "Sector Snapshot: Travel Tech Funding Heads Toward Multiyear Low Despite AI Push",
+      "summary": "## Exits\n\nSeveral travel startups have found buyers in 2026, including companies developing AI tools for planning and booking trips. Amadeus acquired corporate travel AI assistant SkyLink in February,...",
+      "highlights": [
+        "Several travel startups have found buyers in 2026, including companies developing AI tools for planning and booking trips. Amadeus acquired corporate travel AI assistant SkyLink in February, while Expedia acquired AI trip-planning startup Layla in July. Both deals illustrate a trend of established travel companies buying startups to expand their AI capabilities. [...] The numbers: In the first three quarters of 2026, startups in the travel tech space have raised $2.2 billion globally across just 302 funding rounds, Crunchbase data shows. That’s down fairly significantly so far from the $3.7 billion raised in 2025. Deal volume is on track to fall for a third consecutive year — pointing to a market where investors are putting more money into fewer companies. [...] October 28, 2026",
+        "Revenue growth does not guarantee a larger exit, as declining valuation multiples can outweigh operating gains and reduce enterprise value. Guest...",
+        "#### Featured"
+      ],
+      "url": "https://news.crunchbase.com/travel-tourism/travel-tech-startup-venture-funding-low-ai",
+      "source": "news.crunchbase.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-10-30T11:00:49Z"
+    },
+    {
+      "id": "5e529239fdaf",
+      "title": "We are not ready for what AI has done to red teaming - CSO Online",
+      "summary": "## A small red team with frontier AI can now out-find a much bigger traditional one, so the winners will be operators who pair smart judgment with smart tools. It’s that the economics of attack change...",
+      "highlights": [
+        "## A small red team with frontier AI can now out-find a much bigger traditional one, so the winners will be operators who pair smart judgment with smart tools. It’s that the economics of attack changed entirely — and those of us who run red teams have had a front-row seat to the transformation. A small, well-equipped offensive team using frontier AI models today can outperform what was possible with a much larger traditional operation just two years ago, by a margin that should unsettle every security leader reading this. Through our work on the front lines of offensive security, the consensus is clear: if you are not augmenting your operations with AI, you are already at a disadvantage. * **Red teaming *with* AI:** Using AI as an operator’s tool to execute traditional offensive operations. It is this second category, Red Teaming *with* AI, where the most immediate, drastic, and dangerous transformation is occurring."
+      ],
+      "url": "https://www.csoonline.com/article/4242174/we-are-not-ready-for-what-ai-has-done-to-red-teaming.html",
+      "source": "csoonline.com",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-10-30T00:00:00Z"
     }
   ],
   "today": [
@@ -494,6 +490,21 @@
       "publishedAt": "2026-10-30T16:32:10Z"
     },
     {
+      "id": "8a0d7487dfa0",
+      "title": "Sector Snapshot: Travel Tech Funding Heads Toward Multiyear Low Despite AI Push",
+      "summary": "## Exits\n\nSeveral travel startups have found buyers in 2026, including companies developing AI tools for planning and booking trips. Amadeus acquired corporate travel AI assistant SkyLink in February,...",
+      "highlights": [
+        "Several travel startups have found buyers in 2026, including companies developing AI tools for planning and booking trips. Amadeus acquired corporate travel AI assistant SkyLink in February, while Expedia acquired AI trip-planning startup Layla in July. Both deals illustrate a trend of established travel companies buying startups to expand their AI capabilities. [...] The numbers: In the first three quarters of 2026, startups in the travel tech space have raised $2.2 billion globally across just 302 funding rounds, Crunchbase data shows. That’s down fairly significantly so far from the $3.7 billion raised in 2025. Deal volume is on track to fall for a third consecutive year — pointing to a market where investors are putting more money into fewer companies. [...] October 28, 2026",
+        "Revenue growth does not guarantee a larger exit, as declining valuation multiples can outweigh operating gains and reduce enterprise value. Guest...",
+        "#### Featured"
+      ],
+      "url": "https://news.crunchbase.com/travel-tourism/travel-tech-startup-venture-funding-low-ai",
+      "source": "news.crunchbase.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-10-30T11:00:49Z"
+    },
+    {
       "id": "5e529239fdaf",
       "title": "We are not ready for what AI has done to red teaming - CSO Online",
       "summary": "## A small red team with frontier AI can now out-find a much bigger traditional one, so the winners will be operators who pair smart judgment with smart tools. It’s that the economics of attack change...",
@@ -534,21 +545,6 @@
     }
   ],
   "week": [
-    {
-      "id": "a21274fe1fc0",
-      "title": "Google's Oracle chip deal is another warning for Nvidia",
-      "summary": "Anthropic isn't the only one Nvidia should be worried about. OpenAI currently has a job listing for a software engineer to optimize its models for TPUs, and The Information reported Tuesday that OpenA...",
-      "highlights": [
-        "Anthropic isn't the only one Nvidia should be worried about. OpenAI currently has a job listing for a software engineer to optimize its models for TPUs, and The Information reported Tuesday that OpenAI plans to buy TPUs from Google.",
-        "Meanwhile, several analysts have predicted Google's TPU business is about to explode as more companies hedge their bets with a multichip strategy — providing an opening for Google and others to further move onto Nvidia's turf. [...] In its IPO paperwork filed this week, Anthropic said it planned to spend $114.5 billion on Google compute between April 2026 and July 2033. While it didn't say how much of that would be going to TPUs specifically, it did estimate spending between $125 billion and $150 billion for TPU capacity from Google and other providers.",
-        "In the same filing, Anthropic said it's also using Amazon's Trainium chips and AMD's GPUs, in addition to chips from Nvidia and Google."
-      ],
-      "url": "https://www.businessinsider.com/google-ai-chip-business-oracle-tpus-nvidia-threat-anthropic-openai-2026-10",
-      "source": "businessinsider.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-28T16:28:34Z"
-    },
     {
       "id": "b5b9900e0b7f",
       "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
@@ -635,21 +631,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-10-29T11:51:36Z"
-    },
-    {
-      "id": "415abacc16e9",
-      "title": "WorkBuddy点燃AI办公生态战 - 维科号V",
-      "summary": "这6个月，WorkBuddy先成为了赛道第一的桌面智能体，再把底座拆出去。腾讯对顺序的解释是：生态是结果，先有产品，后有生态。\n\nWorkBuddy由腾讯云CodeBuddy团队打造，定位“全场景职场AI智能体”。它的起点并不显眼——据公开报道，最初的0.01版原型是团队负责人带少数几名工程师用一个周末做出来的，当晚全公司内测。此后的半年里，产品从个人版一路做到企业版与Agent Suite，个人...",
-      "highlights": [
-        "这6个月，WorkBuddy先成为了赛道第一的桌面智能体，再把底座拆出去",
-        "腾讯对顺序的解释是：生态是结果，先有产品，后有生态",
-        "WorkBuddy由腾讯云CodeBuddy团队打造，定位“全场景职场AI智能体”"
-      ],
-      "url": "https://mp.ofweek.com/ai/a656714338607",
-      "source": "mp.ofweek.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-28T17:00:00Z"
     },
     {
       "id": "6c3cdf8c9d69",
@@ -755,24 +736,39 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-10-29T09:32:22Z"
+    },
+    {
+      "id": "de23babff444",
+      "title": "网络安全AI商业化加速！谷歌明码标价兜售最新模型 - 安全内参 | 决策者的网络安全知识库",
+      "summary": "# 网络安全AI商业化加速！谷歌明码标价兜售最新模型\n\n人工智能 安全内参 2026-10-30\n\n网络安全AI的商业化正在不断加速，区别于过去圈定名单式的（免费）测试使用，现在三巨头都逐步转为明码标价，并通过审核机制正式对外销售；谷歌日前发布新款前沿模型Gemini 4 Carbon，声称在网络安全方面具备领先优势，包括漏洞利用、漏洞修复、安全代码生成等场景，并正式定价对外销售，这或将对传统安全...",
+      "highlights": [
+        "# 网络安全AI商业化加速",
+        "谷歌明码标价兜售最新模型",
+        "人工智能 安全内参 2026-10-30"
+      ],
+      "url": "https://www.secrss.com/articles/95206",
+      "source": "secrss.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-30T12:00:00Z"
+    },
+    {
+      "id": "a6b0901b1331",
+      "title": "阿里发布新一代AI芯片，2032年数据中心容量目标升至20GW-市场参考-金十数据",
+      "summary": "这里的20GW并不是传统意义上的芯片“算力”指标，而是数据中心基础设施的功率规模。对于AI云厂商而言，它直接对应未来能够部署多少服务器、AI加速器以及配套网络和制冷温控系统，也是衡量下一轮数据中心投资规模的重要指标。\n\n## 从单颗芯片转向50万卡集群\n\n阿里此次披露V900，更值得关注的是其芯片战略正在从单颗加速器性能转向超大规模集群。\n\n今年5月，平头哥曾发布训推一体AI芯片真武M890。该芯...",
+      "highlights": [
+        "这里的20GW并不是传统意义上的芯片“算力”指标，而是数据中心基础设施的功率规模",
+        "对于AI云厂商而言，它直接对应未来能够部署多少服务器、AI加速器以及配套网络和制冷温控系统，也是衡量下一轮数据中心投资规模的重要指标",
+        "## 从单颗芯片转向50万卡集群"
+      ],
+      "url": "https://xnews.jin10.com/details/230690",
+      "source": "xnews.jin10.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-29T15:00:00Z"
     }
   ],
   "month": [
-    {
-      "id": "a21274fe1fc0",
-      "title": "Google's Oracle chip deal is another warning for Nvidia",
-      "summary": "Anthropic isn't the only one Nvidia should be worried about. OpenAI currently has a job listing for a software engineer to optimize its models for TPUs, and The Information reported Tuesday that OpenA...",
-      "highlights": [
-        "Anthropic isn't the only one Nvidia should be worried about. OpenAI currently has a job listing for a software engineer to optimize its models for TPUs, and The Information reported Tuesday that OpenAI plans to buy TPUs from Google.",
-        "Meanwhile, several analysts have predicted Google's TPU business is about to explode as more companies hedge their bets with a multichip strategy — providing an opening for Google and others to further move onto Nvidia's turf. [...] In its IPO paperwork filed this week, Anthropic said it planned to spend $114.5 billion on Google compute between April 2026 and July 2033. While it didn't say how much of that would be going to TPUs specifically, it did estimate spending between $125 billion and $150 billion for TPU capacity from Google and other providers.",
-        "In the same filing, Anthropic said it's also using Amazon's Trainium chips and AMD's GPUs, in addition to chips from Nvidia and Google."
-      ],
-      "url": "https://www.businessinsider.com/google-ai-chip-business-oracle-tpus-nvidia-threat-anthropic-openai-2026-10",
-      "source": "businessinsider.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-28T16:28:34Z"
-    },
     {
       "id": "b5b9900e0b7f",
       "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
@@ -861,21 +857,6 @@
       "publishedAt": "2026-10-29T11:51:36Z"
     },
     {
-      "id": "415abacc16e9",
-      "title": "WorkBuddy点燃AI办公生态战 - 维科号V",
-      "summary": "这6个月，WorkBuddy先成为了赛道第一的桌面智能体，再把底座拆出去。腾讯对顺序的解释是：生态是结果，先有产品，后有生态。\n\nWorkBuddy由腾讯云CodeBuddy团队打造，定位“全场景职场AI智能体”。它的起点并不显眼——据公开报道，最初的0.01版原型是团队负责人带少数几名工程师用一个周末做出来的，当晚全公司内测。此后的半年里，产品从个人版一路做到企业版与Agent Suite，个人...",
-      "highlights": [
-        "这6个月，WorkBuddy先成为了赛道第一的桌面智能体，再把底座拆出去",
-        "腾讯对顺序的解释是：生态是结果，先有产品，后有生态",
-        "WorkBuddy由腾讯云CodeBuddy团队打造，定位“全场景职场AI智能体”"
-      ],
-      "url": "https://mp.ofweek.com/ai/a656714338607",
-      "source": "mp.ofweek.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-28T17:00:00Z"
-    },
-    {
       "id": "6c3cdf8c9d69",
       "title": "大河财立方",
       "summary": "扰动之心完成数千万元天使+轮融资\n\n近日，AI for Science新锐企业上海扰动之心人工智能科技有限公司完成数千万元天使+轮融资，本轮由清松资本领投、可可资本跟投。公司成立于2025年4月，以扰动组学、几何深度学习、世界模型理论为技术底座，致力于打造PerturbSeek™数字生命世界模型生态系统。\n\n湾测技术完成数千万元战略融资\n\n近日，高端工业传感器研发商湾测技术完成数千万元战略融资，本...",
@@ -904,6 +885,36 @@
       "category": "具身智能",
       "importance": 5,
       "publishedAt": "2026-10-29T00:01:29Z"
+    },
+    {
+      "id": "545fba284757",
+      "title": "350余家企业聚金陵，亮出“智造”最新成果 - 盐城新闻网",
+      "summary": "身高一米八的人形机器人既能打太极也能搬物料，灵巧的机械臂在产线上精准作业，有的机器人甚至能稳稳倒酒、熟练发扑克牌，把精细活做得有模有样；南京本土企业的人形机器人已经走进商超、展会现场提供服务。库卡、安川这些工业机器人“老朋友”带来了能搬35公斤重物的协作机器人，南京本土的埃斯顿则展示国产重载机器人的硬实力。炼钢车间里，AI大模型已经上岗，南钢和徐工把真正的“智能工厂”搬到了展台。汽车展区，长安、尚...",
+      "highlights": [
+        "身高一米八的人形机器人既能打太极也能搬物料，灵巧的机械臂在产线上精准作业，有的机器人甚至能稳稳倒酒、熟练发扑克牌，把精细活做得有模有样；南京本土企业的人形机器人已经走进商超、展会现场提供服务",
+        "库卡、安川这些工业机器人“老朋友”带来了能搬35公斤重物的协作机器人，南京本土的埃斯顿则展示国产重载机器人的硬实力",
+        "炼钢车间里，AI大模型已经上岗，南钢和徐工把真正的“智能工厂”搬到了展台"
+      ],
+      "url": "https://www.ycnews.cn/ycwx/2026/10-29/VDpP0KND.html",
+      "source": "ycnews.cn",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-29T08:00:00Z"
+    },
+    {
+      "id": "baa211a60987",
+      "title": "AI: Google’s TPU Moment, with OpenAI, Oracle & Anthropic. AI-RTZ #1254",
+      "summary": "RTZ #766: Google TPU sees notable OpenAI win vs Nvidia\n RTZ #921: Google’s TPUs making Nvidia GPUs a better competitor\n AI-RTZ #1065: Google’s latest TPU chips improve on power efficient AI Compute\n R...",
+      "highlights": [
+        "RTZ #766: Google TPU sees notable OpenAI win vs Nvidia",
+        "RTZ #921: Google’s TPUs making Nvidia GPUs a better competitor",
+        "AI-RTZ #1065: Google’s latest TPU chips improve on power efficient AI Compute"
+      ],
+      "url": "https://michaelparekh.substack.com/p/ai-googles-tpu-moment-with-openai",
+      "source": "michaelparekh.substack.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-29T04:00:00Z"
     }
   ]
 }
