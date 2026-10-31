@@ -1,6 +1,374 @@
 {
-  "updatedAt": "2026-10-31T11:18:14Z",
+  "updatedAt": "2026-10-31T16:22:41Z",
   "latest": [
+    {
+      "id": "d98dcd6665b4",
+      "title": "实测从一问一答到自主代办，个人智能体开启AI新竞争周期_搜狐网",
+      "summary": "## 实测从一问一答到自主代办，个人智能体开启AI新竞争周期\n\n新京报\n\nPersonal Agent（个人智能体）赛道骤然变得拥挤。10月27日，蚂蚁集团发布灵光2.0，定位为“能管事的个人AI助理”，官方数据显示产品上线6天下载量突破200万。同样，阿里千问、字节、腾讯也已纷纷下场。\n\n仅仅两个月前，这条赛道还近乎无人问津。海外市场已率先落子：9月8日Meta个人智能体Muse率先在北美上线；...",
+      "highlights": [
+        "## 实测从一问一答到自主代办，个人智能体开启AI新竞争周期",
+        "Personal Agent（个人智能体）赛道骤然变得拥挤",
+        "10月27日，蚂蚁集团发布灵光2.0，定位为“能管事的个人AI助理”，官方数据显示产品上线6天下载量突破200万"
+      ],
+      "url": "https://m.sohu.com/a/1094505296_114988?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-29T18:32:16Z"
+    },
+    {
+      "id": "de23babff444",
+      "title": "网络安全AI商业化加速！谷歌明码标价兜售最新模型 - 安全内参 | 决策者的网络安全知识库",
+      "summary": "# 网络安全AI商业化加速！谷歌明码标价兜售最新模型\n\n人工智能 安全内参 2026-10-30\n\n网络安全AI的商业化正在不断加速，区别于过去圈定名单式的（免费）测试使用，现在三巨头都逐步转为明码标价，并通过审核机制正式对外销售；谷歌日前发布新款前沿模型Gemini 4 Carbon，声称在网络安全方面具备领先优势，包括漏洞利用、漏洞修复、安全代码生成等场景，并正式定价对外销售，这或将对传统安全...",
+      "highlights": [
+        "# 网络安全AI商业化加速",
+        "谷歌明码标价兜售最新模型",
+        "人工智能 安全内参 2026-10-30"
+      ],
+      "url": "https://www.secrss.com/articles/95206",
+      "source": "secrss.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-30T12:00:00Z"
+    },
+    {
+      "id": "103d80cfb2da",
+      "title": "Here’s when top Wall Street executives expect OpenAI will launch its blockbuster IPO - New York Post",
+      "summary": "OpenAI is saying it has no plans to go public this year – but senior Wall Street executives say they fully expect it will happen in the first quarter of 2027, On The Money has learned. The artificial ...",
+      "highlights": [
+        "OpenAI is saying it has no plans to go public this year – but senior Wall Street executives say they fully expect it will happen in the first quarter of 2027, On The Money has learned. The artificial intelligence giant run by Sam Altman has been quick to shoot down rumors that it’s preparing to IPO imminently now that archrival Anthropic has filed its S-1 as a precursor to a deal that’s expected in late November. Altman has been among the AI industry’s top alarmists – as has Anthropic CEO Dario Amodei – although that isn’t stopping the latter from cashing in on an initial public offering that could value the company as high as $2 trillion, possibly even surpassing SpaceX’s record-breaking IPO. Meanwhile, finance bigs are warning Altman that his iPO window could be closing with rising fears of an AI bubble and competition for investor capital – not just from the Anthropic sale but also a planned massive secondary stock sale by Meta, as first reported by On The Money."
+      ],
+      "url": "https://nypost.com/2026/10/30/business/heres-when-top-wall-street-executives-expect-openai-will-launch-its-blockbuster-ipo/",
+      "source": "nypost.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-30T10:00:00Z"
+    },
+    {
+      "id": "637a4425ce86",
+      "title": "具身智能前沿取得重大突破！SuperMimic 或为机器本体扫清算力障碍｜CoRL 2026 | 雷峰网",
+      "summary": "共享控制能力也初步延伸到速度接口。在 672 个速度阶跃响应中，利用任务奖励训练的编码器在 650 个响应上的误差低于蒸馏基线；相对误差中位数为 0.16，对照为 0.49，约下降 67%。直观地说，已有身体技能并不一定只能照抄参考动作，还可以通过新的指令入口重新组织动作。\n\n它们分别说明，模型可以降低每次练习的成本，可微分优化可以减少所需练习量，共享动力学有助于吸收更大的动作库，短窗口加价值估计...",
+      "highlights": [
+        "共享控制能力也初步延伸到速度接口",
+        "在 672 个速度阶跃响应中，利用任务奖励训练的编码器在 650 个响应上的误差低于蒸馏基线；相对误差中位数为 0.16，对照为 0.49，约下降 67%",
+        "直观地说，已有身体技能并不一定只能照抄参考动作，还可以通过新的指令入口重新组织动作"
+      ],
+      "url": "https://m.leiphone.com/category/private/rhzKnqCc8ORnMNpu.html",
+      "source": "m.leiphone.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-30T02:00:00Z"
+    },
+    {
+      "id": "5b958e8a5e7f",
+      "title": "In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak - SecurityWeek",
+      "summary": "# In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak. Only machines that use network boot are exposed, and the flaw, found by Anthropic and Google researcher...",
+      "highlights": [
+        "# In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak. Only machines that use network boot are exposed, and the flaw, found by Anthropic and Google researchers, became public months ahead of a planned January disclosure after AMI published a code fix, leaving organizations to seek firmware updates from their vendors. Cathedral, a cybersecurity startup founded by former DOGE staffers, says its AI agents found ways into Anthropic’s internal systems in less than 12 hours by abusing weaknesses in third-party business software, reaching meeting transcripts, salary and job offer data, and Slack discussions about the company’s most advanced models, according to a draft report reviewed by the Washington Post (paywalled). Anthropic, which received the findings through its bug bounty program, says only a limited set of sales, HR and IT systems was reached, that it cut off the startup’s access the same day, and that Claude conversations, source code and model weights were not affected."
+      ],
+      "url": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
+      "source": "securityweek.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-30T14:41:35Z"
+    },
+    {
+      "id": "9c0943f43f76",
+      "title": "Anthropic's path to the Nasdaq just got a lot bumpier - CNBC",
+      "summary": "Within days of its release, several of the company's key partners, including Microsoft, Google and Amazon, reported quarterly results that added fuel to existing market jitters around the artificial i...",
+      "highlights": [
+        "Within days of its release, several of the company's key partners, including Microsoft, Google and Amazon, reported quarterly results that added fuel to existing market jitters around the artificial intelligence buildout. \"Everybody's still full steam ahead on AI, but all the things around it took an interesting turn this week,\" Daniel Newman, CEO at Futurum Group, told CNBC in an interview on Friday. In its prospectus on Monday, the AI company disclosed a net loss for the first half of the year of $80 billion, alongside hundreds of billions of dollars' worth of compute commitments and more than 90 pages of risk factors. Anthropic gets much of its capacity from Amazon, Google and SpaceX, but it also relies on neoclouds for some compute as it races to expand as quickly as possible. And Oracle, one of the biggest spenders on AI data centers, said at its investor day on Wednesday that it will limit additional fundraising in the coming years to $20 billion, and will turn cash flow positive in the second half of next fiscal year."
+      ],
+      "url": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
+      "source": "cnbc.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-31T11:00:01Z"
+    },
+    {
+      "id": "fd116c54043f",
+      "title": "闪电快讯 | 腾讯发布智能座舱TAI智能体：接入元宝、小微等C端Agent服务入口|界面新闻 · JMedia",
+      "summary": "AI生产力平台连接数据、知识、工具与治理，提供信息可见、能力可调用、协同可自动化、智能可进化四方面支撑。其中，WorkBuddy、CodeBuddy等产品面向员工提效，企业Agent平台面向长期运行、多人协作的业务流程，两者相互配合，将个人验证有效的方法沉淀为技能和专家能力，在组织内复用。\n\n在工具之外，腾讯通过FDE与业务共创模式，让技术人员、业务顾问与车企业务团队共同选择高价值场景，明确人机协...",
+      "highlights": [
+        "AI生产力平台连接数据、知识、工具与治理，提供信息可见、能力可调用、协同可自动化、智能可进化四方面支撑",
+        "其中，WorkBuddy、CodeBuddy等产品面向员工提效，企业Agent平台面向长期运行、多人协作的业务流程，两者相互配合，将个人验证有效的方法沉淀为技能和专家能力，在组织内复用",
+        "在工具之外，腾讯通过FDE与业务共创模式，让技术人员、业务顾问与车企业务团队共同选择高价值场景，明确人机协同边界、风险控制与评价指标"
+      ],
+      "url": "https://www.jiemian.com/article/15271016.html",
+      "source": "jiemian.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-30T03:00:00Z"
+    },
+    {
+      "id": "48e65843c5e5",
+      "title": "腾讯串起AI办公流：Buddy One上线 腾讯网盘发布 - 21世纪经济报道",
+      "summary": "腾讯串起AI办公流：Buddy One上线 腾讯网盘发布\n\n21世纪经济报道 21财经APP\n\n2026-10-29\n\n21世纪经济报道记者 吴佳楠\n\n10月29日，在2026腾讯全球数字生态大会上，腾讯披露，WorkBuddy自今年3月上线以来，已累计完成90亿次任务请求；企业版落地50多个行业，覆盖50%中国企业500强、60%中国企业100强。\n\n腾讯集团高级执行副总裁、云与智慧产业事业群C...",
+      "highlights": [
+        "腾讯串起AI办公流：Buddy One上线 腾讯网盘发布",
+        "21世纪经济报道 21财经APP",
+        "21世纪经济报道记者 吴佳楠"
+      ],
+      "url": "https://m.21jingji.com/article/20261029/herald/a5f52c1178c24ebd89d99e503b0f2595_zaker.html",
+      "source": "m.21jingji.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-29T17:00:00Z"
+    },
+    {
+      "id": "c5518d51fbb3",
+      "title": "Want to invest in Anthropic before its IPO? These 5 funds offer exposure to the AI giant. - Business Insider",
+      "summary": "AI giant Anthropic is set to go public in mid-November, but there are ways for eager investors to get exposure ahead of the IPO. Not all of the funds listed below are ETFs, which are highly liquid sin...",
+      "highlights": [
+        "AI giant Anthropic is set to go public in mid-November, but there are ways for eager investors to get exposure ahead of the IPO. Not all of the funds listed below are ETFs, which are highly liquid since they trade like stocks. Also, some of the funds, like Corgi's MANGOS ETF, use complex derivative such as perpetual futures and swaps to simulate exposure to a private company. Anthropic is expected to IPO at around a $1.5 trillion to $2 trillion market cap, which would make it one of the top 10 largest most valuable companies in the world. With all that in mind, let's take a look at some of the funds offering exposure to Anthropic before it hits the public market. Comments: \"Invests in companies addressing a critical AI bottleneck of moving data faster—and had the most pre-IPO exposure to Anthropic by portfolio weight of any U.S.-listed ETF as of Sept."
+      ],
+      "url": "https://www.businessinsider.com/how-to-invest-in-anthropic-before-its-ipo-funds-etfs-2026-10",
+      "source": "businessinsider.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-30T16:32:10Z"
+    },
+    {
+      "id": "8a0d7487dfa0",
+      "title": "Sector Snapshot: Travel Tech Funding Heads Toward Multiyear Low Despite AI Push",
+      "summary": "## Exits\n\nSeveral travel startups have found buyers in 2026, including companies developing AI tools for planning and booking trips. Amadeus acquired corporate travel AI assistant SkyLink in February,...",
+      "highlights": [
+        "Several travel startups have found buyers in 2026, including companies developing AI tools for planning and booking trips. Amadeus acquired corporate travel AI assistant SkyLink in February, while Expedia acquired AI trip-planning startup Layla in July. Both deals illustrate a trend of established travel companies buying startups to expand their AI capabilities. [...] The numbers: In the first three quarters of 2026, startups in the travel tech space have raised $2.2 billion globally across just 302 funding rounds, Crunchbase data shows. That’s down fairly significantly so far from the $3.7 billion raised in 2025. Deal volume is on track to fall for a third consecutive year — pointing to a market where investors are putting more money into fewer companies. [...] October 28, 2026",
+        "Revenue growth does not guarantee a larger exit, as declining valuation multiples can outweigh operating gains and reduce enterprise value. Guest...",
+        "#### Featured"
+      ],
+      "url": "https://news.crunchbase.com/travel-tourism/travel-tech-startup-venture-funding-low-ai",
+      "source": "news.crunchbase.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-10-30T11:00:49Z"
+    },
+    {
+      "id": "8948419e9ecc",
+      "title": "闪电快讯 | 腾讯发布智能座舱TAI智能体：接入元宝、小微等C端Agent服务入口_车企_支持_场景",
+      "summary": "AI生产力平台连接数据、知识、工具与治理，提供信息可见、能力可调用、协同可自动化、智能可进化四方面支撑。其中，WorkBuddy、CodeBuddy等产品面向员工提效，企业Agent平台面向长期运行、多人协作的业务流程，两者相互配合，将个人验证有效的方法沉淀为技能和专家能力，在组织内复用。\n\n在工具之外，腾讯通过FDE与业务共创模式，让技术人员、业务顾问与车企业务团队共同选择高价值场景，明确人机协...",
+      "highlights": [
+        "AI生产力平台连接数据、知识、工具与治理，提供信息可见、能力可调用、协同可自动化、智能可进化四方面支撑",
+        "其中，WorkBuddy、CodeBuddy等产品面向员工提效，企业Agent平台面向长期运行、多人协作的业务流程，两者相互配合，将个人验证有效的方法沉淀为技能和专家能力，在组织内复用",
+        "在工具之外，腾讯通过FDE与业务共创模式，让技术人员、业务顾问与车企业务团队共同选择高价值场景，明确人机协同边界、风险控制与评价指标"
+      ],
+      "url": "https://www.sohu.com/a/1094815623_313745",
+      "source": "sohu.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-30T11:12:00Z"
+    },
+    {
+      "id": "170306f0fe25",
+      "title": "OpenAI rewrites its AI rulebook around five core values - The Next Web",
+      "summary": "OpenAI has reorganised its Model Spec, the public rulebook for its AI, around five values led by faithfulness to human intent. It adds guidance on context and human agency, drops most style rules and ...",
+      "highlights": [
+        "OpenAI has reorganised its Model Spec, the public rulebook for its AI, around five values led by faithfulness to human intent. It adds guidance on context and human agency, drops most style rules and renames the model GPT. OpenAI admits its models do not yet fully follow it. OpenAI has rewritten its Model Spec, the public rulebook for how its AI should behave, around five core values, the company said on Thursday. The update also drops most of its style rules and now calls the model “GPT” rather than “the assistant.”. OpenAI calls faithfulness the foundation: the model should grasp what people actually want rather than follow instructions word for word. The model should also not tell people what it thinks they want to hear. OpenAI admits its models “do not yet fully reflect” the Spec and says it is testing new training methods to teach the values."
+      ],
+      "url": "https://thenextweb.com/news/openai-model-spec-five-values-update",
+      "source": "thenextweb.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-29T18:16:13Z"
+    },
+    {
+      "id": "ca150860086f",
+      "title": "Claude Model Builds Exploits Across Major Browsers & OSes - Dark Reading",
+      "summary": "# Claude Model Builds Exploits Across Major Browsers & OSes. An unreleased version of the AI model has found and chained multiple vulnerabilities in Chrome, Safari, Android, Windows, and Linux, Anthro...",
+      "highlights": [
+        "# Claude Model Builds Exploits Across Major Browsers & OSes. An unreleased version of the AI model has found and chained multiple vulnerabilities in Chrome, Safari, Android, Windows, and Linux, Anthropic says. An unreleased version of Claude identified critical vulnerabilities in some of the world's most widely used browsers and operating systems and chained them into working exploits requiring little or no human interaction, Anthropic said this week. The exploits included one that enabled data theft from a locked Android smartphone, another zero-click exploit allowed remote code execution (RCE) with root privileges on Linux servers, and a third that could have allowed attackers to remotely crash Windows systems. In total, Anthropic said, the model generated five working exploits targeting Chrome, Safari, Android, Windows, and Linux. Each of the vulnerabilities that Claude discovered helped overcome a different security control and allowed the chained exploit to escape the browser's sandbox."
+      ],
+      "url": "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
+      "source": "darkreading.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-29T18:24:12Z"
+    },
+    {
+      "id": "b119c6eeb05f",
+      "title": "Google’s satellite AI server transmits its first response to Earth - The Verge",
+      "summary": "# Google’s satellite AI server transmits its first response to Earth. The Project Suncatcher satellite generated a haiku about being in space. Google’s AI chip-equipped satellite has generated its fir...",
+      "highlights": [
+        "# Google’s satellite AI server transmits its first response to Earth. The Project Suncatcher satellite generated a haiku about being in space. Google’s AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite’s Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:. The test is part of Google’s Project Suncatcher, an experimental initiative that could eventually put AI data centers in space. Google launched the satellite into orbit earlier this month. “Next, we will continue with a series of tests to evaluate how TPUs perform under thermal stress and radiation exposure in orbit,” Google says. “Verifying our TPUs can reliably execute workloads in space paves the way for our next milestone of twin interconnected satellites in 2027.”. * Sam Altman says it’s better for RAM to be in a data center than on your desk."
+      ],
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "source": "theverge.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-30T18:21:38Z"
+    },
+    {
+      "id": "5e529239fdaf",
+      "title": "We are not ready for what AI has done to red teaming - CSO Online",
+      "summary": "## A small red team with frontier AI can now out-find a much bigger traditional one, so the winners will be operators who pair smart judgment with smart tools. It’s that the economics of attack change...",
+      "highlights": [
+        "## A small red team with frontier AI can now out-find a much bigger traditional one, so the winners will be operators who pair smart judgment with smart tools. It’s that the economics of attack changed entirely — and those of us who run red teams have had a front-row seat to the transformation. A small, well-equipped offensive team using frontier AI models today can outperform what was possible with a much larger traditional operation just two years ago, by a margin that should unsettle every security leader reading this. Through our work on the front lines of offensive security, the consensus is clear: if you are not augmenting your operations with AI, you are already at a disadvantage. * **Red teaming *with* AI:** Using AI as an operator’s tool to execute traditional offensive operations. It is this second category, Red Teaming *with* AI, where the most immediate, drastic, and dangerous transformation is occurring."
+      ],
+      "url": "https://www.csoonline.com/article/4242174/we-are-not-ready-for-what-ai-has-done-to-red-teaming.html",
+      "source": "csoonline.com",
+      "category": "模型发布",
+      "importance": 3,
+      "publishedAt": "2026-10-30T00:00:00Z"
+    },
+    {
+      "id": "24e6eed18343",
+      "title": "The Hidden Work (and Sweat) Powering AI Productivity - Newsweek",
+      "summary": "That’s what I’m looking forward to digging into next Wednesday, Nov. 4, during our next “AI Impact Forum” webinar, “What Enterprise AI Looks Like When It Works.” Firdaus Bhathena, executive vice presi...",
+      "highlights": [
+        "That’s what I’m looking forward to digging into next Wednesday, Nov. 4, during our next “AI Impact Forum” webinar, “What Enterprise AI Looks Like When It Works.” Firdaus Bhathena, executive vice president and chief technology and transformation officer at S&P Global, will join Dr. Ranjit Tinaikar for a conversation about what separates companies that are experimenting with AI from those turning it into sustained business improvements. Signal Capture Signals from the frontlines of AI adoption Atlassian: AI Can Save Time—and Create More Work AI is helping product teams ship faster while requiring them to spend some of the time saved checking agents, reprompting chats and cleaning up generated work. Upcoming Webinars What Enterprise AI Looks Like When It Works On November 4, Dr. Ranjit Tinaikar, host of Newsweek’s “AI Impact Forum,” will sit down with Firdaus Bhathena, executive vice president and chief technology and transformation officer at S&P Global, to discuss how large companies are turning advances in AI into business results, and why trusted, differentiated data is becoming increasingly important."
+      ],
+      "url": "https://www.newsweek.com/atlassian-ai-productivity-hidden-work-12641692",
+      "source": "newsweek.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-10-30T15:22:00Z"
+    },
+    {
+      "id": "846eb1566471",
+      "title": "通常有两条腿和两只手的机器人。 为什么要做成人形 ...",
+      "summary": "具身智能则要通过摄像头、触觉传感器等感知真实的环境,再通过手臂、轮子、腿去改变环境。工业机械臂、扫地机器人、自动驾驶汽车、四足机器狗",
+      "highlights": [
+        "具身智能则要通过摄像头、触觉传感器等感知真实的环境,再通过手臂、轮子、腿去改变环境",
+        "工业机械臂、扫地机器人、自动驾驶汽车、四足机器狗"
+      ],
+      "url": "https://x.com/jhdxhl/status/2114532489360511199",
+      "source": "x.com",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-10-31T11:18:14Z"
+    },
+    {
+      "id": "79541e31972c",
+      "title": "大模型从60分走到90分，下一代AI的突破在哪里？｜对话上交大陈明达_搜狐网",
+      "summary": "当时 AI 有几个主要方向，包括计算机视觉、自然语言处理、语音等。我比较感兴趣的是语言，因为它和日常生活联系得更紧密，也让我觉得更接近真正的智能。当时计算机视觉领域的很多任务还集中在图像分类等方面，而自然语言处理已经开始涉及更复杂的问题，所以最终选择了这个方向。\n\nDeepTech：最近 AI 在数学推理、定理证明等方面的进展很快，甚至可以说太快了。现在你会不会觉得，当年转向 AI 是一个有意思的...",
+      "highlights": [
+        "当时 AI 有几个主要方向，包括计算机视觉、自然语言处理、语音等",
+        "我比较感兴趣的是语言，因为它和日常生活联系得更紧密，也让我觉得更接近真正的智能",
+        "当时计算机视觉领域的很多任务还集中在图像分类等方面，而自然语言处理已经开始涉及更复杂的问题，所以最终选择了这个方向"
+      ],
+      "url": "https://m.sohu.com/a/1095366368_354973?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-10-31T13:31:04Z"
+    },
+    {
+      "id": "82bd8cc2cbbd",
+      "title": "AI 開始幫科學家想問題，科學就能全自動了嗎？ ...",
+      "summary": "「大語言模型（LLM）只是統計鸚鵡，不可能做高難度的基礎科學研究，更別說突破物理學計算極限了。」 這個觀點，剛剛被Anthropic 官方發布的最新研究成果徹底翻轉！",
+      "highlights": [
+        "「大語言模型（LLM）只是統計鸚鵡，不可能做高難度的基礎科學研究，更別說突破物理學計算極限了",
+        "」 這個觀點，剛剛被Anthropic 官方發布的最新研究成果徹底翻轉"
+      ],
+      "url": "https://www.instagram.com/p/De8KOoZiRyR",
+      "source": "instagram.com",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-10-31T16:22:41Z"
+    },
+    {
+      "id": "e534bf94eb75",
+      "title": "AI Is Destroying Academic Publishing - The Atlantic",
+      "summary": "# AI Is Destroying Academic Publishing. As a journal editor, I can say: The currency of academic social capital is collapsing. Weak scholarship was once easy to spot at a glance: The signs included ba...",
+      "highlights": [
+        "# AI Is Destroying Academic Publishing. As a journal editor, I can say: The currency of academic social capital is collapsing. Weak scholarship was once easy to spot at a glance: The signs included bad writing, a lack of relevant citations, and little engagement with previous scholarship, such as a paper that promised a “novel” conceptual framework without acknowledging the many other papers making similar claims. As an associate editor of a bioethics journal, I’d make a quick “desk reject” decision and not send these articles for peer review, which effectively killed any hope of publication. Now I can say: AI is affecting every part of academic publishing. There are sentences that have all of the trappings of real arguments, but that rarely make sense—such as “Algorithmic triage functions less as a clinical tool than as an infrastructure of deferred accountability.” There are citations that refer only to open-access or highly cited articles, because the most popular LLMs can’t readily access paywalled journal articles, so they rely on what’s either free or described at length elsewhere."
+      ],
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-journal-articles-writing/689186/",
+      "source": "theatlantic.com",
+      "category": "前沿理论",
+      "importance": 2,
+      "publishedAt": "2026-10-30T16:49:39Z"
+    },
+    {
+      "id": "d2db16661b6d",
+      "title": "Harvey snaps up Aida in its fifth acquisition of 2026 | Dealroom News",
+      "summary": "## In this story\n\n## Go deeper\n\n### AI x Legal tech startup list\n\nThe legal industry, a historically traditional sector, is now seeing rapid change with generative AI. In the past two years, hundreds ...",
+      "highlights": [
+        "## In this story",
+        "## Go deeper",
+        "### AI x Legal tech startup list"
+      ],
+      "url": "https://dealroom.co/news/168111-harvey-snaps-up-aida-in-its-fifth-acquisition-of-2026",
+      "source": "dealroom.co",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-29T16:34:00Z"
+    },
+    {
+      "id": "ef9ad9e3975a",
+      "title": "Travel Tech Funding Hits $2.2B in 9 Months [2026]",
+      "summary": "## The AI Paradox: Two-Thirds of Series B Money Went to AI Startups\n\nHere is the part that complicates the “AI will revive travel tech” story. According to related funding coverage, about two-thirds o...",
+      "highlights": [
+        "## The AI Paradox: Two-Thirds of Series B Money Went to AI Startups",
+        "Here is the part that complicates the “AI will revive travel tech” story. According to related funding coverage, about two-thirds of Series B funding in 2026 had gone to AI-focused startups. In 2025, about half of investment went to companies in AI categories. The AI share is rising while the overall pool shrinks. [...] Put the two funding stories side by side and the contrast is stark. Foundational AI startups raised, in a single quarter, double the whole of 2025 for that category, according to Crunchbase News. Travel tech raised $2.2 billion over three quarters, down from $3.7 billion a year earlier. One sector is accelerating on huge checks while the other is contracting on small ones. [...] The AI share of Series B keeps climbing. With about two-thirds already going to AI-focused startups, non-AI travel companies will struggle to close growth rounds without a clear AI case.",
+        "Strategic investors fill more of the gap. Booking Holdings’ planned $100 million Vayo investment is the template. Expect more incumbents to write checks or buy startups outright."
+      ],
+      "url": "https://tech-insider.org/travel-tech-funding-2-2b-302-rounds-multiyear-low-ai-2026",
+      "source": "tech-insider.org",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-30T15:38:06Z"
+    }
+  ],
+  "today": [
+    {
+      "id": "9c0943f43f76",
+      "title": "Anthropic's path to the Nasdaq just got a lot bumpier - CNBC",
+      "summary": "Within days of its release, several of the company's key partners, including Microsoft, Google and Amazon, reported quarterly results that added fuel to existing market jitters around the artificial i...",
+      "highlights": [
+        "Within days of its release, several of the company's key partners, including Microsoft, Google and Amazon, reported quarterly results that added fuel to existing market jitters around the artificial intelligence buildout. \"Everybody's still full steam ahead on AI, but all the things around it took an interesting turn this week,\" Daniel Newman, CEO at Futurum Group, told CNBC in an interview on Friday. In its prospectus on Monday, the AI company disclosed a net loss for the first half of the year of $80 billion, alongside hundreds of billions of dollars' worth of compute commitments and more than 90 pages of risk factors. Anthropic gets much of its capacity from Amazon, Google and SpaceX, but it also relies on neoclouds for some compute as it races to expand as quickly as possible. And Oracle, one of the biggest spenders on AI data centers, said at its investor day on Wednesday that it will limit additional fundraising in the coming years to $20 billion, and will turn cash flow positive in the second half of next fiscal year."
+      ],
+      "url": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
+      "source": "cnbc.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-31T11:00:01Z"
+    },
+    {
+      "id": "846eb1566471",
+      "title": "通常有两条腿和两只手的机器人。 为什么要做成人形 ...",
+      "summary": "具身智能则要通过摄像头、触觉传感器等感知真实的环境,再通过手臂、轮子、腿去改变环境。工业机械臂、扫地机器人、自动驾驶汽车、四足机器狗",
+      "highlights": [
+        "具身智能则要通过摄像头、触觉传感器等感知真实的环境,再通过手臂、轮子、腿去改变环境",
+        "工业机械臂、扫地机器人、自动驾驶汽车、四足机器狗"
+      ],
+      "url": "https://x.com/jhdxhl/status/2114532489360511199",
+      "source": "x.com",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-10-31T11:18:14Z"
+    },
+    {
+      "id": "79541e31972c",
+      "title": "大模型从60分走到90分，下一代AI的突破在哪里？｜对话上交大陈明达_搜狐网",
+      "summary": "当时 AI 有几个主要方向，包括计算机视觉、自然语言处理、语音等。我比较感兴趣的是语言，因为它和日常生活联系得更紧密，也让我觉得更接近真正的智能。当时计算机视觉领域的很多任务还集中在图像分类等方面，而自然语言处理已经开始涉及更复杂的问题，所以最终选择了这个方向。\n\nDeepTech：最近 AI 在数学推理、定理证明等方面的进展很快，甚至可以说太快了。现在你会不会觉得，当年转向 AI 是一个有意思的...",
+      "highlights": [
+        "当时 AI 有几个主要方向，包括计算机视觉、自然语言处理、语音等",
+        "我比较感兴趣的是语言，因为它和日常生活联系得更紧密，也让我觉得更接近真正的智能",
+        "当时计算机视觉领域的很多任务还集中在图像分类等方面，而自然语言处理已经开始涉及更复杂的问题，所以最终选择了这个方向"
+      ],
+      "url": "https://m.sohu.com/a/1095366368_354973?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-10-31T13:31:04Z"
+    },
+    {
+      "id": "82bd8cc2cbbd",
+      "title": "AI 開始幫科學家想問題，科學就能全自動了嗎？ ...",
+      "summary": "「大語言模型（LLM）只是統計鸚鵡，不可能做高難度的基礎科學研究，更別說突破物理學計算極限了。」 這個觀點，剛剛被Anthropic 官方發布的最新研究成果徹底翻轉！",
+      "highlights": [
+        "「大語言模型（LLM）只是統計鸚鵡，不可能做高難度的基礎科學研究，更別說突破物理學計算極限了",
+        "」 這個觀點，剛剛被Anthropic 官方發布的最新研究成果徹底翻轉"
+      ],
+      "url": "https://www.instagram.com/p/De8KOoZiRyR",
+      "source": "instagram.com",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-10-31T16:22:41Z"
+    }
+  ],
+  "week": [
     {
       "id": "9d987aba56f4",
       "title": "OpenAI竟然准备向最大竞争对手Google买AI芯片！Nvidia最 ...",
@@ -141,328 +509,6 @@
       "publishedAt": "2026-10-31T11:00:01Z"
     },
     {
-      "id": "14401429ae1b",
-      "title": "OpenAI reportedly plans to buy Google's AI chips (TPUs)",
-      "summary": "OpenAI plans to buy Google's AI chips (TPUs). OpenAI will make its frontier models available through Google Cloud, OpenAI had begun renting Google's TPUs.",
-      "highlights": [
-        "OpenAI plans to buy Google's AI chips (TPUs). OpenAI will make its frontier models available through Google Cloud, OpenAI had begun renting Google's TPUs."
-      ],
-      "url": "https://www.reddit.com/r/artificial/comments/1xhzycw/openai_reportedly_plans_to_buy_googles_ai_chips",
-      "source": "reddit.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-10-29T11:51:36Z"
-    },
-    {
-      "id": "6a2a28292037",
-      "title": "Anthropic has filed paperwork for a proposed initial public offering, setting up a potential market debut for the maker of the Claude artificial intelligence chatbot. Investors should look beyond the excitement surrounding the company: https://bit.ly/4idheIK \n\nRob De Lessio from Strategic Wealth Designers offers his financial insight every Tuesday at 5 p.m. on Local 12 News. | LOCAL 12, WKRC-TV",
-      "summary": "LOCAL 12, WKRC-TV\n\n660 views\n\n · \n\n5h ago\n\nImage 16: Video thumbnail 3:41\n\n[](\n\nUC-listed apartment building faces complaints as inspector alerts health department\n\nLOCAL 12, WKRC-TV\n\n8.2K views\n\n · \n...",
-      "highlights": [
-        "LOCAL 12, WKRC-TV",
-        "Image 16: Video thumbnail 3:41",
-        "UC-listed apartment building faces complaints as inspector alerts health department"
-      ],
-      "url": "https://www.facebook.com/WKRCTV/posts/anthropic-has-filed-paperwork-for-a-proposed-initial-public-offering-setting-up-/1587210606786482",
-      "source": "facebook.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-29T11:51:36Z"
-    },
-    {
-      "id": "ec48a702802c",
-      "title": "谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价 - InfoQ",
-      "summary": "AI摘要\n\nGemini 4 Carbon 是谷歌最新发布的前沿大模型，在 Artificial Analysis v5.0 智能指数中以 59 分登顶，并在漏洞发现、利用与修复三项网络安全任务中表现领先。其核心突破在于长程智能体执行能力，已支持多日连续运行解决复杂工程问题。当前正通过 Fairwind 计划向可信网络安全专家有限开放。\n\n聚焦长程智能体工作流设计；在漏洞挖掘与修复等安全任务中全面...",
-      "highlights": [
-        "Gemini 4 Carbon 是谷歌最新发布的前沿大模型，在 Artificial Analysis v5.0 智能指数中以 59 分登顶，并在漏洞发现、利用与修复三项网络安全任务中表现领先",
-        "其核心突破在于长程智能体执行能力，已支持多日连续运行解决复杂工程问题",
-        "当前正通过 Fairwind 计划向可信网络安全专家有限开放"
-      ],
-      "url": "https://www.infoq.cn/article/dXwHCW7kjGX1kjPqtla9",
-      "source": "infoq.cn",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-29T12:00:00Z"
-    },
-    {
-      "id": "fd116c54043f",
-      "title": "闪电快讯 | 腾讯发布智能座舱TAI智能体：接入元宝、小微等C端Agent服务入口|界面新闻 · JMedia",
-      "summary": "AI生产力平台连接数据、知识、工具与治理，提供信息可见、能力可调用、协同可自动化、智能可进化四方面支撑。其中，WorkBuddy、CodeBuddy等产品面向员工提效，企业Agent平台面向长期运行、多人协作的业务流程，两者相互配合，将个人验证有效的方法沉淀为技能和专家能力，在组织内复用。\n\n在工具之外，腾讯通过FDE与业务共创模式，让技术人员、业务顾问与车企业务团队共同选择高价值场景，明确人机协...",
-      "highlights": [
-        "AI生产力平台连接数据、知识、工具与治理，提供信息可见、能力可调用、协同可自动化、智能可进化四方面支撑",
-        "其中，WorkBuddy、CodeBuddy等产品面向员工提效，企业Agent平台面向长期运行、多人协作的业务流程，两者相互配合，将个人验证有效的方法沉淀为技能和专家能力，在组织内复用",
-        "在工具之外，腾讯通过FDE与业务共创模式，让技术人员、业务顾问与车企业务团队共同选择高价值场景，明确人机协同边界、风险控制与评价指标"
-      ],
-      "url": "https://www.jiemian.com/article/15271016.html",
-      "source": "jiemian.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-30T03:00:00Z"
-    },
-    {
-      "id": "48e65843c5e5",
-      "title": "腾讯串起AI办公流：Buddy One上线 腾讯网盘发布 - 21世纪经济报道",
-      "summary": "腾讯串起AI办公流：Buddy One上线 腾讯网盘发布\n\n21世纪经济报道 21财经APP\n\n2026-10-29\n\n21世纪经济报道记者 吴佳楠\n\n10月29日，在2026腾讯全球数字生态大会上，腾讯披露，WorkBuddy自今年3月上线以来，已累计完成90亿次任务请求；企业版落地50多个行业，覆盖50%中国企业500强、60%中国企业100强。\n\n腾讯集团高级执行副总裁、云与智慧产业事业群C...",
-      "highlights": [
-        "腾讯串起AI办公流：Buddy One上线 腾讯网盘发布",
-        "21世纪经济报道 21财经APP",
-        "21世纪经济报道记者 吴佳楠"
-      ],
-      "url": "https://m.21jingji.com/article/20261029/herald/a5f52c1178c24ebd89d99e503b0f2595_zaker.html",
-      "source": "m.21jingji.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-29T17:00:00Z"
-    },
-    {
-      "id": "c5518d51fbb3",
-      "title": "Want to invest in Anthropic before its IPO? These 5 funds offer exposure to the AI giant. - Business Insider",
-      "summary": "AI giant Anthropic is set to go public in mid-November, but there are ways for eager investors to get exposure ahead of the IPO. Not all of the funds listed below are ETFs, which are highly liquid sin...",
-      "highlights": [
-        "AI giant Anthropic is set to go public in mid-November, but there are ways for eager investors to get exposure ahead of the IPO. Not all of the funds listed below are ETFs, which are highly liquid since they trade like stocks. Also, some of the funds, like Corgi's MANGOS ETF, use complex derivative such as perpetual futures and swaps to simulate exposure to a private company. Anthropic is expected to IPO at around a $1.5 trillion to $2 trillion market cap, which would make it one of the top 10 largest most valuable companies in the world. With all that in mind, let's take a look at some of the funds offering exposure to Anthropic before it hits the public market. Comments: \"Invests in companies addressing a critical AI bottleneck of moving data faster—and had the most pre-IPO exposure to Anthropic by portfolio weight of any U.S.-listed ETF as of Sept."
-      ],
-      "url": "https://www.businessinsider.com/how-to-invest-in-anthropic-before-its-ipo-funds-etfs-2026-10",
-      "source": "businessinsider.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-30T16:32:10Z"
-    },
-    {
-      "id": "8a0d7487dfa0",
-      "title": "Sector Snapshot: Travel Tech Funding Heads Toward Multiyear Low Despite AI Push",
-      "summary": "## Exits\n\nSeveral travel startups have found buyers in 2026, including companies developing AI tools for planning and booking trips. Amadeus acquired corporate travel AI assistant SkyLink in February,...",
-      "highlights": [
-        "Several travel startups have found buyers in 2026, including companies developing AI tools for planning and booking trips. Amadeus acquired corporate travel AI assistant SkyLink in February, while Expedia acquired AI trip-planning startup Layla in July. Both deals illustrate a trend of established travel companies buying startups to expand their AI capabilities. [...] The numbers: In the first three quarters of 2026, startups in the travel tech space have raised $2.2 billion globally across just 302 funding rounds, Crunchbase data shows. That’s down fairly significantly so far from the $3.7 billion raised in 2025. Deal volume is on track to fall for a third consecutive year — pointing to a market where investors are putting more money into fewer companies. [...] October 28, 2026",
-        "Revenue growth does not guarantee a larger exit, as declining valuation multiples can outweigh operating gains and reduce enterprise value. Guest...",
-        "#### Featured"
-      ],
-      "url": "https://news.crunchbase.com/travel-tourism/travel-tech-startup-venture-funding-low-ai",
-      "source": "news.crunchbase.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-10-30T11:00:49Z"
-    },
-    {
-      "id": "8948419e9ecc",
-      "title": "闪电快讯 | 腾讯发布智能座舱TAI智能体：接入元宝、小微等C端Agent服务入口_车企_支持_场景",
-      "summary": "AI生产力平台连接数据、知识、工具与治理，提供信息可见、能力可调用、协同可自动化、智能可进化四方面支撑。其中，WorkBuddy、CodeBuddy等产品面向员工提效，企业Agent平台面向长期运行、多人协作的业务流程，两者相互配合，将个人验证有效的方法沉淀为技能和专家能力，在组织内复用。\n\n在工具之外，腾讯通过FDE与业务共创模式，让技术人员、业务顾问与车企业务团队共同选择高价值场景，明确人机协...",
-      "highlights": [
-        "AI生产力平台连接数据、知识、工具与治理，提供信息可见、能力可调用、协同可自动化、智能可进化四方面支撑",
-        "其中，WorkBuddy、CodeBuddy等产品面向员工提效，企业Agent平台面向长期运行、多人协作的业务流程，两者相互配合，将个人验证有效的方法沉淀为技能和专家能力，在组织内复用",
-        "在工具之外，腾讯通过FDE与业务共创模式，让技术人员、业务顾问与车企业务团队共同选择高价值场景，明确人机协同边界、风险控制与评价指标"
-      ],
-      "url": "https://www.sohu.com/a/1094815623_313745",
-      "source": "sohu.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-30T11:12:00Z"
-    },
-    {
-      "id": "170306f0fe25",
-      "title": "OpenAI rewrites its AI rulebook around five core values - The Next Web",
-      "summary": "OpenAI has reorganised its Model Spec, the public rulebook for its AI, around five values led by faithfulness to human intent. It adds guidance on context and human agency, drops most style rules and ...",
-      "highlights": [
-        "OpenAI has reorganised its Model Spec, the public rulebook for its AI, around five values led by faithfulness to human intent. It adds guidance on context and human agency, drops most style rules and renames the model GPT. OpenAI admits its models do not yet fully follow it. OpenAI has rewritten its Model Spec, the public rulebook for how its AI should behave, around five core values, the company said on Thursday. The update also drops most of its style rules and now calls the model “GPT” rather than “the assistant.”. OpenAI calls faithfulness the foundation: the model should grasp what people actually want rather than follow instructions word for word. The model should also not tell people what it thinks they want to hear. OpenAI admits its models “do not yet fully reflect” the Spec and says it is testing new training methods to teach the values."
-      ],
-      "url": "https://thenextweb.com/news/openai-model-spec-five-values-update",
-      "source": "thenextweb.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-29T18:16:13Z"
-    },
-    {
-      "id": "44e440c77462",
-      "title": "A market veteran says there are 3 reasons to stay calm amid earnings angst and AI jitters - Business Insider",
-      "summary": "The AI trade has been rattled in the last month, with Alphabet's dismal third-quarter results on Wednesday that latest source of angst for investors. Microsoft's decision to scale back its AI capex fo...",
-      "highlights": [
-        "The AI trade has been rattled in the last month, with Alphabet's dismal third-quarter results on Wednesday that latest source of angst for investors. Microsoft's decision to scale back its AI capex forecast likely isn't helping soothe fears that AI isn't paying off, and capex questions continue to swirl around the other big hypercalers, but Yardeni says that the good news still outweighs the bad. While Microsoft dialed back its capex forecast for the year, Yardeni sees significant spending from other tech leaders. This number included $100 billion that Anthropic could raise from its IPO, as well as also $95 billion that Meta is anticipating to raise via new stock sales, and Elon Musk's move to have SpaceX borrow $40 billion to purchase new GPUs. Yardeni's view of AI economics is centered on Anthropic, and he sees several reasons the AI lab's success should indicate to investors that AI compute demand is both strong, and sustainable."
-      ],
-      "url": "https://www.businessinsider.com/ai-trade-alphabet-earnings-capex-msft-ed-yardeni-2026-10",
-      "source": "businessinsider.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-10-29T14:08:01Z"
-    },
-    {
-      "id": "cdb96e8c1dd2",
-      "title": "Can Anthropic really become a $10 trillion company? - The Verge",
-      "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document know...",
-      "highlights": [
-        "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start trading as soon as next month at a valuation of anywhere between $1.5 trillion and $2 trillion. As you might imagine, that picture is both really complicated and built on a series of very, very ambitious assumptions about the future and what AI will do to it. Joey and his colleagues at SemiAnalysis actually built a model of Anthropic’s finances from the outside back in July, so he’s been waiting for this filing about as eagerly as anyone, and I was excited to hear his take on what we’ve learned and, importantly, what we still don’t know."
-      ],
-      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-      "source": "theverge.com",
-      "category": "前沿理论",
-      "importance": 4,
-      "publishedAt": "2026-10-29T14:00:00Z"
-    },
-    {
-      "id": "ca150860086f",
-      "title": "Claude Model Builds Exploits Across Major Browsers & OSes - Dark Reading",
-      "summary": "# Claude Model Builds Exploits Across Major Browsers & OSes. An unreleased version of the AI model has found and chained multiple vulnerabilities in Chrome, Safari, Android, Windows, and Linux, Anthro...",
-      "highlights": [
-        "# Claude Model Builds Exploits Across Major Browsers & OSes. An unreleased version of the AI model has found and chained multiple vulnerabilities in Chrome, Safari, Android, Windows, and Linux, Anthropic says. An unreleased version of Claude identified critical vulnerabilities in some of the world's most widely used browsers and operating systems and chained them into working exploits requiring little or no human interaction, Anthropic said this week. The exploits included one that enabled data theft from a locked Android smartphone, another zero-click exploit allowed remote code execution (RCE) with root privileges on Linux servers, and a third that could have allowed attackers to remotely crash Windows systems. In total, Anthropic said, the model generated five working exploits targeting Chrome, Safari, Android, Windows, and Linux. Each of the vulnerabilities that Claude discovered helped overcome a different security control and allowed the chained exploit to escape the browser's sandbox."
-      ],
-      "url": "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
-      "source": "darkreading.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-29T18:24:12Z"
-    },
-    {
-      "id": "b119c6eeb05f",
-      "title": "Google’s satellite AI server transmits its first response to Earth - The Verge",
-      "summary": "# Google’s satellite AI server transmits its first response to Earth. The Project Suncatcher satellite generated a haiku about being in space. Google’s AI chip-equipped satellite has generated its fir...",
-      "highlights": [
-        "# Google’s satellite AI server transmits its first response to Earth. The Project Suncatcher satellite generated a haiku about being in space. Google’s AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite’s Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:. The test is part of Google’s Project Suncatcher, an experimental initiative that could eventually put AI data centers in space. Google launched the satellite into orbit earlier this month. “Next, we will continue with a series of tests to evaluate how TPUs perform under thermal stress and radiation exposure in orbit,” Google says. “Verifying our TPUs can reliably execute workloads in space paves the way for our next milestone of twin interconnected satellites in 2027.”. * Sam Altman says it’s better for RAM to be in a data center than on your desk."
-      ],
-      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "source": "theverge.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-30T18:21:38Z"
-    },
-    {
-      "id": "f4d2fa0b488e",
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity - TechCrunch",
-      "summary": "French AI company Mistral has released the weights for its trillion-parameter open source AI model Mistral Large 4 (ML4), allowing businesses and governments to download and deploy the system themselv...",
-      "highlights": [
-        "French AI company Mistral has released the weights for its trillion-parameter open source AI model Mistral Large 4 (ML4), allowing businesses and governments to download and deploy the system themselves. The release comes as competition between open-weight AI developers like Mistral and closed-model providers like OpenAI and Anthropic heats up, with the former arguing that businesses and governments shouldn’t have to rely on outside AI companies for access to advanced capabilities. Or, as Mistral’s CEO, Arthur Mensch, explained, AI should “be a tool for empowerment, not dominance.” With Chonk, Mistral doubles down on that position, arguing that it’s able to achieve “state-of-the-art performance” at a “fraction of the compute and capital committed by closed labs.”. The release of the model’s weights — the numerical training that animates the system — ensures that other companies and government agencies will now be able to deploy ML4 for their own purposes."
-      ],
-      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-      "source": "techcrunch.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-29T14:00:00Z"
-    },
-    {
-      "id": "5e529239fdaf",
-      "title": "We are not ready for what AI has done to red teaming - CSO Online",
-      "summary": "## A small red team with frontier AI can now out-find a much bigger traditional one, so the winners will be operators who pair smart judgment with smart tools. It’s that the economics of attack change...",
-      "highlights": [
-        "## A small red team with frontier AI can now out-find a much bigger traditional one, so the winners will be operators who pair smart judgment with smart tools. It’s that the economics of attack changed entirely — and those of us who run red teams have had a front-row seat to the transformation. A small, well-equipped offensive team using frontier AI models today can outperform what was possible with a much larger traditional operation just two years ago, by a margin that should unsettle every security leader reading this. Through our work on the front lines of offensive security, the consensus is clear: if you are not augmenting your operations with AI, you are already at a disadvantage. * **Red teaming *with* AI:** Using AI as an operator’s tool to execute traditional offensive operations. It is this second category, Red Teaming *with* AI, where the most immediate, drastic, and dangerous transformation is occurring."
-      ],
-      "url": "https://www.csoonline.com/article/4242174/we-are-not-ready-for-what-ai-has-done-to-red-teaming.html",
-      "source": "csoonline.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-10-30T00:00:00Z"
-    },
-    {
-      "id": "24e6eed18343",
-      "title": "The Hidden Work (and Sweat) Powering AI Productivity - Newsweek",
-      "summary": "That’s what I’m looking forward to digging into next Wednesday, Nov. 4, during our next “AI Impact Forum” webinar, “What Enterprise AI Looks Like When It Works.” Firdaus Bhathena, executive vice presi...",
-      "highlights": [
-        "That’s what I’m looking forward to digging into next Wednesday, Nov. 4, during our next “AI Impact Forum” webinar, “What Enterprise AI Looks Like When It Works.” Firdaus Bhathena, executive vice president and chief technology and transformation officer at S&P Global, will join Dr. Ranjit Tinaikar for a conversation about what separates companies that are experimenting with AI from those turning it into sustained business improvements. Signal Capture Signals from the frontlines of AI adoption Atlassian: AI Can Save Time—and Create More Work AI is helping product teams ship faster while requiring them to spend some of the time saved checking agents, reprompting chats and cleaning up generated work. Upcoming Webinars What Enterprise AI Looks Like When It Works On November 4, Dr. Ranjit Tinaikar, host of Newsweek’s “AI Impact Forum,” will sit down with Firdaus Bhathena, executive vice president and chief technology and transformation officer at S&P Global, to discuss how large companies are turning advances in AI into business results, and why trusted, differentiated data is becoming increasingly important."
-      ],
-      "url": "https://www.newsweek.com/atlassian-ai-productivity-hidden-work-12641692",
-      "source": "newsweek.com",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-10-30T15:22:00Z"
-    },
-    {
-      "id": "8603236c9e5e",
-      "title": "攻克千禧年难题之后：斯坦福推出After42，让AI学会提出“值得研究”的问题-36氪",
-      "summary": "# 攻克千禧年难题之后：斯坦福推出After42，让AI学会提出“值得研究”的问题\n\n在道格拉斯·亚当斯的科幻小说《银河系漫游指南》中，超级计算机“深思”耗费 750万年，终于算出了“生命、宇宙以及一切的终极答案”：42。这是人类对机器解答能力的一种浪漫想象。\n\n近期，前沿 AI 开始在一些定义明确、长期未解决的开放问题上取得突破。在数学领域，有研究报告称解决了纳维尔斯托克斯千禧年难题和准黎曼猜想...",
-      "highlights": [
-        "# 攻克千禧年难题之后：斯坦福推出After42，让AI学会提出“值得研究”的问题",
-        "在道格拉斯·亚当斯的科幻小说《银河系漫游指南》中，超级计算机“深思”耗费 750万年，终于算出了“生命、宇宙以及一切的终极答案”：42",
-        "这是人类对机器解答能力的一种浪漫想象"
-      ],
-      "url": "https://www.36kr.com/p/4046713681990529",
-      "source": "36kr.com",
-      "category": "前沿理论",
-      "importance": 3,
-      "publishedAt": "2026-10-29T13:00:02Z"
-    },
-    {
-      "id": "846eb1566471",
-      "title": "通常有两条腿和两只手的机器人。 为什么要做成人形 ...",
-      "summary": "具身智能则要通过摄像头、触觉传感器等感知真实的环境,再通过手臂、轮子、腿去改变环境。工业机械臂、扫地机器人、自动驾驶汽车、四足机器狗",
-      "highlights": [
-        "具身智能则要通过摄像头、触觉传感器等感知真实的环境,再通过手臂、轮子、腿去改变环境",
-        "工业机械臂、扫地机器人、自动驾驶汽车、四足机器狗"
-      ],
-      "url": "https://x.com/jhdxhl/status/2114532489360511199",
-      "source": "x.com",
-      "category": "具身智能",
-      "importance": 3,
-      "publishedAt": "2026-10-31T11:18:14Z"
-    },
-    {
-      "id": "e534bf94eb75",
-      "title": "AI Is Destroying Academic Publishing - The Atlantic",
-      "summary": "# AI Is Destroying Academic Publishing. As a journal editor, I can say: The currency of academic social capital is collapsing. Weak scholarship was once easy to spot at a glance: The signs included ba...",
-      "highlights": [
-        "# AI Is Destroying Academic Publishing. As a journal editor, I can say: The currency of academic social capital is collapsing. Weak scholarship was once easy to spot at a glance: The signs included bad writing, a lack of relevant citations, and little engagement with previous scholarship, such as a paper that promised a “novel” conceptual framework without acknowledging the many other papers making similar claims. As an associate editor of a bioethics journal, I’d make a quick “desk reject” decision and not send these articles for peer review, which effectively killed any hope of publication. Now I can say: AI is affecting every part of academic publishing. There are sentences that have all of the trappings of real arguments, but that rarely make sense—such as “Algorithmic triage functions less as a clinical tool than as an infrastructure of deferred accountability.” There are citations that refer only to open-access or highly cited articles, because the most popular LLMs can’t readily access paywalled journal articles, so they rely on what’s either free or described at length elsewhere."
-      ],
-      "url": "https://www.theatlantic.com/ideas/2026/10/ai-journal-articles-writing/689186/",
-      "source": "theatlantic.com",
-      "category": "前沿理论",
-      "importance": 2,
-      "publishedAt": "2026-10-30T16:49:39Z"
-    },
-    {
-      "id": "d2db16661b6d",
-      "title": "Harvey snaps up Aida in its fifth acquisition of 2026 | Dealroom News",
-      "summary": "## In this story\n\n## Go deeper\n\n### AI x Legal tech startup list\n\nThe legal industry, a historically traditional sector, is now seeing rapid change with generative AI. In the past two years, hundreds ...",
-      "highlights": [
-        "## In this story",
-        "## Go deeper",
-        "### AI x Legal tech startup list"
-      ],
-      "url": "https://dealroom.co/news/168111-harvey-snaps-up-aida-in-its-fifth-acquisition-of-2026",
-      "source": "dealroom.co",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-29T16:34:00Z"
-    }
-  ],
-  "today": [
-    {
-      "id": "9c0943f43f76",
-      "title": "Anthropic's path to the Nasdaq just got a lot bumpier - CNBC",
-      "summary": "Within days of its release, several of the company's key partners, including Microsoft, Google and Amazon, reported quarterly results that added fuel to existing market jitters around the artificial i...",
-      "highlights": [
-        "Within days of its release, several of the company's key partners, including Microsoft, Google and Amazon, reported quarterly results that added fuel to existing market jitters around the artificial intelligence buildout. \"Everybody's still full steam ahead on AI, but all the things around it took an interesting turn this week,\" Daniel Newman, CEO at Futurum Group, told CNBC in an interview on Friday. In its prospectus on Monday, the AI company disclosed a net loss for the first half of the year of $80 billion, alongside hundreds of billions of dollars' worth of compute commitments and more than 90 pages of risk factors. Anthropic gets much of its capacity from Amazon, Google and SpaceX, but it also relies on neoclouds for some compute as it races to expand as quickly as possible. And Oracle, one of the biggest spenders on AI data centers, said at its investor day on Wednesday that it will limit additional fundraising in the coming years to $20 billion, and will turn cash flow positive in the second half of next fiscal year."
-      ],
-      "url": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
-      "source": "cnbc.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-31T11:00:01Z"
-    },
-    {
-      "id": "846eb1566471",
-      "title": "通常有两条腿和两只手的机器人。 为什么要做成人形 ...",
-      "summary": "具身智能则要通过摄像头、触觉传感器等感知真实的环境,再通过手臂、轮子、腿去改变环境。工业机械臂、扫地机器人、自动驾驶汽车、四足机器狗",
-      "highlights": [
-        "具身智能则要通过摄像头、触觉传感器等感知真实的环境,再通过手臂、轮子、腿去改变环境",
-        "工业机械臂、扫地机器人、自动驾驶汽车、四足机器狗"
-      ],
-      "url": "https://x.com/jhdxhl/status/2114532489360511199",
-      "source": "x.com",
-      "category": "具身智能",
-      "importance": 3,
-      "publishedAt": "2026-10-31T11:18:14Z"
-    }
-  ],
-  "week": [
-    {
-      "id": "9d987aba56f4",
-      "title": "OpenAI竟然准备向最大竞争对手Google买AI芯片！Nvidia最 ...",
-      "summary": "过去AI算力市场最大的赢家是Nvidia。 训练模型需要GPU，运行ChatGPT同样需要大量 ... 如果未来OpenAI、Anthropic等AI公司同时使用Nvidia GPU、Google TPU和自研芯片。",
-      "highlights": [
-        "过去AI算力市场最大的赢家是Nvidia",
-        "训练模型需要GPU，运行ChatGPT同样需要大量 ... 如果未来OpenAI、Anthropic等AI公司同时使用Nvidia GPU、Google TPU和自研芯片"
-      ],
-      "url": "https://www.facebook.com/groups/1383301019446926/posts/1758551615255196",
-      "source": "facebook.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-29T11:51:36Z"
-    },
-    {
       "id": "1c34fd85bcfc",
       "title": "北京Q3投出1075亿元，全国第一 | 投中网",
       "summary": "钱主要去了人工智能。本季度披露的全国十笔重点融资案例，北京就占了四笔，包括月之暗面、可灵AI、生数科技和VAST四家企业的融资交易：\n\n月之暗面这一轮投后估值350亿美元，认购金额超出原定目标3倍多，提前关闭。可灵AI投后估值约180亿美元，是全球视频生成大模型单轮最大融资。\n\n月之暗面和可灵AI两笔合计超过426亿元，占到北京千亿投资的39.6%。剩下436起融资分掉649亿。\n\n北京的单笔均值...",
@@ -491,19 +537,6 @@
       "category": "具身智能",
       "importance": 5,
       "publishedAt": "2026-10-29T04:01:00Z"
-    },
-    {
-      "id": "17cd308335da",
-      "title": "Apple's 'Pro and Tell,' Google's Two New AI Models ...",
-      "summary": "OpenAI Turns to Google's TPUs. Apple's 'Pro and Tell,' Google's Two New AI Models, OpenAI Eyes Google's Custom Chips … on Anthropic's S-1, GPU Prices,",
-      "highlights": [
-        "OpenAI Turns to Google's TPUs. Apple's 'Pro and Tell,' Google's Two New AI Models, OpenAI Eyes Google's Custom Chips … on Anthropic's S-1, GPU Prices,"
-      ],
-      "url": "https://www.youtube.com/watch?v=OF0Yyvtdgcw",
-      "source": "youtube.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-29T11:51:36Z"
     },
     {
       "id": "6c3cdf8c9d69",
@@ -549,21 +582,35 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-10-29T04:00:00Z"
-    },
+    }
+  ],
+  "month": [
     {
-      "id": "e872423e38e8",
-      "title": "OpenAI plans to buy Google's AI chips | Ticker",
-      "summary": "OpenAI plans to purchase AI chips from Google, according to sources. The move aims to reduce reliance on Nvidia, its main hardware supplier.Details regarding the price, quantity of chips, and delivery...",
+      "id": "9d987aba56f4",
+      "title": "OpenAI竟然准备向最大竞争对手Google买AI芯片！Nvidia最 ...",
+      "summary": "过去AI算力市场最大的赢家是Nvidia。 训练模型需要GPU，运行ChatGPT同样需要大量 ... 如果未来OpenAI、Anthropic等AI公司同时使用Nvidia GPU、Google TPU和自研芯片。",
       "highlights": [
-        "OpenAI plans to purchase AI chips from Google, according to sources. The move aims to reduce reliance on Nvidia, its main hardware supplier.Details regarding the price, quantity of chips, and delivery dates remain undisclosed. OpenAI is a significant customer of Nvidia.",
-        "The sought-after chips are Google’s tensor processing units, designed specifically for AI computation. Google first introduced TPUs in 2016 after successfully running them in its data centres for over a year. [...] Ticker",
-        "Ticker Studios"
+        "过去AI算力市场最大的赢家是Nvidia",
+        "训练模型需要GPU，运行ChatGPT同样需要大量 ... 如果未来OpenAI、Anthropic等AI公司同时使用Nvidia GPU、Google TPU和自研芯片"
       ],
-      "url": "https://tickernews.co/openai-plans-to-buy-googles-ai-chips",
-      "source": "tickernews.co",
+      "url": "https://www.facebook.com/groups/1383301019446926/posts/1758551615255196",
+      "source": "facebook.com",
       "category": "芯片硬件",
       "importance": 5,
-      "publishedAt": "2026-10-29T07:58:57Z"
+      "publishedAt": "2026-10-29T11:51:36Z"
+    },
+    {
+      "id": "17cd308335da",
+      "title": "Apple's 'Pro and Tell,' Google's Two New AI Models ...",
+      "summary": "OpenAI Turns to Google's TPUs. Apple's 'Pro and Tell,' Google's Two New AI Models, OpenAI Eyes Google's Custom Chips … on Anthropic's S-1, GPU Prices,",
+      "highlights": [
+        "OpenAI Turns to Google's TPUs. Apple's 'Pro and Tell,' Google's Two New AI Models, OpenAI Eyes Google's Custom Chips … on Anthropic's S-1, GPU Prices,"
+      ],
+      "url": "https://www.youtube.com/watch?v=OF0Yyvtdgcw",
+      "source": "youtube.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-29T11:51:36Z"
     },
     {
       "id": "d98dcd6665b4",
@@ -579,21 +626,6 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-10-29T18:32:16Z"
-    },
-    {
-      "id": "755589ca7cfe",
-      "title": "Google’s AI Chips Step Out of Nvidia’s Shadow | Value The Markets",
-      "summary": "Value The Markets\n\nNews   Latest Analysis   Investing Ideas   Data Stories   Crypto \n\nEducation Articles   Investing Glossary\n\n`⌘K`\n\nPress `esc` to close search\n\n## Articles\n\n## Tickers\n\n# Google’s AI...",
-      "highlights": [
-        "Value The Markets",
-        "News   Latest Analysis   Investing Ideas   Data Stories   Crypto",
-        "Education Articles   Investing Glossary"
-      ],
-      "url": "https://www.valuethemarkets.com/analysis/googles-ai-chips-step-out-of-nvidias-shadow",
-      "source": "valuethemarkets.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-29T09:32:22Z"
     },
     {
       "id": "de23babff444",
@@ -665,155 +697,32 @@
       "category": "具身智能",
       "importance": 5,
       "publishedAt": "2026-10-30T02:00:00Z"
-    }
-  ],
-  "month": [
-    {
-      "id": "9d987aba56f4",
-      "title": "OpenAI竟然准备向最大竞争对手Google买AI芯片！Nvidia最 ...",
-      "summary": "过去AI算力市场最大的赢家是Nvidia。 训练模型需要GPU，运行ChatGPT同样需要大量 ... 如果未来OpenAI、Anthropic等AI公司同时使用Nvidia GPU、Google TPU和自研芯片。",
-      "highlights": [
-        "过去AI算力市场最大的赢家是Nvidia",
-        "训练模型需要GPU，运行ChatGPT同样需要大量 ... 如果未来OpenAI、Anthropic等AI公司同时使用Nvidia GPU、Google TPU和自研芯片"
-      ],
-      "url": "https://www.facebook.com/groups/1383301019446926/posts/1758551615255196",
-      "source": "facebook.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-29T11:51:36Z"
     },
     {
-      "id": "1c34fd85bcfc",
-      "title": "北京Q3投出1075亿元，全国第一 | 投中网",
-      "summary": "钱主要去了人工智能。本季度披露的全国十笔重点融资案例，北京就占了四笔，包括月之暗面、可灵AI、生数科技和VAST四家企业的融资交易：\n\n月之暗面这一轮投后估值350亿美元，认购金额超出原定目标3倍多，提前关闭。可灵AI投后估值约180亿美元，是全球视频生成大模型单轮最大融资。\n\n月之暗面和可灵AI两笔合计超过426亿元，占到北京千亿投资的39.6%。剩下436起融资分掉649亿。\n\n北京的单笔均值...",
+      "id": "5b958e8a5e7f",
+      "title": "In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak - SecurityWeek",
+      "summary": "# In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak. Only machines that use network boot are exposed, and the flaw, found by Anthropic and Google researcher...",
       "highlights": [
-        "本季度披露的全国十笔重点融资案例，北京就占了四笔，包括月之暗面、可灵AI、生数科技和VAST四家企业的融资交易：",
-        "月之暗面这一轮投后估值350亿美元，认购金额超出原定目标3倍多，提前关闭",
-        "可灵AI投后估值约180亿美元，是全球视频生成大模型单轮最大融资"
+        "# In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak. Only machines that use network boot are exposed, and the flaw, found by Anthropic and Google researchers, became public months ahead of a planned January disclosure after AMI published a code fix, leaving organizations to seek firmware updates from their vendors. Cathedral, a cybersecurity startup founded by former DOGE staffers, says its AI agents found ways into Anthropic’s internal systems in less than 12 hours by abusing weaknesses in third-party business software, reaching meeting transcripts, salary and job offer data, and Slack discussions about the company’s most advanced models, according to a draft report reviewed by the Washington Post (paywalled). Anthropic, which received the findings through its bug bounty program, says only a limited set of sales, HR and IT systems was reached, that it cut off the startup’s access the same day, and that Claude conversations, source code and model weights were not affected."
       ],
-      "url": "https://www.chinaventure.com.cn/news/80-20261029-393824.html",
-      "source": "chinaventure.com.cn",
-      "category": "投并购",
+      "url": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
+      "source": "securityweek.com",
+      "category": "模型发布",
       "importance": 5,
-      "publishedAt": "2026-10-29T08:00:00Z"
+      "publishedAt": "2026-10-30T14:41:35Z"
     },
     {
-      "id": "27aa644f02d5",
-      "title": "一天吃透一条产业链：物理AI-数采_投资界",
-      "summary": "首页\n 资讯\n 快讯\n VC情报局\n 活动\n 研究\n 创投号\n\n 深度\n 热门\n 天天IPO\n AI先锋\n 机器人\n 医疗健康\n 大消费\n 视频\n 99个发现\n\n首页产业ai正文\n\n# 一天吃透一条产业链：物理AI-数采\n\n作者：RunningLu 来源：微信公众号：飞跑的鹿 更新于： 3823字\n\n01  产业链全景图\n\n02  物理AI-数据采集 简介\n\n人形机器人四肢硬件方案逐步定型，行业瓶...",
+      "id": "9c0943f43f76",
+      "title": "Anthropic's path to the Nasdaq just got a lot bumpier - CNBC",
+      "summary": "Within days of its release, several of the company's key partners, including Microsoft, Google and Amazon, reported quarterly results that added fuel to existing market jitters around the artificial i...",
       "highlights": [
-        "# 一天吃透一条产业链：物理AI-数采",
-        "作者：RunningLu 来源：微信公众号：飞跑的鹿 更新于： 3823字",
-        "02  物理AI-数据采集 简介"
+        "Within days of its release, several of the company's key partners, including Microsoft, Google and Amazon, reported quarterly results that added fuel to existing market jitters around the artificial intelligence buildout. \"Everybody's still full steam ahead on AI, but all the things around it took an interesting turn this week,\" Daniel Newman, CEO at Futurum Group, told CNBC in an interview on Friday. In its prospectus on Monday, the AI company disclosed a net loss for the first half of the year of $80 billion, alongside hundreds of billions of dollars' worth of compute commitments and more than 90 pages of risk factors. Anthropic gets much of its capacity from Amazon, Google and SpaceX, but it also relies on neoclouds for some compute as it races to expand as quickly as possible. And Oracle, one of the biggest spenders on AI data centers, said at its investor day on Wednesday that it will limit additional fundraising in the coming years to $20 billion, and will turn cash flow positive in the second half of next fiscal year."
       ],
-      "url": "https://news.pedaily.cn/202610/571051.shtml",
-      "source": "news.pedaily.cn",
-      "category": "具身智能",
+      "url": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
+      "source": "cnbc.com",
+      "category": "模型发布",
       "importance": 5,
-      "publishedAt": "2026-10-29T04:01:00Z"
-    },
-    {
-      "id": "17cd308335da",
-      "title": "Apple's 'Pro and Tell,' Google's Two New AI Models ...",
-      "summary": "OpenAI Turns to Google's TPUs. Apple's 'Pro and Tell,' Google's Two New AI Models, OpenAI Eyes Google's Custom Chips … on Anthropic's S-1, GPU Prices,",
-      "highlights": [
-        "OpenAI Turns to Google's TPUs. Apple's 'Pro and Tell,' Google's Two New AI Models, OpenAI Eyes Google's Custom Chips … on Anthropic's S-1, GPU Prices,"
-      ],
-      "url": "https://www.youtube.com/watch?v=OF0Yyvtdgcw",
-      "source": "youtube.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-29T11:51:36Z"
-    },
-    {
-      "id": "6c3cdf8c9d69",
-      "title": "大河财立方",
-      "summary": "扰动之心完成数千万元天使+轮融资\n\n近日，AI for Science新锐企业上海扰动之心人工智能科技有限公司完成数千万元天使+轮融资，本轮由清松资本领投、可可资本跟投。公司成立于2025年4月，以扰动组学、几何深度学习、世界模型理论为技术底座，致力于打造PerturbSeek™数字生命世界模型生态系统。\n\n湾测技术完成数千万元战略融资\n\n近日，高端工业传感器研发商湾测技术完成数千万元战略融资，本...",
-      "highlights": [
-        "扰动之心完成数千万元天使+轮融资",
-        "近日，AI for Science新锐企业上海扰动之心人工智能科技有限公司完成数千万元天使+轮融资，本轮由清松资本领投、可可资本跟投",
-        "公司成立于2025年4月，以扰动组学、几何深度学习、世界模型理论为技术底座，致力于打造PerturbSeek™数字生命世界模型生态系统"
-      ],
-      "url": "https://app.dahecube.com/article.html?artid=291274%3Frecid%3D1",
-      "source": "app.dahecube.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-29T07:00:00Z"
-    },
-    {
-      "id": "545fba284757",
-      "title": "350余家企业聚金陵，亮出“智造”最新成果 - 盐城新闻网",
-      "summary": "身高一米八的人形机器人既能打太极也能搬物料，灵巧的机械臂在产线上精准作业，有的机器人甚至能稳稳倒酒、熟练发扑克牌，把精细活做得有模有样；南京本土企业的人形机器人已经走进商超、展会现场提供服务。库卡、安川这些工业机器人“老朋友”带来了能搬35公斤重物的协作机器人，南京本土的埃斯顿则展示国产重载机器人的硬实力。炼钢车间里，AI大模型已经上岗，南钢和徐工把真正的“智能工厂”搬到了展台。汽车展区，长安、尚...",
-      "highlights": [
-        "身高一米八的人形机器人既能打太极也能搬物料，灵巧的机械臂在产线上精准作业，有的机器人甚至能稳稳倒酒、熟练发扑克牌，把精细活做得有模有样；南京本土企业的人形机器人已经走进商超、展会现场提供服务",
-        "库卡、安川这些工业机器人“老朋友”带来了能搬35公斤重物的协作机器人，南京本土的埃斯顿则展示国产重载机器人的硬实力",
-        "炼钢车间里，AI大模型已经上岗，南钢和徐工把真正的“智能工厂”搬到了展台"
-      ],
-      "url": "https://www.ycnews.cn/ycwx/2026/10-29/VDpP0KND.html",
-      "source": "ycnews.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-29T08:00:00Z"
-    },
-    {
-      "id": "baa211a60987",
-      "title": "AI: Google’s TPU Moment, with OpenAI, Oracle & Anthropic. AI-RTZ #1254",
-      "summary": "RTZ #766: Google TPU sees notable OpenAI win vs Nvidia\n RTZ #921: Google’s TPUs making Nvidia GPUs a better competitor\n AI-RTZ #1065: Google’s latest TPU chips improve on power efficient AI Compute\n R...",
-      "highlights": [
-        "RTZ #766: Google TPU sees notable OpenAI win vs Nvidia",
-        "RTZ #921: Google’s TPUs making Nvidia GPUs a better competitor",
-        "AI-RTZ #1065: Google’s latest TPU chips improve on power efficient AI Compute"
-      ],
-      "url": "https://michaelparekh.substack.com/p/ai-googles-tpu-moment-with-openai",
-      "source": "michaelparekh.substack.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-29T04:00:00Z"
-    },
-    {
-      "id": "e872423e38e8",
-      "title": "OpenAI plans to buy Google's AI chips | Ticker",
-      "summary": "OpenAI plans to purchase AI chips from Google, according to sources. The move aims to reduce reliance on Nvidia, its main hardware supplier.Details regarding the price, quantity of chips, and delivery...",
-      "highlights": [
-        "OpenAI plans to purchase AI chips from Google, according to sources. The move aims to reduce reliance on Nvidia, its main hardware supplier.Details regarding the price, quantity of chips, and delivery dates remain undisclosed. OpenAI is a significant customer of Nvidia.",
-        "The sought-after chips are Google’s tensor processing units, designed specifically for AI computation. Google first introduced TPUs in 2016 after successfully running them in its data centres for over a year. [...] Ticker",
-        "Ticker Studios"
-      ],
-      "url": "https://tickernews.co/openai-plans-to-buy-googles-ai-chips",
-      "source": "tickernews.co",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-29T07:58:57Z"
-    },
-    {
-      "id": "d98dcd6665b4",
-      "title": "实测从一问一答到自主代办，个人智能体开启AI新竞争周期_搜狐网",
-      "summary": "## 实测从一问一答到自主代办，个人智能体开启AI新竞争周期\n\n新京报\n\nPersonal Agent（个人智能体）赛道骤然变得拥挤。10月27日，蚂蚁集团发布灵光2.0，定位为“能管事的个人AI助理”，官方数据显示产品上线6天下载量突破200万。同样，阿里千问、字节、腾讯也已纷纷下场。\n\n仅仅两个月前，这条赛道还近乎无人问津。海外市场已率先落子：9月8日Meta个人智能体Muse率先在北美上线；...",
-      "highlights": [
-        "## 实测从一问一答到自主代办，个人智能体开启AI新竞争周期",
-        "Personal Agent（个人智能体）赛道骤然变得拥挤",
-        "10月27日，蚂蚁集团发布灵光2.0，定位为“能管事的个人AI助理”，官方数据显示产品上线6天下载量突破200万"
-      ],
-      "url": "https://m.sohu.com/a/1094505296_114988?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-29T18:32:16Z"
-    },
-    {
-      "id": "755589ca7cfe",
-      "title": "Google’s AI Chips Step Out of Nvidia’s Shadow | Value The Markets",
-      "summary": "Value The Markets\n\nNews   Latest Analysis   Investing Ideas   Data Stories   Crypto \n\nEducation Articles   Investing Glossary\n\n`⌘K`\n\nPress `esc` to close search\n\n## Articles\n\n## Tickers\n\n# Google’s AI...",
-      "highlights": [
-        "Value The Markets",
-        "News   Latest Analysis   Investing Ideas   Data Stories   Crypto",
-        "Education Articles   Investing Glossary"
-      ],
-      "url": "https://www.valuethemarkets.com/analysis/googles-ai-chips-step-out-of-nvidias-shadow",
-      "source": "valuethemarkets.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-29T09:32:22Z"
+      "publishedAt": "2026-10-31T11:00:01Z"
     }
   ]
 }
