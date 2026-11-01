@@ -1,6 +1,556 @@
 {
-  "updatedAt": "2026-11-01T02:46:07Z",
+  "updatedAt": "2026-11-01T12:07:21Z",
   "latest": [
+    {
+      "id": "5b958e8a5e7f",
+      "title": "In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak - SecurityWeek",
+      "summary": "# In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak. Only machines that use network boot are exposed, and the flaw, found by Anthropic and Google researcher...",
+      "highlights": [
+        "# In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak. Only machines that use network boot are exposed, and the flaw, found by Anthropic and Google researchers, became public months ahead of a planned January disclosure after AMI published a code fix, leaving organizations to seek firmware updates from their vendors. Cathedral, a cybersecurity startup founded by former DOGE staffers, says its AI agents found ways into Anthropic’s internal systems in less than 12 hours by abusing weaknesses in third-party business software, reaching meeting transcripts, salary and job offer data, and Slack discussions about the company’s most advanced models, according to a draft report reviewed by the Washington Post (paywalled). Anthropic, which received the findings through its bug bounty program, says only a limited set of sales, HR and IT systems was reached, that it cut off the startup’s access the same day, and that Claude conversations, source code and model weights were not affected."
+      ],
+      "url": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
+      "source": "securityweek.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-30T14:41:35Z"
+    },
+    {
+      "id": "9c0943f43f76",
+      "title": "Anthropic's path to the Nasdaq just got a lot bumpier - CNBC",
+      "summary": "Within days of its release, several of the company's key partners, including Microsoft, Google and Amazon, reported quarterly results that added fuel to existing market jitters around the artificial i...",
+      "highlights": [
+        "Within days of its release, several of the company's key partners, including Microsoft, Google and Amazon, reported quarterly results that added fuel to existing market jitters around the artificial intelligence buildout. \"Everybody's still full steam ahead on AI, but all the things around it took an interesting turn this week,\" Daniel Newman, CEO at Futurum Group, told CNBC in an interview on Friday. In its prospectus on Monday, the AI company disclosed a net loss for the first half of the year of $80 billion, alongside hundreds of billions of dollars' worth of compute commitments and more than 90 pages of risk factors. Anthropic gets much of its capacity from Amazon, Google and SpaceX, but it also relies on neoclouds for some compute as it races to expand as quickly as possible. And Oracle, one of the biggest spenders on AI data centers, said at its investor day on Wednesday that it will limit additional fundraising in the coming years to $20 billion, and will turn cash flow positive in the second half of next fiscal year."
+      ],
+      "url": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
+      "source": "cnbc.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-10-31T11:00:01Z"
+    },
+    {
+      "id": "aef0b4aa119c",
+      "title": "最新封面报道之二｜最赚钱“AI实验室”IPO揭幕_财新周刊频道_财新网",
+      "summary": ":   2026年9月23日，美国纽约，联合国安理会召开人工智能相关会议，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）发言。图：Sarah Yenesel/IC photo\n\n《财新周刊》2026年第42期\n:   \n 分享到微信朋友圈\n\n上一篇：最新封面报道｜重估科技股\n\n下一篇：短剧变局：字节跳动AI生意自闭环｜特稿精选\n\n#### 推荐阅读\n\n推广\n\n### 图片...",
+      "highlights": [
+        ":   2026年9月23日，美国纽约，联合国安理会召开人工智能相关会议，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）发言",
+        "图：Sarah Yenesel/IC photo",
+        "《财新周刊》2026年第42期"
+      ],
+      "url": "https://weekly.caixin.com/2026-10-31/102499335.html",
+      "source": "weekly.caixin.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-10-31T14:00:00Z"
+    },
+    {
+      "id": "545eecb346e9",
+      "title": "抛弃英伟达！OpenAI倒向谷歌，其背后逻辑对国产AI芯片的启示是什么？-电子工程专辑",
+      "summary": "首先，架构选择必须与需求结构匹配，而非与“最先进制程”匹配。 TPU的竞争力并非来自比GPU更先进的制程——Ironwood 同样依赖台积电先进节点，且面临3nm产能瓶颈——而来自它对推理负载的针对性设计。中国国产芯片在单芯片峰值算力上追赶英伟达旗舰产品仍需时间，但中国市场的需求结构正在发生类似变化：2026年上半年，中国 AI 加速器出货中非 GPU加速器达到101.6万颗，同比增长近80%，首...",
+      "highlights": [
+        "首先，架构选择必须与需求结构匹配，而非与“最先进制程”匹配",
+        "TPU的竞争力并非来自比GPU更先进的制程——Ironwood 同样依赖台积电先进节点，且面临3nm产能瓶颈——而来自它对推理负载的针对性设计",
+        "中国国产芯片在单芯片峰值算力上追赶英伟达旗舰产品仍需时间，但中国市场的需求结构正在发生类似变化：2026年上半年，中国 AI 加速器出货中非 GPU加速器达到101.6万颗，同比增长近80%，首次超过GP 出货规模；华为昇腾、平头哥、昆仑芯、寒武纪在非GPU市场合计占据约95%的份额"
+      ],
+      "url": "https://www.eet-china.com/mp/a535759.html",
+      "source": "eet-china.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-10-30T20:00:00Z"
+    },
+    {
+      "id": "563fa25aac03",
+      "title": "南方基金亮相2026腾讯全球数字生态大会五位“AI专家”手把手，教普通用户选基金 中国基金报",
+      "summary": "【深圳，2026年10月】10月29日至30日，2026腾讯全球数字生态大会在深圳国际会展中心举行。本届大会以“群智协同 数动飞轮：激发全场景生产力”为主题，作为腾讯面向产业互联网领域规格最高、规模最大、覆盖最广的年度盛会，大会以AI智能体（Agent）为主线，集中发布面向Agent场景的100余款新产品、新能力，并呈现500余个智能体实践案例。南方基金受邀出席大会并作嘉宾分享，以《如何用Work...",
+      "highlights": [
+        "【深圳，2026年10月】10月29日至30日，2026腾讯全球数字生态大会在深圳国际会展中心举行",
+        "本届大会以“群智协同 数动飞轮：激发全场景生产力”为主题，作为腾讯面向产业互联网领域规格最高、规模最大、覆盖最广的年度盛会，大会以AI智能体（Agent）为主线，集中发布面向Agent场景的100余款新产品、新能力，并呈现500余个智能体实践案例",
+        "南方基金受邀出席大会并作嘉宾分享，以《如何用WorkBuddy选基金"
+      ],
+      "url": "https://www.chnfund.com/article/AR27d85999-6787-d0eb-ec84-3a249e231c07",
+      "source": "chnfund.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-10-30T20:00:00Z"
+    },
+    {
+      "id": "f949905697d4",
+      "title": "具身智能患上了焦虑症 - 潮起网",
+      "summary": "36个交易日，宇树科技股价从开盘价1100元/股跌至404.03元/股，最大跌幅超63%，市值蒸发超2800亿元。宇树科技的上市，成为资本市场态度反转的导火索。\n\n图源：雪球\n\n宇树之外，机器人零部件厂商梅卡曼德公开发售斩获约3835倍超额认购，刷新港股机器人赛道认购纪录。但上市首日直接破发，此后股价持续走弱。\n\n图源：雪球\n\n接连的破发，让资本市场重新思考：此前资本到底是为具身智能的明星团队光环...",
+      "highlights": [
+        "36个交易日，宇树科技股价从开盘价1100元/股跌至404.03元/股，最大跌幅超63%，市值蒸发超2800亿元",
+        "宇树科技的上市，成为资本市场态度反转的导火索",
+        "宇树之外，机器人零部件厂商梅卡曼德公开发售斩获约3835倍超额认购，刷新港股机器人赛道认购纪录"
+      ],
+      "url": "https://www.ichaoqi.com/guandian/2026/1030/89472.html",
+      "source": "ichaoqi.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-30T21:30:06Z"
+    },
+    {
+      "id": "6ffcab5e4d81",
+      "title": "上线5天杀进手机，OpenAI dots移动端来了，AI Agent从桌面走进口袋-36氪",
+      "summary": "这才是最值得关注的：AI Agent可能正在经历从\"极客玩具\"到\"大众工具\"的跨越，而移动端就是那个临界点。\n\n## AI Agent大战，刚开场就已经白热\n\nTibo为什么要搞\"疯狂28天\"？每天一个更新，节奏快得让人喘不过气。\n\n因为不快点不行。\n\nAI Agent这条赛道，现在的竞争烈度比很多人想象的要高得多。OpenAI虽然起步早，但对手们个个都不是吃素的。\n\n就在几天前，谷歌在Gemin...",
+      "highlights": [
+        "这才是最值得关注的：AI Agent可能正在经历从\"极客玩具\"到\"大众工具\"的跨越，而移动端就是那个临界点",
+        "## AI Agent大战，刚开场就已经白热",
+        "Tibo为什么要搞\"疯狂28天\""
+      ],
+      "url": "https://m.36kr.com/p/4019410492346244",
+      "source": "m.36kr.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-11-01T02:36:13Z"
+    },
+    {
+      "id": "86d3ce521723",
+      "title": "【数智周报】张一鸣以6700亿元登顶中国首富，刷新中国首富财富纪录；阿里巴巴与Apple达成合作，将千问集成至Apple智能；Anthropic提交IPO注册文件，拟以“ANT”为代码在纳斯达克上市_搜狐网",
+      "summary": "谷歌DeepMind推出最新世界模型Genie 4，并宣称是其迄今最逼真、交互能力最强的世界模型。与主要根据提示词生成视频片段的传统视频生成模型不同，Genie 4能够根据文本指令构建可探索的虚拟环境，并在用户持续输入指令时实时调整场景。谷歌表示，其最长可以维持两分钟连贯不变的场景，时长约为上一代Genie 3的两倍。该模型还能生成和虚拟世界同步的实时音频，涵盖音乐、环境音以及可交互对话。\n\n融资...",
+      "highlights": [
+        "谷歌DeepMind推出最新世界模型Genie 4，并宣称是其迄今最逼真、交互能力最强的世界模型",
+        "与主要根据提示词生成视频片段的传统视频生成模型不同，Genie 4能够根据文本指令构建可探索的虚拟环境，并在用户持续输入指令时实时调整场景",
+        "谷歌表示，其最长可以维持两分钟连贯不变的场景，时长约为上一代Genie 3的两倍"
+      ],
+      "url": "https://m.sohu.com/a/1095655678_116132?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-01T11:32:27Z"
+    },
+    {
+      "id": "db2fd694d269",
+      "title": "一级市场，不愿聊物理AI了-虎嗅网",
+      "summary": "据《科创板日报》记者不完全统计，2025年7月至2026年6月，国内一级市场具身智能领域累计发生503起融资，总金额超过960亿元，不包含IPO与并购。平均下来，每天都有超过一起融资事件发生。\n\n大量资金涌入，头部企业的融资规模与估值不断攀升。对于投资机构而言，能否及时进入这一方向、拿到优质项目份额，成为竞争的焦点。在这个被认为可能诞生新一代科技巨头的领域，错过头部项目，意味着可能失去未来数年的投...",
+      "highlights": [
+        "据《科创板日报》记者不完全统计，2025年7月至2026年6月，国内一级市场具身智能领域累计发生503起融资，总金额超过960亿元，不包含IPO与并购",
+        "平均下来，每天都有超过一起融资事件发生",
+        "大量资金涌入，头部企业的融资规模与估值不断攀升"
+      ],
+      "url": "https://www.huxiu.com/article/4902064.html",
+      "source": "huxiu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-01T06:18:59Z"
+    },
+    {
+      "id": "6c8124bb7413",
+      "title": "Anthropic冲刺IPO：一场与OpenAI的估值、营收和算力竞赛",
+      "summary": "据媒体10月30日援引知情人士报道，OpenAI将新一轮融资目标从约300亿美元下调至约200亿美元，目标估值约为1.25万亿美元，低于此前向投资者提出的1.4万亿美元。\n\n报道指出，部分投资者对较高估值表现出抵触，相关融资需求也不及以往旺盛。随着市场对AI基础设施投资可持续性的担忧升温，一些投资者希望先观察Anthropic的IPO定价，再决定是否投资OpenAI。\n\nAnthropic的潜在I...",
+      "highlights": [
+        "据媒体10月30日援引知情人士报道，OpenAI将新一轮融资目标从约300亿美元下调至约200亿美元，目标估值约为1.25万亿美元，低于此前向投资者提出的1.4万亿美元",
+        "报道指出，部分投资者对较高估值表现出抵触，相关融资需求也不及以往旺盛",
+        "随着市场对AI基础设施投资可持续性的担忧升温，一些投资者希望先观察Anthropic的IPO定价，再决定是否投资OpenAI"
+      ],
+      "url": "https://www.chinastarmarket.cn/detail/2521127",
+      "source": "chinastarmarket.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-10-31T12:00:00Z"
+    },
+    {
+      "id": "c5518d51fbb3",
+      "title": "Want to invest in Anthropic before its IPO? These 5 funds offer exposure to the AI giant. - Business Insider",
+      "summary": "AI giant Anthropic is set to go public in mid-November, but there are ways for eager investors to get exposure ahead of the IPO. Not all of the funds listed below are ETFs, which are highly liquid sin...",
+      "highlights": [
+        "AI giant Anthropic is set to go public in mid-November, but there are ways for eager investors to get exposure ahead of the IPO. Not all of the funds listed below are ETFs, which are highly liquid since they trade like stocks. Also, some of the funds, like Corgi's MANGOS ETF, use complex derivative such as perpetual futures and swaps to simulate exposure to a private company. Anthropic is expected to IPO at around a $1.5 trillion to $2 trillion market cap, which would make it one of the top 10 largest most valuable companies in the world. With all that in mind, let's take a look at some of the funds offering exposure to Anthropic before it hits the public market. Comments: \"Invests in companies addressing a critical AI bottleneck of moving data faster—and had the most pre-IPO exposure to Anthropic by portfolio weight of any U.S.-listed ETF as of Sept."
+      ],
+      "url": "https://www.businessinsider.com/how-to-invest-in-anthropic-before-its-ipo-funds-etfs-2026-10",
+      "source": "businessinsider.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-30T16:32:10Z"
+    },
+    {
+      "id": "b119c6eeb05f",
+      "title": "Google’s satellite AI server transmits its first response to Earth - The Verge",
+      "summary": "# Google’s satellite AI server transmits its first response to Earth. The Project Suncatcher satellite generated a haiku about being in space. Google’s AI chip-equipped satellite has generated its fir...",
+      "highlights": [
+        "# Google’s satellite AI server transmits its first response to Earth. The Project Suncatcher satellite generated a haiku about being in space. Google’s AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite’s Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:. The test is part of Google’s Project Suncatcher, an experimental initiative that could eventually put AI data centers in space. Google launched the satellite into orbit earlier this month. “Next, we will continue with a series of tests to evaluate how TPUs perform under thermal stress and radiation exposure in orbit,” Google says. “Verifying our TPUs can reliably execute workloads in space paves the way for our next milestone of twin interconnected satellites in 2027.”. * Sam Altman says it’s better for RAM to be in a data center than on your desk."
+      ],
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "source": "theverge.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-10-30T18:21:38Z"
+    },
+    {
+      "id": "efc5cc7ac5b9",
+      "title": "XHEART发布大模型芯片 升级智驾体验-名城苏州新闻中心",
+      "summary": "XHEART发布大模型芯片 升级智驾体验\n\n时间：2026-10-31 09:40:42 来源：苏州新闻\n\nXHEART发布大模型芯片 搭配Momenta模型升级智驾体验\n\n　　随着智能驾驶从多个小模型走向端到端大模型，芯片的设计方式也需要随之改变。10月29日，新芯航途品牌发布会举行。\n\n　　新芯航途发布的大模型芯片X7 Ultra，拥有专为大模型设计的超大核NPU、AI工具链重构、软硬兼备的安...",
+      "highlights": [
+        "XHEART发布大模型芯片 升级智驾体验",
+        "时间：2026-10-31 09:40:42 来源：苏州新闻",
+        "XHEART发布大模型芯片 搭配Momenta模型升级智驾体验"
+      ],
+      "url": "https://news.2500sz.com/doc/2026/10/31/1236352.shtml",
+      "source": "news.2500sz.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-10-31T01:00:00Z"
+    },
+    {
+      "id": "dec9e7e842d6",
+      "title": "机器人，可以理解世界吗",
+      "summary": "具身智能，就是把AI赋能到物理实体上，让AI能够和真实的物理世界进行交互。认知科学早就提出“具身认知”这一概念。人类的智慧并非单独存在于大脑，我们对轻重、软硬、平衡的理解，全部来自身体几十年的体验。婴儿通过抓东西、摔倒、触摸冷热建立对世界的常识认知。过去的传统AI跳过了这个过程，而具身智能要做的是，复刻这套“在实践里学习常识”的路径。\n\n许多人会将具身智能和机器人、人形机器人混为一谈。相当一部分具...",
+      "highlights": [
+        "具身智能，就是把AI赋能到物理实体上，让AI能够和真实的物理世界进行交互",
+        "认知科学早就提出“具身认知”这一概念",
+        "人类的智慧并非单独存在于大脑，我们对轻重、软硬、平衡的理解，全部来自身体几十年的体验"
+      ],
+      "url": "https://m.voc.com.cn/xhn/news/202610/34131988.html",
+      "source": "m.voc.com.cn",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-10-31T06:46:15Z"
+    },
+    {
+      "id": "46ead9e1f9cb",
+      "title": "Replit 发布 Agent Habitat 架构白皮书：为自主 AI 智能体打造安全运行栖息地_搜狐网",
+      "summary": "核心设计思想：Agent 运行过程中权限只能收缩，不能扩大；凭证永远对智能体不可见；所有网络访问必经策略校验；不可逆高危操作必须经过人工审批。成熟度等级 1 抵御意外故障，等级 2 防御提示注入攻击，等级 3 应对智能体主动尝试逃逸的极端场景。\n\n架构核心组件：划分信任边界，Broker 作为唯一对外出口\n\n整套架构将系统划分为可信、半可信、不可信三大区域，定义六大核心组件，杜绝 Agent 直接...",
+      "highlights": [
+        "核心设计思想：Agent 运行过程中权限只能收缩，不能扩大；凭证永远对智能体不可见；所有网络访问必经策略校验；不可逆高危操作必须经过人工审批",
+        "成熟度等级 1 抵御意外故障，等级 2 防御提示注入攻击，等级 3 应对智能体主动尝试逃逸的极端场景",
+        "架构核心组件：划分信任边界，Broker 作为唯一对外出口"
+      ],
+      "url": "https://m.sohu.com/a/1094889381_100106801?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-30T13:48:34Z"
+    },
+    {
+      "id": "577a5dd1d141",
+      "title": "智驾公司开始做机器人，智驾技术真的能撑起具身智能吗？-电子工程专辑",
+      "summary": "机器人硬件之间还存在明显差异。\n\n不同厂商的机械臂长度、关节布局、灵巧手结构和自由度并不一致，同一个动作在不同机器人上的执行方式可能完全不同。\n\n即使采集到大量操作数据，也需要解决不同本体之间的数据适配问题。\n\nMERICS在2026年4月发布的具身智能研究报告中指出，具身智能训练需要多模态数据支持，而机器人在真实物理环境中采集操作数据的成本较高；不同机器人平台在硬件和软件接口上的差异，也增加了数...",
+      "highlights": [
+        "机器人硬件之间还存在明显差异",
+        "不同厂商的机械臂长度、关节布局、灵巧手结构和自由度并不一致，同一个动作在不同机器人上的执行方式可能完全不同",
+        "即使采集到大量操作数据，也需要解决不同本体之间的数据适配问题"
+      ],
+      "url": "https://www.eet-china.com/mp/a535974.html",
+      "source": "eet-china.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-11-01T00:00:00Z"
+    },
+    {
+      "id": "1865cbc617e9",
+      "title": "This week in tech m&a 2026",
+      "summary": "Google is making a fresh investment of more than $1 billion into AI startup Anthropic, the Financial Times reported on Wednesday.",
+      "highlights": [
+        "Google is making a fresh investment of more than $1 billion into AI startup Anthropic, the Financial Times reported on Wednesday."
+      ],
+      "url": "https://www.facebook.com/TechStratltd/posts/this-week-in-tech-ma-transactions-stood-out-across-vertical-ai-proprietary-data-/1537707995044694",
+      "source": "facebook.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-11-01T02:46:07Z"
+    },
+    {
+      "id": "ba1020cd3d59",
+      "title": "WorkBuddy“入职”六成中国百强企业 智能体下一关是“高效能”  ｜行业观察",
+      "summary": "大会期间，腾讯集团副总裁、政企业务总裁李强也谈到，各行各业数字化转型诉求各不相同，金融行业尤为特殊，它对系统安全、运行可靠、合规可控的要求，显著高于绝大多数行业。“也正因门槛极高，如果Agent能够在金融场景稳定跑通业务，就是对整套Agent安全可信能力最有力的验证。所以我们说，金融场景是Agent安全可靠的试金石。”\n\n从产品发布的时间线看，今年3月WorkBuddy正式推出，6月5日WorkB...",
+      "highlights": [
+        "大会期间，腾讯集团副总裁、政企业务总裁李强也谈到，各行各业数字化转型诉求各不相同，金融行业尤为特殊，它对系统安全、运行可靠、合规可控的要求，显著高于绝大多数行业",
+        "“也正因门槛极高，如果Agent能够在金融场景稳定跑通业务，就是对整套Agent安全可信能力最有力的验证",
+        "所以我们说，金融场景是Agent安全可靠的试金石"
+      ],
+      "url": "https://m.cls.cn/detail/2521500",
+      "source": "m.cls.cn",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-10-31T12:00:00Z"
+    },
+    {
+      "id": "24e6eed18343",
+      "title": "The Hidden Work (and Sweat) Powering AI Productivity - Newsweek",
+      "summary": "That’s what I’m looking forward to digging into next Wednesday, Nov. 4, during our next “AI Impact Forum” webinar, “What Enterprise AI Looks Like When It Works.” Firdaus Bhathena, executive vice presi...",
+      "highlights": [
+        "That’s what I’m looking forward to digging into next Wednesday, Nov. 4, during our next “AI Impact Forum” webinar, “What Enterprise AI Looks Like When It Works.” Firdaus Bhathena, executive vice president and chief technology and transformation officer at S&P Global, will join Dr. Ranjit Tinaikar for a conversation about what separates companies that are experimenting with AI from those turning it into sustained business improvements. Signal Capture Signals from the frontlines of AI adoption Atlassian: AI Can Save Time—and Create More Work AI is helping product teams ship faster while requiring them to spend some of the time saved checking agents, reprompting chats and cleaning up generated work. Upcoming Webinars What Enterprise AI Looks Like When It Works On November 4, Dr. Ranjit Tinaikar, host of Newsweek’s “AI Impact Forum,” will sit down with Firdaus Bhathena, executive vice president and chief technology and transformation officer at S&P Global, to discuss how large companies are turning advances in AI into business results, and why trusted, differentiated data is becoming increasingly important."
+      ],
+      "url": "https://www.newsweek.com/atlassian-ai-productivity-hidden-work-12641692",
+      "source": "newsweek.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-10-30T15:22:00Z"
+    },
+    {
+      "id": "846eb1566471",
+      "title": "通常有两条腿和两只手的机器人。 为什么要做成人形 ...",
+      "summary": "具身智能则要通过摄像头、触觉传感器等感知真实的环境,再通过手臂、轮子、腿去改变环境。工业机械臂、扫地机器人、自动驾驶汽车、四足机器狗",
+      "highlights": [
+        "具身智能则要通过摄像头、触觉传感器等感知真实的环境,再通过手臂、轮子、腿去改变环境",
+        "工业机械臂、扫地机器人、自动驾驶汽车、四足机器狗"
+      ],
+      "url": "https://x.com/jhdxhl/status/2114532489360511199",
+      "source": "x.com",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-10-31T11:18:14Z"
+    },
+    {
+      "id": "79541e31972c",
+      "title": "大模型从60分走到90分，下一代AI的突破在哪里？｜对话上交大陈明达_搜狐网",
+      "summary": "当时 AI 有几个主要方向，包括计算机视觉、自然语言处理、语音等。我比较感兴趣的是语言，因为它和日常生活联系得更紧密，也让我觉得更接近真正的智能。当时计算机视觉领域的很多任务还集中在图像分类等方面，而自然语言处理已经开始涉及更复杂的问题，所以最终选择了这个方向。\n\nDeepTech：最近 AI 在数学推理、定理证明等方面的进展很快，甚至可以说太快了。现在你会不会觉得，当年转向 AI 是一个有意思的...",
+      "highlights": [
+        "当时 AI 有几个主要方向，包括计算机视觉、自然语言处理、语音等",
+        "我比较感兴趣的是语言，因为它和日常生活联系得更紧密，也让我觉得更接近真正的智能",
+        "当时计算机视觉领域的很多任务还集中在图像分类等方面，而自然语言处理已经开始涉及更复杂的问题，所以最终选择了这个方向"
+      ],
+      "url": "https://m.sohu.com/a/1095366368_354973?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-10-31T13:31:04Z"
+    },
+    {
+      "id": "82bd8cc2cbbd",
+      "title": "AI 開始幫科學家想問題，科學就能全自動了嗎？ ...",
+      "summary": "「大語言模型（LLM）只是統計鸚鵡，不可能做高難度的基礎科學研究，更別說突破物理學計算極限了。」 這個觀點，剛剛被Anthropic 官方發布的最新研究成果徹底翻轉！",
+      "highlights": [
+        "「大語言模型（LLM）只是統計鸚鵡，不可能做高難度的基礎科學研究，更別說突破物理學計算極限了",
+        "」 這個觀點，剛剛被Anthropic 官方發布的最新研究成果徹底翻轉"
+      ],
+      "url": "https://www.instagram.com/p/De8KOoZiRyR",
+      "source": "instagram.com",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-10-31T16:22:41Z"
+    },
+    {
+      "id": "3f0a36f0e5c9",
+      "title": "大晓机器人联合南洋理工大学发布最新成果：Mundo，构建可自由探索、可物理交互的机器人世界模型",
+      "summary": "少量图像构建专属世界模型，支持跨空间长路径生成.",
+      "highlights": [
+        "少量图像构建专属世界模型，支持跨空间长路径生成."
+      ],
+      "url": "https://m.leiphone.com/category/ai/igR5pXOXkOQ6eaO3.html",
+      "source": "m.leiphone.com",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-10-30T20:00:00Z"
+    },
+    {
+      "id": "9f870e86e95b",
+      "title": "硬氪首发丨红杉、高瓴、智元投过的全身触觉解决方案公司再获亿元级融资，团队来自港科大",
+      "summary": "投资模感科技的鼎晖百孚项目组「投资副总裁凌嘉鸿、私人投资部投资经理王博磊、分析师彭晨」：我们认为电子皮肤等全身多模态触觉感知解决方案在具身智能产业链上具有较",
+      "highlights": [
+        "投资模感科技的鼎晖百孚项目组「投资副总裁凌嘉鸿、私人投资部投资经理王博磊、分析师彭晨」：我们认为电子皮肤等全身多模态触觉感知解决方案在具身智能产业链上具有较"
+      ],
+      "url": "https://m.sohu.com/a/1095019554_122135211?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-10-31T02:00:00Z"
+    },
+    {
+      "id": "0e587d26b7bb",
+      "title": "攻克千禧年难题之后：斯坦福推出After42，让AI学会提出“值得研究”的问题-36氪",
+      "summary": "在道格拉斯·亚当斯的科幻小说《银河系漫游指南》中，超级计算机“深思”耗费 750万年，终于算出了“生命、宇宙以及一切的终极答案”：42。这是人类对机器解答能力的一种浪漫想象。\n\n近期，前沿 AI 开始在一些定义明确、长期未解决的开放问题上取得突破。在数学领域，有研究报告称解决了纳维尔斯托克斯千禧年难题和准黎曼猜想；在计算机科学领域，有研究反驳了指数时间假设；在物理学领域，则有研究给出了量子色动力学...",
+      "highlights": [
+        "在道格拉斯·亚当斯的科幻小说《银河系漫游指南》中，超级计算机“深思”耗费 750万年，终于算出了“生命、宇宙以及一切的终极答案”：42",
+        "这是人类对机器解答能力的一种浪漫想象",
+        "近期，前沿 AI 开始在一些定义明确、长期未解决的开放问题上取得突破"
+      ],
+      "url": "https://m.36kr.com/p/4046713681990529",
+      "source": "m.36kr.com",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-11-01T02:45:56Z"
+    },
+    {
+      "id": "e534bf94eb75",
+      "title": "AI Is Destroying Academic Publishing - The Atlantic",
+      "summary": "# AI Is Destroying Academic Publishing. As a journal editor, I can say: The currency of academic social capital is collapsing. Weak scholarship was once easy to spot at a glance: The signs included ba...",
+      "highlights": [
+        "# AI Is Destroying Academic Publishing. As a journal editor, I can say: The currency of academic social capital is collapsing. Weak scholarship was once easy to spot at a glance: The signs included bad writing, a lack of relevant citations, and little engagement with previous scholarship, such as a paper that promised a “novel” conceptual framework without acknowledging the many other papers making similar claims. As an associate editor of a bioethics journal, I’d make a quick “desk reject” decision and not send these articles for peer review, which effectively killed any hope of publication. Now I can say: AI is affecting every part of academic publishing. There are sentences that have all of the trappings of real arguments, but that rarely make sense—such as “Algorithmic triage functions less as a clinical tool than as an infrastructure of deferred accountability.” There are citations that refer only to open-access or highly cited articles, because the most popular LLMs can’t readily access paywalled journal articles, so they rely on what’s either free or described at length elsewhere."
+      ],
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-journal-articles-writing/689186/",
+      "source": "theatlantic.com",
+      "category": "前沿理论",
+      "importance": 2,
+      "publishedAt": "2026-10-30T16:49:39Z"
+    },
+    {
+      "id": "ef9ad9e3975a",
+      "title": "Travel Tech Funding Hits $2.2B in 9 Months [2026]",
+      "summary": "## The AI Paradox: Two-Thirds of Series B Money Went to AI Startups\n\nHere is the part that complicates the “AI will revive travel tech” story. According to related funding coverage, about two-thirds o...",
+      "highlights": [
+        "## The AI Paradox: Two-Thirds of Series B Money Went to AI Startups",
+        "Here is the part that complicates the “AI will revive travel tech” story. According to related funding coverage, about two-thirds of Series B funding in 2026 had gone to AI-focused startups. In 2025, about half of investment went to companies in AI categories. The AI share is rising while the overall pool shrinks. [...] Put the two funding stories side by side and the contrast is stark. Foundational AI startups raised, in a single quarter, double the whole of 2025 for that category, according to Crunchbase News. Travel tech raised $2.2 billion over three quarters, down from $3.7 billion a year earlier. One sector is accelerating on huge checks while the other is contracting on small ones. [...] The AI share of Series B keeps climbing. With about two-thirds already going to AI-focused startups, non-AI travel companies will struggle to close growth rounds without a clear AI case.",
+        "Strategic investors fill more of the gap. Booking Holdings’ planned $100 million Vayo investment is the template. Expect more incumbents to write checks or buy startups outright."
+      ],
+      "url": "https://tech-insider.org/travel-tech-funding-2-2b-302-rounds-multiyear-low-ai-2026",
+      "source": "tech-insider.org",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-10-30T15:38:06Z"
+    },
+    {
+      "id": "463e0c9c189a",
+      "title": "10 AI startups to watch from the 2026 AI 100 list of emerging companies",
+      "summary": "The AI 100's observability and evaluation startups have raised $278 million together over the past three years. The report frames the sum as early capital for the operating rulebook that lets autonomo...",
+      "highlights": [
+        "The AI 100's observability and evaluation startups have raised $278 million together over the past three years. The report frames the sum as early capital for the operating rulebook that lets autonomous systems join enterprise workflows. It also aligns the category with Know Your Agent software, known by the initials KYA. [...] Investors are putting money behind this layer. Winners building observability and evaluation tools have raised $278 million combined over the last three years. The list's authors treat the sum as early capital for an operational rulebook that lets autonomous systems take part in corporate operations. They tie the effort to Know Your Agent, or KYA, software, which rests on the view that agents form a new class of actor needing identity, credentials, and accountability of their own. Straiker's [...] Oak Ridge National Laboratory signed a memorandum of understanding with Atomic Canyon to bring AI into reviews of license applications, aiming to make nuclear power plant licensing more efficient. The parties sealed the pact at the Nuclear Opportunities Workshop, held at the Knoxville Convention Center. Under its terms, the partners intend to pair high-fidelity simulations, run on high-performance computers to test whether designs are safe, with AI that automates portions of the review process."
+      ],
+      "url": "https://qz.com/most-promising-ai-startups-cb-insights-ai-2026",
+      "source": "qz.com",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-10-30T15:48:43Z"
+    },
+    {
+      "id": "06ea59a33ab9",
+      "title": "Instagram",
+      "summary": "Harvey announced its acquisition of Aida on October 29, 2026. Aida’s search and machine-learning team will join Harvey’s product and engineering organization.  \n  \nHarvey says the deal will support it...",
+      "highlights": [
+        "Harvey announced its acquisition of Aida on October 29, 2026. Aida’s search and machine-learning team will join Harvey’s product and engineering organization.",
+        "Harvey says the deal will support its work on firm-specific ontologies: structured ways to connect internal knowledge so AI agents can draw on more relevant context. The company is targeting information held across a firm’s documents and systems. [...] Log In",
+        "4thpark's profile picture"
+      ],
+      "url": "https://www.instagram.com/p/DfIalRFDAHw",
+      "source": "instagram.com",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-10-31T20:43:19Z"
+    },
+    {
+      "id": "045749e06d7e",
+      "title": "Instagram",
+      "summary": "Apple has acquihired Ascend.io, a Silicon Valley startup specializing in AI-powered data engineering. The transaction was completed on June 30, 2026, and disclosed through a European Commission filing...",
+      "highlights": [
+        "Apple has acquihired Ascend.io, a Silicon Valley startup specializing in AI-powered data engineering. The transaction was completed on June 30, 2026, and disclosed through a European Commission filing published on October 30. Financial terms were not disclosed. [...] Ascend.io previously worked with enterprise customers including News Corp, HarperCollins and Mattel. Following the transaction, the startup announced that it would wind down its operations after approximately 10 years in business.",
+        "Source: AppleInsider",
+        "Follow @distributionshow for more!"
+      ],
+      "url": "https://www.instagram.com/p/DfK5qrqsaDK",
+      "source": "instagram.com",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-11-01T02:46:07Z"
+    }
+  ],
+  "today": [
+    {
+      "id": "6ffcab5e4d81",
+      "title": "上线5天杀进手机，OpenAI dots移动端来了，AI Agent从桌面走进口袋-36氪",
+      "summary": "这才是最值得关注的：AI Agent可能正在经历从\"极客玩具\"到\"大众工具\"的跨越，而移动端就是那个临界点。\n\n## AI Agent大战，刚开场就已经白热\n\nTibo为什么要搞\"疯狂28天\"？每天一个更新，节奏快得让人喘不过气。\n\n因为不快点不行。\n\nAI Agent这条赛道，现在的竞争烈度比很多人想象的要高得多。OpenAI虽然起步早，但对手们个个都不是吃素的。\n\n就在几天前，谷歌在Gemin...",
+      "highlights": [
+        "这才是最值得关注的：AI Agent可能正在经历从\"极客玩具\"到\"大众工具\"的跨越，而移动端就是那个临界点",
+        "## AI Agent大战，刚开场就已经白热",
+        "Tibo为什么要搞\"疯狂28天\""
+      ],
+      "url": "https://m.36kr.com/p/4019410492346244",
+      "source": "m.36kr.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-11-01T02:36:13Z"
+    },
+    {
+      "id": "86d3ce521723",
+      "title": "【数智周报】张一鸣以6700亿元登顶中国首富，刷新中国首富财富纪录；阿里巴巴与Apple达成合作，将千问集成至Apple智能；Anthropic提交IPO注册文件，拟以“ANT”为代码在纳斯达克上市_搜狐网",
+      "summary": "谷歌DeepMind推出最新世界模型Genie 4，并宣称是其迄今最逼真、交互能力最强的世界模型。与主要根据提示词生成视频片段的传统视频生成模型不同，Genie 4能够根据文本指令构建可探索的虚拟环境，并在用户持续输入指令时实时调整场景。谷歌表示，其最长可以维持两分钟连贯不变的场景，时长约为上一代Genie 3的两倍。该模型还能生成和虚拟世界同步的实时音频，涵盖音乐、环境音以及可交互对话。\n\n融资...",
+      "highlights": [
+        "谷歌DeepMind推出最新世界模型Genie 4，并宣称是其迄今最逼真、交互能力最强的世界模型",
+        "与主要根据提示词生成视频片段的传统视频生成模型不同，Genie 4能够根据文本指令构建可探索的虚拟环境，并在用户持续输入指令时实时调整场景",
+        "谷歌表示，其最长可以维持两分钟连贯不变的场景，时长约为上一代Genie 3的两倍"
+      ],
+      "url": "https://m.sohu.com/a/1095655678_116132?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-01T11:32:27Z"
+    },
+    {
+      "id": "db2fd694d269",
+      "title": "一级市场，不愿聊物理AI了-虎嗅网",
+      "summary": "据《科创板日报》记者不完全统计，2025年7月至2026年6月，国内一级市场具身智能领域累计发生503起融资，总金额超过960亿元，不包含IPO与并购。平均下来，每天都有超过一起融资事件发生。\n\n大量资金涌入，头部企业的融资规模与估值不断攀升。对于投资机构而言，能否及时进入这一方向、拿到优质项目份额，成为竞争的焦点。在这个被认为可能诞生新一代科技巨头的领域，错过头部项目，意味着可能失去未来数年的投...",
+      "highlights": [
+        "据《科创板日报》记者不完全统计，2025年7月至2026年6月，国内一级市场具身智能领域累计发生503起融资，总金额超过960亿元，不包含IPO与并购",
+        "平均下来，每天都有超过一起融资事件发生",
+        "大量资金涌入，头部企业的融资规模与估值不断攀升"
+      ],
+      "url": "https://www.huxiu.com/article/4902064.html",
+      "source": "huxiu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-01T06:18:59Z"
+    },
+    {
+      "id": "577a5dd1d141",
+      "title": "智驾公司开始做机器人，智驾技术真的能撑起具身智能吗？-电子工程专辑",
+      "summary": "机器人硬件之间还存在明显差异。\n\n不同厂商的机械臂长度、关节布局、灵巧手结构和自由度并不一致，同一个动作在不同机器人上的执行方式可能完全不同。\n\n即使采集到大量操作数据，也需要解决不同本体之间的数据适配问题。\n\nMERICS在2026年4月发布的具身智能研究报告中指出，具身智能训练需要多模态数据支持，而机器人在真实物理环境中采集操作数据的成本较高；不同机器人平台在硬件和软件接口上的差异，也增加了数...",
+      "highlights": [
+        "机器人硬件之间还存在明显差异",
+        "不同厂商的机械臂长度、关节布局、灵巧手结构和自由度并不一致，同一个动作在不同机器人上的执行方式可能完全不同",
+        "即使采集到大量操作数据，也需要解决不同本体之间的数据适配问题"
+      ],
+      "url": "https://www.eet-china.com/mp/a535974.html",
+      "source": "eet-china.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-11-01T00:00:00Z"
+    },
+    {
+      "id": "1865cbc617e9",
+      "title": "This week in tech m&a 2026",
+      "summary": "Google is making a fresh investment of more than $1 billion into AI startup Anthropic, the Financial Times reported on Wednesday.",
+      "highlights": [
+        "Google is making a fresh investment of more than $1 billion into AI startup Anthropic, the Financial Times reported on Wednesday."
+      ],
+      "url": "https://www.facebook.com/TechStratltd/posts/this-week-in-tech-ma-transactions-stood-out-across-vertical-ai-proprietary-data-/1537707995044694",
+      "source": "facebook.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-11-01T02:46:07Z"
+    },
+    {
+      "id": "0e587d26b7bb",
+      "title": "攻克千禧年难题之后：斯坦福推出After42，让AI学会提出“值得研究”的问题-36氪",
+      "summary": "在道格拉斯·亚当斯的科幻小说《银河系漫游指南》中，超级计算机“深思”耗费 750万年，终于算出了“生命、宇宙以及一切的终极答案”：42。这是人类对机器解答能力的一种浪漫想象。\n\n近期，前沿 AI 开始在一些定义明确、长期未解决的开放问题上取得突破。在数学领域，有研究报告称解决了纳维尔斯托克斯千禧年难题和准黎曼猜想；在计算机科学领域，有研究反驳了指数时间假设；在物理学领域，则有研究给出了量子色动力学...",
+      "highlights": [
+        "在道格拉斯·亚当斯的科幻小说《银河系漫游指南》中，超级计算机“深思”耗费 750万年，终于算出了“生命、宇宙以及一切的终极答案”：42",
+        "这是人类对机器解答能力的一种浪漫想象",
+        "近期，前沿 AI 开始在一些定义明确、长期未解决的开放问题上取得突破"
+      ],
+      "url": "https://m.36kr.com/p/4046713681990529",
+      "source": "m.36kr.com",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-11-01T02:45:56Z"
+    },
+    {
+      "id": "045749e06d7e",
+      "title": "Instagram",
+      "summary": "Apple has acquihired Ascend.io, a Silicon Valley startup specializing in AI-powered data engineering. The transaction was completed on June 30, 2026, and disclosed through a European Commission filing...",
+      "highlights": [
+        "Apple has acquihired Ascend.io, a Silicon Valley startup specializing in AI-powered data engineering. The transaction was completed on June 30, 2026, and disclosed through a European Commission filing published on October 30. Financial terms were not disclosed. [...] Ascend.io previously worked with enterprise customers including News Corp, HarperCollins and Mattel. Following the transaction, the startup announced that it would wind down its operations after approximately 10 years in business.",
+        "Source: AppleInsider",
+        "Follow @distributionshow for more!"
+      ],
+      "url": "https://www.instagram.com/p/DfK5qrqsaDK",
+      "source": "instagram.com",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-11-01T02:46:07Z"
+    },
+    {
+      "id": "74d6287a930e",
+      "title": "Instagram",
+      "summary": "Salesforce just bought a startup that's barely two years old.  \n  \n• Salesforce signed a deal to acquire Rune Technologies, a Washington, D.C. defense-tech startup, reportedly for $375 million in cash...",
+      "highlights": [
+        "Salesforce just bought a startup that's barely two years old.",
+        "• Salesforce signed a deal to acquire Rune Technologies, a Washington, D.C. defense-tech startup, reportedly for $375 million in cash and stock.",
+        "• Rune was founded in 2024 by Anduril alums David Tuttle and Peter Goldsborough and raised about $30 million from backers like Andreessen Horowitz and Point72. [...] ## No comments yet."
+      ],
+      "url": "https://www.instagram.com/p/DfJHPKOkYlz",
+      "source": "instagram.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-11-01T12:07:21Z"
+    }
+  ],
+  "week": [
     {
       "id": "de23babff444",
       "title": "网络安全AI商业化加速！谷歌明码标价兜售最新模型 - 安全内参 | 决策者的网络安全知识库",
@@ -146,378 +696,6 @@
       "publishedAt": "2026-11-01T02:36:13Z"
     },
     {
-      "id": "fd116c54043f",
-      "title": "闪电快讯 | 腾讯发布智能座舱TAI智能体：接入元宝、小微等C端Agent服务入口|界面新闻 · JMedia",
-      "summary": "AI生产力平台连接数据、知识、工具与治理，提供信息可见、能力可调用、协同可自动化、智能可进化四方面支撑。其中，WorkBuddy、CodeBuddy等产品面向员工提效，企业Agent平台面向长期运行、多人协作的业务流程，两者相互配合，将个人验证有效的方法沉淀为技能和专家能力，在组织内复用。\n\n在工具之外，腾讯通过FDE与业务共创模式，让技术人员、业务顾问与车企业务团队共同选择高价值场景，明确人机协...",
-      "highlights": [
-        "AI生产力平台连接数据、知识、工具与治理，提供信息可见、能力可调用、协同可自动化、智能可进化四方面支撑",
-        "其中，WorkBuddy、CodeBuddy等产品面向员工提效，企业Agent平台面向长期运行、多人协作的业务流程，两者相互配合，将个人验证有效的方法沉淀为技能和专家能力，在组织内复用",
-        "在工具之外，腾讯通过FDE与业务共创模式，让技术人员、业务顾问与车企业务团队共同选择高价值场景，明确人机协同边界、风险控制与评价指标"
-      ],
-      "url": "https://www.jiemian.com/article/15271016.html",
-      "source": "jiemian.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-30T03:00:00Z"
-    },
-    {
-      "id": "c5518d51fbb3",
-      "title": "Want to invest in Anthropic before its IPO? These 5 funds offer exposure to the AI giant. - Business Insider",
-      "summary": "AI giant Anthropic is set to go public in mid-November, but there are ways for eager investors to get exposure ahead of the IPO. Not all of the funds listed below are ETFs, which are highly liquid sin...",
-      "highlights": [
-        "AI giant Anthropic is set to go public in mid-November, but there are ways for eager investors to get exposure ahead of the IPO. Not all of the funds listed below are ETFs, which are highly liquid since they trade like stocks. Also, some of the funds, like Corgi's MANGOS ETF, use complex derivative such as perpetual futures and swaps to simulate exposure to a private company. Anthropic is expected to IPO at around a $1.5 trillion to $2 trillion market cap, which would make it one of the top 10 largest most valuable companies in the world. With all that in mind, let's take a look at some of the funds offering exposure to Anthropic before it hits the public market. Comments: \"Invests in companies addressing a critical AI bottleneck of moving data faster—and had the most pre-IPO exposure to Anthropic by portfolio weight of any U.S.-listed ETF as of Sept."
-      ],
-      "url": "https://www.businessinsider.com/how-to-invest-in-anthropic-before-its-ipo-funds-etfs-2026-10",
-      "source": "businessinsider.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-30T16:32:10Z"
-    },
-    {
-      "id": "8a0d7487dfa0",
-      "title": "Sector Snapshot: Travel Tech Funding Heads Toward Multiyear Low Despite AI Push",
-      "summary": "## Exits\n\nSeveral travel startups have found buyers in 2026, including companies developing AI tools for planning and booking trips. Amadeus acquired corporate travel AI assistant SkyLink in February,...",
-      "highlights": [
-        "Several travel startups have found buyers in 2026, including companies developing AI tools for planning and booking trips. Amadeus acquired corporate travel AI assistant SkyLink in February, while Expedia acquired AI trip-planning startup Layla in July. Both deals illustrate a trend of established travel companies buying startups to expand their AI capabilities. [...] The numbers: In the first three quarters of 2026, startups in the travel tech space have raised $2.2 billion globally across just 302 funding rounds, Crunchbase data shows. That’s down fairly significantly so far from the $3.7 billion raised in 2025. Deal volume is on track to fall for a third consecutive year — pointing to a market where investors are putting more money into fewer companies. [...] October 28, 2026",
-        "Revenue growth does not guarantee a larger exit, as declining valuation multiples can outweigh operating gains and reduce enterprise value. Guest...",
-        "#### Featured"
-      ],
-      "url": "https://news.crunchbase.com/travel-tourism/travel-tech-startup-venture-funding-low-ai",
-      "source": "news.crunchbase.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-10-30T11:00:49Z"
-    },
-    {
-      "id": "8948419e9ecc",
-      "title": "闪电快讯 | 腾讯发布智能座舱TAI智能体：接入元宝、小微等C端Agent服务入口_车企_支持_场景",
-      "summary": "AI生产力平台连接数据、知识、工具与治理，提供信息可见、能力可调用、协同可自动化、智能可进化四方面支撑。其中，WorkBuddy、CodeBuddy等产品面向员工提效，企业Agent平台面向长期运行、多人协作的业务流程，两者相互配合，将个人验证有效的方法沉淀为技能和专家能力，在组织内复用。\n\n在工具之外，腾讯通过FDE与业务共创模式，让技术人员、业务顾问与车企业务团队共同选择高价值场景，明确人机协...",
-      "highlights": [
-        "AI生产力平台连接数据、知识、工具与治理，提供信息可见、能力可调用、协同可自动化、智能可进化四方面支撑",
-        "其中，WorkBuddy、CodeBuddy等产品面向员工提效，企业Agent平台面向长期运行、多人协作的业务流程，两者相互配合，将个人验证有效的方法沉淀为技能和专家能力，在组织内复用",
-        "在工具之外，腾讯通过FDE与业务共创模式，让技术人员、业务顾问与车企业务团队共同选择高价值场景，明确人机协同边界、风险控制与评价指标"
-      ],
-      "url": "https://www.sohu.com/a/1094815623_313745",
-      "source": "sohu.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-30T11:12:00Z"
-    },
-    {
-      "id": "b119c6eeb05f",
-      "title": "Google’s satellite AI server transmits its first response to Earth - The Verge",
-      "summary": "# Google’s satellite AI server transmits its first response to Earth. The Project Suncatcher satellite generated a haiku about being in space. Google’s AI chip-equipped satellite has generated its fir...",
-      "highlights": [
-        "# Google’s satellite AI server transmits its first response to Earth. The Project Suncatcher satellite generated a haiku about being in space. Google’s AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite’s Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space:. The test is part of Google’s Project Suncatcher, an experimental initiative that could eventually put AI data centers in space. Google launched the satellite into orbit earlier this month. “Next, we will continue with a series of tests to evaluate how TPUs perform under thermal stress and radiation exposure in orbit,” Google says. “Verifying our TPUs can reliably execute workloads in space paves the way for our next milestone of twin interconnected satellites in 2027.”. * Sam Altman says it’s better for RAM to be in a data center than on your desk."
-      ],
-      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "source": "theverge.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-10-30T18:21:38Z"
-    },
-    {
-      "id": "efc5cc7ac5b9",
-      "title": "XHEART发布大模型芯片 升级智驾体验-名城苏州新闻中心",
-      "summary": "XHEART发布大模型芯片 升级智驾体验\n\n时间：2026-10-31 09:40:42 来源：苏州新闻\n\nXHEART发布大模型芯片 搭配Momenta模型升级智驾体验\n\n　　随着智能驾驶从多个小模型走向端到端大模型，芯片的设计方式也需要随之改变。10月29日，新芯航途品牌发布会举行。\n\n　　新芯航途发布的大模型芯片X7 Ultra，拥有专为大模型设计的超大核NPU、AI工具链重构、软硬兼备的安...",
-      "highlights": [
-        "XHEART发布大模型芯片 升级智驾体验",
-        "时间：2026-10-31 09:40:42 来源：苏州新闻",
-        "XHEART发布大模型芯片 搭配Momenta模型升级智驾体验"
-      ],
-      "url": "https://news.2500sz.com/doc/2026/10/31/1236352.shtml",
-      "source": "news.2500sz.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-10-31T01:00:00Z"
-    },
-    {
-      "id": "dec9e7e842d6",
-      "title": "机器人，可以理解世界吗",
-      "summary": "具身智能，就是把AI赋能到物理实体上，让AI能够和真实的物理世界进行交互。认知科学早就提出“具身认知”这一概念。人类的智慧并非单独存在于大脑，我们对轻重、软硬、平衡的理解，全部来自身体几十年的体验。婴儿通过抓东西、摔倒、触摸冷热建立对世界的常识认知。过去的传统AI跳过了这个过程，而具身智能要做的是，复刻这套“在实践里学习常识”的路径。\n\n许多人会将具身智能和机器人、人形机器人混为一谈。相当一部分具...",
-      "highlights": [
-        "具身智能，就是把AI赋能到物理实体上，让AI能够和真实的物理世界进行交互",
-        "认知科学早就提出“具身认知”这一概念",
-        "人类的智慧并非单独存在于大脑，我们对轻重、软硬、平衡的理解，全部来自身体几十年的体验"
-      ],
-      "url": "https://m.voc.com.cn/xhn/news/202610/34131988.html",
-      "source": "m.voc.com.cn",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-10-31T06:46:15Z"
-    },
-    {
-      "id": "46ead9e1f9cb",
-      "title": "Replit 发布 Agent Habitat 架构白皮书：为自主 AI 智能体打造安全运行栖息地_搜狐网",
-      "summary": "核心设计思想：Agent 运行过程中权限只能收缩，不能扩大；凭证永远对智能体不可见；所有网络访问必经策略校验；不可逆高危操作必须经过人工审批。成熟度等级 1 抵御意外故障，等级 2 防御提示注入攻击，等级 3 应对智能体主动尝试逃逸的极端场景。\n\n架构核心组件：划分信任边界，Broker 作为唯一对外出口\n\n整套架构将系统划分为可信、半可信、不可信三大区域，定义六大核心组件，杜绝 Agent 直接...",
-      "highlights": [
-        "核心设计思想：Agent 运行过程中权限只能收缩，不能扩大；凭证永远对智能体不可见；所有网络访问必经策略校验；不可逆高危操作必须经过人工审批",
-        "成熟度等级 1 抵御意外故障，等级 2 防御提示注入攻击，等级 3 应对智能体主动尝试逃逸的极端场景",
-        "架构核心组件：划分信任边界，Broker 作为唯一对外出口"
-      ],
-      "url": "https://m.sohu.com/a/1094889381_100106801?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-10-30T13:48:34Z"
-    },
-    {
-      "id": "577a5dd1d141",
-      "title": "智驾公司开始做机器人，智驾技术真的能撑起具身智能吗？-电子工程专辑",
-      "summary": "机器人硬件之间还存在明显差异。\n\n不同厂商的机械臂长度、关节布局、灵巧手结构和自由度并不一致，同一个动作在不同机器人上的执行方式可能完全不同。\n\n即使采集到大量操作数据，也需要解决不同本体之间的数据适配问题。\n\nMERICS在2026年4月发布的具身智能研究报告中指出，具身智能训练需要多模态数据支持，而机器人在真实物理环境中采集操作数据的成本较高；不同机器人平台在硬件和软件接口上的差异，也增加了数...",
-      "highlights": [
-        "机器人硬件之间还存在明显差异",
-        "不同厂商的机械臂长度、关节布局、灵巧手结构和自由度并不一致，同一个动作在不同机器人上的执行方式可能完全不同",
-        "即使采集到大量操作数据，也需要解决不同本体之间的数据适配问题"
-      ],
-      "url": "https://www.eet-china.com/mp/a535974.html",
-      "source": "eet-china.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-11-01T00:00:00Z"
-    },
-    {
-      "id": "1865cbc617e9",
-      "title": "This week in tech m&a 2026",
-      "summary": "Google is making a fresh investment of more than $1 billion into AI startup Anthropic, the Financial Times reported on Wednesday.",
-      "highlights": [
-        "Google is making a fresh investment of more than $1 billion into AI startup Anthropic, the Financial Times reported on Wednesday."
-      ],
-      "url": "https://www.facebook.com/TechStratltd/posts/this-week-in-tech-ma-transactions-stood-out-across-vertical-ai-proprietary-data-/1537707995044694",
-      "source": "facebook.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-11-01T02:46:07Z"
-    },
-    {
-      "id": "24e6eed18343",
-      "title": "The Hidden Work (and Sweat) Powering AI Productivity - Newsweek",
-      "summary": "That’s what I’m looking forward to digging into next Wednesday, Nov. 4, during our next “AI Impact Forum” webinar, “What Enterprise AI Looks Like When It Works.” Firdaus Bhathena, executive vice presi...",
-      "highlights": [
-        "That’s what I’m looking forward to digging into next Wednesday, Nov. 4, during our next “AI Impact Forum” webinar, “What Enterprise AI Looks Like When It Works.” Firdaus Bhathena, executive vice president and chief technology and transformation officer at S&P Global, will join Dr. Ranjit Tinaikar for a conversation about what separates companies that are experimenting with AI from those turning it into sustained business improvements. Signal Capture Signals from the frontlines of AI adoption Atlassian: AI Can Save Time—and Create More Work AI is helping product teams ship faster while requiring them to spend some of the time saved checking agents, reprompting chats and cleaning up generated work. Upcoming Webinars What Enterprise AI Looks Like When It Works On November 4, Dr. Ranjit Tinaikar, host of Newsweek’s “AI Impact Forum,” will sit down with Firdaus Bhathena, executive vice president and chief technology and transformation officer at S&P Global, to discuss how large companies are turning advances in AI into business results, and why trusted, differentiated data is becoming increasingly important."
-      ],
-      "url": "https://www.newsweek.com/atlassian-ai-productivity-hidden-work-12641692",
-      "source": "newsweek.com",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-10-30T15:22:00Z"
-    },
-    {
-      "id": "846eb1566471",
-      "title": "通常有两条腿和两只手的机器人。 为什么要做成人形 ...",
-      "summary": "具身智能则要通过摄像头、触觉传感器等感知真实的环境,再通过手臂、轮子、腿去改变环境。工业机械臂、扫地机器人、自动驾驶汽车、四足机器狗",
-      "highlights": [
-        "具身智能则要通过摄像头、触觉传感器等感知真实的环境,再通过手臂、轮子、腿去改变环境",
-        "工业机械臂、扫地机器人、自动驾驶汽车、四足机器狗"
-      ],
-      "url": "https://x.com/jhdxhl/status/2114532489360511199",
-      "source": "x.com",
-      "category": "具身智能",
-      "importance": 3,
-      "publishedAt": "2026-10-31T11:18:14Z"
-    },
-    {
-      "id": "79541e31972c",
-      "title": "大模型从60分走到90分，下一代AI的突破在哪里？｜对话上交大陈明达_搜狐网",
-      "summary": "当时 AI 有几个主要方向，包括计算机视觉、自然语言处理、语音等。我比较感兴趣的是语言，因为它和日常生活联系得更紧密，也让我觉得更接近真正的智能。当时计算机视觉领域的很多任务还集中在图像分类等方面，而自然语言处理已经开始涉及更复杂的问题，所以最终选择了这个方向。\n\nDeepTech：最近 AI 在数学推理、定理证明等方面的进展很快，甚至可以说太快了。现在你会不会觉得，当年转向 AI 是一个有意思的...",
-      "highlights": [
-        "当时 AI 有几个主要方向，包括计算机视觉、自然语言处理、语音等",
-        "我比较感兴趣的是语言，因为它和日常生活联系得更紧密，也让我觉得更接近真正的智能",
-        "当时计算机视觉领域的很多任务还集中在图像分类等方面，而自然语言处理已经开始涉及更复杂的问题，所以最终选择了这个方向"
-      ],
-      "url": "https://m.sohu.com/a/1095366368_354973?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "前沿理论",
-      "importance": 3,
-      "publishedAt": "2026-10-31T13:31:04Z"
-    },
-    {
-      "id": "82bd8cc2cbbd",
-      "title": "AI 開始幫科學家想問題，科學就能全自動了嗎？ ...",
-      "summary": "「大語言模型（LLM）只是統計鸚鵡，不可能做高難度的基礎科學研究，更別說突破物理學計算極限了。」 這個觀點，剛剛被Anthropic 官方發布的最新研究成果徹底翻轉！",
-      "highlights": [
-        "「大語言模型（LLM）只是統計鸚鵡，不可能做高難度的基礎科學研究，更別說突破物理學計算極限了",
-        "」 這個觀點，剛剛被Anthropic 官方發布的最新研究成果徹底翻轉"
-      ],
-      "url": "https://www.instagram.com/p/De8KOoZiRyR",
-      "source": "instagram.com",
-      "category": "前沿理论",
-      "importance": 3,
-      "publishedAt": "2026-10-31T16:22:41Z"
-    },
-    {
-      "id": "3f0a36f0e5c9",
-      "title": "大晓机器人联合南洋理工大学发布最新成果：Mundo，构建可自由探索、可物理交互的机器人世界模型",
-      "summary": "少量图像构建专属世界模型，支持跨空间长路径生成.",
-      "highlights": [
-        "少量图像构建专属世界模型，支持跨空间长路径生成."
-      ],
-      "url": "https://m.leiphone.com/category/ai/igR5pXOXkOQ6eaO3.html",
-      "source": "m.leiphone.com",
-      "category": "具身智能",
-      "importance": 3,
-      "publishedAt": "2026-10-30T20:00:00Z"
-    },
-    {
-      "id": "9f870e86e95b",
-      "title": "硬氪首发丨红杉、高瓴、智元投过的全身触觉解决方案公司再获亿元级融资，团队来自港科大",
-      "summary": "投资模感科技的鼎晖百孚项目组「投资副总裁凌嘉鸿、私人投资部投资经理王博磊、分析师彭晨」：我们认为电子皮肤等全身多模态触觉感知解决方案在具身智能产业链上具有较",
-      "highlights": [
-        "投资模感科技的鼎晖百孚项目组「投资副总裁凌嘉鸿、私人投资部投资经理王博磊、分析师彭晨」：我们认为电子皮肤等全身多模态触觉感知解决方案在具身智能产业链上具有较"
-      ],
-      "url": "https://m.sohu.com/a/1095019554_122135211?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "投并购",
-      "importance": 3,
-      "publishedAt": "2026-10-31T02:00:00Z"
-    },
-    {
-      "id": "e534bf94eb75",
-      "title": "AI Is Destroying Academic Publishing - The Atlantic",
-      "summary": "# AI Is Destroying Academic Publishing. As a journal editor, I can say: The currency of academic social capital is collapsing. Weak scholarship was once easy to spot at a glance: The signs included ba...",
-      "highlights": [
-        "# AI Is Destroying Academic Publishing. As a journal editor, I can say: The currency of academic social capital is collapsing. Weak scholarship was once easy to spot at a glance: The signs included bad writing, a lack of relevant citations, and little engagement with previous scholarship, such as a paper that promised a “novel” conceptual framework without acknowledging the many other papers making similar claims. As an associate editor of a bioethics journal, I’d make a quick “desk reject” decision and not send these articles for peer review, which effectively killed any hope of publication. Now I can say: AI is affecting every part of academic publishing. There are sentences that have all of the trappings of real arguments, but that rarely make sense—such as “Algorithmic triage functions less as a clinical tool than as an infrastructure of deferred accountability.” There are citations that refer only to open-access or highly cited articles, because the most popular LLMs can’t readily access paywalled journal articles, so they rely on what’s either free or described at length elsewhere."
-      ],
-      "url": "https://www.theatlantic.com/ideas/2026/10/ai-journal-articles-writing/689186/",
-      "source": "theatlantic.com",
-      "category": "前沿理论",
-      "importance": 2,
-      "publishedAt": "2026-10-30T16:49:39Z"
-    },
-    {
-      "id": "ef9ad9e3975a",
-      "title": "Travel Tech Funding Hits $2.2B in 9 Months [2026]",
-      "summary": "## The AI Paradox: Two-Thirds of Series B Money Went to AI Startups\n\nHere is the part that complicates the “AI will revive travel tech” story. According to related funding coverage, about two-thirds o...",
-      "highlights": [
-        "## The AI Paradox: Two-Thirds of Series B Money Went to AI Startups",
-        "Here is the part that complicates the “AI will revive travel tech” story. According to related funding coverage, about two-thirds of Series B funding in 2026 had gone to AI-focused startups. In 2025, about half of investment went to companies in AI categories. The AI share is rising while the overall pool shrinks. [...] Put the two funding stories side by side and the contrast is stark. Foundational AI startups raised, in a single quarter, double the whole of 2025 for that category, according to Crunchbase News. Travel tech raised $2.2 billion over three quarters, down from $3.7 billion a year earlier. One sector is accelerating on huge checks while the other is contracting on small ones. [...] The AI share of Series B keeps climbing. With about two-thirds already going to AI-focused startups, non-AI travel companies will struggle to close growth rounds without a clear AI case.",
-        "Strategic investors fill more of the gap. Booking Holdings’ planned $100 million Vayo investment is the template. Expect more incumbents to write checks or buy startups outright."
-      ],
-      "url": "https://tech-insider.org/travel-tech-funding-2-2b-302-rounds-multiyear-low-ai-2026",
-      "source": "tech-insider.org",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-10-30T15:38:06Z"
-    },
-    {
-      "id": "463e0c9c189a",
-      "title": "10 AI startups to watch from the 2026 AI 100 list of emerging companies",
-      "summary": "The AI 100's observability and evaluation startups have raised $278 million together over the past three years. The report frames the sum as early capital for the operating rulebook that lets autonomo...",
-      "highlights": [
-        "The AI 100's observability and evaluation startups have raised $278 million together over the past three years. The report frames the sum as early capital for the operating rulebook that lets autonomous systems join enterprise workflows. It also aligns the category with Know Your Agent software, known by the initials KYA. [...] Investors are putting money behind this layer. Winners building observability and evaluation tools have raised $278 million combined over the last three years. The list's authors treat the sum as early capital for an operational rulebook that lets autonomous systems take part in corporate operations. They tie the effort to Know Your Agent, or KYA, software, which rests on the view that agents form a new class of actor needing identity, credentials, and accountability of their own. Straiker's [...] Oak Ridge National Laboratory signed a memorandum of understanding with Atomic Canyon to bring AI into reviews of license applications, aiming to make nuclear power plant licensing more efficient. The parties sealed the pact at the Nuclear Opportunities Workshop, held at the Knoxville Convention Center. Under its terms, the partners intend to pair high-fidelity simulations, run on high-performance computers to test whether designs are safe, with AI that automates portions of the review process."
-      ],
-      "url": "https://qz.com/most-promising-ai-startups-cb-insights-ai-2026",
-      "source": "qz.com",
-      "category": "产品进展",
-      "importance": 2,
-      "publishedAt": "2026-10-30T15:48:43Z"
-    },
-    {
-      "id": "06ea59a33ab9",
-      "title": "Instagram",
-      "summary": "Harvey announced its acquisition of Aida on October 29, 2026. Aida’s search and machine-learning team will join Harvey’s product and engineering organization.  \n  \nHarvey says the deal will support it...",
-      "highlights": [
-        "Harvey announced its acquisition of Aida on October 29, 2026. Aida’s search and machine-learning team will join Harvey’s product and engineering organization.",
-        "Harvey says the deal will support its work on firm-specific ontologies: structured ways to connect internal knowledge so AI agents can draw on more relevant context. The company is targeting information held across a firm’s documents and systems. [...] Log In",
-        "4thpark's profile picture"
-      ],
-      "url": "https://www.instagram.com/p/DfIalRFDAHw",
-      "source": "instagram.com",
-      "category": "产品进展",
-      "importance": 2,
-      "publishedAt": "2026-10-31T20:43:19Z"
-    }
-  ],
-  "today": [
-    {
-      "id": "6ffcab5e4d81",
-      "title": "上线5天杀进手机，OpenAI dots移动端来了，AI Agent从桌面走进口袋-36氪",
-      "summary": "这才是最值得关注的：AI Agent可能正在经历从\"极客玩具\"到\"大众工具\"的跨越，而移动端就是那个临界点。\n\n## AI Agent大战，刚开场就已经白热\n\nTibo为什么要搞\"疯狂28天\"？每天一个更新，节奏快得让人喘不过气。\n\n因为不快点不行。\n\nAI Agent这条赛道，现在的竞争烈度比很多人想象的要高得多。OpenAI虽然起步早，但对手们个个都不是吃素的。\n\n就在几天前，谷歌在Gemin...",
-      "highlights": [
-        "这才是最值得关注的：AI Agent可能正在经历从\"极客玩具\"到\"大众工具\"的跨越，而移动端就是那个临界点",
-        "## AI Agent大战，刚开场就已经白热",
-        "Tibo为什么要搞\"疯狂28天\""
-      ],
-      "url": "https://m.36kr.com/p/4019410492346244",
-      "source": "m.36kr.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-01T02:36:13Z"
-    },
-    {
-      "id": "577a5dd1d141",
-      "title": "智驾公司开始做机器人，智驾技术真的能撑起具身智能吗？-电子工程专辑",
-      "summary": "机器人硬件之间还存在明显差异。\n\n不同厂商的机械臂长度、关节布局、灵巧手结构和自由度并不一致，同一个动作在不同机器人上的执行方式可能完全不同。\n\n即使采集到大量操作数据，也需要解决不同本体之间的数据适配问题。\n\nMERICS在2026年4月发布的具身智能研究报告中指出，具身智能训练需要多模态数据支持，而机器人在真实物理环境中采集操作数据的成本较高；不同机器人平台在硬件和软件接口上的差异，也增加了数...",
-      "highlights": [
-        "机器人硬件之间还存在明显差异",
-        "不同厂商的机械臂长度、关节布局、灵巧手结构和自由度并不一致，同一个动作在不同机器人上的执行方式可能完全不同",
-        "即使采集到大量操作数据，也需要解决不同本体之间的数据适配问题"
-      ],
-      "url": "https://www.eet-china.com/mp/a535974.html",
-      "source": "eet-china.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-11-01T00:00:00Z"
-    },
-    {
-      "id": "1865cbc617e9",
-      "title": "This week in tech m&a 2026",
-      "summary": "Google is making a fresh investment of more than $1 billion into AI startup Anthropic, the Financial Times reported on Wednesday.",
-      "highlights": [
-        "Google is making a fresh investment of more than $1 billion into AI startup Anthropic, the Financial Times reported on Wednesday."
-      ],
-      "url": "https://www.facebook.com/TechStratltd/posts/this-week-in-tech-ma-transactions-stood-out-across-vertical-ai-proprietary-data-/1537707995044694",
-      "source": "facebook.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-11-01T02:46:07Z"
-    },
-    {
-      "id": "045749e06d7e",
-      "title": "Instagram",
-      "summary": "Apple has acquihired Ascend.io, a Silicon Valley startup specializing in AI-powered data engineering. The transaction was completed on June 30, 2026, and disclosed through a European Commission filing...",
-      "highlights": [
-        "Apple has acquihired Ascend.io, a Silicon Valley startup specializing in AI-powered data engineering. The transaction was completed on June 30, 2026, and disclosed through a European Commission filing published on October 30. Financial terms were not disclosed. [...] Ascend.io previously worked with enterprise customers including News Corp, HarperCollins and Mattel. Following the transaction, the startup announced that it would wind down its operations after approximately 10 years in business.",
-        "Source: AppleInsider",
-        "Follow @distributionshow for more!"
-      ],
-      "url": "https://www.instagram.com/p/DfK5qrqsaDK",
-      "source": "instagram.com",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-11-01T02:46:07Z"
-    }
-  ],
-  "week": [
-    {
-      "id": "de23babff444",
-      "title": "网络安全AI商业化加速！谷歌明码标价兜售最新模型 - 安全内参 | 决策者的网络安全知识库",
-      "summary": "# 网络安全AI商业化加速！谷歌明码标价兜售最新模型\n\n人工智能 安全内参 2026-10-30\n\n网络安全AI的商业化正在不断加速，区别于过去圈定名单式的（免费）测试使用，现在三巨头都逐步转为明码标价，并通过审核机制正式对外销售；谷歌日前发布新款前沿模型Gemini 4 Carbon，声称在网络安全方面具备领先优势，包括漏洞利用、漏洞修复、安全代码生成等场景，并正式定价对外销售，这或将对传统安全...",
-      "highlights": [
-        "# 网络安全AI商业化加速",
-        "谷歌明码标价兜售最新模型",
-        "人工智能 安全内参 2026-10-30"
-      ],
-      "url": "https://www.secrss.com/articles/95206",
-      "source": "secrss.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-30T12:00:00Z"
-    },
-    {
-      "id": "103d80cfb2da",
-      "title": "Here’s when top Wall Street executives expect OpenAI will launch its blockbuster IPO - New York Post",
-      "summary": "OpenAI is saying it has no plans to go public this year – but senior Wall Street executives say they fully expect it will happen in the first quarter of 2027, On The Money has learned. The artificial ...",
-      "highlights": [
-        "OpenAI is saying it has no plans to go public this year – but senior Wall Street executives say they fully expect it will happen in the first quarter of 2027, On The Money has learned. The artificial intelligence giant run by Sam Altman has been quick to shoot down rumors that it’s preparing to IPO imminently now that archrival Anthropic has filed its S-1 as a precursor to a deal that’s expected in late November. Altman has been among the AI industry’s top alarmists – as has Anthropic CEO Dario Amodei – although that isn’t stopping the latter from cashing in on an initial public offering that could value the company as high as $2 trillion, possibly even surpassing SpaceX’s record-breaking IPO. Meanwhile, finance bigs are warning Altman that his iPO window could be closing with rising fears of an AI bubble and competition for investor capital – not just from the Anthropic sale but also a planned massive secondary stock sale by Meta, as first reported by On The Money."
-      ],
-      "url": "https://nypost.com/2026/10/30/business/heres-when-top-wall-street-executives-expect-openai-will-launch-its-blockbuster-ipo/",
-      "source": "nypost.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-30T10:00:00Z"
-    },
-    {
       "id": "637a4425ce86",
       "title": "具身智能前沿取得重大突破！SuperMimic 或为机器本体扫清算力障碍｜CoRL 2026 | 雷峰网",
       "summary": "共享控制能力也初步延伸到速度接口。在 672 个速度阶跃响应中，利用任务奖励训练的编码器在 650 个响应上的误差低于蒸馏基线；相对误差中位数为 0.16，对照为 0.49，约下降 67%。直观地说，已有身体技能并不一定只能照抄参考动作，还可以通过新的指令入口重新组织动作。\n\n它们分别说明，模型可以降低每次练习的成本，可微分优化可以减少所需练习量，共享动力学有助于吸收更大的动作库，短窗口加价值估计...",
@@ -531,92 +709,6 @@
       "category": "具身智能",
       "importance": 5,
       "publishedAt": "2026-10-30T02:00:00Z"
-    },
-    {
-      "id": "5b958e8a5e7f",
-      "title": "In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak - SecurityWeek",
-      "summary": "# In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak. Only machines that use network boot are exposed, and the flaw, found by Anthropic and Google researcher...",
-      "highlights": [
-        "# In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak. Only machines that use network boot are exposed, and the flaw, found by Anthropic and Google researchers, became public months ahead of a planned January disclosure after AMI published a code fix, leaving organizations to seek firmware updates from their vendors. Cathedral, a cybersecurity startup founded by former DOGE staffers, says its AI agents found ways into Anthropic’s internal systems in less than 12 hours by abusing weaknesses in third-party business software, reaching meeting transcripts, salary and job offer data, and Slack discussions about the company’s most advanced models, according to a draft report reviewed by the Washington Post (paywalled). Anthropic, which received the findings through its bug bounty program, says only a limited set of sales, HR and IT systems was reached, that it cut off the startup’s access the same day, and that Claude conversations, source code and model weights were not affected."
-      ],
-      "url": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
-      "source": "securityweek.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-30T14:41:35Z"
-    },
-    {
-      "id": "9c0943f43f76",
-      "title": "Anthropic's path to the Nasdaq just got a lot bumpier - CNBC",
-      "summary": "Within days of its release, several of the company's key partners, including Microsoft, Google and Amazon, reported quarterly results that added fuel to existing market jitters around the artificial i...",
-      "highlights": [
-        "Within days of its release, several of the company's key partners, including Microsoft, Google and Amazon, reported quarterly results that added fuel to existing market jitters around the artificial intelligence buildout. \"Everybody's still full steam ahead on AI, but all the things around it took an interesting turn this week,\" Daniel Newman, CEO at Futurum Group, told CNBC in an interview on Friday. In its prospectus on Monday, the AI company disclosed a net loss for the first half of the year of $80 billion, alongside hundreds of billions of dollars' worth of compute commitments and more than 90 pages of risk factors. Anthropic gets much of its capacity from Amazon, Google and SpaceX, but it also relies on neoclouds for some compute as it races to expand as quickly as possible. And Oracle, one of the biggest spenders on AI data centers, said at its investor day on Wednesday that it will limit additional fundraising in the coming years to $20 billion, and will turn cash flow positive in the second half of next fiscal year."
-      ],
-      "url": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
-      "source": "cnbc.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-31T11:00:01Z"
-    },
-    {
-      "id": "aef0b4aa119c",
-      "title": "最新封面报道之二｜最赚钱“AI实验室”IPO揭幕_财新周刊频道_财新网",
-      "summary": ":   2026年9月23日，美国纽约，联合国安理会召开人工智能相关会议，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）发言。图：Sarah Yenesel/IC photo\n\n《财新周刊》2026年第42期\n:   \n 分享到微信朋友圈\n\n上一篇：最新封面报道｜重估科技股\n\n下一篇：短剧变局：字节跳动AI生意自闭环｜特稿精选\n\n#### 推荐阅读\n\n推广\n\n### 图片...",
-      "highlights": [
-        ":   2026年9月23日，美国纽约，联合国安理会召开人工智能相关会议，Anthropic首席执行官达里奥·阿莫代伊（Dario Amodei）发言",
-        "图：Sarah Yenesel/IC photo",
-        "《财新周刊》2026年第42期"
-      ],
-      "url": "https://weekly.caixin.com/2026-10-31/102499335.html",
-      "source": "weekly.caixin.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-31T14:00:00Z"
-    },
-    {
-      "id": "545eecb346e9",
-      "title": "抛弃英伟达！OpenAI倒向谷歌，其背后逻辑对国产AI芯片的启示是什么？-电子工程专辑",
-      "summary": "首先，架构选择必须与需求结构匹配，而非与“最先进制程”匹配。 TPU的竞争力并非来自比GPU更先进的制程——Ironwood 同样依赖台积电先进节点，且面临3nm产能瓶颈——而来自它对推理负载的针对性设计。中国国产芯片在单芯片峰值算力上追赶英伟达旗舰产品仍需时间，但中国市场的需求结构正在发生类似变化：2026年上半年，中国 AI 加速器出货中非 GPU加速器达到101.6万颗，同比增长近80%，首...",
-      "highlights": [
-        "首先，架构选择必须与需求结构匹配，而非与“最先进制程”匹配",
-        "TPU的竞争力并非来自比GPU更先进的制程——Ironwood 同样依赖台积电先进节点，且面临3nm产能瓶颈——而来自它对推理负载的针对性设计",
-        "中国国产芯片在单芯片峰值算力上追赶英伟达旗舰产品仍需时间，但中国市场的需求结构正在发生类似变化：2026年上半年，中国 AI 加速器出货中非 GPU加速器达到101.6万颗，同比增长近80%，首次超过GP 出货规模；华为昇腾、平头哥、昆仑芯、寒武纪在非GPU市场合计占据约95%的份额"
-      ],
-      "url": "https://www.eet-china.com/mp/a535759.html",
-      "source": "eet-china.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-10-30T20:00:00Z"
-    },
-    {
-      "id": "563fa25aac03",
-      "title": "南方基金亮相2026腾讯全球数字生态大会五位“AI专家”手把手，教普通用户选基金 中国基金报",
-      "summary": "【深圳，2026年10月】10月29日至30日，2026腾讯全球数字生态大会在深圳国际会展中心举行。本届大会以“群智协同 数动飞轮：激发全场景生产力”为主题，作为腾讯面向产业互联网领域规格最高、规模最大、覆盖最广的年度盛会，大会以AI智能体（Agent）为主线，集中发布面向Agent场景的100余款新产品、新能力，并呈现500余个智能体实践案例。南方基金受邀出席大会并作嘉宾分享，以《如何用Work...",
-      "highlights": [
-        "【深圳，2026年10月】10月29日至30日，2026腾讯全球数字生态大会在深圳国际会展中心举行",
-        "本届大会以“群智协同 数动飞轮：激发全场景生产力”为主题，作为腾讯面向产业互联网领域规格最高、规模最大、覆盖最广的年度盛会，大会以AI智能体（Agent）为主线，集中发布面向Agent场景的100余款新产品、新能力，并呈现500余个智能体实践案例",
-        "南方基金受邀出席大会并作嘉宾分享，以《如何用WorkBuddy选基金"
-      ],
-      "url": "https://www.chnfund.com/article/AR27d85999-6787-d0eb-ec84-3a249e231c07",
-      "source": "chnfund.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-10-30T20:00:00Z"
-    },
-    {
-      "id": "a4dedbbeef4e",
-      "title": "具身智能“冰火两重天”，星海图如何撑起200亿估值？",
-      "summary": "国产具身智能出海开启“减重计划”\n\n魔法原子柔性力控仿生机械臂 MagicArm R1 正式发布 打通“采数—训练—部署”\n\n趣解商业 1星期前\n\n魔法原子柔性力控仿生机械臂 MagicArm R1 正式发布 打通“采数—训练—部署”\n\n腾讯、百度押注，传无问芯穹秘密递表港股，43亿融资能烧出护城河吗？\n\n趣解商业 1星期前\n\n腾讯、百度押注，传无问芯穹秘密递表港股，43亿融资能烧出护城河吗？\n\n...",
-      "highlights": [
-        "国产具身智能出海开启“减重计划”",
-        "魔法原子柔性力控仿生机械臂 MagicArm R1 正式发布 打通“采数—训练—部署”",
-        "魔法原子柔性力控仿生机械臂 MagicArm R1 正式发布 打通“采数—训练—部署”"
-      ],
-      "url": "https://www.yemacaijing.com/Index/view/id/97466.html",
-      "source": "yemacaijing.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-10-30T09:00:00Z"
     },
     {
       "id": "d98dcd6665b4",
@@ -674,34 +766,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-10-29T15:00:00Z"
-    },
-    {
-      "id": "9b2a634a9db5",
-      "title": "Google’s Gemini 4 Carbon tops AI rankings, but only cyber defenders get it - The Next Web",
-      "summary": "Google has released Gemini 4 Carbon, its newest frontier AI model, to a small group of cyber defenders. Koray Kavukcuoglu, senior vice president at Google DeepMind and Google’s chief AI architect, ann...",
-      "highlights": [
-        "Google has released Gemini 4 Carbon, its newest frontier AI model, to a small group of cyber defenders. Koray Kavukcuoglu, senior vice president at Google DeepMind and Google’s chief AI architect, announced it in a Google blog post on Wednesday. Carbon ranks first on the Artificial Analysis Intelligence Index v5.0 with a score of 59. The Artificial Analysis index puts Anthropic’s Claude Opus 5.5 second with 58, and OpenAI’s GPT-6 Astra third with 57. > “Carbon illustrates the pace at which we’re pushing the frontier forward,” Kavukcuoglu wrote. On CWE-bench, which measures patching, it scored 71.0%. On Google’s internal tests, Carbon was more than twice as successful as Argon at writing secure code. On Terminal-Bench 4.0, Carbon’s rate of successful cheating was 0.0%. GPT-6 Astra leads on FrontierSWE 2, a software engineering test, with 65.5% against Carbon’s 61.2%. > “With Gemini 4 Argon and now Carbon, which we announced today, we’re excited to be leading at the frontier,” Pichai said."
-      ],
-      "url": "https://thenextweb.com/news/gemini-4-carbon-google-cybersecurity-model",
-      "source": "thenextweb.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-10-29T16:05:18Z"
-    },
-    {
-      "id": "1c34fd85bcfc",
-      "title": "北京Q3投出1075亿元，全国第一 | 投中网",
-      "summary": "钱主要去了人工智能。本季度披露的全国十笔重点融资案例，北京就占了四笔，包括月之暗面、可灵AI、生数科技和VAST四家企业的融资交易：\n\n月之暗面这一轮投后估值350亿美元，认购金额超出原定目标3倍多，提前关闭。可灵AI投后估值约180亿美元，是全球视频生成大模型单轮最大融资。\n\n月之暗面和可灵AI两笔合计超过426亿元，占到北京千亿投资的39.6%。剩下436起融资分掉649亿。\n\n北京的单笔均值...",
-      "highlights": [
-        "本季度披露的全国十笔重点融资案例，北京就占了四笔，包括月之暗面、可灵AI、生数科技和VAST四家企业的融资交易：",
-        "月之暗面这一轮投后估值350亿美元，认购金额超出原定目标3倍多，提前关闭",
-        "可灵AI投后估值约180亿美元，是全球视频生成大模型单轮最大融资"
-      ],
-      "url": "https://www.chinaventure.com.cn/news/80-20261029-393824.html",
-      "source": "chinaventure.com.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-10-29T08:00:00Z"
     }
   ],
   "month": [
@@ -719,6 +783,36 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-11-01T02:36:13Z"
+    },
+    {
+      "id": "86d3ce521723",
+      "title": "【数智周报】张一鸣以6700亿元登顶中国首富，刷新中国首富财富纪录；阿里巴巴与Apple达成合作，将千问集成至Apple智能；Anthropic提交IPO注册文件，拟以“ANT”为代码在纳斯达克上市_搜狐网",
+      "summary": "谷歌DeepMind推出最新世界模型Genie 4，并宣称是其迄今最逼真、交互能力最强的世界模型。与主要根据提示词生成视频片段的传统视频生成模型不同，Genie 4能够根据文本指令构建可探索的虚拟环境，并在用户持续输入指令时实时调整场景。谷歌表示，其最长可以维持两分钟连贯不变的场景，时长约为上一代Genie 3的两倍。该模型还能生成和虚拟世界同步的实时音频，涵盖音乐、环境音以及可交互对话。\n\n融资...",
+      "highlights": [
+        "谷歌DeepMind推出最新世界模型Genie 4，并宣称是其迄今最逼真、交互能力最强的世界模型",
+        "与主要根据提示词生成视频片段的传统视频生成模型不同，Genie 4能够根据文本指令构建可探索的虚拟环境，并在用户持续输入指令时实时调整场景",
+        "谷歌表示，其最长可以维持两分钟连贯不变的场景，时长约为上一代Genie 3的两倍"
+      ],
+      "url": "https://m.sohu.com/a/1095655678_116132?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-01T11:32:27Z"
+    },
+    {
+      "id": "db2fd694d269",
+      "title": "一级市场，不愿聊物理AI了-虎嗅网",
+      "summary": "据《科创板日报》记者不完全统计，2025年7月至2026年6月，国内一级市场具身智能领域累计发生503起融资，总金额超过960亿元，不包含IPO与并购。平均下来，每天都有超过一起融资事件发生。\n\n大量资金涌入，头部企业的融资规模与估值不断攀升。对于投资机构而言，能否及时进入这一方向、拿到优质项目份额，成为竞争的焦点。在这个被认为可能诞生新一代科技巨头的领域，错过头部项目，意味着可能失去未来数年的投...",
+      "highlights": [
+        "据《科创板日报》记者不完全统计，2025年7月至2026年6月，国内一级市场具身智能领域累计发生503起融资，总金额超过960亿元，不包含IPO与并购",
+        "平均下来，每天都有超过一起融资事件发生",
+        "大量资金涌入，头部企业的融资规模与估值不断攀升"
+      ],
+      "url": "https://www.huxiu.com/article/4902064.html",
+      "source": "huxiu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-01T06:18:59Z"
     },
     {
       "id": "577a5dd1d141",
@@ -749,6 +843,21 @@
       "publishedAt": "2026-11-01T02:46:07Z"
     },
     {
+      "id": "0e587d26b7bb",
+      "title": "攻克千禧年难题之后：斯坦福推出After42，让AI学会提出“值得研究”的问题-36氪",
+      "summary": "在道格拉斯·亚当斯的科幻小说《银河系漫游指南》中，超级计算机“深思”耗费 750万年，终于算出了“生命、宇宙以及一切的终极答案”：42。这是人类对机器解答能力的一种浪漫想象。\n\n近期，前沿 AI 开始在一些定义明确、长期未解决的开放问题上取得突破。在数学领域，有研究报告称解决了纳维尔斯托克斯千禧年难题和准黎曼猜想；在计算机科学领域，有研究反驳了指数时间假设；在物理学领域，则有研究给出了量子色动力学...",
+      "highlights": [
+        "在道格拉斯·亚当斯的科幻小说《银河系漫游指南》中，超级计算机“深思”耗费 750万年，终于算出了“生命、宇宙以及一切的终极答案”：42",
+        "这是人类对机器解答能力的一种浪漫想象",
+        "近期，前沿 AI 开始在一些定义明确、长期未解决的开放问题上取得突破"
+      ],
+      "url": "https://m.36kr.com/p/4046713681990529",
+      "source": "m.36kr.com",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-11-01T02:45:56Z"
+    },
+    {
       "id": "045749e06d7e",
       "title": "Instagram",
       "summary": "Apple has acquihired Ascend.io, a Silicon Valley startup specializing in AI-powered data engineering. The transaction was completed on June 30, 2026, and disclosed through a European Commission filing...",
@@ -762,6 +871,21 @@
       "category": "模型发布",
       "importance": 2,
       "publishedAt": "2026-11-01T02:46:07Z"
+    },
+    {
+      "id": "74d6287a930e",
+      "title": "Instagram",
+      "summary": "Salesforce just bought a startup that's barely two years old.  \n  \n• Salesforce signed a deal to acquire Rune Technologies, a Washington, D.C. defense-tech startup, reportedly for $375 million in cash...",
+      "highlights": [
+        "Salesforce just bought a startup that's barely two years old.",
+        "• Salesforce signed a deal to acquire Rune Technologies, a Washington, D.C. defense-tech startup, reportedly for $375 million in cash and stock.",
+        "• Rune was founded in 2024 by Anduril alums David Tuttle and Peter Goldsborough and raised about $30 million from backers like Andreessen Horowitz and Point72. [...] ## No comments yet."
+      ],
+      "url": "https://www.instagram.com/p/DfJHPKOkYlz",
+      "source": "instagram.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-11-01T12:07:21Z"
     }
   ]
 }
