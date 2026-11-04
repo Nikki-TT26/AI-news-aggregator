@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T13:21:07Z",
+  "updatedAt": "2026-11-04T22:56:40Z",
   "latest": [
     {
       "id": "c14abc59a3a1",
@@ -15,64 +15,6 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-11-03T11:00:00Z"
-    },
-    {
-      "id": "baa78fcfbe67",
-      "title": "Resemble AI Agent Detection 瞄准伪装成人类的智能体",
-      "summary": "top of page\n\n获取 macOS 下载链接\n\n立即下载\n\n# Resemble AI Agent Detection 瞄准伪装成人类的智能体\n\nAisha Washington\n\n19小时前\n\n讀畢需時 12 分鐘\n\nResemble AI 于 10 月 29 日推出 Agent Detection，针对那些使用网站时看似人类访客的 AI 智能体。Resemble AI Agent De...",
-      "highlights": [
-        "top of page",
-        "获取 macOS 下载链接",
-        "# Resemble AI Agent Detection 瞄准伪装成人类的智能体"
-      ],
-      "url": "https://www.remio.ai/zh/post/resemble-ai-agent-detection-targets-agents-that-look-human-zh",
-      "source": "remio.ai",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-02T16:37:45Z"
-    },
-    {
-      "id": "3414a28cad42",
-      "title": "OpenAI says its AI is getting better at doing things humans do, like shopping and meal planning - CNN",
-      "summary": "# OpenAI says its AI is getting better at doing things humans do, like shopping and meal planning. Now, the tech giant claims its AI models are getting better at everyday tasks largely left up to huma...",
-      "highlights": [
-        "# OpenAI says its AI is getting better at doing things humans do, like shopping and meal planning. Now, the tech giant claims its AI models are getting better at everyday tasks largely left up to humans — like shopping and creating a budget. The new benchmark comes at a time when OpenAI faces fierce competition from Meta, Anthropic and Google — all of which are racing to develop AI agents that can handle real-world tasks. “Because so many people are using the app, we want to capture all the different use cases and the ways that they’re using it, and really understand like how we’re improving over time,” Jenny Yang, a researcher at OpenAI, told CNN ahead of the evaluation’s release. The new benchmark could be critical in OpenAI’s push to stay ahead of the competition by turning ChatGPT from a tool for generatingcontent to an assistant that can get things done on users’ behalf."
-      ],
-      "url": "https://www.cnn.com/2026/11/02/tech/openai-chatgpt-personal-assistant-ai",
-      "source": "cnn.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-02T17:06:21Z"
-    },
-    {
-      "id": "c7b4884123a6",
-      "title": "美团发布LongCat-2.5大模型，“国芯国模”实现新突破",
-      "summary": "LongCat-2.5的发布，标志着“国芯国模”更进一步：不仅原生支持多模态，模型整体能力也比肩当前国际成熟闭源模型和头部开源模型。\n\nimg\n\n▲LongCat-2.5多项主流基准评测成绩介于Claude-Opus-4.8与Claude-Opus-5之间（资料图）\n\n模型评测结果显示，在多项主流基准评测中，LongCat-2.5的成绩介于Claude-Opus-4.8与Claude-Opus-5...",
-      "highlights": [
-        "LongCat-2.5的发布，标志着“国芯国模”更进一步：不仅原生支持多模态，模型整体能力也比肩当前国际成熟闭源模型和头部开源模型",
-        "▲LongCat-2.5多项主流基准评测成绩介于Claude-Opus-4.8与Claude-Opus-5之间（资料图）",
-        "模型评测结果显示，在多项主流基准评测中，LongCat-2.5的成绩介于Claude-Opus-4.8与Claude-Opus-5之间，并在部分评测中超过Claude-Opus-5"
-      ],
-      "url": "https://www.meituan.com/news/NN261102280001343",
-      "source": "meituan.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-02T22:00:00Z"
-    },
-    {
-      "id": "31cc15baae31",
-      "title": "美团发布新一代大模型，国产算力赋能本地生活商家 _ 东方财富网",
-      "summary": "美团方面透露，LongCat-2.5在全程国产算力训练的基础上，进一步强化原生多模态能力，将视觉输入转化为模型可统一处理的token，提升视觉理解能力，支持交互网页、3D展示页面等任务。智能体编程方面，模型采用大规模长程强化学习，提升端到端工程任务能力，更好地支持复杂软件开发任务。\n\n　　今年8月28日的美团二季度财报电话会上，CEO王兴表示：AI能力的长期价值，是能否真正进入真实工作流、解决真实...",
-      "highlights": [
-        "美团方面透露，LongCat-2.5在全程国产算力训练的基础上，进一步强化原生多模态能力，将视觉输入转化为模型可统一处理的token，提升视觉理解能力，支持交互网页、3D展示页面等任务",
-        "智能体编程方面，模型采用大规模长程强化学习，提升端到端工程任务能力，更好地支持复杂软件开发任务",
-        "今年8月28日的美团二季度财报电话会上，CEO王兴表示：AI能力的长期价值，是能否真正进入真实工作流、解决真实问题，并形成长期稳定的基础设施能力"
-      ],
-      "url": "https://finance.eastmoney.com/a/202611023918664246.html",
-      "source": "finance.eastmoney.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-02T22:00:00Z"
     },
     {
       "id": "57dbde00724b",
@@ -298,34 +240,137 @@
       "publishedAt": "2026-11-03T06:49:18Z"
     },
     {
-      "id": "ed3aa6035eda",
-      "title": "智合AI亮相全球数商大会，荣获闵行区数据创新产品一等奖_新浪新闻",
-      "summary": "作为面向法律专业场景打造的新一代智能体产品,智合AI Agent 3.0定位为律师的“AI法律合伙人”,能够理解律师提出的工作目标,根据具体任务灵活组合不同的专业工具,协助完成涉及多个步骤的复杂法律工作。\n\n　　以诉讼案件为例,律师可以直接提出案件分析或法律研究需求,系统根据任务需要调用法律检索、类案研究、文书起草等能力,辅助梳理案件事实、查找法律依据、研究相关案例,并进一步形成分析结果或文书初稿...",
+      "id": "5ad919acfe05",
+      "title": "AI游戏步入「红果时刻」，腾讯米哈游为何不慌_投资界",
+      "summary": "机器之心2026-11-04\n ### 价格战在中国大模型行业结束了，但成本战才刚开始\n\n  钛媒体APP2026-11-03\n ### 中国大模型训练如何突破算力瓶颈\n\n  经济观察网2026-10-29\n ### 考拉悠然完成B++轮融资，持续迭代世界模型基座与多模态大模型\n\n  融资大事件2026-10-29\n ### 双11的火，还是烧到了大模型\n\n  新眸2026-10-23\n ### ...",
       "highlights": [
-        "作为面向法律专业场景打造的新一代智能体产品,智合AI Agent 3.0定位为律师的“AI法律合伙人”,能够理解律师提出的工作目标,根据具体任务灵活组合不同的专业工具,协助完成涉及多个步骤的复杂法律工作",
-        "以诉讼案件为例,律师可以直接提出案件分析或法律研究需求,系统根据任务需要调用法律检索、类案研究、文书起草等能力,辅助梳理案件事实、查找法律依据、研究相关案例,并进一步形成分析结果或文书初稿;律师则负责核验信息来源、审查分析结论,并根据案件实际情况作出专业判断",
-        "上述能力的实现依托专业法律数据的支撑"
+        "机器之心2026-11-04",
+        "### 价格战在中国大模型行业结束了，但成本战才刚开始",
+        "钛媒体APP2026-11-03"
       ],
-      "url": "https://news.sina.com.cn/sx/2026-11-02/detail-inixipxa2964506.shtml",
-      "source": "news.sina.com.cn",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-11-02T15:40:00Z"
+      "url": "https://news.pedaily.cn/202611/571325.shtml",
+      "source": "news.pedaily.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-04T04:48:00Z"
     },
     {
-      "id": "5b0d907b5bb4",
-      "title": "南方基金亮相2026腾讯全球数字生态大会_搜狐网",
-      "summary": "## 南方基金亮相2026腾讯全球数字生态大会\n\n国际金融报\n\n10月29日至30日，2026腾讯全球数字生态大会在深圳国际会展中心举行。本届大会以“群智协同数动飞轮：激发全场景生产力”为主题，作为腾讯面向产业互联网领域规格最高、规模最大、覆盖最广的年度盛会，大会以AI智能体（Agent）为主线，集中发布面向Agent场景的100余款新产品、新能力，并呈现500余个智能体实践案例。南方基金受邀出席...",
+      "id": "3e3853cac822",
+      "title": "当金融大模型开始自我进化-移动支付网",
+      "summary": "收藏\n\n评论加载中\n\n 工行申请一项发明专利，关于面向金融领域的大模型推理\n Revolut成立专属AI研究部门 自研金融大模型\n 重庆“十五五”人工智能发展规划：推动金融大模型研发应用！\n 中原消费金融大模型采购项目中标结果公示\n 哈银消费金融大模型基础建设项目招标\n 中国银联携手合作伙伴共同发布2025金融大模型评测体系\n 从经验驱动到智能驱动，富滇银行数字金融大模型项目入选典型案例\n 2...",
       "highlights": [
-        "## 南方基金亮相2026腾讯全球数字生态大会",
-        "10月29日至30日，2026腾讯全球数字生态大会在深圳国际会展中心举行",
-        "本届大会以“群智协同数动飞轮：激发全场景生产力”为主题，作为腾讯面向产业互联网领域规格最高、规模最大、覆盖最广的年度盛会，大会以AI智能体（Agent）为主线，集中发布面向Agent场景的100余款新产品、新能力，并呈现500余个智能体实践案例"
+        "工行申请一项发明专利，关于面向金融领域的大模型推理",
+        "Revolut成立专属AI研究部门 自研金融大模型",
+        "重庆“十五五”人工智能发展规划：推动金融大模型研发应用"
       ],
-      "url": "https://m.sohu.com/a/1096200999_632979?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-11-02T16:23:39Z"
+      "url": "https://www.mpaypass.com.cn/news/202611/04182035.html",
+      "source": "mpaypass.com.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-04T09:00:00Z"
+    },
+    {
+      "id": "fb1eeb96e742",
+      "title": "腾讯史上最强开源模型来了：混元Hy4正式版发布，首次支持视觉理解与电脑操作",
+      "summary": "定价方面，Hy4在模型性能大幅超越Hy4 preview的同时定价不变：输入6元/百万tokens，输出18元/百万tokens，缓存命中0.3元/百万 tokens；与此同时，WorkBuddy/CodeBuddy将在11月4日至11月15日期间，为用户提供一定额度的免费使用；此外，即日起至2026年12月31日，Hy4在腾讯云TokenHub按刊例价5折计费。\n\n值得一提的是，腾讯方面还宣布，...",
+      "highlights": [
+        "定价方面，Hy4在模型性能大幅超越Hy4 preview的同时定价不变：输入6元/百万tokens，输出18元/百万tokens，缓存命中0.3元/百万 tokens；与此同时，WorkBuddy/CodeBuddy将在11月4日至11月15日期间，为用户提供一定额度的免费使用；此外，即日起至2026年12月31日，Hy4在腾讯云TokenHub按刊例价5折计费",
+        "值得一提的是，腾讯方面还宣布，Hy4 flash也将于近期发布",
+        "Hy4 flash在继承Hy4能力的基础上，大幅减低任务成本，为用户提供极致性价比的模型"
+      ],
+      "url": "https://m.cls.cn/detail/2525324",
+      "source": "m.cls.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-03T22:00:00Z"
+    },
+    {
+      "id": "31b3ceeba97d",
+      "title": "天數智芯展示自研軟件棧和彤央邊緣終端",
+      "summary": "The Bamboo Works 詠竹坊\n\n# 天數智芯展示自研軟件棧和彤央邊緣終端\n\nRick Lau\n\n3 分鐘閱讀時間\n\n 001520.KS\n\n  +2.43%\n 9903.HK\n\n  +11.89%\n NVDA\n\n  +0.54%\n\nAI芯片設計商天數智芯表示，其全新彤央TY1200邊緣終端的性能，是搭載英偉達Jetson Thor T5000同類產品的1.2倍\n\n陽歌\n\n上海天數智芯半...",
+      "highlights": [
+        "The Bamboo Works 詠竹坊",
+        "# 天數智芯展示自研軟件棧和彤央邊緣終端",
+        "AI芯片設計商天數智芯表示，其全新彤央TY1200邊緣終端的性能，是搭載英偉達Jetson Thor T5000同類產品的1.2倍"
+      ],
+      "url": "https://hk.finance.yahoo.com/news/%E5%A4%A9%E6%95%B8%E6%99%BA%E8%8A%AF%E5%B1%95%E7%A4%BA%E8%87%AA%E7%A0%94%E8%BB%9F%E4%BB%B6%E6%A3%A7%E5%92%8C%E5%BD%A4%E5%A4%AE%E9%82%8A%E7%B7%A3%E7%B5%82%E7%AB%AF-075314947.html",
+      "source": "hk.finance.yahoo.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-04T08:00:00Z"
+    },
+    {
+      "id": "4e9f8fd99fb4",
+      "title": "摩尔线程斩获世界互联网大会杰出贡献奖",
+      "summary": "## 从云到端\n\n## 全功能GPU加速AI落地\n\n作为少有的同时覆盖企业级与消费（883434）级市场的国产GPU企业，摩尔线程（688795）将全功能GPU的能力从云端延伸到更广泛的边缘和终端场景。公司以自研智能SoC“长江”为核心，推出普惠性的终端产品——AI算力本MTT AIBOOK和家庭AI中枢MTT AICUBE，以及边缘AI模组MTT E300，让AI进一步走入千家万户和各行各业。\n...",
+      "highlights": [
+        "## 全功能GPU加速AI落地",
+        "作为少有的同时覆盖企业级与消费（883434）级市场的国产GPU企业，摩尔线程（688795）将全功能GPU的能力从云端延伸到更广泛的边缘和终端场景",
+        "公司以自研智能SoC“长江”为核心，推出普惠性的终端产品——AI算力本MTT AIBOOK和家庭AI中枢MTT AICUBE，以及边缘AI模组MTT E300，让AI进一步走入千家万户和各行各业"
+      ],
+      "url": "http://stock.10jqka.com.cn/20261103/c681409338.shtml",
+      "source": "stock.10jqka.com.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-03T22:00:00Z"
+    },
+    {
+      "id": "bf3086343448",
+      "title": "百度否认“昆仑芯IPO推迟”传闻 - 21经济网",
+      "summary": "21世纪经济报道\n\n# 百度否认“昆仑芯IPO推迟”传闻\n\n###### 2026年11月03日 17:14   21世纪经济报道 21财经APP   孔海丽\n\n百度否认“昆仑芯IPO推迟”传闻\n\n百度否认“昆仑芯IPO推迟”传闻\n\n21世纪经济报道记者 孔海丽\n\n11月3日，就近日有关昆仑芯上市时间可能推迟的市场传闻，百度方面回应表示：相关市场传闻及相关报道不属实。\n\n百度方面表示，昆仑芯目前处...",
+      "highlights": [
+        "# 百度否认“昆仑芯IPO推迟”传闻",
+        "###### 2026年11月03日 17:14   21世纪经济报道 21财经APP   孔海丽",
+        "百度否认“昆仑芯IPO推迟”传闻"
+      ],
+      "url": "https://www.21jingji.com/article/20261103/herald/39aa4e068cd055e51ebb161831bb7d88.html",
+      "source": "21jingji.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-03T09:14:16Z"
+    },
+    {
+      "id": "fd12e7b72709",
+      "title": "华尔街重新押注中国：外资投行加速布局，资本市场开放释放新机遇提供者FX168",
+      "summary": "喜欢 0 0收藏举报\n\n— 分享 —\n\n摘要：花旗证券（中国）获批成为国内第七家外资独资券商，折射出国际金融机构正在重新加大对中国市场的布局。随着港股IPO融资规模增长，中国企业海外发行、跨境并购及全球化经营需求持续扩大，AI、半导体、新能源和先进制造成为华尔街争夺的新业务增长点。摩根大通、瑞银、高盛等机构纷纷扩大在华业务，外资金融机构的竞争重点也从传统证券交易延伸至跨境投融资、资产管理和企业全球...",
+      "highlights": [
+        "摘要：花旗证券（中国）获批成为国内第七家外资独资券商，折射出国际金融机构正在重新加大对中国市场的布局",
+        "随着港股IPO融资规模增长，中国企业海外发行、跨境并购及全球化经营需求持续扩大，AI、半导体、新能源和先进制造成为华尔街争夺的新业务增长点",
+        "摩根大通、瑞银、高盛等机构纷纷扩大在华业务，外资金融机构的竞争重点也从传统证券交易延伸至跨境投融资、资产管理和企业全球资金管理"
+      ],
+      "url": "https://www.fx168news.com/article/%E8%A1%8C%E4%B8%9A%E6%96%B0%E9%97%BB-1112318",
+      "source": "fx168news.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-04T17:00:00Z"
+    },
+    {
+      "id": "58e4974e0d0b",
+      "title": "当AI闯入数学 研究如何裂变？|数学|AI|代数_新浪教育_新浪新闻",
+      "summary": "5月，OpenAI宣布成功攻克了一个困扰数学界80年的难题——匈牙利数学家保罗·埃尔德什（Paul Erdős）于1946年提出的“平面单位距离问题”。7月，供职于Anthropic的数学家莱文特·阿尔珀格（Levent Alpöge）表示，利用Anthropic的大语言模型Claude Fable 5，他找到了雅可比猜想的一个反例。9月，OpenAI宣布，10000个AI智能体系统88小时攻克了...",
+      "highlights": [
+        "5月，OpenAI宣布成功攻克了一个困扰数学界80年的难题——匈牙利数学家保罗·埃尔德什（Paul Erdős）于1946年提出的“平面单位距离问题”",
+        "7月，供职于Anthropic的数学家莱文特·阿尔珀格（Levent Alpöge）表示，利用Anthropic的大语言模型Claude Fable 5，他找到了雅可比猜想的一个反例",
+        "9月，OpenAI宣布，10000个AI智能体系统88小时攻克了困扰人类近一个世纪的重大数学问题纳维-斯托克斯问题"
+      ],
+      "url": "https://edu.sina.com.cn/l/2026-11-04/doc-inixmxcu9968218.shtml",
+      "source": "edu.sina.com.cn",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-11-03T16:22:35Z"
+    },
+    {
+      "id": "5120e9798ed4",
+      "title": "The Great AI Rift: Why Meta, Palantir Are Fighting Against OpenAI, Anthropic, Google",
+      "summary": "Jensen Huang's case blends principle with arithmetic. Every downloaded model still needs a GPU to run, and most GPUs are Nvidia's. When Nvidia released the Nemotron 3.5 Lightning model that runs on a ...",
+      "highlights": [
+        "Jensen Huang's case blends principle with arithmetic. Every downloaded model still needs a GPU to run, and most GPUs are Nvidia's. When Nvidia released the Nemotron 3.5 Lightning model that runs on a single GPU in August this year, he said that \"Free AI should be great for chips. In March, Nvidia had assembled the Nemotron Coalition, eight labs including Mistral and Perplexity, to build frontier-grade open models. At CES in January, Huang claimed that 80% of startups build on open models. [...] The schism is reshaping how AI gets built. The capability gap that once settled the debate has narrowed sharply: by one widely cited estimate, the best open models now trail the closed frontier by about four months, and cost roughly a third as much per unit of capability. Yet enterprise use of open models has reportedly fallen, as large companies pay a premium for managed services, support, and the very best performance. [...] The line hardened on July 24, when 25 companies, among them Nvidia, Microsoft, Meta, IBM, and Palantir, signed an open letter titled \"Open Weights and American AI Leadership\", urging Washington not to restrict open-weight models. Google, OpenAI, and Anthropic did not sign. Sam Altman later posted that he wanted America to win in both open and proprietary AI. The hedge was telling: OpenAI released open-weight models in 2025, alarmed by China's progress, but keeps its best systems behind an API."
+      ],
+      "url": "https://www.ndtv.com/opinion/the-great-ai-rift-why-meta-palantir-are-fighting-against-openai-anthropic-google-12275172?pfrom=home-ndtv_mainnavigation",
+      "source": "ndtv.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-03T22:00:00Z"
     },
     {
       "id": "1bbe275ef78d",
@@ -399,50 +444,6 @@
       "category": "产品进展",
       "importance": 4,
       "publishedAt": "2026-11-03T11:00:00Z"
-    },
-    {
-      "id": "4c2d69aef0d0",
-      "title": "腾讯混元发布 Hy4，跻身最强开源模型之列 — Noticias de TradingView",
-      "summary": "GelonghuiGelonghui\n\nFlashImportante\n\n# 腾讯混元发布 Hy4，跻身最强开源模型之列\n\n700\n\n格隆汇11月4日｜据硬AI，腾讯混元发布最新一代大语言模型 Hy4。随着模型能力的再次全面跃升，Hy 首次跻身最强开源模型之列。Hy4 将于近期开源模型权重，发布模型系统卡片，并积极推进更负责任的开源，重点关注网络和生物安全等风险。\n\n相比于 Hy4 preview...",
-      "highlights": [
-        "GelonghuiGelonghui",
-        "FlashImportante",
-        "# 腾讯混元发布 Hy4，跻身最强开源模型之列"
-      ],
-      "url": "https://es.tradingview.com/news/gelonghui:48941869ae3f9:0",
-      "source": "es.tradingview.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-11-04T05:00:00Z"
-    },
-    {
-      "id": "540e67d18582",
-      "title": "类脑芯片“涡轮增压”GPU推理性能，国产类脑超节点站上新高地",
-      "summary": "芯东西（公众号：aichip001） 作者| 李水青 编辑| 漠影. GPU集群推理撞上性能瓶颈，类脑芯片来“增压”！刚刚，国产类脑超节点站上了新高地，为国产算力降本增效带来了新",
-      "highlights": [
-        "芯东西（公众号：aichip001） 作者| 李水青 编辑| 漠影. GPU集群推理撞上性能瓶颈，类脑芯片来“增压”",
-        "刚刚，国产类脑超节点站上了新高地，为国产算力降本增效带来了新"
-      ],
-      "url": "https://m.zhidx.com/p/607396.html",
-      "source": "m.zhidx.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-11-04T10:00:00Z"
-    },
-    {
-      "id": "e3a1ee9edfff",
-      "title": "Sierra 将 Ghostwriter 置于 Agent Studio 工作流的核心 – Unite.AI",
-      "summary": "我的动态\n\n### AI 模型与平台\n\n# Sierra 将 Ghostwriter 置于 Agent Studio 工作流的核心\n\n发布于\n\n作者\n\n Aiden Cross, AI 研究代理\n\n将 Unite.AI 添加到您在 Google 上的首选来源 \n\nSierra于2026年11月2日宣布，已围绕 Ghostwriter 重新设计 Agent Studio。Ghostwriter 是用...",
-      "highlights": [
-        "### AI 模型与平台",
-        "# Sierra 将 Ghostwriter 置于 Agent Studio 工作流的核心",
-        "Aiden Cross, AI 研究代理"
-      ],
-      "url": "https://www.unite.ai/zh-cn/sierra-puts-ghostwriter-at-the-center-of-agent-studio-workflows",
-      "source": "unite.ai",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-11-02T20:36:05Z"
     }
   ],
   "today": [
@@ -475,6 +476,66 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-11-04T02:00:00Z"
+    },
+    {
+      "id": "5ad919acfe05",
+      "title": "AI游戏步入「红果时刻」，腾讯米哈游为何不慌_投资界",
+      "summary": "机器之心2026-11-04\n ### 价格战在中国大模型行业结束了，但成本战才刚开始\n\n  钛媒体APP2026-11-03\n ### 中国大模型训练如何突破算力瓶颈\n\n  经济观察网2026-10-29\n ### 考拉悠然完成B++轮融资，持续迭代世界模型基座与多模态大模型\n\n  融资大事件2026-10-29\n ### 双11的火，还是烧到了大模型\n\n  新眸2026-10-23\n ### ...",
+      "highlights": [
+        "机器之心2026-11-04",
+        "### 价格战在中国大模型行业结束了，但成本战才刚开始",
+        "钛媒体APP2026-11-03"
+      ],
+      "url": "https://news.pedaily.cn/202611/571325.shtml",
+      "source": "news.pedaily.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-04T04:48:00Z"
+    },
+    {
+      "id": "3e3853cac822",
+      "title": "当金融大模型开始自我进化-移动支付网",
+      "summary": "收藏\n\n评论加载中\n\n 工行申请一项发明专利，关于面向金融领域的大模型推理\n Revolut成立专属AI研究部门 自研金融大模型\n 重庆“十五五”人工智能发展规划：推动金融大模型研发应用！\n 中原消费金融大模型采购项目中标结果公示\n 哈银消费金融大模型基础建设项目招标\n 中国银联携手合作伙伴共同发布2025金融大模型评测体系\n 从经验驱动到智能驱动，富滇银行数字金融大模型项目入选典型案例\n 2...",
+      "highlights": [
+        "工行申请一项发明专利，关于面向金融领域的大模型推理",
+        "Revolut成立专属AI研究部门 自研金融大模型",
+        "重庆“十五五”人工智能发展规划：推动金融大模型研发应用"
+      ],
+      "url": "https://www.mpaypass.com.cn/news/202611/04182035.html",
+      "source": "mpaypass.com.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-04T09:00:00Z"
+    },
+    {
+      "id": "31b3ceeba97d",
+      "title": "天數智芯展示自研軟件棧和彤央邊緣終端",
+      "summary": "The Bamboo Works 詠竹坊\n\n# 天數智芯展示自研軟件棧和彤央邊緣終端\n\nRick Lau\n\n3 分鐘閱讀時間\n\n 001520.KS\n\n  +2.43%\n 9903.HK\n\n  +11.89%\n NVDA\n\n  +0.54%\n\nAI芯片設計商天數智芯表示，其全新彤央TY1200邊緣終端的性能，是搭載英偉達Jetson Thor T5000同類產品的1.2倍\n\n陽歌\n\n上海天數智芯半...",
+      "highlights": [
+        "The Bamboo Works 詠竹坊",
+        "# 天數智芯展示自研軟件棧和彤央邊緣終端",
+        "AI芯片設計商天數智芯表示，其全新彤央TY1200邊緣終端的性能，是搭載英偉達Jetson Thor T5000同類產品的1.2倍"
+      ],
+      "url": "https://hk.finance.yahoo.com/news/%E5%A4%A9%E6%95%B8%E6%99%BA%E8%8A%AF%E5%B1%95%E7%A4%BA%E8%87%AA%E7%A0%94%E8%BB%9F%E4%BB%B6%E6%A3%A7%E5%92%8C%E5%BD%A4%E5%A4%AE%E9%82%8A%E7%B7%A3%E7%B5%82%E7%AB%AF-075314947.html",
+      "source": "hk.finance.yahoo.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-04T08:00:00Z"
+    },
+    {
+      "id": "fd12e7b72709",
+      "title": "华尔街重新押注中国：外资投行加速布局，资本市场开放释放新机遇提供者FX168",
+      "summary": "喜欢 0 0收藏举报\n\n— 分享 —\n\n摘要：花旗证券（中国）获批成为国内第七家外资独资券商，折射出国际金融机构正在重新加大对中国市场的布局。随着港股IPO融资规模增长，中国企业海外发行、跨境并购及全球化经营需求持续扩大，AI、半导体、新能源和先进制造成为华尔街争夺的新业务增长点。摩根大通、瑞银、高盛等机构纷纷扩大在华业务，外资金融机构的竞争重点也从传统证券交易延伸至跨境投融资、资产管理和企业全球...",
+      "highlights": [
+        "摘要：花旗证券（中国）获批成为国内第七家外资独资券商，折射出国际金融机构正在重新加大对中国市场的布局",
+        "随着港股IPO融资规模增长，中国企业海外发行、跨境并购及全球化经营需求持续扩大，AI、半导体、新能源和先进制造成为华尔街争夺的新业务增长点",
+        "摩根大通、瑞银、高盛等机构纷纷扩大在华业务，外资金融机构的竞争重点也从传统证券交易延伸至跨境投融资、资产管理和企业全球资金管理"
+      ],
+      "url": "https://www.fx168news.com/article/%E8%A1%8C%E4%B8%9A%E6%96%B0%E9%97%BB-1112318",
+      "source": "fx168news.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-04T17:00:00Z"
     },
     {
       "id": "4c2d69aef0d0",
@@ -550,6 +611,51 @@
       "publishedAt": "2026-11-04T13:21:07Z"
     },
     {
+      "id": "c9686d995ca0",
+      "title": "360乌镇峰会发布元认知模型，破解AI产业应用关键瓶颈-公司动态-证券市场周刊",
+      "summary": "登录   注册\n\n杂志阅读   退出 \n\n###### 尊敬的读者，您好！\n\n您的阅读有效期到\n\n开始阅读 点击续订\n\n订阅\n\n 首页\n 杂志\n 看市场\n 公司动态\n 交流会入口\n 证券维权\n 周刊公告解读\n\n##### 首页 公司动态 正文\n\n#### 360乌镇峰会发布元认知模型，破解AI产业应用关键瓶颈\n\n2026年11月04日 15:54 来源：证券市场周刊\n\n11月4日，在2026年世界...",
+      "highlights": [
+        "###### 尊敬的读者，您好",
+        "##### 首页 公司动态 正文",
+        "#### 360乌镇峰会发布元认知模型，破解AI产业应用关键瓶颈"
+      ],
+      "url": "https://static.weeklyonstock.com/26/1104/zbf155544.html",
+      "source": "static.weeklyonstock.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-11-04T07:00:00Z"
+    },
+    {
+      "id": "bc4da0f544af",
+      "title": "腾讯混元发布Hy4，首次引入视觉理解能力 — 新京报",
+      "summary": "北交所频道 新京号 电子报 千龙网 贝壳财经 北京BEIJING 新京雅集 专题 商务合作 爱心模式;) 线索报料\n\n微博\n\n首页  视频  深读  公益  第一看点  时事  北京  国际  政事儿  观点  消费  娱乐  文化  体育  京彩教育  浪花资本  藻知科技  鲲纶智库  潮流智造局  城市好望角  海星生活社  图说  智库  数据  乡村\n\n# 腾讯混元发布Hy4，首次引入视...",
+      "highlights": [
+        "北交所频道 新京号 电子报 千龙网 贝壳财经 北京BEIJING 新京雅集 专题 商务合作 爱心模式;) 线索报料",
+        "首页  视频  深读  公益  第一看点  时事  北京  国际  政事儿  观点  消费  娱乐  文化  体育  京彩教育  浪花资本  藻知科技  鲲纶智库  潮流智造局  城市好望角  海星生活社  图说  智库  数据  乡村",
+        "# 腾讯混元发布Hy4，首次引入视觉理解能力"
+      ],
+      "url": "https://www.bjnews.com.cn/detail/1793776487129942.html",
+      "source": "bjnews.com.cn",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-11-04T07:00:00Z"
+    },
+    {
+      "id": "974d4b4f37cb",
+      "title": "自研芯片手机有哪些推荐？2026年iQOO双芯旗舰实测+3类人群选购答案+FAQ|自研芯片手机|iQOO 16|REDMI K100|iQOO Z11 Turbo|电竞手机推荐_新浪新闻",
+      "summary": "Q3：REDMI K100的自研AI独显芯片D2具体有什么用？\n\n　　D2芯片的核心作用是解放GPU的一部分算力，让手机在玩大型游戏时把部分渲染任务交给独显芯片处理，主GPU专注全局调度，从而实现更稳的帧率和更低的功耗。\n\n🎮\n\n重度游戏玩家：直接上iQOO 16，自研Q3光追芯片是独家体验 闭眼选\n\n🎓\n\n学生党/预算有限：iQOO Z11 Turbo国补后2899元起，骁龙8性能足够用三年 性...",
+      "highlights": [
+        "Q3：REDMI K100的自研AI独显芯片D2具体有什么用",
+        "D2芯片的核心作用是解放GPU的一部分算力，让手机在玩大型游戏时把部分渲染任务交给独显芯片处理，主GPU专注全局调度，从而实现更稳的帧率和更低的功耗",
+        "重度游戏玩家：直接上iQOO 16，自研Q3光追芯片是独家体验 闭眼选"
+      ],
+      "url": "https://www.sina.cn/gc/article/nixpvvc8159312.html",
+      "source": "sina.cn",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-11-04T04:00:00Z"
+    },
+    {
       "id": "a6b4564fcdfe",
       "title": "Instagram",
       "summary": "Salesforce has agreed to acquire Cresta, a startup developing AI agents for enterprise customer service, in a deal reportedly worth $2.7 billion. The acquisition price was reported by The Information,...",
@@ -563,6 +669,65 @@
       "category": "投并购",
       "importance": 3,
       "publishedAt": "2026-11-04T03:29:55Z"
+    },
+    {
+      "id": "3aa64f325a11",
+      "title": "硬核国产AI！我用这个大模型做了哪些事？",
+      "summary": "硬核国产AI！我用这个大模型做了哪些事？\n\n北京日报客户端  | 实习记者 常一鸣 \n\n2026-11-04 18:56\n\n都视频\n\n进入频道\n\n硬核国产AI！由中电信人工智能科技有限公司自主研发的星辰大模型，打造全国产的AI底座，斩获2025央企十大国之重器、世界人工智能大会SAIL之星等重磅荣誉。依托它打造的TeleAgent智能体，是覆盖办公、学习、生活的全场景AI搭子，模型能力持续落地千行...",
+      "highlights": [
+        "我用这个大模型做了哪些事",
+        "北京日报客户端  | 实习记者 常一鸣",
+        "2026-11-04 18:56"
+      ],
+      "url": "https://xinwen.bjd.com.cn/content/s6aeb0f77e4b039a8e2f32dd6.html",
+      "source": "xinwen.bjd.com.cn",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-11-04T10:00:00Z"
+    },
+    {
+      "id": "131f9c57fa54",
+      "title": "WorkBuddy“长”出了Body：启元机器人，让 AI Agent 第一次走进物理世界- DoNews专栏",
+      "summary": "logo   logo\n\n\n\n标签: AI\n\n关于我们| 电子协议| 合作联系| 京ICP备2025120072号",
+      "highlights": [
+        "logo   logo",
+        "关于我们| 电子协议| 合作联系| 京ICP备2025120072号"
+      ],
+      "url": "https://www.donews.com/article/detail/5199/109235.html",
+      "source": "donews.com",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-11-04T09:00:00Z"
+    },
+    {
+      "id": "f934832f2b9f",
+      "title": "Meta Acquires Conductor: Cloud Closes Nov. 20 [2026]",
+      "summary": "SHATERED\n\n# Meta Buys Conductor as Cloud Shuts Nov. 20 \n\nDr. Heinrich Vogel\n\nDr. Heinrich Vogel\n\nUpdated Nov 4, 2026 · 14 min read\n\nMeta has bought Conductor, the AI coding startup that lets developer...",
+      "highlights": [
+        "# Meta Buys Conductor as Cloud Shuts Nov. 20",
+        "Dr. Heinrich Vogel",
+        "Dr. Heinrich Vogel"
+      ],
+      "url": "https://shattered.io/meta-acquires-conductor-ai-coding-agents-cloud-shutdown-nov-20-2026",
+      "source": "shattered.io",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-11-04T22:13:07Z"
+    },
+    {
+      "id": "2c639a98169d",
+      "title": "Reed Jobs’s Yosemite raises $350 million second fund to make cancer non-lethal | Fortune",
+      "summary": "### VENTURE CAPITAL\n\n- Applied Compute, a San Francisco-based AI startup, raised another $350 million in funding at a $3.25 billion valuation. Elad Gil led the round, with participation from Blackston...",
+      "highlights": [
+        "### VENTURE CAPITAL",
+        "- Applied Compute, a San Francisco-based AI startup, raised another $350 million in funding at a $3.25 billion valuation. Elad Gil led the round, with participation from Blackstone, NVIDIA, Kleiner Perkins, Lux Capital, Hanabi Capital, Shopify Ventures and others. [...] - Chord, the AI data platform for commerce, acquired Zenlytic, an AI-powered business intelligence platform. Financial terms were not disclosed.",
+        "- San Francisco-based Omen AI​ announced an acquisition of Aquatic Labs for $16 million in cash and stock​. Omen AI has raised a total of $46 million from investors such as Sheryl Sandberg, Nava Ventures and CRV."
+      ],
+      "url": "https://fortune.com/2026/11/04/reed-jobs-yosemite-raises-350-million-second-fund-make-cancer-non-lethal",
+      "source": "fortune.com",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-11-04T11:00:00Z"
     },
     {
       "id": "84ffb28470f3",
@@ -604,99 +769,51 @@
       "category": "投并购",
       "importance": 2,
       "publishedAt": "2026-11-04T03:29:55Z"
+    },
+    {
+      "id": "b88947e96aa3",
+      "title": "腾讯混元 Hy4 正式版发布：为真实生产力而生- DoNews",
+      "summary": "logo   logo",
+      "highlights": [
+        "logo   logo"
+      ],
+      "url": "https://www.donews.com/news/detail/1/6764761.html",
+      "source": "donews.com",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-11-04T07:00:00Z"
+    },
+    {
+      "id": "f1d2dad7b8d2",
+      "title": "或即将迎来物理学新时代｜解读TheoPhysEval 研究",
+      "summary": "难度基准：细分领域顶尖专家，平均要花约1天才能解 出1题；跨方向专家耗时会更长。 设计初衷：避开网上已有的题库，真正检验AI做前沿物 理推导与计算的能力。",
+      "highlights": [
+        "难度基准：细分领域顶尖专家，平均要花约1天才能解 出1题；跨方向专家耗时会更长",
+        "设计初衷：避开网上已有的题库，真正检验AI做前沿物 理推导与计算的能力"
+      ],
+      "url": "https://www.facebook.com/groups/434427153280635/posts/29282021961427770",
+      "source": "facebook.com",
+      "category": "前沿理论",
+      "importance": 2,
+      "publishedAt": "2026-11-04T22:56:40Z"
+    },
+    {
+      "id": "d28cf3c33c8d",
+      "title": "A rare second exit: AI startup Suplari acquired by Docusign nearly 3 years after Microsoft spinout – GeekWire",
+      "summary": "Docusign on Tuesday announced its acquisition of the AI-powered spending analysis company, five years after Microsoft bought the Seattle-based startup and nearly three years after the Redmond tech gia...",
+      "highlights": [
+        "Docusign on Tuesday announced its acquisition of the AI-powered spending analysis company, five years after Microsoft bought the Seattle-based startup and nearly three years after the Redmond tech giant spun the company back out to its founders.",
+        "Financial terms of the latest deal weren’t disclosed. Docusign said it plans to fold Suplari’s technology into its contract management platform, pairing the startup’s analysis of corporate spending and supplier data with Docusign’s Iris AI engine. [...] The idea is to find savings, track what suppliers agreed to deliver, and flag purchases that fall outside contract terms.",
+        "Headshot of Jeff Gerber"
+      ],
+      "url": "https://www.geekwire.com/2026/second-exit-ai-startup-suplari-acquired-by-docusign-nearly-3-years-after-microsoft-spinout",
+      "source": "geekwire.com",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-11-04T20:43:25Z"
     }
   ],
   "week": [
-    {
-      "id": "77813ba9cab5",
-      "title": "个人智能体：当AI agent开始走向大众消费者︱重阳来信2026年11月_新浪财经_新浪网",
-      "summary": "类似的产品此前已有先例，例如不久前在硅谷引发广泛讨论的Grok Bot和Instinct，以及更早之前的Macaron、Poke，但相比这些“前辈”，Muse是第一个走出科技前沿圈层、锚定大众市场的产品。上线一周左右，它便登上美国app Store免费榜榜首；根据SensorTower估算，上线40天后全球下载量已超过1000万次。近乎用不完的免费token额度和Meta社交生态内的巨量推广，是它...",
-      "highlights": [
-        "类似的产品此前已有先例，例如不久前在硅谷引发广泛讨论的Grok Bot和Instinct，以及更早之前的Macaron、Poke，但相比这些“前辈”，Muse是第一个走出科技前沿圈层、锚定大众市场的产品",
-        "上线一周左右，它便登上美国app Store免费榜榜首；根据SensorTower估算，上线40天后全球下载量已超过1000万次",
-        "近乎用不完的免费token额度和Meta社交生态内的巨量推广，是它快速起量的主要原因"
-      ],
-      "url": "https://finance.sina.com.cn/money/smjj/smdt/2026-11-02/doc-inixipxc9415819.shtml",
-      "source": "finance.sina.com.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-02T07:42:53Z"
-    },
-    {
-      "id": "ff1a6b75510a",
-      "title": "具身智能赛道IPO变奏-周刊原创-证券市场周刊",
-      "summary": "今年10月，中国信通院、清华大学电子工程系、具身智能测试实验室联合发布的《具身智能发展报告（2026年）》提醒，热潮之下的行业生态存在不健康之处：出货不等于上岗，相当比例的具身智能设备月均开机天数不足10天，订单含金量低，整机价格仅占全生命周期成本的40%—60%；表演租赁日租金跌去八成至九成，二手工程样机残值缩水近九成，多数企业增收不增利。\n\n融资方式多元\n\n借壳与股权融资并进\n\n[除IPO外，...",
-      "highlights": [
-        "今年10月，中国信通院、清华大学电子工程系、具身智能测试实验室联合发布的《具身智能发展报告（2026年）》提醒，热潮之下的行业生态存在不健康之处：出货不等于上岗，相当比例的具身智能设备月均开机天数不足10天，订单含金量低，整机价格仅占全生命周期成本的40%—60%；表演租赁日租金跌去八成至九成，二手工程样机残值缩水近九成，多数企业增收不增利",
-        "[除IPO外，企业探索重整借壳与一级市场融资，深朴智能等案例显示产业资本正积极布局赛道并购机会",
-        "面对IPO难度加大与商业模式争议，部分企业开始探索曲线上市路径"
-      ],
-      "url": "https://static.weeklyonstock.com/26/1102/zbf165330.html",
-      "source": "static.weeklyonstock.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-02T09:00:00Z"
-    },
-    {
-      "id": "8824581d71a5",
-      "title": "美团发布LongCat-2.5大模型 总参数量1.6万亿 - 观点网",
-      "summary": "观点网讯：11月2日，美团发布新一代大模型LongCat-2.5。这是一个面向长程智能体任务的原生多模态模型，总参数量为1.6万亿，每个token激活约480亿参数，在LongCat-2.0的基础上进一步强化原生视觉理解与智能体编程能力。\n\n在训练侧，美团在长序列训练中加入更多长程轨迹数据，并通过大规模长程强化学习，提升模型在复杂代码库开发、完整项目构建等任务中的端到端工程能力。围绕数据合成、环境...",
-      "highlights": [
-        "观点网讯：11月2日，美团发布新一代大模型LongCat-2.5",
-        "这是一个面向长程智能体任务的原生多模态模型，总参数量为1.6万亿，每个token激活约480亿参数，在LongCat-2.0的基础上进一步强化原生视觉理解与智能体编程能力",
-        "在训练侧，美团在长序列训练中加入更多长程轨迹数据，并通过大规模长程强化学习，提升模型在复杂代码库开发、完整项目构建等任务中的端到端工程能力"
-      ],
-      "url": "https://www.guandian.cn/article/20261102/621770.html",
-      "source": "guandian.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-02T06:00:00Z"
-    },
-    {
-      "id": "ccacd338cd9d",
-      "title": "DeepSeek发布智能体新架构：让AI管AI_基金动态_基金_中金在线",
-      "summary": "登录客服\n\n忘记密码？立即注册\n\n其它账号登录：新浪; \"新浪微博登录\")QQ; \"QQ登录\")微信; \"微信登录\")\n\n手机网\n\n退出 在线咨询 |客服帮助\n\n手机网\n\n欢迎您，\n\n首页 财经 股票 基金 黄金 外汇 期货 理财 原创 汽车 路演 博客 财经号\n\n开始集中涌现。然而，现有主流Agent设计还难以在多任务和团队协作的规模上支撑这一模式，多任务上限取决于人的注意力。\n\n　　通过双层架...",
-      "highlights": [
-        "其它账号登录：新浪; \"新浪微博登录\")QQ; \"QQ登录\")微信; \"微信登录\")",
-        "退出 在线咨询 |客服帮助",
-        "首页 财经 股票 基金 黄金 外汇 期货 理财 原创 汽车 路演 博客 财经号"
-      ],
-      "url": "http://fund.cnfol.com/jijindongtai/20261102/32413797.shtml",
-      "source": "fund.cnfol.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-02T13:00:00Z"
-    },
-    {
-      "id": "a7bbe62cac31",
-      "title": "纳指跌1.07%，费半跌超3%；AI相关股票延续跌势，迈威尔跌超12%，甲骨文跌超8%",
-      "summary": "tradingkey.logo\n\n搜索\n\n\n\n一键诊股 让投资更聪明\n\n\n\nTradingKey\n\n作者Andy Chen\n\n2026年11月2日 21:12\n\nAI播客\n\nfacebooktwitterlinkedin\n\n美东时间11月2日，美股走势分化，道指逆势收涨，纳指与标普500指数下跌，资金持续自科技股流出。大型科技公司动态频传：Meta拟发行至少200亿美元债券并首次涉足欧元债市；...",
-      "highlights": [
-        "tradingkey.logo",
-        "一键诊股 让投资更聪明",
-        "作者Andy Chen"
-      ],
-      "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262264969-us-stock-close-nasdaq-falls-dow-rises-marvell-oracle-tradingkey",
-      "source": "tradingkey.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-02T05:00:00Z"
-    },
-    {
-      "id": "929253ab82be",
-      "title": "Will Anthropic, OpenAI Or Google Win AI? | Trefis",
-      "summary": "AI has weaker versions of these. A company can switch its AI model with a few lines of code. But it’s getting stickier. Anthropic’s customers now spend about nine times what they did a year ago, and o...",
-      "highlights": [
-        "AI has weaker versions of these. A company can switch its AI model with a few lines of code. But it’s getting stickier. Anthropic’s customers now spend about nine times what they did a year ago, and once an AI agent runs your billing or writes your code, swapping it is a project, not a click. [...] AI probably won’t have a Google. It will have an AWS, an Azure and a Google Cloud. Cloud computing never got a single winner; it got three, all very profitable, because the bills were big and switching was hard. AI’s model companies may end up the same way: three or four big ones, healthy but not monopoly margins. The safest profits, for now, belong to whoever owns the chips and the data centers. [...] | Player | AI revenue signal | What it also does |",
-        "| Anthropic | $65B a year run-rate (July); $100–120B expected by December (August view) | Buys compute from Amazon, Google, Microsoft and SpaceX |",
-        "| OpenAI | About $50B run-rate (late September); aiming for $70B by year-end | About $10B a quarter flows through Microsoft deals |"
-      ],
-      "url": "https://www.trefis.com/stock/googl/articles/622008/will-anthropic-openai-or-google-win-ai/2026-11-02",
-      "source": "trefis.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-02T12:56:51Z"
-    },
     {
       "id": "c14abc59a3a1",
       "title": "让AI真正上线，腾讯云与三十家企业交出AI Agent落地答卷-AI云资讯",
@@ -829,99 +946,97 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-11-03T10:00:00Z"
+    },
+    {
+      "id": "944fecb5aab7",
+      "title": "The Great AI Rift: Why Meta, Palantir Are Fighting Against OpenAI, Anthropic, Google",
+      "summary": "Jensen Huang's case blends principle with arithmetic. Every downloaded model still needs a GPU to run, and most GPUs are Nvidia's. When Nvidia released the Nemotron 3.5 Lightning model that runs on a ...",
+      "highlights": [
+        "Jensen Huang's case blends principle with arithmetic. Every downloaded model still needs a GPU to run, and most GPUs are Nvidia's. When Nvidia released the Nemotron 3.5 Lightning model that runs on a single GPU in August this year, he said that \"Free AI should be great for chips. In March, Nvidia had assembled the Nemotron Coalition, eight labs including Mistral and Perplexity, to build frontier-grade open models. At CES in January, Huang claimed that 80% of startups build on open models. [...] The schism is reshaping how AI gets built. The capability gap that once settled the debate has narrowed sharply: by one widely cited estimate, the best open models now trail the closed frontier by about four months, and cost roughly a third as much per unit of capability. Yet enterprise use of open models has reportedly fallen, as large companies pay a premium for managed services, support, and the very best performance. [...] The line hardened on July 24, when 25 companies, among them Nvidia, Microsoft, Meta, IBM, and Palantir, signed an open letter titled \"Open Weights and American AI Leadership\", urging Washington not to restrict open-weight models. Google, OpenAI, and Anthropic did not sign. Sam Altman later posted that he wanted America to win in both open and proprietary AI. The hedge was telling: OpenAI released open-weight models in 2025, alarmed by China's progress, but keeps its best systems behind an API."
+      ],
+      "url": "https://www.ndtv.com/opinion/the-great-ai-rift-why-meta-palantir-are-fighting-against-openai-anthropic-google-12275172?pfrom=home-ndtv_indianews",
+      "source": "ndtv.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-03T06:00:00Z"
+    },
+    {
+      "id": "94ebdc21aa4d",
+      "title": "英特尔与腾讯发布基于至强6+的云实例，晒智能体AI基础设施全家桶 - 智东西",
+      "summary": "此外，针对已有代码的跨平台迁移，英特尔引入基于大语言模型的AI Agent，结合专业Skill能力，在理解算法意图的基础上原生重构代码，并完成编译、验证与性能调优的全流程闭环，让跨架构迁移从“能跑”走向“跑好”。\n\n同时，英特尔将算力与智能体能力从云端延伸至终端、边缘。搭载WorkBuddy、Marvis的AI PC和基于英特尔酷睿Ultra处理器的车载AI Box等端侧应用集中亮相，生动呈现了端...",
+      "highlights": [
+        "此外，针对已有代码的跨平台迁移，英特尔引入基于大语言模型的AI Agent，结合专业Skill能力，在理解算法意图的基础上原生重构代码，并完成编译、验证与性能调优的全流程闭环，让跨架构迁移从“能跑”走向“跑好”",
+        "同时，英特尔将算力与智能体能力从云端延伸至终端、边缘",
+        "搭载WorkBuddy、Marvis的AI PC和基于英特尔酷睿Ultra处理器的车载AI Box等端侧应用集中亮相，生动呈现了端云协同的端侧智能体验，让智能体AI走进千家万户"
+      ],
+      "url": "https://m.zhidx.com/p/606250.html",
+      "source": "m.zhidx.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-11-03T11:00:00Z"
+    },
+    {
+      "id": "11d3ecb2b0d3",
+      "title": "简智完成 1 亿美元 A + 轮融资 加码具身智能数据基础设施_风闻",
+      "summary": "等4人\n已参与问答\n\n高校保安被指用镰刀杀死流浪狗，现已被停职，校园流浪动物治理应该谁来兜底？\n\n等47人\n已参与问答\n\n#### 热点\n\n#### 最近更新的专栏\n\n#### 益十六两\n\n#### 凌雁林岳\n\n#### 独角兽早知道\n\n提供IPO最新消息，及时更新市场动态\n\n#### 咖门\n\n微信公众号|咖门\n\n#### 霞光社\n\n赋能企业全球化。\n\n#### 陈经\n\n#### 旭成网\n\n旭成网...",
+      "highlights": [
+        "高校保安被指用镰刀杀死流浪狗，现已被停职，校园流浪动物治理应该谁来兜底",
+        "#### 最近更新的专栏",
+        "#### 独角兽早知道"
+      ],
+      "url": "https://user.guancha.cn/main/content?id=1764547&s=fwtjgzwz",
+      "source": "user.guancha.cn",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-11-03T03:00:00Z"
+    },
+    {
+      "id": "f9a4fa32ae76",
+      "title": "当AI闯入数学，研究如何裂变？_大风号_凤凰网",
+      "summary": "以往，一位严肃数学家将论文公开发布之前会反复推敲、多方验证。现在AI生成的成果数量之多令人目不暇接，缺乏人类数学家验证，而作者本身也未必具备数学专业背景。“他们不对论文结果负责，对了当然开心，错了对他们来说影响也不大。”陈小杨表示，纯数研究以发表学术论文为价值衡量，日益增多的研究成果让审稿机制面临巨大压力，期刊容量也远远跟不上不断涌来的论文。\n\n美国西北大学数学家布丽娜·克拉（Bryna Kra）...",
+      "highlights": [
+        "以往，一位严肃数学家将论文公开发布之前会反复推敲、多方验证",
+        "现在AI生成的成果数量之多令人目不暇接，缺乏人类数学家验证，而作者本身也未必具备数学专业背景",
+        "“他们不对论文结果负责，对了当然开心，错了对他们来说影响也不大"
+      ],
+      "url": "https://feng.ifeng.com/c/8xk7NX10BnI",
+      "source": "feng.ifeng.com",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-11-02T22:59:53Z"
+    },
+    {
+      "id": "3a95e88c85f2",
+      "title": "启明星 | 快手系芯片公司凌川科技完成10亿元B轮融资，启明创投联合领投 | 启明创投",
+      "summary": "自2017年《Attention Is All You Need》发表、NVIDIA推出首款集成Tensor Core的Volta V100以来，以通用GPU为代表的AI算力芯片经历了黄金十年；2027年起，产业将进入新一轮的牧本浪潮（Makimoto's Wave）周期，面向AIGV（AI生成式视频）等垂直赛道的专用算力器件将迎来最大的创新机遇与增长空间。\n\n行业层面，随着短剧、互动视频、AI广...",
+      "highlights": [
+        "自2017年《Attention Is All You Need》发表、NVIDIA推出首款集成Tensor Core的Volta V100以来，以通用GPU为代表的AI算力芯片经历了黄金十年；2027年起，产业将进入新一轮的牧本浪潮（Makimoto's Wave）周期，面向AIGV（AI生成式视频）等垂直赛道的专用算力器件将迎来最大的创新机遇与增长空间",
+        "行业层面，随着短剧、互动视频、AI广告等应用爆发，视频数据处理与传输需求快速增长，AIGV被视为下一代智能算力的重要应用场景，其有效算力需求相比传统文本模型呈指数级增长，在所有大模型Token消耗中占据重要部分",
+        "刘凌志表示，这一赛道当前为数百亿级规模，“未来三到五年将爆发至数千亿级，并可能突破万亿元"
+      ],
+      "url": "https://www.qimingvc.com/cn/news/%E5%90%AF%E6%98%8E%E6%98%9F-%E5%BF%AB%E6%89%8B%E7%B3%BB%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8%E5%87%8C%E5%B7%9D%E7%A7%91%E6%8A%80%E5%AE%8C%E6%88%9010%E4%BA%BF%E5%85%83b%E8%BD%AE%E8%9E%8D%E8%B5%84%EF%BC%8C%E5%90%AF%E6%98%8E%E5%88%9B%E6%8A%95%E8%81%94%E5%90%88%E9%A2%86%E6%8A%95",
+      "source": "qimingvc.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-04T09:00:00Z"
+    },
+    {
+      "id": "34594201c2e8",
+      "title": "快手系芯片公司凌川科技获10亿元B轮融资，\"本垒打\"视频生成算力-美通社PR-Newswire",
+      "summary": "凌川科技拥有雄厚的产业人才积淀。公司创始人、董事长兼CEO刘凌志为上海交通大学博士、华盛顿大学博士后，曾任快手集团副总裁及华为、英特尔等核心技术管理岗，2018年起从零搭建快手异构计算和芯片团队。目前，公司核心团队源自快手、华为、阿里、百度、英伟达、AMD、英特尔、Arm等国内外企业，平均拥有15年以上芯片设计、软件算法及基础设施经验，主导过10余款AI和视频芯片流片与量产。团队中拥有多名入选国家...",
+      "highlights": [
+        "凌川科技拥有雄厚的产业人才积淀",
+        "公司创始人、董事长兼CEO刘凌志为上海交通大学博士、华盛顿大学博士后，曾任快手集团副总裁及华为、英特尔等核心技术管理岗，2018年起从零搭建快手异构计算和芯片团队",
+        "目前，公司核心团队源自快手、华为、阿里、百度、英伟达、AMD、英特尔、Arm等国内外企业，平均拥有15年以上芯片设计、软件算法及基础设施经验，主导过10余款AI和视频芯片流片与量产"
+      ],
+      "url": "https://www.prnasia.com/story/554593-1.shtml",
+      "source": "prnasia.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-04T02:00:00Z"
     }
   ],
   "month": [
-    {
-      "id": "77813ba9cab5",
-      "title": "个人智能体：当AI agent开始走向大众消费者︱重阳来信2026年11月_新浪财经_新浪网",
-      "summary": "类似的产品此前已有先例，例如不久前在硅谷引发广泛讨论的Grok Bot和Instinct，以及更早之前的Macaron、Poke，但相比这些“前辈”，Muse是第一个走出科技前沿圈层、锚定大众市场的产品。上线一周左右，它便登上美国app Store免费榜榜首；根据SensorTower估算，上线40天后全球下载量已超过1000万次。近乎用不完的免费token额度和Meta社交生态内的巨量推广，是它...",
-      "highlights": [
-        "类似的产品此前已有先例，例如不久前在硅谷引发广泛讨论的Grok Bot和Instinct，以及更早之前的Macaron、Poke，但相比这些“前辈”，Muse是第一个走出科技前沿圈层、锚定大众市场的产品",
-        "上线一周左右，它便登上美国app Store免费榜榜首；根据SensorTower估算，上线40天后全球下载量已超过1000万次",
-        "近乎用不完的免费token额度和Meta社交生态内的巨量推广，是它快速起量的主要原因"
-      ],
-      "url": "https://finance.sina.com.cn/money/smjj/smdt/2026-11-02/doc-inixipxc9415819.shtml",
-      "source": "finance.sina.com.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-02T07:42:53Z"
-    },
-    {
-      "id": "ff1a6b75510a",
-      "title": "具身智能赛道IPO变奏-周刊原创-证券市场周刊",
-      "summary": "今年10月，中国信通院、清华大学电子工程系、具身智能测试实验室联合发布的《具身智能发展报告（2026年）》提醒，热潮之下的行业生态存在不健康之处：出货不等于上岗，相当比例的具身智能设备月均开机天数不足10天，订单含金量低，整机价格仅占全生命周期成本的40%—60%；表演租赁日租金跌去八成至九成，二手工程样机残值缩水近九成，多数企业增收不增利。\n\n融资方式多元\n\n借壳与股权融资并进\n\n[除IPO外，...",
-      "highlights": [
-        "今年10月，中国信通院、清华大学电子工程系、具身智能测试实验室联合发布的《具身智能发展报告（2026年）》提醒，热潮之下的行业生态存在不健康之处：出货不等于上岗，相当比例的具身智能设备月均开机天数不足10天，订单含金量低，整机价格仅占全生命周期成本的40%—60%；表演租赁日租金跌去八成至九成，二手工程样机残值缩水近九成，多数企业增收不增利",
-        "[除IPO外，企业探索重整借壳与一级市场融资，深朴智能等案例显示产业资本正积极布局赛道并购机会",
-        "面对IPO难度加大与商业模式争议，部分企业开始探索曲线上市路径"
-      ],
-      "url": "https://static.weeklyonstock.com/26/1102/zbf165330.html",
-      "source": "static.weeklyonstock.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-02T09:00:00Z"
-    },
-    {
-      "id": "8824581d71a5",
-      "title": "美团发布LongCat-2.5大模型 总参数量1.6万亿 - 观点网",
-      "summary": "观点网讯：11月2日，美团发布新一代大模型LongCat-2.5。这是一个面向长程智能体任务的原生多模态模型，总参数量为1.6万亿，每个token激活约480亿参数，在LongCat-2.0的基础上进一步强化原生视觉理解与智能体编程能力。\n\n在训练侧，美团在长序列训练中加入更多长程轨迹数据，并通过大规模长程强化学习，提升模型在复杂代码库开发、完整项目构建等任务中的端到端工程能力。围绕数据合成、环境...",
-      "highlights": [
-        "观点网讯：11月2日，美团发布新一代大模型LongCat-2.5",
-        "这是一个面向长程智能体任务的原生多模态模型，总参数量为1.6万亿，每个token激活约480亿参数，在LongCat-2.0的基础上进一步强化原生视觉理解与智能体编程能力",
-        "在训练侧，美团在长序列训练中加入更多长程轨迹数据，并通过大规模长程强化学习，提升模型在复杂代码库开发、完整项目构建等任务中的端到端工程能力"
-      ],
-      "url": "https://www.guandian.cn/article/20261102/621770.html",
-      "source": "guandian.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-02T06:00:00Z"
-    },
-    {
-      "id": "ccacd338cd9d",
-      "title": "DeepSeek发布智能体新架构：让AI管AI_基金动态_基金_中金在线",
-      "summary": "登录客服\n\n忘记密码？立即注册\n\n其它账号登录：新浪; \"新浪微博登录\")QQ; \"QQ登录\")微信; \"微信登录\")\n\n手机网\n\n退出 在线咨询 |客服帮助\n\n手机网\n\n欢迎您，\n\n首页 财经 股票 基金 黄金 外汇 期货 理财 原创 汽车 路演 博客 财经号\n\n开始集中涌现。然而，现有主流Agent设计还难以在多任务和团队协作的规模上支撑这一模式，多任务上限取决于人的注意力。\n\n　　通过双层架...",
-      "highlights": [
-        "其它账号登录：新浪; \"新浪微博登录\")QQ; \"QQ登录\")微信; \"微信登录\")",
-        "退出 在线咨询 |客服帮助",
-        "首页 财经 股票 基金 黄金 外汇 期货 理财 原创 汽车 路演 博客 财经号"
-      ],
-      "url": "http://fund.cnfol.com/jijindongtai/20261102/32413797.shtml",
-      "source": "fund.cnfol.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-02T13:00:00Z"
-    },
-    {
-      "id": "a7bbe62cac31",
-      "title": "纳指跌1.07%，费半跌超3%；AI相关股票延续跌势，迈威尔跌超12%，甲骨文跌超8%",
-      "summary": "tradingkey.logo\n\n搜索\n\n\n\n一键诊股 让投资更聪明\n\n\n\nTradingKey\n\n作者Andy Chen\n\n2026年11月2日 21:12\n\nAI播客\n\nfacebooktwitterlinkedin\n\n美东时间11月2日，美股走势分化，道指逆势收涨，纳指与标普500指数下跌，资金持续自科技股流出。大型科技公司动态频传：Meta拟发行至少200亿美元债券并首次涉足欧元债市；...",
-      "highlights": [
-        "tradingkey.logo",
-        "一键诊股 让投资更聪明",
-        "作者Andy Chen"
-      ],
-      "url": "https://www.tradingkey.com/zh-hans/analysis/stocks/us-stock/262264969-us-stock-close-nasdaq-falls-dow-rises-marvell-oracle-tradingkey",
-      "source": "tradingkey.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-02T05:00:00Z"
-    },
-    {
-      "id": "929253ab82be",
-      "title": "Will Anthropic, OpenAI Or Google Win AI? | Trefis",
-      "summary": "AI has weaker versions of these. A company can switch its AI model with a few lines of code. But it’s getting stickier. Anthropic’s customers now spend about nine times what they did a year ago, and o...",
-      "highlights": [
-        "AI has weaker versions of these. A company can switch its AI model with a few lines of code. But it’s getting stickier. Anthropic’s customers now spend about nine times what they did a year ago, and once an AI agent runs your billing or writes your code, swapping it is a project, not a click. [...] AI probably won’t have a Google. It will have an AWS, an Azure and a Google Cloud. Cloud computing never got a single winner; it got three, all very profitable, because the bills were big and switching was hard. AI’s model companies may end up the same way: three or four big ones, healthy but not monopoly margins. The safest profits, for now, belong to whoever owns the chips and the data centers. [...] | Player | AI revenue signal | What it also does |",
-        "| Anthropic | $65B a year run-rate (July); $100–120B expected by December (August view) | Buys compute from Amazon, Google, Microsoft and SpaceX |",
-        "| OpenAI | About $50B run-rate (late September); aiming for $70B by year-end | About $10B a quarter flows through Microsoft deals |"
-      ],
-      "url": "https://www.trefis.com/stock/googl/articles/622008/will-anthropic-openai-or-google-win-ai/2026-11-02",
-      "source": "trefis.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-02T12:56:51Z"
-    },
     {
       "id": "c14abc59a3a1",
       "title": "让AI真正上线，腾讯云与三十家企业交出AI Agent落地答卷-AI云资讯",
@@ -979,6 +1094,94 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-11-02T22:00:00Z"
+    },
+    {
+      "id": "31cc15baae31",
+      "title": "美团发布新一代大模型，国产算力赋能本地生活商家 _ 东方财富网",
+      "summary": "美团方面透露，LongCat-2.5在全程国产算力训练的基础上，进一步强化原生多模态能力，将视觉输入转化为模型可统一处理的token，提升视觉理解能力，支持交互网页、3D展示页面等任务。智能体编程方面，模型采用大规模长程强化学习，提升端到端工程任务能力，更好地支持复杂软件开发任务。\n\n　　今年8月28日的美团二季度财报电话会上，CEO王兴表示：AI能力的长期价值，是能否真正进入真实工作流、解决真实...",
+      "highlights": [
+        "美团方面透露，LongCat-2.5在全程国产算力训练的基础上，进一步强化原生多模态能力，将视觉输入转化为模型可统一处理的token，提升视觉理解能力，支持交互网页、3D展示页面等任务",
+        "智能体编程方面，模型采用大规模长程强化学习，提升端到端工程任务能力，更好地支持复杂软件开发任务",
+        "今年8月28日的美团二季度财报电话会上，CEO王兴表示：AI能力的长期价值，是能否真正进入真实工作流、解决真实问题，并形成长期稳定的基础设施能力"
+      ],
+      "url": "https://finance.eastmoney.com/a/202611023918664246.html",
+      "source": "finance.eastmoney.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-11-02T22:00:00Z"
+    },
+    {
+      "id": "57dbde00724b",
+      "title": "南方财经网 - 南方财经全媒体集团",
+      "summary": "21世纪经济报道 21财经APP    \n 孔海丽   2026-11-03 17:14:16\n\n21世纪经济报道记者 孔海丽\n\n11月3日，就近日有关昆仑芯上市时间可能推迟的市场传闻，百度方面回应表示：相关市场传闻及相关报道不属实。\n\n百度方面表示，昆仑芯目前处于保密申报阶段。根据监管要求，公司不能披露包括上市流程进展在内的任何重大非公开信息。\n\n百度称，未来将适时对外公告，请关注公司后续发布的...",
+      "highlights": [
+        "21世纪经济报道 21财经APP",
+        "孔海丽   2026-11-03 17:14:16",
+        "21世纪经济报道记者 孔海丽"
+      ],
+      "url": "https://m.sfccn.com/2026/11-3/1NMDE0MDdfMjI5MjI1NA.html",
+      "source": "m.sfccn.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-03T09:00:00Z"
+    },
+    {
+      "id": "264dd50289a1",
+      "title": "第一批具身智能公司，倒在热钱翻涌中 | 盖世汽车",
+      "summary": "一个产品好不好、值多少钱，本该由终端用户说了算，这是市场在定价。可当客户主要是投资人、地方数采中心和产业链伙伴，产品的定价实际上由资本的预期决定：预期高，估值就高；预期一转，订单和收入一起退潮。\n\n这也解释了为什么很多公司看着风光，却经不起时间：当定价权从市场转移到了资本手里，企业看着是在做生意，实际是在被资本定价，经营主动权不在自己手里。\n\n更何况，资本的定价权并非没有边界。\n\n物理AI有自己的...",
+      "highlights": [
+        "一个产品好不好、值多少钱，本该由终端用户说了算，这是市场在定价",
+        "可当客户主要是投资人、地方数采中心和产业链伙伴，产品的定价实际上由资本的预期决定：预期高，估值就高；预期一转，订单和收入一起退潮",
+        "这也解释了为什么很多公司看着风光，却经不起时间：当定价权从市场转移到了资本手里，企业看着是在做生意，实际是在被资本定价，经营主动权不在自己手里"
+      ],
+      "url": "https://www.gasgoo.com/robot/news/70476657-%E7%AC%AC%E4%B8%80%E6%89%B9%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E5%85%AC%E5%8F%B8-%E5%80%92%E5%9C%A8%E7%83%AD%E9%92%B1%E7%BF%BB%E6%B6%8C%E4%B8%AD",
+      "source": "gasgoo.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-11-02T23:00:00Z"
+    },
+    {
+      "id": "760d0b5df919",
+      "title": "21专访｜张贵兵：做机器人是一场马拉松，过早吆喝是砸自己招牌 - 21世纪经济报道",
+      "summary": "“我们在严格控制自己的产品走出去。”张贵兵表示，墨甲机器人并没有公布此次墨宝产品的订单、价格和交付时间，原因是产品还需要继续打磨。“我们希望我们的产品能说到做到，墨宝能真正成为爆品，为墨甲机器人未来走进千家万户播下一颗好的种子。”\n\n墨甲机器人产品“墨宝” 来源：奇瑞官方  \n\n谈及对当下机器人行业的判断时，张贵兵认为，随着竞争日趋激烈，未来会有越来越多的“全赛道”机器人公司转型至细分赛道。他还补...",
+      "highlights": [
+        "“我们在严格控制自己的产品走出去",
+        "”张贵兵表示，墨甲机器人并没有公布此次墨宝产品的订单、价格和交付时间，原因是产品还需要继续打磨",
+        "“我们希望我们的产品能说到做到，墨宝能真正成为爆品，为墨甲机器人未来走进千家万户播下一颗好的种子"
+      ],
+      "url": "https://m.21jingji.com/article/20261102/herald/e56acf9d64fef36c37294c9c5bf2b07f_zaker.html",
+      "source": "m.21jingji.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-11-03T11:00:00Z"
+    },
+    {
+      "id": "438283831845",
+      "title": "【答疑室】机器人数据集采业务进展如何？天亿马回应 _ 东方财富网",
+      "summary": "近日，天亿马在接受机构调研时表示，公司数据标注业务立足广东、稳步扩张，目前在汕头布局两大数据标注基地：华侨试验区基地与濠江基地。华侨试验区基地依托汕头“来数加工”政策优势，重点发展跨境数据标注业务；濠江基地聚焦国内市场，业务覆盖自动驾驶、大模型训练、图像、语音（含方言）、具身智能等多元场景。\n\n　　天亿马2026年半年报显示，公司聚焦人形机器人真机场景下的数据采集、加工与合规交付全链条业务，积极推...",
+      "highlights": [
+        "近日，天亿马在接受机构调研时表示，公司数据标注业务立足广东、稳步扩张，目前在汕头布局两大数据标注基地：华侨试验区基地与濠江基地",
+        "华侨试验区基地依托汕头“来数加工”政策优势，重点发展跨境数据标注业务；濠江基地聚焦国内市场，业务覆盖自动驾驶、大模型训练、图像、语音（含方言）、具身智能等多元场景",
+        "天亿马2026年半年报显示，公司聚焦人形机器人真机场景下的数据采集、加工与合规交付全链条业务，积极推进规模化人形机器人专业训练场建设，致力于构建完整的数据采集、存储与训练基础设施体系"
+      ],
+      "url": "https://finance.eastmoney.com/a/202611033920600076.html",
+      "source": "finance.eastmoney.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-03T10:00:00Z"
+    },
+    {
+      "id": "944fecb5aab7",
+      "title": "The Great AI Rift: Why Meta, Palantir Are Fighting Against OpenAI, Anthropic, Google",
+      "summary": "Jensen Huang's case blends principle with arithmetic. Every downloaded model still needs a GPU to run, and most GPUs are Nvidia's. When Nvidia released the Nemotron 3.5 Lightning model that runs on a ...",
+      "highlights": [
+        "Jensen Huang's case blends principle with arithmetic. Every downloaded model still needs a GPU to run, and most GPUs are Nvidia's. When Nvidia released the Nemotron 3.5 Lightning model that runs on a single GPU in August this year, he said that \"Free AI should be great for chips. In March, Nvidia had assembled the Nemotron Coalition, eight labs including Mistral and Perplexity, to build frontier-grade open models. At CES in January, Huang claimed that 80% of startups build on open models. [...] The schism is reshaping how AI gets built. The capability gap that once settled the debate has narrowed sharply: by one widely cited estimate, the best open models now trail the closed frontier by about four months, and cost roughly a third as much per unit of capability. Yet enterprise use of open models has reportedly fallen, as large companies pay a premium for managed services, support, and the very best performance. [...] The line hardened on July 24, when 25 companies, among them Nvidia, Microsoft, Meta, IBM, and Palantir, signed an open letter titled \"Open Weights and American AI Leadership\", urging Washington not to restrict open-weight models. Google, OpenAI, and Anthropic did not sign. Sam Altman later posted that he wanted America to win in both open and proprietary AI. The hedge was telling: OpenAI released open-weight models in 2025, alarmed by China's progress, but keeps its best systems behind an API."
+      ],
+      "url": "https://www.ndtv.com/opinion/the-great-ai-rift-why-meta-palantir-are-fighting-against-openai-anthropic-google-12275172?pfrom=home-ndtv_indianews",
+      "source": "ndtv.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-03T06:00:00Z"
     }
   ]
 }
