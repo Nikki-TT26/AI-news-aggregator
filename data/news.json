@@ -1,66 +1,6 @@
 {
-  "updatedAt": "2026-11-06T03:49:20Z",
+  "updatedAt": "2026-11-06T13:18:09Z",
   "latest": [
-    {
-      "id": "3a95e88c85f2",
-      "title": "启明星 | 快手系芯片公司凌川科技完成10亿元B轮融资，启明创投联合领投 | 启明创投",
-      "summary": "自2017年《Attention Is All You Need》发表、NVIDIA推出首款集成Tensor Core的Volta V100以来，以通用GPU为代表的AI算力芯片经历了黄金十年；2027年起，产业将进入新一轮的牧本浪潮（Makimoto's Wave）周期，面向AIGV（AI生成式视频）等垂直赛道的专用算力器件将迎来最大的创新机遇与增长空间。\n\n行业层面，随着短剧、互动视频、AI广...",
-      "highlights": [
-        "自2017年《Attention Is All You Need》发表、NVIDIA推出首款集成Tensor Core的Volta V100以来，以通用GPU为代表的AI算力芯片经历了黄金十年；2027年起，产业将进入新一轮的牧本浪潮（Makimoto's Wave）周期，面向AIGV（AI生成式视频）等垂直赛道的专用算力器件将迎来最大的创新机遇与增长空间",
-        "行业层面，随着短剧、互动视频、AI广告等应用爆发，视频数据处理与传输需求快速增长，AIGV被视为下一代智能算力的重要应用场景，其有效算力需求相比传统文本模型呈指数级增长，在所有大模型Token消耗中占据重要部分",
-        "刘凌志表示，这一赛道当前为数百亿级规模，“未来三到五年将爆发至数千亿级，并可能突破万亿元"
-      ],
-      "url": "https://www.qimingvc.com/cn/news/%E5%90%AF%E6%98%8E%E6%98%9F-%E5%BF%AB%E6%89%8B%E7%B3%BB%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8%E5%87%8C%E5%B7%9D%E7%A7%91%E6%8A%80%E5%AE%8C%E6%88%9010%E4%BA%BF%E5%85%83b%E8%BD%AE%E8%9E%8D%E8%B5%84%EF%BC%8C%E5%90%AF%E6%98%8E%E5%88%9B%E6%8A%95%E8%81%94%E5%90%88%E9%A2%86%E6%8A%95",
-      "source": "qimingvc.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-04T09:00:00Z"
-    },
-    {
-      "id": "5ad919acfe05",
-      "title": "AI游戏步入「红果时刻」，腾讯米哈游为何不慌_投资界",
-      "summary": "机器之心2026-11-04\n ### 价格战在中国大模型行业结束了，但成本战才刚开始\n\n  钛媒体APP2026-11-03\n ### 中国大模型训练如何突破算力瓶颈\n\n  经济观察网2026-10-29\n ### 考拉悠然完成B++轮融资，持续迭代世界模型基座与多模态大模型\n\n  融资大事件2026-10-29\n ### 双11的火，还是烧到了大模型\n\n  新眸2026-10-23\n ### ...",
-      "highlights": [
-        "机器之心2026-11-04",
-        "### 价格战在中国大模型行业结束了，但成本战才刚开始",
-        "钛媒体APP2026-11-03"
-      ],
-      "url": "https://news.pedaily.cn/202611/571325.shtml",
-      "source": "news.pedaily.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-04T04:48:00Z"
-    },
-    {
-      "id": "3e3853cac822",
-      "title": "当金融大模型开始自我进化-移动支付网",
-      "summary": "收藏\n\n评论加载中\n\n 工行申请一项发明专利，关于面向金融领域的大模型推理\n Revolut成立专属AI研究部门 自研金融大模型\n 重庆“十五五”人工智能发展规划：推动金融大模型研发应用！\n 中原消费金融大模型采购项目中标结果公示\n 哈银消费金融大模型基础建设项目招标\n 中国银联携手合作伙伴共同发布2025金融大模型评测体系\n 从经验驱动到智能驱动，富滇银行数字金融大模型项目入选典型案例\n 2...",
-      "highlights": [
-        "工行申请一项发明专利，关于面向金融领域的大模型推理",
-        "Revolut成立专属AI研究部门 自研金融大模型",
-        "重庆“十五五”人工智能发展规划：推动金融大模型研发应用"
-      ],
-      "url": "https://www.mpaypass.com.cn/news/202611/04182035.html",
-      "source": "mpaypass.com.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-04T09:00:00Z"
-    },
-    {
-      "id": "31b3ceeba97d",
-      "title": "天數智芯展示自研軟件棧和彤央邊緣終端",
-      "summary": "The Bamboo Works 詠竹坊\n\n# 天數智芯展示自研軟件棧和彤央邊緣終端\n\nRick Lau\n\n3 分鐘閱讀時間\n\n 001520.KS\n\n  +2.43%\n 9903.HK\n\n  +11.89%\n NVDA\n\n  +0.54%\n\nAI芯片設計商天數智芯表示，其全新彤央TY1200邊緣終端的性能，是搭載英偉達Jetson Thor T5000同類產品的1.2倍\n\n陽歌\n\n上海天數智芯半...",
-      "highlights": [
-        "The Bamboo Works 詠竹坊",
-        "# 天數智芯展示自研軟件棧和彤央邊緣終端",
-        "AI芯片設計商天數智芯表示，其全新彤央TY1200邊緣終端的性能，是搭載英偉達Jetson Thor T5000同類產品的1.2倍"
-      ],
-      "url": "https://hk.finance.yahoo.com/news/%E5%A4%A9%E6%95%B8%E6%99%BA%E8%8A%AF%E5%B1%95%E7%A4%BA%E8%87%AA%E7%A0%94%E8%BB%9F%E4%BB%B6%E6%A3%A7%E5%92%8C%E5%BD%A4%E5%A4%AE%E9%82%8A%E7%B7%A3%E7%B5%82%E7%AB%AF-075314947.html",
-      "source": "hk.finance.yahoo.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-04T08:00:00Z"
-    },
     {
       "id": "fd12e7b72709",
       "title": "华尔街重新押注中国：外资投行加速布局，资本市场开放释放新机遇提供者FX168",
@@ -313,6 +253,36 @@
       "publishedAt": "2026-11-06T00:50:00Z"
     },
     {
+      "id": "7a906c684aff",
+      "title": "发布“地球最强”模型仅几天后 OpenAI首席科学家发长文呼吁放慢AI开发",
+      "summary": "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”。他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标。\n\n他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行。\n\nOpenAI首席执行官奥尔特曼（Sam Altman）在...",
+      "highlights": [
+        "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”",
+        "他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标",
+        "他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行"
+      ],
+      "url": "https://www.cls.cn/detail/2475526",
+      "source": "cls.cn",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-11-05T14:00:00Z"
+    },
+    {
+      "id": "a6ff687cba66",
+      "title": "摩根大通：看多科技的短线反弹",
+      "summary": "昨晚微软涨6.68%，亚马逊涨6.12%，苹果涨5.31%，谷歌涨3.25%，说明资金正从“AI硬件供应商”流向“现金流稳定的大型平台公司”。\n\n监管趋严可能削弱AI基础设施扩张速度，但大型云厂商反而可能因竞争压力下降、资本开支节奏更可控而受益。\n\n对于后市，摩根大通也给出了四大需要跟踪的信号，昨晚的半导体下跌让其中两个信号更关键。\n\n第一，持仓是否充分出清。\n\n半导体和AI硬件此前交易拥挤，民主...",
+      "highlights": [
+        "昨晚微软涨6.68%，亚马逊涨6.12%，苹果涨5.31%，谷歌涨3.25%，说明资金正从“AI硬件供应商”流向“现金流稳定的大型平台公司”",
+        "监管趋严可能削弱AI基础设施扩张速度，但大型云厂商反而可能因竞争压力下降、资本开支节奏更可控而受益",
+        "对于后市，摩根大通也给出了四大需要跟踪的信号，昨晚的半导体下跌让其中两个信号更关键"
+      ],
+      "url": "https://www.moomoo.com/hans/news/post/1003584393",
+      "source": "moomoo.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-05T02:00:00Z"
+    },
+    {
       "id": "8dbbf878d8ef",
       "title": "Open AI's another internal benchmarks show Anthropic ...",
       "summary": "Open AI's another internal benchmarks show Anthropic and Google are still unthreatening ... For the first time Anthropic models are the clear losers vs OpenAI",
@@ -324,51 +294,6 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-11-05T03:51:37Z"
-    },
-    {
-      "id": "bc4da0f544af",
-      "title": "腾讯混元发布Hy4，首次引入视觉理解能力 — 新京报",
-      "summary": "北交所频道 新京号 电子报 千龙网 贝壳财经 北京BEIJING 新京雅集 专题 商务合作 爱心模式;) 线索报料\n\n微博\n\n首页  视频  深读  公益  第一看点  时事  北京  国际  政事儿  观点  消费  娱乐  文化  体育  京彩教育  浪花资本  藻知科技  鲲纶智库  潮流智造局  城市好望角  海星生活社  图说  智库  数据  乡村\n\n# 腾讯混元发布Hy4，首次引入视...",
-      "highlights": [
-        "北交所频道 新京号 电子报 千龙网 贝壳财经 北京BEIJING 新京雅集 专题 商务合作 爱心模式;) 线索报料",
-        "首页  视频  深读  公益  第一看点  时事  北京  国际  政事儿  观点  消费  娱乐  文化  体育  京彩教育  浪花资本  藻知科技  鲲纶智库  潮流智造局  城市好望角  海星生活社  图说  智库  数据  乡村",
-        "# 腾讯混元发布Hy4，首次引入视觉理解能力"
-      ],
-      "url": "https://www.bjnews.com.cn/detail/1793776487129942.html",
-      "source": "bjnews.com.cn",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-11-04T13:00:00Z"
-    },
-    {
-      "id": "974d4b4f37cb",
-      "title": "自研芯片手机有哪些推荐？2026年iQOO双芯旗舰实测+3类人群选购答案+FAQ|自研芯片手机|iQOO 16|REDMI K100|iQOO Z11 Turbo|电竞手机推荐_新浪新闻",
-      "summary": "Q3：REDMI K100的自研AI独显芯片D2具体有什么用？\n\n　　D2芯片的核心作用是解放GPU的一部分算力，让手机在玩大型游戏时把部分渲染任务交给独显芯片处理，主GPU专注全局调度，从而实现更稳的帧率和更低的功耗。\n\n🎮\n\n重度游戏玩家：直接上iQOO 16，自研Q3光追芯片是独家体验 闭眼选\n\n🎓\n\n学生党/预算有限：iQOO Z11 Turbo国补后2899元起，骁龙8性能足够用三年 性...",
-      "highlights": [
-        "Q3：REDMI K100的自研AI独显芯片D2具体有什么用",
-        "D2芯片的核心作用是解放GPU的一部分算力，让手机在玩大型游戏时把部分渲染任务交给独显芯片处理，主GPU专注全局调度，从而实现更稳的帧率和更低的功耗",
-        "重度游戏玩家：直接上iQOO 16，自研Q3光追芯片是独家体验 闭眼选"
-      ],
-      "url": "https://www.sina.cn/gc/article/nixpvvc8159312.html",
-      "source": "sina.cn",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-11-04T13:00:00Z"
-    },
-    {
-      "id": "06fa03eb9362",
-      "title": "这款国产通用Agent，拿下一项大奖—新闻—科学网",
-      "summary": "给AI装上“工程化的身体”\n\n2010年加入阿里的丁宇，此前的十几年都在与云计算的“幕后工作”打交道：全面容器化、统一调度、混合部署，推动阿里巴巴业务整体云原生化上云。这些工作，极少出现在公众视野里。\n\n转折发生在2023年，大模型的编程能力尚不成熟，业界只有Cursor、GitHub Copilot等少数玩家。丁宇敏锐地嗅到AI编程（AI Coding）的巨大潜力，并开始与公司内部大模型团队紧密...",
-      "highlights": [
-        "给AI装上“工程化的身体”",
-        "2010年加入阿里的丁宇，此前的十几年都在与云计算的“幕后工作”打交道：全面容器化、统一调度、混合部署，推动阿里巴巴业务整体云原生化上云",
-        "这些工作，极少出现在公众视野里"
-      ],
-      "url": "https://news.sciencenet.cn/htmlnews/2026/11/574215.shtm",
-      "source": "news.sciencenet.cn",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-11-04T13:00:00Z"
     },
     {
       "id": "1b4845e24fa3",
@@ -399,19 +324,6 @@
       "publishedAt": "2026-11-05T00:00:00Z"
     },
     {
-      "id": "f90710eba771",
-      "title": "Supermicro will sell SambaNova’s SN50 chips next to Nvidia GPUs - The Next Web",
-      "summary": "Supermicro will build and sell AI inference systems that pair SambaNova’s SN50 chips with Nvidia GPUs, the companies said on Tuesday. The collaboration initially plans for 10,000 SN50 chips, according...",
-      "highlights": [
-        "Supermicro will build and sell AI inference systems that pair SambaNova’s SN50 chips with Nvidia GPUs, the companies said on Tuesday. The collaboration initially plans for 10,000 SN50 chips, according to SambaNova’s announcement. The racks will join Supermicro’s Data Center Building Block Solutions, the ready-made data centre systems it sells to customers. In the new racks, Nvidia GPUs do the reading and SN50 chips do the writing, SambaNova said. > “Agentic AI is the next wave of inference, and it has to run everywhere,” said Rodrigo Liang, co-founder and chief executive of SambaNova. SambaNova engineers will get AI models running and tuned on SN50 and help with deployments. They then plan to sell to companies that run AI in their own data centres. Operators can add inference capacity in data centres they already run, according to SambaNova. Oracle said at its AI World conference on 27 October that it plans to deploy SN50 chips in its cloud data centres."
-      ],
-      "url": "https://thenextweb.com/news/supermicro-sambanova-sn50-nvidia-inference-racks",
-      "source": "thenextweb.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-11-04T10:11:18Z"
-    },
-    {
       "id": "06b277d04857",
       "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC - CNBC",
       "summary": "Moonshot AI, a Chinese artificial intelligence lab that the White House accused of accessing Nvidia advanced chips remotely in East Asia, has sought access to the chips through data centers in Europe,...",
@@ -436,6 +348,94 @@
       "category": "芯片硬件",
       "importance": 4,
       "publishedAt": "2026-11-04T16:00:17Z"
+    },
+    {
+      "id": "7cc37fe8beaf",
+      "title": "帮助解决真实社会问题，阿里巴巴发布《2026 AI向善行动报告》",
+      "summary": "[](\n\n 时政\n 热点\n 政务\n 深瞳\n 访谈\n 视频\n 国际\n 地方\n 专题\n English\n 滚动\n\n[](  登录 -\n\n所在位置： 中国科技网首页 > 滚动 > 正文\n\n# 帮助解决真实社会问题，阿里巴巴发布《2026 AI向善行动报告》\n\n2026-11-06 13:53:27 来源:  科技日报  点击数：\n\n科技日报记者 张佳星\n\n一张体检时显示胸部正常的CT影像，在AI大模型的...",
+      "highlights": [
+        "所在位置： 中国科技网首页 > 滚动 > 正文",
+        "# 帮助解决真实社会问题，阿里巴巴发布《2026 AI向善行动报告》",
+        "2026-11-06 13:53:27 来源:  科技日报  点击数："
+      ],
+      "url": "https://www.stdaily.com/web/gdxw/2026-11/06/content_609496.html",
+      "source": "stdaily.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-06T06:00:00Z"
+    },
+    {
+      "id": "9a32c7b91698",
+      "title": "国产GPU唯一入选企业！沐曦曦景S600亮相：全国产7nm制程_大风号_凤凰网",
+      "summary": "# 国产GPU唯一入选企业！沐曦曦景S600亮相：全国产7nm制程\n\n[](\n\n驱动之家\n\n下载客户端  \n独家抢先看\n\n来自北京\n\n快科技11月6日消息，在第九届中国国际进口博览会上，沐曦股份作为中国馆唯一入选的国产GPU企业，展出了曦景S600超节点与异构双擎算力机柜。其中，曦景S600的核心参数也一并公开。\n\n曦景S600的算力单元是沐曦曦云C600 GPU。该芯片基于自研XCORE 1.5...",
+      "highlights": [
+        "# 国产GPU唯一入选企业",
+        "沐曦曦景S600亮相：全国产7nm制程",
+        "快科技11月6日消息，在第九届中国国际进口博览会上，沐曦股份作为中国馆唯一入选的国产GPU企业，展出了曦景S600超节点与异构双擎算力机柜"
+      ],
+      "url": "https://feng.ifeng.com/c/8xpdobA8KT3",
+      "source": "feng.ifeng.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-11-06T06:32:29Z"
+    },
+    {
+      "id": "de137d098d87",
+      "title": "PapersWithCode 评测：附有可运行代码的热门 AI 论文。 — Quasa",
+      "summary": "Papers with Code（已收录于 Quasa.io/projects/papers-with-code）是一个由社区推动的项目，旨在重振这一传奇平台，追踪最新的 AI 和机器学习研究论文，以及相应的代码实现、排行榜、数据集和方法。\n\n在原版 paperswithcode.com 下线后，这个新版本延续了它的使命：让研究人员、工程师和开发者能够发现、复现并应用前沿研究。\n\n它的核心是提供简...",
+      "highlights": [
+        "Papers with Code（已收录于 Quasa.io/projects/papers-with-code）是一个由社区推动的项目，旨在重振这一传奇平台，追踪最新的 AI 和机器学习研究论文，以及相应的代码实现、排行榜、数据集和方法",
+        "在原版 paperswithcode.com 下线后，这个新版本延续了它的使命：让研究人员、工程师和开发者能够发现、复现并应用前沿研究",
+        "它的核心是提供简洁、快速且专注的使用体验，帮助用户紧跟科技领域中发展最快的这一领域"
+      ],
+      "url": "https://quasa.io/zh/video/paperswithcode-ping-ce-fu-you-ke-yun-xing-dai-ma-de-re-men-ai-lun-wen",
+      "source": "quasa.io",
+      "category": "前沿理论",
+      "importance": 4,
+      "publishedAt": "2026-11-06T04:00:00Z"
+    },
+    {
+      "id": "0563006a5634",
+      "title": "OpenAI/阿里达摩院等都在卷，10篇具身智能论文汇总，从统一具身大脑到机群自我进化 - 智源社区",
+      "summary": "研究团队提出 EgoXperience，一个全栈范式，用于从自我中心视频联合重建观察者运动、场景几何与手-物交互。核心是自动标注引擎 EgoX-Engine，将几何验证的对象跟踪与基于 SLAM 的世界对齐耦合，为相机、场景、双手与物体产出一致监督，由此得到 50 小时、带秒级任务描述的 EgoX-Data-6M 数据集，并精挑 1 小时构建 EgoX-Bench 评估联合重建。模型 EgoX 在...",
+      "highlights": [
+        "研究团队提出 EgoXperience，一个全栈范式，用于从自我中心视频联合重建观察者运动、场景几何与手-物交互",
+        "核心是自动标注引擎 EgoX-Engine，将几何验证的对象跟踪与基于 SLAM 的世界对齐耦合，为相机、场景、双手与物体产出一致监督，由此得到 50 小时、带秒级任务描述的 EgoX-Data-6M 数据集，并精挑 1 小时构建 EgoX-Bench 评估联合重建",
+        "模型 EgoX 在单目自我中心视频与首帧物体掩码输入下，以单次前向在共享世界坐标系中联合重建相机、场景、双手与物体"
+      ],
+      "url": "https://hub.baai.ac.cn/view/59394",
+      "source": "hub.baai.ac.cn",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-11-05T15:00:00Z"
+    },
+    {
+      "id": "d9cca0784e84",
+      "title": "智启未来·AI Agent智能体跨境实战课第三讲开讲",
+      "summary": "这一回问得更实在:有了AI Agent,普通人的生意,到底能伸多远... 第二步,把“你的行业+你的产品”对上去,再让智能体开工.语...",
+      "highlights": [
+        "这一回问得更实在:有了AI Agent,普通人的生意,到底能伸多远... 第二步,把“你的行业+你的产品”对上去,再让智能体开工.语..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-SFC2YKwMFXnXOYyiwPLhUqu6z398qNvlqXa8Fplpd9Zgp7INA0uCWHpd2vx_5IkH5LoTlZmqVK1cKFIX8yLijY0PIN-DAwLVUFUiDFgR3JJ65QV8LaIr38YIND7ok6Vs-Nq3cN-sJ-gmebsCOwU05vGOiKu4D5X9MQ5kluymRkyzFDHvQ-GRdid3IK1Q1ZcCWpVbPFjC6kVRoewfnq6n72CsG6-xMgzQ..&amp;type=2&amp;query=AI Agent %E6%99%BA%E8%83%BD%E4%BD%93 %E4%BA%A7%E5%93%81&amp;token=17113EC49BA8DC9B8E88D115FEC298178FDB30216AEDD38D",
+      "source": "微信公众号",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-11-06T09:49:52Z"
+    },
+    {
+      "id": "f2562daf6082",
+      "title": "突发！李飞飞最新 AI 成果发布，把世界模型装进复古掌机，单张图实时跑出 15 帧",
+      "summary": "点下生成按钮，然后对着转圈的进度条干等好几分钟。过去玩3D 世界模型或者视频生成的朋友，估计都被那种漫长的渲染折磨得没脾气了。就在今天，李飞飞创办的World Labs",
+      "highlights": [
+        "点下生成按钮，然后对着转圈的进度条干等好几分钟",
+        "过去玩3D 世界模型或者视频生成的朋友，估计都被那种漫长的渲染折磨得没脾气了",
+        "就在今天，李飞飞创办的World Labs"
+      ],
+      "url": "https://www.eet-china.com/mp/a537324.html",
+      "source": "eet-china.com",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-11-06T03:00:00Z"
     }
   ],
   "today": [
@@ -453,6 +453,64 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-11-06T00:50:00Z"
+    },
+    {
+      "id": "7cc37fe8beaf",
+      "title": "帮助解决真实社会问题，阿里巴巴发布《2026 AI向善行动报告》",
+      "summary": "[](\n\n 时政\n 热点\n 政务\n 深瞳\n 访谈\n 视频\n 国际\n 地方\n 专题\n English\n 滚动\n\n[](  登录 -\n\n所在位置： 中国科技网首页 > 滚动 > 正文\n\n# 帮助解决真实社会问题，阿里巴巴发布《2026 AI向善行动报告》\n\n2026-11-06 13:53:27 来源:  科技日报  点击数：\n\n科技日报记者 张佳星\n\n一张体检时显示胸部正常的CT影像，在AI大模型的...",
+      "highlights": [
+        "所在位置： 中国科技网首页 > 滚动 > 正文",
+        "# 帮助解决真实社会问题，阿里巴巴发布《2026 AI向善行动报告》",
+        "2026-11-06 13:53:27 来源:  科技日报  点击数："
+      ],
+      "url": "https://www.stdaily.com/web/gdxw/2026-11/06/content_609496.html",
+      "source": "stdaily.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-06T06:00:00Z"
+    },
+    {
+      "id": "9a32c7b91698",
+      "title": "国产GPU唯一入选企业！沐曦曦景S600亮相：全国产7nm制程_大风号_凤凰网",
+      "summary": "# 国产GPU唯一入选企业！沐曦曦景S600亮相：全国产7nm制程\n\n[](\n\n驱动之家\n\n下载客户端  \n独家抢先看\n\n来自北京\n\n快科技11月6日消息，在第九届中国国际进口博览会上，沐曦股份作为中国馆唯一入选的国产GPU企业，展出了曦景S600超节点与异构双擎算力机柜。其中，曦景S600的核心参数也一并公开。\n\n曦景S600的算力单元是沐曦曦云C600 GPU。该芯片基于自研XCORE 1.5...",
+      "highlights": [
+        "# 国产GPU唯一入选企业",
+        "沐曦曦景S600亮相：全国产7nm制程",
+        "快科技11月6日消息，在第九届中国国际进口博览会上，沐曦股份作为中国馆唯一入选的国产GPU企业，展出了曦景S600超节点与异构双擎算力机柜"
+      ],
+      "url": "https://feng.ifeng.com/c/8xpdobA8KT3",
+      "source": "feng.ifeng.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-11-06T06:32:29Z"
+    },
+    {
+      "id": "de137d098d87",
+      "title": "PapersWithCode 评测：附有可运行代码的热门 AI 论文。 — Quasa",
+      "summary": "Papers with Code（已收录于 Quasa.io/projects/papers-with-code）是一个由社区推动的项目，旨在重振这一传奇平台，追踪最新的 AI 和机器学习研究论文，以及相应的代码实现、排行榜、数据集和方法。\n\n在原版 paperswithcode.com 下线后，这个新版本延续了它的使命：让研究人员、工程师和开发者能够发现、复现并应用前沿研究。\n\n它的核心是提供简...",
+      "highlights": [
+        "Papers with Code（已收录于 Quasa.io/projects/papers-with-code）是一个由社区推动的项目，旨在重振这一传奇平台，追踪最新的 AI 和机器学习研究论文，以及相应的代码实现、排行榜、数据集和方法",
+        "在原版 paperswithcode.com 下线后，这个新版本延续了它的使命：让研究人员、工程师和开发者能够发现、复现并应用前沿研究",
+        "它的核心是提供简洁、快速且专注的使用体验，帮助用户紧跟科技领域中发展最快的这一领域"
+      ],
+      "url": "https://quasa.io/zh/video/paperswithcode-ping-ce-fu-you-ke-yun-xing-dai-ma-de-re-men-ai-lun-wen",
+      "source": "quasa.io",
+      "category": "前沿理论",
+      "importance": 4,
+      "publishedAt": "2026-11-06T04:00:00Z"
+    },
+    {
+      "id": "d9cca0784e84",
+      "title": "智启未来·AI Agent智能体跨境实战课第三讲开讲",
+      "summary": "这一回问得更实在:有了AI Agent,普通人的生意,到底能伸多远... 第二步,把“你的行业+你的产品”对上去,再让智能体开工.语...",
+      "highlights": [
+        "这一回问得更实在:有了AI Agent,普通人的生意,到底能伸多远... 第二步,把“你的行业+你的产品”对上去,再让智能体开工.语..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-SFC2YKwMFXnXOYyiwPLhUqu6z398qNvlqXa8Fplpd9Zgp7INA0uCWHpd2vx_5IkH5LoTlZmqVK1cKFIX8yLijY0PIN-DAwLVUFUiDFgR3JJ65QV8LaIr38YIND7ok6Vs-Nq3cN-sJ-gmebsCOwU05vGOiKu4D5X9MQ5kluymRkyzFDHvQ-GRdid3IK1Q1ZcCWpVbPFjC6kVRoewfnq6n72CsG6-xMgzQ..&amp;type=2&amp;query=AI Agent %E6%99%BA%E8%83%BD%E4%BD%93 %E4%BA%A7%E5%93%81&amp;token=17113EC49BA8DC9B8E88D115FEC298178FDB30216AEDD38D",
+      "source": "微信公众号",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-11-06T09:49:52Z"
     },
     {
       "id": "f2562daf6082",
@@ -485,21 +543,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-11-04T09:00:00Z"
-    },
-    {
-      "id": "34594201c2e8",
-      "title": "快手系芯片公司凌川科技获10亿元B轮融资，\"本垒打\"视频生成算力-美通社PR-Newswire",
-      "summary": "凌川科技拥有雄厚的产业人才积淀。公司创始人、董事长兼CEO刘凌志为上海交通大学博士、华盛顿大学博士后，曾任快手集团副总裁及华为、英特尔等核心技术管理岗，2018年起从零搭建快手异构计算和芯片团队。目前，公司核心团队源自快手、华为、阿里、百度、英伟达、AMD、英特尔、Arm等国内外企业，平均拥有15年以上芯片设计、软件算法及基础设施经验，主导过10余款AI和视频芯片流片与量产。团队中拥有多名入选国家...",
-      "highlights": [
-        "凌川科技拥有雄厚的产业人才积淀",
-        "公司创始人、董事长兼CEO刘凌志为上海交通大学博士、华盛顿大学博士后，曾任快手集团副总裁及华为、英特尔等核心技术管理岗，2018年起从零搭建快手异构计算和芯片团队",
-        "目前，公司核心团队源自快手、华为、阿里、百度、英伟达、AMD、英特尔、Arm等国内外企业，平均拥有15年以上芯片设计、软件算法及基础设施经验，主导过10余款AI和视频芯片流片与量产"
-      ],
-      "url": "https://www.prnasia.com/story/554593-1.shtml",
-      "source": "prnasia.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-04T02:00:00Z"
     },
     {
       "id": "5ad919acfe05",
@@ -695,6 +738,19 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-11-05T07:00:00Z"
+    },
+    {
+      "id": "66796b992efa",
+      "title": "OpenAI launches Images 2.6 with GIFs and image reference - TestingCatalog AI News",
+      "summary": "# OpenAI launches Images 2.6 with GIFs and image reference. Images 2.6 adds GIF creation in ChatGPT and Codex, plus Flare and Sunburst API models with SVG exports and image markup. OpenAI is rolling o...",
+      "highlights": [
+        "# OpenAI launches Images 2.6 with GIFs and image reference. Images 2.6 adds GIF creation in ChatGPT and Codex, plus Flare and Sunburst API models with SVG exports and image markup. OpenAI is rolling out Images 2.6 globally in ChatGPT and Codex across every subscription tier on desktop, mobile, and the web, while GPT-Image-2.6 Flare and Sunburst are now available through the API. OpenAI says the release generates images 50% faster than before, as use across its products has reached 4 billion images per week. Sunburst is designed for greater detail and more consistent edits at medium or high quality. Images 2.6 also brings ChatGPT's image markup to the API, so teams can identify precise areas for changes. OpenAI recommends low complexity for most quick edits, reserving medium or high settings for scenes with many elements or constraints. * OpenAI API image-generation pricing: Supports: OpenAI's pricing table lists GPT-Image-2.6 Flare and Sunburst, supporting the article's identification of the two API models."
+      ],
+      "url": "https://www.testingcatalog.com/openai-launches-images-2-6-with-gifs-and-image-reference/",
+      "source": "testingcatalog.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-05T00:44:16Z"
     }
   ],
   "month": [
@@ -712,21 +768,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-11-04T09:00:00Z"
-    },
-    {
-      "id": "34594201c2e8",
-      "title": "快手系芯片公司凌川科技获10亿元B轮融资，\"本垒打\"视频生成算力-美通社PR-Newswire",
-      "summary": "凌川科技拥有雄厚的产业人才积淀。公司创始人、董事长兼CEO刘凌志为上海交通大学博士、华盛顿大学博士后，曾任快手集团副总裁及华为、英特尔等核心技术管理岗，2018年起从零搭建快手异构计算和芯片团队。目前，公司核心团队源自快手、华为、阿里、百度、英伟达、AMD、英特尔、Arm等国内外企业，平均拥有15年以上芯片设计、软件算法及基础设施经验，主导过10余款AI和视频芯片流片与量产。团队中拥有多名入选国家...",
-      "highlights": [
-        "凌川科技拥有雄厚的产业人才积淀",
-        "公司创始人、董事长兼CEO刘凌志为上海交通大学博士、华盛顿大学博士后，曾任快手集团副总裁及华为、英特尔等核心技术管理岗，2018年起从零搭建快手异构计算和芯片团队",
-        "目前，公司核心团队源自快手、华为、阿里、百度、英伟达、AMD、英特尔、Arm等国内外企业，平均拥有15年以上芯片设计、软件算法及基础设施经验，主导过10余款AI和视频芯片流片与量产"
-      ],
-      "url": "https://www.prnasia.com/story/554593-1.shtml",
-      "source": "prnasia.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-04T02:00:00Z"
     },
     {
       "id": "5ad919acfe05",
@@ -845,6 +886,21 @@
       "url": "https://michaelparekh.substack.com/p/ai-googles-tpu-moment-with-openai",
       "source": "michaelparekh.substack.com",
       "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-05T03:51:37Z"
+    },
+    {
+      "id": "c5048cede8f3",
+      "title": "Suneet Agarwal",
+      "summary": "Suneet Agarwal\n\n1. The test is called GDPx. SemiAnalysis, a chip and AI research firm, published it Monday. 206 long tasks across 11 fields, from chip design to legal and finance work.\n\n   2h \n\n[](\n\nI...",
+      "highlights": [
+        "Suneet Agarwal",
+        "1. The test is called GDPx. SemiAnalysis, a chip and AI research firm, published it Monday. 206 long tasks across 11 fields, from chip design to legal and finance work.",
+        "Image 4Author"
+      ],
+      "url": "https://www.facebook.com/sagarwalsac/posts/a-new-test-gave-the-top-ai-from-anthropic-google-and-openai-real-expert-work-the/10163508958526139",
+      "source": "facebook.com",
+      "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-11-05T03:51:37Z"
     }
