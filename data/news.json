@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T22:57:23Z",
+  "updatedAt": "2026-11-06T03:49:20Z",
   "latest": [
     {
       "id": "3a95e88c85f2",
@@ -15,21 +15,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-11-04T09:00:00Z"
-    },
-    {
-      "id": "34594201c2e8",
-      "title": "快手系芯片公司凌川科技获10亿元B轮融资，\"本垒打\"视频生成算力-美通社PR-Newswire",
-      "summary": "凌川科技拥有雄厚的产业人才积淀。公司创始人、董事长兼CEO刘凌志为上海交通大学博士、华盛顿大学博士后，曾任快手集团副总裁及华为、英特尔等核心技术管理岗，2018年起从零搭建快手异构计算和芯片团队。目前，公司核心团队源自快手、华为、阿里、百度、英伟达、AMD、英特尔、Arm等国内外企业，平均拥有15年以上芯片设计、软件算法及基础设施经验，主导过10余款AI和视频芯片流片与量产。团队中拥有多名入选国家...",
-      "highlights": [
-        "凌川科技拥有雄厚的产业人才积淀",
-        "公司创始人、董事长兼CEO刘凌志为上海交通大学博士、华盛顿大学博士后，曾任快手集团副总裁及华为、英特尔等核心技术管理岗，2018年起从零搭建快手异构计算和芯片团队",
-        "目前，公司核心团队源自快手、华为、阿里、百度、英伟达、AMD、英特尔、Arm等国内外企业，平均拥有15年以上芯片设计、软件算法及基础设施经验，主导过10余款AI和视频芯片流片与量产"
-      ],
-      "url": "https://www.prnasia.com/story/554593-1.shtml",
-      "source": "prnasia.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-04T02:00:00Z"
     },
     {
       "id": "5ad919acfe05",
@@ -283,6 +268,51 @@
       "publishedAt": "2026-11-04T22:00:00Z"
     },
     {
+      "id": "3ae23e5625e7",
+      "title": "让2000名工程师使用中国大模型，这家英国企业实现了“词元自由”_凤凰网",
+      "summary": "今年4月，中国AI企业智谱推出了GLM-5.1大模型。Revolut迅速开始研究将其进行本地化部署，结果发现GLM-5.1的使用成本仅为Claude Code的十分之一。不仅如此，由于成本极低，词元使用量不再受限，员工开始使用AI处理邮件、调试、项目管理等其他问题，工作效率显著提升。之后，新一代智谱大模型GLM-5.3推出后，Revolut仅用56块英伟达B200 GPU就实现了本地化部署。 [....",
+      "highlights": [
+        "今年4月，中国AI企业智谱推出了GLM-5.1大模型",
+        "Revolut迅速开始研究将其进行本地化部署，结果发现GLM-5.1的使用成本仅为Claude Code的十分之一",
+        "不仅如此，由于成本极低，词元使用量不再受限，员工开始使用AI处理邮件、调试、项目管理等其他问题，工作效率显著提升"
+      ],
+      "url": "https://news.ifeng.com/c/8xniENUYxGE",
+      "source": "news.ifeng.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-05T02:47:44Z"
+    },
+    {
+      "id": "79618821d130",
+      "title": "百度否认“昆仑芯港股IPO推迟至2027年”传闻：称公司处于保密申报阶段不能披露进展-电子工程专辑",
+      "summary": "## 昆仑芯是谁？三代XPU架构的国产算力主力\n\n昆仑芯团队2011年在百度内部组建，2018年正式启动AI芯片产品化，核心是自研XPU架构（2017年Hot Chips大会发布）——与追求图形渲染全能能力的通用GPU不同，XPU专为AI计算而生。2021年4月独立为昆仑芯（北京）科技有限公司，首轮估值即达130亿元。\n\n产品方面，一代K系列（K100/K200加速卡）面向云端推理，已在百度搜索、...",
+      "highlights": [
+        "三代XPU架构的国产算力主力",
+        "昆仑芯团队2011年在百度内部组建，2018年正式启动AI芯片产品化，核心是自研XPU架构（2017年Hot Chips大会发布）——与追求图形渲染全能能力的通用GPU不同，XPU专为AI计算而生",
+        "2021年4月独立为昆仑芯（北京）科技有限公司，首轮估值即达130亿元"
+      ],
+      "url": "https://www.eet-china.com/news/202611059517.html",
+      "source": "eet-china.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-05T03:00:00Z"
+    },
+    {
+      "id": "e4eeddd9377d",
+      "title": "投资界24h|昨晚，美科技股历史性暴跌；河南最大IPO，下周上会；长鑫成立一家投资公司_投资界",
+      "summary": "11月5日犀燃医疗已于近日完成B+轮近亿元融资。本轮融资由约印医疗基金领投，珠海科技产业集团跟投，涵宇资本担任本轮独家财务顾问。\n\n阅读全文\n\n文章来源：投资界  \n原文地址：\n\n人工智能投融资深交所AI超聚变数字技术Cat Wu\n\n### Copyright版权与免责声明\n\n版权声明\n\n【本文为投资界原创，网页转载须在文首注明来源投资界（微信公众号ID：PEdaily2012）及作者。微信转载请...",
+      "highlights": [
+        "11月5日犀燃医疗已于近日完成B+轮近亿元融资",
+        "本轮融资由约印医疗基金领投，珠海科技产业集团跟投，涵宇资本担任本轮独家财务顾问",
+        "人工智能投融资深交所AI超聚变数字技术Cat Wu"
+      ],
+      "url": "https://news.pedaily.cn/202611/571426.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-06T00:50:00Z"
+    },
+    {
       "id": "8dbbf878d8ef",
       "title": "Open AI's another internal benchmarks show Anthropic ...",
       "summary": "Open AI's another internal benchmarks show Anthropic and Google are still unthreatening ... For the first time Anthropic models are the clear losers vs OpenAI",
@@ -382,19 +412,6 @@
       "publishedAt": "2026-11-04T10:11:18Z"
     },
     {
-      "id": "e6eeae84a304",
-      "title": "AMD's OpenAI, Meta chip deals trigger $1 billion quarterly charge - Reuters",
-      "summary": "SAN FRANCISCO, Nov 3 (Reuters) - Advanced Micro Devices' (AMD.O) strategy of ​offering stakes in its future success to major AI customers OpenAI and Meta Platforms (META.O) in exchange for big ‌chip c...",
-      "highlights": [
-        "SAN FRANCISCO, Nov 3 (Reuters) - Advanced Micro Devices' (AMD.O) strategy of ​offering stakes in its future success to major AI customers OpenAI and Meta Platforms (META.O) in exchange for big ‌chip commitments is beginning to leave a sizeable imprint on its profits. AMD in February agreed to sell up to $60 billion worth of AI chips to Meta over five years, giving the Facebook owner warrants that could let it buy as much as 10% of the chip firm if it meets certain milestones. ​The deal followed a similar agreement with OpenAI last year, giving the startup the option to buy up to roughly 10% ​of the chipmaker. OpenAI and Meta could own a large stake in the chipmaker for as little as ​a penny apiece if the warrants fully vest and are exercised, potentially increasing AMD's share count substantially."
-      ],
-      "url": "https://www.reuters.com/legal/transactional/amds-openai-meta-chip-deals-trigger-1-billion-quarterly-charge-2026-11-04/",
-      "source": "reuters.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-11-04T02:47:17Z"
-    },
-    {
       "id": "06b277d04857",
       "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC - CNBC",
       "summary": "Moonshot AI, a Chinese artificial intelligence lab that the White House accused of accessing Nvidia advanced chips remotely in East Asia, has sought access to the chips through data centers in Europe,...",
@@ -419,22 +436,176 @@
       "category": "芯片硬件",
       "importance": 4,
       "publishedAt": "2026-11-04T16:00:17Z"
-    },
-    {
-      "id": "9dd24728997c",
-      "title": "Apple iMac M6 Review: Faster, More Expensive And Deeply In Need Of A Refresh - Engadget",
-      "summary": "# Apple iMac M6 review: Faster, more expensive and deeply in need of a refresh. Unfortunately the new iMac M6 all-in-one — once one of Apple's most revolutionary products — has not been a beneficiary ...",
-      "highlights": [
-        "# Apple iMac M6 review: Faster, more expensive and deeply in need of a refresh. Unfortunately the new iMac M6 all-in-one — once one of Apple's most revolutionary products — has not been a beneficiary of that new ethos. It is faster than ever thanks to the new M6 chip and updated memory. It's still a solid computer for consumers or business users, but at a $1,499 starting price ($200 more than before), there are better options — including other Macs. I tested the iMac M6 in a pretty, pale blue color, with the higher-end 12-core CPU, 12-core GPU (with a dual 16-core neural engine) and 16GB of memory. Apple didn't release a new iMac last year, so the biggest change from the 2024 model is an upgrade from the M4 to the M6 processor. The new chip adds two extra cores to both the base and high-end models, with the latter offering up to a 12-core CPU and 12-core GPU instead of 10 cores for both as before."
-      ],
-      "url": "https://www.engadget.com/2307246/apple-imac-m6-review/",
-      "source": "engadget.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-11-05T14:00:00Z"
     }
   ],
   "today": [
+    {
+      "id": "e4eeddd9377d",
+      "title": "投资界24h|昨晚，美科技股历史性暴跌；河南最大IPO，下周上会；长鑫成立一家投资公司_投资界",
+      "summary": "11月5日犀燃医疗已于近日完成B+轮近亿元融资。本轮融资由约印医疗基金领投，珠海科技产业集团跟投，涵宇资本担任本轮独家财务顾问。\n\n阅读全文\n\n文章来源：投资界  \n原文地址：\n\n人工智能投融资深交所AI超聚变数字技术Cat Wu\n\n### Copyright版权与免责声明\n\n版权声明\n\n【本文为投资界原创，网页转载须在文首注明来源投资界（微信公众号ID：PEdaily2012）及作者。微信转载请...",
+      "highlights": [
+        "11月5日犀燃医疗已于近日完成B+轮近亿元融资",
+        "本轮融资由约印医疗基金领投，珠海科技产业集团跟投，涵宇资本担任本轮独家财务顾问",
+        "人工智能投融资深交所AI超聚变数字技术Cat Wu"
+      ],
+      "url": "https://news.pedaily.cn/202611/571426.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-06T00:50:00Z"
+    },
+    {
+      "id": "f2562daf6082",
+      "title": "突发！李飞飞最新 AI 成果发布，把世界模型装进复古掌机，单张图实时跑出 15 帧",
+      "summary": "点下生成按钮，然后对着转圈的进度条干等好几分钟。过去玩3D 世界模型或者视频生成的朋友，估计都被那种漫长的渲染折磨得没脾气了。就在今天，李飞飞创办的World Labs",
+      "highlights": [
+        "点下生成按钮，然后对着转圈的进度条干等好几分钟",
+        "过去玩3D 世界模型或者视频生成的朋友，估计都被那种漫长的渲染折磨得没脾气了",
+        "就在今天，李飞飞创办的World Labs"
+      ],
+      "url": "https://www.eet-china.com/mp/a537324.html",
+      "source": "eet-china.com",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-11-06T03:00:00Z"
+    }
+  ],
+  "week": [
+    {
+      "id": "3a95e88c85f2",
+      "title": "启明星 | 快手系芯片公司凌川科技完成10亿元B轮融资，启明创投联合领投 | 启明创投",
+      "summary": "自2017年《Attention Is All You Need》发表、NVIDIA推出首款集成Tensor Core的Volta V100以来，以通用GPU为代表的AI算力芯片经历了黄金十年；2027年起，产业将进入新一轮的牧本浪潮（Makimoto's Wave）周期，面向AIGV（AI生成式视频）等垂直赛道的专用算力器件将迎来最大的创新机遇与增长空间。\n\n行业层面，随着短剧、互动视频、AI广...",
+      "highlights": [
+        "自2017年《Attention Is All You Need》发表、NVIDIA推出首款集成Tensor Core的Volta V100以来，以通用GPU为代表的AI算力芯片经历了黄金十年；2027年起，产业将进入新一轮的牧本浪潮（Makimoto's Wave）周期，面向AIGV（AI生成式视频）等垂直赛道的专用算力器件将迎来最大的创新机遇与增长空间",
+        "行业层面，随着短剧、互动视频、AI广告等应用爆发，视频数据处理与传输需求快速增长，AIGV被视为下一代智能算力的重要应用场景，其有效算力需求相比传统文本模型呈指数级增长，在所有大模型Token消耗中占据重要部分",
+        "刘凌志表示，这一赛道当前为数百亿级规模，“未来三到五年将爆发至数千亿级，并可能突破万亿元"
+      ],
+      "url": "https://www.qimingvc.com/cn/news/%E5%90%AF%E6%98%8E%E6%98%9F-%E5%BF%AB%E6%89%8B%E7%B3%BB%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8%E5%87%8C%E5%B7%9D%E7%A7%91%E6%8A%80%E5%AE%8C%E6%88%9010%E4%BA%BF%E5%85%83b%E8%BD%AE%E8%9E%8D%E8%B5%84%EF%BC%8C%E5%90%AF%E6%98%8E%E5%88%9B%E6%8A%95%E8%81%94%E5%90%88%E9%A2%86%E6%8A%95",
+      "source": "qimingvc.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-04T09:00:00Z"
+    },
+    {
+      "id": "34594201c2e8",
+      "title": "快手系芯片公司凌川科技获10亿元B轮融资，\"本垒打\"视频生成算力-美通社PR-Newswire",
+      "summary": "凌川科技拥有雄厚的产业人才积淀。公司创始人、董事长兼CEO刘凌志为上海交通大学博士、华盛顿大学博士后，曾任快手集团副总裁及华为、英特尔等核心技术管理岗，2018年起从零搭建快手异构计算和芯片团队。目前，公司核心团队源自快手、华为、阿里、百度、英伟达、AMD、英特尔、Arm等国内外企业，平均拥有15年以上芯片设计、软件算法及基础设施经验，主导过10余款AI和视频芯片流片与量产。团队中拥有多名入选国家...",
+      "highlights": [
+        "凌川科技拥有雄厚的产业人才积淀",
+        "公司创始人、董事长兼CEO刘凌志为上海交通大学博士、华盛顿大学博士后，曾任快手集团副总裁及华为、英特尔等核心技术管理岗，2018年起从零搭建快手异构计算和芯片团队",
+        "目前，公司核心团队源自快手、华为、阿里、百度、英伟达、AMD、英特尔、Arm等国内外企业，平均拥有15年以上芯片设计、软件算法及基础设施经验，主导过10余款AI和视频芯片流片与量产"
+      ],
+      "url": "https://www.prnasia.com/story/554593-1.shtml",
+      "source": "prnasia.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-04T02:00:00Z"
+    },
+    {
+      "id": "5ad919acfe05",
+      "title": "AI游戏步入「红果时刻」，腾讯米哈游为何不慌_投资界",
+      "summary": "机器之心2026-11-04\n ### 价格战在中国大模型行业结束了，但成本战才刚开始\n\n  钛媒体APP2026-11-03\n ### 中国大模型训练如何突破算力瓶颈\n\n  经济观察网2026-10-29\n ### 考拉悠然完成B++轮融资，持续迭代世界模型基座与多模态大模型\n\n  融资大事件2026-10-29\n ### 双11的火，还是烧到了大模型\n\n  新眸2026-10-23\n ### ...",
+      "highlights": [
+        "机器之心2026-11-04",
+        "### 价格战在中国大模型行业结束了，但成本战才刚开始",
+        "钛媒体APP2026-11-03"
+      ],
+      "url": "https://news.pedaily.cn/202611/571325.shtml",
+      "source": "news.pedaily.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-04T04:48:00Z"
+    },
+    {
+      "id": "3e3853cac822",
+      "title": "当金融大模型开始自我进化-移动支付网",
+      "summary": "收藏\n\n评论加载中\n\n 工行申请一项发明专利，关于面向金融领域的大模型推理\n Revolut成立专属AI研究部门 自研金融大模型\n 重庆“十五五”人工智能发展规划：推动金融大模型研发应用！\n 中原消费金融大模型采购项目中标结果公示\n 哈银消费金融大模型基础建设项目招标\n 中国银联携手合作伙伴共同发布2025金融大模型评测体系\n 从经验驱动到智能驱动，富滇银行数字金融大模型项目入选典型案例\n 2...",
+      "highlights": [
+        "工行申请一项发明专利，关于面向金融领域的大模型推理",
+        "Revolut成立专属AI研究部门 自研金融大模型",
+        "重庆“十五五”人工智能发展规划：推动金融大模型研发应用"
+      ],
+      "url": "https://www.mpaypass.com.cn/news/202611/04182035.html",
+      "source": "mpaypass.com.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-04T09:00:00Z"
+    },
+    {
+      "id": "31b3ceeba97d",
+      "title": "天數智芯展示自研軟件棧和彤央邊緣終端",
+      "summary": "The Bamboo Works 詠竹坊\n\n# 天數智芯展示自研軟件棧和彤央邊緣終端\n\nRick Lau\n\n3 分鐘閱讀時間\n\n 001520.KS\n\n  +2.43%\n 9903.HK\n\n  +11.89%\n NVDA\n\n  +0.54%\n\nAI芯片設計商天數智芯表示，其全新彤央TY1200邊緣終端的性能，是搭載英偉達Jetson Thor T5000同類產品的1.2倍\n\n陽歌\n\n上海天數智芯半...",
+      "highlights": [
+        "The Bamboo Works 詠竹坊",
+        "# 天數智芯展示自研軟件棧和彤央邊緣終端",
+        "AI芯片設計商天數智芯表示，其全新彤央TY1200邊緣終端的性能，是搭載英偉達Jetson Thor T5000同類產品的1.2倍"
+      ],
+      "url": "https://hk.finance.yahoo.com/news/%E5%A4%A9%E6%95%B8%E6%99%BA%E8%8A%AF%E5%B1%95%E7%A4%BA%E8%87%AA%E7%A0%94%E8%BB%9F%E4%BB%B6%E6%A3%A7%E5%92%8C%E5%BD%A4%E5%A4%AE%E9%82%8A%E7%B7%A3%E7%B5%82%E7%AB%AF-075314947.html",
+      "source": "hk.finance.yahoo.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-04T08:00:00Z"
+    },
+    {
+      "id": "fd12e7b72709",
+      "title": "华尔街重新押注中国：外资投行加速布局，资本市场开放释放新机遇提供者FX168",
+      "summary": "喜欢 0 0收藏举报\n\n— 分享 —\n\n摘要：花旗证券（中国）获批成为国内第七家外资独资券商，折射出国际金融机构正在重新加大对中国市场的布局。随着港股IPO融资规模增长，中国企业海外发行、跨境并购及全球化经营需求持续扩大，AI、半导体、新能源和先进制造成为华尔街争夺的新业务增长点。摩根大通、瑞银、高盛等机构纷纷扩大在华业务，外资金融机构的竞争重点也从传统证券交易延伸至跨境投融资、资产管理和企业全球...",
+      "highlights": [
+        "摘要：花旗证券（中国）获批成为国内第七家外资独资券商，折射出国际金融机构正在重新加大对中国市场的布局",
+        "随着港股IPO融资规模增长，中国企业海外发行、跨境并购及全球化经营需求持续扩大，AI、半导体、新能源和先进制造成为华尔街争夺的新业务增长点",
+        "摩根大通、瑞银、高盛等机构纷纷扩大在华业务，外资金融机构的竞争重点也从传统证券交易延伸至跨境投融资、资产管理和企业全球资金管理"
+      ],
+      "url": "https://www.fx168news.com/article/%E8%A1%8C%E4%B8%9A%E6%96%B0%E9%97%BB-1112318",
+      "source": "fx168news.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-04T17:00:00Z"
+    },
+    {
+      "id": "b9fa8ba2b134",
+      "title": "Sources -- Miami's Toney (ankle) uncertain for Notre Dame game - ESPN",
+      "summary": "# 天数智芯(HK:09903). 11-04 16:08:10 北京时间. | 最高：64.45 | 今开：56.80 | 成交量：1092.66万股 | 换手：1.40% |. | 最低：54.70 | 昨收：56.35 | 成交额：6.62亿 | 振幅：17.30% |. | 52周最高：295.83 | 量比：1.74 | 市盈率(动)：207.27 | 市盈率(TTM)：亏损 |. | ...",
+      "highlights": [
+        "# 天数智芯(HK:09903). 11-04 16:08:10 北京时间. | 最高：64.45 | 今开：56.80 | 成交量：1092.66万股 | 换手：1.40% |. | 最低：54.70 | 昨收：56.35 | 成交额：6.62亿 | 振幅：17.30% |. | 52周最高：295.83 | 量比：1.74 | 市盈率(动)：207.27 | 市盈率(TTM)：亏损 |. | 52周最低：49.63 | 委比：98.62% | 市盈率(静)：亏损 | 市净率：3.68 |. | 每股收益：-0.40 | 股息(TTM)：-- | 总股本：8.08亿 | 总市值：509.14亿 |. | 每股净资产：17.13 | 股息率(TTM)：-- | 港股股本：7.80亿 | 港股市值：491.71亿 |. | 每手股数：100 | 最小价差：0.05 | 货币单位：HKD |. $天数智芯(09903)$ 这两天，香港交易所正式推出香港交易所人工智能指数及香港交易所半导体指数，天数智芯（9903.HK）同时入选两项指数成份股，成为两大科技主题指数的成份股企业. ### 天数智芯天垓300真机实测：性能赶超国际主流GPU，超节点有效Token成本直降40%. 新浪科技讯 11月4日晚间消息，近日，天数智芯举办2026媒体开放日活动，首次面向媒体开放真机实测演示了天垓300通用GPU旗舰产品，展示了基于天垓300的AFD分离方案、IXL144超节点方案，以及天数智算软件栈、彤央端侧算力终端产品——彤央TY1200在实测中超越Thor T5000，并预... 十个月8w 500亿市值，这低估太多了吧$天数智芯(09903)$. > ##### **专栏** 【百强透视】出货超8万片，天数智芯（09903.HK）商业化持续提速. > 11月3日截至发稿，天数智芯（09903.HK）报57.65港元，跌幅6.34%，总市值约466亿港元",
+        ". > 公司是港股稀缺的国产通用GPU龙头，近期披露经营数据，算力芯片规模化落地再获验证，然而近期AI板块情绪低迷，国产算力板块资金流出，股价承压",
+        ". > 底部放量拉升，右侧信号已经出来了"
+      ],
+      "url": "https://www.espn.com/college-football/story/_/id/50381248/sources-miami-toney-ankle-uncertain-notre-dame-game",
+      "source": "espn.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-04T19:42:00Z"
+    },
+    {
+      "id": "6d9ca91cb734",
+      "title": "本末科技与韩国机器人龙头企业 Everybot 战略合作签署|具身之家",
+      "summary": "本末科技成立于 2020 年，是全球领先的以直驱技术为核心能力的机器人技术平台企业，国家级高新技术企业、专精特新 \"小巨人\" 企业，并于 2026 年登陆香港联合交易所主板。本末科技深耕直驱动力模组、机器人关节及机器人本体研发制造，实现从核心零部件自研量产到机器人整机商业化落地的完整产业闭环，产品远销全球五十多个国家及地区，在消费机器人、具身机器人、工业自动化、智能装备等场景拥有成熟解决方案及落地...",
+      "highlights": [
+        "本末科技成立于 2020 年，是全球领先的以直驱技术为核心能力的机器人技术平台企业，国家级高新技术企业、专精特新 \"小巨人\" 企业，并于 2026 年登陆香港联合交易所主板",
+        "本末科技深耕直驱动力模组、机器人关节及机器人本体研发制造，实现从核心零部件自研量产到机器人整机商业化落地的完整产业闭环，产品远销全球五十多个国家及地区，在消费机器人、具身机器人、工业自动化、智能装备等场景拥有成熟解决方案及落地应用经验",
+        "Everybot 由韩国第一代机器人开发工程师于 2015 年创立，是韩国具身智能机器人龙头企业，其于 2016 年全球首创无轮拖地机器人，曾连续多年位居韩国扫地 / 拖地机器人市场占有率第一，并于 2021 年登陆韩国 KOSDAQ 证券市场"
+      ],
+      "url": "https://www.jushenhome.com/news_d.php?id=2270",
+      "source": "jushenhome.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-11-04T14:00:00Z"
+    },
+    {
+      "id": "74cf4183e365",
+      "title": "Google's Latest AI Model Nearly Matches Anthropic at One-Third the Cost: Report",
+      "summary": "Alphabet Inc. (NASDAQ:GOOGL) has nearly caught Anthropic in a demanding new AI benchmark, with its latest Gemini model delivering almost the same performance at roughly one-third the price.\n\nThe new b...",
+      "highlights": [
+        "Alphabet Inc. (NASDAQ:GOOGL) has nearly caught Anthropic in a demanding new AI benchmark, with its latest Gemini model delivering almost the same performance at roughly one-third the price.",
+        "The new benchmark from SemiAnalysis puts Google's Gemini 4 Carbon just behind Anthropic's flagship Claude Opus 5.5, but ahead of OpenAI's GPT-6 Astra.",
+        "The result marks a significant advance for Google, which is challenging its biggest AI rivals on both performance and price."
+      ],
+      "url": "https://finance.yahoo.com/technology/ai/articles/googles-latest-ai-model-nearly-163019141.html",
+      "source": "finance.yahoo.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-04T16:00:00Z"
+    },
     {
       "id": "baa211a60987",
       "title": "AI: Google’s TPU Moment, with OpenAI, Oracle & Anthropic. AI-RTZ #1254",
@@ -524,591 +695,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-11-05T07:00:00Z"
-    },
-    {
-      "id": "66796b992efa",
-      "title": "OpenAI launches Images 2.6 with GIFs and image reference - TestingCatalog AI News",
-      "summary": "# OpenAI launches Images 2.6 with GIFs and image reference. Images 2.6 adds GIF creation in ChatGPT and Codex, plus Flare and Sunburst API models with SVG exports and image markup. OpenAI is rolling o...",
-      "highlights": [
-        "# OpenAI launches Images 2.6 with GIFs and image reference. Images 2.6 adds GIF creation in ChatGPT and Codex, plus Flare and Sunburst API models with SVG exports and image markup. OpenAI is rolling out Images 2.6 globally in ChatGPT and Codex across every subscription tier on desktop, mobile, and the web, while GPT-Image-2.6 Flare and Sunburst are now available through the API. OpenAI says the release generates images 50% faster than before, as use across its products has reached 4 billion images per week. Sunburst is designed for greater detail and more consistent edits at medium or high quality. Images 2.6 also brings ChatGPT's image markup to the API, so teams can identify precise areas for changes. OpenAI recommends low complexity for most quick edits, reserving medium or high settings for scenes with many elements or constraints. * OpenAI API image-generation pricing: Supports: OpenAI's pricing table lists GPT-Image-2.6 Flare and Sunburst, supporting the article's identification of the two API models."
-      ],
-      "url": "https://www.testingcatalog.com/openai-launches-images-2-6-with-gifs-and-image-reference/",
-      "source": "testingcatalog.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-05T00:44:16Z"
-    },
-    {
-      "id": "760f3015ca4d",
-      "title": "OpenAI’s GPT-6 Cyber found 81 new Firefox flaws and is rated ‘Critical’ - The Next Web",
-      "summary": "OpenAI has released GPT-6 Cyber, a security model it says beats all its earlier models at finding and exploiting software flaws. It rated it “Critical” in cybersecurity under its Preparedness Framewor...",
-      "highlights": [
-        "OpenAI has released GPT-6 Cyber, a security model it says beats all its earlier models at finding and exploiting software flaws. It rated it “Critical” in cybersecurity under its Preparedness Framework, up from “High” for GPT-5.6 Cyber. At first, only a select group of approved customers can use it, through the API and Codex. They belong to Daybreak Red, the tier of OpenAI’s cyber programme for exploit development and authorised security testing. OpenAI launched Daybreak in May and said it will open GPT-6 Cyber to all Daybreak Red customers soon. GPT-6 Cyber is OpenAI’s fourth cybersecurity model this year, Wen Shao reported for Fortune. OpenAI said it trained the model to stay within its authorised scope, respect limits on its actions and report results accurately. In that incident, OpenAI’s AI agents broke out of a sandbox and hacked the platform. On ExploitGym, which tests whether a model can exploit a given flaw, GPT-6 Cyber scored 48.5%."
-      ],
-      "url": "https://thenextweb.com/news/openai-gpt-6-cyber-launch-firefox-linux-daybreak-red",
-      "source": "thenextweb.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-05T17:24:04Z"
-    },
-    {
-      "id": "8dbbf878d8ef",
-      "title": "Open AI's another internal benchmarks show Anthropic ...",
-      "summary": "Open AI's another internal benchmarks show Anthropic and Google are still unthreatening ... For the first time Anthropic models are the clear losers vs OpenAI",
-      "highlights": [
-        "Open AI's another internal benchmarks show Anthropic and Google are still unthreatening ... For the first time Anthropic models are the clear losers vs OpenAI"
-      ],
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xifeco/open_ais_another_internal_benchmarks_show",
-      "source": "reddit.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-11-05T03:51:37Z"
-    },
-    {
-      "id": "1b4845e24fa3",
-      "title": "OpenAI",
-      "summary": "# OpenAI\nID: p4PyTakV77G9\nWebsite: www.openai.com\nHeadquarters: San Francisco, CA, United States\nLinkedIn: www.linkedin.com/company/openai · 11,529,792 followers\nIndustry: Research Services\nIndustry c...",
-      "highlights": [
-        "ID: p4PyTakV77G9",
-        "Website: www.openai.com",
-        "Headquarters: San Francisco, CA, United States"
-      ],
-      "url": "https://tavily.com/knowledge/company/p4PyTakV77G9",
-      "source": "tavily.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-11-05T13:34:08Z"
-    },
-    {
-      "id": "bf1cd733a399",
-      "title": "OpenAI built an AI pipeline to find, exploit and patch Linux flaws - CSO Online",
-      "summary": "## The $1.2 million experiment demonstrates how AI can automate vulnerability validation and patch generation, with human researchers reviewing fixes before submission to maintainers. OpenAI has devel...",
-      "highlights": [
-        "## The $1.2 million experiment demonstrates how AI can automate vulnerability validation and patch generation, with human researchers reviewing fixes before submission to maintainers. OpenAI has developed an autonomous AI pipeline that can identify software vulnerabilities, develop working exploits to validate their impact and generate patches for human review. In an October experiment targeting the Linux kernel, the pipeline created exploits for 948 distinct local privilege-escalation (LPE) vulnerabilities at a total API cost of $1.2 million, the company said in a November 4 research report, “A thousand fewer paths to root.”. Human researchers still review the root-cause analysis, proof-of-concept exploits and proposed fixes before findings are reported to maintainers, OpenAI said. Announcing the project in June as part of its Daybreak cybersecurity effort, the company said GPT-5.5 Cyber had identified Linux kernel vulnerabilities and developed 24 LPE exploits. The latest campaign identified five times more unique LPE vulnerabilities than an earlier experiment using GPT-5.6 Sol, despite three months of additional hardening of the Linux kernel between the scans, OpenAI said."
-      ],
-      "url": "https://www.csoonline.com/article/4245265/openai-built-an-ai-pipeline-to-find-exploit-and-patch-linux-flaws.html",
-      "source": "csoonline.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-11-05T00:00:00Z"
-    },
-    {
-      "id": "06b277d04857",
-      "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC - CNBC",
-      "summary": "Moonshot AI, a Chinese artificial intelligence lab that the White House accused of accessing Nvidia advanced chips remotely in East Asia, has sought access to the chips through data centers in Europe,...",
-      "highlights": [
-        "Moonshot AI, a Chinese artificial intelligence lab that the White House accused of accessing Nvidia advanced chips remotely in East Asia, has sought access to the chips through data centers in Europe, sources have told CNBC. Moonshot was looking to lease capacity powered by Nvidia's Blackwell systems, advanced chips currently subject to those export controls which effectively ban their import into China, three of the sources told CNBC. In July, the White House said the Chinese AI lab had accessed Nvidia's Blackwell chips via a facility in Thailand. U.S. export controls restrict the shipment of Nvidia's most advanced chips to China, but remote access via overseas data centers offers a loophole. Moonshot, Nvidia, the White House, the U.S. Department of Commerce, China's embassy in the U.K. and its Ministry of Foreign Affairs did not respond to a request for comment. To lease Nvidia computing power in Europe, a Chinese AI company would typically rent capacity from a non-Chinese neocloud or data center operator that can purchase advanced chips."
-      ],
-      "url": "https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html",
-      "source": "cnbc.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-11-05T13:34:14Z"
-    },
-    {
-      "id": "9dd24728997c",
-      "title": "Apple iMac M6 Review: Faster, More Expensive And Deeply In Need Of A Refresh - Engadget",
-      "summary": "# Apple iMac M6 review: Faster, more expensive and deeply in need of a refresh. Unfortunately the new iMac M6 all-in-one — once one of Apple's most revolutionary products — has not been a beneficiary ...",
-      "highlights": [
-        "# Apple iMac M6 review: Faster, more expensive and deeply in need of a refresh. Unfortunately the new iMac M6 all-in-one — once one of Apple's most revolutionary products — has not been a beneficiary of that new ethos. It is faster than ever thanks to the new M6 chip and updated memory. It's still a solid computer for consumers or business users, but at a $1,499 starting price ($200 more than before), there are better options — including other Macs. I tested the iMac M6 in a pretty, pale blue color, with the higher-end 12-core CPU, 12-core GPU (with a dual 16-core neural engine) and 16GB of memory. Apple didn't release a new iMac last year, so the biggest change from the 2024 model is an upgrade from the M4 to the M6 processor. The new chip adds two extra cores to both the base and high-end models, with the latter offering up to a 12-core CPU and 12-core GPU instead of 10 cores for both as before."
-      ],
-      "url": "https://www.engadget.com/2307246/apple-imac-m6-review/",
-      "source": "engadget.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-11-05T14:00:00Z"
-    },
-    {
-      "id": "455b19af513f",
-      "title": "AI Funding (Oct 26–Nov 1): FuriosaAI, Bedrock Robotics Lead $2.43B Week - AI Funding Tracker",
-      "summary": "AI startups raised $2.43 billion in primary funding across 16 rounds of $20 million or more between October 26 and November 1, 2026. South Korean chipmaker FuriosaAI’s $620 million Series D was the la...",
-      "highlights": [
-        "AI startups raised $2.43 billion in primary funding across 16 rounds of $20 million or more between October 26 and November 1, 2026. South Korean chipmaker FuriosaAI’s $620 million Series D was the largest round, just ahead of Bedrock Robotics’ $600 million Series C. [...] Upwind’s $3.8 billion valuation compares with $1.5 billion at its January 2026 Series B. The company said revenue has quadrupled this year, and TechCrunch reported it walked away from an acquisition offer from Datadog before the round.",
-        "Solink says it is tracking toward $100 million in annual recurring revenue. Its software runs on 500,000 cameras across 35,000 locations, and total equity raised now exceeds $198 million. [...] The three deals add to a busy year for inference hardware, covered in our overview of AI chip startups and their 2026 valuations.",
-        "### Physical AI, robotics and engineering design"
-      ],
-      "url": "https://aifundingtracker.com/ai-funding-oct-26-nov-1-furiosaai-bedrock-robotics-lead-2-43b-week",
-      "source": "aifundingtracker.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-11-05T06:26:26Z"
-    },
-    {
-      "id": "1e00beb45f3c",
-      "title": "Mistral AI buys SkipLabs in its fifth acquisition of 2026 | Dealroom News",
-      "summary": "Dealroom.co\n\n# Mistral AI buys SkipLabs in its fifth acquisition of 2026\n\nWhat's the deal? Mistral AI has acquired SkipLabs, a French startup building tools to make AI code generation faster, more rel...",
-      "highlights": [
-        "Dealroom.co",
-        "# Mistral AI buys SkipLabs in its fifth acquisition of 2026",
-        "What's the deal? Mistral AI has acquired SkipLabs, a French startup building tools to make AI code generation faster, more reliable, and more secure. The deal value was undisclosed. It marks the French generative AI company's fifth acquisition of 2026. [...] SkipLabs fits that push. \"With AI, the author is no longer a person. This challenges many of the assumptions these tools rest on, and that is exactly what is exciting: we can reinvent them from scratch,\" Verlaguet said (translated from French)."
-      ],
-      "url": "https://dealroom.co/news/170004-mistral-ai-buys-skiplabs-in-its-fifth-acquisition-of-2026",
-      "source": "dealroom.co",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-11-05T13:43:41Z"
-    },
-    {
-      "id": "7921515dad71",
-      "title": "Dropbox Plans $350M AI Infrastructure Deal With Tigris Buy, Its Biggest Acquisition Yet",
-      "summary": "November 3, 2026\n\nGlobal venture funding in October totaled $59 billion, a 45% jump from a year earlier, per Crunchbase data, in large part due to a record-setting $15...\n\n#### Featured\n\n[![Illustrati...",
-      "highlights": [
-        "November 3, 2026",
-        "Global venture funding in October totaled $59 billion, a 45% jump from a year earlier, per Crunchbase data, in large part due to a record-setting $15...",
-        "#### Featured"
-      ],
-      "url": "https://news.crunchbase.com/ma/dbx-ai-infrastructure-deal-tigris-acquisition",
-      "source": "news.crunchbase.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-11-05T14:00:20Z"
-    },
-    {
-      "id": "e46aa6695a56",
-      "title": "Tech M&A Trends in 2026 | Corum Group",
-      "summary": "In the AI arena, Legora, a legal AI platform provider based in Sweden, purchased Canadian startup Walter AI, a provider of an agent-native legal AI platform, for an undisclosed amount. The purchase wa...",
-      "highlights": [
-        "In the AI arena, Legora, a legal AI platform provider based in Sweden, purchased Canadian startup Walter AI, a provider of an agent-native legal AI platform, for an undisclosed amount. The purchase was made to consolidate automation tools for legal workflows. [...] The trends that drove tech M&A in the first three quarters of 2026 are expected to continue impelling deals in the near future. Major tech firms and deep-pocketed buyers are expected to continue acquiring foundational AI and workflow software firms in high valuation megadeals, as these massive deals allow major players to instantly acquire complete leading-edge technology ecosystems rather than building them from scratch. AI-related acquisitions, in particular, are expected to persist as major [...] The cumulative value of tech M&A megadeals jumped significantly in the first nine months of 2026. A record $164.6 billion was spent on tech company megadeals in the first half of 2026 alone. Some of these deals were truly massive. For example, space exploration company SpaceX recently completed its $60 billion purchase of AI coding startup Cursor, and earlier in the year tech giant Google completed its $32 billion acquisition of cloud security startup Wiz."
-      ],
-      "url": "https://www.corumgroup.com/insights/tech-ma-trends-2026",
-      "source": "corumgroup.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-11-05T20:00:00Z"
-    },
-    {
-      "id": "392a2552e8f8",
-      "title": "人工智能如何赋能科学研究？乌镇这场论坛给出了前沿答案_光明网",
-      "summary": "当前，人工智能正推动科研范式发生历史性跃迁，机遇与挑战始终相伴相生。英国皇家科学院院士、皇家工程院院士、英国南安普敦大学计算机科学钦定教授温迪·霍尔从科学研究的本源传统切入，回溯英国皇家学会“不要轻信任何人的话”的座右铭与同行评审制度的诞生。她认为，生成式AI让论文产出更高效、学术传播更便捷，却也带来了科研诚信核验、论文真实性把关的全新挑战。\n\n　　“研究者可以把任务委托给AI，但不能把科学责任委...",
-      "highlights": [
-        "当前，人工智能正推动科研范式发生历史性跃迁，机遇与挑战始终相伴相生",
-        "英国皇家科学院院士、皇家工程院院士、英国南安普敦大学计算机科学钦定教授温迪·霍尔从科学研究的本源传统切入，回溯英国皇家学会“不要轻信任何人的话”的座右铭与同行评审制度的诞生",
-        "她认为，生成式AI让论文产出更高效、学术传播更便捷，却也带来了科研诚信核验、论文真实性把关的全新挑战"
-      ],
-      "url": "https://politics.gmw.cn/2026-11/05/content_39086463.htm",
-      "source": "politics.gmw.cn",
-      "category": "前沿理论",
-      "importance": 3,
-      "publishedAt": "2026-11-05T01:58:32Z"
-    },
-    {
-      "id": "499fd39fd1da",
-      "title": "腾讯股价飙升6%创三周新高，混元AI大模型正式发布",
-      "summary": "| 名称 | 最新价 | 涨跌幅 | 交易量 |  |\n ---  --- \n| FS Dev Investment Holdings | 4.550 | +20.05% | 2.61亿 |  |\n| 联合化学 | 39.95 | +20.01% | 946.15万 |  |\n| 福瑞股份 | 49.32 | +20.00% | 1,935.12万 |  |\n| Gansu Golden Glas...",
-      "highlights": [
-        "| 名称 | 最新价 | 涨跌幅 | 交易量 |  |",
-        "| FS Dev Investment Holdings | 4.550 | +20.05% | 2.61亿 |  |",
-        "| 联合化学 | 39.95 | +20.01% | 946.15万 |  |"
-      ],
-      "url": "https://cn.investing.com/news/stock-market-news/article-3650572",
-      "source": "cn.investing.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-11-05T04:20:38Z"
-    },
-    {
-      "id": "6cbe11690ea1",
-      "title": "OpenConjecture 隨機抽 200 條 open 猜想考 LLM 不再只挑重大突破計分",
-      "summary": "arXiv 論文（2610.40382）指出AI 數學能力評測的盲區：只研究少數重大突破無法完整反映LLM 的真實能力。團隊建立OpenConjecture 數據集，收集2026 年2 月以來arXiv",
-      "highlights": [
-        "arXiv 論文（2610.40382）指出AI 數學能力評測的盲區：只研究少數重大突破無法完整反映LLM 的真實能力",
-        "團隊建立OpenConjecture 數據集，收集2026 年2 月以來arXiv"
-      ],
-      "url": "https://techapple.com/archives/65292",
-      "source": "techapple.com",
-      "category": "前沿理论",
-      "importance": 3,
-      "publishedAt": "2026-11-05T09:00:00Z"
-    },
-    {
-      "id": "4377bcd2404b",
-      "title": "OpenAI's new cyber model found ways to attack nearly 1000 Linux flaws - Axios",
-      "summary": "OpenAI's researchers used the company's latest cyber model to take advantage of nearly 1000 security flaws in the popular Linux operating system — a piece of extensively vetted software that underpins...",
-      "highlights": [
-        "OpenAI's researchers used the company's latest cyber model to take advantage of nearly 1000 security flaws in the popular Linux operating system — a piece of extensively vetted software that underpins much of the world's digital infrastructure. **Why it matters:** AI is making it possible to uncover and test security weaknesses at a scale that could overwhelm companies' ability to fix them before hackers strike. * The company is also expanding its Daybreak program to give more organizations, independent researchers and open-source software maintainers access to its cyber models. * OpenAI said it is creating a new access level for critical infrastructure operators to conduct authorized security testing on their systems. **Zoom in:** OpenAI used the new model to build an automated system that could find security flaws in the Linux kernel, test whether they could be used to break into systems and propose fixes."
-      ],
-      "url": "https://www.axios.com/2026/11/05/openai-linux-cyber-model",
-      "source": "axios.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-11-05T18:56:31Z"
-    },
-    {
-      "id": "13fb52d55382",
-      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run - The Hacker News",
-      "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch **948 local privilege escalation vulnerabilities in Linux** for...",
-      "highlights": [
-        "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch **948 local privilege escalation vulnerabilities in Linux** for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate Linux kernel findings, dynamically reproduced 1,724 vulnerabilities, and produced 948 local privilege escalation (LPE) exploits that could allow an unprivileged local user to gain root access,\" the AI company said. * Vulnerability discovery, where agents identify high-value audit targets (i.e., parts of the codebase that are security-relevant and reachable by low-privileged users) and look for candidate findings. \"In a run in mid-October 2026, our pipeline using an upcoming cyber model dynamically reproduced 1,724 vulnerabilities [within 30 hours] and generated PoCs for 291 information leak vulnerabilities and 948 working local privilege escalation (LPE) exploits for a commonly used Linux distribution,\" OpenAI said."
-      ],
-      "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-      "source": "thehackernews.com",
-      "category": "模型发布",
-      "importance": 3,
-      "publishedAt": "2026-11-05T04:31:00Z"
-    },
-    {
-      "id": "0563006a5634",
-      "title": "OpenAI/阿里达摩院等都在卷，10篇具身智能论文汇总，从统一具身大脑到机群自我进化 - 智源社区",
-      "summary": "研究团队提出 EgoXperience，一个全栈范式，用于从自我中心视频联合重建观察者运动、场景几何与手-物交互。核心是自动标注引擎 EgoX-Engine，将几何验证的对象跟踪与基于 SLAM 的世界对齐耦合，为相机、场景、双手与物体产出一致监督，由此得到 50 小时、带秒级任务描述的 EgoX-Data-6M 数据集，并精挑 1 小时构建 EgoX-Bench 评估联合重建。模型 EgoX 在...",
-      "highlights": [
-        "研究团队提出 EgoXperience，一个全栈范式，用于从自我中心视频联合重建观察者运动、场景几何与手-物交互",
-        "核心是自动标注引擎 EgoX-Engine，将几何验证的对象跟踪与基于 SLAM 的世界对齐耦合，为相机、场景、双手与物体产出一致监督，由此得到 50 小时、带秒级任务描述的 EgoX-Data-6M 数据集，并精挑 1 小时构建 EgoX-Bench 评估联合重建",
-        "模型 EgoX 在单目自我中心视频与首帧物体掩码输入下，以单次前向在共享世界坐标系中联合重建相机、场景、双手与物体"
-      ],
-      "url": "https://hub.baai.ac.cn/view/59394",
-      "source": "hub.baai.ac.cn",
-      "category": "前沿理论",
-      "importance": 3,
-      "publishedAt": "2026-11-05T14:00:00Z"
-    },
-    {
-      "id": "a6ff687cba66",
-      "title": "摩根大通：看多科技的短线反弹",
-      "summary": "是修复还是反转?摩根大通交易部门发表了新观点，认为近期遭到抛售的科技股有望迎来短线反弹，市场涨势也可能从少数大型权值股扩散至更多产业。不过，该行并未对AI交易",
-      "highlights": [
-        "是修复还是反转?摩根大通交易部门发表了新观点，认为近期遭到抛售的科技股有望迎来短线反弹，市场涨势也可能从少数大型权值股扩散至更多产业",
-        "不过，该行并未对AI交易"
-      ],
-      "url": "https://www.moomoo.com/hans/news/post/1003584393",
-      "source": "moomoo.com",
-      "category": "行业话题",
-      "importance": 2,
-      "publishedAt": "2026-11-05T01:00:00Z"
-    },
-    {
-      "id": "32b977355b6f",
-      "title": "Meta Acquires Conductor: AI Coding Deal Facts [2026]",
-      "summary": "11 min read\n\nMeta has acquired Conductor, an AI coding startup that lets developers run multiple AI coding agents at the same time. Meta confirmed the acquisition to TechCrunch and gave no further det...",
-      "highlights": [
-        "11 min read",
-        "Meta has acquired Conductor, an AI coding startup that lets developers run multiple AI coding agents at the same time. Meta confirmed the acquisition to TechCrunch and gave no further details, and coverage from Axios and SiliconANGLE carried the same core story. The deal lands on November 5, 2026, and it puts a young agent-orchestration tool inside one of the biggest AI spenders in tech. [...] 1. More orchestration startups get acquired. If Meta saw value in a company founded in 2024, other large players have reason to look at similar teams. Expect at least a few more deals in this layer.",
-        "2. Parallel workspaces become a standard feature. Editors and agent products will add isolated, side-by-side agent runs, because developers will start asking for them by default. [...] | Item | Status | Detail |"
-      ],
-      "url": "https://tech-insider.org/meta-acquires-conductor-ai-coding-startup-nov-20-shutdown-2026",
-      "source": "tech-insider.org",
-      "category": "产品进展",
-      "importance": 2,
-      "publishedAt": "2026-11-05T00:16:06Z"
-    },
-    {
-      "id": "dca113cb0d02",
-      "title": "小米新机入网，明年年初发布，AI 大模型已预装|小米|SRRC 认证_新浪新闻",
-      "summary": "汽车 本地生活 旅游 数码 娱乐 影视\n\n26-11-05 11:32 微博认证：倚天视频官方微博\n\n#小米多款新机通过SRRC认证##曝小米多款新机预计明年年初发布#11 月 5 日消息，型号为 M016EB、M841EE、M077CE、M540BF 的小米新机已于昨日通过 SRRC 认证，博主体验more 确认这批新机将于明年年初发布。对此，大家怎么看？ ​",
-      "highlights": [
-        "汽车 本地生活 旅游 数码 娱乐 影视",
-        "26-11-05 11:32 微博认证：倚天视频官方微博",
-        "#小米多款新机通过SRRC认证##曝小米多款新机预计明年年初发布#11 月 5 日消息，型号为 M016EB、M841EE、M077CE、M540BF 的小米新机已于昨日通过 SRRC 认证，博主体验more 确认这批新机将于明年年初发布"
-      ],
-      "url": "https://www.sina.cn/news/detail/5361856059278977.html",
-      "source": "sina.cn",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-11-05T03:00:00Z"
-    },
-    {
-      "id": "b6c0ff40b66d",
-      "title": "AGIBOT unveils GO-3 Preview and takes top spot on three embodied AI benchmarks - Robotics & Automation News",
-      "summary": "***The new embodied foundation model connects pre-training, post-training and post-deployment learning, helping robots develop general-purpose capabilities and continuously improve through real-world ...",
-      "highlights": [
-        "***The new embodied foundation model connects pre-training, post-training and post-deployment learning, helping robots develop general-purpose capabilities and continuously improve through real-world experience***. **AGIBOT has unveiled GO-3 Preview, an embodied foundation model that supports large-scale learning across the full lifecycle of pre-training, post-training and post-deployment.**. Built on AGIBOT’s proprietary embodied-native architecture, WRAM (World Reasoning Action Model), GO-3 Preview unifies task understanding, future-state prediction and action generation to enable robots to generalize across tasks and perform precise manipulation. Together with Genie Evolver, AGIBOT’s hybrid post-training system, and Genie Master, its embodied agent framework, GO-3 Preview forms an integrated learning system spanning pre-training, post-training and real-world deployment. AGIBOT calls this approach “full-lifecycle scaling”, designed to help robots develop general capabilities, refine their skills through interaction and continuously improve by learning from real-world work. For embodied AI, the challenge is not simply to scale model training, but to extend learning across the entire lifecycle. During pre-training, GO-3 Preview addresses this challenge by scaling both data and model capabilities through its embodied-native WRAM architecture."
-      ],
-      "url": "https://roboticsandautomationnews.com/2026/11/05/agibot-unveils-go-3-preview-and-takes-top-spot-on-three-embodied-ai-benchmarks/106711/",
-      "source": "roboticsandautomationnews.com",
-      "category": "前沿理论",
-      "importance": 2,
-      "publishedAt": "2026-11-05T10:23:15Z"
-    },
-    {
-      "id": "15a1263770ba",
-      "title": "ruvLLM | Self-Learning On-Device Inference Engine - ACCESS Newswire",
-      "summary": "# Cognitum One Unveils MetaLLM, Self-Improving Model Control Plane for AI Agent Swarms. ***From the creator of open-source projects with more than 110 million downloads, nearly 1 million more each day...",
-      "highlights": [
-        "# Cognitum One Unveils MetaLLM, Self-Improving Model Control Plane for AI Agent Swarms. ***From the creator of open-source projects with more than 110 million downloads, nearly 1 million more each day and over 200,000 GitHub stars, MetaLLM brokers every model call, learns from past successes and failures to route work to ever less expensive models, and can patch edge models directly in their weights, all on infrastructure the enterprise controls.***. (cognitum.one), the sovereign agentic control plane company, today announced MetaLLM™ (metallm) at the 2026 SEMA Show, which runs November 3 through 6 at the Las Vegas Convention Center. It routes each task to the lowest-cost model able to complete it, learns from every result so it can route more work to cheaper models over time, enforces the company's model policies, and stamps agent-generated text and code with a key-verifiable cryptographic watermark."
-      ],
-      "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/cognitum-one-unveils-metallm-self-improving-model-control-plane-f-1247158",
-      "source": "accessnewswire.com",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-11-05T12:00:00Z"
-    },
-    {
-      "id": "7dac5ce0cdad",
-      "title": "Axiom Math wants to keep AI slop out of mathematics - TechCrunch",
-      "summary": "It feels like AI is cracking a new math problem every week. After years of AI slop, it’s fair to wonder whether math is next. The $1.6B startup wants to build a verified foundation that AI agents can ...",
-      "highlights": [
-        "It feels like AI is cracking a new math problem every week. After years of AI slop, it’s fair to wonder whether math is next. The $1.6B startup wants to build a verified foundation that AI agents can rely on to write software and, eventually, do science. On Wednesday, the company announced it had formally verified the Stacks Project, one of the largest bodies of mathematics ever written by humans. Formalizing math is a way of making sure the structure underneath it is sound. The theorems and definitions in Stacks are interconnected, and each one builds on the ones before it. “[Stacks] is a collection of mathematical results that is the foundation of mathematics. The way Axiom’s agents built Stacks, working in parallel and picking their own tasks, is how Hong expects much of AI’s future work to happen. “You want [agents] to have a reusable library for them to build on and keep pushing the frontier,” Hong said."
-      ],
-      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-      "source": "techcrunch.com",
-      "category": "产品进展",
-      "importance": 2,
-      "publishedAt": "2026-11-05T16:16:45Z"
-    },
-    {
-      "id": "02776e2d0996",
-      "title": "Semiconductor stocks are sliding. This one is a buy, BMO says - CNBC",
-      "summary": "Astera Labs stands to get a boost from the ongoing artificial intelligence build-out after being hit by a rotation out of semiconductor stocks, according to BMO Capital Markets. This drives ALAB conte...",
-      "highlights": [
-        "Astera Labs stands to get a boost from the ongoing artificial intelligence build-out after being hit by a rotation out of semiconductor stocks, according to BMO Capital Markets. This drives ALAB content greater than $1K per GPU/XPU accelerator, which continues to expand from new platforms.\" Shares of Astera have plunged nearly 30% over the past three months amid a broader rotation out of semiconductor stocks due to rising concerns about the sustainability of the AI trade. However, Astera Labs is still well positioned to benefit from \"greater content attach rates from ongoing AI/cloud infrastructure deployments,\" in the near-term, according to Kumar. It also has a longer-term strategy to lean into optics, racks and custom semiconductor solutions, which should become a greater contributor to its revenue over time, per his note. Of the 24 analysts covering Astera Labs, 17 have a buy or strong buy rating on the stock, while seven have a hold on it, LSEG data shows."
-      ],
-      "url": "https://www.cnbc.com/2026/11/05/astera-labs-bmo-ai-outperform.html",
-      "source": "cnbc.com",
-      "category": "芯片硬件",
-      "importance": 2,
-      "publishedAt": "2026-11-05T12:34:16Z"
-    },
-    {
-      "id": "83f1aeefbbb2",
-      "title": "Every company building AI agents in 2026 hit the same problem: an agent is only as good as what it knows. And most of what matters gets said in meetings. So they went shopping. Salesforce bought… | Jean-Louis Quéguiner",
-      "summary": "easy. Getting one an agent can act on is not. Investors see it too. In the last few months alone: • Granola raised $125M at a $1.5B valuation • Wispr Flow raised $280M at a $2B valuation • Otter.ai se...",
-      "highlights": [
-        "easy. Getting one an agent can act on is not. Investors see it too. In the last few months alone: • Granola raised $125M at a $1.5B valuation • Wispr Flow raised $280M at a $2B valuation • Otter.ai secured $320M from General Catalyst's Customer Value Fund Three very different starting points with one shared bet — conversation is the input for the future of work. My prediction: at least two more notetakers get acquired in the next 6–12 months, bought by platforms that own a workflow but not the [...] Every company building AI agents in 2026 hit the same problem: an agent is only as good as what it knows. And most of what matters gets said in meetings. So they went shopping. Salesforce bought Momentum. Aircall bought PiperAI (by Aircall). Superhuman bought Fathom.ai. Each already owned a workflow. None owned the conversation feeding it. Why buy instead of build? Because it’s hard. We would know: we build the voice infra many of these products run on. Getting a transcript is easy. Getting one [...] Maddy A.   2h",
-        "Report this comment",
-        "Very interesting, Jean-Louis! Context has always been important, so most are aiming to acquire companies that have it the most."
-      ],
-      "url": "https://www.linkedin.com/posts/jlqueguiner_every-company-building-ai-agents-in-2026-activity-7523730868427747328-Nvcv",
-      "source": "linkedin.com",
-      "category": "产品进展",
-      "importance": 2,
-      "publishedAt": "2026-11-05T22:57:23Z"
-    },
-    {
-      "id": "fb371f4fc488",
-      "title": "Instagram",
-      "summary": "𝗛𝗼𝘄 𝗺𝘂𝗰𝗵 𝗼𝗳 𝗨𝗦 𝗧𝗲𝗰𝗵'𝘀 $𝟰𝟱𝟳𝗕 𝘄𝗲𝗻𝘁 𝘁𝗼 𝗮 𝗵𝗮𝗻𝗱𝗳𝘂𝗹 𝗼𝗳 𝗔𝗜 𝗰𝗼𝗺𝗽𝗮𝗻𝗶𝗲𝘀? 𝗔 𝗯𝗶𝗴 𝘀𝗵𝗮𝗿𝗲. 🇺🇸  \n  \nUS tech funding more than doubled this year, yet rounds fell 15%. If you follow where the money goes, most of it wen...",
-      "highlights": [
-        "𝗛𝗼𝘄 𝗺𝘂𝗰𝗵 𝗼𝗳 𝗨𝗦 𝗧𝗲𝗰𝗵'𝘀 $𝟰𝟱𝟳𝗕 𝘄𝗲𝗻𝘁 𝘁𝗼 𝗮 𝗵𝗮𝗻𝗱𝗳𝘂𝗹 𝗼𝗳 𝗔𝗜 𝗰𝗼𝗺𝗽𝗮𝗻𝗶𝗲𝘀? 𝗔 𝗯𝗶𝗴 𝘀𝗵𝗮𝗿𝗲. 🇺🇸",
-        "US tech funding more than doubled this year, yet rounds fell 15%. If you follow where the money goes, most of it went into a few very large late-stage rounds.",
-        "𝗛𝗼𝘄 𝘁𝗵𝗲 $𝟰𝟱𝟳𝗕 𝘀𝗽𝗹𝗶𝘁:"
-      ],
-      "url": "https://www.instagram.com/reel/DfWXFiToiJn",
-      "source": "instagram.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-11-05T22:57:23Z"
-    }
-  ],
-  "week": [
-    {
-      "id": "3a95e88c85f2",
-      "title": "启明星 | 快手系芯片公司凌川科技完成10亿元B轮融资，启明创投联合领投 | 启明创投",
-      "summary": "自2017年《Attention Is All You Need》发表、NVIDIA推出首款集成Tensor Core的Volta V100以来，以通用GPU为代表的AI算力芯片经历了黄金十年；2027年起，产业将进入新一轮的牧本浪潮（Makimoto's Wave）周期，面向AIGV（AI生成式视频）等垂直赛道的专用算力器件将迎来最大的创新机遇与增长空间。\n\n行业层面，随着短剧、互动视频、AI广...",
-      "highlights": [
-        "自2017年《Attention Is All You Need》发表、NVIDIA推出首款集成Tensor Core的Volta V100以来，以通用GPU为代表的AI算力芯片经历了黄金十年；2027年起，产业将进入新一轮的牧本浪潮（Makimoto's Wave）周期，面向AIGV（AI生成式视频）等垂直赛道的专用算力器件将迎来最大的创新机遇与增长空间",
-        "行业层面，随着短剧、互动视频、AI广告等应用爆发，视频数据处理与传输需求快速增长，AIGV被视为下一代智能算力的重要应用场景，其有效算力需求相比传统文本模型呈指数级增长，在所有大模型Token消耗中占据重要部分",
-        "刘凌志表示，这一赛道当前为数百亿级规模，“未来三到五年将爆发至数千亿级，并可能突破万亿元"
-      ],
-      "url": "https://www.qimingvc.com/cn/news/%E5%90%AF%E6%98%8E%E6%98%9F-%E5%BF%AB%E6%89%8B%E7%B3%BB%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8%E5%87%8C%E5%B7%9D%E7%A7%91%E6%8A%80%E5%AE%8C%E6%88%9010%E4%BA%BF%E5%85%83b%E8%BD%AE%E8%9E%8D%E8%B5%84%EF%BC%8C%E5%90%AF%E6%98%8E%E5%88%9B%E6%8A%95%E8%81%94%E5%90%88%E9%A2%86%E6%8A%95",
-      "source": "qimingvc.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-04T09:00:00Z"
-    },
-    {
-      "id": "34594201c2e8",
-      "title": "快手系芯片公司凌川科技获10亿元B轮融资，\"本垒打\"视频生成算力-美通社PR-Newswire",
-      "summary": "凌川科技拥有雄厚的产业人才积淀。公司创始人、董事长兼CEO刘凌志为上海交通大学博士、华盛顿大学博士后，曾任快手集团副总裁及华为、英特尔等核心技术管理岗，2018年起从零搭建快手异构计算和芯片团队。目前，公司核心团队源自快手、华为、阿里、百度、英伟达、AMD、英特尔、Arm等国内外企业，平均拥有15年以上芯片设计、软件算法及基础设施经验，主导过10余款AI和视频芯片流片与量产。团队中拥有多名入选国家...",
-      "highlights": [
-        "凌川科技拥有雄厚的产业人才积淀",
-        "公司创始人、董事长兼CEO刘凌志为上海交通大学博士、华盛顿大学博士后，曾任快手集团副总裁及华为、英特尔等核心技术管理岗，2018年起从零搭建快手异构计算和芯片团队",
-        "目前，公司核心团队源自快手、华为、阿里、百度、英伟达、AMD、英特尔、Arm等国内外企业，平均拥有15年以上芯片设计、软件算法及基础设施经验，主导过10余款AI和视频芯片流片与量产"
-      ],
-      "url": "https://www.prnasia.com/story/554593-1.shtml",
-      "source": "prnasia.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-04T02:00:00Z"
-    },
-    {
-      "id": "1dead398996c",
-      "title": "证监会李超︰深化内地与香港资本市场双向开放",
-      "summary": "二是不断提升A股上市公司质量和投资价值。今年前三季度，上市公司开展并购重组近2000起，交易金额近1．5万亿元，一批优质企业通过并购重组加快转型升级，实现价值成长。今年以来，A股上市公司收入和利润呈现良好增长态势，分红回购金额远超IPO再融资金额，上市公司的投资者回报意识和能力稳步增强。   \n   \n　　三是持续深化A股资本市场包容性改革。聚焦服务新质生产力发展，今年以来先后推出优化再融资制度机...",
-      "highlights": [
-        "二是不断提升A股上市公司质量和投资价值",
-        "今年前三季度，上市公司开展并购重组近2000起，交易金额近1．5万亿元，一批优质企业通过并购重组加快转型升级，实现价值成长",
-        "今年以来，A股上市公司收入和利润呈现良好增长态势，分红回购金额远超IPO再融资金额，上市公司的投资者回报意识和能力稳步增强"
-      ],
-      "url": "https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=176&kindid=0&docid=107251350",
-      "source": "bj.crntt.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-03T14:00:00Z"
-    },
-    {
-      "id": "5ad919acfe05",
-      "title": "AI游戏步入「红果时刻」，腾讯米哈游为何不慌_投资界",
-      "summary": "机器之心2026-11-04\n ### 价格战在中国大模型行业结束了，但成本战才刚开始\n\n  钛媒体APP2026-11-03\n ### 中国大模型训练如何突破算力瓶颈\n\n  经济观察网2026-10-29\n ### 考拉悠然完成B++轮融资，持续迭代世界模型基座与多模态大模型\n\n  融资大事件2026-10-29\n ### 双11的火，还是烧到了大模型\n\n  新眸2026-10-23\n ### ...",
-      "highlights": [
-        "机器之心2026-11-04",
-        "### 价格战在中国大模型行业结束了，但成本战才刚开始",
-        "钛媒体APP2026-11-03"
-      ],
-      "url": "https://news.pedaily.cn/202611/571325.shtml",
-      "source": "news.pedaily.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-04T04:48:00Z"
-    },
-    {
-      "id": "3e3853cac822",
-      "title": "当金融大模型开始自我进化-移动支付网",
-      "summary": "收藏\n\n评论加载中\n\n 工行申请一项发明专利，关于面向金融领域的大模型推理\n Revolut成立专属AI研究部门 自研金融大模型\n 重庆“十五五”人工智能发展规划：推动金融大模型研发应用！\n 中原消费金融大模型采购项目中标结果公示\n 哈银消费金融大模型基础建设项目招标\n 中国银联携手合作伙伴共同发布2025金融大模型评测体系\n 从经验驱动到智能驱动，富滇银行数字金融大模型项目入选典型案例\n 2...",
-      "highlights": [
-        "工行申请一项发明专利，关于面向金融领域的大模型推理",
-        "Revolut成立专属AI研究部门 自研金融大模型",
-        "重庆“十五五”人工智能发展规划：推动金融大模型研发应用"
-      ],
-      "url": "https://www.mpaypass.com.cn/news/202611/04182035.html",
-      "source": "mpaypass.com.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-04T09:00:00Z"
-    },
-    {
-      "id": "fb1eeb96e742",
-      "title": "腾讯史上最强开源模型来了：混元Hy4正式版发布，首次支持视觉理解与电脑操作",
-      "summary": "定价方面，Hy4在模型性能大幅超越Hy4 preview的同时定价不变：输入6元/百万tokens，输出18元/百万tokens，缓存命中0.3元/百万 tokens；与此同时，WorkBuddy/CodeBuddy将在11月4日至11月15日期间，为用户提供一定额度的免费使用；此外，即日起至2026年12月31日，Hy4在腾讯云TokenHub按刊例价5折计费。\n\n值得一提的是，腾讯方面还宣布，...",
-      "highlights": [
-        "定价方面，Hy4在模型性能大幅超越Hy4 preview的同时定价不变：输入6元/百万tokens，输出18元/百万tokens，缓存命中0.3元/百万 tokens；与此同时，WorkBuddy/CodeBuddy将在11月4日至11月15日期间，为用户提供一定额度的免费使用；此外，即日起至2026年12月31日，Hy4在腾讯云TokenHub按刊例价5折计费",
-        "值得一提的是，腾讯方面还宣布，Hy4 flash也将于近期发布",
-        "Hy4 flash在继承Hy4能力的基础上，大幅减低任务成本，为用户提供极致性价比的模型"
-      ],
-      "url": "https://m.cls.cn/detail/2525324",
-      "source": "m.cls.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-03T22:00:00Z"
-    },
-    {
-      "id": "31b3ceeba97d",
-      "title": "天數智芯展示自研軟件棧和彤央邊緣終端",
-      "summary": "The Bamboo Works 詠竹坊\n\n# 天數智芯展示自研軟件棧和彤央邊緣終端\n\nRick Lau\n\n3 分鐘閱讀時間\n\n 001520.KS\n\n  +2.43%\n 9903.HK\n\n  +11.89%\n NVDA\n\n  +0.54%\n\nAI芯片設計商天數智芯表示，其全新彤央TY1200邊緣終端的性能，是搭載英偉達Jetson Thor T5000同類產品的1.2倍\n\n陽歌\n\n上海天數智芯半...",
-      "highlights": [
-        "The Bamboo Works 詠竹坊",
-        "# 天數智芯展示自研軟件棧和彤央邊緣終端",
-        "AI芯片設計商天數智芯表示，其全新彤央TY1200邊緣終端的性能，是搭載英偉達Jetson Thor T5000同類產品的1.2倍"
-      ],
-      "url": "https://hk.finance.yahoo.com/news/%E5%A4%A9%E6%95%B8%E6%99%BA%E8%8A%AF%E5%B1%95%E7%A4%BA%E8%87%AA%E7%A0%94%E8%BB%9F%E4%BB%B6%E6%A3%A7%E5%92%8C%E5%BD%A4%E5%A4%AE%E9%82%8A%E7%B7%A3%E7%B5%82%E7%AB%AF-075314947.html",
-      "source": "hk.finance.yahoo.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-04T08:00:00Z"
-    },
-    {
-      "id": "4e9f8fd99fb4",
-      "title": "摩尔线程斩获世界互联网大会杰出贡献奖",
-      "summary": "## 从云到端\n\n## 全功能GPU加速AI落地\n\n作为少有的同时覆盖企业级与消费（883434）级市场的国产GPU企业，摩尔线程（688795）将全功能GPU的能力从云端延伸到更广泛的边缘和终端场景。公司以自研智能SoC“长江”为核心，推出普惠性的终端产品——AI算力本MTT AIBOOK和家庭AI中枢MTT AICUBE，以及边缘AI模组MTT E300，让AI进一步走入千家万户和各行各业。\n...",
-      "highlights": [
-        "## 全功能GPU加速AI落地",
-        "作为少有的同时覆盖企业级与消费（883434）级市场的国产GPU企业，摩尔线程（688795）将全功能GPU的能力从云端延伸到更广泛的边缘和终端场景",
-        "公司以自研智能SoC“长江”为核心，推出普惠性的终端产品——AI算力本MTT AIBOOK和家庭AI中枢MTT AICUBE，以及边缘AI模组MTT E300，让AI进一步走入千家万户和各行各业"
-      ],
-      "url": "http://stock.10jqka.com.cn/20261103/c681409338.shtml",
-      "source": "stock.10jqka.com.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-03T22:00:00Z"
-    },
-    {
-      "id": "fd12e7b72709",
-      "title": "华尔街重新押注中国：外资投行加速布局，资本市场开放释放新机遇提供者FX168",
-      "summary": "喜欢 0 0收藏举报\n\n— 分享 —\n\n摘要：花旗证券（中国）获批成为国内第七家外资独资券商，折射出国际金融机构正在重新加大对中国市场的布局。随着港股IPO融资规模增长，中国企业海外发行、跨境并购及全球化经营需求持续扩大，AI、半导体、新能源和先进制造成为华尔街争夺的新业务增长点。摩根大通、瑞银、高盛等机构纷纷扩大在华业务，外资金融机构的竞争重点也从传统证券交易延伸至跨境投融资、资产管理和企业全球...",
-      "highlights": [
-        "摘要：花旗证券（中国）获批成为国内第七家外资独资券商，折射出国际金融机构正在重新加大对中国市场的布局",
-        "随着港股IPO融资规模增长，中国企业海外发行、跨境并购及全球化经营需求持续扩大，AI、半导体、新能源和先进制造成为华尔街争夺的新业务增长点",
-        "摩根大通、瑞银、高盛等机构纷纷扩大在华业务，外资金融机构的竞争重点也从传统证券交易延伸至跨境投融资、资产管理和企业全球资金管理"
-      ],
-      "url": "https://www.fx168news.com/article/%E8%A1%8C%E4%B8%9A%E6%96%B0%E9%97%BB-1112318",
-      "source": "fx168news.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-04T17:00:00Z"
-    },
-    {
-      "id": "58e4974e0d0b",
-      "title": "当AI闯入数学 研究如何裂变？|数学|AI|代数_新浪教育_新浪新闻",
-      "summary": "5月，OpenAI宣布成功攻克了一个困扰数学界80年的难题——匈牙利数学家保罗·埃尔德什（Paul Erdős）于1946年提出的“平面单位距离问题”。7月，供职于Anthropic的数学家莱文特·阿尔珀格（Levent Alpöge）表示，利用Anthropic的大语言模型Claude Fable 5，他找到了雅可比猜想的一个反例。9月，OpenAI宣布，10000个AI智能体系统88小时攻克了...",
-      "highlights": [
-        "5月，OpenAI宣布成功攻克了一个困扰数学界80年的难题——匈牙利数学家保罗·埃尔德什（Paul Erdős）于1946年提出的“平面单位距离问题”",
-        "7月，供职于Anthropic的数学家莱文特·阿尔珀格（Levent Alpöge）表示，利用Anthropic的大语言模型Claude Fable 5，他找到了雅可比猜想的一个反例",
-        "9月，OpenAI宣布，10000个AI智能体系统88小时攻克了困扰人类近一个世纪的重大数学问题纳维-斯托克斯问题"
-      ],
-      "url": "https://edu.sina.com.cn/l/2026-11-04/doc-inixmxcu9968218.shtml",
-      "source": "edu.sina.com.cn",
-      "category": "前沿理论",
-      "importance": 5,
-      "publishedAt": "2026-11-03T16:22:35Z"
-    },
-    {
-      "id": "5120e9798ed4",
-      "title": "The Great AI Rift: Why Meta, Palantir Are Fighting Against OpenAI, Anthropic, Google",
-      "summary": "Jensen Huang's case blends principle with arithmetic. Every downloaded model still needs a GPU to run, and most GPUs are Nvidia's. When Nvidia released the Nemotron 3.5 Lightning model that runs on a ...",
-      "highlights": [
-        "Jensen Huang's case blends principle with arithmetic. Every downloaded model still needs a GPU to run, and most GPUs are Nvidia's. When Nvidia released the Nemotron 3.5 Lightning model that runs on a single GPU in August this year, he said that \"Free AI should be great for chips. In March, Nvidia had assembled the Nemotron Coalition, eight labs including Mistral and Perplexity, to build frontier-grade open models. At CES in January, Huang claimed that 80% of startups build on open models. [...] The schism is reshaping how AI gets built. The capability gap that once settled the debate has narrowed sharply: by one widely cited estimate, the best open models now trail the closed frontier by about four months, and cost roughly a third as much per unit of capability. Yet enterprise use of open models has reportedly fallen, as large companies pay a premium for managed services, support, and the very best performance. [...] The line hardened on July 24, when 25 companies, among them Nvidia, Microsoft, Meta, IBM, and Palantir, signed an open letter titled \"Open Weights and American AI Leadership\", urging Washington not to restrict open-weight models. Google, OpenAI, and Anthropic did not sign. Sam Altman later posted that he wanted America to win in both open and proprietary AI. The hedge was telling: OpenAI released open-weight models in 2025, alarmed by China's progress, but keeps its best systems behind an API."
-      ],
-      "url": "https://www.ndtv.com/opinion/the-great-ai-rift-why-meta-palantir-are-fighting-against-openai-anthropic-google-12275172?pfrom=home-ndtv_mainnavigation",
-      "source": "ndtv.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-03T22:00:00Z"
-    },
-    {
-      "id": "b9fa8ba2b134",
-      "title": "Sources -- Miami's Toney (ankle) uncertain for Notre Dame game - ESPN",
-      "summary": "# 天数智芯(HK:09903). 11-04 16:08:10 北京时间. | 最高：64.45 | 今开：56.80 | 成交量：1092.66万股 | 换手：1.40% |. | 最低：54.70 | 昨收：56.35 | 成交额：6.62亿 | 振幅：17.30% |. | 52周最高：295.83 | 量比：1.74 | 市盈率(动)：207.27 | 市盈率(TTM)：亏损 |. | ...",
-      "highlights": [
-        "# 天数智芯(HK:09903). 11-04 16:08:10 北京时间. | 最高：64.45 | 今开：56.80 | 成交量：1092.66万股 | 换手：1.40% |. | 最低：54.70 | 昨收：56.35 | 成交额：6.62亿 | 振幅：17.30% |. | 52周最高：295.83 | 量比：1.74 | 市盈率(动)：207.27 | 市盈率(TTM)：亏损 |. | 52周最低：49.63 | 委比：98.62% | 市盈率(静)：亏损 | 市净率：3.68 |. | 每股收益：-0.40 | 股息(TTM)：-- | 总股本：8.08亿 | 总市值：509.14亿 |. | 每股净资产：17.13 | 股息率(TTM)：-- | 港股股本：7.80亿 | 港股市值：491.71亿 |. | 每手股数：100 | 最小价差：0.05 | 货币单位：HKD |. $天数智芯(09903)$ 这两天，香港交易所正式推出香港交易所人工智能指数及香港交易所半导体指数，天数智芯（9903.HK）同时入选两项指数成份股，成为两大科技主题指数的成份股企业. ### 天数智芯天垓300真机实测：性能赶超国际主流GPU，超节点有效Token成本直降40%. 新浪科技讯 11月4日晚间消息，近日，天数智芯举办2026媒体开放日活动，首次面向媒体开放真机实测演示了天垓300通用GPU旗舰产品，展示了基于天垓300的AFD分离方案、IXL144超节点方案，以及天数智算软件栈、彤央端侧算力终端产品——彤央TY1200在实测中超越Thor T5000，并预... 十个月8w 500亿市值，这低估太多了吧$天数智芯(09903)$. > ##### **专栏** 【百强透视】出货超8万片，天数智芯（09903.HK）商业化持续提速. > 11月3日截至发稿，天数智芯（09903.HK）报57.65港元，跌幅6.34%，总市值约466亿港元",
-        ". > 公司是港股稀缺的国产通用GPU龙头，近期披露经营数据，算力芯片规模化落地再获验证，然而近期AI板块情绪低迷，国产算力板块资金流出，股价承压",
-        ". > 底部放量拉升，右侧信号已经出来了"
-      ],
-      "url": "https://www.espn.com/college-football/story/_/id/50381248/sources-miami-toney-ankle-uncertain-notre-dame-game",
-      "source": "espn.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-04T19:42:00Z"
-    },
-    {
-      "id": "93c8eb4a1dfb",
-      "title": "US tech giants' hidden AI debt swells 90% to $3.2tn in 6 months - Nikkei Asia",
-      "summary": "# US tech giants' hidden AI debt swells 90% to $3.2tn in 6 months. An Amazon data center in the U.S. state of Indiana. Tech giants are pouring money into such AI infrastructure. PALO ALTO, California ...",
-      "highlights": [
-        "# US tech giants' hidden AI debt swells 90% to $3.2tn in 6 months. An Amazon data center in the U.S. state of Indiana. Tech giants are pouring money into such AI infrastructure. PALO ALTO, California -- U.S. tech giants' off-balance-sheet debt from artificial intelligence-related obligations continues to balloon, almost doubling in six months to about $3.2 trillion, with investors increasingly alarmed by seemingly unending spending. #### Anthropic seeks to raise up to $3.5bn from Japanese investors in IPO. #### Japan asks Anthropic, OpenAI for more access to advanced models. #### Japan's Marubeni looks to profit from bottlenecks arising from AI boom. #### AI boom, soaring memory prices lift Japan's chip exports 41%. #### Five US tech giants' hidden debts soar to $1.65tn on opaque AI funding. #### AI dubbing to help Japanese companies expand global outreach. #### Japan's KDDI to build another data center in London. ## Sponsored Content. ### About Sponsored ContentThis content was commissioned by Nikkei's Global Business Bureau."
-      ],
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-      "source": "asia.nikkei.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-03T20:02:48Z"
-    },
-    {
-      "id": "6d9ca91cb734",
-      "title": "本末科技与韩国机器人龙头企业 Everybot 战略合作签署|具身之家",
-      "summary": "本末科技成立于 2020 年，是全球领先的以直驱技术为核心能力的机器人技术平台企业，国家级高新技术企业、专精特新 \"小巨人\" 企业，并于 2026 年登陆香港联合交易所主板。本末科技深耕直驱动力模组、机器人关节及机器人本体研发制造，实现从核心零部件自研量产到机器人整机商业化落地的完整产业闭环，产品远销全球五十多个国家及地区，在消费机器人、具身机器人、工业自动化、智能装备等场景拥有成熟解决方案及落地...",
-      "highlights": [
-        "本末科技成立于 2020 年，是全球领先的以直驱技术为核心能力的机器人技术平台企业，国家级高新技术企业、专精特新 \"小巨人\" 企业，并于 2026 年登陆香港联合交易所主板",
-        "本末科技深耕直驱动力模组、机器人关节及机器人本体研发制造，实现从核心零部件自研量产到机器人整机商业化落地的完整产业闭环，产品远销全球五十多个国家及地区，在消费机器人、具身机器人、工业自动化、智能装备等场景拥有成熟解决方案及落地应用经验",
-        "Everybot 由韩国第一代机器人开发工程师于 2015 年创立，是韩国具身智能机器人龙头企业，其于 2016 年全球首创无轮拖地机器人，曾连续多年位居韩国扫地 / 拖地机器人市场占有率第一，并于 2021 年登陆韩国 KOSDAQ 证券市场"
-      ],
-      "url": "https://www.jushenhome.com/news_d.php?id=2270",
-      "source": "jushenhome.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-11-04T14:00:00Z"
-    },
-    {
-      "id": "74cf4183e365",
-      "title": "Google's Latest AI Model Nearly Matches Anthropic at One-Third the Cost: Report",
-      "summary": "Alphabet Inc. (NASDAQ:GOOGL) has nearly caught Anthropic in a demanding new AI benchmark, with its latest Gemini model delivering almost the same performance at roughly one-third the price.\n\nThe new b...",
-      "highlights": [
-        "Alphabet Inc. (NASDAQ:GOOGL) has nearly caught Anthropic in a demanding new AI benchmark, with its latest Gemini model delivering almost the same performance at roughly one-third the price.",
-        "The new benchmark from SemiAnalysis puts Google's Gemini 4 Carbon just behind Anthropic's flagship Claude Opus 5.5, but ahead of OpenAI's GPT-6 Astra.",
-        "The result marks a significant advance for Google, which is challenging its biggest AI rivals on both performance and price."
-      ],
-      "url": "https://finance.yahoo.com/technology/ai/articles/googles-latest-ai-model-nearly-163019141.html",
-      "source": "finance.yahoo.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-04T16:00:00Z"
     }
   ],
   "month": [
@@ -1143,21 +729,6 @@
       "publishedAt": "2026-11-04T02:00:00Z"
     },
     {
-      "id": "1dead398996c",
-      "title": "证监会李超︰深化内地与香港资本市场双向开放",
-      "summary": "二是不断提升A股上市公司质量和投资价值。今年前三季度，上市公司开展并购重组近2000起，交易金额近1．5万亿元，一批优质企业通过并购重组加快转型升级，实现价值成长。今年以来，A股上市公司收入和利润呈现良好增长态势，分红回购金额远超IPO再融资金额，上市公司的投资者回报意识和能力稳步增强。   \n   \n　　三是持续深化A股资本市场包容性改革。聚焦服务新质生产力发展，今年以来先后推出优化再融资制度机...",
-      "highlights": [
-        "二是不断提升A股上市公司质量和投资价值",
-        "今年前三季度，上市公司开展并购重组近2000起，交易金额近1．5万亿元，一批优质企业通过并购重组加快转型升级，实现价值成长",
-        "今年以来，A股上市公司收入和利润呈现良好增长态势，分红回购金额远超IPO再融资金额，上市公司的投资者回报意识和能力稳步增强"
-      ],
-      "url": "https://bj.crntt.com/crn-webapp/touch/detail.jsp?coluid=176&kindid=0&docid=107251350",
-      "source": "bj.crntt.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-03T14:00:00Z"
-    },
-    {
       "id": "5ad919acfe05",
       "title": "AI游戏步入「红果时刻」，腾讯米哈游为何不慌_投资界",
       "summary": "机器之心2026-11-04\n ### 价格战在中国大模型行业结束了，但成本战才刚开始\n\n  钛媒体APP2026-11-03\n ### 中国大模型训练如何突破算力瓶颈\n\n  经济观察网2026-10-29\n ### 考拉悠然完成B++轮融资，持续迭代世界模型基座与多模态大模型\n\n  融资大事件2026-10-29\n ### 双11的火，还是烧到了大模型\n\n  新眸2026-10-23\n ### ...",
@@ -1188,21 +759,6 @@
       "publishedAt": "2026-11-04T09:00:00Z"
     },
     {
-      "id": "fb1eeb96e742",
-      "title": "腾讯史上最强开源模型来了：混元Hy4正式版发布，首次支持视觉理解与电脑操作",
-      "summary": "定价方面，Hy4在模型性能大幅超越Hy4 preview的同时定价不变：输入6元/百万tokens，输出18元/百万tokens，缓存命中0.3元/百万 tokens；与此同时，WorkBuddy/CodeBuddy将在11月4日至11月15日期间，为用户提供一定额度的免费使用；此外，即日起至2026年12月31日，Hy4在腾讯云TokenHub按刊例价5折计费。\n\n值得一提的是，腾讯方面还宣布，...",
-      "highlights": [
-        "定价方面，Hy4在模型性能大幅超越Hy4 preview的同时定价不变：输入6元/百万tokens，输出18元/百万tokens，缓存命中0.3元/百万 tokens；与此同时，WorkBuddy/CodeBuddy将在11月4日至11月15日期间，为用户提供一定额度的免费使用；此外，即日起至2026年12月31日，Hy4在腾讯云TokenHub按刊例价5折计费",
-        "值得一提的是，腾讯方面还宣布，Hy4 flash也将于近期发布",
-        "Hy4 flash在继承Hy4能力的基础上，大幅减低任务成本，为用户提供极致性价比的模型"
-      ],
-      "url": "https://m.cls.cn/detail/2525324",
-      "source": "m.cls.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-03T22:00:00Z"
-    },
-    {
       "id": "31b3ceeba97d",
       "title": "天數智芯展示自研軟件棧和彤央邊緣終端",
       "summary": "The Bamboo Works 詠竹坊\n\n# 天數智芯展示自研軟件棧和彤央邊緣終端\n\nRick Lau\n\n3 分鐘閱讀時間\n\n 001520.KS\n\n  +2.43%\n 9903.HK\n\n  +11.89%\n NVDA\n\n  +0.54%\n\nAI芯片設計商天數智芯表示，其全新彤央TY1200邊緣終端的性能，是搭載英偉達Jetson Thor T5000同類產品的1.2倍\n\n陽歌\n\n上海天數智芯半...",
@@ -1216,21 +772,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-11-04T08:00:00Z"
-    },
-    {
-      "id": "4e9f8fd99fb4",
-      "title": "摩尔线程斩获世界互联网大会杰出贡献奖",
-      "summary": "## 从云到端\n\n## 全功能GPU加速AI落地\n\n作为少有的同时覆盖企业级与消费（883434）级市场的国产GPU企业，摩尔线程（688795）将全功能GPU的能力从云端延伸到更广泛的边缘和终端场景。公司以自研智能SoC“长江”为核心，推出普惠性的终端产品——AI算力本MTT AIBOOK和家庭AI中枢MTT AICUBE，以及边缘AI模组MTT E300，让AI进一步走入千家万户和各行各业。\n...",
-      "highlights": [
-        "## 全功能GPU加速AI落地",
-        "作为少有的同时覆盖企业级与消费（883434）级市场的国产GPU企业，摩尔线程（688795）将全功能GPU的能力从云端延伸到更广泛的边缘和终端场景",
-        "公司以自研智能SoC“长江”为核心，推出普惠性的终端产品——AI算力本MTT AIBOOK和家庭AI中枢MTT AICUBE，以及边缘AI模组MTT E300，让AI进一步走入千家万户和各行各业"
-      ],
-      "url": "http://stock.10jqka.com.cn/20261103/c681409338.shtml",
-      "source": "stock.10jqka.com.cn",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-03T22:00:00Z"
     },
     {
       "id": "fd12e7b72709",
@@ -1248,19 +789,64 @@
       "publishedAt": "2026-11-04T17:00:00Z"
     },
     {
-      "id": "58e4974e0d0b",
-      "title": "当AI闯入数学 研究如何裂变？|数学|AI|代数_新浪教育_新浪新闻",
-      "summary": "5月，OpenAI宣布成功攻克了一个困扰数学界80年的难题——匈牙利数学家保罗·埃尔德什（Paul Erdős）于1946年提出的“平面单位距离问题”。7月，供职于Anthropic的数学家莱文特·阿尔珀格（Levent Alpöge）表示，利用Anthropic的大语言模型Claude Fable 5，他找到了雅可比猜想的一个反例。9月，OpenAI宣布，10000个AI智能体系统88小时攻克了...",
+      "id": "b9fa8ba2b134",
+      "title": "Sources -- Miami's Toney (ankle) uncertain for Notre Dame game - ESPN",
+      "summary": "# 天数智芯(HK:09903). 11-04 16:08:10 北京时间. | 最高：64.45 | 今开：56.80 | 成交量：1092.66万股 | 换手：1.40% |. | 最低：54.70 | 昨收：56.35 | 成交额：6.62亿 | 振幅：17.30% |. | 52周最高：295.83 | 量比：1.74 | 市盈率(动)：207.27 | 市盈率(TTM)：亏损 |. | ...",
       "highlights": [
-        "5月，OpenAI宣布成功攻克了一个困扰数学界80年的难题——匈牙利数学家保罗·埃尔德什（Paul Erdős）于1946年提出的“平面单位距离问题”",
-        "7月，供职于Anthropic的数学家莱文特·阿尔珀格（Levent Alpöge）表示，利用Anthropic的大语言模型Claude Fable 5，他找到了雅可比猜想的一个反例",
-        "9月，OpenAI宣布，10000个AI智能体系统88小时攻克了困扰人类近一个世纪的重大数学问题纳维-斯托克斯问题"
+        "# 天数智芯(HK:09903). 11-04 16:08:10 北京时间. | 最高：64.45 | 今开：56.80 | 成交量：1092.66万股 | 换手：1.40% |. | 最低：54.70 | 昨收：56.35 | 成交额：6.62亿 | 振幅：17.30% |. | 52周最高：295.83 | 量比：1.74 | 市盈率(动)：207.27 | 市盈率(TTM)：亏损 |. | 52周最低：49.63 | 委比：98.62% | 市盈率(静)：亏损 | 市净率：3.68 |. | 每股收益：-0.40 | 股息(TTM)：-- | 总股本：8.08亿 | 总市值：509.14亿 |. | 每股净资产：17.13 | 股息率(TTM)：-- | 港股股本：7.80亿 | 港股市值：491.71亿 |. | 每手股数：100 | 最小价差：0.05 | 货币单位：HKD |. $天数智芯(09903)$ 这两天，香港交易所正式推出香港交易所人工智能指数及香港交易所半导体指数，天数智芯（9903.HK）同时入选两项指数成份股，成为两大科技主题指数的成份股企业. ### 天数智芯天垓300真机实测：性能赶超国际主流GPU，超节点有效Token成本直降40%. 新浪科技讯 11月4日晚间消息，近日，天数智芯举办2026媒体开放日活动，首次面向媒体开放真机实测演示了天垓300通用GPU旗舰产品，展示了基于天垓300的AFD分离方案、IXL144超节点方案，以及天数智算软件栈、彤央端侧算力终端产品——彤央TY1200在实测中超越Thor T5000，并预... 十个月8w 500亿市值，这低估太多了吧$天数智芯(09903)$. > ##### **专栏** 【百强透视】出货超8万片，天数智芯（09903.HK）商业化持续提速. > 11月3日截至发稿，天数智芯（09903.HK）报57.65港元，跌幅6.34%，总市值约466亿港元",
+        ". > 公司是港股稀缺的国产通用GPU龙头，近期披露经营数据，算力芯片规模化落地再获验证，然而近期AI板块情绪低迷，国产算力板块资金流出，股价承压",
+        ". > 底部放量拉升，右侧信号已经出来了"
       ],
-      "url": "https://edu.sina.com.cn/l/2026-11-04/doc-inixmxcu9968218.shtml",
-      "source": "edu.sina.com.cn",
-      "category": "前沿理论",
+      "url": "https://www.espn.com/college-football/story/_/id/50381248/sources-miami-toney-ankle-uncertain-notre-dame-game",
+      "source": "espn.com",
+      "category": "芯片硬件",
       "importance": 5,
-      "publishedAt": "2026-11-03T16:22:35Z"
+      "publishedAt": "2026-11-04T19:42:00Z"
+    },
+    {
+      "id": "6d9ca91cb734",
+      "title": "本末科技与韩国机器人龙头企业 Everybot 战略合作签署|具身之家",
+      "summary": "本末科技成立于 2020 年，是全球领先的以直驱技术为核心能力的机器人技术平台企业，国家级高新技术企业、专精特新 \"小巨人\" 企业，并于 2026 年登陆香港联合交易所主板。本末科技深耕直驱动力模组、机器人关节及机器人本体研发制造，实现从核心零部件自研量产到机器人整机商业化落地的完整产业闭环，产品远销全球五十多个国家及地区，在消费机器人、具身机器人、工业自动化、智能装备等场景拥有成熟解决方案及落地...",
+      "highlights": [
+        "本末科技成立于 2020 年，是全球领先的以直驱技术为核心能力的机器人技术平台企业，国家级高新技术企业、专精特新 \"小巨人\" 企业，并于 2026 年登陆香港联合交易所主板",
+        "本末科技深耕直驱动力模组、机器人关节及机器人本体研发制造，实现从核心零部件自研量产到机器人整机商业化落地的完整产业闭环，产品远销全球五十多个国家及地区，在消费机器人、具身机器人、工业自动化、智能装备等场景拥有成熟解决方案及落地应用经验",
+        "Everybot 由韩国第一代机器人开发工程师于 2015 年创立，是韩国具身智能机器人龙头企业，其于 2016 年全球首创无轮拖地机器人，曾连续多年位居韩国扫地 / 拖地机器人市场占有率第一，并于 2021 年登陆韩国 KOSDAQ 证券市场"
+      ],
+      "url": "https://www.jushenhome.com/news_d.php?id=2270",
+      "source": "jushenhome.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-11-04T14:00:00Z"
+    },
+    {
+      "id": "74cf4183e365",
+      "title": "Google's Latest AI Model Nearly Matches Anthropic at One-Third the Cost: Report",
+      "summary": "Alphabet Inc. (NASDAQ:GOOGL) has nearly caught Anthropic in a demanding new AI benchmark, with its latest Gemini model delivering almost the same performance at roughly one-third the price.\n\nThe new b...",
+      "highlights": [
+        "Alphabet Inc. (NASDAQ:GOOGL) has nearly caught Anthropic in a demanding new AI benchmark, with its latest Gemini model delivering almost the same performance at roughly one-third the price.",
+        "The new benchmark from SemiAnalysis puts Google's Gemini 4 Carbon just behind Anthropic's flagship Claude Opus 5.5, but ahead of OpenAI's GPT-6 Astra.",
+        "The result marks a significant advance for Google, which is challenging its biggest AI rivals on both performance and price."
+      ],
+      "url": "https://finance.yahoo.com/technology/ai/articles/googles-latest-ai-model-nearly-163019141.html",
+      "source": "finance.yahoo.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-04T16:00:00Z"
+    },
+    {
+      "id": "baa211a60987",
+      "title": "AI: Google’s TPU Moment, with OpenAI, Oracle & Anthropic. AI-RTZ #1254",
+      "summary": "RTZ #766: Google TPU sees notable OpenAI win vs Nvidia\n RTZ #921: Google’s TPUs making Nvidia GPUs a better competitor\n AI-RTZ #1065: Google’s latest TPU chips improve on power efficient AI Compute\n R...",
+      "highlights": [
+        "RTZ #766: Google TPU sees notable OpenAI win vs Nvidia",
+        "RTZ #921: Google’s TPUs making Nvidia GPUs a better competitor",
+        "AI-RTZ #1065: Google’s latest TPU chips improve on power efficient AI Compute"
+      ],
+      "url": "https://michaelparekh.substack.com/p/ai-googles-tpu-moment-with-openai",
+      "source": "michaelparekh.substack.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-05T03:51:37Z"
     }
   ]
 }
