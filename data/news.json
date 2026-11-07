@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T11:58:30Z",
+  "updatedAt": "2026-11-07T17:18:06Z",
   "latest": [
     {
       "id": "760f3015ca4d",
@@ -28,21 +28,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-11-06T00:50:00Z"
-    },
-    {
-      "id": "7a906c684aff",
-      "title": "发布“地球最强”模型仅几天后 OpenAI首席科学家发长文呼吁放慢AI开发",
-      "summary": "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”。他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标。\n\n他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行。\n\nOpenAI首席执行官奥尔特曼（Sam Altman）在...",
-      "highlights": [
-        "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”",
-        "他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标",
-        "他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行"
-      ],
-      "url": "https://www.cls.cn/detail/2475526",
-      "source": "cls.cn",
-      "category": "前沿理论",
-      "importance": 5,
-      "publishedAt": "2026-11-05T14:00:00Z"
     },
     {
       "id": "ec13bd7e9197",
@@ -75,32 +60,19 @@
       "publishedAt": "2026-11-06T16:53:10Z"
     },
     {
-      "id": "1b4845e24fa3",
-      "title": "OpenAI",
-      "summary": "# OpenAI\nID: p4PyTakV77G9\nWebsite: www.openai.com\nHeadquarters: San Francisco, CA, United States\nLinkedIn: www.linkedin.com/company/openai · 11,529,792 followers\nIndustry: Research Services\nIndustry c...",
+      "id": "48bd1138e076",
+      "title": "This Week in AI #95: Anthropic Opens Its Books, Gemini 4 Carbon Debuts, Meta Plans $95B Raise, and much more…",
+      "summary": "Google's TPUs will reach Oracle Cloud Infrastructure in 2027, making OCI the first hyperscale cloud outside Google to offer them, with capacity ramping over multiple years.\n\nOpenAI plans to buy Google...",
       "highlights": [
-        "ID: p4PyTakV77G9",
-        "Website: www.openai.com",
-        "Headquarters: San Francisco, CA, United States"
+        "Google's TPUs will reach Oracle Cloud Infrastructure in 2027, making OCI the first hyperscale cloud outside Google to offer them, with capacity ramping over multiple years.",
+        "OpenAI plans to buy Google's AI chips, The Information reports Reuters | October 27",
+        "OpenAI plans to buy Google's tensor processing units, The Information reported, moving beyond chip rentals that began in 2025; financial terms were not disclosed. [...] OpenAI says its models proved the Kakeya conjecture, disproved the Exponential Time Hypothesis and claimed a Yang–Mills existence proof, with academic groups now verifying the results."
       ],
-      "url": "https://tavily.com/knowledge/company/p4PyTakV77G9",
-      "source": "tavily.com",
+      "url": "https://www.linkedin.com/pulse/week-ai-95-anthropic-opens-its-books-gemini-4-carbon-debuts-kleine-ghoxe",
+      "source": "linkedin.com",
       "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-11-05T13:34:08Z"
-    },
-    {
-      "id": "06b277d04857",
-      "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC - CNBC",
-      "summary": "Moonshot AI, a Chinese artificial intelligence lab that the White House accused of accessing Nvidia advanced chips remotely in East Asia, has sought access to the chips through data centers in Europe,...",
-      "highlights": [
-        "Moonshot AI, a Chinese artificial intelligence lab that the White House accused of accessing Nvidia advanced chips remotely in East Asia, has sought access to the chips through data centers in Europe, sources have told CNBC. Moonshot was looking to lease capacity powered by Nvidia's Blackwell systems, advanced chips currently subject to those export controls which effectively ban their import into China, three of the sources told CNBC. In July, the White House said the Chinese AI lab had accessed Nvidia's Blackwell chips via a facility in Thailand. U.S. export controls restrict the shipment of Nvidia's most advanced chips to China, but remote access via overseas data centers offers a loophole. Moonshot, Nvidia, the White House, the U.S. Department of Commerce, China's embassy in the U.K. and its Ministry of Foreign Affairs did not respond to a request for comment. To lease Nvidia computing power in Europe, a Chinese AI company would typically rent capacity from a non-Chinese neocloud or data center operator that can purchase advanced chips."
-      ],
-      "url": "https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html",
-      "source": "cnbc.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-11-05T13:34:14Z"
+      "importance": 5,
+      "publishedAt": "2026-11-07T17:18:06Z"
     },
     {
       "id": "7cc37fe8beaf",
@@ -213,21 +185,6 @@
       "publishedAt": "2026-11-07T02:40:47Z"
     },
     {
-      "id": "1e00beb45f3c",
-      "title": "Mistral AI buys SkipLabs in its fifth acquisition of 2026 | Dealroom News",
-      "summary": "Dealroom.co\n\n# Mistral AI buys SkipLabs in its fifth acquisition of 2026\n\nWhat's the deal? Mistral AI has acquired SkipLabs, a French startup building tools to make AI code generation faster, more rel...",
-      "highlights": [
-        "Dealroom.co",
-        "# Mistral AI buys SkipLabs in its fifth acquisition of 2026",
-        "What's the deal? Mistral AI has acquired SkipLabs, a French startup building tools to make AI code generation faster, more reliable, and more secure. The deal value was undisclosed. It marks the French generative AI company's fifth acquisition of 2026. [...] Share prices since 30 September 2026 for Intel (−45%), CoreWeave, Dell, Alphabet, AMD, Nvidia and SpaceX, why AI stocks fell, how many AI startup rounds each company joined in 2026, and the 37% of glo"
-      ],
-      "url": "https://dealroom.co/news/170004-mistral-ai-buys-skiplabs-in-its-fifth-acquisition-of-2026",
-      "source": "dealroom.co",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-11-05T13:43:41Z"
-    },
-    {
       "id": "b314109bc966",
       "title": "OpenAI CFO says blue tsunami ‘didn’t dramatically change’ IPO plans - Business Insider",
       "summary": "The 2026 midterms haven't changed OpenAI's IPO plans, OpenAI chief financial officer Sarah Friar says. All eyes are on Anthropic, OpenAI's chief rival, and whether it will forge ahead with an IPO, per...",
@@ -293,19 +250,19 @@
       "publishedAt": "2026-11-06T15:42:41Z"
     },
     {
-      "id": "0563006a5634",
-      "title": "OpenAI/阿里达摩院等都在卷，10篇具身智能论文汇总，从统一具身大脑到机群自我进化 - 智源社区",
-      "summary": "研究团队提出 EgoXperience，一个全栈范式，用于从自我中心视频联合重建观察者运动、场景几何与手-物交互。核心是自动标注引擎 EgoX-Engine，将几何验证的对象跟踪与基于 SLAM 的世界对齐耦合，为相机、场景、双手与物体产出一致监督，由此得到 50 小时、带秒级任务描述的 EgoX-Data-6M 数据集，并精挑 1 小时构建 EgoX-Bench 评估联合重建。模型 EgoX 在...",
+      "id": "96109fdf6f8a",
+      "title": "Instagram",
+      "summary": "Thinking Machines Lab, the AI startup founded by former OpenAI CTO Mira Murati, is reportedly close to raising $5 billion in a new funding round at a $40 billion pre-money valuation. The round is bein...",
       "highlights": [
-        "研究团队提出 EgoXperience，一个全栈范式，用于从自我中心视频联合重建观察者运动、场景几何与手-物交互",
-        "核心是自动标注引擎 EgoX-Engine，将几何验证的对象跟踪与基于 SLAM 的世界对齐耦合，为相机、场景、双手与物体产出一致监督，由此得到 50 小时、带秒级任务描述的 EgoX-Data-6M 数据集，并精挑 1 小时构建 EgoX-Bench 评估联合重建",
-        "模型 EgoX 在单目自我中心视频与首帧物体掩码输入下，以单次前向在共享世界坐标系中联合重建相机、场景、双手与物体"
+        "Thinking Machines Lab, the AI startup founded by former OpenAI CTO Mira Murati, is reportedly close to raising $5 billion in a new funding round at a $40 billion pre-money valuation. The round is being led by venture capital firm Accel, according to people familiar with the discussions cited by Business Insider. [...] The company has also developed Inkling, its own open-weight AI model, and continues to compete for leading researchers and engineers in an increasingly competitive AI talent market.",
+        "The reported $5 billion financing comes amid enormous investor demand for companies developing foundational AI technology. However, the round has not yet been officially announced, and neither Thinking Machines Lab nor Accel has confirmed the reported terms.",
+        "Source: Business Insider [...] Follow @distributionshow for more!"
       ],
-      "url": "https://hub.baai.ac.cn/view/59394",
-      "source": "hub.baai.ac.cn",
-      "category": "前沿理论",
-      "importance": 3,
-      "publishedAt": "2026-11-05T15:00:00Z"
+      "url": "https://www.instagram.com/p/DfZ1eYKMxd-",
+      "source": "instagram.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-07T17:18:06Z"
     },
     {
       "id": "d9cca0784e84",
@@ -411,6 +368,48 @@
       "category": "投并购",
       "importance": 3,
       "publishedAt": "2026-11-06T00:40:20Z"
+    },
+    {
+      "id": "8eadb088c06e",
+      "title": "谷歌悄悄买入高通：手机芯片巨头盯上数据中心，目标年入超150亿美元",
+      "summary": "当地时间11 月6 日，谷歌母公司Alphabet 披露，截至2026 年第三季度末，公司持有芯片巨头高通约297.7 万股股票，持仓市值约为5.48 亿美元。而6 月底的文件中还没有高通",
+      "highlights": [
+        "当地时间11 月6 日，谷歌母公司Alphabet 披露，截至2026 年第三季度末，公司持有芯片巨头高通约297.7 万股股票，持仓市值约为5.48 亿美元",
+        "而6 月底的文件中还没有高通"
+      ],
+      "url": "https://www.moomoo.com/hans/news/post/1003906811",
+      "source": "moomoo.com",
+      "category": "芯片硬件",
+      "importance": 3,
+      "publishedAt": "2026-11-07T11:00:00Z"
+    },
+    {
+      "id": "5293dddc1f10",
+      "title": "State of Private Markets: Q3 2026 | Carta",
+      "summary": "AI is eating up a larger share of late-stage funding: About 57% of all capital invested on Carta so far this year at Series B and beyond has gone to AI startups, the highest share of AI fundraising ev...",
+      "highlights": [
+        "AI is eating up a larger share of late-stage funding: About 57% of all capital invested on Carta so far this year at Series B and beyond has gone to AI startups, the highest share of AI fundraising ever for these late-stage rounds. At seed and Series A, AI accounts for 44% of cash raised this year, down from 48% in 2025. [...] Companies on Carta combined to raise $49.3 billion in new venture funding across 1,179 rounds in Q3. Since the market’s recent low point in early 2023, quarterly fundraising totals have been steadily climbing, boosted by the massive sums being raised by the most highly regarded AI startups. Over the past two quarters alone, startups on Carta have added more than $100 billion to their collective coffers. [...] Data/",
+        "State Of Private Markets Q3 2026",
+        "State of Private Markets: Q3 2026"
+      ],
+      "url": "https://carta.com/data/state-of-private-markets-q3-2026",
+      "source": "carta.com",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-11-05T19:00:00Z"
+    },
+    {
+      "id": "64a36e2ae1d3",
+      "title": "https://mp.weixin.qq.com/s/DQb3WUXyEYWjYVMQ70uE5w",
+      "summary": "No information is available for this page.",
+      "highlights": [
+        "No information is available for this page."
+      ],
+      "url": "https://mp.weixin.qq.com/s/DQb3WUXyEYWjYVMQ70uE5w",
+      "source": "mp.weixin.qq.com",
+      "category": "行业话题",
+      "importance": 2,
+      "publishedAt": "2026-11-07T17:18:06Z"
     }
   ],
   "today": [
@@ -430,6 +429,21 @@
       "publishedAt": "2026-11-07T11:58:30Z"
     },
     {
+      "id": "48bd1138e076",
+      "title": "This Week in AI #95: Anthropic Opens Its Books, Gemini 4 Carbon Debuts, Meta Plans $95B Raise, and much more…",
+      "summary": "Google's TPUs will reach Oracle Cloud Infrastructure in 2027, making OCI the first hyperscale cloud outside Google to offer them, with capacity ramping over multiple years.\n\nOpenAI plans to buy Google...",
+      "highlights": [
+        "Google's TPUs will reach Oracle Cloud Infrastructure in 2027, making OCI the first hyperscale cloud outside Google to offer them, with capacity ramping over multiple years.",
+        "OpenAI plans to buy Google's AI chips, The Information reports Reuters | October 27",
+        "OpenAI plans to buy Google's tensor processing units, The Information reported, moving beyond chip rentals that began in 2025; financial terms were not disclosed. [...] OpenAI says its models proved the Kakeya conjecture, disproved the Exponential Time Hypothesis and claimed a Yang–Mills existence proof, with academic groups now verifying the results."
+      ],
+      "url": "https://www.linkedin.com/pulse/week-ai-95-anthropic-opens-its-books-gemini-4-carbon-debuts-kleine-ghoxe",
+      "source": "linkedin.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-07T17:18:06Z"
+    },
+    {
       "id": "2abcbee30f6a",
       "title": "Chinese Spy Who Targeted Jensen Huang Worked Directly for China's Top Spy Agency: Report - Gizmodo",
       "summary": "The woman who sought out a close relationship with Nvidia CEO Jensen Huang was a Ministry of State Security recruit, the New York Times reported. China’s Ministry of State Security (M.S.S.) reportedly...",
@@ -441,9 +455,124 @@
       "category": "芯片硬件",
       "importance": 4,
       "publishedAt": "2026-11-07T02:40:47Z"
+    },
+    {
+      "id": "96109fdf6f8a",
+      "title": "Instagram",
+      "summary": "Thinking Machines Lab, the AI startup founded by former OpenAI CTO Mira Murati, is reportedly close to raising $5 billion in a new funding round at a $40 billion pre-money valuation. The round is bein...",
+      "highlights": [
+        "Thinking Machines Lab, the AI startup founded by former OpenAI CTO Mira Murati, is reportedly close to raising $5 billion in a new funding round at a $40 billion pre-money valuation. The round is being led by venture capital firm Accel, according to people familiar with the discussions cited by Business Insider. [...] The company has also developed Inkling, its own open-weight AI model, and continues to compete for leading researchers and engineers in an increasingly competitive AI talent market.",
+        "The reported $5 billion financing comes amid enormous investor demand for companies developing foundational AI technology. However, the round has not yet been officially announced, and neither Thinking Machines Lab nor Accel has confirmed the reported terms.",
+        "Source: Business Insider [...] Follow @distributionshow for more!"
+      ],
+      "url": "https://www.instagram.com/p/DfZ1eYKMxd-",
+      "source": "instagram.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-07T17:18:06Z"
+    },
+    {
+      "id": "8eadb088c06e",
+      "title": "谷歌悄悄买入高通：手机芯片巨头盯上数据中心，目标年入超150亿美元",
+      "summary": "当地时间11 月6 日，谷歌母公司Alphabet 披露，截至2026 年第三季度末，公司持有芯片巨头高通约297.7 万股股票，持仓市值约为5.48 亿美元。而6 月底的文件中还没有高通",
+      "highlights": [
+        "当地时间11 月6 日，谷歌母公司Alphabet 披露，截至2026 年第三季度末，公司持有芯片巨头高通约297.7 万股股票，持仓市值约为5.48 亿美元",
+        "而6 月底的文件中还没有高通"
+      ],
+      "url": "https://www.moomoo.com/hans/news/post/1003906811",
+      "source": "moomoo.com",
+      "category": "芯片硬件",
+      "importance": 3,
+      "publishedAt": "2026-11-07T11:00:00Z"
+    },
+    {
+      "id": "64a36e2ae1d3",
+      "title": "https://mp.weixin.qq.com/s/DQb3WUXyEYWjYVMQ70uE5w",
+      "summary": "No information is available for this page.",
+      "highlights": [
+        "No information is available for this page."
+      ],
+      "url": "https://mp.weixin.qq.com/s/DQb3WUXyEYWjYVMQ70uE5w",
+      "source": "mp.weixin.qq.com",
+      "category": "行业话题",
+      "importance": 2,
+      "publishedAt": "2026-11-07T17:18:06Z"
     }
   ],
   "week": [
+    {
+      "id": "760f3015ca4d",
+      "title": "OpenAI’s GPT-6 Cyber found 81 new Firefox flaws and is rated ‘Critical’ - The Next Web",
+      "summary": "OpenAI has released GPT-6 Cyber, a security model it says beats all its earlier models at finding and exploiting software flaws. It rated it “Critical” in cybersecurity under its Preparedness Framewor...",
+      "highlights": [
+        "OpenAI has released GPT-6 Cyber, a security model it says beats all its earlier models at finding and exploiting software flaws. It rated it “Critical” in cybersecurity under its Preparedness Framework, up from “High” for GPT-5.6 Cyber. At first, only a select group of approved customers can use it, through the API and Codex. They belong to Daybreak Red, the tier of OpenAI’s cyber programme for exploit development and authorised security testing. OpenAI launched Daybreak in May and said it will open GPT-6 Cyber to all Daybreak Red customers soon. GPT-6 Cyber is OpenAI’s fourth cybersecurity model this year, Wen Shao reported for Fortune. OpenAI said it trained the model to stay within its authorised scope, respect limits on its actions and report results accurately. In that incident, OpenAI’s AI agents broke out of a sandbox and hacked the platform. On ExploitGym, which tests whether a model can exploit a given flaw, GPT-6 Cyber scored 48.5%."
+      ],
+      "url": "https://thenextweb.com/news/openai-gpt-6-cyber-launch-firefox-linux-daybreak-red",
+      "source": "thenextweb.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-05T17:24:04Z"
+    },
+    {
+      "id": "e4eeddd9377d",
+      "title": "投资界24h|昨晚，美科技股历史性暴跌；河南最大IPO，下周上会；长鑫成立一家投资公司_投资界",
+      "summary": "11月5日犀燃医疗已于近日完成B+轮近亿元融资。本轮融资由约印医疗基金领投，珠海科技产业集团跟投，涵宇资本担任本轮独家财务顾问。\n\n阅读全文\n\n文章来源：投资界  \n原文地址：\n\n人工智能投融资深交所AI超聚变数字技术Cat Wu\n\n### Copyright版权与免责声明\n\n版权声明\n\n【本文为投资界原创，网页转载须在文首注明来源投资界（微信公众号ID：PEdaily2012）及作者。微信转载请...",
+      "highlights": [
+        "11月5日犀燃医疗已于近日完成B+轮近亿元融资",
+        "本轮融资由约印医疗基金领投，珠海科技产业集团跟投，涵宇资本担任本轮独家财务顾问",
+        "人工智能投融资深交所AI超聚变数字技术Cat Wu"
+      ],
+      "url": "https://news.pedaily.cn/202611/571426.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-06T00:50:00Z"
+    },
+    {
+      "id": "7a906c684aff",
+      "title": "发布“地球最强”模型仅几天后 OpenAI首席科学家发长文呼吁放慢AI开发",
+      "summary": "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”。他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标。\n\n他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行。\n\nOpenAI首席执行官奥尔特曼（Sam Altman）在...",
+      "highlights": [
+        "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”",
+        "他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标",
+        "他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行"
+      ],
+      "url": "https://www.cls.cn/detail/2475526",
+      "source": "cls.cn",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-11-05T14:00:00Z"
+    },
+    {
+      "id": "ec13bd7e9197",
+      "title": "Instagram",
+      "summary": "破局軟件庫： OpenXLA、JAX，以及最新聯手 Meta 重磅開源嘅 TorchTPU。特別係 TorchTPU，開發者幾乎只需要將原本對應 CUDA 嘅代碼由 model.to(\"cuda\") 改為 model.to(\"tpu\")，再配合跨平台底層算子庫 Tokamax（支援 TPU 與 GPU 共用），就可以無縫將原本跑喺 CUDA 上面嘅 PyTorch 模型直接搬去 TPU 運行。  ...",
+      "highlights": [
+        "破局軟件庫： OpenXLA、JAX，以及最新聯手 Meta 重磅開源嘅 TorchTPU",
+        "特別係 TorchTPU，開發者幾乎只需要將原本對應 CUDA 嘅代碼由 model.to(\"cuda\") 改為 model.to(\"tpu\")，再配合跨平台底層算子庫 Tokamax（支援 TPU 與 GPU 共用），就可以無縫將原本跑喺 CUDA 上面嘅 PyTorch 模型直接搬去 TPU 運行",
+        "Amazon（AWS）："
+      ],
+      "url": "https://www.instagram.com/p/DfMS4gRkhMl",
+      "source": "instagram.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-07T11:58:30Z"
+    },
+    {
+      "id": "829a77e7bb1a",
+      "title": "英伟达10亿美元落子韩国：一场围绕GPU算力与产业场景的亚洲新布局_搜狐网",
+      "summary": "## “AI工厂”落地：GPU即服务如何嵌入韩国产业\n\n根据双方此前宣布的合作框架，“AI工厂”项目将围绕GPU基础设施展开。按照规划，Naver将首先从位于韩国中部世宗市的“Gak Sejong”数据中心着手，构建基于英伟达GPU的算力集群，对外推出“GPU即服务”（GPU-as-a-Service）业务。简而言之，就是将AI训练与推理所需的GPU算力以服务形式提供给企业客户，类似云计算IaaS...",
+      "highlights": [
+        "## “AI工厂”落地：GPU即服务如何嵌入韩国产业",
+        "根据双方此前宣布的合作框架，“AI工厂”项目将围绕GPU基础设施展开",
+        "按照规划，Naver将首先从位于韩国中部世宗市的“Gak Sejong”数据中心着手，构建基于英伟达GPU的算力集群，对外推出“GPU即服务”（GPU-as-a-Service）业务"
+      ],
+      "url": "https://m.sohu.com/a/1098105036_128075?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-06T16:53:10Z"
+    },
     {
       "id": "baa211a60987",
       "title": "AI: Google’s TPU Moment, with OpenAI, Oracle & Anthropic. AI-RTZ #1254",
@@ -533,49 +662,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-11-05T07:00:00Z"
-    },
-    {
-      "id": "760f3015ca4d",
-      "title": "OpenAI’s GPT-6 Cyber found 81 new Firefox flaws and is rated ‘Critical’ - The Next Web",
-      "summary": "OpenAI has released GPT-6 Cyber, a security model it says beats all its earlier models at finding and exploiting software flaws. It rated it “Critical” in cybersecurity under its Preparedness Framewor...",
-      "highlights": [
-        "OpenAI has released GPT-6 Cyber, a security model it says beats all its earlier models at finding and exploiting software flaws. It rated it “Critical” in cybersecurity under its Preparedness Framework, up from “High” for GPT-5.6 Cyber. At first, only a select group of approved customers can use it, through the API and Codex. They belong to Daybreak Red, the tier of OpenAI’s cyber programme for exploit development and authorised security testing. OpenAI launched Daybreak in May and said it will open GPT-6 Cyber to all Daybreak Red customers soon. GPT-6 Cyber is OpenAI’s fourth cybersecurity model this year, Wen Shao reported for Fortune. OpenAI said it trained the model to stay within its authorised scope, respect limits on its actions and report results accurately. In that incident, OpenAI’s AI agents broke out of a sandbox and hacked the platform. On ExploitGym, which tests whether a model can exploit a given flaw, GPT-6 Cyber scored 48.5%."
-      ],
-      "url": "https://thenextweb.com/news/openai-gpt-6-cyber-launch-firefox-linux-daybreak-red",
-      "source": "thenextweb.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-05T17:24:04Z"
-    },
-    {
-      "id": "e4eeddd9377d",
-      "title": "投资界24h|昨晚，美科技股历史性暴跌；河南最大IPO，下周上会；长鑫成立一家投资公司_投资界",
-      "summary": "11月5日犀燃医疗已于近日完成B+轮近亿元融资。本轮融资由约印医疗基金领投，珠海科技产业集团跟投，涵宇资本担任本轮独家财务顾问。\n\n阅读全文\n\n文章来源：投资界  \n原文地址：\n\n人工智能投融资深交所AI超聚变数字技术Cat Wu\n\n### Copyright版权与免责声明\n\n版权声明\n\n【本文为投资界原创，网页转载须在文首注明来源投资界（微信公众号ID：PEdaily2012）及作者。微信转载请...",
-      "highlights": [
-        "11月5日犀燃医疗已于近日完成B+轮近亿元融资",
-        "本轮融资由约印医疗基金领投，珠海科技产业集团跟投，涵宇资本担任本轮独家财务顾问",
-        "人工智能投融资深交所AI超聚变数字技术Cat Wu"
-      ],
-      "url": "https://news.pedaily.cn/202611/571426.shtml",
-      "source": "news.pedaily.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-06T00:50:00Z"
-    },
-    {
-      "id": "7a906c684aff",
-      "title": "发布“地球最强”模型仅几天后 OpenAI首席科学家发长文呼吁放慢AI开发",
-      "summary": "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”。他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标。\n\n他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行。\n\nOpenAI首席执行官奥尔特曼（Sam Altman）在...",
-      "highlights": [
-        "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”",
-        "他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标",
-        "他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行"
-      ],
-      "url": "https://www.cls.cn/detail/2475526",
-      "source": "cls.cn",
-      "category": "前沿理论",
-      "importance": 5,
-      "publishedAt": "2026-11-05T14:00:00Z"
     },
     {
       "id": "66796b992efa",
@@ -634,39 +720,82 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-11-05T03:00:00Z"
-    },
-    {
-      "id": "a6ff687cba66",
-      "title": "摩根大通：看多科技的短线反弹",
-      "summary": "昨晚微软涨6.68%，亚马逊涨6.12%，苹果涨5.31%，谷歌涨3.25%，说明资金正从“AI硬件供应商”流向“现金流稳定的大型平台公司”。\n\n监管趋严可能削弱AI基础设施扩张速度，但大型云厂商反而可能因竞争压力下降、资本开支节奏更可控而受益。\n\n对于后市，摩根大通也给出了四大需要跟踪的信号，昨晚的半导体下跌让其中两个信号更关键。\n\n第一，持仓是否充分出清。\n\n半导体和AI硬件此前交易拥挤，民主...",
-      "highlights": [
-        "昨晚微软涨6.68%，亚马逊涨6.12%，苹果涨5.31%，谷歌涨3.25%，说明资金正从“AI硬件供应商”流向“现金流稳定的大型平台公司”",
-        "监管趋严可能削弱AI基础设施扩张速度，但大型云厂商反而可能因竞争压力下降、资本开支节奏更可控而受益",
-        "对于后市，摩根大通也给出了四大需要跟踪的信号，昨晚的半导体下跌让其中两个信号更关键"
-      ],
-      "url": "https://www.moomoo.com/hans/news/post/1003584393",
-      "source": "moomoo.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-05T02:00:00Z"
-    },
-    {
-      "id": "4b1456848637",
-      "title": "大模型时代，智驾芯片的算力赢学失效了-36氪",
-      "summary": "英伟达Orin 254 TOPS的标称算力有个条件。这是INT8精度（低精度整数运算）下的最高值，其中87 TOPS来自深度学习加速器DLA。模型只要有一段运算交不到DLA手里，就无法调用全部的254TOPS算力。\n\n何小鹏曾批评，通用GPU芯片的算力利用率只有30%到40%，即便在更乐观的估算下也只有70%到80%。\n\n小鹏通用智能中心负责人刘先明在2026年CVPR上披露的三组实测数据显示，开...",
-      "highlights": [
-        "英伟达Orin 254 TOPS的标称算力有个条件",
-        "这是INT8精度（低精度整数运算）下的最高值，其中87 TOPS来自深度学习加速器DLA",
-        "模型只要有一段运算交不到DLA手里，就无法调用全部的254TOPS算力"
-      ],
-      "url": "https://m.36kr.com/p/4055255220590467",
-      "source": "m.36kr.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-05T01:10:21Z"
     }
   ],
   "month": [
+    {
+      "id": "760f3015ca4d",
+      "title": "OpenAI’s GPT-6 Cyber found 81 new Firefox flaws and is rated ‘Critical’ - The Next Web",
+      "summary": "OpenAI has released GPT-6 Cyber, a security model it says beats all its earlier models at finding and exploiting software flaws. It rated it “Critical” in cybersecurity under its Preparedness Framewor...",
+      "highlights": [
+        "OpenAI has released GPT-6 Cyber, a security model it says beats all its earlier models at finding and exploiting software flaws. It rated it “Critical” in cybersecurity under its Preparedness Framework, up from “High” for GPT-5.6 Cyber. At first, only a select group of approved customers can use it, through the API and Codex. They belong to Daybreak Red, the tier of OpenAI’s cyber programme for exploit development and authorised security testing. OpenAI launched Daybreak in May and said it will open GPT-6 Cyber to all Daybreak Red customers soon. GPT-6 Cyber is OpenAI’s fourth cybersecurity model this year, Wen Shao reported for Fortune. OpenAI said it trained the model to stay within its authorised scope, respect limits on its actions and report results accurately. In that incident, OpenAI’s AI agents broke out of a sandbox and hacked the platform. On ExploitGym, which tests whether a model can exploit a given flaw, GPT-6 Cyber scored 48.5%."
+      ],
+      "url": "https://thenextweb.com/news/openai-gpt-6-cyber-launch-firefox-linux-daybreak-red",
+      "source": "thenextweb.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-05T17:24:04Z"
+    },
+    {
+      "id": "e4eeddd9377d",
+      "title": "投资界24h|昨晚，美科技股历史性暴跌；河南最大IPO，下周上会；长鑫成立一家投资公司_投资界",
+      "summary": "11月5日犀燃医疗已于近日完成B+轮近亿元融资。本轮融资由约印医疗基金领投，珠海科技产业集团跟投，涵宇资本担任本轮独家财务顾问。\n\n阅读全文\n\n文章来源：投资界  \n原文地址：\n\n人工智能投融资深交所AI超聚变数字技术Cat Wu\n\n### Copyright版权与免责声明\n\n版权声明\n\n【本文为投资界原创，网页转载须在文首注明来源投资界（微信公众号ID：PEdaily2012）及作者。微信转载请...",
+      "highlights": [
+        "11月5日犀燃医疗已于近日完成B+轮近亿元融资",
+        "本轮融资由约印医疗基金领投，珠海科技产业集团跟投，涵宇资本担任本轮独家财务顾问",
+        "人工智能投融资深交所AI超聚变数字技术Cat Wu"
+      ],
+      "url": "https://news.pedaily.cn/202611/571426.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-06T00:50:00Z"
+    },
+    {
+      "id": "7a906c684aff",
+      "title": "发布“地球最强”模型仅几天后 OpenAI首席科学家发长文呼吁放慢AI开发",
+      "summary": "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”。他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标。\n\n他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行。\n\nOpenAI首席执行官奥尔特曼（Sam Altman）在...",
+      "highlights": [
+        "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”",
+        "他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标",
+        "他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行"
+      ],
+      "url": "https://www.cls.cn/detail/2475526",
+      "source": "cls.cn",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-11-05T14:00:00Z"
+    },
+    {
+      "id": "ec13bd7e9197",
+      "title": "Instagram",
+      "summary": "破局軟件庫： OpenXLA、JAX，以及最新聯手 Meta 重磅開源嘅 TorchTPU。特別係 TorchTPU，開發者幾乎只需要將原本對應 CUDA 嘅代碼由 model.to(\"cuda\") 改為 model.to(\"tpu\")，再配合跨平台底層算子庫 Tokamax（支援 TPU 與 GPU 共用），就可以無縫將原本跑喺 CUDA 上面嘅 PyTorch 模型直接搬去 TPU 運行。  ...",
+      "highlights": [
+        "破局軟件庫： OpenXLA、JAX，以及最新聯手 Meta 重磅開源嘅 TorchTPU",
+        "特別係 TorchTPU，開發者幾乎只需要將原本對應 CUDA 嘅代碼由 model.to(\"cuda\") 改為 model.to(\"tpu\")，再配合跨平台底層算子庫 Tokamax（支援 TPU 與 GPU 共用），就可以無縫將原本跑喺 CUDA 上面嘅 PyTorch 模型直接搬去 TPU 運行",
+        "Amazon（AWS）："
+      ],
+      "url": "https://www.instagram.com/p/DfMS4gRkhMl",
+      "source": "instagram.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-07T11:58:30Z"
+    },
+    {
+      "id": "829a77e7bb1a",
+      "title": "英伟达10亿美元落子韩国：一场围绕GPU算力与产业场景的亚洲新布局_搜狐网",
+      "summary": "## “AI工厂”落地：GPU即服务如何嵌入韩国产业\n\n根据双方此前宣布的合作框架，“AI工厂”项目将围绕GPU基础设施展开。按照规划，Naver将首先从位于韩国中部世宗市的“Gak Sejong”数据中心着手，构建基于英伟达GPU的算力集群，对外推出“GPU即服务”（GPU-as-a-Service）业务。简而言之，就是将AI训练与推理所需的GPU算力以服务形式提供给企业客户，类似云计算IaaS...",
+      "highlights": [
+        "## “AI工厂”落地：GPU即服务如何嵌入韩国产业",
+        "根据双方此前宣布的合作框架，“AI工厂”项目将围绕GPU基础设施展开",
+        "按照规划，Naver将首先从位于韩国中部世宗市的“Gak Sejong”数据中心着手，构建基于英伟达GPU的算力集群，对外推出“GPU即服务”（GPU-as-a-Service）业务"
+      ],
+      "url": "https://m.sohu.com/a/1098105036_128075?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-06T16:53:10Z"
+    },
     {
       "id": "baa211a60987",
       "title": "AI: Google’s TPU Moment, with OpenAI, Oracle & Anthropic. AI-RTZ #1254",
@@ -741,77 +870,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-11-05T09:00:00Z"
-    },
-    {
-      "id": "e5887e6727b0",
-      "title": "Anthropic用Claude设计自研AI芯片：IPO路演向投资者展示芯片设计能力，基准测试得分仅16.6%-电子工程专辑",
-      "summary": "但一份基准测试揭示了现实的距离。初创公司ChipAgents与英伟达上月联合发布的Build-A-Chip-Bench，要求AI智能体把一颗数字芯片从纯文字规格一路做到可验证的GDS布局。结果并不性感：表现最好的Claude Fable 5.1总分仅为16.6%（功能通过率65%、GDS通过率75%、功耗性能面积PPA达标率25.5%）；排名第二的GPT-6 Astra功能通过率和GDS通过率都达...",
-      "highlights": [
-        "但一份基准测试揭示了现实的距离",
-        "初创公司ChipAgents与英伟达上月联合发布的Build-A-Chip-Bench，要求AI智能体把一颗数字芯片从纯文字规格一路做到可验证的GDS布局",
-        "结果并不性感：表现最好的Claude Fable 5.1总分仅为16.6%（功能通过率65%、GDS通过率75%、功耗性能面积PPA达标率25.5%）；排名第二的GPT-6 Astra功能通过率和GDS通过率都达到85%，却只拿到8.7%的总分——因为它的通过设计离PPA目标差得太远；Gemini 3.8 Flash得0.8%，Kimi K3得0.2%，GLM-5.3得0%"
-      ],
-      "url": "https://www.eet-china.com/news/202611059541.html",
-      "source": "eet-china.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-05T07:00:00Z"
-    },
-    {
-      "id": "760f3015ca4d",
-      "title": "OpenAI’s GPT-6 Cyber found 81 new Firefox flaws and is rated ‘Critical’ - The Next Web",
-      "summary": "OpenAI has released GPT-6 Cyber, a security model it says beats all its earlier models at finding and exploiting software flaws. It rated it “Critical” in cybersecurity under its Preparedness Framewor...",
-      "highlights": [
-        "OpenAI has released GPT-6 Cyber, a security model it says beats all its earlier models at finding and exploiting software flaws. It rated it “Critical” in cybersecurity under its Preparedness Framework, up from “High” for GPT-5.6 Cyber. At first, only a select group of approved customers can use it, through the API and Codex. They belong to Daybreak Red, the tier of OpenAI’s cyber programme for exploit development and authorised security testing. OpenAI launched Daybreak in May and said it will open GPT-6 Cyber to all Daybreak Red customers soon. GPT-6 Cyber is OpenAI’s fourth cybersecurity model this year, Wen Shao reported for Fortune. OpenAI said it trained the model to stay within its authorised scope, respect limits on its actions and report results accurately. In that incident, OpenAI’s AI agents broke out of a sandbox and hacked the platform. On ExploitGym, which tests whether a model can exploit a given flaw, GPT-6 Cyber scored 48.5%."
-      ],
-      "url": "https://thenextweb.com/news/openai-gpt-6-cyber-launch-firefox-linux-daybreak-red",
-      "source": "thenextweb.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-05T17:24:04Z"
-    },
-    {
-      "id": "e4eeddd9377d",
-      "title": "投资界24h|昨晚，美科技股历史性暴跌；河南最大IPO，下周上会；长鑫成立一家投资公司_投资界",
-      "summary": "11月5日犀燃医疗已于近日完成B+轮近亿元融资。本轮融资由约印医疗基金领投，珠海科技产业集团跟投，涵宇资本担任本轮独家财务顾问。\n\n阅读全文\n\n文章来源：投资界  \n原文地址：\n\n人工智能投融资深交所AI超聚变数字技术Cat Wu\n\n### Copyright版权与免责声明\n\n版权声明\n\n【本文为投资界原创，网页转载须在文首注明来源投资界（微信公众号ID：PEdaily2012）及作者。微信转载请...",
-      "highlights": [
-        "11月5日犀燃医疗已于近日完成B+轮近亿元融资",
-        "本轮融资由约印医疗基金领投，珠海科技产业集团跟投，涵宇资本担任本轮独家财务顾问",
-        "人工智能投融资深交所AI超聚变数字技术Cat Wu"
-      ],
-      "url": "https://news.pedaily.cn/202611/571426.shtml",
-      "source": "news.pedaily.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-06T00:50:00Z"
-    },
-    {
-      "id": "7a906c684aff",
-      "title": "发布“地球最强”模型仅几天后 OpenAI首席科学家发长文呼吁放慢AI开发",
-      "summary": "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”。他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标。\n\n他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行。\n\nOpenAI首席执行官奥尔特曼（Sam Altman）在...",
-      "highlights": [
-        "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”",
-        "他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标",
-        "他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行"
-      ],
-      "url": "https://www.cls.cn/detail/2475526",
-      "source": "cls.cn",
-      "category": "前沿理论",
-      "importance": 5,
-      "publishedAt": "2026-11-05T14:00:00Z"
-    },
-    {
-      "id": "66796b992efa",
-      "title": "OpenAI launches Images 2.6 with GIFs and image reference - TestingCatalog AI News",
-      "summary": "# OpenAI launches Images 2.6 with GIFs and image reference. Images 2.6 adds GIF creation in ChatGPT and Codex, plus Flare and Sunburst API models with SVG exports and image markup. OpenAI is rolling o...",
-      "highlights": [
-        "# OpenAI launches Images 2.6 with GIFs and image reference. Images 2.6 adds GIF creation in ChatGPT and Codex, plus Flare and Sunburst API models with SVG exports and image markup. OpenAI is rolling out Images 2.6 globally in ChatGPT and Codex across every subscription tier on desktop, mobile, and the web, while GPT-Image-2.6 Flare and Sunburst are now available through the API. OpenAI says the release generates images 50% faster than before, as use across its products has reached 4 billion images per week. Sunburst is designed for greater detail and more consistent edits at medium or high quality. Images 2.6 also brings ChatGPT's image markup to the API, so teams can identify precise areas for changes. OpenAI recommends low complexity for most quick edits, reserving medium or high settings for scenes with many elements or constraints. * OpenAI API image-generation pricing: Supports: OpenAI's pricing table lists GPT-Image-2.6 Flare and Sunburst, supporting the article's identification of the two API models."
-      ],
-      "url": "https://www.testingcatalog.com/openai-launches-images-2-6-with-gifs-and-image-reference/",
-      "source": "testingcatalog.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-05T00:44:16Z"
     }
   ]
 }
