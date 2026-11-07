@@ -1,19 +1,6 @@
 {
-  "updatedAt": "2026-11-07T17:18:06Z",
+  "updatedAt": "2026-11-07T21:07:57Z",
   "latest": [
-    {
-      "id": "760f3015ca4d",
-      "title": "OpenAI’s GPT-6 Cyber found 81 new Firefox flaws and is rated ‘Critical’ - The Next Web",
-      "summary": "OpenAI has released GPT-6 Cyber, a security model it says beats all its earlier models at finding and exploiting software flaws. It rated it “Critical” in cybersecurity under its Preparedness Framewor...",
-      "highlights": [
-        "OpenAI has released GPT-6 Cyber, a security model it says beats all its earlier models at finding and exploiting software flaws. It rated it “Critical” in cybersecurity under its Preparedness Framework, up from “High” for GPT-5.6 Cyber. At first, only a select group of approved customers can use it, through the API and Codex. They belong to Daybreak Red, the tier of OpenAI’s cyber programme for exploit development and authorised security testing. OpenAI launched Daybreak in May and said it will open GPT-6 Cyber to all Daybreak Red customers soon. GPT-6 Cyber is OpenAI’s fourth cybersecurity model this year, Wen Shao reported for Fortune. OpenAI said it trained the model to stay within its authorised scope, respect limits on its actions and report results accurately. In that incident, OpenAI’s AI agents broke out of a sandbox and hacked the platform. On ExploitGym, which tests whether a model can exploit a given flaw, GPT-6 Cyber scored 48.5%."
-      ],
-      "url": "https://thenextweb.com/news/openai-gpt-6-cyber-launch-firefox-linux-daybreak-red",
-      "source": "thenextweb.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-05T17:24:04Z"
-    },
     {
       "id": "e4eeddd9377d",
       "title": "投资界24h|昨晚，美科技股历史性暴跌；河南最大IPO，下周上会；长鑫成立一家投资公司_投资界",
@@ -75,6 +62,21 @@
       "publishedAt": "2026-11-07T17:18:06Z"
     },
     {
+      "id": "0908229afb9d",
+      "title": "当国货美妆成为「买手」，先读懂巨头们的并购术_投资界",
+      "summary": "值得关注的是，路径虽然分叉，但两条路最终通向的是同一套评判标准。当并购从粗放扩张进入精细运作阶段，无论海外巨头还是中国资本，考量维度都在向同一个方向收敛：现金流是否稳定、渠道效率能否提升、用户忠诚度是否可持续、资产是否具备可整合性。\n\n归根结底，并购只是手段，本身不创造价值。真正创造价值的，是收购完成之后，企业能不能做好资源协同、守住品牌内核，把买来的技术、品牌资产转化为持续稳定的经营成果。流量时...",
+      "highlights": [
+        "值得关注的是，路径虽然分叉，但两条路最终通向的是同一套评判标准",
+        "当并购从粗放扩张进入精细运作阶段，无论海外巨头还是中国资本，考量维度都在向同一个方向收敛：现金流是否稳定、渠道效率能否提升、用户忠诚度是否可持续、资产是否具备可整合性",
+        "归根结底，并购只是手段，本身不创造价值"
+      ],
+      "url": "https://news.pedaily.cn/202611/571451.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-06T06:19:00Z"
+    },
+    {
       "id": "7cc37fe8beaf",
       "title": "帮助解决真实社会问题，阿里巴巴发布《2026 AI向善行动报告》",
       "summary": "[](\n\n 时政\n 热点\n 政务\n 深瞳\n 访谈\n 视频\n 国际\n 地方\n 专题\n English\n 滚动\n\n[](  登录 -\n\n所在位置： 中国科技网首页 > 滚动 > 正文\n\n# 帮助解决真实社会问题，阿里巴巴发布《2026 AI向善行动报告》\n\n2026-11-06 13:53:27 来源:  科技日报  点击数：\n\n科技日报记者 张佳星\n\n一张体检时显示胸部正常的CT影像，在AI大模型的...",
@@ -131,32 +133,6 @@
       "category": "芯片硬件",
       "importance": 4,
       "publishedAt": "2026-11-06T09:00:00Z"
-    },
-    {
-      "id": "4961a9a90985",
-      "title": "Advanced Micro Devices vs. Taiwan Semiconductor Manufacturing: The AI Sell-Off Is Exposing a Critical Difference Investors Shouldn't Ignore for 2027 - The Motley Fool",
-      "summary": "▲ S&P 500 **+---%**|▲ Stock Advisor **+---%**Join The Motley Fool. Taiwan Semiconductor Manufacturing: The AI Sell-Off Is Exposing a Critical Difference Investors Shouldn't Ignore for 2027. * AMD is c...",
-      "highlights": [
-        "▲ S&P 500 **+---%**|▲ Stock Advisor **+---%**Join The Motley Fool. Taiwan Semiconductor Manufacturing: The AI Sell-Off Is Exposing a Critical Difference Investors Shouldn't Ignore for 2027. * AMD is competing to capture a larger share of the AI chip market, while TSMC benefits from manufacturing advanced processors for multiple industry leaders. For investors looking toward 2027, the pullback presents an opportunity to reassess two of the industry's leading players: **Advanced Micro Devices** (AMD -17.26%) and **Taiwan Semiconductor Manufacturing** (TSM -10.78%). While AMD competes to capture a larger share of the AI chip market with its advanced processors and GPUs, TSMC manufactures the cutting-edge chips that power much of the industry. The company has emerged as a leading challenger to **Nvidia** (NVDA -9.26%) in the AI accelerator market, supported by growing demand for its EPYC server processors and Instinct GPUs. Its multiyear partnership with OpenAI represents a significant opportunity to expand its presence in AI infrastructure, although competition remains intense."
-      ],
-      "url": "https://www.fool.com/coverage/better-buy/2026/11/05/advanced-micro-devices-vs-taiwan-semiconductor-manufacturing-the-ai-sell-off-is-exposing-a-critical-difference-investors-shouldn-t-ignore-for-2027/",
-      "source": "fool.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-11-05T20:00:02Z"
-    },
-    {
-      "id": "961af92f8fcf",
-      "title": "Anthropic’s R&D Speed May Have Doubled Due to AI, Researchers Find - The Information",
-      "summary": "Apollo Is Vastly Outspending the Neoclouds on AI Chips Save 25% to unlock this story. ## Subscribe to The Information. Annual$299$399 / first year. Unlimited access to our journalism, newsletters, cha...",
-      "highlights": [
-        "Apollo Is Vastly Outspending the Neoclouds on AI Chips Save 25% to unlock this story. ## Subscribe to The Information. Annual$299$399 / first year. Unlimited access to our journalism, newsletters, charts and data library, and event discounts. Pro: Save 25%$749$999 / first year. Annual + Deep Research, 60+ org charts, proprietary databases and survey results. *   The Executives Leading the Data Center Race. *   The Rising Stars of AI Research. *   Leaders of the AI Shopping Revolution. Search, find and engage with others who are serious about tech and business. Follow and be a part of discussions about tech, finance and media. Team access to our exclusive tech news. Journalists who break and shape the news, in your inbox. Catch up on conversations with global leaders in tech, media and finance. Get full access, explore exclusive reporting. Continue with Google or Apple. Continue with Google Continue with Google. Image 3: Download on the App StoreImage 4: Get it on Google Play."
-      ],
-      "url": "https://www.theinformation.com/briefings/anthropics-r-d-speed-may-doubled-due-ai-researchers-find",
-      "source": "theinformation.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-11-05T18:00:50Z"
     },
     {
       "id": "3c2a0ed14102",
@@ -263,6 +239,49 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-11-07T17:18:06Z"
+    },
+    {
+      "id": "62f6fde8246e",
+      "title": "Google DeepMind adds drug discovery tools to Antigravity - MobiHealthNews",
+      "summary": "By clicking \"Accept all cookies\" you consent to have information about your site visit used in accordance with our Cookie Policy and Privacy Policy. # Google DeepMind adds drug discovery tools to Anti...",
+      "highlights": [
+        "By clicking \"Accept all cookies\" you consent to have information about your site visit used in accordance with our Cookie Policy and Privacy Policy. # Google DeepMind adds drug discovery tools to Antigravity. In a lung cancer drug design demo, an AI agent analyzed existing compounds and proposed new molecules for lab testing in about an hour, the company said. Google DeepMind has released a set of tools for its Antigravity platform that lets drug discovery researchers use an AI agent to gather chemical data, predict how potent compounds might be and propose molecules to make in the lab. The tools are available through the Science plug-in in the Google Antigravity app. In May, Isomorphic Labsraised $2.1 billion in Series B funding to expand its AI drug discovery work. The company, which grew out of Google DeepMind, uses predictive and generative AI to model how molecules interact. *   Google releases new AI models for drug discovery."
+      ],
+      "url": "https://www.mobihealthnews.com/news/google-deepmind-adds-drug-discovery-tools-antigravity",
+      "source": "mobihealthnews.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-06T19:47:44Z"
+    },
+    {
+      "id": "21a00048bf84",
+      "title": "- 机器人大讲堂",
+      "summary": "LeaderBot\n\n### 精彩推荐\n\n- 刚刚，Opus 5.5击败GPT-6 Astra、Gemini 4 Argon！全球AI三巨头决战具身角斗场RoboColiseum\n- 六项国标发布后首个交易日，宇树科技盘中涨超10%，市值重回1900亿\n- 特朗普开玩笑说嗓子撑不住就弄个机器人替身去竞选\n- 机器人能进工厂，进家门却卡在伦理和法规上\n- 底特律罗斯福公园掉下来一只30英尺高的金属鸽...",
+      "highlights": [
+        "- 刚刚，Opus 5.5击败GPT-6 Astra、Gemini 4 Argon",
+        "全球AI三巨头决战具身角斗场RoboColiseum",
+        "- 六项国标发布后首个交易日，宇树科技盘中涨超10%，市值重回1900亿"
+      ],
+      "url": "https://www.leaderobot.com/news/10697",
+      "source": "leaderobot.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-11-06T21:00:00Z"
+    },
+    {
+      "id": "1b4845e24fa3",
+      "title": "OpenAI",
+      "summary": "# OpenAI\nID: p4PyTakV77G9\nWebsite: www.openai.com\nHeadquarters: San Francisco, CA, United States\nLinkedIn: www.linkedin.com/company/openai · 11,529,792 followers\nIndustry: Research Services\nIndustry c...",
+      "highlights": [
+        "ID: p4PyTakV77G9",
+        "Website: www.openai.com",
+        "Headquarters: San Francisco, CA, United States"
+      ],
+      "url": "https://tavily.com/knowledge/company/p4PyTakV77G9",
+      "source": "tavily.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-07T21:07:57Z"
     },
     {
       "id": "d9cca0784e84",
@@ -384,32 +403,17 @@
       "publishedAt": "2026-11-07T11:00:00Z"
     },
     {
-      "id": "5293dddc1f10",
-      "title": "State of Private Markets: Q3 2026 | Carta",
-      "summary": "AI is eating up a larger share of late-stage funding: About 57% of all capital invested on Carta so far this year at Series B and beyond has gone to AI startups, the highest share of AI fundraising ev...",
+      "id": "560f077b27e2",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027 - TechCrunch",
+      "summary": "Airbnb has teased its plans to build its own AI travel agent before, but on Thursday the company announced that the new AI feature will launch in the first half of 2027. In the company’s Q3 shareholde...",
       "highlights": [
-        "AI is eating up a larger share of late-stage funding: About 57% of all capital invested on Carta so far this year at Series B and beyond has gone to AI startups, the highest share of AI fundraising ever for these late-stage rounds. At seed and Series A, AI accounts for 44% of cash raised this year, down from 48% in 2025. [...] Companies on Carta combined to raise $49.3 billion in new venture funding across 1,179 rounds in Q3. Since the market’s recent low point in early 2023, quarterly fundraising totals have been steadily climbing, boosted by the massive sums being raised by the most highly regarded AI startups. Over the past two quarters alone, startups on Carta have added more than $100 billion to their collective coffers. [...] Data/",
-        "State Of Private Markets Q3 2026",
-        "State of Private Markets: Q3 2026"
+        "Airbnb has teased its plans to build its own AI travel agent before, but on Thursday the company announced that the new AI feature will launch in the first half of 2027. In the company’s Q3 shareholder letter on Thursday, Airbnb also provided more detail about how the agent will work, what it will actually do, and how it’s different from a typical AI chatbot. In prior interviews, CEO Brian Chesky sketched out the travel company’s approach to AI, describing a plan to build an AI agent that has a richer interface than a conventional chatbot. He also expressed his opinions about how chatbots aren’t the right interface for travel, noting that people take pleasure in the planning process and in anticipating a trip. In its shareholder letter, the company touted that its nearly 20 years of experience in bringing hosts and guests together is informing how the agent is built, as it incorporates insights about how people both book and host on its platform."
       ],
-      "url": "https://carta.com/data/state-of-private-markets-q3-2026",
-      "source": "carta.com",
-      "category": "投并购",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "source": "techcrunch.com",
+      "category": "产品进展",
       "importance": 3,
-      "publishedAt": "2026-11-05T19:00:00Z"
-    },
-    {
-      "id": "64a36e2ae1d3",
-      "title": "https://mp.weixin.qq.com/s/DQb3WUXyEYWjYVMQ70uE5w",
-      "summary": "No information is available for this page.",
-      "highlights": [
-        "No information is available for this page."
-      ],
-      "url": "https://mp.weixin.qq.com/s/DQb3WUXyEYWjYVMQ70uE5w",
-      "source": "mp.weixin.qq.com",
-      "category": "行业话题",
-      "importance": 2,
-      "publishedAt": "2026-11-07T17:18:06Z"
+      "publishedAt": "2026-11-05T22:40:55Z"
     }
   ],
   "today": [
@@ -472,6 +476,21 @@
       "publishedAt": "2026-11-07T17:18:06Z"
     },
     {
+      "id": "1b4845e24fa3",
+      "title": "OpenAI",
+      "summary": "# OpenAI\nID: p4PyTakV77G9\nWebsite: www.openai.com\nHeadquarters: San Francisco, CA, United States\nLinkedIn: www.linkedin.com/company/openai · 11,529,792 followers\nIndustry: Research Services\nIndustry c...",
+      "highlights": [
+        "ID: p4PyTakV77G9",
+        "Website: www.openai.com",
+        "Headquarters: San Francisco, CA, United States"
+      ],
+      "url": "https://tavily.com/knowledge/company/p4PyTakV77G9",
+      "source": "tavily.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-07T21:07:57Z"
+    },
+    {
       "id": "8eadb088c06e",
       "title": "谷歌悄悄买入高通：手机芯片巨头盯上数据中心，目标年入超150亿美元",
       "summary": "当地时间11 月6 日，谷歌母公司Alphabet 披露，截至2026 年第三季度末，公司持有芯片巨头高通约297.7 万股股票，持仓市值约为5.48 亿美元。而6 月底的文件中还没有高通",
@@ -486,6 +505,48 @@
       "publishedAt": "2026-11-07T11:00:00Z"
     },
     {
+      "id": "45f302be7b6e",
+      "title": "A growing streetwear retailer reveals its AI agent shopping strategy ahead of the holidays - Business Insider",
+      "summary": "As AI chatbots and personal agents go mainstream, retailers large and small are rethinking how they present their products and prices in this shifting e-commerce landscape. For streetwear retailer All...",
+      "highlights": [
+        "As AI chatbots and personal agents go mainstream, retailers large and small are rethinking how they present their products and prices in this shifting e-commerce landscape. For streetwear retailer All Star Elite, which has about 60 US stores and a growing e-commerce operation, that means getting ahead of the bots. Over the last month, about 1% of the site's traffic came from AI agents, Abhishek Bora, the company's head of growth, told Business Insider. He said the company has also been getting more sales from traffic driven by ChatGPT. \"I know it's small, but we have been optimizing for it,\" he said of Muse visits. With the busy holiday shopping season a few weeks out, now is a key time for companies like All Star Elite to have their AI commerce strategies nailed down. Walmart last month rolled out a new batch of tools that are intended to make it easier for third-party AI agents to navigate its site and complete transactions on behalf of customers."
+      ],
+      "url": "https://www.businessinsider.com/all-star-elite-streetwear-ai-agent-shopping-strategy-holidays-2026-11",
+      "source": "businessinsider.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-11-07T10:47:01Z"
+    },
+    {
+      "id": "4794bc16707d",
+      "title": "李佳琦直播间半小时卖出2万亿Token；可灵完成198亿元融资，估值超母公司快手丨AI周报",
+      "summary": "全球AI产业周报. 为你精选过去一周最值得关注的AI新闻和国内外热门AI投融资事件，帮助大家及时了解全球AI市场动向。 01本周人工智能热点资讯.",
+      "highlights": [
+        "全球AI产业周报. 为你精选过去一周最值得关注的AI新闻和国内外热门AI投融资事件，帮助大家及时了解全球AI市场动向",
+        "01本周人工智能热点资讯."
+      ],
+      "url": "https://m.cyzone.cn/article/853163.html",
+      "source": "m.cyzone.cn",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-11-07T08:00:00Z"
+    },
+    {
+      "id": "7ed24a4dba28",
+      "title": "Arab News | Startup Wrap: Regional tech companies advance funding, acquisitions and cross-border growth",
+      "summary": "Aramco will contribute approximately SR9.9 billion ($2.64 billion) in cash during 2026, alongside AI, computing and digital assets. Both shareholders will also provide technology capabilities and pers...",
+      "highlights": [
+        "Aramco will contribute approximately SR9.9 billion ($2.64 billion) in cash during 2026, alongside AI, computing and digital assets. Both shareholders will also provide technology capabilities and personnel.",
+        "Launched by the Public Investment Fund in May 2025, Humain develops data centres, high-performance computing infrastructure, cloud platforms, advanced AI models and applications for individual industries. [...] Humain said the combined platform will support customers throughout the AI adoption process, including strategy, infrastructure, deployment, integration, cybersecurity, ongoing operations and technical support.",
+        "CNTXT’s staff, products and client relationships will become part of Humian’s wider operation. The integration is intended to strengthen services for organizations deploying cloud, data and AI systems at scale. [...] Arab News"
+      ],
+      "url": "https://www.arabnews.com/startups/startup-wrap-regional-tech-companies-advance-funding-acquisitions-and-cross-border-growth-3010021",
+      "source": "arabnews.com",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-11-07T13:34:00Z"
+    },
+    {
       "id": "64a36e2ae1d3",
       "title": "https://mp.weixin.qq.com/s/DQb3WUXyEYWjYVMQ70uE5w",
       "summary": "No information is available for this page.",
@@ -497,6 +558,35 @@
       "category": "行业话题",
       "importance": 2,
       "publishedAt": "2026-11-07T17:18:06Z"
+    },
+    {
+      "id": "360192f4b579",
+      "title": "质Ƽģ̬ģ͹_",
+      "summary": "ҵΪ2017ͨGPUΪAIоƬ߹ƽչʮꣻ2027ҵ˳Makimoto'sWaveڣAIGVʽƵഹֱרӭشڡŶ̾硢ƵAIӦÿƵݴAIGVϴͳıģͳָ־ʾǰгģԪδǧԪԶгģͻԪ [...] Ͷʷձ鿴ǰҵҵׯͶʢͻΪ质ƼӵϡȱĹģܹʵرҲһҵͶʾרоƬЧƽͨGPUڶģ̬Чʲ㡢ɱƫߵʹ㣬ŶӼоƬз뻥ģϵͳʵϸܳݴ򡱼ᡣ\n\nɱʺ质ƼһоƬзʵоƬ+ջ+ƽ̨ȫջȲչȫгΪƵģʱṩЧͳɱĹԴ质Ƽ\n\n༭:÷ [....",
+      "highlights": [
+        "ҵΪ2017ͨGPUΪAIоƬ߹ƽչʮꣻ2027ҵ˳Makimoto'sWaveڣAIGVʽƵഹֱרӭشڡŶ̾硢ƵAIӦÿƵݴAIGVϴͳıģͳָ־ʾǰгģԪδǧԪԶгģͻԪ [...] Ͷʷձ鿴ǰҵҵׯͶʢͻΪ质ƼӵϡȱĹģܹʵرҲһҵͶʾרоƬЧƽͨGPUڶģ̬Чʲ㡢ɱƫߵʹ㣬ŶӼоƬз뻥ģϵͳʵϸܳݴ򡱼ᡣ",
+        "ɱʺ质ƼһоƬзʵоƬ+ջ+ƽ̨ȫջȲչȫгΪƵģʱṩЧͳɱĹԴ质Ƽ",
+        "༭:÷ [...] з棬质ƼRISC-VԴ̬о߱ӳȷDiPUܹ״3DܹлϼȽװʵֲͬܡͬƳоƬ칹ɡϵϣҵͳһƽ̨LUCASɶͨǧʡͨࡢԪƵMiniMaxԴƵģ͵ŻͬʱƳͼƵȫ·AIGVƽ̨Nebulaóչʵ"
+      ],
+      "url": "https://www.cnr.cn/shanghai/tt/20261107/t20261107_527865749.shtml",
+      "source": "cnr.cn",
+      "category": "芯片硬件",
+      "importance": 2,
+      "publishedAt": "2026-11-07T00:00:00Z"
+    },
+    {
+      "id": "94a2ffd647fd",
+      "title": "具身数采进入「众包」时代，走得通么？",
+      "summary": "十年前自动驾驶未竟的“数据众包”构想，如今在具身智能领域卷土重来。以Figure AI与智元旗下觅蜂派为代表，行业正试图通过轻量化数采设备与平台化任务分发，借众包模式",
+      "highlights": [
+        "十年前自动驾驶未竟的“数据众包”构想，如今在具身智能领域卷土重来",
+        "以Figure AI与智元旗下觅蜂派为代表，行业正试图通过轻量化数采设备与平台化任务分发，借众包模式"
+      ],
+      "url": "https://www.lanjinger.com/subject/232",
+      "source": "lanjinger.com",
+      "category": "具身智能",
+      "importance": 2,
+      "publishedAt": "2026-11-07T13:00:00Z"
     }
   ],
   "week": [
@@ -529,21 +619,6 @@
       "publishedAt": "2026-11-06T00:50:00Z"
     },
     {
-      "id": "7a906c684aff",
-      "title": "发布“地球最强”模型仅几天后 OpenAI首席科学家发长文呼吁放慢AI开发",
-      "summary": "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”。他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标。\n\n他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行。\n\nOpenAI首席执行官奥尔特曼（Sam Altman）在...",
-      "highlights": [
-        "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”",
-        "他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标",
-        "他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行"
-      ],
-      "url": "https://www.cls.cn/detail/2475526",
-      "source": "cls.cn",
-      "category": "前沿理论",
-      "importance": 5,
-      "publishedAt": "2026-11-05T14:00:00Z"
-    },
-    {
       "id": "ec13bd7e9197",
       "title": "Instagram",
       "summary": "破局軟件庫： OpenXLA、JAX，以及最新聯手 Meta 重磅開源嘅 TorchTPU。特別係 TorchTPU，開發者幾乎只需要將原本對應 CUDA 嘅代碼由 model.to(\"cuda\") 改為 model.to(\"tpu\")，再配合跨平台底層算子庫 Tokamax（支援 TPU 與 GPU 共用），就可以無縫將原本跑喺 CUDA 上面嘅 PyTorch 模型直接搬去 TPU 運行。  ...",
@@ -572,6 +647,36 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-11-06T16:53:10Z"
+    },
+    {
+      "id": "48bd1138e076",
+      "title": "This Week in AI #95: Anthropic Opens Its Books, Gemini 4 Carbon Debuts, Meta Plans $95B Raise, and much more…",
+      "summary": "Google's TPUs will reach Oracle Cloud Infrastructure in 2027, making OCI the first hyperscale cloud outside Google to offer them, with capacity ramping over multiple years.\n\nOpenAI plans to buy Google...",
+      "highlights": [
+        "Google's TPUs will reach Oracle Cloud Infrastructure in 2027, making OCI the first hyperscale cloud outside Google to offer them, with capacity ramping over multiple years.",
+        "OpenAI plans to buy Google's AI chips, The Information reports Reuters | October 27",
+        "OpenAI plans to buy Google's tensor processing units, The Information reported, moving beyond chip rentals that began in 2025; financial terms were not disclosed. [...] OpenAI says its models proved the Kakeya conjecture, disproved the Exponential Time Hypothesis and claimed a Yang–Mills existence proof, with academic groups now verifying the results."
+      ],
+      "url": "https://www.linkedin.com/pulse/week-ai-95-anthropic-opens-its-books-gemini-4-carbon-debuts-kleine-ghoxe",
+      "source": "linkedin.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-07T17:18:06Z"
+    },
+    {
+      "id": "7a906c684aff",
+      "title": "发布“地球最强”模型仅几天后 OpenAI首席科学家发长文呼吁放慢AI开发",
+      "summary": "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”。他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标。\n\n他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行。\n\nOpenAI首席执行官奥尔特曼（Sam Altman）在...",
+      "highlights": [
+        "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”",
+        "他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标",
+        "他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行"
+      ],
+      "url": "https://www.cls.cn/detail/2475526",
+      "source": "cls.cn",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-11-05T14:00:00Z"
     },
     {
       "id": "baa211a60987",
@@ -705,21 +810,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-11-05T02:47:44Z"
-    },
-    {
-      "id": "79618821d130",
-      "title": "百度否认“昆仑芯港股IPO推迟至2027年”传闻：称公司处于保密申报阶段不能披露进展-电子工程专辑",
-      "summary": "## 昆仑芯是谁？三代XPU架构的国产算力主力\n\n昆仑芯团队2011年在百度内部组建，2018年正式启动AI芯片产品化，核心是自研XPU架构（2017年Hot Chips大会发布）——与追求图形渲染全能能力的通用GPU不同，XPU专为AI计算而生。2021年4月独立为昆仑芯（北京）科技有限公司，首轮估值即达130亿元。\n\n产品方面，一代K系列（K100/K200加速卡）面向云端推理，已在百度搜索、...",
-      "highlights": [
-        "三代XPU架构的国产算力主力",
-        "昆仑芯团队2011年在百度内部组建，2018年正式启动AI芯片产品化，核心是自研XPU架构（2017年Hot Chips大会发布）——与追求图形渲染全能能力的通用GPU不同，XPU专为AI计算而生",
-        "2021年4月独立为昆仑芯（北京）科技有限公司，首轮估值即达130亿元"
-      ],
-      "url": "https://www.eet-china.com/news/202611059517.html",
-      "source": "eet-china.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-05T03:00:00Z"
     }
   ],
   "month": [
@@ -752,21 +842,6 @@
       "publishedAt": "2026-11-06T00:50:00Z"
     },
     {
-      "id": "7a906c684aff",
-      "title": "发布“地球最强”模型仅几天后 OpenAI首席科学家发长文呼吁放慢AI开发",
-      "summary": "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”。他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标。\n\n他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行。\n\nOpenAI首席执行官奥尔特曼（Sam Altman）在...",
-      "highlights": [
-        "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”",
-        "他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标",
-        "他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行"
-      ],
-      "url": "https://www.cls.cn/detail/2475526",
-      "source": "cls.cn",
-      "category": "前沿理论",
-      "importance": 5,
-      "publishedAt": "2026-11-05T14:00:00Z"
-    },
-    {
       "id": "ec13bd7e9197",
       "title": "Instagram",
       "summary": "破局軟件庫： OpenXLA、JAX，以及最新聯手 Meta 重磅開源嘅 TorchTPU。特別係 TorchTPU，開發者幾乎只需要將原本對應 CUDA 嘅代碼由 model.to(\"cuda\") 改為 model.to(\"tpu\")，再配合跨平台底層算子庫 Tokamax（支援 TPU 與 GPU 共用），就可以無縫將原本跑喺 CUDA 上面嘅 PyTorch 模型直接搬去 TPU 運行。  ...",
@@ -795,6 +870,36 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-11-06T16:53:10Z"
+    },
+    {
+      "id": "48bd1138e076",
+      "title": "This Week in AI #95: Anthropic Opens Its Books, Gemini 4 Carbon Debuts, Meta Plans $95B Raise, and much more…",
+      "summary": "Google's TPUs will reach Oracle Cloud Infrastructure in 2027, making OCI the first hyperscale cloud outside Google to offer them, with capacity ramping over multiple years.\n\nOpenAI plans to buy Google...",
+      "highlights": [
+        "Google's TPUs will reach Oracle Cloud Infrastructure in 2027, making OCI the first hyperscale cloud outside Google to offer them, with capacity ramping over multiple years.",
+        "OpenAI plans to buy Google's AI chips, The Information reports Reuters | October 27",
+        "OpenAI plans to buy Google's tensor processing units, The Information reported, moving beyond chip rentals that began in 2025; financial terms were not disclosed. [...] OpenAI says its models proved the Kakeya conjecture, disproved the Exponential Time Hypothesis and claimed a Yang–Mills existence proof, with academic groups now verifying the results."
+      ],
+      "url": "https://www.linkedin.com/pulse/week-ai-95-anthropic-opens-its-books-gemini-4-carbon-debuts-kleine-ghoxe",
+      "source": "linkedin.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-07T17:18:06Z"
+    },
+    {
+      "id": "7a906c684aff",
+      "title": "发布“地球最强”模型仅几天后 OpenAI首席科学家发长文呼吁放慢AI开发",
+      "summary": "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”。他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标。\n\n他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行。\n\nOpenAI首席执行官奥尔特曼（Sam Altman）在...",
+      "highlights": [
+        "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”",
+        "他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标",
+        "他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行"
+      ],
+      "url": "https://www.cls.cn/detail/2475526",
+      "source": "cls.cn",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-11-05T14:00:00Z"
     },
     {
       "id": "baa211a60987",
@@ -855,21 +960,6 @@
       "category": "具身智能",
       "importance": 5,
       "publishedAt": "2026-11-05T07:15:00Z"
-    },
-    {
-      "id": "3dd1290260b4",
-      "title": "港股收盘 | 科技指数劲升5.55%创年内纪录 AI硬件相关个股多数调整",
-      "summary": "消息方面，隔夜中概股大涨。纳斯达克金龙中国指数收涨3.49%，报5722.71点。热门中概股中，哔哩哔哩涨5.23%，阿里巴巴涨4.9%，京东涨3.05%，小鹏涨1.86%，网易涨4.3%，百度涨4.5%，拼多多涨2.5%。\n\n从基本面观察，此前压制成长资产估值的关键外部变量正迎来边际改善。有报道指出，伴随美国中期选举落地，阶段性政治不确定性基本消除；叠加市场对全球地缘冲突降级的预期升温，全球资本...",
-      "highlights": [
-        "消息方面，隔夜中概股大涨",
-        "纳斯达克金龙中国指数收涨3.49%，报5722.71点",
-        "热门中概股中，哔哩哔哩涨5.23%，阿里巴巴涨4.9%，京东涨3.05%，小鹏涨1.86%，网易涨4.3%，百度涨4.5%，拼多多涨2.5%"
-      ],
-      "url": "https://www.cls.cn/detail/2526254",
-      "source": "cls.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-05T09:00:00Z"
     }
   ]
 }
