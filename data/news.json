@@ -1,96 +1,6 @@
 {
-  "updatedAt": "2026-11-07T03:23:08Z",
+  "updatedAt": "2026-11-07T11:58:30Z",
   "latest": [
-    {
-      "id": "baa211a60987",
-      "title": "AI: Google’s TPU Moment, with OpenAI, Oracle & Anthropic. AI-RTZ #1254",
-      "summary": "RTZ #766: Google TPU sees notable OpenAI win vs Nvidia\n RTZ #921: Google’s TPUs making Nvidia GPUs a better competitor\n AI-RTZ #1065: Google’s latest TPU chips improve on power efficient AI Compute\n R...",
-      "highlights": [
-        "RTZ #766: Google TPU sees notable OpenAI win vs Nvidia",
-        "RTZ #921: Google’s TPUs making Nvidia GPUs a better competitor",
-        "AI-RTZ #1065: Google’s latest TPU chips improve on power efficient AI Compute"
-      ],
-      "url": "https://michaelparekh.substack.com/p/ai-googles-tpu-moment-with-openai",
-      "source": "michaelparekh.substack.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-05T03:51:37Z"
-    },
-    {
-      "id": "c5048cede8f3",
-      "title": "Suneet Agarwal",
-      "summary": "Suneet Agarwal\n\n1. The test is called GDPx. SemiAnalysis, a chip and AI research firm, published it Monday. 206 long tasks across 11 fields, from chip design to legal and finance work.\n\n   2h \n\n[](\n\nI...",
-      "highlights": [
-        "Suneet Agarwal",
-        "1. The test is called GDPx. SemiAnalysis, a chip and AI research firm, published it Monday. 206 long tasks across 11 fields, from chip design to legal and finance work.",
-        "Image 4Author"
-      ],
-      "url": "https://www.facebook.com/sagarwalsac/posts/a-new-test-gave-the-top-ai-from-anthropic-google-and-openai-real-expert-work-the/10163508958526139",
-      "source": "facebook.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-05T03:51:37Z"
-    },
-    {
-      "id": "b2caee06f7e6",
-      "title": "拿下七成调用量，只分到三成钱？！“国产大模型不想只卖Token了”_搜狐网",
-      "summary": "## 拿下七成调用量，只分到三成钱？！“国产大模型不想只卖Token了”\n\n新浪财经\n\n新浪财经\n\n来源：证券时报\n\n继DeepSeek、Kimi接连上新后，国产开源大模型的“上新潮”仍在延续。11月4日，腾讯混元发布最新一代大语言模型Hy4，腾讯表示，随着模型能力的再次全面跃升，Hy首次跻身最强开源模型之列，同时Hy4将于近期开源模型权重。\n\n近几个月来，从DeepSeek V4.1 Flash...",
-      "highlights": [
-        "## 拿下七成调用量，只分到三成钱",
-        "“国产大模型不想只卖Token了”",
-        "继DeepSeek、Kimi接连上新后，国产开源大模型的“上新潮”仍在延续"
-      ],
-      "url": "https://m.sohu.com/a/1097453038_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-05T11:12:50Z"
-    },
-    {
-      "id": "d2eda60e4940",
-      "title": "具身智能，变天了_投资界",
-      "summary": "这就意味着，高质量的具身数据，是决定未来具身大模型独特竞争优势的胜负手之一。除此之外，触觉、力控、力反馈等等这些大语言模型无法通过计算和推理得来的数据将更具价值。\n\nAstra发布一个多月后，行业已经用行动投出了一票，数据订单回来了，本体公司的价值重新锚定，做“大脑”的公司则不得不直面与基模大厂的同场竞争。\n\n一些窗口正在被关上，同时又有一部分新的窗口在被打开，整个行业发展的脚步更快了。\n\nOpe...",
-      "highlights": [
-        "这就意味着，高质量的具身数据，是决定未来具身大模型独特竞争优势的胜负手之一",
-        "除此之外，触觉、力控、力反馈等等这些大语言模型无法通过计算和推理得来的数据将更具价值",
-        "Astra发布一个多月后，行业已经用行动投出了一票，数据订单回来了，本体公司的价值重新锚定，做“大脑”的公司则不得不直面与基模大厂的同场竞争"
-      ],
-      "url": "https://news.pedaily.cn/202611/571411.shtml",
-      "source": "news.pedaily.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-11-05T07:15:00Z"
-    },
-    {
-      "id": "3dd1290260b4",
-      "title": "港股收盘 | 科技指数劲升5.55%创年内纪录 AI硬件相关个股多数调整",
-      "summary": "消息方面，隔夜中概股大涨。纳斯达克金龙中国指数收涨3.49%，报5722.71点。热门中概股中，哔哩哔哩涨5.23%，阿里巴巴涨4.9%，京东涨3.05%，小鹏涨1.86%，网易涨4.3%，百度涨4.5%，拼多多涨2.5%。\n\n从基本面观察，此前压制成长资产估值的关键外部变量正迎来边际改善。有报道指出，伴随美国中期选举落地，阶段性政治不确定性基本消除；叠加市场对全球地缘冲突降级的预期升温，全球资本...",
-      "highlights": [
-        "消息方面，隔夜中概股大涨",
-        "纳斯达克金龙中国指数收涨3.49%，报5722.71点",
-        "热门中概股中，哔哩哔哩涨5.23%，阿里巴巴涨4.9%，京东涨3.05%，小鹏涨1.86%，网易涨4.3%，百度涨4.5%，拼多多涨2.5%"
-      ],
-      "url": "https://www.cls.cn/detail/2526254",
-      "source": "cls.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-05T09:00:00Z"
-    },
-    {
-      "id": "e5887e6727b0",
-      "title": "Anthropic用Claude设计自研AI芯片：IPO路演向投资者展示芯片设计能力，基准测试得分仅16.6%-电子工程专辑",
-      "summary": "但一份基准测试揭示了现实的距离。初创公司ChipAgents与英伟达上月联合发布的Build-A-Chip-Bench，要求AI智能体把一颗数字芯片从纯文字规格一路做到可验证的GDS布局。结果并不性感：表现最好的Claude Fable 5.1总分仅为16.6%（功能通过率65%、GDS通过率75%、功耗性能面积PPA达标率25.5%）；排名第二的GPT-6 Astra功能通过率和GDS通过率都达...",
-      "highlights": [
-        "但一份基准测试揭示了现实的距离",
-        "初创公司ChipAgents与英伟达上月联合发布的Build-A-Chip-Bench，要求AI智能体把一颗数字芯片从纯文字规格一路做到可验证的GDS布局",
-        "结果并不性感：表现最好的Claude Fable 5.1总分仅为16.6%（功能通过率65%、GDS通过率75%、功耗性能面积PPA达标率25.5%）；排名第二的GPT-6 Astra功能通过率和GDS通过率都达到85%，却只拿到8.7%的总分——因为它的通过设计离PPA目标差得太远；Gemini 3.8 Flash得0.8%，Kimi K3得0.2%，GLM-5.3得0%"
-      ],
-      "url": "https://www.eet-china.com/news/202611059541.html",
-      "source": "eet-china.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-05T07:00:00Z"
-    },
     {
       "id": "760f3015ca4d",
       "title": "OpenAI’s GPT-6 Cyber found 81 new Firefox flaws and is rated ‘Critical’ - The Next Web",
@@ -135,17 +45,34 @@
       "publishedAt": "2026-11-05T14:00:00Z"
     },
     {
-      "id": "8dbbf878d8ef",
-      "title": "Open AI's another internal benchmarks show Anthropic ...",
-      "summary": "Open AI's another internal benchmarks show Anthropic and Google are still unthreatening ... For the first time Anthropic models are the clear losers vs OpenAI",
+      "id": "ec13bd7e9197",
+      "title": "Instagram",
+      "summary": "破局軟件庫： OpenXLA、JAX，以及最新聯手 Meta 重磅開源嘅 TorchTPU。特別係 TorchTPU，開發者幾乎只需要將原本對應 CUDA 嘅代碼由 model.to(\"cuda\") 改為 model.to(\"tpu\")，再配合跨平台底層算子庫 Tokamax（支援 TPU 與 GPU 共用），就可以無縫將原本跑喺 CUDA 上面嘅 PyTorch 模型直接搬去 TPU 運行。  ...",
       "highlights": [
-        "Open AI's another internal benchmarks show Anthropic and Google are still unthreatening ... For the first time Anthropic models are the clear losers vs OpenAI"
+        "破局軟件庫： OpenXLA、JAX，以及最新聯手 Meta 重磅開源嘅 TorchTPU",
+        "特別係 TorchTPU，開發者幾乎只需要將原本對應 CUDA 嘅代碼由 model.to(\"cuda\") 改為 model.to(\"tpu\")，再配合跨平台底層算子庫 Tokamax（支援 TPU 與 GPU 共用），就可以無縫將原本跑喺 CUDA 上面嘅 PyTorch 模型直接搬去 TPU 運行",
+        "Amazon（AWS）："
       ],
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xifeco/open_ais_another_internal_benchmarks_show",
-      "source": "reddit.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-11-05T03:51:37Z"
+      "url": "https://www.instagram.com/p/DfMS4gRkhMl",
+      "source": "instagram.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-07T11:58:30Z"
+    },
+    {
+      "id": "829a77e7bb1a",
+      "title": "英伟达10亿美元落子韩国：一场围绕GPU算力与产业场景的亚洲新布局_搜狐网",
+      "summary": "## “AI工厂”落地：GPU即服务如何嵌入韩国产业\n\n根据双方此前宣布的合作框架，“AI工厂”项目将围绕GPU基础设施展开。按照规划，Naver将首先从位于韩国中部世宗市的“Gak Sejong”数据中心着手，构建基于英伟达GPU的算力集群，对外推出“GPU即服务”（GPU-as-a-Service）业务。简而言之，就是将AI训练与推理所需的GPU算力以服务形式提供给企业客户，类似云计算IaaS...",
+      "highlights": [
+        "## “AI工厂”落地：GPU即服务如何嵌入韩国产业",
+        "根据双方此前宣布的合作框架，“AI工厂”项目将围绕GPU基础设施展开",
+        "按照规划，Naver将首先从位于韩国中部世宗市的“Gak Sejong”数据中心着手，构建基于英伟达GPU的算力集群，对外推出“GPU即服务”（GPU-as-a-Service）业务"
+      ],
+      "url": "https://m.sohu.com/a/1098105036_128075?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-06T16:53:10Z"
     },
     {
       "id": "1b4845e24fa3",
@@ -286,21 +213,6 @@
       "publishedAt": "2026-11-07T02:40:47Z"
     },
     {
-      "id": "455b19af513f",
-      "title": "AI Funding (Oct 26–Nov 1): FuriosaAI, Bedrock Robotics Lead $2.43B Week - AI Funding Tracker",
-      "summary": "AI startups raised $2.43 billion in primary funding across 16 rounds of $20 million or more between October 26 and November 1, 2026. South Korean chipmaker FuriosaAI’s $620 million Series D was the la...",
-      "highlights": [
-        "AI startups raised $2.43 billion in primary funding across 16 rounds of $20 million or more between October 26 and November 1, 2026. South Korean chipmaker FuriosaAI’s $620 million Series D was the largest round, just ahead of Bedrock Robotics’ $600 million Series C. [...] Upwind’s $3.8 billion valuation compares with $1.5 billion at its January 2026 Series B. The company said revenue has quadrupled this year, and TechCrunch reported it walked away from an acquisition offer from Datadog before the round.",
-        "Solink says it is tracking toward $100 million in annual recurring revenue. Its software runs on 500,000 cameras across 35,000 locations, and total equity raised now exceeds $198 million. [...] The three deals add to a busy year for inference hardware, covered in our overview of AI chip startups and their 2026 valuations.",
-        "### Physical AI, robotics and engineering design"
-      ],
-      "url": "https://aifundingtracker.com/ai-funding-oct-26-nov-1-furiosaai-bedrock-robotics-lead-2-43b-week",
-      "source": "aifundingtracker.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-11-05T06:26:26Z"
-    },
-    {
       "id": "1e00beb45f3c",
       "title": "Mistral AI buys SkipLabs in its fifth acquisition of 2026 | Dealroom News",
       "summary": "Dealroom.co\n\n# Mistral AI buys SkipLabs in its fifth acquisition of 2026\n\nWhat's the deal? Mistral AI has acquired SkipLabs, a French startup building tools to make AI code generation faster, more rel...",
@@ -314,6 +226,71 @@
       "category": "投并购",
       "importance": 4,
       "publishedAt": "2026-11-05T13:43:41Z"
+    },
+    {
+      "id": "b314109bc966",
+      "title": "OpenAI CFO says blue tsunami ‘didn’t dramatically change’ IPO plans - Business Insider",
+      "summary": "The 2026 midterms haven't changed OpenAI's IPO plans, OpenAI chief financial officer Sarah Friar says. All eyes are on Anthropic, OpenAI's chief rival, and whether it will forge ahead with an IPO, per...",
+      "highlights": [
+        "The 2026 midterms haven't changed OpenAI's IPO plans, OpenAI chief financial officer Sarah Friar says. All eyes are on Anthropic, OpenAI's chief rival, and whether it will forge ahead with an IPO, perhaps as soon as this month. Friar said OpenAI, which is trying to rebrand data centers as \"compute campuses,\" will continue to invest in the sprawling facilities that are central to both OpenAI and the broader AI industry's future. On Thursday, OpenAI announced what it called \"a new standard for responsible AI infrastructure.\" Under its pledge, OpenAI said it would pay the full cost of the electricity it uses and any necessary grid improvements, do away with non-disclosure agreements with public officials (with narrow exceptions), and publish data on the jobs it expects to create. Friar said one reason she's excited for an IPO is because a market debut would be in line with OpenAI's mission to ensure artificial intelligence for all."
+      ],
+      "url": "https://www.businessinsider.com/openai-data-centers-midterms-sarah-friar-ipo-plans-2026-11",
+      "source": "businessinsider.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-06T17:41:37Z"
+    },
+    {
+      "id": "6fb084982371",
+      "title": "Anthropic IPO faces valuation cut after $2.5 trillion rout - The Jerusalem Post",
+      "summary": "## Major investors question Anthropic's $1.5 trillion valuation as a sweeping AI selloff raises the prospect of a smaller IPO or delayed listing. Anthropic's planned $1.5 trillion initial public offer...",
+      "highlights": [
+        "## Major investors question Anthropic's $1.5 trillion valuation as a sweeping AI selloff raises the prospect of a smaller IPO or delayed listing. Anthropic's planned $1.5 trillion initial public offering is facing mounting pressure from major investors following a sharp selloff in US technology stocks, with some backers now calling for a substantially lower valuation or a possible postponement, *The Wall Street Journal* reported on Thursday. Its anticipated offering could raise as much as $100 billion, potentially making it the largest IPO in history. However, three major investors intending to participate in the offering believe the proposed valuation will have to be reduced, according to the Journal. One investor suggested the company could be valued closer to $1 trillion, representing a decline of approximately one-third from its previously anticipated price. The Nasdaq Composite suffered a severe selloff on Thursday, with companies in the index losing approximately $2.5 trillion in market capitalization as investors moved away from AI-related investments."
+      ],
+      "url": "https://www.jpost.com/business-and-innovation/article-914074",
+      "source": "jpost.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-11-06T16:31:19Z"
+    },
+    {
+      "id": "671dd8ccd729",
+      "title": "Anthropic IPO Valuation Expectations Pressured After AI Rout - Bloomberg.com",
+      "summary": "# Anthropic IPO Investors Weigh Valuation as Low as $1.2 Trillion. Anthropic PBC’s initial public offering plans ran into a punishing post-election selloff, prompting a rethink among prospective inves...",
+      "highlights": [
+        "# Anthropic IPO Investors Weigh Valuation as Low as $1.2 Trillion. Anthropic PBC’s initial public offering plans ran into a punishing post-election selloff, prompting a rethink among prospective investors of the company’s expected valuation. Ahead of the AI lab kicking off formal IPO marketing next week, potential buyers are discussing a $1.2 trillion to $1.3 trillion valuation range for the company, according to a person familiar with the matter, who asked not to be identified as the information isn’t public."
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "source": "bloomberg.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-06T13:44:09Z"
+    },
+    {
+      "id": "47145b802c79",
+      "title": "After tech stock plunge, investors rethink what Anthropic is worth - Los Angeles Times",
+      "summary": "Ahead of the AI lab kicking off formal IPO marketing next week, potential buyers are discussing a $1.2 trillion to $1.3 trillion valuation range for the company, according to a person familiar with th...",
+      "highlights": [
+        "Ahead of the AI lab kicking off formal IPO marketing next week, potential buyers are discussing a $1.2 trillion to $1.3 trillion valuation range for the company, according to a person familiar with the matter, who asked not to be identified as the information isn’t public. Some investors weighing bids previously told bankers on the IPO that their estimate of a fair valuation had moved to around $1.4 trillion to $1.5 trillion, Bloomberg News has reported. The retreat to around $1.4 trillion to $1.5 trillion came after a company briefing on its latest financials in October, Bloomberg News reported at the time. Michael Alfaro, the chief investment officer of Gallo Partners, a long-short and event-driven hedge fund, told Bloomberg News before Thursday’s market rout that Anthropic needed to target a valuation between $1.3 trillion and $1.4 trillion “in order to build a quality book.”."
+      ],
+      "url": "https://www.latimes.com/business/story/2026-11-06/after-tech-stock-plunge-investors-rethink-what-anthropic-is-worth",
+      "source": "latimes.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-11-06T14:52:03Z"
+    },
+    {
+      "id": "8c17ad56c0f4",
+      "title": "Anthropic IPO announcement odds drop on Kalshi following midterms and AI sell-off - CNBC",
+      "summary": "Odds that Anthropic will announce a public offering fell in recent days on Kalshi as AI-related stocks slid after Democrats won control of Congress and several key governorships. In the last week, odd...",
+      "highlights": [
+        "Odds that Anthropic will announce a public offering fell in recent days on Kalshi as AI-related stocks slid after Democrats won control of Congress and several key governorships. In the last week, odds that Anthropic would announce an IPO before December fell to 57% from nearly 90% on Kalshi. Chances that the company would announce a public offering before January also dropped to 68% from over 88% in the last week. The AI company confidentially filed its IPO prospectus with the Securities and Exchange Commission back in June. The S&P 500 lost 4.4%, while the Dow Jones Industrial Average fell more than 1,800 points, or 3.4%. Stocks were attempting to rebound on Friday, with the Nasdaq gaining 1.3% and the S&P 500 rising 0.7%. On Friday, shares of Micron Technology and Nvidia each gained about 4%, after falling 17% and 9%, respectively, the day before. CoreWeave shares also rose more than 2% Friday morning after tumbling about 10% on Wednesday."
+      ],
+      "url": "https://www.cnbc.com/2026/11/06/anthropic-ipo-kalshi-post-midterms-ai-sell-off.html",
+      "source": "cnbc.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-11-06T15:42:41Z"
     },
     {
       "id": "0563006a5634",
@@ -384,49 +361,74 @@
       "publishedAt": "2026-11-06T06:28:32Z"
     },
     {
-      "id": "f2562daf6082",
-      "title": "突发！李飞飞最新 AI 成果发布，把世界模型装进复古掌机，单张图实时跑出 15 帧",
-      "summary": "点下生成按钮，然后对着转圈的进度条干等好几分钟。过去玩3D 世界模型或者视频生成的朋友，估计都被那种漫长的渲染折磨得没脾气了。就在今天，李飞飞创办的World Labs",
+      "id": "553a4cd7dd44",
+      "title": "Market turmoil saps enthusiasm for the buzziest IPO of the year - CNN",
+      "summary": "Put simply: The vibes around AI have never been worse, and Anthropic — a company that seldom misses a chance to warn of doomsday scenarios — is trying to convince investors the future for AI has never...",
       "highlights": [
-        "点下生成按钮，然后对着转圈的进度条干等好几分钟",
-        "过去玩3D 世界模型或者视频生成的朋友，估计都被那种漫长的渲染折磨得没脾气了",
-        "就在今天，李飞飞创办的World Labs"
+        "Put simply: The vibes around AI have never been worse, and Anthropic — a company that seldom misses a chance to warn of doomsday scenarios — is trying to convince investors the future for AI has never been brighter. Thursday’s losses were so severe, some market commentators speculated that the company — which has been expected to make history this month with a target valuation of around $1.5 trillion — may have to delay the deal or significantly lower its price. Before Tuesday’s midterm elections, traders on the prediction market Kalshi had put the likelihood of Anthropic’s IPO taking place this month above 90% But on Thursday, as markets tumbled over fears the Democratic sweep would throttle the AI buildout, those odds fell to 60%. Investors have been awaiting Anthropic’s IPO in part because it is expected to serve as a barometer for not only the AI trade but the broader US economy, which has been buoyed by heavy investment in the data centers and energy infrastructure that Anthropic’s technology requires."
       ],
-      "url": "https://www.eet-china.com/mp/a537324.html",
-      "source": "eet-china.com",
-      "category": "模型发布",
-      "importance": 2,
-      "publishedAt": "2026-11-06T03:00:00Z"
-    },
-    {
-      "id": "80525ffa055f",
-      "title": "未來四年比Elon Musk 更能決定AI 命運的女人：德州新州長Gina ...",
-      "summary": "1. NeoCloud 算力商可能爆雷，Infra 必須具備多雲容災： 別把整家公司的AI 身家全押在單一高性價比的算力雲上，尤其是 NeoCloud 。 ... 至少在ai發展上不可能會自砍雙手",
-      "highlights": [
-        "1. NeoCloud 算力商可能爆雷，Infra 必須具備多雲容災： 別把整家公司的AI 身家全押在單一高性價比的算力雲上，尤其是 NeoCloud",
-        "... 至少在ai發展上不可能會自砍雙手"
-      ],
-      "url": "https://www.facebook.com/thegiivee/posts/%E6%9C%AA%E4%BE%86%E5%9B%9B%E5%B9%B4%E6%AF%94-elon-musk-%E6%9B%B4%E8%83%BD%E6%B1%BA%E5%AE%9A-ai-%E5%91%BD%E9%81%8B%E7%9A%84%E5%A5%B3%E4%BA%BA%E5%BE%B7%E5%B7%9E%E6%96%B0%E5%B7%9E%E9%95%B7-gina-hinojosa%E8%88%87%E5%A5%B9%E6%89%8B%E8%A3%A1%E7%9A%84%E9%9B%BB%E6%BA%90%E9%96%8B%E9%97%9C%E5%BE%B7%E5%B7%9E%E9%81%B8%E8%88%89%E8%AE%8A%E5%A4%A9%E6%94%AF%E6%8C%81-%E6%9A%AB%E7%B7%A9%E6%96%B0%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E5%BB%BA%E8%A8%AD-%E7%9A%84%E6%96%B0%E4%BB%BB%E5%B7%9E/10165406768080460",
-      "source": "facebook.com",
-      "category": "芯片硬件",
-      "importance": 2,
-      "publishedAt": "2026-11-06T22:27:42Z"
-    },
-    {
-      "id": "2638d56b8c17",
-      "title": "存量债权转股权光峰科技优化峰米资产负债结构",
-      "summary": "11月6日晚间，光峰科技(688007)公告，拟以持有的4.5亿元债权对控股子公司峰米（重庆）创新科技有限公司（简称“重庆峰米”）增资，并根据相关协议对A轮投资人所持注册",
-      "highlights": [
-        "11月6日晚间，光峰科技(688007)公告，拟以持有的4.5亿元债权对控股子公司峰米（重庆）创新科技有限公司（简称“重庆峰米”）增资，并根据相关协议对A轮投资人所持注册"
-      ],
-      "url": "https://finance.ifeng.com/c/8xq6uyE1gVO",
-      "source": "finance.ifeng.com",
+      "url": "https://www.cnn.com/2026/11/06/investing/wall-street-mayhem-complicates-anthropics-already-complicated-ipo",
+      "source": "cnn.com",
       "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-11-06T13:00:00Z"
+      "importance": 3,
+      "publishedAt": "2026-11-06T16:00:56Z"
+    },
+    {
+      "id": "3d07c55cdeed",
+      "title": "Watch CNBC’s full interview with ARK Invest CEO Cathie Wood - CNBC",
+      "summary": "Watch CNBC’s full interview with ARK Invest CEO Cathie Wood. Cathie Wood, CEO and CIO of ARK Invest, joins CNBC’s Morgan Brennan on “Morning Call” from the UP Summit at Kennedy Space Center to discuss...",
+      "highlights": [
+        "Watch CNBC’s full interview with ARK Invest CEO Cathie Wood. Cathie Wood, CEO and CIO of ARK Invest, joins CNBC’s Morgan Brennan on “Morning Call” from the UP Summit at Kennedy Space Center to discuss the AI trade, data center expansion, Tesla and SpaceX, Anthropic’s potential IPO, and the outlook for innovation and productivity."
+      ],
+      "url": "https://www.cnbc.com/video/2026/11/06/watch-cnbcs-full-interview-with-ark-invest-ceo-cathie-wood.html",
+      "source": "cnbc.com",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-11-06T12:24:16Z"
+    },
+    {
+      "id": "b33a5151add8",
+      "title": "ARK Invest CEO Cathie Wood: 'Robotaxi has hit escape velocity, delighting consumers' - CNBC",
+      "summary": "ARK Invest CEO Cathie Wood: 'Robotaxi has hit escape velocity, delighting consumers'. ARK Invest CEO Cathie Wood joins CNBC’s Morgan Brennan on “Morning Call” from the UP Summit at Kennedy Space Cente...",
+      "highlights": [
+        "ARK Invest CEO Cathie Wood: 'Robotaxi has hit escape velocity, delighting consumers'. ARK Invest CEO Cathie Wood joins CNBC’s Morgan Brennan on “Morning Call” from the UP Summit at Kennedy Space Center to discuss the AI trade, data center expansion, Tesla and SpaceX, Anthropic’s potential IPO, and the outlook for innovation and productivity."
+      ],
+      "url": "https://www.cnbc.com/video/2026/11/06/ark-invest-ceo-cathie-wood-robotaxi-data-center-debate-robotaxi-spacex-anthropic.html",
+      "source": "cnbc.com",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-11-06T13:56:21Z"
+    },
+    {
+      "id": "2ccd0b6bebb7",
+      "title": "Thinking Machines Lab is closing in on a new $5 billion funding round at a $40 billion valuation - Business Insider",
+      "summary": "AI startup Thinking Machines Lab is set to close a fresh round of funding as soon as this week. The startup is raising $5 billion at a $40 billion pre-money valuation, according to multiple sources fa...",
+      "highlights": [
+        "AI startup Thinking Machines Lab is set to close a fresh round of funding as soon as this week. The startup is raising $5 billion at a $40 billion pre-money valuation, according to multiple sources familiar with the matter. Accel is leading the round, according to the sources. Previously, Thinking Machines Lab, which was founded by Mira Murati, was valued at more than $10 billion and raised a $2 billion seed round last year before launching a product. This round would more than triple Thinking Machines' valuation from its last public round last year, showing that investors are still willing to place enormous bets on AI labs even as the industry's talent war intensifies. Last year, the company was seeking a new round at a $50 billion valuation, but talks were abandoned. In September, The Information reported that Thinking Machines Lab was in talks to raise a new round of funding."
+      ],
+      "url": "https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11",
+      "source": "businessinsider.com",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-11-06T00:40:20Z"
     }
   ],
   "today": [
+    {
+      "id": "ec13bd7e9197",
+      "title": "Instagram",
+      "summary": "破局軟件庫： OpenXLA、JAX，以及最新聯手 Meta 重磅開源嘅 TorchTPU。特別係 TorchTPU，開發者幾乎只需要將原本對應 CUDA 嘅代碼由 model.to(\"cuda\") 改為 model.to(\"tpu\")，再配合跨平台底層算子庫 Tokamax（支援 TPU 與 GPU 共用），就可以無縫將原本跑喺 CUDA 上面嘅 PyTorch 模型直接搬去 TPU 運行。  ...",
+      "highlights": [
+        "破局軟件庫： OpenXLA、JAX，以及最新聯手 Meta 重磅開源嘅 TorchTPU",
+        "特別係 TorchTPU，開發者幾乎只需要將原本對應 CUDA 嘅代碼由 model.to(\"cuda\") 改為 model.to(\"tpu\")，再配合跨平台底層算子庫 Tokamax（支援 TPU 與 GPU 共用），就可以無縫將原本跑喺 CUDA 上面嘅 PyTorch 模型直接搬去 TPU 運行",
+        "Amazon（AWS）："
+      ],
+      "url": "https://www.instagram.com/p/DfMS4gRkhMl",
+      "source": "instagram.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-07T11:58:30Z"
+    },
     {
       "id": "2abcbee30f6a",
       "title": "Chinese Spy Who Targeted Jensen Huang Worked Directly for China's Top Spy Agency: Report - Gizmodo",
@@ -533,19 +535,6 @@
       "publishedAt": "2026-11-05T07:00:00Z"
     },
     {
-      "id": "66796b992efa",
-      "title": "OpenAI launches Images 2.6 with GIFs and image reference - TestingCatalog AI News",
-      "summary": "# OpenAI launches Images 2.6 with GIFs and image reference. Images 2.6 adds GIF creation in ChatGPT and Codex, plus Flare and Sunburst API models with SVG exports and image markup. OpenAI is rolling o...",
-      "highlights": [
-        "# OpenAI launches Images 2.6 with GIFs and image reference. Images 2.6 adds GIF creation in ChatGPT and Codex, plus Flare and Sunburst API models with SVG exports and image markup. OpenAI is rolling out Images 2.6 globally in ChatGPT and Codex across every subscription tier on desktop, mobile, and the web, while GPT-Image-2.6 Flare and Sunburst are now available through the API. OpenAI says the release generates images 50% faster than before, as use across its products has reached 4 billion images per week. Sunburst is designed for greater detail and more consistent edits at medium or high quality. Images 2.6 also brings ChatGPT's image markup to the API, so teams can identify precise areas for changes. OpenAI recommends low complexity for most quick edits, reserving medium or high settings for scenes with many elements or constraints. * OpenAI API image-generation pricing: Supports: OpenAI's pricing table lists GPT-Image-2.6 Flare and Sunburst, supporting the article's identification of the two API models."
-      ],
-      "url": "https://www.testingcatalog.com/openai-launches-images-2-6-with-gifs-and-image-reference/",
-      "source": "testingcatalog.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-05T00:44:16Z"
-    },
-    {
       "id": "760f3015ca4d",
       "title": "OpenAI’s GPT-6 Cyber found 81 new Firefox flaws and is rated ‘Critical’ - The Next Web",
       "summary": "OpenAI has released GPT-6 Cyber, a security model it says beats all its earlier models at finding and exploiting software flaws. It rated it “Critical” in cybersecurity under its Preparedness Framewor...",
@@ -557,6 +546,49 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-11-05T17:24:04Z"
+    },
+    {
+      "id": "e4eeddd9377d",
+      "title": "投资界24h|昨晚，美科技股历史性暴跌；河南最大IPO，下周上会；长鑫成立一家投资公司_投资界",
+      "summary": "11月5日犀燃医疗已于近日完成B+轮近亿元融资。本轮融资由约印医疗基金领投，珠海科技产业集团跟投，涵宇资本担任本轮独家财务顾问。\n\n阅读全文\n\n文章来源：投资界  \n原文地址：\n\n人工智能投融资深交所AI超聚变数字技术Cat Wu\n\n### Copyright版权与免责声明\n\n版权声明\n\n【本文为投资界原创，网页转载须在文首注明来源投资界（微信公众号ID：PEdaily2012）及作者。微信转载请...",
+      "highlights": [
+        "11月5日犀燃医疗已于近日完成B+轮近亿元融资",
+        "本轮融资由约印医疗基金领投，珠海科技产业集团跟投，涵宇资本担任本轮独家财务顾问",
+        "人工智能投融资深交所AI超聚变数字技术Cat Wu"
+      ],
+      "url": "https://news.pedaily.cn/202611/571426.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-06T00:50:00Z"
+    },
+    {
+      "id": "7a906c684aff",
+      "title": "发布“地球最强”模型仅几天后 OpenAI首席科学家发长文呼吁放慢AI开发",
+      "summary": "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”。他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标。\n\n他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行。\n\nOpenAI首席执行官奥尔特曼（Sam Altman）在...",
+      "highlights": [
+        "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”",
+        "他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标",
+        "他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行"
+      ],
+      "url": "https://www.cls.cn/detail/2475526",
+      "source": "cls.cn",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-11-05T14:00:00Z"
+    },
+    {
+      "id": "66796b992efa",
+      "title": "OpenAI launches Images 2.6 with GIFs and image reference - TestingCatalog AI News",
+      "summary": "# OpenAI launches Images 2.6 with GIFs and image reference. Images 2.6 adds GIF creation in ChatGPT and Codex, plus Flare and Sunburst API models with SVG exports and image markup. OpenAI is rolling o...",
+      "highlights": [
+        "# OpenAI launches Images 2.6 with GIFs and image reference. Images 2.6 adds GIF creation in ChatGPT and Codex, plus Flare and Sunburst API models with SVG exports and image markup. OpenAI is rolling out Images 2.6 globally in ChatGPT and Codex across every subscription tier on desktop, mobile, and the web, while GPT-Image-2.6 Flare and Sunburst are now available through the API. OpenAI says the release generates images 50% faster than before, as use across its products has reached 4 billion images per week. Sunburst is designed for greater detail and more consistent edits at medium or high quality. Images 2.6 also brings ChatGPT's image markup to the API, so teams can identify precise areas for changes. OpenAI recommends low complexity for most quick edits, reserving medium or high settings for scenes with many elements or constraints. * OpenAI API image-generation pricing: Supports: OpenAI's pricing table lists GPT-Image-2.6 Flare and Sunburst, supporting the article's identification of the two API models."
+      ],
+      "url": "https://www.testingcatalog.com/openai-launches-images-2-6-with-gifs-and-image-reference/",
+      "source": "testingcatalog.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-05T00:44:16Z"
     },
     {
       "id": "dba1131e9d93",
@@ -602,36 +634,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-11-05T03:00:00Z"
-    },
-    {
-      "id": "e4eeddd9377d",
-      "title": "投资界24h|昨晚，美科技股历史性暴跌；河南最大IPO，下周上会；长鑫成立一家投资公司_投资界",
-      "summary": "11月5日犀燃医疗已于近日完成B+轮近亿元融资。本轮融资由约印医疗基金领投，珠海科技产业集团跟投，涵宇资本担任本轮独家财务顾问。\n\n阅读全文\n\n文章来源：投资界  \n原文地址：\n\n人工智能投融资深交所AI超聚变数字技术Cat Wu\n\n### Copyright版权与免责声明\n\n版权声明\n\n【本文为投资界原创，网页转载须在文首注明来源投资界（微信公众号ID：PEdaily2012）及作者。微信转载请...",
-      "highlights": [
-        "11月5日犀燃医疗已于近日完成B+轮近亿元融资",
-        "本轮融资由约印医疗基金领投，珠海科技产业集团跟投，涵宇资本担任本轮独家财务顾问",
-        "人工智能投融资深交所AI超聚变数字技术Cat Wu"
-      ],
-      "url": "https://news.pedaily.cn/202611/571426.shtml",
-      "source": "news.pedaily.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-06T00:50:00Z"
-    },
-    {
-      "id": "7a906c684aff",
-      "title": "发布“地球最强”模型仅几天后 OpenAI首席科学家发长文呼吁放慢AI开发",
-      "summary": "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”。他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标。\n\n他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行。\n\nOpenAI首席执行官奥尔特曼（Sam Altman）在...",
-      "highlights": [
-        "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”",
-        "他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标",
-        "他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行"
-      ],
-      "url": "https://www.cls.cn/detail/2475526",
-      "source": "cls.cn",
-      "category": "前沿理论",
-      "importance": 5,
-      "publishedAt": "2026-11-05T14:00:00Z"
     },
     {
       "id": "a6ff687cba66",
@@ -756,19 +758,6 @@
       "publishedAt": "2026-11-05T07:00:00Z"
     },
     {
-      "id": "66796b992efa",
-      "title": "OpenAI launches Images 2.6 with GIFs and image reference - TestingCatalog AI News",
-      "summary": "# OpenAI launches Images 2.6 with GIFs and image reference. Images 2.6 adds GIF creation in ChatGPT and Codex, plus Flare and Sunburst API models with SVG exports and image markup. OpenAI is rolling o...",
-      "highlights": [
-        "# OpenAI launches Images 2.6 with GIFs and image reference. Images 2.6 adds GIF creation in ChatGPT and Codex, plus Flare and Sunburst API models with SVG exports and image markup. OpenAI is rolling out Images 2.6 globally in ChatGPT and Codex across every subscription tier on desktop, mobile, and the web, while GPT-Image-2.6 Flare and Sunburst are now available through the API. OpenAI says the release generates images 50% faster than before, as use across its products has reached 4 billion images per week. Sunburst is designed for greater detail and more consistent edits at medium or high quality. Images 2.6 also brings ChatGPT's image markup to the API, so teams can identify precise areas for changes. OpenAI recommends low complexity for most quick edits, reserving medium or high settings for scenes with many elements or constraints. * OpenAI API image-generation pricing: Supports: OpenAI's pricing table lists GPT-Image-2.6 Flare and Sunburst, supporting the article's identification of the two API models."
-      ],
-      "url": "https://www.testingcatalog.com/openai-launches-images-2-6-with-gifs-and-image-reference/",
-      "source": "testingcatalog.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-05T00:44:16Z"
-    },
-    {
       "id": "760f3015ca4d",
       "title": "OpenAI’s GPT-6 Cyber found 81 new Firefox flaws and is rated ‘Critical’ - The Next Web",
       "summary": "OpenAI has released GPT-6 Cyber, a security model it says beats all its earlier models at finding and exploiting software flaws. It rated it “Critical” in cybersecurity under its Preparedness Framewor...",
@@ -782,34 +771,47 @@
       "publishedAt": "2026-11-05T17:24:04Z"
     },
     {
-      "id": "dba1131e9d93",
-      "title": "华尔街通宵抢单，中国生意太香了_投资界",
-      "summary": "版权声明\n\n【本文由投资界合作伙伴凤凰网授权发布，本平台仅提供信息存储服务。】  \n【免责声明】：本文不构成任何投资建议。市场有风险，投资需谨慎。  \n如有任何疑问，请联系（editor@zero2ipo.com.cn）投资界处理。\n\n### Read Next推荐阅读\n\n ### 刚刚，OpenAI收购Pierre，Codex要对Git下手？\n\n  机器之心2026-11-05\n ### AI绑...",
+      "id": "e4eeddd9377d",
+      "title": "投资界24h|昨晚，美科技股历史性暴跌；河南最大IPO，下周上会；长鑫成立一家投资公司_投资界",
+      "summary": "11月5日犀燃医疗已于近日完成B+轮近亿元融资。本轮融资由约印医疗基金领投，珠海科技产业集团跟投，涵宇资本担任本轮独家财务顾问。\n\n阅读全文\n\n文章来源：投资界  \n原文地址：\n\n人工智能投融资深交所AI超聚变数字技术Cat Wu\n\n### Copyright版权与免责声明\n\n版权声明\n\n【本文为投资界原创，网页转载须在文首注明来源投资界（微信公众号ID：PEdaily2012）及作者。微信转载请...",
       "highlights": [
-        "【本文由投资界合作伙伴凤凰网授权发布，本平台仅提供信息存储服务",
-        "【免责声明】：本文不构成任何投资建议",
-        "市场有风险，投资需谨慎"
+        "11月5日犀燃医疗已于近日完成B+轮近亿元融资",
+        "本轮融资由约印医疗基金领投，珠海科技产业集团跟投，涵宇资本担任本轮独家财务顾问",
+        "人工智能投融资深交所AI超聚变数字技术Cat Wu"
       ],
-      "url": "https://news.pedaily.cn/202611/571372.shtml",
+      "url": "https://news.pedaily.cn/202611/571426.shtml",
       "source": "news.pedaily.cn",
       "category": "投并购",
       "importance": 5,
-      "publishedAt": "2026-11-04T23:45:00Z"
+      "publishedAt": "2026-11-06T00:50:00Z"
     },
     {
-      "id": "3ae23e5625e7",
-      "title": "让2000名工程师使用中国大模型，这家英国企业实现了“词元自由”_凤凰网",
-      "summary": "今年4月，中国AI企业智谱推出了GLM-5.1大模型。Revolut迅速开始研究将其进行本地化部署，结果发现GLM-5.1的使用成本仅为Claude Code的十分之一。不仅如此，由于成本极低，词元使用量不再受限，员工开始使用AI处理邮件、调试、项目管理等其他问题，工作效率显著提升。之后，新一代智谱大模型GLM-5.3推出后，Revolut仅用56块英伟达B200 GPU就实现了本地化部署。 [....",
+      "id": "7a906c684aff",
+      "title": "发布“地球最强”模型仅几天后 OpenAI首席科学家发长文呼吁放慢AI开发",
+      "summary": "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”。他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标。\n\n他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行。\n\nOpenAI首席执行官奥尔特曼（Sam Altman）在...",
       "highlights": [
-        "今年4月，中国AI企业智谱推出了GLM-5.1大模型",
-        "Revolut迅速开始研究将其进行本地化部署，结果发现GLM-5.1的使用成本仅为Claude Code的十分之一",
-        "不仅如此，由于成本极低，词元使用量不再受限，员工开始使用AI处理邮件、调试、项目管理等其他问题，工作效率显著提升"
+        "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”",
+        "他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标",
+        "他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行"
       ],
-      "url": "https://news.ifeng.com/c/8xniENUYxGE",
-      "source": "news.ifeng.com",
+      "url": "https://www.cls.cn/detail/2475526",
+      "source": "cls.cn",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-11-05T14:00:00Z"
+    },
+    {
+      "id": "66796b992efa",
+      "title": "OpenAI launches Images 2.6 with GIFs and image reference - TestingCatalog AI News",
+      "summary": "# OpenAI launches Images 2.6 with GIFs and image reference. Images 2.6 adds GIF creation in ChatGPT and Codex, plus Flare and Sunburst API models with SVG exports and image markup. OpenAI is rolling o...",
+      "highlights": [
+        "# OpenAI launches Images 2.6 with GIFs and image reference. Images 2.6 adds GIF creation in ChatGPT and Codex, plus Flare and Sunburst API models with SVG exports and image markup. OpenAI is rolling out Images 2.6 globally in ChatGPT and Codex across every subscription tier on desktop, mobile, and the web, while GPT-Image-2.6 Flare and Sunburst are now available through the API. OpenAI says the release generates images 50% faster than before, as use across its products has reached 4 billion images per week. Sunburst is designed for greater detail and more consistent edits at medium or high quality. Images 2.6 also brings ChatGPT's image markup to the API, so teams can identify precise areas for changes. OpenAI recommends low complexity for most quick edits, reserving medium or high settings for scenes with many elements or constraints. * OpenAI API image-generation pricing: Supports: OpenAI's pricing table lists GPT-Image-2.6 Flare and Sunburst, supporting the article's identification of the two API models."
+      ],
+      "url": "https://www.testingcatalog.com/openai-launches-images-2-6-with-gifs-and-image-reference/",
+      "source": "testingcatalog.com",
       "category": "模型发布",
       "importance": 5,
-      "publishedAt": "2026-11-05T02:47:44Z"
+      "publishedAt": "2026-11-05T00:44:16Z"
     }
   ]
 }
