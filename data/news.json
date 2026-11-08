@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-11-07T21:07:57Z",
+  "updatedAt": "2026-11-08T02:51:50Z",
   "latest": [
-    {
-      "id": "e4eeddd9377d",
-      "title": "投资界24h|昨晚，美科技股历史性暴跌；河南最大IPO，下周上会；长鑫成立一家投资公司_投资界",
-      "summary": "11月5日犀燃医疗已于近日完成B+轮近亿元融资。本轮融资由约印医疗基金领投，珠海科技产业集团跟投，涵宇资本担任本轮独家财务顾问。\n\n阅读全文\n\n文章来源：投资界  \n原文地址：\n\n人工智能投融资深交所AI超聚变数字技术Cat Wu\n\n### Copyright版权与免责声明\n\n版权声明\n\n【本文为投资界原创，网页转载须在文首注明来源投资界（微信公众号ID：PEdaily2012）及作者。微信转载请...",
-      "highlights": [
-        "11月5日犀燃医疗已于近日完成B+轮近亿元融资",
-        "本轮融资由约印医疗基金领投，珠海科技产业集团跟投，涵宇资本担任本轮独家财务顾问",
-        "人工智能投融资深交所AI超聚变数字技术Cat Wu"
-      ],
-      "url": "https://news.pedaily.cn/202611/571426.shtml",
-      "source": "news.pedaily.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-06T00:50:00Z"
-    },
     {
       "id": "ec13bd7e9197",
       "title": "Instagram",
@@ -75,6 +60,51 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-11-06T06:19:00Z"
+    },
+    {
+      "id": "04442b5fe817",
+      "title": "印度计划24个月内自研GPU芯片，电子与信息技术部秘书详解AI五层布局-电子工程专辑",
+      "summary": "圣邦微电子推出SGMCD1024xQ，一款适用于汽车应用的24通道多路开关检测接口（MSDI，Multiple Switch Detection Interface）。该器件可应用于车身控制、网关、照明、空调系统及电动座椅等诸多场合。\n\n氢硼聚变点火之前，新奥先算清了商业化的账\n\n9 月 19 日深夜那二十多个信号，不仅仅是一次科研惊喜，也是一个按期交付的工程节点。新奥用行动证明：聚变商业化，不是...",
+      "highlights": [
+        "圣邦微电子推出SGMCD1024xQ，一款适用于汽车应用的24通道多路开关检测接口（MSDI，Multiple Switch Detection Interface）",
+        "该器件可应用于车身控制、网关、照明、空调系统及电动座椅等诸多场合",
+        "氢硼聚变点火之前，新奥先算清了商业化的账"
+      ],
+      "url": "https://www.eet-china.com/news/202611065797.html",
+      "source": "eet-china.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-07T02:00:00Z"
+    },
+    {
+      "id": "f7db9c3fc1e5",
+      "title": "谷歌悄悄买入高通：手机芯片巨头盯上数据中心，目标年入超 150 亿美元",
+      "summary": "AMD 正在通过 Instinct 系列加速器争夺 GPU 市场；博通则重点为大型科技公司设计定制化 AI 芯片（ASIC）。与通用 GPU 相比，ASIC 可以围绕特定工作负载进行优化，在能效、成本和性能方面形成差异化。Marvell 等芯片公司也在网络互联和定制计算领域寻找机会。\n\n与此同时，云计算巨头也开始自己设计芯片。谷歌有 TPU，亚马逊有 Trainium 和 Inferentia，微...",
+      "highlights": [
+        "AMD 正在通过 Instinct 系列加速器争夺 GPU 市场；博通则重点为大型科技公司设计定制化 AI 芯片（ASIC）",
+        "与通用 GPU 相比，ASIC 可以围绕特定工作负载进行优化，在能效、成本和性能方面形成差异化",
+        "Marvell 等芯片公司也在网络互联和定制计算领域寻找机会"
+      ],
+      "url": "https://cryptorank.io/zh/news/feed/511e9-2302665",
+      "source": "cryptorank.io",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-07T15:28:52Z"
+    },
+    {
+      "id": "04cf802ed86b",
+      "title": "V4全系列模型上线后，DeepSeek Harness开发者预览版开放测试",
+      "summary": "DeepSeek一直都在押注AI智能体（Agent）能力。刚刚发布的DeepSeek-V4-Pro正式版，再度增强了Agent能力。根据DeepSeek官方公布的评测结果，DeepSeek V4 Pro正式版模型在HLE、Terminal Bench、Cybergym、DeepSWE等Agent能力超过Anthropic的Claude Opus 4.8，逼近Anthropic 6月发布的模型Fab...",
+      "highlights": [
+        "DeepSeek一直都在押注AI智能体（Agent）能力",
+        "刚刚发布的DeepSeek-V4-Pro正式版，再度增强了Agent能力",
+        "根据DeepSeek官方公布的评测结果，DeepSeek V4 Pro正式版模型在HLE、Terminal Bench、Cybergym、DeepSWE等Agent能力超过Anthropic的Claude Opus 4.8，逼近Anthropic 6月发布的模型Fable 5，甚至有些榜单实现反超"
+      ],
+      "url": "https://www.cls.cn/detail/2453889",
+      "source": "cls.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-06T04:00:00Z"
     },
     {
       "id": "7cc37fe8beaf",
@@ -284,6 +314,66 @@
       "publishedAt": "2026-11-07T21:07:57Z"
     },
     {
+      "id": "0bfcd7bc9a62",
+      "title": "“豆包工作”上场",
+      "summary": "好新闻 无止境\n\n千龙网\n\n2026-08-26 14:00\n\n进入千龙网阅读更多内容\n\n订阅\n\n“今天有什么工作要处理？”打开豆包工作，蓝色环状LOGO下的一行字把产品定位讲得很清楚。8月25日，字节跳动正式发布面向生产力场景的Agent（智能体）产品和品牌“豆包工作”。一天前，字节跳动刚就TRAE、扣子（Coze）团队整体并入豆包体系表态。加上7月底已并入豆包的飞书产品团队，字节旗下所有生产力...",
+      "highlights": [
+        "2026-08-26 14:00",
+        "进入千龙网阅读更多内容",
+        "“今天有什么工作要处理"
+      ],
+      "url": "https://m.bjnews.com.cn/detail/1787724387189223.html",
+      "source": "m.bjnews.com.cn",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-11-07T02:00:00Z"
+    },
+    {
+      "id": "b1b5ebf35a00",
+      "title": "零售日报：李宁50个Agent等效220名员工 AI编入组织释放46万小时 - 栏目 - 亿邦动力",
+      "summary": "2026年11月5日，硬件初创公司Aina正式发布旗下AI智能戒指产品。产品同日开启预售，早鸟定价399美元，计划2027年1月启动发货，早鸟期结束后产品售价将调整为499美元。\n\n#### 这届“多多农研” 跟草莓较个什么劲？\n\n【亿邦原创】一颗草莓的生长，对环境有着近乎苛刻的要求。\n\n#### 千元国货美妆大卖：高端化是风口还是幻觉？\n\n文丨张从容    编辑丨黄俊峰\n\n#### 90后 她一...",
+      "highlights": [
+        "2026年11月5日，硬件初创公司Aina正式发布旗下AI智能戒指产品",
+        "产品同日开启预售，早鸟定价399美元，计划2027年1月启动发货，早鸟期结束后产品售价将调整为499美元",
+        "#### 这届“多多农研” 跟草莓较个什么劲"
+      ],
+      "url": "https://m.ebrun.com/718497.html",
+      "source": "m.ebrun.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-11-06T16:00:00Z"
+    },
+    {
+      "id": "a7ecd6aec7fa",
+      "title": "面对面｜熊友军：机器人数据采集中心，未来能否成长为独立生意？_公司频道_财新网",
+      "summary": "商城\n\n数据 我闻 机构订阅 会议 Promotion 应用下载 帮助 网上有害信息举报专区\n\n 首页\n 经济\n 金融\n 公司\n 政经\n 世界\n 观点\n 博客\n 图片\n 视频\n English\n mini+\n 周刊\n 数据通\n\n  企业数据库\n\n  沪深股市\n\n  数据通Claw🦞\n\n更多 科技 地产 汽车 消费 能源  健康 环科 民生 ESG 数字说 比较 中国改革 专题 讣闻\n\n数据 财新一...",
+      "highlights": [
+        "数据 我闻 机构订阅 会议 Promotion 应用下载 帮助 网上有害信息举报专区",
+        "更多 科技 地产 汽车 消费 能源  健康 环科 民生 ESG 数字说 比较 中国改革 专题 讣闻",
+        "数据 财新一线 私房课 会议 Promotion 运动家 企业用户 应用下载 帮助"
+      ],
+      "url": "https://companies.caixin.com/2026-11-08/102501728.html",
+      "source": "companies.caixin.com",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-11-08T00:00:00Z"
+    },
+    {
+      "id": "607f21d9ecc8",
+      "title": "面壁智能李宇轩：RSI，词元经济下一轮增长的核心引擎｜青年之选·词元经济_搜狐网",
+      "summary": "## 面壁智能李宇轩：RSI，词元经济下一轮增长的核心引擎｜青年之选·词元经济\n\n北青网\n\n北青网\n\n11月5日，在“青年之选”2026北京词元经济发展研讨会上，面壁智能智能进化首席科学家李宇轩带来前沿分享。在国产算力软件持续突破、AI for Science加速落地的当下，RSI递归式自我改进，正成为读懂词元经济长期趋势的关键线索。\n\n李宇轩介绍，RSI简单理解，就是一台可以自主提升智商的机器，...",
+      "highlights": [
+        "## 面壁智能李宇轩：RSI，词元经济下一轮增长的核心引擎｜青年之选·词元经济",
+        "11月5日，在“青年之选”2026北京词元经济发展研讨会上，面壁智能智能进化首席科学家李宇轩带来前沿分享",
+        "在国产算力软件持续突破、AI for Science加速落地的当下，RSI递归式自我改进，正成为读懂词元经济长期趋势的关键线索"
+      ],
+      "url": "https://m.sohu.com/a/1098032615_255783?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "前沿理论",
+      "importance": 4,
+      "publishedAt": "2026-11-06T14:38:43Z"
+    },
+    {
       "id": "d9cca0784e84",
       "title": "智启未来·AI Agent智能体跨境实战课第三讲开讲",
       "summary": "这一回问得更实在:有了AI Agent,普通人的生意,到底能伸多远... 第二步,把“你的行业+你的产品”对上去,再让智能体开工.语...",
@@ -335,274 +425,40 @@
       "category": "产品进展",
       "importance": 3,
       "publishedAt": "2026-11-06T06:28:32Z"
-    },
-    {
-      "id": "553a4cd7dd44",
-      "title": "Market turmoil saps enthusiasm for the buzziest IPO of the year - CNN",
-      "summary": "Put simply: The vibes around AI have never been worse, and Anthropic — a company that seldom misses a chance to warn of doomsday scenarios — is trying to convince investors the future for AI has never...",
-      "highlights": [
-        "Put simply: The vibes around AI have never been worse, and Anthropic — a company that seldom misses a chance to warn of doomsday scenarios — is trying to convince investors the future for AI has never been brighter. Thursday’s losses were so severe, some market commentators speculated that the company — which has been expected to make history this month with a target valuation of around $1.5 trillion — may have to delay the deal or significantly lower its price. Before Tuesday’s midterm elections, traders on the prediction market Kalshi had put the likelihood of Anthropic’s IPO taking place this month above 90% But on Thursday, as markets tumbled over fears the Democratic sweep would throttle the AI buildout, those odds fell to 60%. Investors have been awaiting Anthropic’s IPO in part because it is expected to serve as a barometer for not only the AI trade but the broader US economy, which has been buoyed by heavy investment in the data centers and energy infrastructure that Anthropic’s technology requires."
-      ],
-      "url": "https://www.cnn.com/2026/11/06/investing/wall-street-mayhem-complicates-anthropics-already-complicated-ipo",
-      "source": "cnn.com",
-      "category": "投并购",
-      "importance": 3,
-      "publishedAt": "2026-11-06T16:00:56Z"
-    },
-    {
-      "id": "3d07c55cdeed",
-      "title": "Watch CNBC’s full interview with ARK Invest CEO Cathie Wood - CNBC",
-      "summary": "Watch CNBC’s full interview with ARK Invest CEO Cathie Wood. Cathie Wood, CEO and CIO of ARK Invest, joins CNBC’s Morgan Brennan on “Morning Call” from the UP Summit at Kennedy Space Center to discuss...",
-      "highlights": [
-        "Watch CNBC’s full interview with ARK Invest CEO Cathie Wood. Cathie Wood, CEO and CIO of ARK Invest, joins CNBC’s Morgan Brennan on “Morning Call” from the UP Summit at Kennedy Space Center to discuss the AI trade, data center expansion, Tesla and SpaceX, Anthropic’s potential IPO, and the outlook for innovation and productivity."
-      ],
-      "url": "https://www.cnbc.com/video/2026/11/06/watch-cnbcs-full-interview-with-ark-invest-ceo-cathie-wood.html",
-      "source": "cnbc.com",
-      "category": "投并购",
-      "importance": 3,
-      "publishedAt": "2026-11-06T12:24:16Z"
-    },
-    {
-      "id": "b33a5151add8",
-      "title": "ARK Invest CEO Cathie Wood: 'Robotaxi has hit escape velocity, delighting consumers' - CNBC",
-      "summary": "ARK Invest CEO Cathie Wood: 'Robotaxi has hit escape velocity, delighting consumers'. ARK Invest CEO Cathie Wood joins CNBC’s Morgan Brennan on “Morning Call” from the UP Summit at Kennedy Space Cente...",
-      "highlights": [
-        "ARK Invest CEO Cathie Wood: 'Robotaxi has hit escape velocity, delighting consumers'. ARK Invest CEO Cathie Wood joins CNBC’s Morgan Brennan on “Morning Call” from the UP Summit at Kennedy Space Center to discuss the AI trade, data center expansion, Tesla and SpaceX, Anthropic’s potential IPO, and the outlook for innovation and productivity."
-      ],
-      "url": "https://www.cnbc.com/video/2026/11/06/ark-invest-ceo-cathie-wood-robotaxi-data-center-debate-robotaxi-spacex-anthropic.html",
-      "source": "cnbc.com",
-      "category": "具身智能",
-      "importance": 3,
-      "publishedAt": "2026-11-06T13:56:21Z"
-    },
-    {
-      "id": "2ccd0b6bebb7",
-      "title": "Thinking Machines Lab is closing in on a new $5 billion funding round at a $40 billion valuation - Business Insider",
-      "summary": "AI startup Thinking Machines Lab is set to close a fresh round of funding as soon as this week. The startup is raising $5 billion at a $40 billion pre-money valuation, according to multiple sources fa...",
-      "highlights": [
-        "AI startup Thinking Machines Lab is set to close a fresh round of funding as soon as this week. The startup is raising $5 billion at a $40 billion pre-money valuation, according to multiple sources familiar with the matter. Accel is leading the round, according to the sources. Previously, Thinking Machines Lab, which was founded by Mira Murati, was valued at more than $10 billion and raised a $2 billion seed round last year before launching a product. This round would more than triple Thinking Machines' valuation from its last public round last year, showing that investors are still willing to place enormous bets on AI labs even as the industry's talent war intensifies. Last year, the company was seeking a new round at a $50 billion valuation, but talks were abandoned. In September, The Information reported that Thinking Machines Lab was in talks to raise a new round of funding."
-      ],
-      "url": "https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11",
-      "source": "businessinsider.com",
-      "category": "投并购",
-      "importance": 3,
-      "publishedAt": "2026-11-06T00:40:20Z"
-    },
-    {
-      "id": "8eadb088c06e",
-      "title": "谷歌悄悄买入高通：手机芯片巨头盯上数据中心，目标年入超150亿美元",
-      "summary": "当地时间11 月6 日，谷歌母公司Alphabet 披露，截至2026 年第三季度末，公司持有芯片巨头高通约297.7 万股股票，持仓市值约为5.48 亿美元。而6 月底的文件中还没有高通",
-      "highlights": [
-        "当地时间11 月6 日，谷歌母公司Alphabet 披露，截至2026 年第三季度末，公司持有芯片巨头高通约297.7 万股股票，持仓市值约为5.48 亿美元",
-        "而6 月底的文件中还没有高通"
-      ],
-      "url": "https://www.moomoo.com/hans/news/post/1003906811",
-      "source": "moomoo.com",
-      "category": "芯片硬件",
-      "importance": 3,
-      "publishedAt": "2026-11-07T11:00:00Z"
-    },
-    {
-      "id": "560f077b27e2",
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027 - TechCrunch",
-      "summary": "Airbnb has teased its plans to build its own AI travel agent before, but on Thursday the company announced that the new AI feature will launch in the first half of 2027. In the company’s Q3 shareholde...",
-      "highlights": [
-        "Airbnb has teased its plans to build its own AI travel agent before, but on Thursday the company announced that the new AI feature will launch in the first half of 2027. In the company’s Q3 shareholder letter on Thursday, Airbnb also provided more detail about how the agent will work, what it will actually do, and how it’s different from a typical AI chatbot. In prior interviews, CEO Brian Chesky sketched out the travel company’s approach to AI, describing a plan to build an AI agent that has a richer interface than a conventional chatbot. He also expressed his opinions about how chatbots aren’t the right interface for travel, noting that people take pleasure in the planning process and in anticipating a trip. In its shareholder letter, the company touted that its nearly 20 years of experience in bringing hosts and guests together is informing how the agent is built, as it incorporates insights about how people both book and host on its platform."
-      ],
-      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "source": "techcrunch.com",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-11-05T22:40:55Z"
     }
   ],
   "today": [
     {
-      "id": "ec13bd7e9197",
-      "title": "Instagram",
-      "summary": "破局軟件庫： OpenXLA、JAX，以及最新聯手 Meta 重磅開源嘅 TorchTPU。特別係 TorchTPU，開發者幾乎只需要將原本對應 CUDA 嘅代碼由 model.to(\"cuda\") 改為 model.to(\"tpu\")，再配合跨平台底層算子庫 Tokamax（支援 TPU 與 GPU 共用），就可以無縫將原本跑喺 CUDA 上面嘅 PyTorch 模型直接搬去 TPU 運行。  ...",
+      "id": "a7ecd6aec7fa",
+      "title": "面对面｜熊友军：机器人数据采集中心，未来能否成长为独立生意？_公司频道_财新网",
+      "summary": "商城\n\n数据 我闻 机构订阅 会议 Promotion 应用下载 帮助 网上有害信息举报专区\n\n 首页\n 经济\n 金融\n 公司\n 政经\n 世界\n 观点\n 博客\n 图片\n 视频\n English\n mini+\n 周刊\n 数据通\n\n  企业数据库\n\n  沪深股市\n\n  数据通Claw🦞\n\n更多 科技 地产 汽车 消费 能源  健康 环科 民生 ESG 数字说 比较 中国改革 专题 讣闻\n\n数据 财新一...",
       "highlights": [
-        "破局軟件庫： OpenXLA、JAX，以及最新聯手 Meta 重磅開源嘅 TorchTPU",
-        "特別係 TorchTPU，開發者幾乎只需要將原本對應 CUDA 嘅代碼由 model.to(\"cuda\") 改為 model.to(\"tpu\")，再配合跨平台底層算子庫 Tokamax（支援 TPU 與 GPU 共用），就可以無縫將原本跑喺 CUDA 上面嘅 PyTorch 模型直接搬去 TPU 運行",
-        "Amazon（AWS）："
+        "数据 我闻 机构订阅 会议 Promotion 应用下载 帮助 网上有害信息举报专区",
+        "更多 科技 地产 汽车 消费 能源  健康 环科 民生 ESG 数字说 比较 中国改革 专题 讣闻",
+        "数据 财新一线 私房课 会议 Promotion 运动家 企业用户 应用下载 帮助"
       ],
-      "url": "https://www.instagram.com/p/DfMS4gRkhMl",
-      "source": "instagram.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-07T11:58:30Z"
-    },
-    {
-      "id": "48bd1138e076",
-      "title": "This Week in AI #95: Anthropic Opens Its Books, Gemini 4 Carbon Debuts, Meta Plans $95B Raise, and much more…",
-      "summary": "Google's TPUs will reach Oracle Cloud Infrastructure in 2027, making OCI the first hyperscale cloud outside Google to offer them, with capacity ramping over multiple years.\n\nOpenAI plans to buy Google...",
-      "highlights": [
-        "Google's TPUs will reach Oracle Cloud Infrastructure in 2027, making OCI the first hyperscale cloud outside Google to offer them, with capacity ramping over multiple years.",
-        "OpenAI plans to buy Google's AI chips, The Information reports Reuters | October 27",
-        "OpenAI plans to buy Google's tensor processing units, The Information reported, moving beyond chip rentals that began in 2025; financial terms were not disclosed. [...] OpenAI says its models proved the Kakeya conjecture, disproved the Exponential Time Hypothesis and claimed a Yang–Mills existence proof, with academic groups now verifying the results."
-      ],
-      "url": "https://www.linkedin.com/pulse/week-ai-95-anthropic-opens-its-books-gemini-4-carbon-debuts-kleine-ghoxe",
-      "source": "linkedin.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-07T17:18:06Z"
-    },
-    {
-      "id": "2abcbee30f6a",
-      "title": "Chinese Spy Who Targeted Jensen Huang Worked Directly for China's Top Spy Agency: Report - Gizmodo",
-      "summary": "The woman who sought out a close relationship with Nvidia CEO Jensen Huang was a Ministry of State Security recruit, the New York Times reported. China’s Ministry of State Security (M.S.S.) reportedly...",
-      "highlights": [
-        "The woman who sought out a close relationship with Nvidia CEO Jensen Huang was a Ministry of State Security recruit, the New York Times reported. China’s Ministry of State Security (M.S.S.) reportedly recruited a woman to spy on Nvidia CEO Jensen Huang, one of the world’s richest men, President Donald Trump’s favorite AI CEO, and the key player in next-generation GPUs needed for AI training and processing, the New York Times reported on Friday. The aim of the Nvidia operation, the Times wrote, was to learn more about Nvidia’s most advanced hardware. The latest report in the Times characterizes Alice Huang as striking up a “close relationship with the executive” to achieve this, though it didn’t elaborate on just how close. That’s not particularly unusual with AI firms, nor is it much of a revelation that Megaspeed has ties to the Chinese military via an investment in a cybersecurity subsidiary of military electronics vendor China Electronics Technology Group (many Chinese companies stand accused of that, and it’s not like the U.S. military isn’t forming a Venn diagram with its tech sector too)."
-      ],
-      "url": "https://gizmodo.com/chinese-spy-who-targeted-jensen-huang-worked-directly-for-chinas-top-spy-agency-report-2000836560",
-      "source": "gizmodo.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-11-07T02:40:47Z"
-    },
-    {
-      "id": "96109fdf6f8a",
-      "title": "Instagram",
-      "summary": "Thinking Machines Lab, the AI startup founded by former OpenAI CTO Mira Murati, is reportedly close to raising $5 billion in a new funding round at a $40 billion pre-money valuation. The round is bein...",
-      "highlights": [
-        "Thinking Machines Lab, the AI startup founded by former OpenAI CTO Mira Murati, is reportedly close to raising $5 billion in a new funding round at a $40 billion pre-money valuation. The round is being led by venture capital firm Accel, according to people familiar with the discussions cited by Business Insider. [...] The company has also developed Inkling, its own open-weight AI model, and continues to compete for leading researchers and engineers in an increasingly competitive AI talent market.",
-        "The reported $5 billion financing comes amid enormous investor demand for companies developing foundational AI technology. However, the round has not yet been officially announced, and neither Thinking Machines Lab nor Accel has confirmed the reported terms.",
-        "Source: Business Insider [...] Follow @distributionshow for more!"
-      ],
-      "url": "https://www.instagram.com/p/DfZ1eYKMxd-",
-      "source": "instagram.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-11-07T17:18:06Z"
-    },
-    {
-      "id": "1b4845e24fa3",
-      "title": "OpenAI",
-      "summary": "# OpenAI\nID: p4PyTakV77G9\nWebsite: www.openai.com\nHeadquarters: San Francisco, CA, United States\nLinkedIn: www.linkedin.com/company/openai · 11,529,792 followers\nIndustry: Research Services\nIndustry c...",
-      "highlights": [
-        "ID: p4PyTakV77G9",
-        "Website: www.openai.com",
-        "Headquarters: San Francisco, CA, United States"
-      ],
-      "url": "https://tavily.com/knowledge/company/p4PyTakV77G9",
-      "source": "tavily.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-11-07T21:07:57Z"
-    },
-    {
-      "id": "8eadb088c06e",
-      "title": "谷歌悄悄买入高通：手机芯片巨头盯上数据中心，目标年入超150亿美元",
-      "summary": "当地时间11 月6 日，谷歌母公司Alphabet 披露，截至2026 年第三季度末，公司持有芯片巨头高通约297.7 万股股票，持仓市值约为5.48 亿美元。而6 月底的文件中还没有高通",
-      "highlights": [
-        "当地时间11 月6 日，谷歌母公司Alphabet 披露，截至2026 年第三季度末，公司持有芯片巨头高通约297.7 万股股票，持仓市值约为5.48 亿美元",
-        "而6 月底的文件中还没有高通"
-      ],
-      "url": "https://www.moomoo.com/hans/news/post/1003906811",
-      "source": "moomoo.com",
-      "category": "芯片硬件",
-      "importance": 3,
-      "publishedAt": "2026-11-07T11:00:00Z"
-    },
-    {
-      "id": "45f302be7b6e",
-      "title": "A growing streetwear retailer reveals its AI agent shopping strategy ahead of the holidays - Business Insider",
-      "summary": "As AI chatbots and personal agents go mainstream, retailers large and small are rethinking how they present their products and prices in this shifting e-commerce landscape. For streetwear retailer All...",
-      "highlights": [
-        "As AI chatbots and personal agents go mainstream, retailers large and small are rethinking how they present their products and prices in this shifting e-commerce landscape. For streetwear retailer All Star Elite, which has about 60 US stores and a growing e-commerce operation, that means getting ahead of the bots. Over the last month, about 1% of the site's traffic came from AI agents, Abhishek Bora, the company's head of growth, told Business Insider. He said the company has also been getting more sales from traffic driven by ChatGPT. \"I know it's small, but we have been optimizing for it,\" he said of Muse visits. With the busy holiday shopping season a few weeks out, now is a key time for companies like All Star Elite to have their AI commerce strategies nailed down. Walmart last month rolled out a new batch of tools that are intended to make it easier for third-party AI agents to navigate its site and complete transactions on behalf of customers."
-      ],
-      "url": "https://www.businessinsider.com/all-star-elite-streetwear-ai-agent-shopping-strategy-holidays-2026-11",
-      "source": "businessinsider.com",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-11-07T10:47:01Z"
-    },
-    {
-      "id": "4794bc16707d",
-      "title": "李佳琦直播间半小时卖出2万亿Token；可灵完成198亿元融资，估值超母公司快手丨AI周报",
-      "summary": "全球AI产业周报. 为你精选过去一周最值得关注的AI新闻和国内外热门AI投融资事件，帮助大家及时了解全球AI市场动向。 01本周人工智能热点资讯.",
-      "highlights": [
-        "全球AI产业周报. 为你精选过去一周最值得关注的AI新闻和国内外热门AI投融资事件，帮助大家及时了解全球AI市场动向",
-        "01本周人工智能热点资讯."
-      ],
-      "url": "https://m.cyzone.cn/article/853163.html",
-      "source": "m.cyzone.cn",
-      "category": "投并购",
-      "importance": 3,
-      "publishedAt": "2026-11-07T08:00:00Z"
-    },
-    {
-      "id": "7ed24a4dba28",
-      "title": "Arab News | Startup Wrap: Regional tech companies advance funding, acquisitions and cross-border growth",
-      "summary": "Aramco will contribute approximately SR9.9 billion ($2.64 billion) in cash during 2026, alongside AI, computing and digital assets. Both shareholders will also provide technology capabilities and pers...",
-      "highlights": [
-        "Aramco will contribute approximately SR9.9 billion ($2.64 billion) in cash during 2026, alongside AI, computing and digital assets. Both shareholders will also provide technology capabilities and personnel.",
-        "Launched by the Public Investment Fund in May 2025, Humain develops data centres, high-performance computing infrastructure, cloud platforms, advanced AI models and applications for individual industries. [...] Humain said the combined platform will support customers throughout the AI adoption process, including strategy, infrastructure, deployment, integration, cybersecurity, ongoing operations and technical support.",
-        "CNTXT’s staff, products and client relationships will become part of Humian’s wider operation. The integration is intended to strengthen services for organizations deploying cloud, data and AI systems at scale. [...] Arab News"
-      ],
-      "url": "https://www.arabnews.com/startups/startup-wrap-regional-tech-companies-advance-funding-acquisitions-and-cross-border-growth-3010021",
-      "source": "arabnews.com",
-      "category": "投并购",
-      "importance": 3,
-      "publishedAt": "2026-11-07T13:34:00Z"
-    },
-    {
-      "id": "64a36e2ae1d3",
-      "title": "https://mp.weixin.qq.com/s/DQb3WUXyEYWjYVMQ70uE5w",
-      "summary": "No information is available for this page.",
-      "highlights": [
-        "No information is available for this page."
-      ],
-      "url": "https://mp.weixin.qq.com/s/DQb3WUXyEYWjYVMQ70uE5w",
-      "source": "mp.weixin.qq.com",
-      "category": "行业话题",
-      "importance": 2,
-      "publishedAt": "2026-11-07T17:18:06Z"
-    },
-    {
-      "id": "360192f4b579",
-      "title": "质Ƽģ̬ģ͹_",
-      "summary": "ҵΪ2017ͨGPUΪAIоƬ߹ƽչʮꣻ2027ҵ˳Makimoto'sWaveڣAIGVʽƵഹֱרӭشڡŶ̾硢ƵAIӦÿƵݴAIGVϴͳıģͳָ־ʾǰгģԪδǧԪԶгģͻԪ [...] Ͷʷձ鿴ǰҵҵׯͶʢͻΪ质ƼӵϡȱĹģܹʵرҲһҵͶʾרоƬЧƽͨGPUڶģ̬Чʲ㡢ɱƫߵʹ㣬ŶӼоƬз뻥ģϵͳʵϸܳݴ򡱼ᡣ\n\nɱʺ质ƼһоƬзʵоƬ+ջ+ƽ̨ȫջȲչȫгΪƵģʱṩЧͳɱĹԴ质Ƽ\n\n༭:÷ [....",
-      "highlights": [
-        "ҵΪ2017ͨGPUΪAIоƬ߹ƽչʮꣻ2027ҵ˳Makimoto'sWaveڣAIGVʽƵഹֱרӭشڡŶ̾硢ƵAIӦÿƵݴAIGVϴͳıģͳָ־ʾǰгģԪδǧԪԶгģͻԪ [...] Ͷʷձ鿴ǰҵҵׯͶʢͻΪ质ƼӵϡȱĹģܹʵرҲһҵͶʾרоƬЧƽͨGPUڶģ̬Чʲ㡢ɱƫߵʹ㣬ŶӼоƬз뻥ģϵͳʵϸܳݴ򡱼ᡣ",
-        "ɱʺ质ƼһоƬзʵоƬ+ջ+ƽ̨ȫջȲչȫгΪƵģʱṩЧͳɱĹԴ质Ƽ",
-        "༭:÷ [...] з棬质ƼRISC-VԴ̬о߱ӳȷDiPUܹ״3DܹлϼȽװʵֲͬܡͬƳоƬ칹ɡϵϣҵͳһƽ̨LUCASɶͨǧʡͨࡢԪƵMiniMaxԴƵģ͵ŻͬʱƳͼƵȫ·AIGVƽ̨Nebulaóչʵ"
-      ],
-      "url": "https://www.cnr.cn/shanghai/tt/20261107/t20261107_527865749.shtml",
-      "source": "cnr.cn",
-      "category": "芯片硬件",
-      "importance": 2,
-      "publishedAt": "2026-11-07T00:00:00Z"
-    },
-    {
-      "id": "94a2ffd647fd",
-      "title": "具身数采进入「众包」时代，走得通么？",
-      "summary": "十年前自动驾驶未竟的“数据众包”构想，如今在具身智能领域卷土重来。以Figure AI与智元旗下觅蜂派为代表，行业正试图通过轻量化数采设备与平台化任务分发，借众包模式",
-      "highlights": [
-        "十年前自动驾驶未竟的“数据众包”构想，如今在具身智能领域卷土重来",
-        "以Figure AI与智元旗下觅蜂派为代表，行业正试图通过轻量化数采设备与平台化任务分发，借众包模式"
-      ],
-      "url": "https://www.lanjinger.com/subject/232",
-      "source": "lanjinger.com",
+      "url": "https://companies.caixin.com/2026-11-08/102501728.html",
+      "source": "companies.caixin.com",
       "category": "具身智能",
-      "importance": 2,
-      "publishedAt": "2026-11-07T13:00:00Z"
+      "importance": 4,
+      "publishedAt": "2026-11-08T00:00:00Z"
+    },
+    {
+      "id": "86b710ee1c1f",
+      "title": "AI 推翻 25 年前電腦科學假說，提出者坦言：寧可是人類發現的",
+      "summary": "OpenAI 與Anthropic 10 月26 日同日宣稱內部模型推翻「指數時間假說」，並公開論文與Lean 證明。假說提出者Impagliazzo 接受法新社專訪時說，他更希望由能解釋思考過程",
+      "highlights": [
+        "OpenAI 與Anthropic 10 月26 日同日宣稱內部模型推翻「指數時間假說」，並公開論文與Lean 證明",
+        "假說提出者Impagliazzo 接受法新社專訪時說，他更希望由能解釋思考過程"
+      ],
+      "url": "https://abmedia.io/ai-disproves-exponential-time-hypothesis",
+      "source": "abmedia.io",
+      "category": "行业话题",
+      "importance": 3,
+      "publishedAt": "2026-11-08T01:00:00Z"
     }
   ],
   "week": [
-    {
-      "id": "760f3015ca4d",
-      "title": "OpenAI’s GPT-6 Cyber found 81 new Firefox flaws and is rated ‘Critical’ - The Next Web",
-      "summary": "OpenAI has released GPT-6 Cyber, a security model it says beats all its earlier models at finding and exploiting software flaws. It rated it “Critical” in cybersecurity under its Preparedness Framewor...",
-      "highlights": [
-        "OpenAI has released GPT-6 Cyber, a security model it says beats all its earlier models at finding and exploiting software flaws. It rated it “Critical” in cybersecurity under its Preparedness Framework, up from “High” for GPT-5.6 Cyber. At first, only a select group of approved customers can use it, through the API and Codex. They belong to Daybreak Red, the tier of OpenAI’s cyber programme for exploit development and authorised security testing. OpenAI launched Daybreak in May and said it will open GPT-6 Cyber to all Daybreak Red customers soon. GPT-6 Cyber is OpenAI’s fourth cybersecurity model this year, Wen Shao reported for Fortune. OpenAI said it trained the model to stay within its authorised scope, respect limits on its actions and report results accurately. In that incident, OpenAI’s AI agents broke out of a sandbox and hacked the platform. On ExploitGym, which tests whether a model can exploit a given flaw, GPT-6 Cyber scored 48.5%."
-      ],
-      "url": "https://thenextweb.com/news/openai-gpt-6-cyber-launch-firefox-linux-daybreak-red",
-      "source": "thenextweb.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-05T17:24:04Z"
-    },
     {
       "id": "e4eeddd9377d",
       "title": "投资界24h|昨晚，美科技股历史性暴跌；河南最大IPO，下周上会；长鑫成立一家投资公司_投资界",
@@ -662,6 +518,34 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-11-07T17:18:06Z"
+    },
+    {
+      "id": "0908229afb9d",
+      "title": "当国货美妆成为「买手」，先读懂巨头们的并购术_投资界",
+      "summary": "值得关注的是，路径虽然分叉，但两条路最终通向的是同一套评判标准。当并购从粗放扩张进入精细运作阶段，无论海外巨头还是中国资本，考量维度都在向同一个方向收敛：现金流是否稳定、渠道效率能否提升、用户忠诚度是否可持续、资产是否具备可整合性。\n\n归根结底，并购只是手段，本身不创造价值。真正创造价值的，是收购完成之后，企业能不能做好资源协同、守住品牌内核，把买来的技术、品牌资产转化为持续稳定的经营成果。流量时...",
+      "highlights": [
+        "值得关注的是，路径虽然分叉，但两条路最终通向的是同一套评判标准",
+        "当并购从粗放扩张进入精细运作阶段，无论海外巨头还是中国资本，考量维度都在向同一个方向收敛：现金流是否稳定、渠道效率能否提升、用户忠诚度是否可持续、资产是否具备可整合性",
+        "归根结底，并购只是手段，本身不创造价值"
+      ],
+      "url": "https://news.pedaily.cn/202611/571451.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-06T06:19:00Z"
+    },
+    {
+      "id": "760f3015ca4d",
+      "title": "OpenAI’s GPT-6 Cyber found 81 new Firefox flaws and is rated ‘Critical’ - The Next Web",
+      "summary": "OpenAI has released GPT-6 Cyber, a security model it says beats all its earlier models at finding and exploiting software flaws. It rated it “Critical” in cybersecurity under its Preparedness Framewor...",
+      "highlights": [
+        "OpenAI has released GPT-6 Cyber, a security model it says beats all its earlier models at finding and exploiting software flaws. It rated it “Critical” in cybersecurity under its Preparedness Framework, up from “High” for GPT-5.6 Cyber. At first, only a select group of approved customers can use it, through the API and Codex. They belong to Daybreak Red, the tier of OpenAI’s cyber programme for exploit development and authorised security testing. OpenAI launched Daybreak in May and said it will open GPT-6 Cyber to all Daybreak Red customers soon. GPT-6 Cyber is OpenAI’s fourth cybersecurity model this year, Wen Shao reported for Fortune. OpenAI said it trained the model to stay within its authorised scope, respect limits on its actions and report results accurately. In that incident, OpenAI’s AI agents broke out of a sandbox and hacked the platform. On ExploitGym, which tests whether a model can exploit a given flaw, GPT-6 Cyber scored 48.5%."
+      ],
+      "url": "https://thenextweb.com/news/openai-gpt-6-cyber-launch-firefox-linux-daybreak-red",
+      "source": "thenextweb.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-05T17:24:04Z"
     },
     {
       "id": "7a906c684aff",
@@ -795,37 +679,9 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-11-04T23:45:00Z"
-    },
-    {
-      "id": "3ae23e5625e7",
-      "title": "让2000名工程师使用中国大模型，这家英国企业实现了“词元自由”_凤凰网",
-      "summary": "今年4月，中国AI企业智谱推出了GLM-5.1大模型。Revolut迅速开始研究将其进行本地化部署，结果发现GLM-5.1的使用成本仅为Claude Code的十分之一。不仅如此，由于成本极低，词元使用量不再受限，员工开始使用AI处理邮件、调试、项目管理等其他问题，工作效率显著提升。之后，新一代智谱大模型GLM-5.3推出后，Revolut仅用56块英伟达B200 GPU就实现了本地化部署。 [....",
-      "highlights": [
-        "今年4月，中国AI企业智谱推出了GLM-5.1大模型",
-        "Revolut迅速开始研究将其进行本地化部署，结果发现GLM-5.1的使用成本仅为Claude Code的十分之一",
-        "不仅如此，由于成本极低，词元使用量不再受限，员工开始使用AI处理邮件、调试、项目管理等其他问题，工作效率显著提升"
-      ],
-      "url": "https://news.ifeng.com/c/8xniENUYxGE",
-      "source": "news.ifeng.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-05T02:47:44Z"
     }
   ],
   "month": [
-    {
-      "id": "760f3015ca4d",
-      "title": "OpenAI’s GPT-6 Cyber found 81 new Firefox flaws and is rated ‘Critical’ - The Next Web",
-      "summary": "OpenAI has released GPT-6 Cyber, a security model it says beats all its earlier models at finding and exploiting software flaws. It rated it “Critical” in cybersecurity under its Preparedness Framewor...",
-      "highlights": [
-        "OpenAI has released GPT-6 Cyber, a security model it says beats all its earlier models at finding and exploiting software flaws. It rated it “Critical” in cybersecurity under its Preparedness Framework, up from “High” for GPT-5.6 Cyber. At first, only a select group of approved customers can use it, through the API and Codex. They belong to Daybreak Red, the tier of OpenAI’s cyber programme for exploit development and authorised security testing. OpenAI launched Daybreak in May and said it will open GPT-6 Cyber to all Daybreak Red customers soon. GPT-6 Cyber is OpenAI’s fourth cybersecurity model this year, Wen Shao reported for Fortune. OpenAI said it trained the model to stay within its authorised scope, respect limits on its actions and report results accurately. In that incident, OpenAI’s AI agents broke out of a sandbox and hacked the platform. On ExploitGym, which tests whether a model can exploit a given flaw, GPT-6 Cyber scored 48.5%."
-      ],
-      "url": "https://thenextweb.com/news/openai-gpt-6-cyber-launch-firefox-linux-daybreak-red",
-      "source": "thenextweb.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-05T17:24:04Z"
-    },
     {
       "id": "e4eeddd9377d",
       "title": "投资界24h|昨晚，美科技股历史性暴跌；河南最大IPO，下周上会；长鑫成立一家投资公司_投资界",
@@ -887,6 +743,34 @@
       "publishedAt": "2026-11-07T17:18:06Z"
     },
     {
+      "id": "0908229afb9d",
+      "title": "当国货美妆成为「买手」，先读懂巨头们的并购术_投资界",
+      "summary": "值得关注的是，路径虽然分叉，但两条路最终通向的是同一套评判标准。当并购从粗放扩张进入精细运作阶段，无论海外巨头还是中国资本，考量维度都在向同一个方向收敛：现金流是否稳定、渠道效率能否提升、用户忠诚度是否可持续、资产是否具备可整合性。\n\n归根结底，并购只是手段，本身不创造价值。真正创造价值的，是收购完成之后，企业能不能做好资源协同、守住品牌内核，把买来的技术、品牌资产转化为持续稳定的经营成果。流量时...",
+      "highlights": [
+        "值得关注的是，路径虽然分叉，但两条路最终通向的是同一套评判标准",
+        "当并购从粗放扩张进入精细运作阶段，无论海外巨头还是中国资本，考量维度都在向同一个方向收敛：现金流是否稳定、渠道效率能否提升、用户忠诚度是否可持续、资产是否具备可整合性",
+        "归根结底，并购只是手段，本身不创造价值"
+      ],
+      "url": "https://news.pedaily.cn/202611/571451.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-06T06:19:00Z"
+    },
+    {
+      "id": "760f3015ca4d",
+      "title": "OpenAI’s GPT-6 Cyber found 81 new Firefox flaws and is rated ‘Critical’ - The Next Web",
+      "summary": "OpenAI has released GPT-6 Cyber, a security model it says beats all its earlier models at finding and exploiting software flaws. It rated it “Critical” in cybersecurity under its Preparedness Framewor...",
+      "highlights": [
+        "OpenAI has released GPT-6 Cyber, a security model it says beats all its earlier models at finding and exploiting software flaws. It rated it “Critical” in cybersecurity under its Preparedness Framework, up from “High” for GPT-5.6 Cyber. At first, only a select group of approved customers can use it, through the API and Codex. They belong to Daybreak Red, the tier of OpenAI’s cyber programme for exploit development and authorised security testing. OpenAI launched Daybreak in May and said it will open GPT-6 Cyber to all Daybreak Red customers soon. GPT-6 Cyber is OpenAI’s fourth cybersecurity model this year, Wen Shao reported for Fortune. OpenAI said it trained the model to stay within its authorised scope, respect limits on its actions and report results accurately. In that incident, OpenAI’s AI agents broke out of a sandbox and hacked the platform. On ExploitGym, which tests whether a model can exploit a given flaw, GPT-6 Cyber scored 48.5%."
+      ],
+      "url": "https://thenextweb.com/news/openai-gpt-6-cyber-launch-firefox-linux-daybreak-red",
+      "source": "thenextweb.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-05T17:24:04Z"
+    },
+    {
       "id": "7a906c684aff",
       "title": "发布“地球最强”模型仅几天后 OpenAI首席科学家发长文呼吁放慢AI开发",
       "summary": "他指出，尽管 OpenAI 正在寻求内部的技术解决方案，以更好地控制强大的AI智能体，但“还需要更广泛的干预措施”。他特别提到了一些担忧：随着智能体变得越来越自主，它们可能会学会逃避人类监管、入侵计算机系统，甚至欺骗人类以达成自身目标。\n\n他呼吁设立“强制性安全门槛”，并表示这些措施可以由“第三方审计机构网络、政府机构或国际机构”来执行。\n\nOpenAI首席执行官奥尔特曼（Sam Altman）在...",
@@ -945,21 +829,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-11-05T11:12:50Z"
-    },
-    {
-      "id": "d2eda60e4940",
-      "title": "具身智能，变天了_投资界",
-      "summary": "这就意味着，高质量的具身数据，是决定未来具身大模型独特竞争优势的胜负手之一。除此之外，触觉、力控、力反馈等等这些大语言模型无法通过计算和推理得来的数据将更具价值。\n\nAstra发布一个多月后，行业已经用行动投出了一票，数据订单回来了，本体公司的价值重新锚定，做“大脑”的公司则不得不直面与基模大厂的同场竞争。\n\n一些窗口正在被关上，同时又有一部分新的窗口在被打开，整个行业发展的脚步更快了。\n\nOpe...",
-      "highlights": [
-        "这就意味着，高质量的具身数据，是决定未来具身大模型独特竞争优势的胜负手之一",
-        "除此之外，触觉、力控、力反馈等等这些大语言模型无法通过计算和推理得来的数据将更具价值",
-        "Astra发布一个多月后，行业已经用行动投出了一票，数据订单回来了，本体公司的价值重新锚定，做“大脑”的公司则不得不直面与基模大厂的同场竞争"
-      ],
-      "url": "https://news.pedaily.cn/202611/571411.shtml",
-      "source": "news.pedaily.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-11-05T07:15:00Z"
     }
   ]
 }
