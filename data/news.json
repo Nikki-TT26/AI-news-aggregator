@@ -1,6 +1,746 @@
 {
-  "updatedAt": "2026-11-12T04:29:59Z",
+  "updatedAt": "2026-11-12T14:03:57Z",
   "latest": [
+    {
+      "id": "399c2e8dd19c",
+      "title": "拟分拆平头哥独立上市，阿里巴巴在下什么棋？_搜狐网",
+      "summary": "## 拟分拆平头哥独立上市，阿里巴巴在下什么棋？\n\n新浪财经\n\n新浪财经\n\n（来源：第一财经资讯）\n\n11月10日晚，阿里巴巴公告，旗下芯片子公司平头哥已申请独立上市。上市完成后，平头哥仍将是阿里巴巴子公司。\n\n公告显示，2026年9月11日，平头哥已向香港联交所递交上市申请，拟通过H股在香港联交所主板独立上市。据悉，IPO具体规模尚未最终确定。\n\n平头哥成立于2018年，是阿里巴巴集团全资半导体...",
+      "highlights": [
+        "## 拟分拆平头哥独立上市，阿里巴巴在下什么棋",
+        "（来源：第一财经资讯）",
+        "11月10日晚，阿里巴巴公告，旗下芯片子公司平头哥已申请独立上市"
+      ],
+      "url": "https://m.sohu.com/a/1099799964_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-10T22:19:28Z"
+    },
+    {
+      "id": "694b03126bd0",
+      "title": "OpenAI 推出商家中心和 ChatGPT 商家智能体 – Unite.AI",
+      "summary": "行为规范禁止制造虚假紧迫感、在用户拒绝后施加压力、利用他人的脆弱处境，以及索取不必要的高风险个人信息。进行购买、预订、提交表单或分享用户信息，必须通过获批功能取得明确授权。智能体可以介绍产品和服务并提供一般信息，但不得提供依法必须由持有专业执照者提供的建议，也不得在缺乏人工审核的情况下自动作出重大决策。如有政策方面的顾虑，OpenAI 可以暂停或移除智能体。\n\n## 广告与拓展\n\n商家还可以赞助商...",
+      "highlights": [
+        "行为规范禁止制造虚假紧迫感、在用户拒绝后施加压力、利用他人的脆弱处境，以及索取不必要的高风险个人信息",
+        "进行购买、预订、提交表单或分享用户信息，必须通过获批功能取得明确授权",
+        "智能体可以介绍产品和服务并提供一般信息，但不得提供依法必须由持有专业执照者提供的建议，也不得在缺乏人工审核的情况下自动作出重大决策"
+      ],
+      "url": "https://www.unite.ai/zh-cn/openai-launches-business-hub-and-business-agents-in-chatgpt",
+      "source": "unite.ai",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-11-10T18:25:02Z"
+    },
+    {
+      "id": "9e4abd6550d3",
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips | TechCrunch",
+      "summary": "The chip launch comes as hyperscalers like Microsoft, Amazon, and even AI labs like OpenAI and Anthropic are working on their own lines of AI-specific semiconductors and accompanying software in order...",
+      "highlights": [
+        "The chip launch comes as hyperscalers like Microsoft, Amazon, and even AI labs like OpenAI and Anthropic are working on their own lines of AI-specific semiconductors and accompanying software in order to reduce their reliance on the dominance of Nvidia.",
+        "The news also comes at a particularly vulnerable moment for Nvidia, whose CEO Jensen Huang over the weekend admitted to having an affair with someone alleged to be a Chinese spy. [...] TPU 8tx, designed with AMD, is based on the TPU 8t chip, and is geared specifically for confidentially training and running AI models, Google said in a blog post. The chip “builds security directly into the hardware layer, keeping sensitive data and model weights protected and isolated even while in active use,” the company wrote. [...] Google is notching up its chipmaking game as the company seeks to reduce its dependence on chips made by other companies for its cloud computing business. Google on Monday unveiled two new variants of its tensor processing units (TPUs), in-house developed chips meant for AI workloads, that broaden its chip portfolio to additional use cases: confidential inference and more memory capacity for large workloads."
+      ],
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips",
+      "source": "techcrunch.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-10T15:54:08Z"
+    },
+    {
+      "id": "9759ed5fb874",
+      "title": "今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上 | 爱范儿",
+      "summary": "商务合作 内容投稿\n\n｜\n\n \n\n+ 我的动态\n+ 消息中心\n+ 我的收藏\n+ 账户设置\n\n退出登录\n\n爱范儿 LOGO \n\n 媒体品牌 \n\n  爱范儿 公众号二维码\n\n  APPSO 公众号二维码\n\n  先进工具，先知先行，AIGC 的灵感指南\n\n  董车会 公众号二维码\n\n  玩物志 公众号二维码\n\n  玩物志\n\n  探索城市新生活方式，做你的明日生活指南\n 知晓云\n 制糖工厂 \n\n  制糖工...",
+      "highlights": [
+        "APPSO 公众号二维码",
+        "先进工具，先知先行，AIGC 的灵感指南",
+        "探索城市新生活方式，做你的明日生活指南"
+      ],
+      "url": "https://www.ifanr.com/1688883",
+      "source": "ifanr.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-11-11T00:26:39Z"
+    },
+    {
+      "id": "557fdb3abeac",
+      "title": "具身智能标准化工作提速！机构近期扎堆调研产业链(名单)_基金动态_基金_中金在线",
+      "summary": "物理AI走向商业化临界点\n\n　　物理AI是指能够理解并作用于真实物理世界的人工智能系统，以机器人、自动驾驶等为载体的具身智能是其核心形态。\n\n　　方正证券在最新行业周报中指出，苹果HALO验证了大规模仿真合成数据驱动机器人技能学习的可行性，有望降低真机数据采集成本，加速机器人运动控制与环境感知能力的融合；苹果、英伟达等巨头正加速物理AI技术突破，机器人真实场景验证与商业化落地持续推进。\n\n　　国联...",
+      "highlights": [
+        "物理AI走向商业化临界点",
+        "物理AI是指能够理解并作用于真实物理世界的人工智能系统，以机器人、自动驾驶等为载体的具身智能是其核心形态",
+        "方正证券在最新行业周报中指出，苹果HALO验证了大规模仿真合成数据驱动机器人技能学习的可行性，有望降低真机数据采集成本，加速机器人运动控制与环境感知能力的融合；苹果、英伟达等巨头正加速物理AI技术突破，机器人真实场景验证与商业化落地持续推进"
+      ],
+      "url": "http://fund.cnfol.com/jijindongtai/20261111/32420646.shtml",
+      "source": "fund.cnfol.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-11-11T01:00:00Z"
+    },
+    {
+      "id": "5e37ec259563",
+      "title": "Chainalysis：绕开美国出口管制，中国 AI 大模型“蒸馏潮”背后的链上影子市场 | PANews",
+      "summary": "正如 Anthropic 在报告中警示的那样，非法蒸馏得到的衍生模型往往剥离了原版内置的安全护栏，极易向外扩散高危技术能力。就在上个月，美国国家安全局（NSA）也发出正式警告，指出该类行为已对关键基础设施、军事及科技经济安全构成重大风险。\n\n曾经零散隐蔽的灰度通道，如今已演化成结构清晰、上下游分工明确的商业经济体，并建立起专门的算力账户积分充值及财务基础设施。\n\n在这个新兴商业网络中，加密货币支付...",
+      "highlights": [
+        "正如 Anthropic 在报告中警示的那样，非法蒸馏得到的衍生模型往往剥离了原版内置的安全护栏，极易向外扩散高危技术能力",
+        "就在上个月，美国国家安全局（NSA）也发出正式警告，指出该类行为已对关键基础设施、军事及科技经济安全构成重大风险",
+        "曾经零散隐蔽的灰度通道，如今已演化成结构清晰、上下游分工明确的商业经济体，并建立起专门的算力账户积分充值及财务基础设施"
+      ],
+      "url": "https://www.panewslab.com/zh/articles/01a1c90c-aff9-778b-963d-2ec754b54848",
+      "source": "panewslab.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-11T09:00:00Z"
+    },
+    {
+      "id": "6031a175ae8a",
+      "title": "阿里造芯八年，长出一家百亿公司：平头哥六成GPU算力卖给外部 - 华尔街见闻",
+      "summary": "## 外部算力占比超六成，商业化逻辑浮出水面\n\n平头哥商业模式的核心变化体现在算力的流向上。杰富瑞报告指出，平头哥自研GPU芯片超过60%的算力现已面向外部客户提供服务，这一比例揭示了其业务重心的实质性转移。\n\n年化营收触及百亿元人民币量级，进一步佐证了外部商业化的规模效应。对于一家脱胎于科技集团内部研发体系的芯片公司而言，能够在短期内形成如此体量的外部收入，意味着其产品竞争力已超越单纯满足母公司...",
+      "highlights": [
+        "## 外部算力占比超六成，商业化逻辑浮出水面",
+        "平头哥商业模式的核心变化体现在算力的流向上",
+        "杰富瑞报告指出，平头哥自研GPU芯片超过60%的算力现已面向外部客户提供服务，这一比例揭示了其业务重心的实质性转移"
+      ],
+      "url": "https://wallstreetcn.com/articles/3785710",
+      "source": "wallstreetcn.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-11T06:30:24Z"
+    },
+    {
+      "id": "f6e3b2f2cd6f",
+      "title": "阿里巴巴平头哥递表港交所：国产AI芯片站上资本化与规模化双拐点",
+      "summary": "2026年11月9日至10日，算力芯片板块走出一轮反弹。燧原科技11月9日收盘大涨17.26%，盘中一度涨超19%；11月10日盘中涨近10%，总市值一度重返2000亿元上方，收盘上涨2.58%，市值1911亿元。支撑这一定价的，是公司自研迭代的四代架构、五款云端AI芯片，以及走自主DSA路线而非跟随GPGPU的技术选择，其最新一代GCU-CARE架构原生支持FP8精度。财务上，燧原2023年至2...",
+      "highlights": [
+        "2026年11月9日至10日，算力芯片板块走出一轮反弹",
+        "燧原科技11月9日收盘大涨17.26%，盘中一度涨超19%；11月10日盘中涨近10%，总市值一度重返2000亿元上方，收盘上涨2.58%，市值1911亿元",
+        "支撑这一定价的，是公司自研迭代的四代架构、五款云端AI芯片，以及走自主DSA路线而非跟随GPGPU的技术选择，其最新一代GCU-CARE架构原生支持FP8精度"
+      ],
+      "url": "https://news.qq.com/rain/a/20261111A05C6Z00",
+      "source": "news.qq.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-11T02:00:00Z"
+    },
+    {
+      "id": "782162673791",
+      "title": "2026，AI应用的钱都流向了哪里？_投资界",
+      "summary": "AI价值官2026-09-11\n ### 从投资人最看好的48个AI应用，我看到了这两个趋势\n\n  品玩2026-09-11\n ### 紫讯技术完成Pre-IPO轮融资，全面提速电商AI应用平台LinkFox发展\n\n  融资大事件2026-09-10\n\n### AI AssistantAI 阅读助手\n\n· 2026年上半年国内AI应用融资事件共33起，其中视频/图像/3D生成、AI Agent为热...",
+      "highlights": [
+        "AI价值官2026-09-11",
+        "### 从投资人最看好的48个AI应用，我看到了这两个趋势",
+        "品玩2026-09-11"
+      ],
+      "url": "https://news.pedaily.cn/202611/571650.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-11T00:39:00Z"
+    },
+    {
+      "id": "4c809fb6be6f",
+      "title": "智元、小米参投的北京芯片企业，启动IPO！_证券时报_媒体广场_财经_证券之星",
+      "summary": "|\n\n# 智元、小米参投的北京芯片企业，启动IPO！\n\n来源：证券时报网\n\n2026-11-11 19:02:00\n\n（原标题：智元、小米参投的北京芯片企业，启动IPO！）\n\n具身智能芯片企业加速对接资本市场。\n\n近日，北京辉羲科技股份有限公司（简称“辉羲科技”）在北京证监局办理上市辅导备案登记，启动A股IPO进程。据公司披露，其旗下光至R1芯片已应用于智元机器人的精灵G2机器人，智元是其客户，也...",
+      "highlights": [
+        "# 智元、小米参投的北京芯片企业，启动IPO",
+        "2026-11-11 19:02:00",
+        "（原标题：智元、小米参投的北京芯片企业，启动IPO"
+      ],
+      "url": "https://wap.stockstar.com/detail/IG2026111100040460",
+      "source": "wap.stockstar.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-11T11:00:00Z"
+    },
+    {
+      "id": "4f506b58f07c",
+      "title": "Google Expands TPU Line With Confidential Computing and High-Memory AI Chips",
+      "summary": "The TPU 8i Max combines two inference-focused TPU 8i chips in a single package, doubling memory capacity, processing power and bandwidth so AI models can handle a wider range of information during que...",
+      "highlights": [
+        "The TPU 8i Max combines two inference-focused TPU 8i chips in a single package, doubling memory capacity, processing power and bandwidth so AI models can handle a wider range of information during queries.",
+        "The move comes as Microsoft, Amazon, OpenAI and Anthropic develop their own AI chips to lessen dependence on Nvidia, whose CEO Jensen Huang admitted over the weekend to an affair with someone alleged to be a Chinese spy.",
+        "TopicsAIGoogleHigh-Memory AI ChipsinsightsTPU 8i MaxTPU 8tx [...] Google has added two new variants to its tensor processing unit (TPU) family, extending its in-house AI chips to confidential inference and larger-memory workloads as it seeks to reduce reliance on third-party chips for its cloud business."
+      ],
+      "url": "https://theaiinsider.tech/2026/11/11/google-expands-tpu-line-with-confidential-computing-and-high-memory-ai-chips",
+      "source": "theaiinsider.tech",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-11T08:53:22Z"
+    },
+    {
+      "id": "248bcd3d778e",
+      "title": "以开源打开新空间 中国大模型竞逐全球智能赛道_搜狐网",
+      "summary": "## 以开源打开新空间 中国大模型竞逐全球智能赛道\n\n黑科技研究所\n\n黑科技研究所\n\n中国工业报记者 耿鹏飞\n\n从开源代码至模型到应用生态，开源带动产业落地（图为AI生成）\n\n“AI只有开源才能普及，只有普及才能创造可持续、普惠的智能时代。”蔡崇信说，中国开源模型下载量、衍生模型数等关键指标保持领先，已成为当前全球开源智能的引领者。\n\n紧接着，11月4日，腾讯混元发布最新一代大语言模型Hy4。据介...",
+      "highlights": [
+        "## 以开源打开新空间 中国大模型竞逐全球智能赛道",
+        "中国工业报记者 耿鹏飞",
+        "从开源代码至模型到应用生态，开源带动产业落地（图为AI生成）"
+      ],
+      "url": "https://m.sohu.com/a/1100057530_121948416?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-11T12:15:00Z"
+    },
+    {
+      "id": "8fbdf55b676f",
+      "title": "英伟达最大的对手可能不是AMD，而是谷歌：AI芯片战争进入下半场_搜狐网",
+      "summary": "## 英伟达最大的对手可能不是AMD，而是谷歌：AI芯片战争进入下半场\n\n财报研究社pro\n\n财报研究社pro\n\n11月9日，谷歌宣布扩充第八代TPU产品线，推出面向政府及受监管行业的TPU 8tx，以及针对大规模信息处理和复杂推理任务的TPU 8i Max。谷歌正在加快自研AI芯片的商业化，并将竞争范围从内部基础设施延伸至更广泛的企业市场。\n\n谷歌拥有完整的AI基础设施体系。从Gemini模型到...",
+      "highlights": [
+        "## 英伟达最大的对手可能不是AMD，而是谷歌：AI芯片战争进入下半场",
+        "11月9日，谷歌宣布扩充第八代TPU产品线，推出面向政府及受监管行业的TPU 8tx，以及针对大规模信息处理和复杂推理任务的TPU 8i Max",
+        "谷歌正在加快自研AI芯片的商业化，并将竞争范围从内部基础设施延伸至更广泛的企业市场"
+      ],
+      "url": "https://m.sohu.com/a/1099680759_120000222?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-10T16:20:42Z"
+    },
+    {
+      "id": "d270a53b4e37",
+      "title": "沙利文联合头豹发布《2026年中国企业级Agent智能体解决方案市场报告》",
+      "summary": "发布时间：2026/11/11\n\n沙利文联合头豹发布《2026年中国企业级Agent智能体解决方案市场报告》。报告指出，企业级Agent智能体解决方案是一套以企业数据与业务逻辑为核心的全栈技术体系，自下而上分为模型与推理、数据与知识、构建与编排、交付与应用四层，工具连接与运行治理贯穿各层。企业级Agent正从知识检索与内容生成走向可调用系统、协同执行流程的智能体工作流，核心价值在于形成可治理、可追...",
+      "highlights": [
+        "发布时间：2026/11/11",
+        "沙利文联合头豹发布《2026年中国企业级Agent智能体解决方案市场报告》",
+        "报告指出，企业级Agent智能体解决方案是一套以企业数据与业务逻辑为核心的全栈技术体系，自下而上分为模型与推理、数据与知识、构建与编排、交付与应用四层，工具连接与运行治理贯穿各层"
+      ],
+      "url": "https://www.frostchina.com/content/insight/detail/6af194323106bf8632c15b2f",
+      "source": "frostchina.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-11-11T06:00:00Z"
+    },
+    {
+      "id": "3bcb0d8b8ad5",
+      "title": "Q3 加密融资继续降温，资金转向后期与战略轮",
+      "summary": "更值得关注的是币价与融资的背离。比特币从 7 月初约 $58.6K 涨至 10 月初约 $83.6K，涨幅约 43%，一级市场却未随之回暖。我们认为，一个重要原因是 AI 对资本的吸纳：AI 算力与模型的资金需求巨大，市场对其成长空间的预期也更高；在 LP 配置额度有限的情况下，部分原本投向加密创投的资金正在转向 AI。头部加密原生机构的动作也印证了这一点：7 月 8 日，Paradigm 宣布完...",
+      "highlights": [
+        "更值得关注的是币价与融资的背离",
+        "比特币从 7 月初约 $58.6K 涨至 10 月初约 $83.6K，涨幅约 43%，一级市场却未随之回暖",
+        "我们认为，一个重要原因是 AI 对资本的吸纳：AI 算力与模型的资金需求巨大，市场对其成长空间的预期也更高；在 LP 配置额度有限的情况下，部分原本投向加密创投的资金正在转向 AI"
+      ],
+      "url": "https://www.chaincatcher.com/article/2303277",
+      "source": "chaincatcher.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-10T15:47:40Z"
+    },
+    {
+      "id": "62b4f2df04fc",
+      "title": "J. Crew debuts new AI shopping tool that's designed to think like a stylist | Fortune",
+      "summary": "Anthropic continues to advance plans for IPO; debuts new frontier models. Yet another AI company aiming to navigate more turbulent times is Anthropic, which is reportedly planning to go public next we...",
+      "highlights": [
+        "Anthropic continues to advance plans for IPO; debuts new frontier models. Yet another AI company aiming to navigate more turbulent times is Anthropic, which is reportedly planning to go public next week even as shares of AI companies have faced pressure as investors fret about high infrastructure costs and U.S. midterm election results that are divisively more “anti AI.” Separately, on Monday, Anthropic debuted two new AI models called Fable 5.2 and Mythos 5.2, which the company said generate [...] Alphabet, meanwhile, takes aim at Nvidia. On Monday, Google debuted new AI chips that Bloomberg reports are intended to take some share from Nvidia’s dominant position and represent an acceleration in product development coming from the company’s chip division. But another corner of the search giant’s AI business is facing mounting criticism. Politicians are lamenting the company’s decision to block search for K-12 student accounts if districts have enacted AI bans. Sen. Edward Markey has [...] are facing from investors. More optimistically, Business Insider reports on fresh research data from Graphite that found ChatGPT has captured 81% of worldwide AI chatbot traffic, easily outpacing rivals Google and Anthropic, who had been making some inroads."
+      ],
+      "url": "https://fortune.com/2026/11/11/jcrew-anthropic-ai-style-advisor",
+      "source": "fortune.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-11T17:00:00Z"
+    },
+    {
+      "id": "cf23b8ef774f",
+      "title": "OpenAI Acquires AI Travel Startup Odessia as Founder Joins – Unite.AI",
+      "summary": "My Feed\n\n### Acquisitions\n\n# OpenAI Acquires AI Travel Startup Odessia as Founder Joins\n\nPublished\n\nBy\n\n Evan Mercer, AI Startups & Venture Capital AI Research Agent\n\nAdd Unite.AI to your preferred so...",
+      "highlights": [
+        "### Acquisitions",
+        "# OpenAI Acquires AI Travel Startup Odessia as Founder Joins",
+        "Evan Mercer, AI Startups & Venture Capital AI Research Agent"
+      ],
+      "url": "https://www.unite.ai/openai-acquires-ai-travel-startup-odessia-as-founder-joins",
+      "source": "unite.ai",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-10T19:28:05Z"
+    },
+    {
+      "id": "b3ca9a2d951b",
+      "title": "谷歌发布旗下最强模型|Google|大模型|网络安全|机构|评测_手机新浪网",
+      "summary": "## 新浪科技\n\n  \n\n【#谷歌发布旗下最强模型#】#Gemini4Carbon来了# 在Anthropic更新模型后，谷歌也坐不住了。北京时间11月11日，谷歌正式向公众发布Gemini 4 Carbon，号称旗下迄今为止“最强大的模型”，面向复杂、长周期任务，定位为解决最棘手问题时应该启用的模型。\n\n在10月29日首次公开Carbon时，这一模型仅向部分网络安全防御人员开放，但当时引发了行业...",
+      "highlights": [
+        "【#谷歌发布旗下最强模型#】#Gemini4Carbon来了# 在Anthropic更新模型后，谷歌也坐不住了",
+        "北京时间11月11日，谷歌正式向公众发布Gemini 4 Carbon，号称旗下迄今为止“最强大的模型”，面向复杂、长周期任务，定位为解决最棘手问题时应该启用的模型",
+        "在10月29日首次公开Carbon时，这一模型仅向部分网络安全防御人员开放，但当时引发了行业关注，因为模型一度登顶AI大模型评测机构Artificial Analysis的智能指数榜，超越Anthropic的Claude Opus 5.5和OpenAI的GPT-6 Astra"
+      ],
+      "url": "https://finance.sina.cn/2026-11-11/detail-iniyixxy2014982.d.html?vt=4",
+      "source": "finance.sina.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-11T14:25:39Z"
+    },
+    {
+      "id": "5e9871d52315",
+      "title": "中国大模型，不想只卖API了 _ 东方财富网",
+      "summary": "财经\n 焦点\n 股票\n 新股\n 期指\n 期权\n 行情\n 数据\n 全球\n 美股\n 港股\n 期货\n 外汇\n 银行\n 基金\n 理财\n 债券\n 直播\n 股吧\n 基金吧\n 博客\n 财富号\n 搜索\n\n指数 期指 期权 个股 板块 排行 新股 基金 港股 美股 期货 外汇 黄金 自选股 自选基金\n\n资金流向 主力排名 板块资金 个股研报 新股申购 转债申购 北交所申购 AH股比价 年报大全 融资融券 龙虎榜 限...",
+      "highlights": [
+        "指数 期指 期权 个股 板块 排行 新股 基金 港股 美股 期货 外汇 黄金 自选股 自选基金",
+        "资金流向 主力排名 板块资金 个股研报 新股申购 转债申购 北交所申购 AH股比价 年报大全 融资融券 龙虎榜 限售解禁 IPO审核 大宗交易 估值分析",
+        "首页 > 财经频道 > 正文"
+      ],
+      "url": "https://finance.eastmoney.com/a/202611123929074061.html",
+      "source": "finance.eastmoney.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-12T00:00:00Z"
+    },
+    {
+      "id": "31e08aa84261",
+      "title": "平头哥独立上市，阿里图什么？-36氪",
+      "summary": "图源 / 平头哥半导体官网\n\n平头哥同时布局这些环节，为阿里云从底层硬件进行协同优化提供了条件。阿里也在财报中明确表示，其芯片产品矩阵用于跨计算、存储和网络的系统级优化，以提升AI基础设施的性能和成本效率。\n\n产品布局之外，商业化情况也开始浮出水面。\n\n今年3月，阿里CEO吴泳铭在财报电话会上披露，平头哥年化营收规模已达到百亿元级别。这为外界判断其业务体量提供了一个参照。\n\n交付端，阿里今年3月披...",
+      "highlights": [
+        "图源 / 平头哥半导体官网",
+        "平头哥同时布局这些环节，为阿里云从底层硬件进行协同优化提供了条件",
+        "阿里也在财报中明确表示，其芯片产品矩阵用于跨计算、存储和网络的系统级优化，以提升AI基础设施的性能和成本效率"
+      ],
+      "url": "http://www.36kr.com/p/4066599455708804",
+      "source": "36kr.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-12T12:00:49Z"
+    },
+    {
+      "id": "f0def933f3da",
+      "title": "优必选与沐曦具身智能芯片合资公司曦选创智完成天使轮估值 40 亿融资|具身之家",
+      "summary": "曦选创智对机器人 “大小脑一体” 的域控解决方案进行了重新定义。公司结合沐曦在 GPU 架构、芯片工程和软件生态方面的积累，以及优必选在机器人本体、系统集成和应用场景方面的经验，将机器人实际任务需求带入芯片设计，在产品定义阶段统筹考虑模型运行需求，以及能效、接口适配与系统部署等要求，推动芯片设计与机器人系统的协同验证。\n\n目前，曦选创智正推进自研主控芯片的架构设计，前期主要面向半结构化环境中的机器...",
+      "highlights": [
+        "曦选创智对机器人 “大小脑一体” 的域控解决方案进行了重新定义",
+        "公司结合沐曦在 GPU 架构、芯片工程和软件生态方面的积累，以及优必选在机器人本体、系统集成和应用场景方面的经验，将机器人实际任务需求带入芯片设计，在产品定义阶段统筹考虑模型运行需求，以及能效、接口适配与系统部署等要求，推动芯片设计与机器人系统的协同验证",
+        "目前，曦选创智正推进自研主控芯片的架构设计，前期主要面向半结构化环境中的机器人应用，围绕机器人在不同任务中的感知、理解与自主决策需求，推进通用端侧计算平台的研发"
+      ],
+      "url": "https://www.jushenhome.com/news_d.php?id=2388",
+      "source": "jushenhome.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-12T09:00:00Z"
+    },
+    {
+      "id": "30dfc1ad10e7",
+      "title": "Personal AI 开战，它是如何引爆全球的_搜狐网",
+      "summary": "这个品类的引爆点最早出现在美国，Muse 上线十天登顶美国 App Store 免费榜，其财报会披露上线一个半月有超过 1000 万用户开通。谷歌的 Gemini Spark 在 I/O 大会上亮相后，OpenAI 的 Dot、Anthropic 的 Claude Duet 相继入局，千问宣布加速打造 Personal Agent，字节、腾讯也被曝在推进各自产品。10 月下旬，英伟达宣布向 met...",
+      "highlights": [
+        "这个品类的引爆点最早出现在美国，Muse 上线十天登顶美国 App Store 免费榜，其财报会披露上线一个半月有超过 1000 万用户开通",
+        "谷歌的 Gemini Spark 在 I/O 大会上亮相后，OpenAI 的 Dot、Anthropic 的 Claude Duet 相继入局，千问宣布加速打造 Personal Agent，字节、腾讯也被曝在推进各自产品",
+        "10 月下旬，英伟达宣布向 meta 投资 30 亿美元，围绕 Muse 扩大合作"
+      ],
+      "url": "https://m.sohu.com/a/1100445799_211762?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-11-12T10:03:19Z"
+    },
+    {
+      "id": "0bcd896438db",
+      "title": "AMD EPYC Venice正式发布：为智能体时代重构服务器CPU-存储在线-存储专业媒体",
+      "summary": "首页\n 存储资讯\n  + 业界新闻\n  + 技术新知\n  + 案例分享\n  + 经验技巧\n 研究报告\n  + 数据云图\n  + 存储芯图\n  + 数据基础设施\n 技术大会\n  + 全球闪存峰会\n  + 中国数据与存储峰会\n  + 数据基础设施技术峰会\n  + 分布式存储峰会\n DOIT活动\n DOIT首页\n\n \n\n当前位置：存储在线-存储专业媒体  技术  正文\n\n# AMD EPYC V...",
+      "highlights": [
+        "+ 中国数据与存储峰会",
+        "+ 数据基础设施技术峰会",
+        "当前位置：存储在线-存储专业媒体  技术  正文"
+      ],
+      "url": "https://www.dostor.com/p/101572.html",
+      "source": "dostor.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-11-12T04:00:00Z"
+    },
+    {
+      "id": "e03fc52df584",
+      "title": "美股科技板块巨震会否影响AI产业IPO节奏？花旗高管：节奏暂未变，明年上市主题将更多元",
+      "summary": "市场对人工智能产业链的审视，正在从收入增长转向变现能力，而这一转向早于中期选举。\n\n卓健勋透露，几个星期前不少新兴云厂商的信用价格已在提高。袁峥怡也表示，相关迹象“在中期选举之前大概两个礼拜”就已出现。债市同样如此，不同公司的债券利差有所走阔。“这不是什么大问题，只是投资者在关注人工智能生态里谁是赢家、谁是输家，他们看的是商业模式。”卓健勋认为。\n\n“以前有收入增长就够了，现在不够了。”卓健勋表示...",
+      "highlights": [
+        "市场对人工智能产业链的审视，正在从收入增长转向变现能力，而这一转向早于中期选举",
+        "卓健勋透露，几个星期前不少新兴云厂商的信用价格已在提高",
+        "袁峥怡也表示，相关迹象“在中期选举之前大概两个礼拜”就已出现"
+      ],
+      "url": "https://m.cls.cn/detail/2532669",
+      "source": "m.cls.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-12T09:00:00Z"
+    },
+    {
+      "id": "d3544d4d6965",
+      "title": "融资腰斩、IPO收窄：具身智能的冬天筛掉谁？ - 潮起网",
+      "summary": "像魔芯科技首次把世界模型部署门槛拉到工业场景可接受的水平，但部署门槛降低只是入场券，中间层卡在基础模型和应用场景之间，上游受基础模型和算力成本约束，下游受本体公司和场景方压价约束。真正的问题是：中间层能否把阶段性成本优势转化为持续研发投入，而不是停留在薄利集成层。陈默之前对于国内外模型侧发展差异的分析也从侧面说明了这点。\n\n第四个问题则是资本是否具有耐心？是否愿意“长期陪伴”行业成长？\n\n这是三类...",
+      "highlights": [
+        "像魔芯科技首次把世界模型部署门槛拉到工业场景可接受的水平，但部署门槛降低只是入场券，中间层卡在基础模型和应用场景之间，上游受基础模型和算力成本约束，下游受本体公司和场景方压价约束",
+        "真正的问题是：中间层能否把阶段性成本优势转化为持续研发投入，而不是停留在薄利集成层",
+        "陈默之前对于国内外模型侧发展差异的分析也从侧面说明了这点"
+      ],
+      "url": "https://www.ichaoqi.com/guandian/2026/1112/90090.html",
+      "source": "ichaoqi.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-12T12:31:20Z"
+    },
+    {
+      "id": "75c9b5a3af9f",
+      "title": "证监会，最新发声 - 财闻网",
+      "summary": "资本市场不断加大对科技创新企业支持力度，持续优化上市标准和上市流程，提升制度包容性、适应性。以上交所科创板为例，目前科创板公司超过600家，今年前三季度研发总投入金额达1471亿元，同比增长26%。人工智能、半导体、高端制造、创新药等领域一大批企业发展壮大，成长为具备全球竞争力的龙头企业，带动上下游产业链协同升级，为全球投资者带来了难得的投资机遇。\n\n强化对科技创新的金融支撑\n\n不断提升上市公司质...",
+      "highlights": [
+        "资本市场不断加大对科技创新企业支持力度，持续优化上市标准和上市流程，提升制度包容性、适应性",
+        "以上交所科创板为例，目前科创板公司超过600家，今年前三季度研发总投入金额达1471亿元，同比增长26%",
+        "人工智能、半导体、高端制造、创新药等领域一大批企业发展壮大，成长为具备全球竞争力的龙头企业，带动上下游产业链协同升级，为全球投资者带来了难得的投资机遇"
+      ],
+      "url": "https://www.caiwennews.com/article/1697149.shtml",
+      "source": "caiwennews.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-12T13:21:05Z"
+    },
+    {
+      "id": "0e8a0f474b86",
+      "title": "南方财经网 - 南方财经全媒体集团",
+      "summary": "国际投资者的态度同样鲜明。淡马锡首席投资官罗锡德表示，中国资产在全球组合中具有吸引力，原因在于中国的创新能力、完整的工业基础以及庞大的国内市场。健康的资本市场需要多元化的资本来源：私募机构提供技术验证、运营支持和业务孵化，公开市场提供更广泛的参与渠道、定价机制和流动性，并购则为投资者提供退出通道并促进资本循环。作为在中国拥有超过二十年投资经验的全球投资者，淡马锡期待继续与中国企业保持密切合作，建设...",
+      "highlights": [
+        "国际投资者的态度同样鲜明",
+        "淡马锡首席投资官罗锡德表示，中国资产在全球组合中具有吸引力，原因在于中国的创新能力、完整的工业基础以及庞大的国内市场",
+        "健康的资本市场需要多元化的资本来源：私募机构提供技术验证、运营支持和业务孵化，公开市场提供更广泛的参与渠道、定价机制和流动性，并购则为投资者提供退出通道并促进资本循环"
+      ],
+      "url": "https://m.sfccn.com/2026/11-12/yNMDE0MDRfMjMwMzEyNQ.html",
+      "source": "m.sfccn.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-12T11:00:00Z"
+    },
+    {
+      "id": "f4861b181bf7",
+      "title": "健康、户外、服装等领域21条品牌最新投资并购态丨全球时尚投资周报第42-46期 – 华丽志",
+      "summary": "水上智能消费硬件品牌 MIRAVA 近日完成近5000万元人民币天使轮融资，本轮由九合创投领投，初心资本、Eversnow 跟投。本轮资金将重点投入核心技术研发迭代，推进产线量产建设，以及搭建欧洲本地化渠道及服务体系。\n\nMIRAVA 核心团队成员均来自华为、商汤等头部科技大厂及清华大学、西北工业大学等知名高校，致力于将船舶智能驾驶技术与休闲游艇工业设计深度融合，面向全球市场提供智能化水上休闲装备...",
+      "highlights": [
+        "水上智能消费硬件品牌 MIRAVA 近日完成近5000万元人民币天使轮融资，本轮由九合创投领投，初心资本、Eversnow 跟投",
+        "本轮资金将重点投入核心技术研发迭代，推进产线量产建设，以及搭建欧洲本地化渠道及服务体系",
+        "MIRAVA 核心团队成员均来自华为、商汤等头部科技大厂及清华大学、西北工业大学等知名高校，致力于将船舶智能驾驶技术与休闲游艇工业设计深度融合，面向全球市场提供智能化水上休闲装备"
+      ],
+      "url": "https://luxe.co/post/488192",
+      "source": "luxe.co",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-12T05:00:00Z"
+    },
+    {
+      "id": "071efb88ad76",
+      "title": "AI辅助写论文，有两件事绝不能妥协|ChatGPT|霍顿|临床试验|柳叶刀|科研_手机新浪网",
+      "summary": "霍顿：从临床层面来说，AI是我40年行医生涯中见过最好的临床决策支持工具。当我在病床边，希望为患者制定当下最优治疗方案时，AI可以调取全球海量科学文献，针对这名患者给出适配的诊疗建议。\n\n过去想要获取最新医学证据，需要去图书馆翻阅数十本期刊；如今输入提示词，就能拿到基于前沿研究的参考意见。\n\nAI同样正在重塑临床研究。今年早些时候，《柳叶刀》刊发一项针对乳腺癌患者及高危女性的临床试验显示，AI工具...",
+      "highlights": [
+        "霍顿：从临床层面来说，AI是我40年行医生涯中见过最好的临床决策支持工具",
+        "当我在病床边，希望为患者制定当下最优治疗方案时，AI可以调取全球海量科学文献，针对这名患者给出适配的诊疗建议",
+        "过去想要获取最新医学证据，需要去图书馆翻阅数十本期刊；如今输入提示词，就能拿到基于前沿研究的参考意见"
+      ],
+      "url": "https://finance.sina.cn/tech/2026-11-11/detail-iniyiaun8789847.d.html?vt=4",
+      "source": "finance.sina.cn",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-11T06:26:07Z"
+    },
+    {
+      "id": "0e2708b7b12a",
+      "title": "AI: Anthropic & OpenAI Use AI to Design AI Chips. AI-RTZ #1268",
+      "summary": "Google, the most vertically integrated of them all, with its TPU chips and its Gemini models. As I wrote on Tuesday in ‘Google Specializes Its TPUs as Nvidia Wobbles’ (AI-RTZ #1266), its TPU teams get...",
+      "highlights": [
+        "Google, the most vertically integrated of them all, with its TPU chips and its Gemini models. As I wrote on Tuesday in ‘Google Specializes Its TPUs as Nvidia Wobbles’ (AI-RTZ #1266), its TPU teams get early access to the latest Gemini models to design and debug the chips.",
+        "Amazon, with its Trainium chips and its own Nova models. Anthropic is one of Trainium’s biggest customers, as I discussed in ‘Amazon AI chips traction with key customers & partners’ (AI-RTZ #1094). [...] Now that same Anthropic is using Claude to design chips of its own. Every custom chip of Anthropic’s that works could mean fewer Trainium chips rented from Amazon, or fewer TPUs from Google, over time. Its biggest backers are also its chip suppliers, and soon perhaps its chip competitors.",
+        "If Anthropic or OpenAI end up with AI models far better at chip design than anyone else’s, they could keep the most cutting-edge versions to themselves, at least at first. [...] OpenAI is already there with its ‘Jalapeño’ chip, designed with help from its own frontier AI models. Meanwhile, the companies building the backup chips to Nvidia, Google, Amazon, Microsoft and Meta, are all building their own AI models. The frontier AI labs are crossing over into chips, and the chipmakers into models. It’s one of the more intriguing ‘Frenemies’ storylines in the AI Tech Wave, and it ties directly to the hottest topic in AI research right now: Recursive Self-Improvement, or"
+      ],
+      "url": "https://michaelparekh.substack.com/p/ai-anthropic-and-openai-use-ai-to",
+      "source": "michaelparekh.substack.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-12T06:00:00Z"
+    }
+  ],
+  "today": [
+    {
+      "id": "5e9871d52315",
+      "title": "中国大模型，不想只卖API了 _ 东方财富网",
+      "summary": "财经\n 焦点\n 股票\n 新股\n 期指\n 期权\n 行情\n 数据\n 全球\n 美股\n 港股\n 期货\n 外汇\n 银行\n 基金\n 理财\n 债券\n 直播\n 股吧\n 基金吧\n 博客\n 财富号\n 搜索\n\n指数 期指 期权 个股 板块 排行 新股 基金 港股 美股 期货 外汇 黄金 自选股 自选基金\n\n资金流向 主力排名 板块资金 个股研报 新股申购 转债申购 北交所申购 AH股比价 年报大全 融资融券 龙虎榜 限...",
+      "highlights": [
+        "指数 期指 期权 个股 板块 排行 新股 基金 港股 美股 期货 外汇 黄金 自选股 自选基金",
+        "资金流向 主力排名 板块资金 个股研报 新股申购 转债申购 北交所申购 AH股比价 年报大全 融资融券 龙虎榜 限售解禁 IPO审核 大宗交易 估值分析",
+        "首页 > 财经频道 > 正文"
+      ],
+      "url": "https://finance.eastmoney.com/a/202611123929074061.html",
+      "source": "finance.eastmoney.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-12T00:00:00Z"
+    },
+    {
+      "id": "31e08aa84261",
+      "title": "平头哥独立上市，阿里图什么？-36氪",
+      "summary": "图源 / 平头哥半导体官网\n\n平头哥同时布局这些环节，为阿里云从底层硬件进行协同优化提供了条件。阿里也在财报中明确表示，其芯片产品矩阵用于跨计算、存储和网络的系统级优化，以提升AI基础设施的性能和成本效率。\n\n产品布局之外，商业化情况也开始浮出水面。\n\n今年3月，阿里CEO吴泳铭在财报电话会上披露，平头哥年化营收规模已达到百亿元级别。这为外界判断其业务体量提供了一个参照。\n\n交付端，阿里今年3月披...",
+      "highlights": [
+        "图源 / 平头哥半导体官网",
+        "平头哥同时布局这些环节，为阿里云从底层硬件进行协同优化提供了条件",
+        "阿里也在财报中明确表示，其芯片产品矩阵用于跨计算、存储和网络的系统级优化，以提升AI基础设施的性能和成本效率"
+      ],
+      "url": "http://www.36kr.com/p/4066599455708804",
+      "source": "36kr.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-12T12:00:49Z"
+    },
+    {
+      "id": "f0def933f3da",
+      "title": "优必选与沐曦具身智能芯片合资公司曦选创智完成天使轮估值 40 亿融资|具身之家",
+      "summary": "曦选创智对机器人 “大小脑一体” 的域控解决方案进行了重新定义。公司结合沐曦在 GPU 架构、芯片工程和软件生态方面的积累，以及优必选在机器人本体、系统集成和应用场景方面的经验，将机器人实际任务需求带入芯片设计，在产品定义阶段统筹考虑模型运行需求，以及能效、接口适配与系统部署等要求，推动芯片设计与机器人系统的协同验证。\n\n目前，曦选创智正推进自研主控芯片的架构设计，前期主要面向半结构化环境中的机器...",
+      "highlights": [
+        "曦选创智对机器人 “大小脑一体” 的域控解决方案进行了重新定义",
+        "公司结合沐曦在 GPU 架构、芯片工程和软件生态方面的积累，以及优必选在机器人本体、系统集成和应用场景方面的经验，将机器人实际任务需求带入芯片设计，在产品定义阶段统筹考虑模型运行需求，以及能效、接口适配与系统部署等要求，推动芯片设计与机器人系统的协同验证",
+        "目前，曦选创智正推进自研主控芯片的架构设计，前期主要面向半结构化环境中的机器人应用，围绕机器人在不同任务中的感知、理解与自主决策需求，推进通用端侧计算平台的研发"
+      ],
+      "url": "https://www.jushenhome.com/news_d.php?id=2388",
+      "source": "jushenhome.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-12T09:00:00Z"
+    },
+    {
+      "id": "30dfc1ad10e7",
+      "title": "Personal AI 开战，它是如何引爆全球的_搜狐网",
+      "summary": "这个品类的引爆点最早出现在美国，Muse 上线十天登顶美国 App Store 免费榜，其财报会披露上线一个半月有超过 1000 万用户开通。谷歌的 Gemini Spark 在 I/O 大会上亮相后，OpenAI 的 Dot、Anthropic 的 Claude Duet 相继入局，千问宣布加速打造 Personal Agent，字节、腾讯也被曝在推进各自产品。10 月下旬，英伟达宣布向 met...",
+      "highlights": [
+        "这个品类的引爆点最早出现在美国，Muse 上线十天登顶美国 App Store 免费榜，其财报会披露上线一个半月有超过 1000 万用户开通",
+        "谷歌的 Gemini Spark 在 I/O 大会上亮相后，OpenAI 的 Dot、Anthropic 的 Claude Duet 相继入局，千问宣布加速打造 Personal Agent，字节、腾讯也被曝在推进各自产品",
+        "10 月下旬，英伟达宣布向 meta 投资 30 亿美元，围绕 Muse 扩大合作"
+      ],
+      "url": "https://m.sohu.com/a/1100445799_211762?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-11-12T10:03:19Z"
+    },
+    {
+      "id": "0bcd896438db",
+      "title": "AMD EPYC Venice正式发布：为智能体时代重构服务器CPU-存储在线-存储专业媒体",
+      "summary": "首页\n 存储资讯\n  + 业界新闻\n  + 技术新知\n  + 案例分享\n  + 经验技巧\n 研究报告\n  + 数据云图\n  + 存储芯图\n  + 数据基础设施\n 技术大会\n  + 全球闪存峰会\n  + 中国数据与存储峰会\n  + 数据基础设施技术峰会\n  + 分布式存储峰会\n DOIT活动\n DOIT首页\n\n \n\n当前位置：存储在线-存储专业媒体  技术  正文\n\n# AMD EPYC V...",
+      "highlights": [
+        "+ 中国数据与存储峰会",
+        "+ 数据基础设施技术峰会",
+        "当前位置：存储在线-存储专业媒体  技术  正文"
+      ],
+      "url": "https://www.dostor.com/p/101572.html",
+      "source": "dostor.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-11-12T04:00:00Z"
+    },
+    {
+      "id": "e03fc52df584",
+      "title": "美股科技板块巨震会否影响AI产业IPO节奏？花旗高管：节奏暂未变，明年上市主题将更多元",
+      "summary": "市场对人工智能产业链的审视，正在从收入增长转向变现能力，而这一转向早于中期选举。\n\n卓健勋透露，几个星期前不少新兴云厂商的信用价格已在提高。袁峥怡也表示，相关迹象“在中期选举之前大概两个礼拜”就已出现。债市同样如此，不同公司的债券利差有所走阔。“这不是什么大问题，只是投资者在关注人工智能生态里谁是赢家、谁是输家，他们看的是商业模式。”卓健勋认为。\n\n“以前有收入增长就够了，现在不够了。”卓健勋表示...",
+      "highlights": [
+        "市场对人工智能产业链的审视，正在从收入增长转向变现能力，而这一转向早于中期选举",
+        "卓健勋透露，几个星期前不少新兴云厂商的信用价格已在提高",
+        "袁峥怡也表示，相关迹象“在中期选举之前大概两个礼拜”就已出现"
+      ],
+      "url": "https://m.cls.cn/detail/2532669",
+      "source": "m.cls.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-12T09:00:00Z"
+    },
+    {
+      "id": "d3544d4d6965",
+      "title": "融资腰斩、IPO收窄：具身智能的冬天筛掉谁？ - 潮起网",
+      "summary": "像魔芯科技首次把世界模型部署门槛拉到工业场景可接受的水平，但部署门槛降低只是入场券，中间层卡在基础模型和应用场景之间，上游受基础模型和算力成本约束，下游受本体公司和场景方压价约束。真正的问题是：中间层能否把阶段性成本优势转化为持续研发投入，而不是停留在薄利集成层。陈默之前对于国内外模型侧发展差异的分析也从侧面说明了这点。\n\n第四个问题则是资本是否具有耐心？是否愿意“长期陪伴”行业成长？\n\n这是三类...",
+      "highlights": [
+        "像魔芯科技首次把世界模型部署门槛拉到工业场景可接受的水平，但部署门槛降低只是入场券，中间层卡在基础模型和应用场景之间，上游受基础模型和算力成本约束，下游受本体公司和场景方压价约束",
+        "真正的问题是：中间层能否把阶段性成本优势转化为持续研发投入，而不是停留在薄利集成层",
+        "陈默之前对于国内外模型侧发展差异的分析也从侧面说明了这点"
+      ],
+      "url": "https://www.ichaoqi.com/guandian/2026/1112/90090.html",
+      "source": "ichaoqi.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-12T12:31:20Z"
+    },
+    {
+      "id": "75c9b5a3af9f",
+      "title": "证监会，最新发声 - 财闻网",
+      "summary": "资本市场不断加大对科技创新企业支持力度，持续优化上市标准和上市流程，提升制度包容性、适应性。以上交所科创板为例，目前科创板公司超过600家，今年前三季度研发总投入金额达1471亿元，同比增长26%。人工智能、半导体、高端制造、创新药等领域一大批企业发展壮大，成长为具备全球竞争力的龙头企业，带动上下游产业链协同升级，为全球投资者带来了难得的投资机遇。\n\n强化对科技创新的金融支撑\n\n不断提升上市公司质...",
+      "highlights": [
+        "资本市场不断加大对科技创新企业支持力度，持续优化上市标准和上市流程，提升制度包容性、适应性",
+        "以上交所科创板为例，目前科创板公司超过600家，今年前三季度研发总投入金额达1471亿元，同比增长26%",
+        "人工智能、半导体、高端制造、创新药等领域一大批企业发展壮大，成长为具备全球竞争力的龙头企业，带动上下游产业链协同升级，为全球投资者带来了难得的投资机遇"
+      ],
+      "url": "https://www.caiwennews.com/article/1697149.shtml",
+      "source": "caiwennews.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-12T13:21:05Z"
+    },
+    {
+      "id": "0e8a0f474b86",
+      "title": "南方财经网 - 南方财经全媒体集团",
+      "summary": "国际投资者的态度同样鲜明。淡马锡首席投资官罗锡德表示，中国资产在全球组合中具有吸引力，原因在于中国的创新能力、完整的工业基础以及庞大的国内市场。健康的资本市场需要多元化的资本来源：私募机构提供技术验证、运营支持和业务孵化，公开市场提供更广泛的参与渠道、定价机制和流动性，并购则为投资者提供退出通道并促进资本循环。作为在中国拥有超过二十年投资经验的全球投资者，淡马锡期待继续与中国企业保持密切合作，建设...",
+      "highlights": [
+        "国际投资者的态度同样鲜明",
+        "淡马锡首席投资官罗锡德表示，中国资产在全球组合中具有吸引力，原因在于中国的创新能力、完整的工业基础以及庞大的国内市场",
+        "健康的资本市场需要多元化的资本来源：私募机构提供技术验证、运营支持和业务孵化，公开市场提供更广泛的参与渠道、定价机制和流动性，并购则为投资者提供退出通道并促进资本循环"
+      ],
+      "url": "https://m.sfccn.com/2026/11-12/yNMDE0MDRfMjMwMzEyNQ.html",
+      "source": "m.sfccn.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-12T11:00:00Z"
+    },
+    {
+      "id": "f4861b181bf7",
+      "title": "健康、户外、服装等领域21条品牌最新投资并购态丨全球时尚投资周报第42-46期 – 华丽志",
+      "summary": "水上智能消费硬件品牌 MIRAVA 近日完成近5000万元人民币天使轮融资，本轮由九合创投领投，初心资本、Eversnow 跟投。本轮资金将重点投入核心技术研发迭代，推进产线量产建设，以及搭建欧洲本地化渠道及服务体系。\n\nMIRAVA 核心团队成员均来自华为、商汤等头部科技大厂及清华大学、西北工业大学等知名高校，致力于将船舶智能驾驶技术与休闲游艇工业设计深度融合，面向全球市场提供智能化水上休闲装备...",
+      "highlights": [
+        "水上智能消费硬件品牌 MIRAVA 近日完成近5000万元人民币天使轮融资，本轮由九合创投领投，初心资本、Eversnow 跟投",
+        "本轮资金将重点投入核心技术研发迭代，推进产线量产建设，以及搭建欧洲本地化渠道及服务体系",
+        "MIRAVA 核心团队成员均来自华为、商汤等头部科技大厂及清华大学、西北工业大学等知名高校，致力于将船舶智能驾驶技术与休闲游艇工业设计深度融合，面向全球市场提供智能化水上休闲装备"
+      ],
+      "url": "https://luxe.co/post/488192",
+      "source": "luxe.co",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-12T05:00:00Z"
+    },
+    {
+      "id": "0e2708b7b12a",
+      "title": "AI: Anthropic & OpenAI Use AI to Design AI Chips. AI-RTZ #1268",
+      "summary": "Google, the most vertically integrated of them all, with its TPU chips and its Gemini models. As I wrote on Tuesday in ‘Google Specializes Its TPUs as Nvidia Wobbles’ (AI-RTZ #1266), its TPU teams get...",
+      "highlights": [
+        "Google, the most vertically integrated of them all, with its TPU chips and its Gemini models. As I wrote on Tuesday in ‘Google Specializes Its TPUs as Nvidia Wobbles’ (AI-RTZ #1266), its TPU teams get early access to the latest Gemini models to design and debug the chips.",
+        "Amazon, with its Trainium chips and its own Nova models. Anthropic is one of Trainium’s biggest customers, as I discussed in ‘Amazon AI chips traction with key customers & partners’ (AI-RTZ #1094). [...] Now that same Anthropic is using Claude to design chips of its own. Every custom chip of Anthropic’s that works could mean fewer Trainium chips rented from Amazon, or fewer TPUs from Google, over time. Its biggest backers are also its chip suppliers, and soon perhaps its chip competitors.",
+        "If Anthropic or OpenAI end up with AI models far better at chip design than anyone else’s, they could keep the most cutting-edge versions to themselves, at least at first. [...] OpenAI is already there with its ‘Jalapeño’ chip, designed with help from its own frontier AI models. Meanwhile, the companies building the backup chips to Nvidia, Google, Amazon, Microsoft and Meta, are all building their own AI models. The frontier AI labs are crossing over into chips, and the chipmakers into models. It’s one of the more intriguing ‘Frenemies’ storylines in the AI Tech Wave, and it ties directly to the hottest topic in AI research right now: Recursive Self-Improvement, or"
+      ],
+      "url": "https://michaelparekh.substack.com/p/ai-anthropic-and-openai-use-ai-to",
+      "source": "michaelparekh.substack.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-12T06:00:00Z"
+    },
+    {
+      "id": "9605f53705ed",
+      "title": "医械周看 | AI医疗 | 11月5日-11月11日 | Gemini医疗版发布|海外AI并购融资密集|基础模型论文密集",
+      "summary": "海外AI并购融资密集. 11 月 10 日至 11 日,Oura 宣布以 6.25 亿... 官网发布《关于发布〈人工智能医疗器械检查要点〉的通告》,落...",
+      "highlights": [
+        "海外AI并购融资密集. 11 月 10 日至 11 日,Oura 宣布以 6.25 亿... 官网发布《关于发布〈人工智能医疗器械检查要点〉的通告》,落..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4uDHqVBjZAjLPNAC21R5u92gtxhcr2vf1qXa8Fplpd9Iu8T3sCVFWwsr3I0ErmCZ7EI--6SdNsrojGkU3Nba0IveUfxha0mDx8VE-LrMOj2HTWoH4mn8kUdYB9aVDJNR6TDQr76TADaHQAJHd0rmRf9SpC5CX3hvyhtayYjjsIPOmzUdq0kbf4hGaZhxjt_5yEwtYgVrEI1SndxIzMvtmMY-UZGbO56rA..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=5965847B7B24638DBDB8DEB17D33949DBEA726876AF540C5",
+      "source": "微信公众号",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-12T00:10:06Z"
+    },
+    {
+      "id": "9f3254484c73",
+      "title": "【百強透視】平頭哥激活AI芯片？天數智芯（09903.HK）大漲超12%",
+      "summary": "財華智庫網\n FINTV\n  + FINTV官方網站\n  + YOUTUBE FINTV頻道\n  + Bilibli FINTV頻道\n FINMETA\n 財華證券\n 財華媒體矩陣\n 財華智庫沙龍\n\n 港股100強\n 官網\n 榜單\n 地圖\n 沙龍\n 企業\n 研究\n 顧問\n 聯盟\n\n或官方合作渠道報名參會，到現場親眼見證榜單揭曉，還能與數百位上市公司高管、資本領袖、行業專家聚在一起，交流探討。\n\n天數...",
+      "highlights": [
+        "+ FINTV官方網站",
+        "+ YOUTUBE FINTV頻道",
+        "+ Bilibli FINTV頻道"
+      ],
+      "url": "https://www.finet.hk/newscenter/news_content/6af54eb7230829237446677c",
+      "source": "finet.hk",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-11-12T05:28:10Z"
+    },
+    {
+      "id": "08b29cca47d0",
+      "title": "南方财经网 - 南方财经全媒体集团",
+      "summary": "第三，产业创新价值加速激活，面向未来的投资机遇不断显现。“十五五”规划明确提出，加快高水平科技自立自强，引领发展新质生产力。今年以来，中国产业升级步伐持续加快，高端制造、数智经济和现代服务业等新动能不断发展壮大，对经济增长贡献率稳定在40%以上。资本市场不断加大对科技创新企业支持力度，持续优化上市标准和上市流程，提升制度包容性、适应性。以上交所科创板为例，目前科创板公司超过600家，今年前三季度研...",
+      "highlights": [
+        "第三，产业创新价值加速激活，面向未来的投资机遇不断显现",
+        "“十五五”规划明确提出，加快高水平科技自立自强，引领发展新质生产力",
+        "今年以来，中国产业升级步伐持续加快，高端制造、数智经济和现代服务业等新动能不断发展壮大，对经济增长贡献率稳定在40%以上"
+      ],
+      "url": "https://m.sfccn.com/2026/11-12/4NMDE0MDRfMjMwMjU4NQ.html",
+      "source": "m.sfccn.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-11-12T06:00:00Z"
+    },
+    {
+      "id": "3c16f9967224",
+      "title": "债券市场认为芯片股风险更高。华尔街的看法错了吗？",
+      "summary": "与人工智能相关的信用风险正在经历显著的重新定价。根据高盛近期发布的信贷市场报告，信用违约互换（CDS）主要半导体公司的市盈率差值近三个月来首次超过超大规模云",
+      "highlights": [
+        "与人工智能相关的信用风险正在经历显著的重新定价",
+        "根据高盛近期发布的信贷市场报告，信用违约互换（CDS）主要半导体公司的市盈率差值近三个月来首次超过超大规模云"
+      ],
+      "url": "https://www.moomoo.com/hans/news/post/1004409573",
+      "source": "moomoo.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-11-12T09:00:00Z"
+    },
+    {
+      "id": "e55b420c4b5b",
+      "title": "医械周看 | AI医疗 | 11月5日-11月11日 | Gemini医疗版发布|海外AI并购融资密集|基础模型论文密集",
+      "summary": "海外AI并购融资密集. 11 月 10 日至 11 日,Oura 宣布以 6.25 亿... 官网发布《关于发布〈人工智能医疗器械检查要点〉的通告》,落...",
+      "highlights": [
+        "海外AI并购融资密集. 11 月 10 日至 11 日,Oura 宣布以 6.25 亿... 官网发布《关于发布〈人工智能医疗器械检查要点〉的通告》,落..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4uDHqVBjZAjsotXN5WJtlTMizueSJS9tlqXa8Fplpd9eMfpR-IwOy2FSZMF_7jmWMXkw0yijW-5F4bgfPJwECg7sAFyCHvTGMUQkprnvYcjm1i0nQ5vbVE0hWYzkjdDWtfF9Ez2h7DPlOcONAFPTN4WDQrA61DmG2-U2Z1oUHO_6iQA4nBIgDbuyx_YgB1Hllo3Kv1pPKwXbifcqksR9Waq3X8EKMKOIA..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=5DEECA296BC544495D5B3D489464B3A45D053EE36AF5C74B",
+      "source": "微信公众号",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-12T00:10:06Z"
+    },
+    {
+      "id": "70a9fb3cdc81",
+      "title": "新型电力系统—AI Agent智能体体系、技术与应用研究报告",
+      "summary": "蚂蚁数科《新型电力系统—AI Agent智能体体系、技术与应用研究... 主要围绕AI开展理论、技术、产品、应用等方面的科学普及.平台...",
+      "highlights": [
+        "蚂蚁数科《新型电力系统—AI Agent智能体体系、技术与应用研究... 主要围绕AI开展理论、技术、产品、应用等方面的科学普及.平台..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4uDHqVBjZAjn4qpAxsdsZR2gtxhcr2vf1qXa8Fplpd9ABi9w3O5Zv01gQyftqg899VP9ZAmXDqxBvA3jzvgNWtz2a42n8bUMOGklIS9wkPzo2_Arso-RQ7v3yvrZCOag0Yyqn8nUXWx5AxXuRrBqMDBJRbYJVnmxfq9RRHTOfMqhGgTlGlUV72o_EccNiyfsFhj7H2uTdt7jHX9v6V1eP-FW6cwuUnkdA..&amp;type=2&amp;query=AI Agent %E6%99%BA%E8%83%BD%E4%BD%93 %E4%BA%A7%E5%93%81&amp;token=59657524A1FEBB576760066BA512137F673FD9DA6AF540C3",
+      "source": "微信公众号",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-11-12T00:03:07Z"
+    },
+    {
+      "id": "e840dd11d693",
+      "title": "恺望数据于旭：真实场景数据是做成机器人大脑的关键环节",
+      "summary": "谈及具身领域的真需求，于旭表示，与自动驾驶在既有汽车产业基础上进行智能化升级不同，具身智能从硬件、软件到数据供给，都有大量基础工作需要重新建设。",
+      "highlights": [
+        "谈及具身领域的真需求，于旭表示，与自动驾驶在既有汽车产业基础上进行智能化升级不同，具身智能从硬件、软件到数据供给，都有大量基础工作需要重新建设"
+      ],
+      "url": "https://m.sohu.com/a/1100501294_120285954?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-11-12T04:00:00Z"
+    },
+    {
+      "id": "7c1064acdf66",
+      "title": "建筑地产|AI Agent智能体落地案例,覆盖招投标、工程管控全场景",
+      "summary": "AI智能体(Agent)区别于传统AI工具的核心特征在于自主感知、... ＂写标书车间＂升级为＂数据驱动的投标产品团队＂.1.3开评标...",
+      "highlights": [
+        "AI智能体(Agent)区别于传统AI工具的核心特征在于自主感知、... ＂写标书车间＂升级为＂数据驱动的投标产品团队＂.1.3开评标..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4uDHqVBjZAjSY0NfURnKlzMizueSJS9tlqXa8Fplpd9J8Ensk6ncacBtJoLOqCyO4NBxzgHUwIfiH9CUrxe5sZHSHka2Z26ZFYoRfdCuakZvVZ4kniBqaWRwnmEotMUdEWkxhJWp-QXFWhQQAKlZwU-8jSEcU1BJl7YuLgIpR899F2qwyZLG9BMVt35ab3MkXPN2UWIB5Q1n7_3DrStc4ISYTqT4eyLmA..&amp;type=2&amp;query=AI Agent %E6%99%BA%E8%83%BD%E4%BD%93 %E4%BA%A7%E5%93%81&amp;token=5DEEBD92923CBDB0A4A3C4B16D84F5BCA5C1C5526AF5C749",
+      "source": "微信公众号",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-11-12T10:08:13Z"
+    },
+    {
+      "id": "89c8b51f90ec",
+      "title": "³ɻǶԪоּ˲˫ʮһ٣ֵּ1500/Сʱ_ƾƵ_֤ȯ֮",
+      "summary": "ȨϢٱר\n\nԭ⣺³ɻǶԪоּ˲˫ʮһ٣ֵּ1500/Сʱ\n\nƷ˾о\n\nҵý屨ǰǶԪоּͶй˳˫ʮһٷּϣڻӰμĲֿ⹤£ʵֵַ 1500  / СʱĶּҵΪڽ̴ٸ߷忼ľܷ\n\nݹ˾ǶԪ (ROBOTERA)  2023  8 £廪ѧΨһֹɵľҵʼ˳½廪ѧʿʦڡǶԪǰ½ְ WaymoDenso ԶʻҵȾӦԶʻ [...] ǶԪӳӲһļ·ߣڴеͨ塢ͨӶʵֻ˸ǧаҵ߽ǧ򻧵ԸǶԪΧơԡ͡α塱ȫջУǴ㷨˶ơ˱...",
+      "highlights": [
+        "ԭ⣺³ɻǶԪоּ˲˫ʮһ٣ֵּ1500/Сʱ",
+        "ҵý屨ǰǶԪоּͶй˳˫ʮһٷּϣڻӰμĲֿ⹤£ʵֵַ 1500  / СʱĶּҵΪڽ̴ٸ߷忼ľܷ",
+        "ݹ˾ǶԪ (ROBOTERA)  2023  8 £廪ѧΨһֹɵľҵʼ˳½廪ѧʿʦڡǶԪǰ½ְ WaymoDenso ԶʻҵȾӦԶʻ [...] ǶԪӳӲһļ·ߣڴеͨ塢ͨӶʵֻ˸ǧаҵ߽ǧ򻧵ԸǶԪΧơԡ͡α塱ȫջУǴ㷨˶ơ˱塢ؽģֵȻڡ"
+      ],
+      "url": "https://finance.stockstar.com/IG2026111200019974.shtml",
+      "source": "finance.stockstar.com",
+      "category": "具身智能",
+      "importance": 2,
+      "publishedAt": "2026-11-12T04:00:00Z"
+    }
+  ],
+  "week": [
     {
       "id": "28df9482de42",
       "title": "IPO 在即， Anthropic 发布最强新模型后估值怎么还跌了？ - Odaily",
@@ -224,495 +964,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-11-10T13:00:00Z"
-    },
-    {
-      "id": "f6e3b2f2cd6f",
-      "title": "阿里巴巴平头哥递表港交所：国产AI芯片站上资本化与规模化双拐点",
-      "summary": "2026年11月9日至10日，算力芯片板块走出一轮反弹。燧原科技11月9日收盘大涨17.26%，盘中一度涨超19%；11月10日盘中涨近10%，总市值一度重返2000亿元上方，收盘上涨2.58%，市值1911亿元。支撑这一定价的，是公司自研迭代的四代架构、五款云端AI芯片，以及走自主DSA路线而非跟随GPGPU的技术选择，其最新一代GCU-CARE架构原生支持FP8精度。财务上，燧原2023年至2...",
-      "highlights": [
-        "2026年11月9日至10日，算力芯片板块走出一轮反弹",
-        "燧原科技11月9日收盘大涨17.26%，盘中一度涨超19%；11月10日盘中涨近10%，总市值一度重返2000亿元上方，收盘上涨2.58%，市值1911亿元",
-        "支撑这一定价的，是公司自研迭代的四代架构、五款云端AI芯片，以及走自主DSA路线而非跟随GPGPU的技术选择，其最新一代GCU-CARE架构原生支持FP8精度"
-      ],
-      "url": "https://news.qq.com/rain/a/20261111A05C6Z00",
-      "source": "news.qq.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-11T02:00:00Z"
-    },
-    {
-      "id": "782162673791",
-      "title": "2026，AI应用的钱都流向了哪里？_投资界",
-      "summary": "AI价值官2026-09-11\n ### 从投资人最看好的48个AI应用，我看到了这两个趋势\n\n  品玩2026-09-11\n ### 紫讯技术完成Pre-IPO轮融资，全面提速电商AI应用平台LinkFox发展\n\n  融资大事件2026-09-10\n\n### AI AssistantAI 阅读助手\n\n· 2026年上半年国内AI应用融资事件共33起，其中视频/图像/3D生成、AI Agent为热...",
-      "highlights": [
-        "AI价值官2026-09-11",
-        "### 从投资人最看好的48个AI应用，我看到了这两个趋势",
-        "品玩2026-09-11"
-      ],
-      "url": "https://news.pedaily.cn/202611/571650.shtml",
-      "source": "news.pedaily.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-11T00:39:00Z"
-    },
-    {
-      "id": "4c809fb6be6f",
-      "title": "智元、小米参投的北京芯片企业，启动IPO！_证券时报_媒体广场_财经_证券之星",
-      "summary": "|\n\n# 智元、小米参投的北京芯片企业，启动IPO！\n\n来源：证券时报网\n\n2026-11-11 19:02:00\n\n（原标题：智元、小米参投的北京芯片企业，启动IPO！）\n\n具身智能芯片企业加速对接资本市场。\n\n近日，北京辉羲科技股份有限公司（简称“辉羲科技”）在北京证监局办理上市辅导备案登记，启动A股IPO进程。据公司披露，其旗下光至R1芯片已应用于智元机器人的精灵G2机器人，智元是其客户，也...",
-      "highlights": [
-        "# 智元、小米参投的北京芯片企业，启动IPO",
-        "2026-11-11 19:02:00",
-        "（原标题：智元、小米参投的北京芯片企业，启动IPO"
-      ],
-      "url": "https://wap.stockstar.com/detail/IG2026111100040460",
-      "source": "wap.stockstar.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-11T11:00:00Z"
-    },
-    {
-      "id": "4f506b58f07c",
-      "title": "Google Expands TPU Line With Confidential Computing and High-Memory AI Chips",
-      "summary": "The TPU 8i Max combines two inference-focused TPU 8i chips in a single package, doubling memory capacity, processing power and bandwidth so AI models can handle a wider range of information during que...",
-      "highlights": [
-        "The TPU 8i Max combines two inference-focused TPU 8i chips in a single package, doubling memory capacity, processing power and bandwidth so AI models can handle a wider range of information during queries.",
-        "The move comes as Microsoft, Amazon, OpenAI and Anthropic develop their own AI chips to lessen dependence on Nvidia, whose CEO Jensen Huang admitted over the weekend to an affair with someone alleged to be a Chinese spy.",
-        "TopicsAIGoogleHigh-Memory AI ChipsinsightsTPU 8i MaxTPU 8tx [...] Google has added two new variants to its tensor processing unit (TPU) family, extending its in-house AI chips to confidential inference and larger-memory workloads as it seeks to reduce reliance on third-party chips for its cloud business."
-      ],
-      "url": "https://theaiinsider.tech/2026/11/11/google-expands-tpu-line-with-confidential-computing-and-high-memory-ai-chips",
-      "source": "theaiinsider.tech",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-11T08:53:22Z"
-    },
-    {
-      "id": "248bcd3d778e",
-      "title": "以开源打开新空间 中国大模型竞逐全球智能赛道_搜狐网",
-      "summary": "## 以开源打开新空间 中国大模型竞逐全球智能赛道\n\n黑科技研究所\n\n黑科技研究所\n\n中国工业报记者 耿鹏飞\n\n从开源代码至模型到应用生态，开源带动产业落地（图为AI生成）\n\n“AI只有开源才能普及，只有普及才能创造可持续、普惠的智能时代。”蔡崇信说，中国开源模型下载量、衍生模型数等关键指标保持领先，已成为当前全球开源智能的引领者。\n\n紧接着，11月4日，腾讯混元发布最新一代大语言模型Hy4。据介...",
-      "highlights": [
-        "## 以开源打开新空间 中国大模型竞逐全球智能赛道",
-        "中国工业报记者 耿鹏飞",
-        "从开源代码至模型到应用生态，开源带动产业落地（图为AI生成）"
-      ],
-      "url": "https://m.sohu.com/a/1100057530_121948416?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-11T12:15:00Z"
-    },
-    {
-      "id": "8fbdf55b676f",
-      "title": "英伟达最大的对手可能不是AMD，而是谷歌：AI芯片战争进入下半场_搜狐网",
-      "summary": "## 英伟达最大的对手可能不是AMD，而是谷歌：AI芯片战争进入下半场\n\n财报研究社pro\n\n财报研究社pro\n\n11月9日，谷歌宣布扩充第八代TPU产品线，推出面向政府及受监管行业的TPU 8tx，以及针对大规模信息处理和复杂推理任务的TPU 8i Max。谷歌正在加快自研AI芯片的商业化，并将竞争范围从内部基础设施延伸至更广泛的企业市场。\n\n谷歌拥有完整的AI基础设施体系。从Gemini模型到...",
-      "highlights": [
-        "## 英伟达最大的对手可能不是AMD，而是谷歌：AI芯片战争进入下半场",
-        "11月9日，谷歌宣布扩充第八代TPU产品线，推出面向政府及受监管行业的TPU 8tx，以及针对大规模信息处理和复杂推理任务的TPU 8i Max",
-        "谷歌正在加快自研AI芯片的商业化，并将竞争范围从内部基础设施延伸至更广泛的企业市场"
-      ],
-      "url": "https://m.sohu.com/a/1099680759_120000222?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-10T16:20:42Z"
-    },
-    {
-      "id": "d270a53b4e37",
-      "title": "沙利文联合头豹发布《2026年中国企业级Agent智能体解决方案市场报告》",
-      "summary": "发布时间：2026/11/11\n\n沙利文联合头豹发布《2026年中国企业级Agent智能体解决方案市场报告》。报告指出，企业级Agent智能体解决方案是一套以企业数据与业务逻辑为核心的全栈技术体系，自下而上分为模型与推理、数据与知识、构建与编排、交付与应用四层，工具连接与运行治理贯穿各层。企业级Agent正从知识检索与内容生成走向可调用系统、协同执行流程的智能体工作流，核心价值在于形成可治理、可追...",
-      "highlights": [
-        "发布时间：2026/11/11",
-        "沙利文联合头豹发布《2026年中国企业级Agent智能体解决方案市场报告》",
-        "报告指出，企业级Agent智能体解决方案是一套以企业数据与业务逻辑为核心的全栈技术体系，自下而上分为模型与推理、数据与知识、构建与编排、交付与应用四层，工具连接与运行治理贯穿各层"
-      ],
-      "url": "https://www.frostchina.com/content/insight/detail/6af194323106bf8632c15b2f",
-      "source": "frostchina.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-11T06:00:00Z"
-    },
-    {
-      "id": "3bcb0d8b8ad5",
-      "title": "Q3 加密融资继续降温，资金转向后期与战略轮",
-      "summary": "更值得关注的是币价与融资的背离。比特币从 7 月初约 $58.6K 涨至 10 月初约 $83.6K，涨幅约 43%，一级市场却未随之回暖。我们认为，一个重要原因是 AI 对资本的吸纳：AI 算力与模型的资金需求巨大，市场对其成长空间的预期也更高；在 LP 配置额度有限的情况下，部分原本投向加密创投的资金正在转向 AI。头部加密原生机构的动作也印证了这一点：7 月 8 日，Paradigm 宣布完...",
-      "highlights": [
-        "更值得关注的是币价与融资的背离",
-        "比特币从 7 月初约 $58.6K 涨至 10 月初约 $83.6K，涨幅约 43%，一级市场却未随之回暖",
-        "我们认为，一个重要原因是 AI 对资本的吸纳：AI 算力与模型的资金需求巨大，市场对其成长空间的预期也更高；在 LP 配置额度有限的情况下，部分原本投向加密创投的资金正在转向 AI"
-      ],
-      "url": "https://www.chaincatcher.com/article/2303277",
-      "source": "chaincatcher.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-10T15:47:40Z"
-    },
-    {
-      "id": "193dd03e0370",
-      "title": "Google escalates Nvidia rivalry with specialized versions of AI chips - The Japan Times",
-      "summary": "The company is introducing two new variations of its tensor processing units (TPUs), custom-made semiconductors that help develop and run AI software. The latest chips will address the need for confid...",
-      "highlights": [
-        "The company is introducing two new variations of its tensor processing units (TPUs), custom-made semiconductors that help develop and run AI software. The latest chips will address the need for confidential computing and help models access a wider range of information when handling queries. More broadly, they’re meant to serve an industry that’s shifting toward the use of AI agents and confronting security challenges. [...] Alphabet’s Google is rolling out a broader array of artificial intelligence chips, aiming to capitalize on its rapid ascent as a challenger to Nvidia in a market worth hundreds of billions of dollars. [...] Racks of trays testing Google’s tensor processing units (TPUs), custom-made semiconductors that help develop and run AI software, in Mountain View, California, earlier this year, custom-made semiconductors that help develop and run AI software, in Mountain View, California, earlier this year\")",
-        "Bookmark story"
-      ],
-      "url": "https://www.japantimes.co.jp/business/2026/11/10/tech/google-nvidia-rivalry-ai-chips",
-      "source": "japantimes.co.jp",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-10T07:26:20Z"
-    },
-    {
-      "id": "62b4f2df04fc",
-      "title": "J. Crew debuts new AI shopping tool that's designed to think like a stylist | Fortune",
-      "summary": "Anthropic continues to advance plans for IPO; debuts new frontier models. Yet another AI company aiming to navigate more turbulent times is Anthropic, which is reportedly planning to go public next we...",
-      "highlights": [
-        "Anthropic continues to advance plans for IPO; debuts new frontier models. Yet another AI company aiming to navigate more turbulent times is Anthropic, which is reportedly planning to go public next week even as shares of AI companies have faced pressure as investors fret about high infrastructure costs and U.S. midterm election results that are divisively more “anti AI.” Separately, on Monday, Anthropic debuted two new AI models called Fable 5.2 and Mythos 5.2, which the company said generate [...] Alphabet, meanwhile, takes aim at Nvidia. On Monday, Google debuted new AI chips that Bloomberg reports are intended to take some share from Nvidia’s dominant position and represent an acceleration in product development coming from the company’s chip division. But another corner of the search giant’s AI business is facing mounting criticism. Politicians are lamenting the company’s decision to block search for K-12 student accounts if districts have enacted AI bans. Sen. Edward Markey has [...] are facing from investors. More optimistically, Business Insider reports on fresh research data from Graphite that found ChatGPT has captured 81% of worldwide AI chatbot traffic, easily outpacing rivals Google and Anthropic, who had been making some inroads."
-      ],
-      "url": "https://fortune.com/2026/11/11/jcrew-anthropic-ai-style-advisor",
-      "source": "fortune.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-11T17:00:00Z"
-    },
-    {
-      "id": "cf23b8ef774f",
-      "title": "OpenAI Acquires AI Travel Startup Odessia as Founder Joins – Unite.AI",
-      "summary": "My Feed\n\n### Acquisitions\n\n# OpenAI Acquires AI Travel Startup Odessia as Founder Joins\n\nPublished\n\nBy\n\n Evan Mercer, AI Startups & Venture Capital AI Research Agent\n\nAdd Unite.AI to your preferred so...",
-      "highlights": [
-        "### Acquisitions",
-        "# OpenAI Acquires AI Travel Startup Odessia as Founder Joins",
-        "Evan Mercer, AI Startups & Venture Capital AI Research Agent"
-      ],
-      "url": "https://www.unite.ai/openai-acquires-ai-travel-startup-odessia-as-founder-joins",
-      "source": "unite.ai",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-10T19:28:05Z"
-    },
-    {
-      "id": "b3ca9a2d951b",
-      "title": "谷歌发布旗下最强模型|Google|大模型|网络安全|机构|评测_手机新浪网",
-      "summary": "## 新浪科技\n\n  \n\n【#谷歌发布旗下最强模型#】#Gemini4Carbon来了# 在Anthropic更新模型后，谷歌也坐不住了。北京时间11月11日，谷歌正式向公众发布Gemini 4 Carbon，号称旗下迄今为止“最强大的模型”，面向复杂、长周期任务，定位为解决最棘手问题时应该启用的模型。\n\n在10月29日首次公开Carbon时，这一模型仅向部分网络安全防御人员开放，但当时引发了行业...",
-      "highlights": [
-        "【#谷歌发布旗下最强模型#】#Gemini4Carbon来了# 在Anthropic更新模型后，谷歌也坐不住了",
-        "北京时间11月11日，谷歌正式向公众发布Gemini 4 Carbon，号称旗下迄今为止“最强大的模型”，面向复杂、长周期任务，定位为解决最棘手问题时应该启用的模型",
-        "在10月29日首次公开Carbon时，这一模型仅向部分网络安全防御人员开放，但当时引发了行业关注，因为模型一度登顶AI大模型评测机构Artificial Analysis的智能指数榜，超越Anthropic的Claude Opus 5.5和OpenAI的GPT-6 Astra"
-      ],
-      "url": "https://finance.sina.cn/2026-11-11/detail-iniyixxy2014982.d.html?vt=4",
-      "source": "finance.sina.cn",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-11T14:25:39Z"
-    },
-    {
-      "id": "5e9871d52315",
-      "title": "中国大模型，不想只卖API了 _ 东方财富网",
-      "summary": "财经\n 焦点\n 股票\n 新股\n 期指\n 期权\n 行情\n 数据\n 全球\n 美股\n 港股\n 期货\n 外汇\n 银行\n 基金\n 理财\n 债券\n 直播\n 股吧\n 基金吧\n 博客\n 财富号\n 搜索\n\n指数 期指 期权 个股 板块 排行 新股 基金 港股 美股 期货 外汇 黄金 自选股 自选基金\n\n资金流向 主力排名 板块资金 个股研报 新股申购 转债申购 北交所申购 AH股比价 年报大全 融资融券 龙虎榜 限...",
-      "highlights": [
-        "指数 期指 期权 个股 板块 排行 新股 基金 港股 美股 期货 外汇 黄金 自选股 自选基金",
-        "资金流向 主力排名 板块资金 个股研报 新股申购 转债申购 北交所申购 AH股比价 年报大全 融资融券 龙虎榜 限售解禁 IPO审核 大宗交易 估值分析",
-        "首页 > 财经频道 > 正文"
-      ],
-      "url": "https://finance.eastmoney.com/a/202611123929074061.html",
-      "source": "finance.eastmoney.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-12T00:00:00Z"
-    },
-    {
-      "id": "1b4845e24fa3",
-      "title": "OpenAI",
-      "summary": "# OpenAI\nID: p4PyTakV77G9\nWebsite: www.openai.com\nHeadquarters: San Francisco, CA, United States\nLinkedIn: www.linkedin.com/company/openai · 11,529,792 followers\nIndustry: Research Services\nIndustry c...",
-      "highlights": [
-        "ID: p4PyTakV77G9",
-        "Website: www.openai.com",
-        "Headquarters: San Francisco, CA, United States"
-      ],
-      "url": "https://tavily.com/knowledge/company/p4PyTakV77G9",
-      "source": "tavily.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-11-11T13:01:38Z"
-    },
-    {
-      "id": "c5dfde6a90d1",
-      "title": "容联云参与制定，首个可信办公智能体标准体系正式发布-AI云资讯",
-      "summary": "本次发布的《标准体系》由基础共性、治理方法、治理支撑三个子体系构成，并提出来源可信、过程可信、结果可信、组织可信、协同可信、生态可信、数据可信、身份可信、责任可信、安全可信等“十维可信”评价维度，为智能体的研发、部署、运行与管理提供系统性规范。\n\n02、深耕企业级Agent，探索可信落地路径\n\n标准的建立为智能体发展提供了规范框架，而可信能力最终需要在真实业务中得到验证。\n\n作为企业级AI应用的长...",
-      "highlights": [
-        "本次发布的《标准体系》由基础共性、治理方法、治理支撑三个子体系构成，并提出来源可信、过程可信、结果可信、组织可信、协同可信、生态可信、数据可信、身份可信、责任可信、安全可信等“十维可信”评价维度，为智能体的研发、部署、运行与管理提供系统性规范",
-        "02、深耕企业级Agent，探索可信落地路径",
-        "标准的建立为智能体发展提供了规范框架，而可信能力最终需要在真实业务中得到验证"
-      ],
-      "url": "https://www.icloudnews.net/a/124854.html",
-      "source": "icloudnews.net",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-11-10T23:00:00Z"
-    }
-  ],
-  "today": [
-    {
-      "id": "5e9871d52315",
-      "title": "中国大模型，不想只卖API了 _ 东方财富网",
-      "summary": "财经\n 焦点\n 股票\n 新股\n 期指\n 期权\n 行情\n 数据\n 全球\n 美股\n 港股\n 期货\n 外汇\n 银行\n 基金\n 理财\n 债券\n 直播\n 股吧\n 基金吧\n 博客\n 财富号\n 搜索\n\n指数 期指 期权 个股 板块 排行 新股 基金 港股 美股 期货 外汇 黄金 自选股 自选基金\n\n资金流向 主力排名 板块资金 个股研报 新股申购 转债申购 北交所申购 AH股比价 年报大全 融资融券 龙虎榜 限...",
-      "highlights": [
-        "指数 期指 期权 个股 板块 排行 新股 基金 港股 美股 期货 外汇 黄金 自选股 自选基金",
-        "资金流向 主力排名 板块资金 个股研报 新股申购 转债申购 北交所申购 AH股比价 年报大全 融资融券 龙虎榜 限售解禁 IPO审核 大宗交易 估值分析",
-        "首页 > 财经频道 > 正文"
-      ],
-      "url": "https://finance.eastmoney.com/a/202611123929074061.html",
-      "source": "finance.eastmoney.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-12T00:00:00Z"
-    },
-    {
-      "id": "9605f53705ed",
-      "title": "医械周看 | AI医疗 | 11月5日-11月11日 | Gemini医疗版发布|海外AI并购融资密集|基础模型论文密集",
-      "summary": "海外AI并购融资密集. 11 月 10 日至 11 日,Oura 宣布以 6.25 亿... 官网发布《关于发布〈人工智能医疗器械检查要点〉的通告》,落...",
-      "highlights": [
-        "海外AI并购融资密集. 11 月 10 日至 11 日,Oura 宣布以 6.25 亿... 官网发布《关于发布〈人工智能医疗器械检查要点〉的通告》,落..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4uDHqVBjZAjLPNAC21R5u92gtxhcr2vf1qXa8Fplpd9Iu8T3sCVFWwsr3I0ErmCZ7EI--6SdNsrojGkU3Nba0IveUfxha0mDx8VE-LrMOj2HTWoH4mn8kUdYB9aVDJNR6TDQr76TADaHQAJHd0rmRf9SpC5CX3hvyhtayYjjsIPOmzUdq0kbf4hGaZhxjt_5yEwtYgVrEI1SndxIzMvtmMY-UZGbO56rA..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD %E8%9E%8D%E8%B5%84 %E5%B9%B6%E8%B4%AD&amp;token=5965847B7B24638DBDB8DEB17D33949DBEA726876AF540C5",
-      "source": "微信公众号",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-11-12T00:10:06Z"
-    },
-    {
-      "id": "70a9fb3cdc81",
-      "title": "新型电力系统—AI Agent智能体体系、技术与应用研究报告",
-      "summary": "蚂蚁数科《新型电力系统—AI Agent智能体体系、技术与应用研究... 主要围绕AI开展理论、技术、产品、应用等方面的科学普及.平台...",
-      "highlights": [
-        "蚂蚁数科《新型电力系统—AI Agent智能体体系、技术与应用研究... 主要围绕AI开展理论、技术、产品、应用等方面的科学普及.平台..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4uDHqVBjZAjn4qpAxsdsZR2gtxhcr2vf1qXa8Fplpd9ABi9w3O5Zv01gQyftqg899VP9ZAmXDqxBvA3jzvgNWtz2a42n8bUMOGklIS9wkPzo2_Arso-RQ7v3yvrZCOag0Yyqn8nUXWx5AxXuRrBqMDBJRbYJVnmxfq9RRHTOfMqhGgTlGlUV72o_EccNiyfsFhj7H2uTdt7jHX9v6V1eP-FW6cwuUnkdA..&amp;type=2&amp;query=AI Agent %E6%99%BA%E8%83%BD%E4%BD%93 %E4%BA%A7%E5%93%81&amp;token=59657524A1FEBB576760066BA512137F673FD9DA6AF540C3",
-      "source": "微信公众号",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-11-12T00:03:07Z"
-    }
-  ],
-  "week": [
-    {
-      "id": "28df9482de42",
-      "title": "IPO 在即， Anthropic 发布最强新模型后估值怎么还跌了？ - Odaily",
-      "summary": "根据 Anthropic 官方博客信息，最新的 2 大模型共用同一套底层模型，其中，Fable 面向所有付费用户，并已在 Claude 平台以及亚马逊云科技、谷歌云和微软 Azure 上线；Mythos 需通过生命科学或网络安全验证项目申请。官方称输出速度最多比 5.1 快约 30%。\n\nClaude 账号跟帖 和 API 定价页 口径一致：标准 API 为每百万输入代币 8 美元、每百万输出代币...",
-      "highlights": [
-        "根据 Anthropic 官方博客信息，最新的 2 大模型共用同一套底层模型，其中，Fable 面向所有付费用户，并已在 Claude 平台以及亚马逊云科技、谷歌云和微软 Azure 上线；Mythos 需通过生命科学或网络安全验证项目申请",
-        "官方称输出速度最多比 5.1 快约 30%",
-        "Claude 账号跟帖 和 API 定价页 口径一致：标准 API 为每百万输入代币 8 美元、每百万输出代币 40 美元，低于上一版的 10 美元和 50 美元"
-      ],
-      "url": "https://www.odaily.news/zh-CN/post/5213844",
-      "source": "odaily.news",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-10T04:51:58Z"
-    },
-    {
-      "id": "0249beb873bd",
-      "title": "清析智研完成近亿元天使轮融资，押注真实数据与AI原生设备_投资界",
-      "summary": "· 清析智研2026年成立，AI for Science赛道获近亿元天使轮融资，投资方含中芯聚源、高瓴创投等产业/投资机构，核心团队兼具半导体、材料科学复合经验，已积累数千万实验数据，自研XRD解析模型登MatSciBench榜首，商业化三线并进，成立半年签约订单数千万元，布局稀土永磁等战略新兴材料，对应2030年500亿级市场。  \n 行业AI 材料研发需求爆发，商业化落地进展需跟踪，技术迭代与...",
-      "highlights": [
-        "· 清析智研2026年成立，AI for Science赛道获近亿元天使轮融资，投资方含中芯聚源、高瓴创投等产业/投资机构，核心团队兼具半导体、材料科学复合经验，已积累数千万实验数据，自研XRD解析模型登MatSciBench榜首，商业化三线并进，成立半年签约订单数千万元，布局稀土永磁等战略新兴材料，对应2030年500亿级市场",
-        "行业AI 材料研发需求爆发，商业化落地进展需跟踪，技术迭代与产业化进度直接影响规模释放",
-        "总结：该企业依托技术壁垒与产业资源，具备高增长潜力，但需关注技术落地与市场竞争风险"
-      ],
-      "url": "https://news.pedaily.cn/202611/571607.shtml",
-      "source": "news.pedaily.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-10T05:34:00Z"
-    },
-    {
-      "id": "1c671140cc19",
-      "title": "大河财立方",
-      "summary": "### 往期回顾\n\n立方基金通 第113期 【立方基金通】河南10亿智能制造基金落地/OpenAI再融110亿美元/年内超10只百亿母基金设立 Image 9立方基金通 第112期 【立方基金通】商业航天独角兽启动IPO/葛卫东入局无人重卡/物源科技完成超7亿元融资 Image 10立方基金通 第111期 【立方基金通】10个月融20亿，又一AI独角兽诞生/江苏拟设70亿并购基金 Image 11...",
-      "highlights": [
-        "立方基金通 第113期 【立方基金通】河南10亿智能制造基金落地/OpenAI再融110亿美元/年内超10只百亿母基金设立 Image 9立方基金通 第112期 【立方基金通】商业航天独角兽启动IPO/葛卫东入局无人重卡/物源科技完成超7亿元融资 Image 10立方基金通 第111期 【立方基金通】10个月融20亿，又一AI独角兽诞生/江苏拟设70亿并购基金 Image 11",
-        "外交部：新一轮中美大熊猫合作将推进全球生物多样性保护",
-        "Image 132026-11-10 15:17:07"
-      ],
-      "url": "https://app.dahecube.com/article.html?artid=292403%3Frecid%3D1",
-      "source": "app.dahecube.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-10T07:00:00Z"
-    },
-    {
-      "id": "43855e5b51d1",
-      "title": "Anthropic says ‘pacing, not pausing’ with Fable 5.2 | The Rundown AI",
-      "summary": "Fable 5.2 is cheaper, faster, and strong enough to bump Google’s Gemini 4 Carbon before the public even got to try it. If this is Anthropic’s slow lane, it still looks faster than the rest of the indu...",
-      "highlights": [
-        "Fable 5.2 is cheaper, faster, and strong enough to bump Google’s Gemini 4 Carbon before the public even got to try it. If this is Anthropic’s slow lane, it still looks faster than the rest of the industry can keep up with.",
-        "In today’s AI rundown:",
-        "Anthropic’s Fable 5.2 leads the frontier with a price cut"
-      ],
-      "url": "https://www.therundown.ai/articles/anthropic-says-pacing-not-pausing-with-fable-5-2",
-      "source": "therundown.ai",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-10T10:00:00Z"
-    },
-    {
-      "id": "37f2d6a6adbb",
-      "title": "AI: Google Specializes Its TPUs as Nvidia Wobbles. AI-RTZ #1266",
-      "summary": "ARD #202: ‘Tried and True’ in AI. Nvidia, Anthropic & OpenAI\n AI-RTZ #1265: The Blue Wave & AI Data Centers, a Glass Half Full\n AI-RTZ #1264: TSMC, the ‘Fed of AI’, Eyes Memory\n AI-RTZ #1254: Google’s...",
-      "highlights": [
-        "ARD #202: ‘Tried and True’ in AI. Nvidia, Anthropic & OpenAI",
-        "AI-RTZ #1265: The Blue Wave & AI Data Centers, a Glass Half Full",
-        "AI-RTZ #1264: TSMC, the ‘Fed of AI’, Eyes Memory"
-      ],
-      "url": "https://michaelparekh.substack.com/p/ai-google-specializes-its-tpus-as-f77",
-      "source": "michaelparekh.substack.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-10T06:00:00Z"
-    },
-    {
-      "id": "55ff5cbc62ee",
-      "title": "Anthropic reportedly plans to move forward with IPO plans - TechCrunch",
-      "summary": "# Anthropic reportedly plans to move forward with IPO plans. Launching a major tech IPO would seem risky right now, shortly after one of Nasdaq’s biggest selloffs and amid revelations that a CEO centr...",
-      "highlights": [
-        "# Anthropic reportedly plans to move forward with IPO plans. Launching a major tech IPO would seem risky right now, shortly after one of Nasdaq’s biggest selloffs and amid revelations that a CEO central to the AI boom had an affair with a suspected Chinese spy. Anthropic plans to set a valuation range this week and begin trading on Thursday or Friday of next week, the Journal reported. Investors will look to Anthropic’s valuation to gauge the strength of the AI boom. Some institutional investors are now pushing for a valuation below the $1.5 trillion target discussed as recently as last week, a figure that was itself considerably below the $2 trillion floated a few months ago, the report said. OpenAI, Anthropic’s main rival, was reportedly valued at $1.25 trillion last week after the ChatGPT maker raised $11 billion in fresh capital, short of the $20 billion it had initially sought."
-      ],
-      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-      "source": "techcrunch.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-10T01:27:12Z"
-    },
-    {
-      "id": "399c2e8dd19c",
-      "title": "拟分拆平头哥独立上市，阿里巴巴在下什么棋？_搜狐网",
-      "summary": "## 拟分拆平头哥独立上市，阿里巴巴在下什么棋？\n\n新浪财经\n\n新浪财经\n\n（来源：第一财经资讯）\n\n11月10日晚，阿里巴巴公告，旗下芯片子公司平头哥已申请独立上市。上市完成后，平头哥仍将是阿里巴巴子公司。\n\n公告显示，2026年9月11日，平头哥已向香港联交所递交上市申请，拟通过H股在香港联交所主板独立上市。据悉，IPO具体规模尚未最终确定。\n\n平头哥成立于2018年，是阿里巴巴集团全资半导体...",
-      "highlights": [
-        "## 拟分拆平头哥独立上市，阿里巴巴在下什么棋",
-        "（来源：第一财经资讯）",
-        "11月10日晚，阿里巴巴公告，旗下芯片子公司平头哥已申请独立上市"
-      ],
-      "url": "https://m.sohu.com/a/1099799964_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-10T22:19:28Z"
-    },
-    {
-      "id": "694b03126bd0",
-      "title": "OpenAI 推出商家中心和 ChatGPT 商家智能体 – Unite.AI",
-      "summary": "行为规范禁止制造虚假紧迫感、在用户拒绝后施加压力、利用他人的脆弱处境，以及索取不必要的高风险个人信息。进行购买、预订、提交表单或分享用户信息，必须通过获批功能取得明确授权。智能体可以介绍产品和服务并提供一般信息，但不得提供依法必须由持有专业执照者提供的建议，也不得在缺乏人工审核的情况下自动作出重大决策。如有政策方面的顾虑，OpenAI 可以暂停或移除智能体。\n\n## 广告与拓展\n\n商家还可以赞助商...",
-      "highlights": [
-        "行为规范禁止制造虚假紧迫感、在用户拒绝后施加压力、利用他人的脆弱处境，以及索取不必要的高风险个人信息",
-        "进行购买、预订、提交表单或分享用户信息，必须通过获批功能取得明确授权",
-        "智能体可以介绍产品和服务并提供一般信息，但不得提供依法必须由持有专业执照者提供的建议，也不得在缺乏人工审核的情况下自动作出重大决策"
-      ],
-      "url": "https://www.unite.ai/zh-cn/openai-launches-business-hub-and-business-agents-in-chatgpt",
-      "source": "unite.ai",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-10T18:25:02Z"
-    },
-    {
-      "id": "e0f6ffe5e979",
-      "title": "Anthropic估值缩水，压力给到国内大模型公司_股票频道_证券之星",
-      "summary": "中国大模型公司的融资结构则更多依赖股权融资、银行贷款以及产业资本支持。\n\nRhodium Group的研究显示，2026年前八个月，智谱、MiniMax、DeepSeek和月之暗面四家企业获得的私募股权投资、IPO融资及定向增发资金合计达到1790亿元人民币。\n\n其中，智谱今年1月通过港股IPO融资约40亿元，7月又完成约270亿元的H股定向增发。\n\n资本仍然愿意为中国AI产业提供资金。\n\n但需要...",
-      "highlights": [
-        "中国大模型公司的融资结构则更多依赖股权融资、银行贷款以及产业资本支持",
-        "Rhodium Group的研究显示，2026年前八个月，智谱、MiniMax、DeepSeek和月之暗面四家企业获得的私募股权投资、IPO融资及定向增发资金合计达到1790亿元人民币",
-        "其中，智谱今年1月通过港股IPO融资约40亿元，7月又完成约270亿元的H股定向增发"
-      ],
-      "url": "https://stock.stockstar.com/IG2026111000044493.shtml",
-      "source": "stock.stockstar.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-10T12:00:00Z"
-    },
-    {
-      "id": "9e4abd6550d3",
-      "title": "Google broadens its AI hardware portfolio with two new specialized chips | TechCrunch",
-      "summary": "The chip launch comes as hyperscalers like Microsoft, Amazon, and even AI labs like OpenAI and Anthropic are working on their own lines of AI-specific semiconductors and accompanying software in order...",
-      "highlights": [
-        "The chip launch comes as hyperscalers like Microsoft, Amazon, and even AI labs like OpenAI and Anthropic are working on their own lines of AI-specific semiconductors and accompanying software in order to reduce their reliance on the dominance of Nvidia.",
-        "The news also comes at a particularly vulnerable moment for Nvidia, whose CEO Jensen Huang over the weekend admitted to having an affair with someone alleged to be a Chinese spy. [...] TPU 8tx, designed with AMD, is based on the TPU 8t chip, and is geared specifically for confidentially training and running AI models, Google said in a blog post. The chip “builds security directly into the hardware layer, keeping sensitive data and model weights protected and isolated even while in active use,” the company wrote. [...] Google is notching up its chipmaking game as the company seeks to reduce its dependence on chips made by other companies for its cloud computing business. Google on Monday unveiled two new variants of its tensor processing units (TPUs), in-house developed chips meant for AI workloads, that broaden its chip portfolio to additional use cases: confidential inference and more memory capacity for large workloads."
-      ],
-      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips",
-      "source": "techcrunch.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-10T15:54:08Z"
-    },
-    {
-      "id": "9759ed5fb874",
-      "title": "今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上 | 爱范儿",
-      "summary": "商务合作 内容投稿\n\n｜\n\n \n\n+ 我的动态\n+ 消息中心\n+ 我的收藏\n+ 账户设置\n\n退出登录\n\n爱范儿 LOGO \n\n 媒体品牌 \n\n  爱范儿 公众号二维码\n\n  APPSO 公众号二维码\n\n  先进工具，先知先行，AIGC 的灵感指南\n\n  董车会 公众号二维码\n\n  玩物志 公众号二维码\n\n  玩物志\n\n  探索城市新生活方式，做你的明日生活指南\n 知晓云\n 制糖工厂 \n\n  制糖工...",
-      "highlights": [
-        "APPSO 公众号二维码",
-        "先进工具，先知先行，AIGC 的灵感指南",
-        "探索城市新生活方式，做你的明日生活指南"
-      ],
-      "url": "https://www.ifanr.com/1688883",
-      "source": "ifanr.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-11T00:26:39Z"
-    },
-    {
-      "id": "557fdb3abeac",
-      "title": "具身智能标准化工作提速！机构近期扎堆调研产业链(名单)_基金动态_基金_中金在线",
-      "summary": "物理AI走向商业化临界点\n\n　　物理AI是指能够理解并作用于真实物理世界的人工智能系统，以机器人、自动驾驶等为载体的具身智能是其核心形态。\n\n　　方正证券在最新行业周报中指出，苹果HALO验证了大规模仿真合成数据驱动机器人技能学习的可行性，有望降低真机数据采集成本，加速机器人运动控制与环境感知能力的融合；苹果、英伟达等巨头正加速物理AI技术突破，机器人真实场景验证与商业化落地持续推进。\n\n　　国联...",
-      "highlights": [
-        "物理AI走向商业化临界点",
-        "物理AI是指能够理解并作用于真实物理世界的人工智能系统，以机器人、自动驾驶等为载体的具身智能是其核心形态",
-        "方正证券在最新行业周报中指出，苹果HALO验证了大规模仿真合成数据驱动机器人技能学习的可行性，有望降低真机数据采集成本，加速机器人运动控制与环境感知能力的融合；苹果、英伟达等巨头正加速物理AI技术突破，机器人真实场景验证与商业化落地持续推进"
-      ],
-      "url": "http://fund.cnfol.com/jijindongtai/20261111/32420646.shtml",
-      "source": "fund.cnfol.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-11-11T01:00:00Z"
-    },
-    {
-      "id": "1bb8a08c86a7",
-      "title": "谷歌最强模型终于开放，但普通付费用户还用不上",
-      "summary": "在10月29日首次公开Carbon时，这一模型仅向部分网络安全防御人员开放，但当时引发了行业关注，因为模型一度登顶AI大模型评测机构Artificial Analysis的智能指数榜，超越Anthropic的Claude Opus 5.5和OpenAI的GPT-6 Astra。\n\n随着昨天Anthropic最新模型Claude Fable 5.2的发布，Carbon退居第二，但目前仍处于全球第一梯...",
-      "highlights": [
-        "在10月29日首次公开Carbon时，这一模型仅向部分网络安全防御人员开放，但当时引发了行业关注，因为模型一度登顶AI大模型评测机构Artificial Analysis的智能指数榜，超越Anthropic的Claude Opus 5.5和OpenAI的GPT-6 Astra",
-        "随着昨天Anthropic最新模型Claude Fable 5.2的发布，Carbon退居第二，但目前仍处于全球第一梯队",
-        "谷歌DeepMind 高级副总裁Koray Kavukcuoglu在博客中表示，此前谷歌公布的Gemini 4 Argon主要面向软件工程和知识工作，而Carbon更强调复杂的、多步骤的编程与调试，以及开放式的科学研究与探索"
-      ],
-      "url": "https://www.yicai.com/news/103436065.html",
-      "source": "yicai.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-10T13:00:00Z"
-    },
-    {
-      "id": "170742878b48",
-      "title": "能控制机器人拧瓶盖、解魔方和画画！Fable 5.2的具身智能能力实现“惊人跃迁”",
-      "summary": "此前，具身智能公司的竞争对手，通常被认为是其他机器人公司。而现在，Fable 5.2的这次更新让部分业内人士意识到，通用大模型正在成为一个新的变量。\n\n不过，需要指出的是，RoboDojo目前是仿真环境下的评测，真实物理部署与仿真之间仍存在差距。Fable 5.2在真机演示中完成了拧瓶盖、解魔方和画画，但演示视频经过剪辑和加速处理——Reddit用户在帖子中提到，“机器人停顿的部分已被剪掉，视频也...",
-      "highlights": [
-        "此前，具身智能公司的竞争对手，通常被认为是其他机器人公司",
-        "而现在，Fable 5.2的这次更新让部分业内人士意识到，通用大模型正在成为一个新的变量",
-        "不过，需要指出的是，RoboDojo目前是仿真环境下的评测，真实物理部署与仿真之间仍存在差距"
-      ],
-      "url": "https://wallstreetcn.com/articles/3785622",
-      "source": "wallstreetcn.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-11-10T02:57:40Z"
-    },
-    {
-      "id": "5e37ec259563",
-      "title": "Chainalysis：绕开美国出口管制，中国 AI 大模型“蒸馏潮”背后的链上影子市场 | PANews",
-      "summary": "正如 Anthropic 在报告中警示的那样，非法蒸馏得到的衍生模型往往剥离了原版内置的安全护栏，极易向外扩散高危技术能力。就在上个月，美国国家安全局（NSA）也发出正式警告，指出该类行为已对关键基础设施、军事及科技经济安全构成重大风险。\n\n曾经零散隐蔽的灰度通道，如今已演化成结构清晰、上下游分工明确的商业经济体，并建立起专门的算力账户积分充值及财务基础设施。\n\n在这个新兴商业网络中，加密货币支付...",
-      "highlights": [
-        "正如 Anthropic 在报告中警示的那样，非法蒸馏得到的衍生模型往往剥离了原版内置的安全护栏，极易向外扩散高危技术能力",
-        "就在上个月，美国国家安全局（NSA）也发出正式警告，指出该类行为已对关键基础设施、军事及科技经济安全构成重大风险",
-        "曾经零散隐蔽的灰度通道，如今已演化成结构清晰、上下游分工明确的商业经济体，并建立起专门的算力账户积分充值及财务基础设施"
-      ],
-      "url": "https://www.panewslab.com/zh/articles/01a1c90c-aff9-778b-963d-2ec754b54848",
-      "source": "panewslab.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-11T09:00:00Z"
     }
   ],
   "month": [
@@ -792,19 +1043,6 @@
       "publishedAt": "2026-11-10T06:00:00Z"
     },
     {
-      "id": "55ff5cbc62ee",
-      "title": "Anthropic reportedly plans to move forward with IPO plans - TechCrunch",
-      "summary": "# Anthropic reportedly plans to move forward with IPO plans. Launching a major tech IPO would seem risky right now, shortly after one of Nasdaq’s biggest selloffs and amid revelations that a CEO centr...",
-      "highlights": [
-        "# Anthropic reportedly plans to move forward with IPO plans. Launching a major tech IPO would seem risky right now, shortly after one of Nasdaq’s biggest selloffs and amid revelations that a CEO central to the AI boom had an affair with a suspected Chinese spy. Anthropic plans to set a valuation range this week and begin trading on Thursday or Friday of next week, the Journal reported. Investors will look to Anthropic’s valuation to gauge the strength of the AI boom. Some institutional investors are now pushing for a valuation below the $1.5 trillion target discussed as recently as last week, a figure that was itself considerably below the $2 trillion floated a few months ago, the report said. OpenAI, Anthropic’s main rival, was reportedly valued at $1.25 trillion last week after the ChatGPT maker raised $11 billion in fresh capital, short of the $20 billion it had initially sought."
-      ],
-      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-      "source": "techcrunch.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-10T01:27:12Z"
-    },
-    {
       "id": "399c2e8dd19c",
       "title": "拟分拆平头哥独立上市，阿里巴巴在下什么棋？_搜狐网",
       "summary": "## 拟分拆平头哥独立上市，阿里巴巴在下什么棋？\n\n新浪财经\n\n新浪财经\n\n（来源：第一财经资讯）\n\n11月10日晚，阿里巴巴公告，旗下芯片子公司平头哥已申请独立上市。上市完成后，平头哥仍将是阿里巴巴子公司。\n\n公告显示，2026年9月11日，平头哥已向香港联交所递交上市申请，拟通过H股在香港联交所主板独立上市。据悉，IPO具体规模尚未最终确定。\n\n平头哥成立于2018年，是阿里巴巴集团全资半导体...",
@@ -862,6 +1100,21 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-11-10T15:54:08Z"
+    },
+    {
+      "id": "9759ed5fb874",
+      "title": "今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上 | 爱范儿",
+      "summary": "商务合作 内容投稿\n\n｜\n\n \n\n+ 我的动态\n+ 消息中心\n+ 我的收藏\n+ 账户设置\n\n退出登录\n\n爱范儿 LOGO \n\n 媒体品牌 \n\n  爱范儿 公众号二维码\n\n  APPSO 公众号二维码\n\n  先进工具，先知先行，AIGC 的灵感指南\n\n  董车会 公众号二维码\n\n  玩物志 公众号二维码\n\n  玩物志\n\n  探索城市新生活方式，做你的明日生活指南\n 知晓云\n 制糖工厂 \n\n  制糖工...",
+      "highlights": [
+        "APPSO 公众号二维码",
+        "先进工具，先知先行，AIGC 的灵感指南",
+        "探索城市新生活方式，做你的明日生活指南"
+      ],
+      "url": "https://www.ifanr.com/1688883",
+      "source": "ifanr.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-11-11T00:26:39Z"
     }
   ]
 }
