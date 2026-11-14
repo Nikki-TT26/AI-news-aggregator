@@ -1,96 +1,6 @@
 {
-  "updatedAt": "2026-11-14T03:43:07Z",
+  "updatedAt": "2026-11-14T12:35:09Z",
   "latest": [
-    {
-      "id": "31e08aa84261",
-      "title": "平头哥独立上市，阿里图什么？-36氪",
-      "summary": "图源 / 平头哥半导体官网\n\n平头哥同时布局这些环节，为阿里云从底层硬件进行协同优化提供了条件。阿里也在财报中明确表示，其芯片产品矩阵用于跨计算、存储和网络的系统级优化，以提升AI基础设施的性能和成本效率。\n\n产品布局之外，商业化情况也开始浮出水面。\n\n今年3月，阿里CEO吴泳铭在财报电话会上披露，平头哥年化营收规模已达到百亿元级别。这为外界判断其业务体量提供了一个参照。\n\n交付端，阿里今年3月披...",
-      "highlights": [
-        "图源 / 平头哥半导体官网",
-        "平头哥同时布局这些环节，为阿里云从底层硬件进行协同优化提供了条件",
-        "阿里也在财报中明确表示，其芯片产品矩阵用于跨计算、存储和网络的系统级优化，以提升AI基础设施的性能和成本效率"
-      ],
-      "url": "http://www.36kr.com/p/4066599455708804",
-      "source": "36kr.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-12T12:00:49Z"
-    },
-    {
-      "id": "f0def933f3da",
-      "title": "优必选与沐曦具身智能芯片合资公司曦选创智完成天使轮估值 40 亿融资|具身之家",
-      "summary": "曦选创智对机器人 “大小脑一体” 的域控解决方案进行了重新定义。公司结合沐曦在 GPU 架构、芯片工程和软件生态方面的积累，以及优必选在机器人本体、系统集成和应用场景方面的经验，将机器人实际任务需求带入芯片设计，在产品定义阶段统筹考虑模型运行需求，以及能效、接口适配与系统部署等要求，推动芯片设计与机器人系统的协同验证。\n\n目前，曦选创智正推进自研主控芯片的架构设计，前期主要面向半结构化环境中的机器...",
-      "highlights": [
-        "曦选创智对机器人 “大小脑一体” 的域控解决方案进行了重新定义",
-        "公司结合沐曦在 GPU 架构、芯片工程和软件生态方面的积累，以及优必选在机器人本体、系统集成和应用场景方面的经验，将机器人实际任务需求带入芯片设计，在产品定义阶段统筹考虑模型运行需求，以及能效、接口适配与系统部署等要求，推动芯片设计与机器人系统的协同验证",
-        "目前，曦选创智正推进自研主控芯片的架构设计，前期主要面向半结构化环境中的机器人应用，围绕机器人在不同任务中的感知、理解与自主决策需求，推进通用端侧计算平台的研发"
-      ],
-      "url": "https://www.jushenhome.com/news_d.php?id=2388",
-      "source": "jushenhome.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-12T09:00:00Z"
-    },
-    {
-      "id": "30dfc1ad10e7",
-      "title": "Personal AI 开战，它是如何引爆全球的_搜狐网",
-      "summary": "这个品类的引爆点最早出现在美国，Muse 上线十天登顶美国 App Store 免费榜，其财报会披露上线一个半月有超过 1000 万用户开通。谷歌的 Gemini Spark 在 I/O 大会上亮相后，OpenAI 的 Dot、Anthropic 的 Claude Duet 相继入局，千问宣布加速打造 Personal Agent，字节、腾讯也被曝在推进各自产品。10 月下旬，英伟达宣布向 met...",
-      "highlights": [
-        "这个品类的引爆点最早出现在美国，Muse 上线十天登顶美国 App Store 免费榜，其财报会披露上线一个半月有超过 1000 万用户开通",
-        "谷歌的 Gemini Spark 在 I/O 大会上亮相后，OpenAI 的 Dot、Anthropic 的 Claude Duet 相继入局，千问宣布加速打造 Personal Agent，字节、腾讯也被曝在推进各自产品",
-        "10 月下旬，英伟达宣布向 meta 投资 30 亿美元，围绕 Muse 扩大合作"
-      ],
-      "url": "https://m.sohu.com/a/1100445799_211762?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-12T10:03:19Z"
-    },
-    {
-      "id": "0bcd896438db",
-      "title": "AMD EPYC Venice正式发布：为智能体时代重构服务器CPU-存储在线-存储专业媒体",
-      "summary": "首页\n 存储资讯\n  + 业界新闻\n  + 技术新知\n  + 案例分享\n  + 经验技巧\n 研究报告\n  + 数据云图\n  + 存储芯图\n  + 数据基础设施\n 技术大会\n  + 全球闪存峰会\n  + 中国数据与存储峰会\n  + 数据基础设施技术峰会\n  + 分布式存储峰会\n DOIT活动\n DOIT首页\n\n \n\n当前位置：存储在线-存储专业媒体  技术  正文\n\n# AMD EPYC V...",
-      "highlights": [
-        "+ 中国数据与存储峰会",
-        "+ 数据基础设施技术峰会",
-        "当前位置：存储在线-存储专业媒体  技术  正文"
-      ],
-      "url": "https://www.dostor.com/p/101572.html",
-      "source": "dostor.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-12T04:00:00Z"
-    },
-    {
-      "id": "e03fc52df584",
-      "title": "美股科技板块巨震会否影响AI产业IPO节奏？花旗高管：节奏暂未变，明年上市主题将更多元",
-      "summary": "市场对人工智能产业链的审视，正在从收入增长转向变现能力，而这一转向早于中期选举。\n\n卓健勋透露，几个星期前不少新兴云厂商的信用价格已在提高。袁峥怡也表示，相关迹象“在中期选举之前大概两个礼拜”就已出现。债市同样如此，不同公司的债券利差有所走阔。“这不是什么大问题，只是投资者在关注人工智能生态里谁是赢家、谁是输家，他们看的是商业模式。”卓健勋认为。\n\n“以前有收入增长就够了，现在不够了。”卓健勋表示...",
-      "highlights": [
-        "市场对人工智能产业链的审视，正在从收入增长转向变现能力，而这一转向早于中期选举",
-        "卓健勋透露，几个星期前不少新兴云厂商的信用价格已在提高",
-        "袁峥怡也表示，相关迹象“在中期选举之前大概两个礼拜”就已出现"
-      ],
-      "url": "https://m.cls.cn/detail/2532669",
-      "source": "m.cls.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-12T09:00:00Z"
-    },
-    {
-      "id": "d3544d4d6965",
-      "title": "融资腰斩、IPO收窄：具身智能的冬天筛掉谁？ - 潮起网",
-      "summary": "像魔芯科技首次把世界模型部署门槛拉到工业场景可接受的水平，但部署门槛降低只是入场券，中间层卡在基础模型和应用场景之间，上游受基础模型和算力成本约束，下游受本体公司和场景方压价约束。真正的问题是：中间层能否把阶段性成本优势转化为持续研发投入，而不是停留在薄利集成层。陈默之前对于国内外模型侧发展差异的分析也从侧面说明了这点。\n\n第四个问题则是资本是否具有耐心？是否愿意“长期陪伴”行业成长？\n\n这是三类...",
-      "highlights": [
-        "像魔芯科技首次把世界模型部署门槛拉到工业场景可接受的水平，但部署门槛降低只是入场券，中间层卡在基础模型和应用场景之间，上游受基础模型和算力成本约束，下游受本体公司和场景方压价约束",
-        "真正的问题是：中间层能否把阶段性成本优势转化为持续研发投入，而不是停留在薄利集成层",
-        "陈默之前对于国内外模型侧发展差异的分析也从侧面说明了这点"
-      ],
-      "url": "https://www.ichaoqi.com/guandian/2026/1112/90090.html",
-      "source": "ichaoqi.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-12T12:31:20Z"
-    },
     {
       "id": "75c9b5a3af9f",
       "title": "证监会，最新发声 - 财闻网",
@@ -105,51 +15,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-11-12T13:21:05Z"
-    },
-    {
-      "id": "0e8a0f474b86",
-      "title": "南方财经网 - 南方财经全媒体集团",
-      "summary": "国际投资者的态度同样鲜明。淡马锡首席投资官罗锡德表示，中国资产在全球组合中具有吸引力，原因在于中国的创新能力、完整的工业基础以及庞大的国内市场。健康的资本市场需要多元化的资本来源：私募机构提供技术验证、运营支持和业务孵化，公开市场提供更广泛的参与渠道、定价机制和流动性，并购则为投资者提供退出通道并促进资本循环。作为在中国拥有超过二十年投资经验的全球投资者，淡马锡期待继续与中国企业保持密切合作，建设...",
-      "highlights": [
-        "国际投资者的态度同样鲜明",
-        "淡马锡首席投资官罗锡德表示，中国资产在全球组合中具有吸引力，原因在于中国的创新能力、完整的工业基础以及庞大的国内市场",
-        "健康的资本市场需要多元化的资本来源：私募机构提供技术验证、运营支持和业务孵化，公开市场提供更广泛的参与渠道、定价机制和流动性，并购则为投资者提供退出通道并促进资本循环"
-      ],
-      "url": "https://m.sfccn.com/2026/11-12/yNMDE0MDRfMjMwMzEyNQ.html",
-      "source": "m.sfccn.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-12T11:00:00Z"
-    },
-    {
-      "id": "f4861b181bf7",
-      "title": "健康、户外、服装等领域21条品牌最新投资并购态丨全球时尚投资周报第42-46期 – 华丽志",
-      "summary": "水上智能消费硬件品牌 MIRAVA 近日完成近5000万元人民币天使轮融资，本轮由九合创投领投，初心资本、Eversnow 跟投。本轮资金将重点投入核心技术研发迭代，推进产线量产建设，以及搭建欧洲本地化渠道及服务体系。\n\nMIRAVA 核心团队成员均来自华为、商汤等头部科技大厂及清华大学、西北工业大学等知名高校，致力于将船舶智能驾驶技术与休闲游艇工业设计深度融合，面向全球市场提供智能化水上休闲装备...",
-      "highlights": [
-        "水上智能消费硬件品牌 MIRAVA 近日完成近5000万元人民币天使轮融资，本轮由九合创投领投，初心资本、Eversnow 跟投",
-        "本轮资金将重点投入核心技术研发迭代，推进产线量产建设，以及搭建欧洲本地化渠道及服务体系",
-        "MIRAVA 核心团队成员均来自华为、商汤等头部科技大厂及清华大学、西北工业大学等知名高校，致力于将船舶智能驾驶技术与休闲游艇工业设计深度融合，面向全球市场提供智能化水上休闲装备"
-      ],
-      "url": "https://luxe.co/post/488192",
-      "source": "luxe.co",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-12T05:00:00Z"
-    },
-    {
-      "id": "0e2708b7b12a",
-      "title": "AI: Anthropic & OpenAI Use AI to Design AI Chips. AI-RTZ #1268",
-      "summary": "Google, the most vertically integrated of them all, with its TPU chips and its Gemini models. As I wrote on Tuesday in ‘Google Specializes Its TPUs as Nvidia Wobbles’ (AI-RTZ #1266), its TPU teams get...",
-      "highlights": [
-        "Google, the most vertically integrated of them all, with its TPU chips and its Gemini models. As I wrote on Tuesday in ‘Google Specializes Its TPUs as Nvidia Wobbles’ (AI-RTZ #1266), its TPU teams get early access to the latest Gemini models to design and debug the chips.",
-        "Amazon, with its Trainium chips and its own Nova models. Anthropic is one of Trainium’s biggest customers, as I discussed in ‘Amazon AI chips traction with key customers & partners’ (AI-RTZ #1094). [...] Now that same Anthropic is using Claude to design chips of its own. Every custom chip of Anthropic’s that works could mean fewer Trainium chips rented from Amazon, or fewer TPUs from Google, over time. Its biggest backers are also its chip suppliers, and soon perhaps its chip competitors.",
-        "If Anthropic or OpenAI end up with AI models far better at chip design than anyone else’s, they could keep the most cutting-edge versions to themselves, at least at first. [...] OpenAI is already there with its ‘Jalapeño’ chip, designed with help from its own frontier AI models. Meanwhile, the companies building the backup chips to Nvidia, Google, Amazon, Microsoft and Meta, are all building their own AI models. The frontier AI labs are crossing over into chips, and the chipmakers into models. It’s one of the more intriguing ‘Frenemies’ storylines in the AI Tech Wave, and it ties directly to the hottest topic in AI research right now: Recursive Self-Improvement, or"
-      ],
-      "url": "https://michaelparekh.substack.com/p/ai-anthropic-and-openai-use-ai-to",
-      "source": "michaelparekh.substack.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-12T06:00:00Z"
     },
     {
       "id": "05c9163e79ed",
@@ -180,51 +45,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-11-12T15:02:43Z"
-    },
-    {
-      "id": "940092aa621d",
-      "title": "全球投资者看向中国资产：安全、韧性和创新底气从何而来？_股票频道_证券之星",
-      "summary": "国际投资者的态度同样鲜明。淡马锡首席投资官罗锡德表示，中国资产在全球组合中具有吸引力，原因在于中国的创新能力、完整的工业基础以及庞大的国内市场。健康的资本市场需要多元化的资本来源：私募机构提供技术验证、运营支持和业务孵化，公开市场提供更广泛的参与渠道、定价机制和流动性，并购则为投资者提供退出通道并促进资本循环。作为在中国拥有超过二十年投资经验的全球投资者，淡马锡期待继续与中国企业保持密切合作，建设...",
-      "highlights": [
-        "国际投资者的态度同样鲜明",
-        "淡马锡首席投资官罗锡德表示，中国资产在全球组合中具有吸引力，原因在于中国的创新能力、完整的工业基础以及庞大的国内市场",
-        "健康的资本市场需要多元化的资本来源：私募机构提供技术验证、运营支持和业务孵化，公开市场提供更广泛的参与渠道、定价机制和流动性，并购则为投资者提供退出通道并促进资本循环"
-      ],
-      "url": "http://stock.stockstar.com/IG2026111200038141.shtml",
-      "source": "stock.stockstar.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-12T11:00:00Z"
-    },
-    {
-      "id": "b0070679ba66",
-      "title": "具身智能分岔口：本体补脑，脑公司找出口 | 盖世汽车",
-      "summary": "盖世全球汽车产业大数据盖世汽车资讯盖世汽车社区\n\n登录\n\n首页 / 资讯 / 文章详情\n\n人形机器人行业\n\n# 具身智能分岔口：本体补脑，脑公司找出口\n\n2026-11-12 14:40:19· 盖世具身智能\n\n通用模型正在逼近机器人“大脑”。\n\nFable 5.2 只用六周，就把一项机器人控制基准的平均成功率从GPT-6 Astra的29.8%推到64.9%，“专门做脑还有没有必要”由此成了真问...",
-      "highlights": [
-        "盖世全球汽车产业大数据盖世汽车资讯盖世汽车社区",
-        "首页 / 资讯 / 文章详情",
-        "# 具身智能分岔口：本体补脑，脑公司找出口"
-      ],
-      "url": "https://www.gasgoo.com/robot/news/70477750-%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E5%88%86%E5%B2%94%E5%8F%A3-%E6%9C%AC%E4%BD%93%E8%A1%A5%E8%84%91-%E8%84%91%E5%85%AC%E5%8F%B8%E6%89%BE%E5%87%BA%E5%8F%A3",
-      "source": "gasgoo.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-11-12T06:00:00Z"
-    },
-    {
-      "id": "350887a2ce0a",
-      "title": "Anthropic, OpenAI Get $1B Investment from TSMC—How Will This Affect the AI Industry?",
-      "summary": "TSMC's investment rationale is rooted in the alignment between its manufacturing capacity and the AI industry's insatiable demand for advanced chips. Anthropic and OpenAI both rely on TSMC-fabricated ...",
-      "highlights": [
-        "TSMC's investment rationale is rooted in the alignment between its manufacturing capacity and the AI industry's insatiable demand for advanced chips. Anthropic and OpenAI both rely on TSMC-fabricated processors, primarily NVIDIA's H100 and Blackwell GPUs, to train their AI models and serve inference at scale. By acquiring equity stakes in both companies, TSMC positions itself not just as a supplier to the AI ecosystem but as a financial participant in the value being created by the technology [...] The investment also reflects the deepening operational relationship between TSMC and OpenAI, as the AI company designs and deploys custom chip architectures that require advanced foundry manufacturing. Securing preferred stock creates a formal alignment of financial interest between the chip supplier and the AI developer.",
-        "## TSMC to Purchase $500M Common Shares From Anthropic [...] The world's most powerful chip manufacturer, TSMC, just made a major bet on the two most prominent AI companies right now.",
-        "The move is strategic on multiple levels, and it comes at a moment when both firms are navigating major financial milestones of their own."
-      ],
-      "url": "https://www.techtimes.com/articles/330517/20261112/anthropic-openai-get-1b-investment-tsmc-how-will-this-affect-ai-industry.htm",
-      "source": "techtimes.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-12T07:05:17Z"
     },
     {
       "id": "9365fca7c38b",
@@ -449,9 +269,276 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-11-12T17:05:00Z"
+    },
+    {
+      "id": "a0e4a1b97ac5",
+      "title": "双十一已用上，广告推荐时延降15%！openEuler发布最新智能体基础设施 - 智东西",
+      "summary": "登录\n\n免费注册\n\n关注我们 \n\n智东西\n\n车东西\n\n芯东西\n\n智猩猩\n\n智东西\n\n车东西\n\n芯东西\n\n智猩猩\n\n公开课  \n\n智猩猩\n\n公开课小程序\n\n线下大会\n\nAI生产力创新奖\n\n \n\n快讯  头条 人工智能 芯东西 AIoT 云与智慧城市 机器人 VR/AR 手机通信  活动\n\n杨 京丽\n\n杨 京丽\n\n标签\n\n更多\n\n-Eleven华为谷歌苹果通用智东西百度iPhone大模型IDx三星小米...",
+      "highlights": [
+        "快讯  头条 人工智能 芯东西 AIoT 云与智慧城市 机器人 VR/AR 手机通信  活动",
+        "-Eleven华为谷歌苹果通用智东西百度iPhone大模型IDx三星小米FF360英特尔腾讯微软",
+        "双十一已用上，广告推荐时延降15%"
+      ],
+      "url": "https://m.zhidx.com/p/610109.html",
+      "source": "m.zhidx.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-11-14T04:00:00Z"
+    },
+    {
+      "id": "fc352ce47ab3",
+      "title": "英伟达，还有比黄仁勋离任更大的麻烦-虎嗅网",
+      "summary": "除了当前资本市场对AI泡沫的恐慌，英伟达护城河外也在暗流涌动——\n\n英伟达的大客户们，恰恰是最想降低对其依赖的人。\n\n谷歌、亚马逊、微软等每年向英伟达采购大量GPU的云巨头，正加速自研ASIC（专用芯片）；OpenAI、Anthropic等AI模型公司也开始自研芯片，试图从模型一路掌控到算力。\n\n▲根据网络公开信息整理制图：降噪NoNoise\n\n今年10月，微软宣布自研芯片Maia 200正式投入...",
+      "highlights": [
+        "除了当前资本市场对AI泡沫的恐慌，英伟达护城河外也在暗流涌动——",
+        "英伟达的大客户们，恰恰是最想降低对其依赖的人",
+        "谷歌、亚马逊、微软等每年向英伟达采购大量GPU的云巨头，正加速自研ASIC（专用芯片）；OpenAI、Anthropic等AI模型公司也开始自研芯片，试图从模型一路掌控到算力"
+      ],
+      "url": "https://www.huxiu.com/article/4905552.html",
+      "source": "huxiu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-14T01:41:45Z"
+    },
+    {
+      "id": "23383845e5a8",
+      "title": "华尔街预警：算力生态下一轮融资将更难更贵 行业融资环境迎严峻挑战",
+      "summary": "首页\n文章详情\n\n# 华尔街：算力生态下一轮融资将更难、更贵……\n\n36氪的朋友们2026-11-13 20:17\n\n​失去“黄仁勋的远见、影响力和号召力”之后……\n\n近年来，AI热潮背后一直站着一位“最后贷款人”，他卖芯片，也开支票。如今，那个穿皮衣的人离开了“AI央行”英伟达，支票簿临时交到了一位曾被他称作“车灯前的小鹿”的财务官手中。\n\n过去几年，英伟达一边卖芯片，一边向AI产业链各环节大举...",
+      "highlights": [
+        "# 华尔街：算力生态下一轮融资将更难、更贵……",
+        "36氪的朋友们2026-11-13 20:17",
+        "​失去“黄仁勋的远见、影响力和号召力”之后……"
+      ],
+      "url": "https://eu.36kr.com/zh/p/4068135542199175",
+      "source": "eu.36kr.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-13T12:00:00Z"
+    },
+    {
+      "id": "b5fa1489b308",
+      "title": "半导体疲软叠加对交易和融资的新关注，安森美半导体股价走低",
+      "summary": "抢沙发\n\n0  0  0\n\n赞大爱笑哭社会社会Emm心碎怒\n\n轻触选择心情\n\n 分享到weixin\n 分享到qq\n 分享到facebook\n 分享到twitter\n 分享到微博\n 粘贴板\n\n使用浏览器的分享功能，分享给你的好友吧\n\n点击这里分享给好友\n\n暂无评论，快来抢沙发吧！\n\n \n\n确定\n\nAA\n\n默认 最大\n\n热门市场机会\n\nAnthropic CEO暗示IPO定价谨慎。这能重新点燃AI行情...",
+      "highlights": [
+        "赞大爱笑哭社会社会Emm心碎怒",
+        "分享到facebook",
+        "使用浏览器的分享功能，分享给你的好友吧"
+      ],
+      "url": "https://www.moomoo.com/hans/news/post/1004646976/onsemi-falls-as-semiconductor-weakness-meets-fresh-focus-on-deals",
+      "source": "moomoo.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-13T17:35:06Z"
+    },
+    {
+      "id": "8569326329ce",
+      "title": "断网也能跑满血大模型？本地AI界最火的“基石神器”终于发布1.0正式版_llama_cpp_支持",
+      "summary": "汽车\n\n房产\n\n旅游\n\n教育\n\n时尚\n\n科技\n\n财经\n\n娱乐\n\n# 断网也能跑满血大模型？本地AI界最火的“基石神器”终于发布1.0正式版\n\n2026-11-14 08:14  来源: IT之家\n\n发布于：山东省\n\nIT之家 11 月 14 日消息，开发者 Georgi Gerganov（X 账号为 @ggerganov）昨日（11 月 13 日）在 X 平台发布推文，宣布开源 AI 推理项目 l...",
+      "highlights": [
+        "# 断网也能跑满血大模型",
+        "本地AI界最火的“基石神器”终于发布1.0正式版",
+        "2026-11-14 08:14  来源: IT之家"
+      ],
+      "url": "https://www.sohu.com/a/1101377372_114760?scm=10001.676_13-100000-0_922.0-0.0-1-0-0-0.a2_5X162X1655",
+      "source": "sohu.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-14T08:14:00Z"
+    },
+    {
+      "id": "550f3c72ea30",
+      "title": "网易智企多项产品入选全球企业级AI Agent图谱，四大技术底座支撑业务落地_凤凰网",
+      "summary": "网易智企多项产品入选全球企业级AI Agent图谱，四大技术底座支撑业务落地\n\n# 网易智企多项产品入选全球企业级AI Agent图谱，四大技术底座支撑业务落地\n\n环球科技网\n\n来自北京\n\n近日,第一新声智库发布《Global Agent 100 x 100:2026年Q3全球企业级AI Agent优秀厂商图谱》,网易智企相关产品与能力入选通用智能体平台、知识库、AI数据平台等板块,覆盖客服、营销...",
+      "highlights": [
+        "网易智企多项产品入选全球企业级AI Agent图谱，四大技术底座支撑业务落地",
+        "# 网易智企多项产品入选全球企业级AI Agent图谱，四大技术底座支撑业务落地",
+        "近日,第一新声智库发布《Global Agent 100 x 100:2026年Q3全球企业级AI Agent优秀厂商图谱》,网易智企相关产品与能力入选通用智能体平台、知识库、AI数据平台等板块,覆盖客服、营销与销售、零售等业务和行业场景,展现其从业务应用、智能体平台到底层技术能力的布局"
+      ],
+      "url": "https://tech.ifeng.com/c/8y1Krhs1MpY",
+      "source": "tech.ifeng.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-11-13T07:25:42Z"
+    },
+    {
+      "id": "969c7d8bf144",
+      "title": "美联航禁止AI智能体预订航班",
+      "summary": "AI资讯 & 趋势\n\n#AI新闻\n\n#### Amazon、Yelp、Delta、JPMorgan与Schwab证实封锁AI智能体 OpenAI推出dots, 能替你打电话、写消息的AI智能体\n\nChatGPT\n\n#AI新闻 #dots\n\n#### OpenAI推出dots, 能替你打电话、写消息的AI智能体 OpenAI dots 上线多电脑连接功能\n\nChatGPT\n\n#dots\n\n#### ...",
+      "highlights": [
+        "#### Amazon、Yelp、Delta、JPMorgan与Schwab证实封锁AI智能体 OpenAI推出dots, 能替你打电话、写消息的AI智能体",
+        "#AI新闻 #dots",
+        "#### OpenAI推出dots, 能替你打电话、写消息的AI智能体 OpenAI dots 上线多电脑连接功能"
+      ],
+      "url": "https://pasqualepillitteri.it/zh/news/32515/united-airlines-jinzhi-ai-zhinengti-yuding-hangban",
+      "source": "pasqualepillitteri.it",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-11-12T16:06:00Z"
+    },
+    {
+      "id": "6c5f55894931",
+      "title": "Anthropic, OpenAI and other AI developers can't control their own tech, new lawsuit alleges - CBS News",
+      "summary": "As scrutiny of their tech's safety grows, tech leaders have underlined their safety commitments. AI company leaders, including Altman, Amodei and SpaceX CEO Elon Musk, in October voiced support for an...",
+      "highlights": [
+        "As scrutiny of their tech's safety grows, tech leaders have underlined their safety commitments. AI company leaders, including Altman, Amodei and SpaceX CEO Elon Musk, in October voiced support for an industrywide slowdown in AI development after an Anthropic employee said there's a 10% chance AI \"could kill all humans.\"",
+        "Edited by Alain Sherter",
+        "Artificial Intelligence"
+      ],
+      "url": "https://www.cbsnews.com/news/advocacy-groups-sue-ai-companies",
+      "source": "cbsnews.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-13T12:00:00Z"
+    },
+    {
+      "id": "1b4845e24fa3",
+      "title": "OpenAI",
+      "summary": "# OpenAI\nID: p4PyTakV77G9\nWebsite: www.openai.com\nHeadquarters: San Francisco, CA, United States\nLinkedIn: www.linkedin.com/company/openai · 11,730,323 followers\nIndustry: Research Services\nIndustry c...",
+      "highlights": [
+        "ID: p4PyTakV77G9",
+        "Website: www.openai.com",
+        "Headquarters: San Francisco, CA, United States"
+      ],
+      "url": "https://tavily.com/knowledge/company/p4PyTakV77G9",
+      "source": "tavily.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-14T12:35:09Z"
+    },
+    {
+      "id": "45fc9527413d",
+      "title": "手机搜狐网",
+      "summary": "泽连斯基称：乌若让出顿巴斯，普京将在1年、2年或5年后卷土重来\n\n越南首脑到访日本，在一件特殊危险的事上，给高市早苗来了记“助攻”\n\n共创智能经济新形态广告\n\n美伊冲突正式结束？民主党上台，特朗普承认，不是不想打，有人死死拽住了他\n\n有效作战半径3300公里，是对下一代主力舰载机的最低性能要求？\n\n川普再次威胁伊朗：如不达成协议，美可1小时内把伊38座桥梁炸掉\n\n中方船只过霍尔木兹收费？中方直接亮...",
+      "highlights": [
+        "泽连斯基称：乌若让出顿巴斯，普京将在1年、2年或5年后卷土重来",
+        "越南首脑到访日本，在一件特殊危险的事上，给高市早苗来了记“助攻”",
+        "共创智能经济新形态广告"
+      ],
+      "url": "https://m.sohu.com/a/1100549261_522913?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "芯片硬件",
+      "importance": 3,
+      "publishedAt": "2026-11-12T14:37:51Z"
+    },
+    {
+      "id": "758e3293ed2f",
+      "title": "AIϵ֮ģGoogleGemini 4 Carbon򸶷ûţ๤׼Ƕ߶_ƱƵ_֤ȯ֮",
+      "summary": "ȷгɱƣҵͻ۽ڽع޸Artificial AnalysisָCarbonָɱǰأGoogleն˱̣Coding Agentָ59֣Opus5.562֣ʾĸϵĶ̰壻MKAУCarbonHigh÷54%Fable5.2Max57%ݹȸ¶CarbonƽɱԼΪģ͵֮һͻ棺Ͷƽ̨Hebbia乹ExcelģPPTΪѲģǿԳBalyasnyڲ23ģһOpenCodeʦһҹдRust [...] StudioѲ㲻...",
+      "highlights": [
+        "ȷгɱƣҵͻ۽ڽع޸Artificial AnalysisָCarbonָɱǰأGoogleն˱̣Coding Agentָ59֣Opus5.562֣ʾĸϵĶ̰壻MKAУCarbonHigh÷54%Fable5.2Max57%ݹȸ¶CarbonƽɱԼΪģ͵֮һͻ棺Ͷƽ̨Hebbia乹ExcelģPPTΪѲģǿԳBalyasnyڲ23ģһOpenCodeʦһҹдRust [...] StudioѲ㲻ţGemini for businessGitHubCopilotPro+/Max/Business/EnterpriseֱӿţCGoogle AIUltraûGemini AppAI ModeAntigravityͣרðCarbon for cyberͨFairwind˿š [...] ݴ֤ȯAIϵ֮ģGoogleGemini 4 Carbon򸶷ûţ๤׼Ƕ߶šбԭժ¼",
+        "¼ʱ1111գGoogle򸶷ûȫ濪һ콢ģGemini4Carbongemini-4-carbonڴƽ̨GoogleAntigravityͬ߶Эͬ/swarmԤ棩ͬգCarbonʽGitHub CopilotCursorGoogleArtificial Analysisģ̬֪ʶ׼MKA"
+      ],
+      "url": "https://stock.stockstar.com/JC2026111300026217.shtml",
+      "source": "stock.stockstar.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-11-13T12:00:00Z"
+    },
+    {
+      "id": "1fb43bc6bf01",
+      "title": "魅力亚太丨狮城“钢铁侠”：具身智能走进日常生活-新华网",
+      "summary": "在新加坡，机器人正悄然融入城市的肌理。这里的许多地方，都发生着人工智能与市民互动的场景。圣淘沙岛正成为自动驾驶小巴的试验场；榜鹅数码园区、裕廊创新区被打造成自主机器人和自主建筑设备的“实验室”；可以指路的人形机器人在地铁站内“站岗”；保洁和割草机器人在机场和植物园内忙碌……具身智能已越来越深入地走进人们的生活。\n\n  10月29日，在新加坡圣淘沙岛举行的媒体预览活动上，自动驾驶小巴在岛上穿行。\n\n...",
+      "highlights": [
+        "在新加坡，机器人正悄然融入城市的肌理",
+        "这里的许多地方，都发生着人工智能与市民互动的场景",
+        "圣淘沙岛正成为自动驾驶小巴的试验场；榜鹅数码园区、裕廊创新区被打造成自主机器人和自主建筑设备的“实验室”；可以指路的人形机器人在地铁站内“站岗”；保洁和割草机器人在机场和植物园内忙碌……具身智能已越来越深入地走进人们的生活"
+      ],
+      "url": "https://www.news.cn/photo/20261114/14c06f20ffd74ea0961ff76452a95810/c.html",
+      "source": "news.cn",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-11-14T00:00:00Z"
     }
   ],
   "today": [
+    {
+      "id": "a0e4a1b97ac5",
+      "title": "双十一已用上，广告推荐时延降15%！openEuler发布最新智能体基础设施 - 智东西",
+      "summary": "登录\n\n免费注册\n\n关注我们 \n\n智东西\n\n车东西\n\n芯东西\n\n智猩猩\n\n智东西\n\n车东西\n\n芯东西\n\n智猩猩\n\n公开课  \n\n智猩猩\n\n公开课小程序\n\n线下大会\n\nAI生产力创新奖\n\n \n\n快讯  头条 人工智能 芯东西 AIoT 云与智慧城市 机器人 VR/AR 手机通信  活动\n\n杨 京丽\n\n杨 京丽\n\n标签\n\n更多\n\n-Eleven华为谷歌苹果通用智东西百度iPhone大模型IDx三星小米...",
+      "highlights": [
+        "快讯  头条 人工智能 芯东西 AIoT 云与智慧城市 机器人 VR/AR 手机通信  活动",
+        "-Eleven华为谷歌苹果通用智东西百度iPhone大模型IDx三星小米FF360英特尔腾讯微软",
+        "双十一已用上，广告推荐时延降15%"
+      ],
+      "url": "https://m.zhidx.com/p/610109.html",
+      "source": "m.zhidx.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-11-14T04:00:00Z"
+    },
+    {
+      "id": "fc352ce47ab3",
+      "title": "英伟达，还有比黄仁勋离任更大的麻烦-虎嗅网",
+      "summary": "除了当前资本市场对AI泡沫的恐慌，英伟达护城河外也在暗流涌动——\n\n英伟达的大客户们，恰恰是最想降低对其依赖的人。\n\n谷歌、亚马逊、微软等每年向英伟达采购大量GPU的云巨头，正加速自研ASIC（专用芯片）；OpenAI、Anthropic等AI模型公司也开始自研芯片，试图从模型一路掌控到算力。\n\n▲根据网络公开信息整理制图：降噪NoNoise\n\n今年10月，微软宣布自研芯片Maia 200正式投入...",
+      "highlights": [
+        "除了当前资本市场对AI泡沫的恐慌，英伟达护城河外也在暗流涌动——",
+        "英伟达的大客户们，恰恰是最想降低对其依赖的人",
+        "谷歌、亚马逊、微软等每年向英伟达采购大量GPU的云巨头，正加速自研ASIC（专用芯片）；OpenAI、Anthropic等AI模型公司也开始自研芯片，试图从模型一路掌控到算力"
+      ],
+      "url": "https://www.huxiu.com/article/4905552.html",
+      "source": "huxiu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-14T01:41:45Z"
+    },
+    {
+      "id": "8569326329ce",
+      "title": "断网也能跑满血大模型？本地AI界最火的“基石神器”终于发布1.0正式版_llama_cpp_支持",
+      "summary": "汽车\n\n房产\n\n旅游\n\n教育\n\n时尚\n\n科技\n\n财经\n\n娱乐\n\n# 断网也能跑满血大模型？本地AI界最火的“基石神器”终于发布1.0正式版\n\n2026-11-14 08:14  来源: IT之家\n\n发布于：山东省\n\nIT之家 11 月 14 日消息，开发者 Georgi Gerganov（X 账号为 @ggerganov）昨日（11 月 13 日）在 X 平台发布推文，宣布开源 AI 推理项目 l...",
+      "highlights": [
+        "# 断网也能跑满血大模型",
+        "本地AI界最火的“基石神器”终于发布1.0正式版",
+        "2026-11-14 08:14  来源: IT之家"
+      ],
+      "url": "https://www.sohu.com/a/1101377372_114760?scm=10001.676_13-100000-0_922.0-0.0-1-0-0-0.a2_5X162X1655",
+      "source": "sohu.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-14T08:14:00Z"
+    },
+    {
+      "id": "1b4845e24fa3",
+      "title": "OpenAI",
+      "summary": "# OpenAI\nID: p4PyTakV77G9\nWebsite: www.openai.com\nHeadquarters: San Francisco, CA, United States\nLinkedIn: www.linkedin.com/company/openai · 11,730,323 followers\nIndustry: Research Services\nIndustry c...",
+      "highlights": [
+        "ID: p4PyTakV77G9",
+        "Website: www.openai.com",
+        "Headquarters: San Francisco, CA, United States"
+      ],
+      "url": "https://tavily.com/knowledge/company/p4PyTakV77G9",
+      "source": "tavily.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-14T12:35:09Z"
+    },
+    {
+      "id": "1fb43bc6bf01",
+      "title": "魅力亚太丨狮城“钢铁侠”：具身智能走进日常生活-新华网",
+      "summary": "在新加坡，机器人正悄然融入城市的肌理。这里的许多地方，都发生着人工智能与市民互动的场景。圣淘沙岛正成为自动驾驶小巴的试验场；榜鹅数码园区、裕廊创新区被打造成自主机器人和自主建筑设备的“实验室”；可以指路的人形机器人在地铁站内“站岗”；保洁和割草机器人在机场和植物园内忙碌……具身智能已越来越深入地走进人们的生活。\n\n  10月29日，在新加坡圣淘沙岛举行的媒体预览活动上，自动驾驶小巴在岛上穿行。\n\n...",
+      "highlights": [
+        "在新加坡，机器人正悄然融入城市的肌理",
+        "这里的许多地方，都发生着人工智能与市民互动的场景",
+        "圣淘沙岛正成为自动驾驶小巴的试验场；榜鹅数码园区、裕廊创新区被打造成自主机器人和自主建筑设备的“实验室”；可以指路的人形机器人在地铁站内“站岗”；保洁和割草机器人在机场和植物园内忙碌……具身智能已越来越深入地走进人们的生活"
+      ],
+      "url": "https://www.news.cn/photo/20261114/14c06f20ffd74ea0961ff76452a95810/c.html",
+      "source": "news.cn",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-11-14T00:00:00Z"
+    },
+    {
+      "id": "b1cb2e8f04cd",
+      "title": "28fall提前盯:港大具身智能*自动驾驶方向缺人,导师引用2万+、CVPR最佳论文,兼机器人公司联合创始人,机器人/具身智能/自动驾驶可投",
+      "summary": "具身智能、自动驾驶、机器人、计算机视觉背景可投.‍ 导师背景李弘扬的路径,是一条＂港中文博士 → OpenDriveLab → 港大独立...",
+      "highlights": [
+        "具身智能、自动驾驶、机器人、计算机视觉背景可投.‍ 导师背景李弘扬的路径,是一条＂港中文博士 → OpenDriveLab → 港大独立..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS8FlW0g1pD1P0yzaqmn9luqkvI0K1tV_slqXa8Fplpd9lcUhUHsPJO0CQ3l9rBartZS7muZQqavbrxyVG6HXh-z7OsPHIGrntRYBeELlhHf5-L5Arm3m-5_ahwJzEm0q-MA02OPXoIyVz6fDOeApAg6eduafl0gqISb1farbNxzed2oXXluBakmH0TPEO5-FrQ4LPErGFeEAuV083WnWYEh5LU3lqtPw9g..&amp;type=2&amp;query=%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD %E6%9C%BA%E5%99%A8%E4%BA%BA %E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6&amp;token=72D816C2AB9332C9F9FC9AC13F8D8DA1FA65A7B86AF8557D",
+      "source": "微信公众号",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-11-14T04:04:23Z"
+    },
     {
       "id": "39c799eec550",
       "title": "断网也能跑满血大模型？本地AI界最火的“基石神器”终于发布1.0正式版_凤凰网",
@@ -469,21 +556,6 @@
     }
   ],
   "week": [
-    {
-      "id": "5e9871d52315",
-      "title": "中国大模型，不想只卖API了 _ 东方财富网",
-      "summary": "财经\n 焦点\n 股票\n 新股\n 期指\n 期权\n 行情\n 数据\n 全球\n 美股\n 港股\n 期货\n 外汇\n 银行\n 基金\n 理财\n 债券\n 直播\n 股吧\n 基金吧\n 博客\n 财富号\n 搜索\n\n指数 期指 期权 个股 板块 排行 新股 基金 港股 美股 期货 外汇 黄金 自选股 自选基金\n\n资金流向 主力排名 板块资金 个股研报 新股申购 转债申购 北交所申购 AH股比价 年报大全 融资融券 龙虎榜 限...",
-      "highlights": [
-        "指数 期指 期权 个股 板块 排行 新股 基金 港股 美股 期货 外汇 黄金 自选股 自选基金",
-        "资金流向 主力排名 板块资金 个股研报 新股申购 转债申购 北交所申购 AH股比价 年报大全 融资融券 龙虎榜 限售解禁 IPO审核 大宗交易 估值分析",
-        "首页 > 财经频道 > 正文"
-      ],
-      "url": "https://finance.eastmoney.com/a/202611123929074061.html",
-      "source": "finance.eastmoney.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-12T00:00:00Z"
-    },
     {
       "id": "31e08aa84261",
       "title": "平头哥独立上市，阿里图什么？-36氪",
@@ -650,21 +722,6 @@
       "publishedAt": "2026-11-12T17:22:06Z"
     },
     {
-      "id": "18c98fad0aff",
-      "title": "a16z：互联网重心已从人转向智能体，企业如何迎接 B2A 经济时代？",
-      "summary": "就在昨天，OpenAI 也推出了 Businesses in ChatGPT 商业入口，让企业能主动认领自家商业主页、接入实时商品数据流，并直接洞察用户在 ChatGPT 内与品牌交互的各项反馈数据。\n\n## B2A 经济下的四类核心受益方\n\n放眼即将展开的 B2A（Business-to-Agent，企业对智能体）经济浪潮，以下四类公司最有希望吃下这波时代红利：\n\n• 智能体及智能体大模型本身：...",
-      "highlights": [
-        "就在昨天，OpenAI 也推出了 Businesses in ChatGPT 商业入口，让企业能主动认领自家商业主页、接入实时商品数据流，并直接洞察用户在 ChatGPT 内与品牌交互的各项反馈数据",
-        "## B2A 经济下的四类核心受益方",
-        "放眼即将展开的 B2A（Business-to-Agent，企业对智能体）经济浪潮，以下四类公司最有希望吃下这波时代红利："
-      ],
-      "url": "https://www.techflowpost.com/article/35314",
-      "source": "techflowpost.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-12T02:07:47Z"
-    },
-    {
       "id": "33ef39faa604",
       "title": "穿越周期与边界：上市公司跨境并购与全球化布局的实践逻辑",
       "summary": "赞大爱笑哭社会社会Emm心碎怒\n\n轻触选择心情\n\n 分享到weixin\n 分享到qq\n 分享到facebook\n 分享到twitter\n 分享到微博\n 粘贴板\n\n使用浏览器的分享功能，分享给你的好友吧\n\n点击这里分享给好友\n\n暂无评论，快来抢沙发吧！\n\n \n\n确定\n\nAA\n\n默认 最大\n\n热门市场机会\n\nAnthropic 启动 IPO 路演。能否点燃下一波 AI 狂热？\n\n$Anthropic ...",
@@ -693,24 +750,39 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-11-12T11:00:00Z"
+    },
+    {
+      "id": "b0070679ba66",
+      "title": "具身智能分岔口：本体补脑，脑公司找出口 | 盖世汽车",
+      "summary": "盖世全球汽车产业大数据盖世汽车资讯盖世汽车社区\n\n登录\n\n首页 / 资讯 / 文章详情\n\n人形机器人行业\n\n# 具身智能分岔口：本体补脑，脑公司找出口\n\n2026-11-12 14:40:19· 盖世具身智能\n\n通用模型正在逼近机器人“大脑”。\n\nFable 5.2 只用六周，就把一项机器人控制基准的平均成功率从GPT-6 Astra的29.8%推到64.9%，“专门做脑还有没有必要”由此成了真问...",
+      "highlights": [
+        "盖世全球汽车产业大数据盖世汽车资讯盖世汽车社区",
+        "首页 / 资讯 / 文章详情",
+        "# 具身智能分岔口：本体补脑，脑公司找出口"
+      ],
+      "url": "https://www.gasgoo.com/robot/news/70477750-%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E5%88%86%E5%B2%94%E5%8F%A3-%E6%9C%AC%E4%BD%93%E8%A1%A5%E8%84%91-%E8%84%91%E5%85%AC%E5%8F%B8%E6%89%BE%E5%87%BA%E5%8F%A3",
+      "source": "gasgoo.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-11-12T06:00:00Z"
+    },
+    {
+      "id": "350887a2ce0a",
+      "title": "Anthropic, OpenAI Get $1B Investment from TSMC—How Will This Affect the AI Industry?",
+      "summary": "TSMC's investment rationale is rooted in the alignment between its manufacturing capacity and the AI industry's insatiable demand for advanced chips. Anthropic and OpenAI both rely on TSMC-fabricated ...",
+      "highlights": [
+        "TSMC's investment rationale is rooted in the alignment between its manufacturing capacity and the AI industry's insatiable demand for advanced chips. Anthropic and OpenAI both rely on TSMC-fabricated processors, primarily NVIDIA's H100 and Blackwell GPUs, to train their AI models and serve inference at scale. By acquiring equity stakes in both companies, TSMC positions itself not just as a supplier to the AI ecosystem but as a financial participant in the value being created by the technology [...] The investment also reflects the deepening operational relationship between TSMC and OpenAI, as the AI company designs and deploys custom chip architectures that require advanced foundry manufacturing. Securing preferred stock creates a formal alignment of financial interest between the chip supplier and the AI developer.",
+        "## TSMC to Purchase $500M Common Shares From Anthropic [...] The world's most powerful chip manufacturer, TSMC, just made a major bet on the two most prominent AI companies right now.",
+        "The move is strategic on multiple levels, and it comes at a moment when both firms are navigating major financial milestones of their own."
+      ],
+      "url": "https://www.techtimes.com/articles/330517/20261112/anthropic-openai-get-1b-investment-tsmc-how-will-this-affect-ai-industry.htm",
+      "source": "techtimes.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-12T07:05:17Z"
     }
   ],
   "month": [
-    {
-      "id": "5e9871d52315",
-      "title": "中国大模型，不想只卖API了 _ 东方财富网",
-      "summary": "财经\n 焦点\n 股票\n 新股\n 期指\n 期权\n 行情\n 数据\n 全球\n 美股\n 港股\n 期货\n 外汇\n 银行\n 基金\n 理财\n 债券\n 直播\n 股吧\n 基金吧\n 博客\n 财富号\n 搜索\n\n指数 期指 期权 个股 板块 排行 新股 基金 港股 美股 期货 外汇 黄金 自选股 自选基金\n\n资金流向 主力排名 板块资金 个股研报 新股申购 转债申购 北交所申购 AH股比价 年报大全 融资融券 龙虎榜 限...",
-      "highlights": [
-        "指数 期指 期权 个股 板块 排行 新股 基金 港股 美股 期货 外汇 黄金 自选股 自选基金",
-        "资金流向 主力排名 板块资金 个股研报 新股申购 转债申购 北交所申购 AH股比价 年报大全 融资融券 龙虎榜 限售解禁 IPO审核 大宗交易 估值分析",
-        "首页 > 财经频道 > 正文"
-      ],
-      "url": "https://finance.eastmoney.com/a/202611123929074061.html",
-      "source": "finance.eastmoney.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-12T00:00:00Z"
-    },
     {
       "id": "31e08aa84261",
       "title": "平头哥独立上市，阿里图什么？-36氪",
@@ -845,6 +917,21 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-11-12T05:00:00Z"
+    },
+    {
+      "id": "0e2708b7b12a",
+      "title": "AI: Anthropic & OpenAI Use AI to Design AI Chips. AI-RTZ #1268",
+      "summary": "Google, the most vertically integrated of them all, with its TPU chips and its Gemini models. As I wrote on Tuesday in ‘Google Specializes Its TPUs as Nvidia Wobbles’ (AI-RTZ #1266), its TPU teams get...",
+      "highlights": [
+        "Google, the most vertically integrated of them all, with its TPU chips and its Gemini models. As I wrote on Tuesday in ‘Google Specializes Its TPUs as Nvidia Wobbles’ (AI-RTZ #1266), its TPU teams get early access to the latest Gemini models to design and debug the chips.",
+        "Amazon, with its Trainium chips and its own Nova models. Anthropic is one of Trainium’s biggest customers, as I discussed in ‘Amazon AI chips traction with key customers & partners’ (AI-RTZ #1094). [...] Now that same Anthropic is using Claude to design chips of its own. Every custom chip of Anthropic’s that works could mean fewer Trainium chips rented from Amazon, or fewer TPUs from Google, over time. Its biggest backers are also its chip suppliers, and soon perhaps its chip competitors.",
+        "If Anthropic or OpenAI end up with AI models far better at chip design than anyone else’s, they could keep the most cutting-edge versions to themselves, at least at first. [...] OpenAI is already there with its ‘Jalapeño’ chip, designed with help from its own frontier AI models. Meanwhile, the companies building the backup chips to Nvidia, Google, Amazon, Microsoft and Meta, are all building their own AI models. The frontier AI labs are crossing over into chips, and the chipmakers into models. It’s one of the more intriguing ‘Frenemies’ storylines in the AI Tech Wave, and it ties directly to the hottest topic in AI research right now: Recursive Self-Improvement, or"
+      ],
+      "url": "https://michaelparekh.substack.com/p/ai-anthropic-and-openai-use-ai-to",
+      "source": "michaelparekh.substack.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-12T06:00:00Z"
     }
   ]
 }
