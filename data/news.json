@@ -1,21 +1,6 @@
 {
-  "updatedAt": "2026-11-17T01:09:53Z",
+  "updatedAt": "2026-11-17T14:58:47Z",
   "latest": [
-    {
-      "id": "62e81cf2be4b",
-      "title": "AI独角兽创始人最新判断：90%企业AI场景，已经不需要最强模型-36氪",
-      "summary": "过去一段时间，绝大部分AI应用创业者最焦虑的问题就是：大模型会不会把应用全吃了？\n\n今年以来，OpenAI、Anthropic 持续推出法律、设计、办公全套垂直套件，微软依托 Office 生态捆绑 Copilot，不断向企业渗透。\n\n越来越多人开始相信，只要底层模型持续进化，今天所有AI应用，不过都是等待被官方”内置”的功能。\n\n但就在不久前，曾打造上市安全巨头Rubrik、如今执掌70亿美金企...",
-      "highlights": [
-        "过去一段时间，绝大部分AI应用创业者最焦虑的问题就是：大模型会不会把应用全吃了",
-        "今年以来，OpenAI、Anthropic 持续推出法律、设计、办公全套垂直套件，微软依托 Office 生态捆绑 Copilot，不断向企业渗透",
-        "越来越多人开始相信，只要底层模型持续进化，今天所有AI应用，不过都是等待被官方”内置”的功能"
-      ],
-      "url": "https://m.36kr.com/p/3905302707213441",
-      "source": "m.36kr.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-15T07:51:25Z"
-    },
     {
       "id": "630bfe6a02a8",
       "title": "中国AI4LS赛道10个月战绩彪悍：35亿美元、124起融资-36氪",
@@ -30,21 +15,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-11-16T02:53:15Z"
-    },
-    {
-      "id": "143f989e188a",
-      "title": "海外巨头集体押注！机器人产业渐成AI新战场 港股多只概念股逆势飘红",
-      "summary": "11月10日，谷歌DeepMind推出新模型Gemini Robotics 2.5，并称其为谷歌迄今为止功能最强大的视觉-语言-动作（VLA）机器人模型，进一步拓展了物理AI的边界。\n\n另据媒体报道，11月9日，Anthropic公布的测试数据显示，在RoboDojo双臂仿真机器人基准测试中，Fable 5.2平均成功率达64.9%。同日，英伟达宣布推出全新的新一代机器人模型GR00T 2，此前苹...",
-      "highlights": [
-        "11月10日，谷歌DeepMind推出新模型Gemini Robotics 2.5，并称其为谷歌迄今为止功能最强大的视觉-语言-动作（VLA）机器人模型，进一步拓展了物理AI的边界",
-        "另据媒体报道，11月9日，Anthropic公布的测试数据显示，在RoboDojo双臂仿真机器人基准测试中，Fable 5.2平均成功率达64.9%",
-        "同日，英伟达宣布推出全新的新一代机器人模型GR00T 2，此前苹果研究团队也发布了人形机器人自主控制系统HALO"
-      ],
-      "url": "https://www.cls.cn/detail/2531448",
-      "source": "cls.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-11-15T03:00:00Z"
     },
     {
       "id": "3d35e8a25a4d",
@@ -223,19 +193,109 @@
       "publishedAt": "2026-11-16T15:30:00Z"
     },
     {
-      "id": "291ae35187a9",
-      "title": "OpenAI, Google and Anthropic Face AI Model Freeze Lawsuit",
-      "summary": "Four nonprofit organizations filed, on November 12, 2026, a complaint against five artificial intelligence groups. OpenAI, Anthropic, Google, Meta and SpaceX. They ask the California court to block th...",
+      "id": "1bb8a08c86a7",
+      "title": "谷歌最强模型终于开放，但普通付费用户还用不上",
+      "summary": "在10月29日首次公开Carbon时，这一模型仅向部分网络安全防御人员开放，但当时引发了行业关注，因为模型一度登顶AI大模型评测机构Artificial Analysis的智能指数榜，超越Anthropic的Claude Opus 5.5和OpenAI的GPT-6 Astra。\n\n随着昨天Anthropic最新模型Claude Fable 5.2的发布，Carbon退居第二，但目前仍处于全球第一梯...",
       "highlights": [
-        "Four nonprofit organizations filed, on November 12, 2026, a complaint against five artificial intelligence groups. OpenAI, Anthropic, Google, Meta and SpaceX. They ask the California court to block the development and deployment of models more powerful than the most advanced systems of each company as of the filing date. The procedure also targets the use of AI to design its own successors.",
-        "Read us on Google News",
-        "## In brief [...] The move comes as calls to slow down the AI race multiply. In September, OpenAI had consulted Congress on the possibility of a coordinated slowdown of model development. This time, four organizations want to obtain a restriction directly imposed by a court."
+        "在10月29日首次公开Carbon时，这一模型仅向部分网络安全防御人员开放，但当时引发了行业关注，因为模型一度登顶AI大模型评测机构Artificial Analysis的智能指数榜，超越Anthropic的Claude Opus 5.5和OpenAI的GPT-6 Astra",
+        "随着昨天Anthropic最新模型Claude Fable 5.2的发布，Carbon退居第二，但目前仍处于全球第一梯队",
+        "谷歌DeepMind 高级副总裁Koray Kavukcuoglu在博客中表示，此前谷歌公布的Gemini 4 Argon主要面向软件工程和知识工作，而Carbon更强调复杂的、多步骤的编程与调试，以及开放式的科学研究与探索"
       ],
-      "url": "https://www.cointribune.com/en/openai-google-and-anthropic-face-ai-model-freeze-lawsuit",
-      "source": "cointribune.com",
+      "url": "https://www.yicai.com/news/103436065.html",
+      "source": "yicai.com",
       "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-11-15T11:05:00Z"
+      "importance": 5,
+      "publishedAt": "2026-11-17T09:00:00Z"
+    },
+    {
+      "id": "6221d1b34e8c",
+      "title": "谷歌警告：AI全自动网络攻击将在半年内到来 - 安全内参 | 决策者的网络安全知识库",
+      "summary": "谷歌表示：“在过去一个季度中，GTIG首次发现攻击者利用大模型框架，在没有人工介入的情况下，完全自动化地完成漏洞发现和利用。”\n\n“具体而言，GTIG发现了一台对外暴露的测试服务器。该服务器托管着一个用于漏洞研究和攻击武器化的多智能体框架，名为exploit\\_agent。该框架能够接入多个前沿大模型和本地部署的大模型。”\n\n谷歌通过攻击者对外暴露的测试服务器发现了这一框架。服务器中还存有被盗取的...",
+      "highlights": [
+        "谷歌表示：“在过去一个季度中，GTIG首次发现攻击者利用大模型框架，在没有人工介入的情况下，完全自动化地完成漏洞发现和利用",
+        "“具体而言，GTIG发现了一台对外暴露的测试服务器",
+        "该服务器托管着一个用于漏洞研究和攻击武器化的多智能体框架，名为exploit\\_agent"
+      ],
+      "url": "https://www.secrss.com/articles/95743",
+      "source": "secrss.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-11-17T09:00:00Z"
+    },
+    {
+      "id": "c715660a1f13",
+      "title": "为什么硅谷巨头和国内大厂，都在抢着做你的「赛博分身」？-36氪",
+      "summary": "过去两年多，大家打开任何一家大厂的发布会，满屏都是熟悉的名词：MMLU跑分又涨了两个点、数学竞赛金牌水准、支持100万上下文、代码生成速度翻倍。\n\n但到了最近这几个月，战火突然烧到了一个新词上——Personal Agent（个人智能体）。\n\nMeta在 2026 年 9 月正式发布了独立个人智能体Muse，不仅给它配了专属的安全虚拟机和专用浏览器，还打通了WhatsApp、邮件和日程，主打让AI...",
+      "highlights": [
+        "过去两年多，大家打开任何一家大厂的发布会，满屏都是熟悉的名词：MMLU跑分又涨了两个点、数学竞赛金牌水准、支持100万上下文、代码生成速度翻倍",
+        "但到了最近这几个月，战火突然烧到了一个新词上——Personal Agent（个人智能体）",
+        "Meta在 2026 年 9 月正式发布了独立个人智能体Muse，不仅给它配了专属的安全虚拟机和专用浏览器，还打通了WhatsApp、邮件和日程，主打让AI代替用户去跑那些繁琐的生活与差旅任务；紧接着不到一个月，OpenAI就上线了集成在ChatGPT里的常驻智能体Dots；CLaude Duet，GrokBot也轮番出现……一时间美国各个AI大厂都在做个人智能体"
+      ],
+      "url": "https://www.36kr.com/p/4070676036440966",
+      "source": "36kr.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-11-16T00:35:28Z"
+    },
+    {
+      "id": "c6034a705687",
+      "title": "芯片与AI持续高投入，长期研发资金从何来？|融资|金融|制造业_网易订阅",
+      "summary": "类似这样的故事，仍在不断上演。万得（Wind）数据显示，2026年前三季度，A股新增IPO（首次公开募股）公司123家、首发募资约2163亿元，为2025年全年的1.64倍，其中119家属战略性新兴产业、占比高达97%；同期，港股新增上市公司116家、募资3396亿元，科技类占比88%。种种数据表明，资本正加速向高端制造业集中。\n\n事实上，中国制造业正处于向数字化、智能化、绿色化高端转型的关键攻坚...",
+      "highlights": [
+        "类似这样的故事，仍在不断上演",
+        "万得（Wind）数据显示，2026年前三季度，A股新增IPO（首次公开募股）公司123家、首发募资约2163亿元，为2025年全年的1.64倍，其中119家属战略性新兴产业、占比高达97%；同期，港股新增上市公司116家、募资3396亿元，科技类占比88%",
+        "种种数据表明，资本正加速向高端制造业集中"
+      ],
+      "url": "https://www.163.com/dy/article/LBSAJ0SD0519DDOA.html?clickfrom=w_money",
+      "source": "163.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-16T08:04:59Z"
+    },
+    {
+      "id": "60153e825bc7",
+      "title": "字节投的机器人公司，要上市了-36氪",
+      "summary": "广东\n   浙江\n   四川\n   安徽\n   江苏\n\n搜索\n\n项目推荐\n\n我要入驻\n\n城市合作\n\n商业策划\n\nImage 2: 36氪\n\n# 字节投的机器人公司，要上市了\n\n直通IPO_·_ 2026年11月17日 11:18\n\n主打电动夹爪、灵巧手等机器人末端执行器。\n\n具身智能赛道的资金，正从扎堆追捧人形机器人整机本体，转向重仓上游核心部件。当不少本体公司还在依靠融资持续输血、等待通用场景落...",
+      "highlights": [
+        "Image 2: 36氪",
+        "# 字节投的机器人公司，要上市了",
+        "直通IPO_·_ 2026年11月17日 11:18"
+      ],
+      "url": "https://m.36kr.com/p/4073745359393923",
+      "source": "m.36kr.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-11-17T13:12:37Z"
+    },
+    {
+      "id": "f1241b8c075c",
+      "title": "华为加码具身智能，切入清扫机器人业务 | 盖世汽车",
+      "summary": "盖世全球汽车产业大数据\n\n全产业链数据穿透与洞察平台📰\n\n盖世汽车资讯\n\n产业新闻、销量与行业前沿动态💬\n\n盖世汽车社区\n\n从业者实名交流与行业资讯分享\n\n中文\n\n登录\n\n首页 / 资讯 / 文章详情\n\n具身智能人形机器人行业行业/资本动态\n\n# 华为加码具身智能，切入清扫机器人业务\n\n2026-11-17 11:58:41· 盖世具身智能\n\n盖世汽车讯 11月16日，华为云宣布，其与环卫装备龙头...",
+      "highlights": [
+        "盖世全球汽车产业大数据",
+        "全产业链数据穿透与洞察平台📰",
+        "产业新闻、销量与行业前沿动态💬"
+      ],
+      "url": "https://www.gasgoo.com/apps/e060bad9eca91db7f01403fc7120041f/robot/news/70478236-%E5%8D%8E%E4%B8%BA%E5%8A%A0%E7%A0%81%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD-%E5%88%87%E5%85%A5%E6%B8%85%E6%89%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%9A%E5%8A%A1",
+      "source": "gasgoo.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-11-17T03:00:00Z"
+    },
+    {
+      "id": "4f75ed670b4d",
+      "title": "腾讯、阿里同时下注，小鹏机器人凭什么值 430 亿元-36氪",
+      "summary": "更现实的一层，是钱的问题。当前，机器人还处于非常早期的阶段，技术范式尚未收敛，需要长期的资金投入。小鹏机器人独立融资，可以在不显著增加集团资金压力的情况下，给机器人业务准备一笔更长期的钱。毕竟，小鹏汽车所在的新能源车行业，「决战」还远没有结束。\n\n更重要的是，独立融资还可以为机器人团队建立更灵活的股权激励和人才机制。人形机器人竞争，本质上是拼人才。此前，已经有不少汽车行业的人才，入局具身智能。\n\n...",
+      "highlights": [
+        "更现实的一层，是钱的问题",
+        "当前，机器人还处于非常早期的阶段，技术范式尚未收敛，需要长期的资金投入",
+        "小鹏机器人独立融资，可以在不显著增加集团资金压力的情况下，给机器人业务准备一笔更长期的钱"
+      ],
+      "url": "https://m.36kr.com/p/3954906522434949",
+      "source": "m.36kr.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-16T10:38:03Z"
     },
     {
       "id": "80d2ed3d7506",
@@ -251,21 +311,6 @@
       "category": "投并购",
       "importance": 4,
       "publishedAt": "2026-11-15T20:21:55Z"
-    },
-    {
-      "id": "a8214e8c67c1",
-      "title": "国芯科技战略合作伙伴龙擎空天发布LQ7000，双方联合开发深化算力布局 _ 东方财富网",
-      "summary": "专业，丰富\n\n一手掌握市场脉搏\n\n11月13日，国芯科技（688262.SH）战略合作伙伴龙擎空天（上海）智能科技有限公司在上海举办LQAPU技术白皮书暨LQ7000产品发布会，正式发布《龙擎LQAPU智能体处理器技术白皮书》，并推出定位于“Agent Processor Ready”的首款智能体处理器芯片LQ7000。发布会现场，龙擎空天与国芯科技开展战略合作签约，双方将以联合开发的LQ7000...",
-      "highlights": [
-        "11月13日，国芯科技（688262.SH）战略合作伙伴龙擎空天（上海）智能科技有限公司在上海举办LQAPU技术白皮书暨LQ7000产品发布会，正式发布《龙擎LQAPU智能体处理器技术白皮书》，并推出定位于“Agent Processor Ready”的首款智能体处理器芯片LQ7000",
-        "发布会现场，龙擎空天与国芯科技开展战略合作签约，双方将以联合开发的LQ7000芯片为核心载体，进一步拓展智能算力领域的产业协同",
-        "随着AI应用从单纯对话问答向复杂任务执行演进，智能体需同步完成资料检索、工具调用、断点续跑等全流程操作，对计算平台的能力要求已超出传统模型推理范畴"
-      ],
-      "url": "https://finance.eastmoney.com/a/202611153931469078.html",
-      "source": "finance.eastmoney.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-11-15T12:00:00Z"
     },
     {
       "id": "1da160e88a54",
@@ -341,19 +386,19 @@
       "publishedAt": "2026-11-17T01:09:53Z"
     },
     {
-      "id": "b4cd1d080d71",
-      "title": "东方财富资讯",
-      "summary": "点击阅读全文\n\n前往东方财富APP阅读全文\n\n取消 前往\n\n分享成功\n\n#### 热门推荐\n\n即将前往东方财富APP查看原文\n\n取消 确定\n\n 分享至：\n 微信\n 朋友圈\n 微博\n\n郑重声明：东方财富发布此内容旨在传播更多信息，与本站立场无关，不构成投资建议。据此操作，风险自担。\n\n热点阅读\n:   周末要闻汇总：吴清提出资本市场六个“进一步深化”\n\n    周末要闻汇总：吴清提出资本市场六个“进...",
+      "id": "f050b855ab78",
+      "title": "AI security took more than one in three cybersecurity seed funding deals - Help Net Security",
+      "summary": "A few years ago, the anecdotal rule of thumb was about $1 million in annual recurring revenue before a Series A. DataTribe now puts a strong Series A closer to $3 million. The median U.S. Series A dea...",
       "highlights": [
-        "前往东方财富APP阅读全文",
-        "即将前往东方财富APP查看原文",
-        "郑重声明：东方财富发布此内容旨在传播更多信息，与本站立场无关，不构成投资建议"
+        "A few years ago, the anecdotal rule of thumb was about $1 million in annual recurring revenue before a Series A. DataTribe now puts a strong Series A closer to $3 million. The median U.S. Series A deal grew from $13.7 million in 2025 to $17.4 million through Q3 2026, according to the PitchBook-NVCA Venture Monitor.",
+        "Add Help Net Security as a preferred source on Google",
+        "## Featured news"
       ],
-      "url": "https://wap.eastmoney.com/a/202603053663292929.html",
-      "source": "wap.eastmoney.com",
-      "category": "芯片硬件",
-      "importance": 3,
-      "publishedAt": "2026-11-15T04:00:00Z"
+      "url": "https://www.helpnetsecurity.com/2026/11/17/cybersecurity-seed-funding-deals",
+      "source": "helpnetsecurity.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-11-17T06:19:27Z"
     },
     {
       "id": "048d3f7114e6",
@@ -367,35 +412,6 @@
       "category": "产品进展",
       "importance": 3,
       "publishedAt": "2026-11-16T01:00:00Z"
-    },
-    {
-      "id": "2a0ba1ce1149",
-      "title": "魅力亚太丨狮城“钢铁侠”：具身智能走进日常生活",
-      "summary": "在新加坡，机器人正悄然融入城市的肌理。这里的许多地方，都发生着人工智能与市民互动的场景。圣淘沙岛正成为自动驾驶小巴的试验场；榜鹅数码园区、裕廊创新区被打造成",
-      "highlights": [
-        "在新加坡，机器人正悄然融入城市的肌理",
-        "这里的许多地方，都发生着人工智能与市民互动的场景",
-        "圣淘沙岛正成为自动驾驶小巴的试验场；榜鹅数码园区、裕廊创新区被打造成"
-      ],
-      "url": "https://www.news.cn/asia/20261116/5284b3b7e6264b289fd859bd6915bbac/c.html",
-      "source": "news.cn",
-      "category": "具身智能",
-      "importance": 3,
-      "publishedAt": "2026-11-15T03:00:00Z"
-    },
-    {
-      "id": "b96351b416bd",
-      "title": "中国AI4LS赛道10个月战绩彪悍：35亿美元、124起融资-36氪",
-      "summary": "34.91亿美元，是前10个月中国AI for Science（AI4S）在生命科学方向（AI4LS）拿到的融资。 58.33亿美元，这是今年前10个月全球AI4LS领域TOP10融资的总额。",
-      "highlights": [
-        "34.91亿美元，是前10个月中国AI for Science（AI4S）在生命科学方向（AI4LS）拿到的融资",
-        "58.33亿美元，这是今年前10个月全球AI4LS领域TOP10融资的总额"
-      ],
-      "url": "https://www.36kr.com/p/4070263453373317",
-      "source": "36kr.com",
-      "category": "投并购",
-      "importance": 3,
-      "publishedAt": "2026-11-15T14:00:00Z"
     },
     {
       "id": "c1d777f93b0e",
@@ -413,30 +429,19 @@
       "publishedAt": "2026-11-16T06:00:00Z"
     },
     {
-      "id": "b8df99566b3c",
-      "title": "万事达卡完成首笔AI智能体机票预订与支付",
-      "summary": "Travelport、Booked AI、Basis Theory与万事达卡联合完成全球首例端到端AI智能体机票预订支付，全程无需跳转，依托令牌化等技术保障安全，同期有航司限制未授权智能体",
+      "id": "cb3c9d003f07",
+      "title": "全国医保领域首个省重点实验室落地江苏，同步发布医保监管大模型_医疗人工智能_大健康派",
+      "summary": "实验室发布了首批10个重点研究课题和10项数据服务。课题涵盖中医康复按价值付费、创新药疗效比较等方向，由中国药科大学、省人民医院等10家单位承接，数据服务覆盖诊疗信息、医药分析评估等场景。\n\n现场，省医保局发布最新成果——医保监管大模型。该模型基于医保专属数据训练，能够读懂病历，识别疑点，已在飞行检查和定点医药机构监管等场景试点应用。\n\n近年来，江苏持续探索医保数据要素安全合规应用。据悉，下一步，...",
       "highlights": [
-        "Travelport、Booked AI、Basis Theory与万事达卡联合完成全球首例端到端AI智能体机票预订支付，全程无需跳转，依托令牌化等技术保障安全，同期有航司限制未授权智能体"
+        "实验室发布了首批10个重点研究课题和10项数据服务",
+        "课题涵盖中医康复按价值付费、创新药疗效比较等方向，由中国药科大学、省人民医院等10家单位承接，数据服务覆盖诊疗信息、医药分析评估等场景",
+        "现场，省医保局发布最新成果——医保监管大模型"
       ],
-      "url": "https://www.mpaypass.com.cn/news/202611/16085426.html",
-      "source": "mpaypass.com.cn",
-      "category": "前沿理论",
-      "importance": 2,
-      "publishedAt": "2026-11-16T01:00:00Z"
-    },
-    {
-      "id": "446af34f4e4e",
-      "title": "泰兴市双创引导基金（有限合伙）子基金管理机构遴选通知",
-      "summary": "子基金投向符合本市产业发展规划，重点为围绕国家“十五五”规划纲要布局的六大前瞻行业，方向上侧重于数字产业化、产业数字化、数字化治理、数据价值应用、AI人工智能、",
-      "highlights": [
-        "子基金投向符合本市产业发展规划，重点为围绕国家“十五五”规划纲要布局的六大前瞻行业，方向上侧重于数字产业化、产业数字化、数字化治理、数据价值应用、AI人工智能、"
-      ],
-      "url": "https://news.pedaily.cn/202611/571912.shtml",
-      "source": "news.pedaily.cn",
-      "category": "产品进展",
-      "importance": 2,
-      "publishedAt": "2026-11-16T07:00:00Z"
+      "url": "http://www.djkpai.com/ai/1307271964624158720.html",
+      "source": "djkpai.com",
+      "category": "行业话题",
+      "importance": 3,
+      "publishedAt": "2026-11-17T00:00:00Z"
     }
   ],
   "today": [
@@ -456,6 +461,66 @@
       "publishedAt": "2026-11-17T00:07:04Z"
     },
     {
+      "id": "1bb8a08c86a7",
+      "title": "谷歌最强模型终于开放，但普通付费用户还用不上",
+      "summary": "在10月29日首次公开Carbon时，这一模型仅向部分网络安全防御人员开放，但当时引发了行业关注，因为模型一度登顶AI大模型评测机构Artificial Analysis的智能指数榜，超越Anthropic的Claude Opus 5.5和OpenAI的GPT-6 Astra。\n\n随着昨天Anthropic最新模型Claude Fable 5.2的发布，Carbon退居第二，但目前仍处于全球第一梯...",
+      "highlights": [
+        "在10月29日首次公开Carbon时，这一模型仅向部分网络安全防御人员开放，但当时引发了行业关注，因为模型一度登顶AI大模型评测机构Artificial Analysis的智能指数榜，超越Anthropic的Claude Opus 5.5和OpenAI的GPT-6 Astra",
+        "随着昨天Anthropic最新模型Claude Fable 5.2的发布，Carbon退居第二，但目前仍处于全球第一梯队",
+        "谷歌DeepMind 高级副总裁Koray Kavukcuoglu在博客中表示，此前谷歌公布的Gemini 4 Argon主要面向软件工程和知识工作，而Carbon更强调复杂的、多步骤的编程与调试，以及开放式的科学研究与探索"
+      ],
+      "url": "https://www.yicai.com/news/103436065.html",
+      "source": "yicai.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-17T09:00:00Z"
+    },
+    {
+      "id": "6221d1b34e8c",
+      "title": "谷歌警告：AI全自动网络攻击将在半年内到来 - 安全内参 | 决策者的网络安全知识库",
+      "summary": "谷歌表示：“在过去一个季度中，GTIG首次发现攻击者利用大模型框架，在没有人工介入的情况下，完全自动化地完成漏洞发现和利用。”\n\n“具体而言，GTIG发现了一台对外暴露的测试服务器。该服务器托管着一个用于漏洞研究和攻击武器化的多智能体框架，名为exploit\\_agent。该框架能够接入多个前沿大模型和本地部署的大模型。”\n\n谷歌通过攻击者对外暴露的测试服务器发现了这一框架。服务器中还存有被盗取的...",
+      "highlights": [
+        "谷歌表示：“在过去一个季度中，GTIG首次发现攻击者利用大模型框架，在没有人工介入的情况下，完全自动化地完成漏洞发现和利用",
+        "“具体而言，GTIG发现了一台对外暴露的测试服务器",
+        "该服务器托管着一个用于漏洞研究和攻击武器化的多智能体框架，名为exploit\\_agent"
+      ],
+      "url": "https://www.secrss.com/articles/95743",
+      "source": "secrss.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-11-17T09:00:00Z"
+    },
+    {
+      "id": "60153e825bc7",
+      "title": "字节投的机器人公司，要上市了-36氪",
+      "summary": "广东\n   浙江\n   四川\n   安徽\n   江苏\n\n搜索\n\n项目推荐\n\n我要入驻\n\n城市合作\n\n商业策划\n\nImage 2: 36氪\n\n# 字节投的机器人公司，要上市了\n\n直通IPO_·_ 2026年11月17日 11:18\n\n主打电动夹爪、灵巧手等机器人末端执行器。\n\n具身智能赛道的资金，正从扎堆追捧人形机器人整机本体，转向重仓上游核心部件。当不少本体公司还在依靠融资持续输血、等待通用场景落...",
+      "highlights": [
+        "Image 2: 36氪",
+        "# 字节投的机器人公司，要上市了",
+        "直通IPO_·_ 2026年11月17日 11:18"
+      ],
+      "url": "https://m.36kr.com/p/4073745359393923",
+      "source": "m.36kr.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-11-17T13:12:37Z"
+    },
+    {
+      "id": "f1241b8c075c",
+      "title": "华为加码具身智能，切入清扫机器人业务 | 盖世汽车",
+      "summary": "盖世全球汽车产业大数据\n\n全产业链数据穿透与洞察平台📰\n\n盖世汽车资讯\n\n产业新闻、销量与行业前沿动态💬\n\n盖世汽车社区\n\n从业者实名交流与行业资讯分享\n\n中文\n\n登录\n\n首页 / 资讯 / 文章详情\n\n具身智能人形机器人行业行业/资本动态\n\n# 华为加码具身智能，切入清扫机器人业务\n\n2026-11-17 11:58:41· 盖世具身智能\n\n盖世汽车讯 11月16日，华为云宣布，其与环卫装备龙头...",
+      "highlights": [
+        "盖世全球汽车产业大数据",
+        "全产业链数据穿透与洞察平台📰",
+        "产业新闻、销量与行业前沿动态💬"
+      ],
+      "url": "https://www.gasgoo.com/apps/e060bad9eca91db7f01403fc7120041f/robot/news/70478236-%E5%8D%8E%E4%B8%BA%E5%8A%A0%E7%A0%81%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD-%E5%88%87%E5%85%A5%E6%B8%85%E6%89%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%9A%E5%8A%A1",
+      "source": "gasgoo.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-11-17T03:00:00Z"
+    },
+    {
       "id": "1b4845e24fa3",
       "title": "OpenAI",
       "summary": "# OpenAI\nID: p4PyTakV77G9\nWebsite: www.openai.com\nHeadquarters: San Francisco, CA, United States\nLinkedIn: www.linkedin.com/company/openai · 11,730,323 followers\nIndustry: Research Services\nIndustry c...",
@@ -469,6 +534,50 @@
       "category": "模型发布",
       "importance": 4,
       "publishedAt": "2026-11-17T01:09:53Z"
+    },
+    {
+      "id": "f050b855ab78",
+      "title": "AI security took more than one in three cybersecurity seed funding deals - Help Net Security",
+      "summary": "A few years ago, the anecdotal rule of thumb was about $1 million in annual recurring revenue before a Series A. DataTribe now puts a strong Series A closer to $3 million. The median U.S. Series A dea...",
+      "highlights": [
+        "A few years ago, the anecdotal rule of thumb was about $1 million in annual recurring revenue before a Series A. DataTribe now puts a strong Series A closer to $3 million. The median U.S. Series A deal grew from $13.7 million in 2025 to $17.4 million through Q3 2026, according to the PitchBook-NVCA Venture Monitor.",
+        "Add Help Net Security as a preferred source on Google",
+        "## Featured news"
+      ],
+      "url": "https://www.helpnetsecurity.com/2026/11/17/cybersecurity-seed-funding-deals",
+      "source": "helpnetsecurity.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-11-17T06:19:27Z"
+    },
+    {
+      "id": "cb3c9d003f07",
+      "title": "全国医保领域首个省重点实验室落地江苏，同步发布医保监管大模型_医疗人工智能_大健康派",
+      "summary": "实验室发布了首批10个重点研究课题和10项数据服务。课题涵盖中医康复按价值付费、创新药疗效比较等方向，由中国药科大学、省人民医院等10家单位承接，数据服务覆盖诊疗信息、医药分析评估等场景。\n\n现场，省医保局发布最新成果——医保监管大模型。该模型基于医保专属数据训练，能够读懂病历，识别疑点，已在飞行检查和定点医药机构监管等场景试点应用。\n\n近年来，江苏持续探索医保数据要素安全合规应用。据悉，下一步，...",
+      "highlights": [
+        "实验室发布了首批10个重点研究课题和10项数据服务",
+        "课题涵盖中医康复按价值付费、创新药疗效比较等方向，由中国药科大学、省人民医院等10家单位承接，数据服务覆盖诊疗信息、医药分析评估等场景",
+        "现场，省医保局发布最新成果——医保监管大模型"
+      ],
+      "url": "http://www.djkpai.com/ai/1307271964624158720.html",
+      "source": "djkpai.com",
+      "category": "行业话题",
+      "importance": 3,
+      "publishedAt": "2026-11-17T00:00:00Z"
+    },
+    {
+      "id": "537a743a4879",
+      "title": "AI 投研企业ARTi 宣布获数百万美元融资，C Capital投资",
+      "summary": "新浪科技讯11月17日上午消息，AI 投研平台ARTi 宣布获得香港C 资本（C Capital）数百万美元Pre-A 轮投资。 本轮融资之前，ARTi 还获得香港上市公司德林控股的战略投资",
+      "highlights": [
+        "新浪科技讯11月17日上午消息，AI 投研平台ARTi 宣布获得香港C 资本（C Capital）数百万美元Pre-A 轮投资",
+        "本轮融资之前，ARTi 还获得香港上市公司德林控股的战略投资"
+      ],
+      "url": "https://finance.sina.com.cn/tob/2026-11-17/doc-iniyyzyi1841030.shtml",
+      "source": "finance.sina.com.cn",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-11-17T00:00:00Z"
     },
     {
       "id": "ed17f16301e8",
@@ -677,67 +786,37 @@
       "publishedAt": "2026-11-16T15:30:00Z"
     },
     {
-      "id": "1da160e88a54",
-      "title": "全球AI大模型周调用量榜单出炉：前四名被中国模型包揽，腾讯混元Hy4冲进前二！MiniMax、Kimi跌出Top10 | 每经网",
-      "summary": "《每日经济新闻》注意到，上周，全球调用量排名前五的AI大模型中，有四款中国大模型。其中，DeepSeek V4.1-Flash-1017连续四周位居第一，周调用量达59.2万亿Token，环比增长6%。\n\n腾讯混元Hy4升至第二，周调用量达18.1万亿Token，环比增长42%。Hy4于11月4日正式发布。据悉，相比于Hy4 preview，Hy4在预训练和后训练上显著扩展了数据和训练规模，首次引...",
+      "id": "1bb8a08c86a7",
+      "title": "谷歌最强模型终于开放，但普通付费用户还用不上",
+      "summary": "在10月29日首次公开Carbon时，这一模型仅向部分网络安全防御人员开放，但当时引发了行业关注，因为模型一度登顶AI大模型评测机构Artificial Analysis的智能指数榜，超越Anthropic的Claude Opus 5.5和OpenAI的GPT-6 Astra。\n\n随着昨天Anthropic最新模型Claude Fable 5.2的发布，Carbon退居第二，但目前仍处于全球第一梯...",
       "highlights": [
-        "《每日经济新闻》注意到，上周，全球调用量排名前五的AI大模型中，有四款中国大模型",
-        "其中，DeepSeek V4.1-Flash-1017连续四周位居第一，周调用量达59.2万亿Token，环比增长6%",
-        "腾讯混元Hy4升至第二，周调用量达18.1万亿Token，环比增长42%"
+        "在10月29日首次公开Carbon时，这一模型仅向部分网络安全防御人员开放，但当时引发了行业关注，因为模型一度登顶AI大模型评测机构Artificial Analysis的智能指数榜，超越Anthropic的Claude Opus 5.5和OpenAI的GPT-6 Astra",
+        "随着昨天Anthropic最新模型Claude Fable 5.2的发布，Carbon退居第二，但目前仍处于全球第一梯队",
+        "谷歌DeepMind 高级副总裁Koray Kavukcuoglu在博客中表示，此前谷歌公布的Gemini 4 Argon主要面向软件工程和知识工作，而Carbon更强调复杂的、多步骤的编程与调试，以及开放式的科学研究与探索"
       ],
-      "url": "https://www.nbd.com.cn/articles/2026-11-16/4648420.html",
-      "source": "nbd.com.cn",
+      "url": "https://www.yicai.com/news/103436065.html",
+      "source": "yicai.com",
       "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-11-16T02:00:00Z"
+      "importance": 5,
+      "publishedAt": "2026-11-17T09:00:00Z"
     },
     {
-      "id": "21e0e84b4692",
-      "title": "紫金山公证AI大模型产品矩阵正式发布_智能_涉外_南京",
-      "summary": "房产\n\n旅游\n\n教育\n\n时尚\n\n科技\n\n财经\n\n娱乐\n\n# 紫金山公证AI大模型产品矩阵正式发布\n\n2026-11-16 18:50  来源: 中国江苏网\n\n发布于：江苏省\n\n交汇点讯 11月16日，南京举办紫金山公证AI大模型产品矩阵发布会。\n\n该模型由南京公证处、石城公证处、钟山公证处联合牵头研发，以公证专属大模型为核心底座，搭建智能客服、AI办证、智能体协同三大应用体系，配套13个公证专用智...",
+      "id": "6221d1b34e8c",
+      "title": "谷歌警告：AI全自动网络攻击将在半年内到来 - 安全内参 | 决策者的网络安全知识库",
+      "summary": "谷歌表示：“在过去一个季度中，GTIG首次发现攻击者利用大模型框架，在没有人工介入的情况下，完全自动化地完成漏洞发现和利用。”\n\n“具体而言，GTIG发现了一台对外暴露的测试服务器。该服务器托管着一个用于漏洞研究和攻击武器化的多智能体框架，名为exploit\\_agent。该框架能够接入多个前沿大模型和本地部署的大模型。”\n\n谷歌通过攻击者对外暴露的测试服务器发现了这一框架。服务器中还存有被盗取的...",
       "highlights": [
-        "# 紫金山公证AI大模型产品矩阵正式发布",
-        "2026-11-16 18:50  来源: 中国江苏网",
-        "交汇点讯 11月16日，南京举办紫金山公证AI大模型产品矩阵发布会"
+        "谷歌表示：“在过去一个季度中，GTIG首次发现攻击者利用大模型框架，在没有人工介入的情况下，完全自动化地完成漏洞发现和利用",
+        "“具体而言，GTIG发现了一台对外暴露的测试服务器",
+        "该服务器托管着一个用于漏洞研究和攻击武器化的多智能体框架，名为exploit\\_agent"
       ],
-      "url": "https://www.sohu.com/a/1102341016_539687",
-      "source": "sohu.com",
+      "url": "https://www.secrss.com/articles/95743",
+      "source": "secrss.com",
       "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-11-16T18:50:00Z"
+      "importance": 5,
+      "publishedAt": "2026-11-17T09:00:00Z"
     }
   ],
   "month": [
-    {
-      "id": "908eea73929b",
-      "title": "Indian Startup Funding: $31.3M Across 12 Deals This Week",
-      "summary": "The listing angle also carries recent context. Public-market appetite has become a live question for many private companies in 2026. We have covered how Nscale weighed delaying its $35 billion IPO to ...",
-      "highlights": [
-        "The listing angle also carries recent context. Public-market appetite has become a live question for many private companies in 2026. We have covered how Nscale weighed delaying its $35 billion IPO to 2027 and how Anthropic scaled back its IPO to $64.4 billion amid uncertainty. Against that backdrop, A2B’s decision to prepare for a potential listing shows that Indian issuers still see the public market as a destination, even as larger global names hesitate. [...] | Metric (Nov. 9-14, 2026) | Reported figure |",
-        "| Startups that raised funding | 12 |",
-        "| Combined amount raised | $31.3 million |"
-      ],
-      "url": "https://shattered.io/indian-startup-funding-31-3-million-12-startups-a2b-180-million-bodhi-tree",
-      "source": "shattered.io",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-14T17:52:58Z"
-    },
-    {
-      "id": "8df27a1e6d66",
-      "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
-      "summary": "Chinese developers are planning and building billions of dollars worth of AI data centers around Nvidia processors restricted by Washington, according to a Reuters investigation published Friday. Afte...",
-      "highlights": [
-        "Chinese developers are planning and building billions of dollars worth of AI data centers around Nvidia processors restricted by Washington, according to a Reuters investigation published Friday. After examining more than 150 procurement notices, investment plans and corporate records, the news agency identified projects worth over 23 billion yuan ($3.2 billion). Many specify Nvidia's H100, H200, or H800 chips, which provide the computing power used to train and run advanced AI models. But [...] NewsArtificial Intelligence  4 min read  Jose Antonio Lanz Nov 13, 2026 Nov 13, 2026 Create an account to save your articles.",
-        "Image 278: China and US flags in origami style. Image: Shutterstock/Decrypt   ## China’s $3.2 Billion AI Pipeline Still Calls for Nvidia Chips Washington Restricts [...] They want an immediate court order prohibiting the companies from developing or deploying AI systems more capable than their most advanced models as of November 12, 2026.",
-        "Predict·Economy"
-      ],
-      "url": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
-      "source": "decrypt.co",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-14T17:01:02Z"
-    },
     {
       "id": "62e81cf2be4b",
       "title": "AI独角兽创始人最新判断：90%企业AI场景，已经不需要最强模型-36氪",
@@ -855,6 +934,36 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-11-16T12:27:35Z"
+    },
+    {
+      "id": "eb107ecdc0d9",
+      "title": "AI大模型周报：阿里发布新一代大模型Qwen4-Max；腾讯优图实验室研究总监孙星被曝离职；阿里收紧回流，主动离职两次不能回原集团；华为云发布并开源具身世界模型…_推荐_i黑马",
+      "summary": "11月16日，多名用户反馈DeepSeek对App及网页版的长对话、单次输入长度和每日对话额度同时实施限制。\n\n平台提示原因为“算力不足”，不再支持超过7天不活跃的长对话，单次输入文字上限被缩短至4万字左右。\n\n每日对话额度同样受限，用户当日使用量触顶后会收到“因服务器繁忙，使用额度已达上限”的提示。\n\n这是DeepSeek近期因算力资源紧张对普通用户侧服务作出的调整，三项限制同时生效。\n\n截至发...",
+      "highlights": [
+        "11月16日，多名用户反馈DeepSeek对App及网页版的长对话、单次输入长度和每日对话额度同时实施限制",
+        "平台提示原因为“算力不足”，不再支持超过7天不活跃的长对话，单次输入文字上限被缩短至4万字左右",
+        "每日对话额度同样受限，用户当日使用量触顶后会收到“因服务器繁忙，使用额度已达上限”的提示"
+      ],
+      "url": "http://www.iheima.com/article-404305.html",
+      "source": "iheima.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-11-16T09:00:00Z"
+    },
+    {
+      "id": "3b1dcc89caf4",
+      "title": "从GPU到云收入，微软、谷歌和亚马逊正在争夺AI基础设施定价权_搜狐网",
+      "summary": "云计算行业正在进入芯片竞争阶段。\n\n过去云厂商主要采购英伟达GPU，再通过云服务向客户收费，算力成本受到外部供应链牵制。\n\n随着推理需求扩大，微软、谷歌和亚马逊开始加快自研芯片布局，希望通过软硬件协同提高资源利用率，并降低长期运营成本。\n\n谷歌的TPU已经进入商业化阶段，管理层明确表示，TPU系统销售对Google Cloud增长作出了贡献，并预计2027年相关业务继续扩大。谷歌可以围绕Gemin...",
+      "highlights": [
+        "云计算行业正在进入芯片竞争阶段",
+        "过去云厂商主要采购英伟达GPU，再通过云服务向客户收费，算力成本受到外部供应链牵制",
+        "随着推理需求扩大，微软、谷歌和亚马逊开始加快自研芯片布局，希望通过软硬件协同提高资源利用率，并降低长期运营成本"
+      ],
+      "url": "https://m.sohu.com/a/1102304530_120000222?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-16T17:30:22Z"
     }
   ]
 }
