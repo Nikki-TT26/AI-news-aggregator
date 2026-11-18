@@ -1,109 +1,6 @@
 {
-  "updatedAt": "2026-11-18T00:04:45Z",
+  "updatedAt": "2026-11-18T14:39:49Z",
   "latest": [
-    {
-      "id": "630bfe6a02a8",
-      "title": "中国AI4LS赛道10个月战绩彪悍：35亿美元、124起融资-36氪",
-      "summary": "切换的方向很明确：从看团队、看叙事，转向看验证数据、看闭环能力、看商业化兑现。\n\n高特佳投资集团总经理孙佳林提出，平台型公司和产品型公司的界限正在模糊，AI-Biotech本身就具备极强的AI能力，早期可以通过技术服务实现商业闭环，支撑自研管线的长期投入；后期管线兑现后，又会反过来强化平台能力。\n\n水木分子COO邢杰看来，更本质的变化是产业链的边界正在被打破。整个行业正在从“+AI”的改造，走向“...",
-      "highlights": [
-        "切换的方向很明确：从看团队、看叙事，转向看验证数据、看闭环能力、看商业化兑现",
-        "高特佳投资集团总经理孙佳林提出，平台型公司和产品型公司的界限正在模糊，AI-Biotech本身就具备极强的AI能力，早期可以通过技术服务实现商业闭环，支撑自研管线的长期投入；后期管线兑现后，又会反过来强化平台能力",
-        "水木分子COO邢杰看来，更本质的变化是产业链的边界正在被打破"
-      ],
-      "url": "http://www.36kr.com/p/4070263453373317",
-      "source": "36kr.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-16T02:53:15Z"
-    },
-    {
-      "id": "3d35e8a25a4d",
-      "title": "百度发布Q3财报：总营收308亿元，AI业务收入占比连续三季度过半 中国基金报",
-      "summary": "其中，百度搭子全面开放Harness引擎和专业能力，与行业伙伴推出Mate+系列产品，这套能力支撑百度搭子在考察深度研究能力的DeepResearch Bench Ⅱ评测中位列第一；9月，百度文库和百度网盘的AI DAU渗透率同比增长60.7%，其联合推出的库库全面升级，全球月活用户已达5000万；百度伐谋产业客户已覆盖中国41个工业大类中的25个，覆盖度超60%；百度一镜超拟真数字人制作成本较2...",
-      "highlights": [
-        "其中，百度搭子全面开放Harness引擎和专业能力，与行业伙伴推出Mate+系列产品，这套能力支撑百度搭子在考察深度研究能力的DeepResearch Bench Ⅱ评测中位列第一；9月，百度文库和百度网盘的AI DAU渗透率同比增长60.7%，其联合推出的库库全面升级，全球月活用户已达5000万；百度伐谋产业客户已覆盖中国41个工业大类中的25个，覆盖度超60%；百度一镜超拟真数字人制作成本较2025年第四季度下降约80%",
-        "在近期举行的“百度世界2026”上，大模型交易平台词元所正式发布",
-        "据悉，词元所发布首日，新增申请入驻的供应商已超过100家，新增接入客户超过1000家"
-      ],
-      "url": "https://www.chnfund.com/article/AR692ce6f8-8a14-19d1-063c-3a24f5dc8640",
-      "source": "chnfund.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-16T11:00:00Z"
-    },
-    {
-      "id": "7479ee2f6283",
-      "title": "个人智能体咋总掉线？9顶校发布126页「持续在线智能体」路线图-36氪",
-      "summary": "在海外，前沿AI实验室接连出手，推出Muse、dots、Claude Duet、Grok Bot、Gemini Daily Brief等重磅产品。它们不再只是被动地等待用户提问：有的在对话结束后继续在云端默默干活，有的每天清晨准时送来定制简报，还有的每隔几小时自动巡检一次用户的关联账户。\n\n在国内，腾讯、阿里、字节等大厂也在极速跟进，相继上线了灵光2.0、LightVela、千问Go！等产品。而在...",
-      "highlights": [
-        "在海外，前沿AI实验室接连出手，推出Muse、dots、Claude Duet、Grok Bot、Gemini Daily Brief等重磅产品",
-        "它们不再只是被动地等待用户提问：有的在对话结束后继续在云端默默干活，有的每天清晨准时送来定制简报，还有的每隔几小时自动巡检一次用户的关联账户",
-        "在国内，腾讯、阿里、字节等大厂也在极速跟进，相继上线了灵光2.0、LightVela、千问Go"
-      ],
-      "url": "http://www.36kr.com/p/4072062269952903",
-      "source": "36kr.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-16T10:00:44Z"
-    },
-    {
-      "id": "c0dd882159cc",
-      "title": "More Pain For NVDA? Top Supply Chain Analyst Says New OpenAI, Anthropic Chip Orders Boost Google’s TPU Outlook — TradingView News",
-      "summary": "“Strong new orders from OpenAI and Anthropic have extended Google TPU shipment visibility to 2029, ahead of Nvidia GPUs and other AI ASICs (mostly 4Q27–2Q28),” Kuo, who is based in Taiwan and is known...",
-      "highlights": [
-        "“Strong new orders from OpenAI and Anthropic have extended Google TPU shipment visibility to 2029, ahead of Nvidia GPUs and other AI ASICs (mostly 4Q27–2Q28),” Kuo, who is based in Taiwan and is known for his insights on Apple and Nvidia, said in an X post.",
-        "The analyst said estimates that OpenAI will seek about 12 million TPUs across 2028 and 2029, and Anthropic about 14 million. OpenAI plans to buy its chips outright, while Anthropic will combine leasing with direct purchases. [...] The companies’ orders are expected to keep Google’s older v8 chips in heavy use even as Google shifts its own computing expansion toward v9, Kuo said.",
-        "That note highlights that custom chip demand will continue climbing, despite widespread expectations that AI spending will peak in 2028. Kuo’s estimates put shipments at 8–9 million units in 2027, 14–15 million in 2028 and 16–18 million in 2029, according to Kuo. [...] Stocktwits"
-      ],
-      "url": "https://www.tradingview.com/news/stocktwits:d7c41d0d8094b:0-more-pain-for-nvda-top-supply-chain-analyst-says-new-openai-anthropic-chip-orders-boost-google-s-tpu-outlook?mobileapp_new=true",
-      "source": "tradingview.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-16T05:03:30Z"
-    },
-    {
-      "id": "28d4635416cb",
-      "title": "TSMC To Invest Up To $1B in Anthropic And OpenAI",
-      "summary": "For its data center projects, OpenAI is working with several AI chip suppliers, including AMD, Broadcom, Cerebras and Nvidia.\n\nOpenAI is also developing its own AI accelerator chip, dubbed Jalapeño. O...",
-      "highlights": [
-        "For its data center projects, OpenAI is working with several AI chip suppliers, including AMD, Broadcom, Cerebras and Nvidia.",
-        "OpenAI is also developing its own AI accelerator chip, dubbed Jalapeño. OpenAI will continue to use third-party AI chips. But Jalapeño is optimized for OpenAI’s own LLMs. Thus, the company may use the Jalapeño AI chip in select LLM applications. And with Jalapeño, OpenAI isn’t totally dependent on AI chips from others. [...] Within its leased space at the various CSPs, Anthropic makes use of a multitude of servers to process its AI models. Depending on the CSP, these servers incorporate various AI chip architectures, such as Amazon’s Trainium AI chips, Google’s Tensor Processing Units (TPUs), Nvidia’s GPUs and AMD’s GPUs, according to the filing. For the most part, these AI chips are manufactured by TSMC. [...] Last month, OpenAI introduced its latest AI model. This technology, called GPT-6.1 Terra, is a faster AI model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing."
-      ],
-      "url": "https://marklapedus.substack.com/p/tsmc-to-invest-up-to-1b-in-anthropic",
-      "source": "marklapedus.substack.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-16T05:00:00Z"
-    },
-    {
-      "id": "9e7d18d652d1",
-      "title": "Alibaba challenges OpenAI and Anthropic with Qwen4-Max - Techzine Global",
-      "summary": "Eddie Wu said in September that T-Head, Alibaba’s chip division, would introduce China’s most powerful AI chips to the domestic market. T-Head recently filed for an initial public offering in Hong Kon...",
-      "highlights": [
-        "Eddie Wu said in September that T-Head, Alibaba’s chip division, would introduce China’s most powerful AI chips to the domestic market. T-Head recently filed for an initial public offering in Hong Kong. The Hangzhou-based company has set the achievement of artificial general intelligence (AGI) as its goal. It is also rapidly expanding its computing power, with Wu intending to build 20 gigawatts of data center capacity worldwide by 2032. [...] According to Bloomberg, Alibaba’s Qwen series is the most-downloaded open-weight model family in the world to date. Following an ambitious technological push led by CEO Eddie Wu, Alibaba has managed to attract a large user base. The news agency notes that the company is building a complete AI ecosystem, ranging from AI models to its own AI chips.",
-        "## Investments in data centers [...] Bloomberg reports this, based on Alibaba’s announcement. The e-commerce giant, which has now also turned its focus to AI, said that Qwen4-Max ranked very highly in coding benchmarks. It also reportedly outperforms both Anthropic’s Claude Fable 5.1 and the Kimi K3.1 Pro from domestic Chinese competitor Moonshot. Alibaba has not made the model open source, which would allow users to download and customize it, but said it will soon make smaller versions of the series available."
-      ],
-      "url": "https://www.techzine.eu/news/applications/145839/alibaba-challenges-openai-and-anthropic-with-qwen4-max",
-      "source": "techzine.eu",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-16T12:27:35Z"
-    },
-    {
-      "id": "eb107ecdc0d9",
-      "title": "AI大模型周报：阿里发布新一代大模型Qwen4-Max；腾讯优图实验室研究总监孙星被曝离职；阿里收紧回流，主动离职两次不能回原集团；华为云发布并开源具身世界模型…_推荐_i黑马",
-      "summary": "11月16日，多名用户反馈DeepSeek对App及网页版的长对话、单次输入长度和每日对话额度同时实施限制。\n\n平台提示原因为“算力不足”，不再支持超过7天不活跃的长对话，单次输入文字上限被缩短至4万字左右。\n\n每日对话额度同样受限，用户当日使用量触顶后会收到“因服务器繁忙，使用额度已达上限”的提示。\n\n这是DeepSeek近期因算力资源紧张对普通用户侧服务作出的调整，三项限制同时生效。\n\n截至发...",
-      "highlights": [
-        "11月16日，多名用户反馈DeepSeek对App及网页版的长对话、单次输入长度和每日对话额度同时实施限制",
-        "平台提示原因为“算力不足”，不再支持超过7天不活跃的长对话，单次输入文字上限被缩短至4万字左右",
-        "每日对话额度同样受限，用户当日使用量触顶后会收到“因服务器繁忙，使用额度已达上限”的提示"
-      ],
-      "url": "http://www.iheima.com/article-404305.html",
-      "source": "iheima.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-16T09:00:00Z"
-    },
     {
       "id": "3b1dcc89caf4",
       "title": "从GPU到云收入，微软、谷歌和亚马逊正在争夺AI基础设施定价权_搜狐网",
@@ -118,36 +15,6 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-11-16T17:30:22Z"
-    },
-    {
-      "id": "5d4db2f2705b",
-      "title": "摩根大通分析师：英伟达AI算力合约份额从83%降至39% — Actualités TradingView",
-      "summary": "Gelonghui\nGelonghui\n\n# 摩根大通分析师：英伟达AI算力合约份额从83%降至39%\n\n格隆汇11月16日｜摩根大通资产管理市场与投资策略主席迈克尔・切巴莱斯特在前一日发布的报告中称，OpenAI、Anthropic这类前沿AI实验室已经敲定、未来将采购的算力基础设施里，英伟达GPU占比仅39%。而2023至2025年，英伟达在AI芯片整体收入中的份额曾达到83%，这预示着它在下...",
-      "highlights": [
-        "# 摩根大通分析师：英伟达AI算力合约份额从83%降至39%",
-        "格隆汇11月16日｜摩根大通资产管理市场与投资策略主席迈克尔・切巴莱斯特在前一日发布的报告中称，OpenAI、Anthropic这类前沿AI实验室已经敲定、未来将采购的算力基础设施里，英伟达GPU占比仅39%",
-        "而2023至2025年，英伟达在AI芯片整体收入中的份额曾达到83%，这预示着它在下一代算力基础设施中的占比可能大幅萎缩"
-      ],
-      "url": "https://fr.tradingview.com/news/gelonghui:dd436873fe3f9:0",
-      "source": "fr.tradingview.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-16T07:23:47Z"
-    },
-    {
-      "id": "5e8fcee76e13",
-      "title": "无界进化完成超亿元Pre-A轮融资，刷新中国AI虚拟细胞企业单笔融资金额纪录_投资界",
-      "summary": "首页\n 资讯\n 快讯\n VC情报局\n 活动\n 研究\n 创投号\n\n 深度\n 热门\n 天天IPO\n AI先锋\n 机器人\n 医疗健康\n 大消费\n 视频\n 99个发现\n\n首页产业生物技术正文\n\n# 无界进化完成超亿元Pre-A轮融资，刷新中国AI虚拟细胞企业单笔融资金额纪录\n\n11月16日，无界进化宣布完成超亿元Pre-A轮融资，刷新中国虚拟细胞企业单笔融资金额纪录，资金将用于研发及体系扩容。\n\n来源：投...",
-      "highlights": [
-        "# 无界进化完成超亿元Pre-A轮融资，刷新中国AI虚拟细胞企业单笔融资金额纪录",
-        "11月16日，无界进化宣布完成超亿元Pre-A轮融资，刷新中国虚拟细胞企业单笔融资金额纪录，资金将用于研发及体系扩容",
-        "来源：投资界讯 更新于： 2020字"
-      ],
-      "url": "https://news.pedaily.cn/202611/571905.shtml",
-      "source": "news.pedaily.cn",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-16T05:46:00Z"
     },
     {
       "id": "251e9542f0fb",
@@ -223,36 +90,6 @@
       "publishedAt": "2026-11-17T09:00:00Z"
     },
     {
-      "id": "c715660a1f13",
-      "title": "为什么硅谷巨头和国内大厂，都在抢着做你的「赛博分身」？-36氪",
-      "summary": "过去两年多，大家打开任何一家大厂的发布会，满屏都是熟悉的名词：MMLU跑分又涨了两个点、数学竞赛金牌水准、支持100万上下文、代码生成速度翻倍。\n\n但到了最近这几个月，战火突然烧到了一个新词上——Personal Agent（个人智能体）。\n\nMeta在 2026 年 9 月正式发布了独立个人智能体Muse，不仅给它配了专属的安全虚拟机和专用浏览器，还打通了WhatsApp、邮件和日程，主打让AI...",
-      "highlights": [
-        "过去两年多，大家打开任何一家大厂的发布会，满屏都是熟悉的名词：MMLU跑分又涨了两个点、数学竞赛金牌水准、支持100万上下文、代码生成速度翻倍",
-        "但到了最近这几个月，战火突然烧到了一个新词上——Personal Agent（个人智能体）",
-        "Meta在 2026 年 9 月正式发布了独立个人智能体Muse，不仅给它配了专属的安全虚拟机和专用浏览器，还打通了WhatsApp、邮件和日程，主打让AI代替用户去跑那些繁琐的生活与差旅任务；紧接着不到一个月，OpenAI就上线了集成在ChatGPT里的常驻智能体Dots；CLaude Duet，GrokBot也轮番出现……一时间美国各个AI大厂都在做个人智能体"
-      ],
-      "url": "https://www.36kr.com/p/4070676036440966",
-      "source": "36kr.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-16T00:35:28Z"
-    },
-    {
-      "id": "c6034a705687",
-      "title": "芯片与AI持续高投入，长期研发资金从何来？|融资|金融|制造业_网易订阅",
-      "summary": "类似这样的故事，仍在不断上演。万得（Wind）数据显示，2026年前三季度，A股新增IPO（首次公开募股）公司123家、首发募资约2163亿元，为2025年全年的1.64倍，其中119家属战略性新兴产业、占比高达97%；同期，港股新增上市公司116家、募资3396亿元，科技类占比88%。种种数据表明，资本正加速向高端制造业集中。\n\n事实上，中国制造业正处于向数字化、智能化、绿色化高端转型的关键攻坚...",
-      "highlights": [
-        "类似这样的故事，仍在不断上演",
-        "万得（Wind）数据显示，2026年前三季度，A股新增IPO（首次公开募股）公司123家、首发募资约2163亿元，为2025年全年的1.64倍，其中119家属战略性新兴产业、占比高达97%；同期，港股新增上市公司116家、募资3396亿元，科技类占比88%",
-        "种种数据表明，资本正加速向高端制造业集中"
-      ],
-      "url": "https://www.163.com/dy/article/LBSAJ0SD0519DDOA.html?clickfrom=w_money",
-      "source": "163.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-16T08:04:59Z"
-    },
-    {
       "id": "60153e825bc7",
       "title": "字节投的机器人公司，要上市了-36氪",
       "summary": "广东\n   浙江\n   四川\n   安徽\n   江苏\n\n搜索\n\n项目推荐\n\n我要入驻\n\n城市合作\n\n商业策划\n\nImage 2: 36氪\n\n# 字节投的机器人公司，要上市了\n\n直通IPO_·_ 2026年11月17日 11:18\n\n主打电动夹爪、灵巧手等机器人末端执行器。\n\n具身智能赛道的资金，正从扎堆追捧人形机器人整机本体，转向重仓上游核心部件。当不少本体公司还在依靠融资持续输血、等待通用场景落...",
@@ -283,21 +120,6 @@
       "publishedAt": "2026-11-17T03:00:00Z"
     },
     {
-      "id": "4f75ed670b4d",
-      "title": "腾讯、阿里同时下注，小鹏机器人凭什么值 430 亿元-36氪",
-      "summary": "更现实的一层，是钱的问题。当前，机器人还处于非常早期的阶段，技术范式尚未收敛，需要长期的资金投入。小鹏机器人独立融资，可以在不显著增加集团资金压力的情况下，给机器人业务准备一笔更长期的钱。毕竟，小鹏汽车所在的新能源车行业，「决战」还远没有结束。\n\n更重要的是，独立融资还可以为机器人团队建立更灵活的股权激励和人才机制。人形机器人竞争，本质上是拼人才。此前，已经有不少汽车行业的人才，入局具身智能。\n\n...",
-      "highlights": [
-        "更现实的一层，是钱的问题",
-        "当前，机器人还处于非常早期的阶段，技术范式尚未收敛，需要长期的资金投入",
-        "小鹏机器人独立融资，可以在不显著增加集团资金压力的情况下，给机器人业务准备一笔更长期的钱"
-      ],
-      "url": "https://m.36kr.com/p/3954906522434949",
-      "source": "m.36kr.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-16T10:38:03Z"
-    },
-    {
       "id": "3dc3426c65ee",
       "title": "一周AI大事件",
       "summary": "11月16日，阿里巴巴全新一代基座大模型Qwen4正式发布。千问AI平台首发上线Qwen4-Max，API服务与Token Plan同步支持新模型调用，面向开发者与企业全面开放。Qwen4-Max采用全新架构，总参数2.4T，具备原生视觉理解能力，可稳定完成长程任务，能力从编程与办公协作拓展至汽车制造、金融投研、科学研究等领域。在Terminal-Bench 4.0评测的相同思考档位下，较上一代平...",
@@ -311,21 +133,6 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-11-17T06:00:00Z"
-    },
-    {
-      "id": "e22da2f2ba82",
-      "title": "英伟达六大客户自研芯片提速：AI算力从GPU单极走向双轨竞争_搜狐网",
-      "summary": "展开剩余\n\n84\n\n%\n\n微软在2026年1月正式发布自研芯片Maia 200，进入自研加速器的公开产品阶段。亚马逊则已有Trainium和Inferentia两条产品线，AWS在2026年初公布的数据显示，Trainium2交付部署量突破140万颗，进入规模部署区间。Meta在2026年3月披露，公司内部已部署数十万颗自研MTIA芯片，主力承担社交网络内容排序与广告推荐相关推理任务。OpenAI...",
-      "highlights": [
-        "微软在2026年1月正式发布自研芯片Maia 200，进入自研加速器的公开产品阶段",
-        "亚马逊则已有Trainium和Inferentia两条产品线，AWS在2026年初公布的数据显示，Trainium2交付部署量突破140万颗，进入规模部署区间",
-        "Meta在2026年3月披露，公司内部已部署数十万颗自研MTIA芯片，主力承担社交网络内容排序与广告推荐相关推理任务"
-      ],
-      "url": "https://m.sohu.com/a/1102181405_128075?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-16T13:31:55Z"
     },
     {
       "id": "63af73568be8",
@@ -343,21 +150,6 @@
       "publishedAt": "2026-11-16T15:20:00Z"
     },
     {
-      "id": "96d040fd10bb",
-      "title": "摩根大通分析师：英伟达AI算力合约份额从83%降至39% — Noticias de TradingView",
-      "summary": "# 摩根大通分析师：英伟达AI算力合约份额从83%降至39%\n\n格隆汇11月16日｜摩根大通资产管理市场与投资策略主席迈克尔・切巴莱斯特在前一日发布的报告中称，OpenAI、Anthropic这类前沿AI实验室已经敲定、未来将采购的算力基础设施里，英伟达GPU占比仅39%。而2023至2025年，英伟达在AI芯片整体收入中的份额曾达到83%，这预示着它在下一代算力基础设施中的占比可能大幅萎缩。竞争...",
-      "highlights": [
-        "# 摩根大通分析师：英伟达AI算力合约份额从83%降至39%",
-        "格隆汇11月16日｜摩根大通资产管理市场与投资策略主席迈克尔・切巴莱斯特在前一日发布的报告中称，OpenAI、Anthropic这类前沿AI实验室已经敲定、未来将采购的算力基础设施里，英伟达GPU占比仅39%",
-        "而2023至2025年，英伟达在AI芯片整体收入中的份额曾达到83%，这预示着它在下一代算力基础设施中的占比可能大幅萎缩"
-      ],
-      "url": "https://es.tradingview.com/news/gelonghui:dd436873fe3f9:0",
-      "source": "es.tradingview.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-16T07:23:47Z"
-    },
-    {
       "id": "932e1ea4bf62",
       "title": "百亿美金入场，谁在给AI4S定价|融资|诺华|药企|a轮|ipo|知名企业|独家财务顾问_网易订阅",
       "summary": "©潮涌AI编辑部\n\n文｜盐\n\n近日，海外AI4S（AI for Science）赛道的资本消息密集落地。\n\n无论是OpenAI收购药物研发协调平台Orchestra Bio、Iambic登陆公开市场募资1.5亿美元，还是彭博报道Isomorphic Labs正以约500亿美元估值洽谈50亿美元新融资，以及Mirendil的A轮就拿到10亿美金……大额融资、巨头并购、IPO退出在年内接连出现，AI4...",
@@ -371,21 +163,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-11-17T13:42:18Z"
-    },
-    {
-      "id": "b96351b416bd",
-      "title": "中国AI4LS赛道10个月战绩彪悍：35亿美元、124起融资-36氪",
-      "summary": "切换的方向很明确：从看团队、看叙事，转向看验证数据、看闭环能力、看商业化兑现。\n\n高特佳投资集团总经理孙佳林提出，平台型公司和产品型公司的界限正在模糊，AI-Biotech本身就具备极强的AI能力，早期可以通过技术服务实现商业闭环，支撑自研管线的长期投入；后期管线兑现后，又会反过来强化平台能力。\n\n水木分子COO邢杰看来，更本质的变化是产业链的边界正在被打破。整个行业正在从“+AI”的改造，走向“...",
-      "highlights": [
-        "切换的方向很明确：从看团队、看叙事，转向看验证数据、看闭环能力、看商业化兑现",
-        "高特佳投资集团总经理孙佳林提出，平台型公司和产品型公司的界限正在模糊，AI-Biotech本身就具备极强的AI能力，早期可以通过技术服务实现商业闭环，支撑自研管线的长期投入；后期管线兑现后，又会反过来强化平台能力",
-        "水木分子COO邢杰看来，更本质的变化是产业链的边界正在被打破"
-      ],
-      "url": "https://www.36kr.com/p/4070263453373317",
-      "source": "36kr.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-16T13:30:07Z"
     },
     {
       "id": "8ea3b14d0c82",
@@ -403,34 +180,6 @@
       "publishedAt": "2026-11-17T00:00:00Z"
     },
     {
-      "id": "a773f0d74a08",
-      "title": "Semiconductor Insider on X: \"Google TPU update: New orders from OpenAI and Anthropic have pushed Google’s TPU shipment visibility all the way to 2029, longer than Nvidia GPUs (mostly till 2027–28). OpenAI is buying about 12 million MediaTek-designed 8t chips outright. Anthropic is taking around 1… / X",
-      "summary": "in 2027, 14–15 million in 2028, and 16–18 million in 2029. Shipments keep rising in 2029 even if overall AI spending peaks in 2028. The v10 lineup has been changed to “Quillfish” (mass production in 2...",
-      "highlights": [
-        "in 2027, 14–15 million in 2028, and 16–18 million in 2029. Shipments keep rising in 2029 even if overall AI spending peaks in 2028. The v10 lineup has been changed to “Quillfish” (mass production in 2029). MediaTek won the design and will be the sole supplier for v9 and v10, with its share rising to 55–60% by 2029. MediaTek is the biggest winner thanks to high-margin 8t orders visible through 2029. Broadcom also benefits from higher-margin 8i chips, though its main focus is shifting to other AI [...] and 16–18 million in 2029. Shipments keep rising in 2029 even if overall AI spending peaks in 2028. The v10 lineup has been changed to “Quillfish” (mass production in 2029). MediaTek won the design and will be the sole supplier for v9 and v10, with its share rising to 55–60% by 2029. MediaTek is the biggest winner thanks to high-margin 8t orders visible through 2029. Broadcom also benefits from higher-margin 8i chips, though its main focus is shifting to other AI chips. $NVDA Nvidia CEO [...] and 16–18 million in 2029. Shipments keep rising in 2029 even if overall AI spending peaks in 2028. The v10 lineup has been changed to “Quillfish” (mass production in 2029). MediaTek won the design and will be the sole supplier for v9 and v10, with its share rising to 55–60% by 2029. MediaTek is the biggest winner thanks to high-margin 8t orders visible through 2029. Broadcom also benefits from higher-margin 8i chips, though its main focus is shifting to other AI chips. $NVDA Nvidia CEO"
-      ],
-      "url": "https://x.com/SemiconductorsX/status/2122152067863298156",
-      "source": "x.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-16T02:17:35Z"
-    },
-    {
-      "id": "1204dd22f0c2",
-      "title": "More Pain For NVDA? Top Supply Chain Analyst Says New OpenAI, Anthropic Chip Orders Boost Google’s TPU Outlook — TradingView News",
-      "summary": "“Strong new orders from OpenAI and Anthropic have extended Google TPU shipment visibility to 2029, ahead of Nvidia GPUs and other AI ASICs (mostly 4Q27–2Q28),” Kuo, who is based in Taiwan and is known...",
-      "highlights": [
-        "“Strong new orders from OpenAI and Anthropic have extended Google TPU shipment visibility to 2029, ahead of Nvidia GPUs and other AI ASICs (mostly 4Q27–2Q28),” Kuo, who is based in Taiwan and is known for his insights on Apple and Nvidia, said in an X post.",
-        "The analyst said estimates that OpenAI will seek about 12 million TPUs across 2028 and 2029, and Anthropic about 14 million. OpenAI plans to buy its chips outright, while Anthropic will combine leasing with direct purchases. [...] The companies’ orders are expected to keep Google’s older v8 chips in heavy use even as Google shifts its own computing expansion toward v9, Kuo said.",
-        "That note highlights that custom chip demand will continue climbing, despite widespread expectations that AI spending will peak in 2028. Kuo’s estimates put shipments at 8–9 million units in 2027, 14–15 million in 2028 and 16–18 million in 2029, according to Kuo. [...] Stocktwits"
-      ],
-      "url": "https://www.tradingview.com/news/stocktwits:d7c41d0d8094b:0-more-pain-for-nvda-top-supply-chain-analyst-says-new-openai-anthropic-chip-orders-boost-google-s-tpu-outlook",
-      "source": "tradingview.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-16T05:03:30Z"
-    },
-    {
       "id": "0e2708b7b12a",
       "title": "AI: Anthropic & OpenAI Use AI to Design AI Chips. AI-RTZ #1268",
       "summary": "Google, the most vertically integrated of them all, with its TPU chips and its Gemini models. As I wrote on Tuesday in ‘Google Specializes Its TPUs as Nvidia Wobbles’ (AI-RTZ #1266), its TPU teams get...",
@@ -444,6 +193,248 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-11-18T00:04:45Z"
+    },
+    {
+      "id": "c43273ad441a",
+      "title": "OpenAI发布升级版Astra AI模型，新增安全防护措施 提供者 Investing.com",
+      "summary": "Investing.com - 周二，OpenAI发布了其高级人工智能模型Astra的最新版本。此前约两个月，该公司曾取消一次更新计划，以便实施更严格的安全措施。\n\nOpenAI表示，GPT-6.2 Astra模型专为复杂的专业任务而设计，涵盖构建金融模型和开展科学研究等应用场景，在处理高难度任务时运行效率更高。\n\n立即获取市场重要资讯提醒，使用InvestingPro——现享55折优惠。\n\nOp...",
+      "highlights": [
+        "Investing.com - 周二，OpenAI发布了其高级人工智能模型Astra的最新版本",
+        "此前约两个月，该公司曾取消一次更新计划，以便实施更严格的安全措施",
+        "OpenAI表示，GPT-6.2 Astra模型专为复杂的专业任务而设计，涵盖构建金融模型和开展科学研究等应用场景，在处理高难度任务时运行效率更高"
+      ],
+      "url": "https://cn.investing.com/news/stock-market-news/article-3673030",
+      "source": "cn.investing.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-17T18:07:33Z"
+    },
+    {
+      "id": "ad1e3c81a51b",
+      "title": "GPU企业争着做机器人芯片，整机厂商为何还想自己造？-36氪",
+      "summary": "岸芯科技的实际控制人孙尔俊，个人持股比例超过20%。进入沐曦前，他曾在海信旗下芯片业务平台、灿芯、中星微和澜起科技任职，在澜起做过产品线负责人和产品及市场总监。\n\n2020年9月，他参与创办沐曦，担任市场副总裁和首席营销官。沐曦聚焦通用GPU及高性能计算芯片研发，在国产AI算力需求大幅增长的背景下，沐曦于2025年12月登陆科创板。根据沐曦的招股书，孙尔俊于2024年8月离职，一年多后创办岸芯。\n...",
+      "highlights": [
+        "岸芯科技的实际控制人孙尔俊，个人持股比例超过20%",
+        "进入沐曦前，他曾在海信旗下芯片业务平台、灿芯、中星微和澜起科技任职，在澜起做过产品线负责人和产品及市场总监",
+        "2020年9月，他参与创办沐曦，担任市场副总裁和首席营销官"
+      ],
+      "url": "https://www.36kr.com/p/4074892228335236",
+      "source": "36kr.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-18T11:45:08Z"
+    },
+    {
+      "id": "f487b5952e48",
+      "title": "游戏显卡养出了 AI 帝国！英伟达 GPU 如何崛起，为何科技巨头又急着取代它？｜《改变世界的半导体》EP1",
+      "summary": "接着，我们回到2012年的AlexNet：两张GTX 580游戏显卡，如何参与一场改变AI历史的突破？从黄仁勋亲自把DGX-1送到OpenAI，到Tensor Core和ChatGPT，英伟达如何把芯片、软件和整套系统，逐步打造成支撑人工智能发展的计算平台？\n\n但GPU也有自己的硬伤。为什么有些程序搬上GPU，反而跑得更慢？显存容量、带宽和数据搬运，为什么会限制AI模型的设计？HBM与NVLink...",
+      "highlights": [
+        "接着，我们回到2012年的AlexNet：两张GTX 580游戏显卡，如何参与一场改变AI历史的突破",
+        "从黄仁勋亲自把DGX-1送到OpenAI，到Tensor Core和ChatGPT，英伟达如何把芯片、软件和整套系统，逐步打造成支撑人工智能发展的计算平台",
+        "但GPU也有自己的硬伤"
+      ],
+      "url": "https://www.youtube.com/watch?v=SZd4TEmTrUc",
+      "source": "youtube.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-18T00:00:00Z"
+    },
+    {
+      "id": "5de697a20839",
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop - TechCrunch",
+      "summary": "Proton, the privacy-focused tech company offering alternatives to Google and Microsoft’s tools for email, productivity apps, password management, cloud storage, and more, is now bringing its AI app Lu...",
+      "highlights": [
+        "Proton, the privacy-focused tech company offering alternatives to Google and Microsoft’s tools for email, productivity apps, password management, cloud storage, and more, is now bringing its AI app Lumo to personal computers. On Tuesday, the company launched Lumo Desktop for Windows, macOS, and Linux, allowing users to leverage its AI to carry out local tasks on their computer involving connected apps, personal files, and other automations. The app is designed to offer users more control over their personal data, as consumer AI technology becomes focused more on AI agents that can perform tasks on users’ behalf, rather than just answering questions. Proton’s idea is to offer a set of tools that let its AI access connected apps, files, and folders and automate tasks, but with more personalization over how much access the AI has. The company says users can choose which actions the AI agent takes that will need to request their approval, and it vows that the conversations and information from connected apps and files are never used to serve personalized ads or train AI models."
+      ],
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "source": "techcrunch.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-17T17:32:25Z"
+    },
+    {
+      "id": "88700bda7e73",
+      "title": "Google’s AdMob lets AI agents like Claude Code set up app ads - The Next Web",
+      "summary": "Google has released AdMob agent skills that let AI coding agents, including Claude Code, Codex and Cursor, add and check ad code in mobile apps. A Gemini-built assistant, Ask AdMob, and an MCP server ...",
+      "highlights": [
+        "Google has released AdMob agent skills that let AI coding agents, including Claude Code, Codex and Cursor, add and check ad code in mobile apps. A Gemini-built assistant, Ask AdMob, and an MCP server that lets agents manage AdMob accounts are still in testing, with more agent tools planned for 2027. Google is adding AI tools to AdMob, its service for showing ads inside mobile apps, the company announced on Monday. The one available now lets developers hand ad setup to AI coding agents, including rival tools such as Claude Code, Codex and Cursor. The new “agent skills” are ready-made instructions that teach an AI agent how to work with Google’s ad code. Google is also building an MCP server, a link that would let agents read AdMob account data, create ad slots and change settings. The second tool, Ask AdMob, is a chat assistant built with Gemini that sits inside a developer’s AdMob account."
+      ],
+      "url": "https://thenextweb.com/news/google-admob-ai-agents-claude-code-codex-ask-admob",
+      "source": "thenextweb.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-16T18:47:54Z"
+    },
+    {
+      "id": "ac00a89a240c",
+      "title": "百亿美金入场，谁在给AI4S定价-36氪",
+      "summary": "广东\n   浙江\n   四川\n   安徽\n   江苏\n\n搜索\n\n项目推荐\n\n我要入驻\n\n城市合作\n\n商业策划\n\nImage 2: 36氪\n\n# 百亿美金入场，谁在给AI4S定价\n\n潮涌AI_·_ 2026年11月18日 01:56\n\n管线、资本、平台三层，各有一张答卷等着交。\n\n近日，海外AI4S（AI for Science）赛道的资本消息密集落地。\n\n无论是OpenAI收购药物研发协调平台Or...",
+      "highlights": [
+        "Image 2: 36氪",
+        "# 百亿美金入场，谁在给AI4S定价",
+        "潮涌AI_·_ 2026年11月18日 01:56"
+      ],
+      "url": "https://m.36kr.com/p/4074537665418116",
+      "source": "m.36kr.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-18T05:02:01Z"
+    },
+    {
+      "id": "9cd114a579bd",
+      "title": "Anthropic IPO重塑創投圈！早期投資人合計狂賺逾千億美元　天使投資人回報約2300倍",
+      "summary": "過去一年，Anthropic營收反超對手OpenAI，市場爭搶入股的熱情持續升溫。某大型投資方合夥人透露，今年融資爭奪階段，他們甚至給Anthropic財務長Krishna Rao寫了「示好信」，只為拿到融資份額。這波爆發也促使OpenAI的一眾投資方轉而投資Anthropic，包括Brad Gerstner的Altimeter、紅杉資本、Peter Thiel的Founders Fund。此一情...",
+      "highlights": [
+        "過去一年，Anthropic營收反超對手OpenAI，市場爭搶入股的熱情持續升溫",
+        "某大型投資方合夥人透露，今年融資爭奪階段，他們甚至給Anthropic財務長Krishna Rao寫了「示好信」，只為拿到融資份額",
+        "這波爆發也促使OpenAI的一眾投資方轉而投資Anthropic，包括Brad Gerstner的Altimeter、紅杉資本、Peter Thiel的Founders Fund"
+      ],
+      "url": "https://tw.stock.yahoo.com/news/anthropic-ipo%E9%87%8D%E5%A1%91%E5%89%B5%E6%8A%95%E5%9C%88-%E6%97%A9%E6%9C%9F%E6%8A%95%E8%B3%87%E4%BA%BA%E5%90%88%E8%A8%88%E7%8B%82%E8%B3%BA%E9%80%BE%E5%8D%83%E5%84%84%E7%BE%8E%E5%85%83-%E5%A4%A9%E4%BD%BF%E6%8A%95%E8%B3%87%E4%BA%BA%E5%9B%9E%E5%A0%B1%E7%B4%842300%E5%80%8D-123004041.html",
+      "source": "tw.stock.yahoo.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-18T12:00:00Z"
+    },
+    {
+      "id": "537a743a4879",
+      "title": "AI 投研企业ARTi 宣布获数百万美元融资，C Capital投资_新浪财经_新浪网",
+      "summary": "新浪首页\n 新闻\n 体育\n 财经\n 娱乐\n 科技\n 博客\n 图片\n 专栏\n 更多\n\n 汽车 教育 时尚 女性 星座 健康\n 房产历史视频收藏育儿读书\n 佛学游戏旅游邮箱导航\n\n 新浪微博\n 新浪新闻\n 新浪财经\n 新浪体育\n 新浪众测\n 新浪博客\n 新浪视频\n 新浪游戏\n 天气通\n\n[](\n\n资讯 > 正文\n\n# AI 投研企业ARTi 宣布获数百万美元融资，C Capital投资\n\nAI 投研企...",
+      "highlights": [
+        "汽车 教育 时尚 女性 星座 健康",
+        "房产历史视频收藏育儿读书",
+        "# AI 投研企业ARTi 宣布获数百万美元融资，C Capital投资"
+      ],
+      "url": "https://finance.sina.com.cn/tob/2026-11-17/doc-iniyyzyi1841030.shtml",
+      "source": "finance.sina.com.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-17T01:11:09Z"
+    },
+    {
+      "id": "78e8ad97e634",
+      "title": "模型降本、机器人进场、数据筑基：AI 产业在冷热分化中走向场景落地_魁卓科技-人工智能数据标注与高质量数据集服务商｜大模型·具身智能·多模态数据",
+      "summary": "在 11 月 16 日晚间举行的小鹏集团 2026 年 Q3 财报电话会上，董事长、CEO 何小鹏预告，最新版本的小鹏 Iron 将在接下来的小鹏科技日和广州车展公开亮相。按照计划，明年一季度量产的首批机器人将进入小鹏部分门店开启试用；明年二季度，小鹏将面向外部商业客户正式发布 Iron。谈及护城河，何小鹏认为关键包括硬件本体能力、规模化商业化、生产制造与销售能力，以及高质量、多样性的数据能力。I...",
+      "highlights": [
+        "在 11 月 16 日晚间举行的小鹏集团 2026 年 Q3 财报电话会上，董事长、CEO 何小鹏预告，最新版本的小鹏 Iron 将在接下来的小鹏科技日和广州车展公开亮相",
+        "按照计划，明年一季度量产的首批机器人将进入小鹏部分门店开启试用；明年二季度，小鹏将面向外部商业客户正式发布 Iron",
+        "谈及护城河，何小鹏认为关键包括硬件本体能力、规模化商业化、生产制造与销售能力，以及高质量、多样性的数据能力"
+      ],
+      "url": "https://www.kuizhuokj.com/index.php?m=home&c=View&a=index&aid=14722",
+      "source": "kuizhuokj.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-11-17T14:00:00Z"
+    },
+    {
+      "id": "0b1e11617e1f",
+      "title": "Partly's new repair AI beats OpenAI, Google and Anthropic on key tasks",
+      "summary": "The company ran the benchmarks in November 2026, comparing Interpreter 3 with six current models including GPT-6 Astra, Gemini 4 Carbon and Claude Opus 5.5. The",
+      "highlights": [
+        "The company ran the benchmarks in November 2026, comparing Interpreter 3 with six current models including GPT-6 Astra, Gemini 4 Carbon and Claude Opus 5.5. The"
+      ],
+      "url": "https://dealroom.co/news/173683-partly-s-new-repair-ai-beats-openai-google-and-anthropic-on-key-tasks",
+      "source": "dealroom.co",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-17T20:00:00Z"
+    },
+    {
+      "id": "e5c0c8feec81",
+      "title": "GPT-6.2 Astra: 5.2-Point Gain at Under 1/3 the Cost",
+      "summary": "The three-way race among OpenAI, Anthropic and Google now plays out in cost-per-task charts as much as in capability charts. OpenAI’s decision to benchmark against Claude Fable 5.2 rather than a gener...",
+      "highlights": [
+        "The three-way race among OpenAI, Anthropic and Google now plays out in cost-per-task charts as much as in capability charts. OpenAI’s decision to benchmark against Claude Fable 5.2 rather than a generic baseline shows which rival it sees as the pricing reference for professional workloads. Google’s Gemini line sits in the same conversation. [...] What is GPT-6.2 Astra?",
+        "It is the new OpenAI model announced on November 17, 2026. Bloomberg’s coverage describes it as the company’s most advanced model for professional use. Technical specifications have not been confirmed in the material reviewed.",
+        "Why did OpenAI scrap the earlier Astra update?"
+      ],
+      "url": "https://shattered.io/openai-gpt-6-2-astra-5-2-point-gain-one-third-cost",
+      "source": "shattered.io",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-17T19:32:34Z"
+    },
+    {
+      "id": "242d9406ce03",
+      "title": "OpenAI's Self-Improvement Threshold: What GPT-6.2 Astra Really Crossed | MindStudio",
+      "summary": "There’s also a separate, more formal metric circulating in community coverage: a modified “RSI index” (recursive self-improvement index), calibrated so that 50% represents human-level researcher perfo...",
+      "highlights": [
+        "There’s also a separate, more formal metric circulating in community coverage: a modified “RSI index” (recursive self-improvement index), calibrated so that 50% represents human-level researcher performance on a given task. On this index, Astra scored around 29%, behind Gemini’s latest models and well behind Anthropic’s Fable and Opus models, which currently lead. That puts Astra’s self-improvement capability in a middle tier: higher than its predecessor, meaningfully below human parity, and [...] It’s OpenAI’s top-tier model release, positioned as the company’s equivalent to Anthropic’s Fable, intended for demanding technical and creative work. It launched alongside a cheaper sibling model called Soul.",
+        "### What does “high threshold for AI self-improvement” mean in practice? [...] It means GPT-6.2 Astra is the first model OpenAI has released publicly that measurably speeds up the people building the next generation of AI. OpenAI’s own framing is that the model helps its researchers about as much as giving each of them an extra, genuinely capable research engineer. It’s not about the model editing its own code or operating unsupervised. It’s about measured gains on real research tasks: debugging failed experiments, writing low-level code for custom chips, and training"
+      ],
+      "url": "https://www.mindstudio.ai/blog/gpt-6-2-astra-ai-self-improvement",
+      "source": "mindstudio.ai",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-18T00:00:00Z"
+    },
+    {
+      "id": "de7b6fbc0b79",
+      "title": "OpenAI Unveils Astra, Its Most Advanced AI Model for Professional Use",
+      "summary": "Save\n\nTranslate\n\nOpenAI is releasing a new version of its most advanced Astra artificial intelligence model nearly two months after the company scrapped a prior update to establish stronger safeguards...",
+      "highlights": [
+        "OpenAI is releasing a new version of its most advanced Astra artificial intelligence model nearly two months after the company scrapped a prior update to establish stronger safeguards for the technology.",
+        "GPT-6.2 Astra is meant to be OpenAI’s most capable for complex professional projects, including building financial models and fielding scientific work, the company said Tuesday. It’s also intended to be more efficient at carrying out more difficult tasks. [...] Sign InSubscribe",
+        "Businessweek"
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/openai-unveils-new-astra-ai-model-after-scrapping-prior-release",
+      "source": "bloomberg.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-17T17:45:00Z"
+    },
+    {
+      "id": "a5971d54dbf7",
+      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free - The Verge",
+      "summary": "# Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free. Tasks in Gemini allows the AI agent to call businesses on your behalf, purchase items with Google Pay, and more. Google is rebranding its...",
+      "highlights": [
+        "# Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free. Tasks in Gemini allows the AI agent to call businesses on your behalf, purchase items with Google Pay, and more. Google is rebranding its Spark AI agent as “Tasks” and making it free to use. Users in the US will get access to a few other features, including the ability for the AI agent to call businesses to compare product pricing and check inventory, purchase items with Google Pay, and sign into accounts that support Google Password Manager. The launch of tasks in Gemini brings Spark’s capabilities to all users in the US, Canada, Japan, Korea, Australia, and India. Google says Gemini will perform tasks in a “hardware-isolated virtual machine that’s dedicated to your account and never shared with other users.” You can also provide instructions for Gemini while it completes tasks."
+      ],
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "source": "theverge.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-11-17T18:58:01Z"
+    },
+    {
+      "id": "8061a74cae63",
+      "title": "Daydream’s New AI Agent Can Shop for You While You Sleep - Vogue",
+      "summary": "# Daydream’s New AI Agent Can Shop for You While You Sleep. The AI-powered fashion discovery platform, launched in 2025 by former Stitch Fix executive Julie Bornstein, is introducing a 24/7 AI shoppin...",
+      "highlights": [
+        "# Daydream’s New AI Agent Can Shop for You While You Sleep. The AI-powered fashion discovery platform, launched in 2025 by former Stitch Fix executive Julie Bornstein, is introducing a 24/7 AI shopping agent that can learn consumers’ tastes, assemble outfits and purchase products on their behalf — even while they sleep. The new agent, which shoppers can chat with through Daydream’s app or by texting it directly via SMS, marks an evolution from the conversational fashion search engine the company launched just over a year ago. “We’ve been wanting to build from day one, but it took us a while to get there for a couple of reasons: one was that the agentic technology wasn’t yet there, and two is that the first version of the platform helped us really understand what consumers were looking for and what they wanted from an AI shopping assistant,” Bornstein says, explaining that Daydream was finding its original product couldn’t deliver the level of assistance shoppers wanted."
+      ],
+      "url": "https://www.vogue.com/article/daydreams-new-ai-agent-can-shop-for-you-while-you-sleep",
+      "source": "vogue.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-11-17T11:00:00Z"
+    },
+    {
+      "id": "8b4310406554",
+      "title": "Fountain Launches Orchestra, the AI Agent Builder for Frontline Workforce Teams - HRTech Series",
+      "summary": "# Fountain Launches Orchestra, the AI Agent Builder for Frontline Workforce Teams. #### ***Employers can build their own AI agents to work toward the goals they set, while holding every agent accounta...",
+      "highlights": [
+        "# Fountain Launches Orchestra, the AI Agent Builder for Frontline Workforce Teams. #### ***Employers can build their own AI agents to work toward the goals they set, while holding every agent accountable.***. Fountain, whose hiring and workforce software is used by more than 500 frontline employers, released Orchestra, which lets companies build AI agents to take on hiring and scheduling work by describing it in plain language. Drawing on data within Fountain’s software, the agents can call workers and applicants and report whether each task was completed. Building an agent in Orchestra is simple: An operator describes a job they would like to hand off to an agent, or describes a goal, such as reducing time to hire, and asks Orchestra to propose an agent for the goal. “We learned that from running our own business on agents, and it’s why every Orchestra agent is checked against what it actually did, and always has a goal and a success contract."
+      ],
+      "url": "https://techrseries.com/hiring/fountain-launches-orchestra-the-ai-agent-builder-for-frontline-workforce-teams/",
+      "source": "techrseries.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-18T08:37:10Z"
+    },
+    {
+      "id": "1b4845e24fa3",
+      "title": "OpenAI",
+      "summary": "# OpenAI\nID: p4PyTakV77G9\nWebsite: www.openai.com\nHeadquarters: San Francisco, CA, United States\nLinkedIn: www.linkedin.com/company/openai · 11,730,323 followers\nIndustry: Research Services\nIndustry c...",
+      "highlights": [
+        "ID: p4PyTakV77G9",
+        "Website: www.openai.com",
+        "Headquarters: San Francisco, CA, United States"
+      ],
+      "url": "https://tavily.com/knowledge/company/p4PyTakV77G9",
+      "source": "tavily.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-18T14:39:49Z"
     }
   ],
   "today": [
@@ -463,6 +454,162 @@
       "publishedAt": "2026-11-18T00:04:45Z"
     },
     {
+      "id": "ad1e3c81a51b",
+      "title": "GPU企业争着做机器人芯片，整机厂商为何还想自己造？-36氪",
+      "summary": "岸芯科技的实际控制人孙尔俊，个人持股比例超过20%。进入沐曦前，他曾在海信旗下芯片业务平台、灿芯、中星微和澜起科技任职，在澜起做过产品线负责人和产品及市场总监。\n\n2020年9月，他参与创办沐曦，担任市场副总裁和首席营销官。沐曦聚焦通用GPU及高性能计算芯片研发，在国产AI算力需求大幅增长的背景下，沐曦于2025年12月登陆科创板。根据沐曦的招股书，孙尔俊于2024年8月离职，一年多后创办岸芯。\n...",
+      "highlights": [
+        "岸芯科技的实际控制人孙尔俊，个人持股比例超过20%",
+        "进入沐曦前，他曾在海信旗下芯片业务平台、灿芯、中星微和澜起科技任职，在澜起做过产品线负责人和产品及市场总监",
+        "2020年9月，他参与创办沐曦，担任市场副总裁和首席营销官"
+      ],
+      "url": "https://www.36kr.com/p/4074892228335236",
+      "source": "36kr.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-18T11:45:08Z"
+    },
+    {
+      "id": "f487b5952e48",
+      "title": "游戏显卡养出了 AI 帝国！英伟达 GPU 如何崛起，为何科技巨头又急着取代它？｜《改变世界的半导体》EP1",
+      "summary": "接着，我们回到2012年的AlexNet：两张GTX 580游戏显卡，如何参与一场改变AI历史的突破？从黄仁勋亲自把DGX-1送到OpenAI，到Tensor Core和ChatGPT，英伟达如何把芯片、软件和整套系统，逐步打造成支撑人工智能发展的计算平台？\n\n但GPU也有自己的硬伤。为什么有些程序搬上GPU，反而跑得更慢？显存容量、带宽和数据搬运，为什么会限制AI模型的设计？HBM与NVLink...",
+      "highlights": [
+        "接着，我们回到2012年的AlexNet：两张GTX 580游戏显卡，如何参与一场改变AI历史的突破",
+        "从黄仁勋亲自把DGX-1送到OpenAI，到Tensor Core和ChatGPT，英伟达如何把芯片、软件和整套系统，逐步打造成支撑人工智能发展的计算平台",
+        "但GPU也有自己的硬伤"
+      ],
+      "url": "https://www.youtube.com/watch?v=SZd4TEmTrUc",
+      "source": "youtube.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-18T00:00:00Z"
+    },
+    {
+      "id": "ac00a89a240c",
+      "title": "百亿美金入场，谁在给AI4S定价-36氪",
+      "summary": "广东\n   浙江\n   四川\n   安徽\n   江苏\n\n搜索\n\n项目推荐\n\n我要入驻\n\n城市合作\n\n商业策划\n\nImage 2: 36氪\n\n# 百亿美金入场，谁在给AI4S定价\n\n潮涌AI_·_ 2026年11月18日 01:56\n\n管线、资本、平台三层，各有一张答卷等着交。\n\n近日，海外AI4S（AI for Science）赛道的资本消息密集落地。\n\n无论是OpenAI收购药物研发协调平台Or...",
+      "highlights": [
+        "Image 2: 36氪",
+        "# 百亿美金入场，谁在给AI4S定价",
+        "潮涌AI_·_ 2026年11月18日 01:56"
+      ],
+      "url": "https://m.36kr.com/p/4074537665418116",
+      "source": "m.36kr.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-18T05:02:01Z"
+    },
+    {
+      "id": "9cd114a579bd",
+      "title": "Anthropic IPO重塑創投圈！早期投資人合計狂賺逾千億美元　天使投資人回報約2300倍",
+      "summary": "過去一年，Anthropic營收反超對手OpenAI，市場爭搶入股的熱情持續升溫。某大型投資方合夥人透露，今年融資爭奪階段，他們甚至給Anthropic財務長Krishna Rao寫了「示好信」，只為拿到融資份額。這波爆發也促使OpenAI的一眾投資方轉而投資Anthropic，包括Brad Gerstner的Altimeter、紅杉資本、Peter Thiel的Founders Fund。此一情...",
+      "highlights": [
+        "過去一年，Anthropic營收反超對手OpenAI，市場爭搶入股的熱情持續升溫",
+        "某大型投資方合夥人透露，今年融資爭奪階段，他們甚至給Anthropic財務長Krishna Rao寫了「示好信」，只為拿到融資份額",
+        "這波爆發也促使OpenAI的一眾投資方轉而投資Anthropic，包括Brad Gerstner的Altimeter、紅杉資本、Peter Thiel的Founders Fund"
+      ],
+      "url": "https://tw.stock.yahoo.com/news/anthropic-ipo%E9%87%8D%E5%A1%91%E5%89%B5%E6%8A%95%E5%9C%88-%E6%97%A9%E6%9C%9F%E6%8A%95%E8%B3%87%E4%BA%BA%E5%90%88%E8%A8%88%E7%8B%82%E8%B3%BA%E9%80%BE%E5%8D%83%E5%84%84%E7%BE%8E%E5%85%83-%E5%A4%A9%E4%BD%BF%E6%8A%95%E8%B3%87%E4%BA%BA%E5%9B%9E%E5%A0%B1%E7%B4%842300%E5%80%8D-123004041.html",
+      "source": "tw.stock.yahoo.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-18T12:00:00Z"
+    },
+    {
+      "id": "242d9406ce03",
+      "title": "OpenAI's Self-Improvement Threshold: What GPT-6.2 Astra Really Crossed | MindStudio",
+      "summary": "There’s also a separate, more formal metric circulating in community coverage: a modified “RSI index” (recursive self-improvement index), calibrated so that 50% represents human-level researcher perfo...",
+      "highlights": [
+        "There’s also a separate, more formal metric circulating in community coverage: a modified “RSI index” (recursive self-improvement index), calibrated so that 50% represents human-level researcher performance on a given task. On this index, Astra scored around 29%, behind Gemini’s latest models and well behind Anthropic’s Fable and Opus models, which currently lead. That puts Astra’s self-improvement capability in a middle tier: higher than its predecessor, meaningfully below human parity, and [...] It’s OpenAI’s top-tier model release, positioned as the company’s equivalent to Anthropic’s Fable, intended for demanding technical and creative work. It launched alongside a cheaper sibling model called Soul.",
+        "### What does “high threshold for AI self-improvement” mean in practice? [...] It means GPT-6.2 Astra is the first model OpenAI has released publicly that measurably speeds up the people building the next generation of AI. OpenAI’s own framing is that the model helps its researchers about as much as giving each of them an extra, genuinely capable research engineer. It’s not about the model editing its own code or operating unsupervised. It’s about measured gains on real research tasks: debugging failed experiments, writing low-level code for custom chips, and training"
+      ],
+      "url": "https://www.mindstudio.ai/blog/gpt-6-2-astra-ai-self-improvement",
+      "source": "mindstudio.ai",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-18T00:00:00Z"
+    },
+    {
+      "id": "8b4310406554",
+      "title": "Fountain Launches Orchestra, the AI Agent Builder for Frontline Workforce Teams - HRTech Series",
+      "summary": "# Fountain Launches Orchestra, the AI Agent Builder for Frontline Workforce Teams. #### ***Employers can build their own AI agents to work toward the goals they set, while holding every agent accounta...",
+      "highlights": [
+        "# Fountain Launches Orchestra, the AI Agent Builder for Frontline Workforce Teams. #### ***Employers can build their own AI agents to work toward the goals they set, while holding every agent accountable.***. Fountain, whose hiring and workforce software is used by more than 500 frontline employers, released Orchestra, which lets companies build AI agents to take on hiring and scheduling work by describing it in plain language. Drawing on data within Fountain’s software, the agents can call workers and applicants and report whether each task was completed. Building an agent in Orchestra is simple: An operator describes a job they would like to hand off to an agent, or describes a goal, such as reducing time to hire, and asks Orchestra to propose an agent for the goal. “We learned that from running our own business on agents, and it’s why every Orchestra agent is checked against what it actually did, and always has a goal and a success contract."
+      ],
+      "url": "https://techrseries.com/hiring/fountain-launches-orchestra-the-ai-agent-builder-for-frontline-workforce-teams/",
+      "source": "techrseries.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-18T08:37:10Z"
+    },
+    {
+      "id": "1b4845e24fa3",
+      "title": "OpenAI",
+      "summary": "# OpenAI\nID: p4PyTakV77G9\nWebsite: www.openai.com\nHeadquarters: San Francisco, CA, United States\nLinkedIn: www.linkedin.com/company/openai · 11,730,323 followers\nIndustry: Research Services\nIndustry c...",
+      "highlights": [
+        "ID: p4PyTakV77G9",
+        "Website: www.openai.com",
+        "Headquarters: San Francisco, CA, United States"
+      ],
+      "url": "https://tavily.com/knowledge/company/p4PyTakV77G9",
+      "source": "tavily.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-18T14:39:49Z"
+    },
+    {
+      "id": "99da4cf406cc",
+      "title": "早间AI快讯|11月18日:英伟达业绩做空双向发酵、中美大模型齐发、Anthropic IPO引关注",
+      "summary": "近期AI大模型、智能体、具身智能等下游应用的快速落地,均对底... 此前有消息称黄仁勋表态愿意回归担任CEO,但英伟达董事会明确...",
+      "highlights": [
+        "近期AI大模型、智能体、具身智能等下游应用的快速落地,均对底... 此前有消息称黄仁勋表态愿意回归担任CEO,但英伟达董事会明确..."
+      ],
+      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS5jj02A4QurFwk0L8JUHNyQWQelreaTy01qXa8Fplpd93XM9fsuS3hWIVDY_RfZnAwwFZe4PfEw9uDlcIrtHUCQzDF2fRHkKD8jP7_YT34ulIIzX-cgy22uEYHo-VH40-wI3tccs7-CYXBI4_D-bm5cq_P_jvjzEP5gTRkHq1Y1_3sDjJvKF5eUAfyDmy9U9Aux5KibYG0daejEoVAmPwn7P28temKTOwg..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=986C579B673FC4EEEEEB8E6015AB8B1EEEBD0A4B6AFDB8AE",
+      "source": "微信公众号",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-11-18T02:32:16Z"
+    },
+    {
+      "id": "baa2979964d3",
+      "title": "Why AI agents are moving out of engineering and into teams - The Next Web",
+      "summary": "Over the past three years, enterprise software followed a predictable playbook: embed a generative chat widget into every existing SaaS interface and call it an AI strategy. Bridging the gap between p...",
+      "highlights": [
+        "Over the past three years, enterprise software followed a predictable playbook: embed a generative chat widget into every existing SaaS interface and call it an AI strategy. Bridging the gap between personal productivity assistants and true organizational leverage requires a fundamental architectural rethink: moving away from isolated copilots and toward shared, multi-player AI agents for business that operate directly alongside human teams. Among the platforms pioneering this paradigm shift, Zenzap has emerged as a distinct model, approaching autonomous agency not as an engineering project or an isolated backend script, but as a native, shared team member embedded directly within everyday communication channels. * Context Isolation: A prompt engineered by a product manager in an isolated web interface does not educate the engineering lead, the account executive, or the support manager. Resolving these tensions requires an environment where an AI agent for business is neither a complex developer-only tool nor an opaque personal secret, but a visible, accountable participant in collaborative work."
+      ],
+      "url": "https://thenextweb.com/news/ai-agents-without-engineers-non-technical-teams",
+      "source": "thenextweb.com",
+      "category": "产品进展",
+      "importance": 3,
+      "publishedAt": "2026-11-18T10:29:24Z"
+    },
+    {
+      "id": "0ce655412ecb",
+      "title": "而且研究還提供了 Lean 形式化驗證材料，讓其他研究者能檢查部分數學推導。 不過先別急著宣布物理學被 AI 破解。 目前這仍是候選理論，論文尚待正式同行評審，部分重要物理性質也還需要驗證。 但這件事已經夠震撼了。 當 AI 開始參與人類數十年都難以解決的數學與物理研究，科學發現的速度會變成什麼樣子？ 以前我們用 AI 幫忙寫程式、做簡報。 現在，AI 已經開始參與最前沿的理論物理證明。 你覺得下一個被 AI 突破的科學難題會是什麼？",
+      "summary": "Home\n\nNew thread\n\nSearch\n\nMessages\n\nActivity\n\nProfile\n\nInsights\n\nLog in\n\nMore\n\n# Thread\n\n86 views\n\naiposthub's profile picture\n\naiposthub\n\n而且研究還提供了 Lean 形式化驗證材料，讓其他研究者能檢查部分數學推導。\n\n不過先別急著宣布物理學被 AI 破解。\n\n...",
+      "highlights": [
+        "aiposthub's profile picture",
+        "而且研究還提供了 Lean 形式化驗證材料，讓其他研究者能檢查部分數學推導",
+        "不過先別急著宣布物理學被 AI 破解"
+      ],
+      "url": "https://www.threads.com/@aiposthub/post/Dfz4mnggaZS/%E8%80%8C%E4%B8%94%E7%A0%94%E7%A9%B6%E9%82%84%E6%8F%90%E4%BE%9B%E4%BA%86-lean-%E5%BD%A2%E5%BC%8F%E5%8C%96%E9%A9%97%E8%AD%89%E6%9D%90%E6%96%99%E8%AE%93%E5%85%B6%E4%BB%96%E7%A0%94%E7%A9%B6%E8%80%85%E8%83%BD%E6%AA%A2%E6%9F%A5%E9%83%A8%E5%88%86%E6%95%B8%E5%AD%B8%E6%8E%A8%E5%B0%8E%E4%B8%8D%E9%81%8E%E5%85%88%E5%88%A5%E6%80%A5%E8%91%97%E5%AE%A3%E5%B8%83%E7%89%A9%E7%90%86%E5%AD%B8%E8%A2%AB-ai-%E7%A0%B4%E8%A7%A3%E7%9B%AE%E5%89%8D%E9%80%99%E4%BB%8D%E6%98%AF%E5%80%99%E9%81%B8%E7%90%86%E8%AB%96%E8%AB%96%E6%96%87%E5%B0%9A%E5%BE%85%E6%AD%A3%E5%BC%8F%E5%90%8C%E8%A1%8C%E8%A9%95%E5%AF%A9%E9%83%A8%E5%88%86%E9%87%8D%E8%A6%81%E7%89%A9%E7%90%86%E6%80%A7",
+      "source": "threads.com",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-11-18T14:39:49Z"
+    },
+    {
+      "id": "3c26716aa6c5",
+      "title": "Sector Snapshot: Investors Turn Up The Volume On Voice AI",
+      "summary": "The numbers: So far in 2026, startups developing or offering voice AI technology have raised $9.5 billion globally, Crunchbase data shows. As of Nov. 11, funding had already exceeded 2025 by 67%, with...",
+      "highlights": [
+        "The numbers: So far in 2026, startups developing or offering voice AI technology have raised $9.5 billion globally, Crunchbase data shows. As of Nov. 11, funding had already exceeded 2025 by 67%, with 154 reported deals versus 273 in 2025. Overall, deal volume is on track to fall for a second consecutive year — pointing to a market where investors are putting more money into fewer companies. [...] San Francisco-based Fal was the largest funding recipient across multiple rounds in 2026, raising $1.65 billion in total. That included a $1.3 billion Series F led by Bessemer Venture Partners, completed in October at a reported $16 billion valuation, doubling its valuation from its $350 million Sequoia Capital-led financing in April. The company provides infrastructure for running image, video and audio models. [...] Meanwhile, Amsterdam-based Wonderful raised a $550 million Series C in September, led by Insight Partners, at a $5 billion valuation. That followed a $150 million Series B in March, bringing its total 2026 funding to $700 million as it expanded from conversational agents into broader enterprise automation."
+      ],
+      "url": "https://news.crunchbase.com/venture/voice-ai-startup-funding-peaks-2026",
+      "source": "news.crunchbase.com",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-11-18T12:00:31Z"
+    },
+    {
       "id": "6c8f84f90814",
       "title": "🚀 Why build one AI company when you can buy 25? While many startups ...",
       "summary": "If you're building a startup outside of AI, this is your reality in 2026. Here's the math that explains everything: $512 billion deployed globally in 2025. AI",
@@ -474,6 +621,48 @@
       "category": "行业话题",
       "importance": 2,
       "publishedAt": "2026-11-18T00:04:45Z"
+    },
+    {
+      "id": "01cdfa38b2ab",
+      "title": "Microsoft Takes Perception Agentic Security Platform Out of Preview - SecurityWeek",
+      "summary": "Four blue team agents and the Recon Agent are now generally available, while integrations and vulnerability shielding are in preview. **Microsoft used its Ignite 2026 conference on Tuesday to announce...",
+      "highlights": [
+        "Four blue team agents and the Recon Agent are now generally available, while integrations and vulnerability shielding are in preview. **Microsoft used its Ignite 2026 conference on Tuesday to announce the general availability of Perception, a product designed for coordinating teams of AI agents to handle security tasks.**. The four blue team agents that are now generally available cover alert triage, attack investigation, detection authoring and threat intelligence. The Recon Agent, one of the red team agents, is also generally available, and a Web App Pen Test Agent has entered preview. Microsoft is also previewing integrations that link Perception to SIEM, SOAR and IT service management tools via MCP and APIs. The company also addressed the risk posed by AI agents, which it views as a new kind of insider with broad access to data and tools. Subscribe to the SecurityWeek Email Briefing for the latest cybersecurity threats, trends, and expert insights."
+      ],
+      "url": "https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/",
+      "source": "securityweek.com",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-11-18T12:14:23Z"
+    },
+    {
+      "id": "0335cdf8ec59",
+      "title": "四年十篇顶会Best Paper，谁在持续霸榜？",
+      "summary": "2023年是生成式AI与大模型在视觉领域大放异彩的一年，CVPR和ICCV的Best Paper精准地捕捉到了这一趋势。 · 1. 视觉编程的先驱：VisProg · 2. 端到端自动驾驶的里程碑：UniAD.",
+      "highlights": [
+        "2023年是生成式AI与大模型在视觉领域大放异彩的一年，CVPR和ICCV的Best Paper精准地捕捉到了这一趋势",
+        "· 1. 视觉编程的先驱：VisProg · 2. 端到端自动驾驶的里程碑：UniAD."
+      ],
+      "url": "https://www.shenlanxueyuan.com/news/detail/231",
+      "source": "shenlanxueyuan.com",
+      "category": "具身智能",
+      "importance": 2,
+      "publishedAt": "2026-11-18T06:00:00Z"
+    },
+    {
+      "id": "5e5ed9591852",
+      "title": "Clace raises $200K pre-seed to build the \"Moody's of AI infrastructure | Dealroom News",
+      "summary": "# Clace raises $200K pre-seed to build the \"Moody's of AI infrastructure\n\nWhat's the deal? Clace Research, a St. John's startup founded in 2026, has raised US$200,000 (US$209.7K) in a pre-seed round, ...",
+      "highlights": [
+        "# Clace raises $200K pre-seed to build the \"Moody's of AI infrastructure",
+        "What's the deal? Clace Research, a St. John's startup founded in 2026, has raised US$200,000 (US$209.7K) in a pre-seed round, mostly from Pelorus VC. Fellow local startup OmaScanDealroom has a profile for this one. Try Dealroom → also received an equity investment from the firm. [...] What's the endgame? Kattapuram, who graduated from Memorial in spring 2026 and interned on the Ontario Teachers' Pension PlanDealroom has a profile for this one. Try Dealroom → trading desk, told The Globe and Mail he wants to build Clace into the \"Moody's of AI infrastructure.\" [...] The signal: These are small, early bets rather than headline rounds. They mark a deliberate push to retain local founders and build on Pelorus's track record with earlier winners such as CoLabDealroom has a profile for this one. Try Dealroom → and Spellbook.",
+        "Read more: entrevestor.com"
+      ],
+      "url": "https://dealroom.co/news/173920-clace-raises-200k-pre-seed-to-build-the-moody-s-of-ai-infrastructure",
+      "source": "dealroom.co",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-11-18T11:04:08Z"
     }
   ],
   "week": [
