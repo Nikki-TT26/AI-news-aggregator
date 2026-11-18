@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:58:47Z",
+  "updatedAt": "2026-11-18T00:04:45Z",
   "latest": [
     {
       "id": "630bfe6a02a8",
@@ -298,299 +298,182 @@
       "publishedAt": "2026-11-16T10:38:03Z"
     },
     {
-      "id": "80d2ed3d7506",
-      "title": "物理AI下周什么观点？|大模型|机器人|特斯拉|数据|模型_新浪新闻",
-      "summary": "A: 机器人板块波动大但仍是市场最热点，物理AI行情可能持续到12月初特斯拉新一轮机器人视频展示，下周关注华为和字节模型发布对国产硬件的增长机会。海外大厂大模型加速进入机器人大脑，asnotic发布的fable5.2通用模型在控制双臂机器人测试成绩从27.6提升到64.9，真机演示拧瓶盖和还原魔方；谷歌GEM的robotics2.5通用大模型当教练重建数字孪生自动造练习题，提升预测能力。特斯拉世界...",
+      "id": "3dc3426c65ee",
+      "title": "一周AI大事件",
+      "summary": "11月16日，阿里巴巴全新一代基座大模型Qwen4正式发布。千问AI平台首发上线Qwen4-Max，API服务与Token Plan同步支持新模型调用，面向开发者与企业全面开放。Qwen4-Max采用全新架构，总参数2.4T，具备原生视觉理解能力，可稳定完成长程任务，能力从编程与办公协作拓展至汽车制造、金融投研、科学研究等领域。在Terminal-Bench 4.0评测的相同思考档位下，较上一代平...",
       "highlights": [
-        "A: 机器人板块波动大但仍是市场最热点，物理AI行情可能持续到12月初特斯拉新一轮机器人视频展示，下周关注华为和字节模型发布对国产硬件的增长机会",
-        "海外大厂大模型加速进入机器人大脑，asnotic发布的fable5.2通用模型在控制双臂机器人测试成绩从27.6提升到64.9，真机演示拧瓶盖和还原魔方；谷歌GEM的robotics2.5通用大模型当教练重建数字孪生自动造练习题，提升预测能力",
-        "特斯拉世界模型强调物理准确优先，optimus走世界模型路线是为了做专门训练和评估机器人的考场，用人类数据打底并用自己机器人数据微调，产量越大对数据回流越多"
+        "11月16日，阿里巴巴全新一代基座大模型Qwen4正式发布",
+        "千问AI平台首发上线Qwen4-Max，API服务与Token Plan同步支持新模型调用，面向开发者与企业全面开放",
+        "Qwen4-Max采用全新架构，总参数2.4T，具备原生视觉理解能力，可稳定完成长程任务，能力从编程与办公协作拓展至汽车制造、金融投研、科学研究等领域"
       ],
-      "url": "https://k.sina.com.cn/article_5953189932_162d6782c0670546sc.html?from=tech",
-      "source": "k.sina.com.cn",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-11-15T20:21:55Z"
-    },
-    {
-      "id": "1da160e88a54",
-      "title": "全球AI大模型周调用量榜单出炉：前四名被中国模型包揽，腾讯混元Hy4冲进前二！MiniMax、Kimi跌出Top10 | 每经网",
-      "summary": "《每日经济新闻》注意到，上周，全球调用量排名前五的AI大模型中，有四款中国大模型。其中，DeepSeek V4.1-Flash-1017连续四周位居第一，周调用量达59.2万亿Token，环比增长6%。\n\n腾讯混元Hy4升至第二，周调用量达18.1万亿Token，环比增长42%。Hy4于11月4日正式发布。据悉，相比于Hy4 preview，Hy4在预训练和后训练上显著扩展了数据和训练规模，首次引...",
-      "highlights": [
-        "《每日经济新闻》注意到，上周，全球调用量排名前五的AI大模型中，有四款中国大模型",
-        "其中，DeepSeek V4.1-Flash-1017连续四周位居第一，周调用量达59.2万亿Token，环比增长6%",
-        "腾讯混元Hy4升至第二，周调用量达18.1万亿Token，环比增长42%"
-      ],
-      "url": "https://www.nbd.com.cn/articles/2026-11-16/4648420.html",
-      "source": "nbd.com.cn",
+      "url": "https://zhuanlan.zhihu.com/p/2106031368748716653",
+      "source": "zhuanlan.zhihu.com",
       "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-11-16T02:00:00Z"
+      "importance": 5,
+      "publishedAt": "2026-11-17T06:00:00Z"
     },
     {
-      "id": "21e0e84b4692",
-      "title": "紫金山公证AI大模型产品矩阵正式发布_智能_涉外_南京",
-      "summary": "房产\n\n旅游\n\n教育\n\n时尚\n\n科技\n\n财经\n\n娱乐\n\n# 紫金山公证AI大模型产品矩阵正式发布\n\n2026-11-16 18:50  来源: 中国江苏网\n\n发布于：江苏省\n\n交汇点讯 11月16日，南京举办紫金山公证AI大模型产品矩阵发布会。\n\n该模型由南京公证处、石城公证处、钟山公证处联合牵头研发，以公证专属大模型为核心底座，搭建智能客服、AI办证、智能体协同三大应用体系，配套13个公证专用智...",
+      "id": "e22da2f2ba82",
+      "title": "英伟达六大客户自研芯片提速：AI算力从GPU单极走向双轨竞争_搜狐网",
+      "summary": "展开剩余\n\n84\n\n%\n\n微软在2026年1月正式发布自研芯片Maia 200，进入自研加速器的公开产品阶段。亚马逊则已有Trainium和Inferentia两条产品线，AWS在2026年初公布的数据显示，Trainium2交付部署量突破140万颗，进入规模部署区间。Meta在2026年3月披露，公司内部已部署数十万颗自研MTIA芯片，主力承担社交网络内容排序与广告推荐相关推理任务。OpenAI...",
       "highlights": [
-        "# 紫金山公证AI大模型产品矩阵正式发布",
-        "2026-11-16 18:50  来源: 中国江苏网",
-        "交汇点讯 11月16日，南京举办紫金山公证AI大模型产品矩阵发布会"
+        "微软在2026年1月正式发布自研芯片Maia 200，进入自研加速器的公开产品阶段",
+        "亚马逊则已有Trainium和Inferentia两条产品线，AWS在2026年初公布的数据显示，Trainium2交付部署量突破140万颗，进入规模部署区间",
+        "Meta在2026年3月披露，公司内部已部署数十万颗自研MTIA芯片，主力承担社交网络内容排序与广告推荐相关推理任务"
       ],
-      "url": "https://www.sohu.com/a/1102341016_539687",
+      "url": "https://m.sohu.com/a/1102181405_128075?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-16T13:31:55Z"
+    },
+    {
+      "id": "63af73568be8",
+      "title": "摩根大通：英伟达GPU在OpenAI、Anthropic未来将采购的AI算力中占比仅39% 2023至2025年英伟达在AI芯片整体收入中占比83%_合作",
+      "summary": "【摩根大通：英伟达GPU在OpenAI、Anthropic未来将采购的AI算力中占比仅39% 2023至2025年英伟达在AI芯片整体收入中占比83%】财联社11月16日电，摩根大通资产管理市场与投资策略主席迈克尔・切巴莱斯特在前一日发布的报告中称，OpenAI、Anthropic这类前沿AI实验室已经敲定、未来将采购的算力基础设施里，英伟达GPU占比仅39%。而2023至2025年，英伟达在AI...",
+      "highlights": [
+        "【摩根大通：英伟达GPU在OpenAI、Anthropic未来将采购的AI算力中占比仅39% 2023至2025年英伟达在AI芯片整体收入中占比83%】财联社11月16日电，摩根大通资产管理市场与投资策略主席迈克尔・切巴莱斯特在前一日发布的报告中称，OpenAI、Anthropic这类前沿AI实验室已经敲定、未来将采购的算力基础设施里，英伟达GPU占比仅39%",
+        "而2023至2025年，英伟达在AI芯片整体收入中的份额曾达到83%，这预示着它在下一代算力基础设施中的占比可能大幅萎缩",
+        "竞争对手博通的定制芯片份额位居第二，达24%；谷歌张量处理器（TPU）占16%，AMD GPU占15%，亚马逊Trainium芯片占6%"
+      ],
+      "url": "https://www.sohu.com/a/1102249422_222256?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
       "source": "sohu.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-11-16T18:50:00Z"
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-16T15:20:00Z"
     },
     {
-      "id": "0bfcd7bc9a62",
-      "title": "“豆包工作”上场",
-      "summary": "好新闻 无止境\n\n千龙网\n\n2026-08-26 14:00\n\n进入千龙网阅读更多内容\n\n订阅\n\n“今天有什么工作要处理？”打开豆包工作，蓝色环状LOGO下的一行字把产品定位讲得很清楚。8月25日，字节跳动正式发布面向生产力场景的Agent（智能体）产品和品牌“豆包工作”。一天前，字节跳动刚就TRAE、扣子（Coze）团队整体并入豆包体系表态。加上7月底已并入豆包的飞书产品团队，字节旗下所有生产力...",
+      "id": "96d040fd10bb",
+      "title": "摩根大通分析师：英伟达AI算力合约份额从83%降至39% — Noticias de TradingView",
+      "summary": "# 摩根大通分析师：英伟达AI算力合约份额从83%降至39%\n\n格隆汇11月16日｜摩根大通资产管理市场与投资策略主席迈克尔・切巴莱斯特在前一日发布的报告中称，OpenAI、Anthropic这类前沿AI实验室已经敲定、未来将采购的算力基础设施里，英伟达GPU占比仅39%。而2023至2025年，英伟达在AI芯片整体收入中的份额曾达到83%，这预示着它在下一代算力基础设施中的占比可能大幅萎缩。竞争...",
       "highlights": [
-        "2026-08-26 14:00",
-        "进入千龙网阅读更多内容",
-        "“今天有什么工作要处理"
+        "# 摩根大通分析师：英伟达AI算力合约份额从83%降至39%",
+        "格隆汇11月16日｜摩根大通资产管理市场与投资策略主席迈克尔・切巴莱斯特在前一日发布的报告中称，OpenAI、Anthropic这类前沿AI实验室已经敲定、未来将采购的算力基础设施里，英伟达GPU占比仅39%",
+        "而2023至2025年，英伟达在AI芯片整体收入中的份额曾达到83%，这预示着它在下一代算力基础设施中的占比可能大幅萎缩"
       ],
-      "url": "https://m.bjnews.com.cn/detail/1787724387189223.html",
-      "source": "m.bjnews.com.cn",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-11-16T07:00:00Z"
+      "url": "https://es.tradingview.com/news/gelonghui:dd436873fe3f9:0",
+      "source": "es.tradingview.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-16T07:23:47Z"
     },
     {
-      "id": "9b37389b832b",
-      "title": "瀚蓝环境：关于并购粤丰环保7.22%股权项目收到广东省发展和改革委员会《境外投资项目备案通知书》的公告",
-      "summary": "$Anthropic (ANT.US)$ 首席执行官达里奥·阿莫迪11 月13 日向摩根大通首席执行官杰米·戴蒙表示希望“低调承诺，超额交付”，此次IPO 的目标估值最高约为1.4 万亿美元。",
+      "id": "932e1ea4bf62",
+      "title": "百亿美金入场，谁在给AI4S定价|融资|诺华|药企|a轮|ipo|知名企业|独家财务顾问_网易订阅",
+      "summary": "©潮涌AI编辑部\n\n文｜盐\n\n近日，海外AI4S（AI for Science）赛道的资本消息密集落地。\n\n无论是OpenAI收购药物研发协调平台Orchestra Bio、Iambic登陆公开市场募资1.5亿美元，还是彭博报道Isomorphic Labs正以约500亿美元估值洽谈50亿美元新融资，以及Mirendil的A轮就拿到10亿美金……大额融资、巨头并购、IPO退出在年内接连出现，AI4...",
       "highlights": [
-        "$Anthropic (ANT.US)$ 首席执行官达里奥·阿莫迪11 月13 日向摩根大通首席执行官杰米·戴蒙表示希望“低调承诺，超额交付”，此次IPO 的目标估值最高约为1.4 万亿美元"
+        "近日，海外AI4S（AI for Science）赛道的资本消息密集落地",
+        "无论是OpenAI收购药物研发协调平台Orchestra Bio、Iambic登陆公开市场募资1.5亿美元，还是彭博报道Isomorphic Labs正以约500亿美元估值洽谈50亿美元新融资，以及Mirendil的A轮就拿到10亿美金……大额融资、巨头并购、IPO退出在年内接连出现，AI4S热度背后的问题是，这些公司究竟凭什么拿到这个价格",
+        "SVTR统计了175家AI4S公司在2025年9月至2026年9月的融资，118笔已确认融资，合计约75亿美元"
       ],
-      "url": "https://www.moomoo.com/hans/news/notice/1000890467/hanlan-environment-announcement-regarding-receipt-of-the-notice-of-filing",
-      "source": "moomoo.com",
+      "url": "https://www.163.com/dy/article/LBVG9COP0556MV0F.html",
+      "source": "163.com",
       "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-11-16T04:00:00Z"
+      "importance": 5,
+      "publishedAt": "2026-11-17T13:42:18Z"
     },
     {
-      "id": "1b4845e24fa3",
-      "title": "OpenAI",
-      "summary": "# OpenAI\nID: p4PyTakV77G9\nWebsite: www.openai.com\nHeadquarters: San Francisco, CA, United States\nLinkedIn: www.linkedin.com/company/openai · 11,730,323 followers\nIndustry: Research Services\nIndustry c...",
+      "id": "b96351b416bd",
+      "title": "中国AI4LS赛道10个月战绩彪悍：35亿美元、124起融资-36氪",
+      "summary": "切换的方向很明确：从看团队、看叙事，转向看验证数据、看闭环能力、看商业化兑现。\n\n高特佳投资集团总经理孙佳林提出，平台型公司和产品型公司的界限正在模糊，AI-Biotech本身就具备极强的AI能力，早期可以通过技术服务实现商业闭环，支撑自研管线的长期投入；后期管线兑现后，又会反过来强化平台能力。\n\n水木分子COO邢杰看来，更本质的变化是产业链的边界正在被打破。整个行业正在从“+AI”的改造，走向“...",
       "highlights": [
-        "ID: p4PyTakV77G9",
-        "Website: www.openai.com",
-        "Headquarters: San Francisco, CA, United States"
+        "切换的方向很明确：从看团队、看叙事，转向看验证数据、看闭环能力、看商业化兑现",
+        "高特佳投资集团总经理孙佳林提出，平台型公司和产品型公司的界限正在模糊，AI-Biotech本身就具备极强的AI能力，早期可以通过技术服务实现商业闭环，支撑自研管线的长期投入；后期管线兑现后，又会反过来强化平台能力",
+        "水木分子COO邢杰看来，更本质的变化是产业链的边界正在被打破"
       ],
-      "url": "https://tavily.com/knowledge/company/p4PyTakV77G9",
-      "source": "tavily.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-11-17T01:09:53Z"
-    },
-    {
-      "id": "f050b855ab78",
-      "title": "AI security took more than one in three cybersecurity seed funding deals - Help Net Security",
-      "summary": "A few years ago, the anecdotal rule of thumb was about $1 million in annual recurring revenue before a Series A. DataTribe now puts a strong Series A closer to $3 million. The median U.S. Series A dea...",
-      "highlights": [
-        "A few years ago, the anecdotal rule of thumb was about $1 million in annual recurring revenue before a Series A. DataTribe now puts a strong Series A closer to $3 million. The median U.S. Series A deal grew from $13.7 million in 2025 to $17.4 million through Q3 2026, according to the PitchBook-NVCA Venture Monitor.",
-        "Add Help Net Security as a preferred source on Google",
-        "## Featured news"
-      ],
-      "url": "https://www.helpnetsecurity.com/2026/11/17/cybersecurity-seed-funding-deals",
-      "source": "helpnetsecurity.com",
+      "url": "https://www.36kr.com/p/4070263453373317",
+      "source": "36kr.com",
       "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-11-17T06:19:27Z"
+      "importance": 5,
+      "publishedAt": "2026-11-16T13:30:07Z"
     },
     {
-      "id": "048d3f7114e6",
-      "title": "【硅基经济】AI Agent：Personal Agent元年，Agent从辅助工具到数字替身",
-      "summary": "2026 年作为Personal Agent 元年，Meta Muse 引爆赛道后海内外大厂、创业公司密集推出常驻型个人智能体产品，华人团队在产品破圈落地中作用突出，行业正从概念竞速走向",
+      "id": "8ea3b14d0c82",
+      "title": "OpenAI & Anthropic Ordered 26M Google Chips — NVIDIA's Problem",
+      "summary": "The facts (all Kuo's estimates unless stated otherwise):\n• OpenAI ~12M TPU 8t (MediaTek design), Anthropic ~14M TPU 8i (Broadcom design), 2028–2029, ~26M combined\n• TPU shipment estimates: 8–9M (2027)...",
       "highlights": [
-        "2026 年作为Personal Agent 元年，Meta Muse 引爆赛道后海内外大厂、创业公司密集推出常驻型个人智能体产品，华人团队在产品破圈落地中作用突出，行业正从概念竞速走向"
+        "The facts (all Kuo's estimates unless stated otherwise):",
+        "• OpenAI ~12M TPU 8t (MediaTek design), Anthropic ~14M TPU 8i (Broadcom design), 2028–2029, ~26M combined",
+        "• TPU shipment estimates: 8–9M (2027), 14–15M (2028), 16–18M (2029)"
       ],
-      "url": "https://www.me.news/contents/328990",
-      "source": "me.news",
-      "category": "产品进展",
-      "importance": 3,
-      "publishedAt": "2026-11-16T01:00:00Z"
-    },
-    {
-      "id": "c1d777f93b0e",
-      "title": "团队动态 - 字节跳动Seed",
-      "summary": "ByteDance Seed\n\n体验豆包AI 体验中心\n\n# Seed STEM 计划｜分子逆合成挑战赛启动\n\nSeed STEM 计划｜分子逆合成挑战赛启动\n\n日期\n\n2026-11-16\n\n分类\n\n科研计划\n\n前沿科学的突破不断拓展人类认知的边界、为人们创造更好的生活，而 AI 的飞速发展正在加快这一进程：\n\n在生物领域，AI 辅助蛋白质结构预测与设计，帮助研究疾病成因、寻找更有效的治疗方案。...",
-      "highlights": [
-        "ByteDance Seed",
-        "体验豆包AI 体验中心",
-        "# Seed STEM 计划｜分子逆合成挑战赛启动"
-      ],
-      "url": "https://seed.bytedance.com/zh/blog/seed-stem-%E8%AE%A1%E5%88%92-%E5%88%86%E5%AD%90%E9%80%86%E5%90%88%E6%88%90%E6%8C%91%E6%88%98%E8%B5%9B%E5%90%AF%E5%8A%A8",
-      "source": "seed.bytedance.com",
-      "category": "前沿理论",
-      "importance": 3,
-      "publishedAt": "2026-11-16T06:00:00Z"
-    },
-    {
-      "id": "cb3c9d003f07",
-      "title": "全国医保领域首个省重点实验室落地江苏，同步发布医保监管大模型_医疗人工智能_大健康派",
-      "summary": "实验室发布了首批10个重点研究课题和10项数据服务。课题涵盖中医康复按价值付费、创新药疗效比较等方向，由中国药科大学、省人民医院等10家单位承接，数据服务覆盖诊疗信息、医药分析评估等场景。\n\n现场，省医保局发布最新成果——医保监管大模型。该模型基于医保专属数据训练，能够读懂病历，识别疑点，已在飞行检查和定点医药机构监管等场景试点应用。\n\n近年来，江苏持续探索医保数据要素安全合规应用。据悉，下一步，...",
-      "highlights": [
-        "实验室发布了首批10个重点研究课题和10项数据服务",
-        "课题涵盖中医康复按价值付费、创新药疗效比较等方向，由中国药科大学、省人民医院等10家单位承接，数据服务覆盖诊疗信息、医药分析评估等场景",
-        "现场，省医保局发布最新成果——医保监管大模型"
-      ],
-      "url": "http://www.djkpai.com/ai/1307271964624158720.html",
-      "source": "djkpai.com",
-      "category": "行业话题",
-      "importance": 3,
+      "url": "https://www.youtube.com/watch?v=Ni8pjWOu2Mw",
+      "source": "youtube.com",
+      "category": "芯片硬件",
+      "importance": 5,
       "publishedAt": "2026-11-17T00:00:00Z"
+    },
+    {
+      "id": "a773f0d74a08",
+      "title": "Semiconductor Insider on X: \"Google TPU update: New orders from OpenAI and Anthropic have pushed Google’s TPU shipment visibility all the way to 2029, longer than Nvidia GPUs (mostly till 2027–28). OpenAI is buying about 12 million MediaTek-designed 8t chips outright. Anthropic is taking around 1… / X",
+      "summary": "in 2027, 14–15 million in 2028, and 16–18 million in 2029. Shipments keep rising in 2029 even if overall AI spending peaks in 2028. The v10 lineup has been changed to “Quillfish” (mass production in 2...",
+      "highlights": [
+        "in 2027, 14–15 million in 2028, and 16–18 million in 2029. Shipments keep rising in 2029 even if overall AI spending peaks in 2028. The v10 lineup has been changed to “Quillfish” (mass production in 2029). MediaTek won the design and will be the sole supplier for v9 and v10, with its share rising to 55–60% by 2029. MediaTek is the biggest winner thanks to high-margin 8t orders visible through 2029. Broadcom also benefits from higher-margin 8i chips, though its main focus is shifting to other AI [...] and 16–18 million in 2029. Shipments keep rising in 2029 even if overall AI spending peaks in 2028. The v10 lineup has been changed to “Quillfish” (mass production in 2029). MediaTek won the design and will be the sole supplier for v9 and v10, with its share rising to 55–60% by 2029. MediaTek is the biggest winner thanks to high-margin 8t orders visible through 2029. Broadcom also benefits from higher-margin 8i chips, though its main focus is shifting to other AI chips. $NVDA Nvidia CEO [...] and 16–18 million in 2029. Shipments keep rising in 2029 even if overall AI spending peaks in 2028. The v10 lineup has been changed to “Quillfish” (mass production in 2029). MediaTek won the design and will be the sole supplier for v9 and v10, with its share rising to 55–60% by 2029. MediaTek is the biggest winner thanks to high-margin 8t orders visible through 2029. Broadcom also benefits from higher-margin 8i chips, though its main focus is shifting to other AI chips. $NVDA Nvidia CEO"
+      ],
+      "url": "https://x.com/SemiconductorsX/status/2122152067863298156",
+      "source": "x.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-16T02:17:35Z"
+    },
+    {
+      "id": "1204dd22f0c2",
+      "title": "More Pain For NVDA? Top Supply Chain Analyst Says New OpenAI, Anthropic Chip Orders Boost Google’s TPU Outlook — TradingView News",
+      "summary": "“Strong new orders from OpenAI and Anthropic have extended Google TPU shipment visibility to 2029, ahead of Nvidia GPUs and other AI ASICs (mostly 4Q27–2Q28),” Kuo, who is based in Taiwan and is known...",
+      "highlights": [
+        "“Strong new orders from OpenAI and Anthropic have extended Google TPU shipment visibility to 2029, ahead of Nvidia GPUs and other AI ASICs (mostly 4Q27–2Q28),” Kuo, who is based in Taiwan and is known for his insights on Apple and Nvidia, said in an X post.",
+        "The analyst said estimates that OpenAI will seek about 12 million TPUs across 2028 and 2029, and Anthropic about 14 million. OpenAI plans to buy its chips outright, while Anthropic will combine leasing with direct purchases. [...] The companies’ orders are expected to keep Google’s older v8 chips in heavy use even as Google shifts its own computing expansion toward v9, Kuo said.",
+        "That note highlights that custom chip demand will continue climbing, despite widespread expectations that AI spending will peak in 2028. Kuo’s estimates put shipments at 8–9 million units in 2027, 14–15 million in 2028 and 16–18 million in 2029, according to Kuo. [...] Stocktwits"
+      ],
+      "url": "https://www.tradingview.com/news/stocktwits:d7c41d0d8094b:0-more-pain-for-nvda-top-supply-chain-analyst-says-new-openai-anthropic-chip-orders-boost-google-s-tpu-outlook",
+      "source": "tradingview.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-16T05:03:30Z"
+    },
+    {
+      "id": "0e2708b7b12a",
+      "title": "AI: Anthropic & OpenAI Use AI to Design AI Chips. AI-RTZ #1268",
+      "summary": "Google, the most vertically integrated of them all, with its TPU chips and its Gemini models. As I wrote on Tuesday in ‘Google Specializes Its TPUs as Nvidia Wobbles’ (AI-RTZ #1266), its TPU teams get...",
+      "highlights": [
+        "Google, the most vertically integrated of them all, with its TPU chips and its Gemini models. As I wrote on Tuesday in ‘Google Specializes Its TPUs as Nvidia Wobbles’ (AI-RTZ #1266), its TPU teams get early access to the latest Gemini models to design and debug the chips.",
+        "Amazon, with its Trainium chips and its own Nova models. Anthropic is one of Trainium’s biggest customers, as I discussed in ‘Amazon AI chips traction with key customers & partners’ (AI-RTZ #1094). [...] Now that same Anthropic is using Claude to design chips of its own. Every custom chip of Anthropic’s that works could mean fewer Trainium chips rented from Amazon, or fewer TPUs from Google, over time. Its biggest backers are also its chip suppliers, and soon perhaps its chip competitors.",
+        "If Anthropic or OpenAI end up with AI models far better at chip design than anyone else’s, they could keep the most cutting-edge versions to themselves, at least at first. [...] OpenAI is already there with its ‘Jalapeño’ chip, designed with help from its own frontier AI models. Meanwhile, the companies building the backup chips to Nvidia, Google, Amazon, Microsoft and Meta, are all building their own AI models. The frontier AI labs are crossing over into chips, and the chipmakers into models. It’s one of the more intriguing ‘Frenemies’ storylines in the AI Tech Wave, and it ties directly to the hottest topic in AI research right now: Recursive Self-Improvement, or"
+      ],
+      "url": "https://michaelparekh.substack.com/p/ai-anthropic-and-openai-use-ai-to",
+      "source": "michaelparekh.substack.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-18T00:04:45Z"
     }
   ],
   "today": [
     {
-      "id": "7dbc6e3e34b4",
-      "title": "Brad Gerstner Says AI Is at Its 'Google 2005' Moment. Here's Who He Thinks Wins - 24/7 Wall St.",
-      "summary": "Open-source models. Anthropic’s own filing warns that open models “could exert pricing pressure on our offerings.” Huang has made a similar point from the supplier side: “Nearly all open models run on...",
+      "id": "0e2708b7b12a",
+      "title": "AI: Anthropic & OpenAI Use AI to Design AI Chips. AI-RTZ #1268",
+      "summary": "Google, the most vertically integrated of them all, with its TPU chips and its Gemini models. As I wrote on Tuesday in ‘Google Specializes Its TPUs as Nvidia Wobbles’ (AI-RTZ #1266), its TPU teams get...",
       "highlights": [
-        "Open-source models. Anthropic’s own filing warns that open models “could exert pricing pressure on our offerings.” Huang has made a similar point from the supplier side: “Nearly all open models run on NVIDIA.”",
-        "Computing power costs. Serving one more search query costs Google very little. AI labs pay for computing power on every query. The S-1 says compute “could become the primary constraint on our ability to train and serve competitive models.” [...] Anthropic just signed a $35 billion computing obligation against money it has not yet raised, and the analyst watching the deal says an IPO is the only way out. The implications for NVIDIA, which…",
-        "Jensen Huang wears a black textured leather jacket and holds up an NVIDIA graphics card with one hand while standing on a darkened stage at CES 2025."
+        "Google, the most vertically integrated of them all, with its TPU chips and its Gemini models. As I wrote on Tuesday in ‘Google Specializes Its TPUs as Nvidia Wobbles’ (AI-RTZ #1266), its TPU teams get early access to the latest Gemini models to design and debug the chips.",
+        "Amazon, with its Trainium chips and its own Nova models. Anthropic is one of Trainium’s biggest customers, as I discussed in ‘Amazon AI chips traction with key customers & partners’ (AI-RTZ #1094). [...] Now that same Anthropic is using Claude to design chips of its own. Every custom chip of Anthropic’s that works could mean fewer Trainium chips rented from Amazon, or fewer TPUs from Google, over time. Its biggest backers are also its chip suppliers, and soon perhaps its chip competitors.",
+        "If Anthropic or OpenAI end up with AI models far better at chip design than anyone else’s, they could keep the most cutting-edge versions to themselves, at least at first. [...] OpenAI is already there with its ‘Jalapeño’ chip, designed with help from its own frontier AI models. Meanwhile, the companies building the backup chips to Nvidia, Google, Amazon, Microsoft and Meta, are all building their own AI models. The frontier AI labs are crossing over into chips, and the chipmakers into models. It’s one of the more intriguing ‘Frenemies’ storylines in the AI Tech Wave, and it ties directly to the hottest topic in AI research right now: Recursive Self-Improvement, or"
       ],
-      "url": "https://247wallst.com/investing/2026/11/16/brad-gerstner-says-ai-is-at-its-google-2005-moment-heres-who-he-thinks-wins",
-      "source": "247wallst.com",
-      "category": "投并购",
+      "url": "https://michaelparekh.substack.com/p/ai-anthropic-and-openai-use-ai-to",
+      "source": "michaelparekh.substack.com",
+      "category": "芯片硬件",
       "importance": 5,
-      "publishedAt": "2026-11-17T00:07:04Z"
+      "publishedAt": "2026-11-18T00:04:45Z"
     },
     {
-      "id": "1bb8a08c86a7",
-      "title": "谷歌最强模型终于开放，但普通付费用户还用不上",
-      "summary": "在10月29日首次公开Carbon时，这一模型仅向部分网络安全防御人员开放，但当时引发了行业关注，因为模型一度登顶AI大模型评测机构Artificial Analysis的智能指数榜，超越Anthropic的Claude Opus 5.5和OpenAI的GPT-6 Astra。\n\n随着昨天Anthropic最新模型Claude Fable 5.2的发布，Carbon退居第二，但目前仍处于全球第一梯...",
+      "id": "6c8f84f90814",
+      "title": "🚀 Why build one AI company when you can buy 25? While many startups ...",
+      "summary": "If you're building a startup outside of AI, this is your reality in 2026. Here's the math that explains everything: $512 billion deployed globally in 2025. AI",
       "highlights": [
-        "在10月29日首次公开Carbon时，这一模型仅向部分网络安全防御人员开放，但当时引发了行业关注，因为模型一度登顶AI大模型评测机构Artificial Analysis的智能指数榜，超越Anthropic的Claude Opus 5.5和OpenAI的GPT-6 Astra",
-        "随着昨天Anthropic最新模型Claude Fable 5.2的发布，Carbon退居第二，但目前仍处于全球第一梯队",
-        "谷歌DeepMind 高级副总裁Koray Kavukcuoglu在博客中表示，此前谷歌公布的Gemini 4 Argon主要面向软件工程和知识工作，而Carbon更强调复杂的、多步骤的编程与调试，以及开放式的科学研究与探索"
+        "If you're building a startup outside of AI, this is your reality in 2026. Here's the math that explains everything: $512 billion deployed globally in 2025. AI"
       ],
-      "url": "https://www.yicai.com/news/103436065.html",
-      "source": "yicai.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-17T09:00:00Z"
-    },
-    {
-      "id": "6221d1b34e8c",
-      "title": "谷歌警告：AI全自动网络攻击将在半年内到来 - 安全内参 | 决策者的网络安全知识库",
-      "summary": "谷歌表示：“在过去一个季度中，GTIG首次发现攻击者利用大模型框架，在没有人工介入的情况下，完全自动化地完成漏洞发现和利用。”\n\n“具体而言，GTIG发现了一台对外暴露的测试服务器。该服务器托管着一个用于漏洞研究和攻击武器化的多智能体框架，名为exploit\\_agent。该框架能够接入多个前沿大模型和本地部署的大模型。”\n\n谷歌通过攻击者对外暴露的测试服务器发现了这一框架。服务器中还存有被盗取的...",
-      "highlights": [
-        "谷歌表示：“在过去一个季度中，GTIG首次发现攻击者利用大模型框架，在没有人工介入的情况下，完全自动化地完成漏洞发现和利用",
-        "“具体而言，GTIG发现了一台对外暴露的测试服务器",
-        "该服务器托管着一个用于漏洞研究和攻击武器化的多智能体框架，名为exploit\\_agent"
-      ],
-      "url": "https://www.secrss.com/articles/95743",
-      "source": "secrss.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-17T09:00:00Z"
-    },
-    {
-      "id": "60153e825bc7",
-      "title": "字节投的机器人公司，要上市了-36氪",
-      "summary": "广东\n   浙江\n   四川\n   安徽\n   江苏\n\n搜索\n\n项目推荐\n\n我要入驻\n\n城市合作\n\n商业策划\n\nImage 2: 36氪\n\n# 字节投的机器人公司，要上市了\n\n直通IPO_·_ 2026年11月17日 11:18\n\n主打电动夹爪、灵巧手等机器人末端执行器。\n\n具身智能赛道的资金，正从扎堆追捧人形机器人整机本体，转向重仓上游核心部件。当不少本体公司还在依靠融资持续输血、等待通用场景落...",
-      "highlights": [
-        "Image 2: 36氪",
-        "# 字节投的机器人公司，要上市了",
-        "直通IPO_·_ 2026年11月17日 11:18"
-      ],
-      "url": "https://m.36kr.com/p/4073745359393923",
-      "source": "m.36kr.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-11-17T13:12:37Z"
-    },
-    {
-      "id": "f1241b8c075c",
-      "title": "华为加码具身智能，切入清扫机器人业务 | 盖世汽车",
-      "summary": "盖世全球汽车产业大数据\n\n全产业链数据穿透与洞察平台📰\n\n盖世汽车资讯\n\n产业新闻、销量与行业前沿动态💬\n\n盖世汽车社区\n\n从业者实名交流与行业资讯分享\n\n中文\n\n登录\n\n首页 / 资讯 / 文章详情\n\n具身智能人形机器人行业行业/资本动态\n\n# 华为加码具身智能，切入清扫机器人业务\n\n2026-11-17 11:58:41· 盖世具身智能\n\n盖世汽车讯 11月16日，华为云宣布，其与环卫装备龙头...",
-      "highlights": [
-        "盖世全球汽车产业大数据",
-        "全产业链数据穿透与洞察平台📰",
-        "产业新闻、销量与行业前沿动态💬"
-      ],
-      "url": "https://www.gasgoo.com/apps/e060bad9eca91db7f01403fc7120041f/robot/news/70478236-%E5%8D%8E%E4%B8%BA%E5%8A%A0%E7%A0%81%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD-%E5%88%87%E5%85%A5%E6%B8%85%E6%89%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%9A%E5%8A%A1",
-      "source": "gasgoo.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-11-17T03:00:00Z"
-    },
-    {
-      "id": "1b4845e24fa3",
-      "title": "OpenAI",
-      "summary": "# OpenAI\nID: p4PyTakV77G9\nWebsite: www.openai.com\nHeadquarters: San Francisco, CA, United States\nLinkedIn: www.linkedin.com/company/openai · 11,730,323 followers\nIndustry: Research Services\nIndustry c...",
-      "highlights": [
-        "ID: p4PyTakV77G9",
-        "Website: www.openai.com",
-        "Headquarters: San Francisco, CA, United States"
-      ],
-      "url": "https://tavily.com/knowledge/company/p4PyTakV77G9",
-      "source": "tavily.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-11-17T01:09:53Z"
-    },
-    {
-      "id": "f050b855ab78",
-      "title": "AI security took more than one in three cybersecurity seed funding deals - Help Net Security",
-      "summary": "A few years ago, the anecdotal rule of thumb was about $1 million in annual recurring revenue before a Series A. DataTribe now puts a strong Series A closer to $3 million. The median U.S. Series A dea...",
-      "highlights": [
-        "A few years ago, the anecdotal rule of thumb was about $1 million in annual recurring revenue before a Series A. DataTribe now puts a strong Series A closer to $3 million. The median U.S. Series A deal grew from $13.7 million in 2025 to $17.4 million through Q3 2026, according to the PitchBook-NVCA Venture Monitor.",
-        "Add Help Net Security as a preferred source on Google",
-        "## Featured news"
-      ],
-      "url": "https://www.helpnetsecurity.com/2026/11/17/cybersecurity-seed-funding-deals",
-      "source": "helpnetsecurity.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-11-17T06:19:27Z"
-    },
-    {
-      "id": "cb3c9d003f07",
-      "title": "全国医保领域首个省重点实验室落地江苏，同步发布医保监管大模型_医疗人工智能_大健康派",
-      "summary": "实验室发布了首批10个重点研究课题和10项数据服务。课题涵盖中医康复按价值付费、创新药疗效比较等方向，由中国药科大学、省人民医院等10家单位承接，数据服务覆盖诊疗信息、医药分析评估等场景。\n\n现场，省医保局发布最新成果——医保监管大模型。该模型基于医保专属数据训练，能够读懂病历，识别疑点，已在飞行检查和定点医药机构监管等场景试点应用。\n\n近年来，江苏持续探索医保数据要素安全合规应用。据悉，下一步，...",
-      "highlights": [
-        "实验室发布了首批10个重点研究课题和10项数据服务",
-        "课题涵盖中医康复按价值付费、创新药疗效比较等方向，由中国药科大学、省人民医院等10家单位承接，数据服务覆盖诊疗信息、医药分析评估等场景",
-        "现场，省医保局发布最新成果——医保监管大模型"
-      ],
-      "url": "http://www.djkpai.com/ai/1307271964624158720.html",
-      "source": "djkpai.com",
+      "url": "https://www.facebook.com/venturegrab/posts/-why-build-one-ai-company-when-you-can-buy-25while-many-startups-are-racing-to-d/1166122976072051",
+      "source": "facebook.com",
       "category": "行业话题",
-      "importance": 3,
-      "publishedAt": "2026-11-17T00:00:00Z"
-    },
-    {
-      "id": "537a743a4879",
-      "title": "AI 投研企业ARTi 宣布获数百万美元融资，C Capital投资",
-      "summary": "新浪科技讯11月17日上午消息，AI 投研平台ARTi 宣布获得香港C 资本（C Capital）数百万美元Pre-A 轮投资。 本轮融资之前，ARTi 还获得香港上市公司德林控股的战略投资",
-      "highlights": [
-        "新浪科技讯11月17日上午消息，AI 投研平台ARTi 宣布获得香港C 资本（C Capital）数百万美元Pre-A 轮投资",
-        "本轮融资之前，ARTi 还获得香港上市公司德林控股的战略投资"
-      ],
-      "url": "https://finance.sina.com.cn/tob/2026-11-17/doc-iniyyzyi1841030.shtml",
-      "source": "finance.sina.com.cn",
-      "category": "投并购",
-      "importance": 3,
-      "publishedAt": "2026-11-17T00:00:00Z"
-    },
-    {
-      "id": "ed17f16301e8",
-      "title": "最前沿的AI公司，开始抢传统生意了",
-      "summary": "近一两年，全球已有32家AI企业收购或经营会计、法律等传统服务业务，以此扩大收入规模并打造竞争壁垒，但也面临客户、经营整合等问题，其商业模式仍待检验。",
-      "highlights": [
-        "近一两年，全球已有32家AI企业收购或经营会计、法律等传统服务业务，以此扩大收入规模并打造竞争壁垒，但也面临客户、经营整合等问题，其商业模式仍待检验"
-      ],
-      "url": "https://news.pedaily.cn/202611/571947.shtml",
-      "source": "news.pedaily.cn",
-      "category": "投并购",
       "importance": 2,
-      "publishedAt": "2026-11-17T00:00:00Z"
+      "publishedAt": "2026-11-18T00:04:45Z"
     }
   ],
   "week": [
@@ -818,21 +701,6 @@
   ],
   "month": [
     {
-      "id": "62e81cf2be4b",
-      "title": "AI独角兽创始人最新判断：90%企业AI场景，已经不需要最强模型-36氪",
-      "summary": "过去一段时间，绝大部分AI应用创业者最焦虑的问题就是：大模型会不会把应用全吃了？\n\n今年以来，OpenAI、Anthropic 持续推出法律、设计、办公全套垂直套件，微软依托 Office 生态捆绑 Copilot，不断向企业渗透。\n\n越来越多人开始相信，只要底层模型持续进化，今天所有AI应用，不过都是等待被官方”内置”的功能。\n\n但就在不久前，曾打造上市安全巨头Rubrik、如今执掌70亿美金企...",
-      "highlights": [
-        "过去一段时间，绝大部分AI应用创业者最焦虑的问题就是：大模型会不会把应用全吃了",
-        "今年以来，OpenAI、Anthropic 持续推出法律、设计、办公全套垂直套件，微软依托 Office 生态捆绑 Copilot，不断向企业渗透",
-        "越来越多人开始相信，只要底层模型持续进化，今天所有AI应用，不过都是等待被官方”内置”的功能"
-      ],
-      "url": "https://m.36kr.com/p/3905302707213441",
-      "source": "m.36kr.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-15T07:51:25Z"
-    },
-    {
       "id": "630bfe6a02a8",
       "title": "中国AI4LS赛道10个月战绩彪悍：35亿美元、124起融资-36氪",
       "summary": "切换的方向很明确：从看团队、看叙事，转向看验证数据、看闭环能力、看商业化兑现。\n\n高特佳投资集团总经理孙佳林提出，平台型公司和产品型公司的界限正在模糊，AI-Biotech本身就具备极强的AI能力，早期可以通过技术服务实现商业闭环，支撑自研管线的长期投入；后期管线兑现后，又会反过来强化平台能力。\n\n水木分子COO邢杰看来，更本质的变化是产业链的边界正在被打破。整个行业正在从“+AI”的改造，走向“...",
@@ -846,21 +714,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-11-16T02:53:15Z"
-    },
-    {
-      "id": "143f989e188a",
-      "title": "海外巨头集体押注！机器人产业渐成AI新战场 港股多只概念股逆势飘红",
-      "summary": "11月10日，谷歌DeepMind推出新模型Gemini Robotics 2.5，并称其为谷歌迄今为止功能最强大的视觉-语言-动作（VLA）机器人模型，进一步拓展了物理AI的边界。\n\n另据媒体报道，11月9日，Anthropic公布的测试数据显示，在RoboDojo双臂仿真机器人基准测试中，Fable 5.2平均成功率达64.9%。同日，英伟达宣布推出全新的新一代机器人模型GR00T 2，此前苹...",
-      "highlights": [
-        "11月10日，谷歌DeepMind推出新模型Gemini Robotics 2.5，并称其为谷歌迄今为止功能最强大的视觉-语言-动作（VLA）机器人模型，进一步拓展了物理AI的边界",
-        "另据媒体报道，11月9日，Anthropic公布的测试数据显示，在RoboDojo双臂仿真机器人基准测试中，Fable 5.2平均成功率达64.9%",
-        "同日，英伟达宣布推出全新的新一代机器人模型GR00T 2，此前苹果研究团队也发布了人形机器人自主控制系统HALO"
-      ],
-      "url": "https://www.cls.cn/detail/2531448",
-      "source": "cls.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-11-15T03:00:00Z"
     },
     {
       "id": "3d35e8a25a4d",
@@ -964,6 +817,36 @@
       "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-11-16T17:30:22Z"
+    },
+    {
+      "id": "5d4db2f2705b",
+      "title": "摩根大通分析师：英伟达AI算力合约份额从83%降至39% — Actualités TradingView",
+      "summary": "Gelonghui\nGelonghui\n\n# 摩根大通分析师：英伟达AI算力合约份额从83%降至39%\n\n格隆汇11月16日｜摩根大通资产管理市场与投资策略主席迈克尔・切巴莱斯特在前一日发布的报告中称，OpenAI、Anthropic这类前沿AI实验室已经敲定、未来将采购的算力基础设施里，英伟达GPU占比仅39%。而2023至2025年，英伟达在AI芯片整体收入中的份额曾达到83%，这预示着它在下...",
+      "highlights": [
+        "# 摩根大通分析师：英伟达AI算力合约份额从83%降至39%",
+        "格隆汇11月16日｜摩根大通资产管理市场与投资策略主席迈克尔・切巴莱斯特在前一日发布的报告中称，OpenAI、Anthropic这类前沿AI实验室已经敲定、未来将采购的算力基础设施里，英伟达GPU占比仅39%",
+        "而2023至2025年，英伟达在AI芯片整体收入中的份额曾达到83%，这预示着它在下一代算力基础设施中的占比可能大幅萎缩"
+      ],
+      "url": "https://fr.tradingview.com/news/gelonghui:dd436873fe3f9:0",
+      "source": "fr.tradingview.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-16T07:23:47Z"
+    },
+    {
+      "id": "5e8fcee76e13",
+      "title": "无界进化完成超亿元Pre-A轮融资，刷新中国AI虚拟细胞企业单笔融资金额纪录_投资界",
+      "summary": "首页\n 资讯\n 快讯\n VC情报局\n 活动\n 研究\n 创投号\n\n 深度\n 热门\n 天天IPO\n AI先锋\n 机器人\n 医疗健康\n 大消费\n 视频\n 99个发现\n\n首页产业生物技术正文\n\n# 无界进化完成超亿元Pre-A轮融资，刷新中国AI虚拟细胞企业单笔融资金额纪录\n\n11月16日，无界进化宣布完成超亿元Pre-A轮融资，刷新中国虚拟细胞企业单笔融资金额纪录，资金将用于研发及体系扩容。\n\n来源：投...",
+      "highlights": [
+        "# 无界进化完成超亿元Pre-A轮融资，刷新中国AI虚拟细胞企业单笔融资金额纪录",
+        "11月16日，无界进化宣布完成超亿元Pre-A轮融资，刷新中国虚拟细胞企业单笔融资金额纪录，资金将用于研发及体系扩容",
+        "来源：投资界讯 更新于： 2020字"
+      ],
+      "url": "https://news.pedaily.cn/202611/571905.shtml",
+      "source": "news.pedaily.cn",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-16T05:46:00Z"
     }
   ]
 }
