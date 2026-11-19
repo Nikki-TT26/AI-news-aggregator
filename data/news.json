@@ -1,6 +1,981 @@
 {
-  "updatedAt": "2026-11-19T14:45:40Z",
+  "updatedAt": "2026-11-19T23:56:53Z",
   "latest": [
+    {
+      "id": "0e2708b7b12a",
+      "title": "AI: Anthropic & OpenAI Use AI to Design AI Chips. AI-RTZ #1268",
+      "summary": "Google, the most vertically integrated of them all, with its TPU chips and its Gemini models. As I wrote on Tuesday in ‘Google Specializes Its TPUs as Nvidia Wobbles’ (AI-RTZ #1266), its TPU teams get...",
+      "highlights": [
+        "Google, the most vertically integrated of them all, with its TPU chips and its Gemini models. As I wrote on Tuesday in ‘Google Specializes Its TPUs as Nvidia Wobbles’ (AI-RTZ #1266), its TPU teams get early access to the latest Gemini models to design and debug the chips.",
+        "Amazon, with its Trainium chips and its own Nova models. Anthropic is one of Trainium’s biggest customers, as I discussed in ‘Amazon AI chips traction with key customers & partners’ (AI-RTZ #1094). [...] Now that same Anthropic is using Claude to design chips of its own. Every custom chip of Anthropic’s that works could mean fewer Trainium chips rented from Amazon, or fewer TPUs from Google, over time. Its biggest backers are also its chip suppliers, and soon perhaps its chip competitors.",
+        "If Anthropic or OpenAI end up with AI models far better at chip design than anyone else’s, they could keep the most cutting-edge versions to themselves, at least at first. [...] OpenAI is already there with its ‘Jalapeño’ chip, designed with help from its own frontier AI models. Meanwhile, the companies building the backup chips to Nvidia, Google, Amazon, Microsoft and Meta, are all building their own AI models. The frontier AI labs are crossing over into chips, and the chipmakers into models. It’s one of the more intriguing ‘Frenemies’ storylines in the AI Tech Wave, and it ties directly to the hottest topic in AI research right now: Recursive Self-Improvement, or"
+      ],
+      "url": "https://michaelparekh.substack.com/p/ai-anthropic-and-openai-use-ai-to",
+      "source": "michaelparekh.substack.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-18T00:04:45Z"
+    },
+    {
+      "id": "ad1e3c81a51b",
+      "title": "GPU企业争着做机器人芯片，整机厂商为何还想自己造？-36氪",
+      "summary": "岸芯科技的实际控制人孙尔俊，个人持股比例超过20%。进入沐曦前，他曾在海信旗下芯片业务平台、灿芯、中星微和澜起科技任职，在澜起做过产品线负责人和产品及市场总监。\n\n2020年9月，他参与创办沐曦，担任市场副总裁和首席营销官。沐曦聚焦通用GPU及高性能计算芯片研发，在国产AI算力需求大幅增长的背景下，沐曦于2025年12月登陆科创板。根据沐曦的招股书，孙尔俊于2024年8月离职，一年多后创办岸芯。\n...",
+      "highlights": [
+        "岸芯科技的实际控制人孙尔俊，个人持股比例超过20%",
+        "进入沐曦前，他曾在海信旗下芯片业务平台、灿芯、中星微和澜起科技任职，在澜起做过产品线负责人和产品及市场总监",
+        "2020年9月，他参与创办沐曦，担任市场副总裁和首席营销官"
+      ],
+      "url": "https://www.36kr.com/p/4074892228335236",
+      "source": "36kr.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-18T11:45:08Z"
+    },
+    {
+      "id": "f487b5952e48",
+      "title": "游戏显卡养出了 AI 帝国！英伟达 GPU 如何崛起，为何科技巨头又急着取代它？｜《改变世界的半导体》EP1",
+      "summary": "接着，我们回到2012年的AlexNet：两张GTX 580游戏显卡，如何参与一场改变AI历史的突破？从黄仁勋亲自把DGX-1送到OpenAI，到Tensor Core和ChatGPT，英伟达如何把芯片、软件和整套系统，逐步打造成支撑人工智能发展的计算平台？\n\n但GPU也有自己的硬伤。为什么有些程序搬上GPU，反而跑得更慢？显存容量、带宽和数据搬运，为什么会限制AI模型的设计？HBM与NVLink...",
+      "highlights": [
+        "接着，我们回到2012年的AlexNet：两张GTX 580游戏显卡，如何参与一场改变AI历史的突破",
+        "从黄仁勋亲自把DGX-1送到OpenAI，到Tensor Core和ChatGPT，英伟达如何把芯片、软件和整套系统，逐步打造成支撑人工智能发展的计算平台",
+        "但GPU也有自己的硬伤"
+      ],
+      "url": "https://www.youtube.com/watch?v=SZd4TEmTrUc",
+      "source": "youtube.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-18T00:00:00Z"
+    },
+    {
+      "id": "ac00a89a240c",
+      "title": "百亿美金入场，谁在给AI4S定价-36氪",
+      "summary": "广东\n   浙江\n   四川\n   安徽\n   江苏\n\n搜索\n\n项目推荐\n\n我要入驻\n\n城市合作\n\n商业策划\n\nImage 2: 36氪\n\n# 百亿美金入场，谁在给AI4S定价\n\n潮涌AI_·_ 2026年11月18日 01:56\n\n管线、资本、平台三层，各有一张答卷等着交。\n\n近日，海外AI4S（AI for Science）赛道的资本消息密集落地。\n\n无论是OpenAI收购药物研发协调平台Or...",
+      "highlights": [
+        "Image 2: 36氪",
+        "# 百亿美金入场，谁在给AI4S定价",
+        "潮涌AI_·_ 2026年11月18日 01:56"
+      ],
+      "url": "https://m.36kr.com/p/4074537665418116",
+      "source": "m.36kr.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-18T05:02:01Z"
+    },
+    {
+      "id": "9cd114a579bd",
+      "title": "Anthropic IPO重塑創投圈！早期投資人合計狂賺逾千億美元　天使投資人回報約2300倍",
+      "summary": "過去一年，Anthropic營收反超對手OpenAI，市場爭搶入股的熱情持續升溫。某大型投資方合夥人透露，今年融資爭奪階段，他們甚至給Anthropic財務長Krishna Rao寫了「示好信」，只為拿到融資份額。這波爆發也促使OpenAI的一眾投資方轉而投資Anthropic，包括Brad Gerstner的Altimeter、紅杉資本、Peter Thiel的Founders Fund。此一情...",
+      "highlights": [
+        "過去一年，Anthropic營收反超對手OpenAI，市場爭搶入股的熱情持續升溫",
+        "某大型投資方合夥人透露，今年融資爭奪階段，他們甚至給Anthropic財務長Krishna Rao寫了「示好信」，只為拿到融資份額",
+        "這波爆發也促使OpenAI的一眾投資方轉而投資Anthropic，包括Brad Gerstner的Altimeter、紅杉資本、Peter Thiel的Founders Fund"
+      ],
+      "url": "https://tw.stock.yahoo.com/news/anthropic-ipo%E9%87%8D%E5%A1%91%E5%89%B5%E6%8A%95%E5%9C%88-%E6%97%A9%E6%9C%9F%E6%8A%95%E8%B3%87%E4%BA%BA%E5%90%88%E8%A8%88%E7%8B%82%E8%B3%BA%E9%80%BE%E5%8D%83%E5%84%84%E7%BE%8E%E5%85%83-%E5%A4%A9%E4%BD%BF%E6%8A%95%E8%B3%87%E4%BA%BA%E5%9B%9E%E5%A0%B1%E7%B4%842300%E5%80%8D-123004041.html",
+      "source": "tw.stock.yahoo.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-18T12:00:00Z"
+    },
+    {
+      "id": "242d9406ce03",
+      "title": "OpenAI's Self-Improvement Threshold: What GPT-6.2 Astra Really Crossed | MindStudio",
+      "summary": "There’s also a separate, more formal metric circulating in community coverage: a modified “RSI index” (recursive self-improvement index), calibrated so that 50% represents human-level researcher perfo...",
+      "highlights": [
+        "There’s also a separate, more formal metric circulating in community coverage: a modified “RSI index” (recursive self-improvement index), calibrated so that 50% represents human-level researcher performance on a given task. On this index, Astra scored around 29%, behind Gemini’s latest models and well behind Anthropic’s Fable and Opus models, which currently lead. That puts Astra’s self-improvement capability in a middle tier: higher than its predecessor, meaningfully below human parity, and [...] It’s OpenAI’s top-tier model release, positioned as the company’s equivalent to Anthropic’s Fable, intended for demanding technical and creative work. It launched alongside a cheaper sibling model called Soul.",
+        "### What does “high threshold for AI self-improvement” mean in practice? [...] It means GPT-6.2 Astra is the first model OpenAI has released publicly that measurably speeds up the people building the next generation of AI. OpenAI’s own framing is that the model helps its researchers about as much as giving each of them an extra, genuinely capable research engineer. It’s not about the model editing its own code or operating unsupervised. It’s about measured gains on real research tasks: debugging failed experiments, writing low-level code for custom chips, and training"
+      ],
+      "url": "https://www.mindstudio.ai/blog/gpt-6-2-astra-ai-self-improvement",
+      "source": "mindstudio.ai",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-18T00:00:00Z"
+    },
+    {
+      "id": "89a0aa3f7c80",
+      "title": "GPT-6.2 Astra与Sol正式发布！OpenAI终于放大招！AI霸主真能重夺王座？",
+      "summary": "沉寂 75 天后，OpenAI 终于正式祭出新旗舰 GPT-6.2 Astra 与轻量版 Sol。伴随“AI霸主归来”的呼声，新王牌究竟是稳坐王座还是面临严峻挑战？本期从定价与权限、Artificial Analysis 综合基准、遇阻漏报真实表现，到手柄、冰雪教堂、机械蜜蜂及 15 秒交互动效全方位同台硬刚 Claude，完整看清两款模型的真实取舍。\n\n素材来源：Universe of AI\n ...",
+      "highlights": [
+        "沉寂 75 天后，OpenAI 终于正式祭出新旗舰 GPT-6.2 Astra 与轻量版 Sol",
+        "伴随“AI霸主归来”的呼声，新王牌究竟是稳坐王座还是面临严峻挑战",
+        "本期从定价与权限、Artificial Analysis 综合基准、遇阻漏报真实表现，到手柄、冰雪教堂、机械蜜蜂及 15 秒交互动效全方位同台硬刚 Claude，完整看清两款模型的真实取舍"
+      ],
+      "url": "https://www.youtube.com/watch?v=k-jiTkCJeU0",
+      "source": "youtube.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-18T00:00:00Z"
+    },
+    {
+      "id": "4efcf8b6dd7c",
+      "title": "AI News Today, November 18: Top Stories | AI Weekly",
+      "summary": "Nvidia interim CEO Colette Kress told the Q3 earnings call the company will stop selling H200 chips in China, ending the arrangement Jensen Huang and President Trump brokered that let the US collect a...",
+      "highlights": [
+        "Nvidia interim CEO Colette Kress told the Q3 earnings call the company will stop selling H200 chips in China, ending the arrangement Jensen Huang and President Trump brokered that let the US collect a 25% tariff on each sale. Jefferies estimates the policy could cost Nvidia $44-62B in annual data…",
+        "### China Telecom trains 285B agentic MoE fully on Ascend 910C chips [...] A China Telecom-led technical report posted Nov 18 details Xing4, a frontier agentic LLM series trained entirely on 8,192 Ascend 910C NPUs using the MindSpore HyperParallel stack — no GPUs, no CUDA. The paper introduces a 29B-A4B open-weight model (29B total, 4B active) with 256K-1M context, and …",
+        "### Anthropic prices IPO at $83, above its $70-$78 range [...] | Entity | Now | Avg | Change |"
+      ],
+      "url": "https://aiweekly.co/ai-news-today",
+      "source": "aiweekly.co",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-18T13:00:00Z"
+    },
+    {
+      "id": "36d464013a2a",
+      "title": "Four. - Hospitality Net",
+      "summary": "AI agents currently complete a negligible share of hotel bookings, but discovery is shifting fast, and hotels not connected for direct checkout will default to OTA-mediated sales when in-chat booking ...",
+      "highlights": [
+        "AI agents currently complete a negligible share of hotel bookings, but discovery is shifting fast, and hotels not connected for direct checkout will default to OTA-mediated sales when in-chat booking scales. Here's what the curve looks like, and who's positioned to win when it bends. **85% of consumers** are happy for an AI agent to find products, but only **1 in 10** would let it complete the purchase (Mastercard). The trigger is checkout moving inside the AI: Google's AI Mode has been completing hotel bookings for US users since August, Cloudbeds' connection to Meta's AI assistant is due in Q1 2027, and Airbnb launches its own AI travel agent in the first half of 2027. **The takeaway:** if an agent can't book you directly, it will book you through an OTA and the commission goes with it. But test it today: ask ChatGPT and Google's AI Mode to book a room at your hotel on a night you have availability."
+      ],
+      "url": "https://www.hospitalitynet.org/opinion/4135536/four",
+      "source": "hospitalitynet.org",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-18T08:33:27Z"
+    },
+    {
+      "id": "c17e06c55325",
+      "title": "超级IPO，遭疯抢_凤凰网",
+      "summary": "Anthropic预计于11月19日（周四）在纳斯达克挂牌上市。此次IPO是AI行业里程碑事件，也将成为AI基础设施及相关企业的一块试金石。这家AI实验室预计在周三公布IPO最终发行价以及股份配售结果。\n\nAnthropic目标估值 1.4 万亿美元。对比数月前传出的2万亿美元目标估值有所下调，但仍显著高于本轮科技股抛售最严重时期华尔街部分机构给出的1.1万亿美元预期。\n\n据媒体此前报道，Anth...",
+      "highlights": [
+        "Anthropic预计于11月19日（周四）在纳斯达克挂牌上市",
+        "此次IPO是AI行业里程碑事件，也将成为AI基础设施及相关企业的一块试金石",
+        "这家AI实验室预计在周三公布IPO最终发行价以及股份配售结果"
+      ],
+      "url": "https://finance.ifeng.com/c/8y97YOE1zVq",
+      "source": "finance.ifeng.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-18T00:23:15Z"
+    },
+    {
+      "id": "53e8ded61fb4",
+      "title": "华尔街专家热议“Anthropic超级IPO”：是时代红利，还是高风险豪赌？",
+      "summary": "两项融资合计规模将超过SpaceX 750亿美元的基础融资方案，成为史上规模最大的一次上市融资项目。 此次IPO正值人工智能行业动荡之际：数据中心的抵制助长了民主党的蓝色浪潮",
+      "highlights": [
+        "两项融资合计规模将超过SpaceX 750亿美元的基础融资方案，成为史上规模最大的一次上市融资项目",
+        "此次IPO正值人工智能行业动荡之际：数据中心的抵制助长了民主党的蓝色浪潮"
+      ],
+      "url": "https://m.sohu.com/a/1103456011_222256?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "id": "c54f015429e7",
+      "title": "Anthropic的IPO推介与其对人工智能发出的警告形成对照 | Межа",
+      "summary": "OpenAI年化收入接近500亿美元，低于此前出现的700亿美元估算。由于OpenAI与Anthropic采用不同收入统计方法，两家公司的数据难以直接比较。\n 人工智能投资热潮推升亚太企业融资需求，区域公司今年通过股票交易募集资金已达3271亿美元，全年有望打破2021年纪录。\n TechCrunch Disrupt 2026主会期前后，旧金山将举办创业社群聚会、初创公司展示、技术演示及创始人与投...",
+      "highlights": [
+        "OpenAI年化收入接近500亿美元，低于此前出现的700亿美元估算",
+        "由于OpenAI与Anthropic采用不同收入统计方法，两家公司的数据难以直接比较",
+        "人工智能投资热潮推升亚太企业融资需求，区域公司今年通过股票交易募集资金已达3271亿美元，全年有望打破2021年纪录"
+      ],
+      "url": "https://mezha.net/ch/news/mezha-9497a6816755e36b87850e3f_anthropic-s-ipo-pitch-contrasts-with",
+      "source": "mezha.net",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-18T10:49:02Z"
+    },
+    {
+      "id": "6fe068259c0d",
+      "title": "Instagram",
+      "summary": "🚀🤖 \\\\Google's AI chips gain momentum!\\\\  \n  \nGoogle's TPU business could see massive growth as \\\\OpenAI and Anthropic\\\\ reportedly explore increased AI chip demand. ⚡  \n  \n📊 Analyst Ming-Chi Kuo proje...",
+      "highlights": [
+        "🚀🤖 \\\\Google's AI chips gain momentum!\\\\",
+        "Google's TPU business could see massive growth as \\\\OpenAI and Anthropic\\\\ reportedly explore increased AI chip demand. ⚡",
+        "📊 Analyst Ming-Chi Kuo projects \\\\26 million TPUs\\\\ across 2028–2029 — 12 million for OpenAI and 14 million for Anthropic."
+      ],
+      "url": "https://www.instagram.com/p/DfyxFa6JX2I",
+      "source": "instagram.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-19T04:40:37Z"
+    },
+    {
+      "id": "0e4728ac132e",
+      "title": "Google acquires Seattle startup Howie and its AI scheduling assistant – GeekWire",
+      "summary": "Howie raised a $6 million seed round led by True Ventures in September 2025, when it launched publicly out of private beta. At the time, it had more than 1,000 paying customers, including startup foun...",
+      "highlights": [
+        "Howie raised a $6 million seed round led by True Ventures in September 2025, when it launched publicly out of private beta. At the time, it had more than 1,000 paying customers, including startup founders, venture capitalists, recruiters, consultants and journalists, and was scheduling more than 5,000 meetings a week. [...] The deal comes as Google and rivals including OpenAI, Anthropic and Meta race to build AI agents that complete tasks on behalf of users. Google Labs acquired music generation platform ProducerAI earlier this year. [...] Google is bringing Seattle-based Howie, maker of an AI scheduling assistant that works from your inbox, into its Google Labs division.",
+        "Terms of the deal were not disclosed this week. Google Labs, the company’s experimental arm, announced the acquisition in a post on X, saying it “can’t wait to learn from them as we build the next generation of intuitive AI tools together for small businesses.”"
+      ],
+      "url": "https://www.geekwire.com/2026/google-acquires-seattle-startup-howie-and-its-ai-scheduling-assistant",
+      "source": "geekwire.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-18T22:03:40Z"
+    },
+    {
+      "id": "09ea9d292e29",
+      "title": "当智能开始量产，从Anthropic上市看大模型的六个趋势-36氪",
+      "summary": "## 趋势三、按智能付费，模型像生鲜一样有保质期\n\nAnthropic把自己的主要收入模式叫作按智能付费，也就是按用量计费，以token计量，按所选模型定价。2026年前三季度，按用量计费占收入的79%，订阅占21%；通过三大云平台市场实现的收入占44%；美国以外的收入占29%。\n\n有三个细节特别能说明这种模式的特点。\n\n第一，降价是在换量，不是在打价格战。2025年11月，Anthropic发布...",
+      "highlights": [
+        "## 趋势三、按智能付费，模型像生鲜一样有保质期",
+        "Anthropic把自己的主要收入模式叫作按智能付费，也就是按用量计费，以token计量，按所选模型定价",
+        "2026年前三季度，按用量计费占收入的79%，订阅占21%；通过三大云平台市场实现的收入占44%；美国以外的收入占29%"
+      ],
+      "url": "https://www.36kr.com/p/4076425441416067",
+      "source": "36kr.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-11-19T10:18:56Z"
+    },
+    {
+      "id": "2b6037444636",
+      "title": "AI开始优化芯片“大脑”：OpenAI称模型助自研Jalapeño与AMD GPU改善设计_凤凰网",
+      "summary": "# AI开始优化自己的“大脑”：OpenAI发布芯片设计最新成果\n\n凤凰网科技讯 北京时间11月19日，OpenAI发布最新技术报告《Advancing chip design with OpenAI models》，披露其利用人工智能模型辅助芯片设计的最新进展。OpenAI表示，其模型不仅帮助自研AI推理芯片Jalapeño优化了电路设计，还在与AMD的合作中，实现旗舰GPU关键IP模块最高14...",
+      "highlights": [
+        "# AI开始优化自己的“大脑”：OpenAI发布芯片设计最新成果",
+        "凤凰网科技讯 北京时间11月19日，OpenAI发布最新技术报告《Advancing chip design with OpenAI models》，披露其利用人工智能模型辅助芯片设计的最新进展",
+        "OpenAI表示，其模型不仅帮助自研AI推理芯片Jalapeño优化了电路设计，还在与AMD的合作中，实现旗舰GPU关键IP模块最高14%的功耗、性能和面积（PPA）指标改善"
+      ],
+      "url": "https://original.ifeng.com/c/8yAXcSbk5wZ",
+      "source": "original.ifeng.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-18T22:40:04Z"
+    },
+    {
+      "id": "75da8bc3a930",
+      "title": "OpenAI亮出AI芯片设计成果：AMD旗舰GPU获14% PPA提升，自研芯片面积减少13%|amd|gpu|处理器|cpu|openai_网易订阅",
+      "summary": "### 新闻\n\n### 体育\n\n### 娱乐\n\n### 财经\n\n### 汽车\n\n### 科技\n\n### 时尚\n\n### 手机 / 数码\n\n### 房产 / 家居\n\n### 教育\n\n# OpenAI亮出AI芯片设计成果：AMD旗舰GPU获14% PPA提升，自研芯片面积减少13%\n\n用微信扫码二维码\n\n分享至好友和朋友圈\n\n来源：环球网\n\n【环球网科技综合报道】11月19日消息，OpenAI近日发布...",
+      "highlights": [
+        "### 手机 / 数码",
+        "### 房产 / 家居",
+        "# OpenAI亮出AI芯片设计成果：AMD旗舰GPU获14% PPA提升，自研芯片面积减少13%"
+      ],
+      "url": "https://www.163.com/dy/article/LC3H94AU0514R9OJ.html",
+      "source": "163.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-19T03:16:36Z"
+    },
+    {
+      "id": "796eaf5704b3",
+      "title": "摩根士丹利亚太峰会：亚洲、人工智能与财富管理引领增长 提供者 Investing.com",
+      "summary": "## 资本市场、并购与IPO\n\nSimkowitz表示，企业并购活动已开始复苏。2022年至2025年间，GDP增长与并购交易量曾出现背离，目前多重因素正推动活动回暖：\n\n- 融资条件改善\n- 科技与生物科学领域高增长企业的IPO通道拓宽\n- 可能在2029年1月关闭的监管窗口期\n- 企业董事会与首席执行官对战略执行的兴趣日益浓厚\n\n他表示，私募股权公司仍在持续买入资产，但出售规模不及预期。他补充...",
+      "highlights": [
+        "## 资本市场、并购与IPO",
+        "Simkowitz表示，企业并购活动已开始复苏",
+        "2022年至2025年间，GDP增长与并购交易量曾出现背离，目前多重因素正推动活动回暖："
+      ],
+      "url": "https://cn.investing.com/news/transcripts/article-93CH-3676086",
+      "source": "cn.investing.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-19T06:55:39Z"
+    },
+    {
+      "id": "29bb8c2b3440",
+      "title": "Anthropic IPO造富：这些亿万富豪成为最大赢家",
+      "summary": "18日晚间，备受瞩目的Anthropic首次公开募股（IPO）发行价最终敲定每股83美元。按完全稀释口径计算，这家打造了Claude聊天机器人的AI巨头估值达1.5万亿美元。",
+      "highlights": [
+        "18日晚间，备受瞩目的Anthropic首次公开募股（IPO）发行价最终敲定每股83美元",
+        "按完全稀释口径计算，这家打造了Claude聊天机器人的AI巨头估值达1.5万亿美元"
+      ],
+      "url": "https://www.forbeschina.com/business/72405",
+      "source": "forbeschina.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-19T13:00:00Z"
+    },
+    {
+      "id": "b168855bb23e",
+      "title": "Seeds | 自动驾驶数据“老兵”转做具身智能，融了5000万|算法|机器人|大模型_网易订阅",
+      "summary": "其中，在数据采集端，柏川数据以真机遥操作、无本体数采等方式构建真实世界数据入口，基于2座具身智能实训场与300余种工/商/农业工序渠道，目前具身智能数据月产能已超过5万小时。\n\n柏川数据在运营的2座具身智能实训场，共配置了200余台人形机器人与数百套无本体数采设备，年有效具身智能数据产能达35万小时。\n\n数据管理平台端，柏川数据自研的山海数据管理平台支持标注、质检、管理、评测、仿真等关键环节，并依...",
+      "highlights": [
+        "其中，在数据采集端，柏川数据以真机遥操作、无本体数采等方式构建真实世界数据入口，基于2座具身智能实训场与300余种工/商/农业工序渠道，目前具身智能数据月产能已超过5万小时",
+        "柏川数据在运营的2座具身智能实训场，共配置了200余台人形机器人与数百套无本体数采设备，年有效具身智能数据产能达35万小时",
+        "数据管理平台端，柏川数据自研的山海数据管理平台支持标注、质检、管理、评测、仿真等关键环节，并依托AI自动化工具实现规模化数据生产"
+      ],
+      "url": "https://www.163.com/dy/article/LC3TP6BQ05278R4J.html",
+      "source": "163.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-19T06:55:05Z"
+    },
+    {
+      "id": "28d4635416cb",
+      "title": "TSMC To Invest Up To $1B in Anthropic And OpenAI",
+      "summary": "For its data center projects, OpenAI is working with several AI chip suppliers, including AMD, Broadcom, Cerebras and Nvidia.\n\nOpenAI is also developing its own AI accelerator chip, dubbed Jalapeño. O...",
+      "highlights": [
+        "For its data center projects, OpenAI is working with several AI chip suppliers, including AMD, Broadcom, Cerebras and Nvidia.",
+        "OpenAI is also developing its own AI accelerator chip, dubbed Jalapeño. OpenAI will continue to use third-party AI chips. But Jalapeño is optimized for OpenAI’s own LLMs. Thus, the company may use the Jalapeño AI chip in select LLM applications. And with Jalapeño, OpenAI isn’t totally dependent on AI chips from others. [...] Within its leased space at the various CSPs, Anthropic makes use of a multitude of servers to process its AI models. Depending on the CSP, these servers incorporate various AI chip architectures, such as Amazon’s Trainium AI chips, Google’s Tensor Processing Units (TPUs), Nvidia’s GPUs and AMD’s GPUs, according to the filing. For the most part, these AI chips are manufactured by TSMC. [...] Last month, OpenAI introduced its latest AI model. This technology, called GPT-6.1 Terra, is a faster AI model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing."
+      ],
+      "url": "https://marklapedus.substack.com/p/tsmc-to-invest-up-to-1b-in-anthropic",
+      "source": "marklapedus.substack.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-19T14:45:40Z"
+    },
+    {
+      "id": "4d8fd6306935",
+      "title": "A11 Bionic深度解析：从神经引擎到自研GPU的苹果芯片革命 - CSDN",
+      "summary": "A11上最让我个人兴奋的点，其实是那颗独立的神经网络引擎（Neural Engine）。它的设计目标是专门跑神经网络推理任务，比如人脸识别、图像分类、自然语言处理里的高频低精度运算。A11的神经引擎采用双核设计，运算能力达到每秒6000亿次操作。这个数字放到今天来看确实小，A17 Pro是每秒35万亿次操作，差距悬殊。但在2017年，安卓阵营里连专用的NPU都还没有普及（麒麟970虽然早几个月问世...",
+      "highlights": [
+        "A11上最让我个人兴奋的点，其实是那颗独立的神经网络引擎（Neural Engine）",
+        "它的设计目标是专门跑神经网络推理任务，比如人脸识别、图像分类、自然语言处理里的高频低精度运算",
+        "A11的神经引擎采用双核设计，运算能力达到每秒6000亿次操作"
+      ],
+      "url": "https://www.csdn.net/detail/webblog_34177347/58990",
+      "source": "csdn.net",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-19T01:00:00Z"
+    },
+    {
+      "id": "41ab2d67e1bb",
+      "title": "AI大模型密集上新 智能体加速切入高价值实体场景-经济参考网 _ 新华社《经济参考报》官方网站",
+      "summary": "【大中小】\n\n本周，国内外大模型厂商迎来密集发布期。Open AI、谷歌、阿里巴巴、腾讯相继推出新一代基座模型，底层能力的跃升同步推动Agent（智能体）加速落地，在办公、软件工程用途外，还有智能制造、城市治理等实体高价值领域。伴随应用爆发，大模型商业化路径和收费模式亦从单一API（应用程序接口）调用向多层次、场景化收费体系演进。\n\nAI大模型密集“出新”\n\n从集中发布的新一代模型来看，行业从“单...",
+      "highlights": [
+        "本周，国内外大模型厂商迎来密集发布期",
+        "Open AI、谷歌、阿里巴巴、腾讯相继推出新一代基座模型，底层能力的跃升同步推动Agent（智能体）加速落地，在办公、软件工程用途外，还有智能制造、城市治理等实体高价值领域",
+        "伴随应用爆发，大模型商业化路径和收费模式亦从单一API（应用程序接口）调用向多层次、场景化收费体系演进"
+      ],
+      "url": "http://jjckb.xinhuanet.com/20261119/c45560c166ea43aab2bfd8eadfe22908/c.html",
+      "source": "jjckb.xinhuanet.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "id": "1b7478583fd3",
+      "title": "三位00后，公司卖了300亿-36氪",
+      "summary": "以此计算，Anthropic的7位联合创始人的持股身家都将达到近200亿美元。\n\n同一时间，DeepSeek第二轮融资也正式落定，工商信息在今天完成变更。据此前媒体报道，此轮融资规模据悉高达惊人的1000亿元，估值约6000亿元，并同步筹备科创板IPO。梁文锋作为DeepSeek创始人及最大单一持股方，身家势必会随着估值水涨船高。\n\n毫无疑问，AI正式成为创造新富豪的最大来源——今年发布的福布斯全...",
+      "highlights": [
+        "以此计算，Anthropic的7位联合创始人的持股身家都将达到近200亿美元",
+        "同一时间，DeepSeek第二轮融资也正式落定，工商信息在今天完成变更",
+        "据此前媒体报道，此轮融资规模据悉高达惊人的1000亿元，估值约6000亿元，并同步筹备科创板IPO"
+      ],
+      "url": "https://m.36kr.com/p/4076372393841797",
+      "source": "m.36kr.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-19T12:52:42Z"
+    },
+    {
+      "id": "a41bbb8227d7",
+      "title": "【立方基金通】31家机构入股DeepSeek/200亿社保科创基金落地/AI巨头IPO将造就数千名百万富翁_搜狐网",
+      "summary": "硅谷历史上规模最大的造富盛宴之一正在上演。随着AI巨头Anthropic即将完成上市，不仅该公司七位创始人将跻身全球百亿美元富豪行列，早期投资者赚得盆满钵满，就连普通员工，也将坐享巨额收益。Anthropic IPO预计将在现任及前任员工中造就数千名账面百万富翁。\n\nAnthropic周三宣布，将以每股83美元的价格出售股票，高于此前预期的70至78美元的发行价区间。与此同时，该公司还宣布将发行规...",
+      "highlights": [
+        "硅谷历史上规模最大的造富盛宴之一正在上演",
+        "随着AI巨头Anthropic即将完成上市，不仅该公司七位创始人将跻身全球百亿美元富豪行列，早期投资者赚得盆满钵满，就连普通员工，也将坐享巨额收益",
+        "Anthropic IPO预计将在现任及前任员工中造就数千名账面百万富翁"
+      ],
+      "url": "https://m.sohu.com/a/1103700747_120109837?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-19T16:25:50Z"
+    },
+    {
+      "id": "3dc9286f9878",
+      "title": "Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story",
+      "summary": "Normally, when the best new OpenAI model drops, that is the biggest story. I don't think that's the case this time. Yes, it's a decent model, and OpenAI say it sets a new quality bar for AI and comple...",
+      "highlights": [
+        "Normally, when the best new OpenAI model drops, that is the biggest story. I don't think that's the case this time. Yes, it's a decent model, and OpenAI say it sets a new quality bar for AI and complex professional work. I've read the 119 page system card and tested the model thoroughly. But Google are releasing powerful new versions of Gemini every couple of weeks now recently, and yesterday's Neon might get slept on. And beyond even that, people really want to know when we are expected to get [...] GPT 6.2 Astra is OpenAI’s best model, so for each of the last 4 years this would have been the only headline. But now Gemini is catching up fast, with 4 Carbon and Neon, and Anthropic are IPO-ing after promising imminent RSI. And even all this isn’t quite the main story, is it? We now have data on what drives model improvement, how close AI is to automating AI, and whether, as Dario Amodei of Anthropic promised, we are witnessing a ‘race to the top’...",
+        "Extra Vids ($9!):   / aiexplained [...] of my own private benchmarks, Integrity Bench, I have noticed that the Gemini 4 models tend to be far less calibrated on their own abilities. Wildly more overconfident that they've got the answer right compared to say the Claude series of models. 6.2 Astra is somewhere in between. Sometimes labs like OpenAI will put out comparisons like this one visually so you can sense how much better the latest model is at using 3D tools like Blender. Forget the benchmarks they're implying. Look at the cool"
+      ],
+      "url": "https://www.youtube.com/watch?v=KGA7B_c_S4s",
+      "source": "youtube.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "id": "4eb49b855d47",
+      "title": "Amid Anthropic's IPO, Google, Microsoft and OpenAI Drop New AI Models - CNET",
+      "summary": "If nothing else, Anthropic’s IPO and the new models from Google, OpenAI and Microsoft are stark reminders that the tech industry is nowhere near ready to slow down on AI. Even as financial, environmen...",
+      "highlights": [
+        "If nothing else, Anthropic’s IPO and the new models from Google, OpenAI and Microsoft are stark reminders that the tech industry is nowhere near ready to slow down on AI. Even as financial, environmental and legal concerns mount — and arguably hit a fever pitch during the midterm elections — Big Tech is plowing ahead with generative AI.",
+        "Image 5: Katelyn Chedraoui",
+        "Katelyn Chedraoui"
+      ],
+      "url": "https://www.cnet.com/tech/services-and-software/openai-chatgpt-astra-6-2-microsoft-ignite-news",
+      "source": "cnet.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-19T16:53:19Z"
+    },
+    {
+      "id": "b9f94156520d",
+      "title": "OpenAI and Anthropic account for 72% of UK AI model-provider",
+      "summary": "OpenAI and Anthropic account for 72% of identified references linking UK companies to AI model providers, according to a study by GreenPT. The research identified 1,377 public references in total.\n\nOp...",
+      "highlights": [
+        "OpenAI and Anthropic account for 72% of identified references linking UK companies to AI model providers, according to a study by GreenPT. The research identified 1,377 public references in total.",
+        "OpenAI accounts for 670 references (48.7%), more than twice Anthropic's 322 (23.4%). Open-source models come third with 235 (17.1%), ahead of Google with 150 (10.9%). Adding Google, the three US developers account for 82.9%. [...] The study also separates a public reference from confirmed use. Across all references, 74.3% were classified as corroborated use, but around 31% of references to OpenAI, Anthropic and Google were not, because they described conditional statements, outdated information, offered integrations, pilots or future plans. Corroboration rates were 69.9% for OpenAI, 68.5% for Anthropic and 65.7% for Google, differences GreenPT says fall within the statistical uncertainty of the sample. All 235 [...] Skip to content",
+        "Compare the Cloud"
+      ],
+      "url": "https://www.comparethecloud.net/news/openai-and-anthropic-account-for-72-of-uk-ai-model-provider-references-greenpt-study-finds",
+      "source": "comparethecloud.net",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-18T11:07:04Z"
+    },
+    {
+      "id": "363219391859",
+      "title": "GenAI & Agentic AI 論壇 | 【AI 突破 🤖】阿里突發次世代旗艦「Qwen4-Max」預覽版 | Facebook",
+      "summary": "• 內建進程內與記憶體事件總線，專為多節點、多代理分工協同打造。\n\n• 開發者能直接以開源方式，在自家本地伺服器建構屬於自己的高階 AI 工程團隊。\n\nImage 8: 📌 4. 軟硬一體佈局：平頭哥傳赴港上市，晶片協同擊穿算力成本！\n\n伴隨模型發表，外媒最新消息透露阿里正規劃將旗下晶片設計部門平頭哥（T-Head）分拆赴港上市。未來自研晶片將與 Qwen 旗艦模型展開深度軟硬協同優化，從底層硬體...",
+      "highlights": [
+        "• 內建進程內與記憶體事件總線，專為多節點、多代理分工協同打造",
+        "• 開發者能直接以開源方式，在自家本地伺服器建構屬於自己的高階 AI 工程團隊",
+        "Image 8: 📌 4. 軟硬一體佈局：平頭哥傳赴港上市，晶片協同擊穿算力成本"
+      ],
+      "url": "https://www.facebook.com/groups/aigctw/posts/3463389657178255",
+      "source": "facebook.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-11-19T04:40:37Z"
+    },
+    {
+      "id": "71dda2ad3cc7",
+      "title": "OpenAI想买，Anthropic看上：50亿美元拿不下",
+      "summary": "一家AI 初创，罕见地引发了OpenAI 与Anthropic 的共同关注。 据The Information 报道，OpenAI 高管及CEO Sam Altman 曾多次与这家公司交流，并一度提出50 亿美元的收购",
+      "highlights": [
+        "一家AI 初创，罕见地引发了OpenAI 与Anthropic 的共同关注",
+        "据The Information 报道，OpenAI 高管及CEO Sam Altman 曾多次与这家公司交流，并一度提出50 亿美元的收购"
+      ],
+      "url": "http://www.36kr.com/p/4076038480843904",
+      "source": "36kr.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-11-19T03:00:00Z"
+    }
+  ],
+  "today": [
+    {
+      "id": "53e8ded61fb4",
+      "title": "华尔街专家热议“Anthropic超级IPO”：是时代红利，还是高风险豪赌？",
+      "summary": "两项融资合计规模将超过SpaceX 750亿美元的基础融资方案，成为史上规模最大的一次上市融资项目。 此次IPO正值人工智能行业动荡之际：数据中心的抵制助长了民主党的蓝色浪潮",
+      "highlights": [
+        "两项融资合计规模将超过SpaceX 750亿美元的基础融资方案，成为史上规模最大的一次上市融资项目",
+        "此次IPO正值人工智能行业动荡之际：数据中心的抵制助长了民主党的蓝色浪潮"
+      ],
+      "url": "https://m.sohu.com/a/1103456011_222256?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "id": "6fe068259c0d",
+      "title": "Instagram",
+      "summary": "🚀🤖 \\\\Google's AI chips gain momentum!\\\\  \n  \nGoogle's TPU business could see massive growth as \\\\OpenAI and Anthropic\\\\ reportedly explore increased AI chip demand. ⚡  \n  \n📊 Analyst Ming-Chi Kuo proje...",
+      "highlights": [
+        "🚀🤖 \\\\Google's AI chips gain momentum!\\\\",
+        "Google's TPU business could see massive growth as \\\\OpenAI and Anthropic\\\\ reportedly explore increased AI chip demand. ⚡",
+        "📊 Analyst Ming-Chi Kuo projects \\\\26 million TPUs\\\\ across 2028–2029 — 12 million for OpenAI and 14 million for Anthropic."
+      ],
+      "url": "https://www.instagram.com/p/DfyxFa6JX2I",
+      "source": "instagram.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-19T04:40:37Z"
+    },
+    {
+      "id": "09ea9d292e29",
+      "title": "当智能开始量产，从Anthropic上市看大模型的六个趋势-36氪",
+      "summary": "## 趋势三、按智能付费，模型像生鲜一样有保质期\n\nAnthropic把自己的主要收入模式叫作按智能付费，也就是按用量计费，以token计量，按所选模型定价。2026年前三季度，按用量计费占收入的79%，订阅占21%；通过三大云平台市场实现的收入占44%；美国以外的收入占29%。\n\n有三个细节特别能说明这种模式的特点。\n\n第一，降价是在换量，不是在打价格战。2025年11月，Anthropic发布...",
+      "highlights": [
+        "## 趋势三、按智能付费，模型像生鲜一样有保质期",
+        "Anthropic把自己的主要收入模式叫作按智能付费，也就是按用量计费，以token计量，按所选模型定价",
+        "2026年前三季度，按用量计费占收入的79%，订阅占21%；通过三大云平台市场实现的收入占44%；美国以外的收入占29%"
+      ],
+      "url": "https://www.36kr.com/p/4076425441416067",
+      "source": "36kr.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-11-19T10:18:56Z"
+    },
+    {
+      "id": "75da8bc3a930",
+      "title": "OpenAI亮出AI芯片设计成果：AMD旗舰GPU获14% PPA提升，自研芯片面积减少13%|amd|gpu|处理器|cpu|openai_网易订阅",
+      "summary": "### 新闻\n\n### 体育\n\n### 娱乐\n\n### 财经\n\n### 汽车\n\n### 科技\n\n### 时尚\n\n### 手机 / 数码\n\n### 房产 / 家居\n\n### 教育\n\n# OpenAI亮出AI芯片设计成果：AMD旗舰GPU获14% PPA提升，自研芯片面积减少13%\n\n用微信扫码二维码\n\n分享至好友和朋友圈\n\n来源：环球网\n\n【环球网科技综合报道】11月19日消息，OpenAI近日发布...",
+      "highlights": [
+        "### 手机 / 数码",
+        "### 房产 / 家居",
+        "# OpenAI亮出AI芯片设计成果：AMD旗舰GPU获14% PPA提升，自研芯片面积减少13%"
+      ],
+      "url": "https://www.163.com/dy/article/LC3H94AU0514R9OJ.html",
+      "source": "163.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-19T03:16:36Z"
+    },
+    {
+      "id": "796eaf5704b3",
+      "title": "摩根士丹利亚太峰会：亚洲、人工智能与财富管理引领增长 提供者 Investing.com",
+      "summary": "## 资本市场、并购与IPO\n\nSimkowitz表示，企业并购活动已开始复苏。2022年至2025年间，GDP增长与并购交易量曾出现背离，目前多重因素正推动活动回暖：\n\n- 融资条件改善\n- 科技与生物科学领域高增长企业的IPO通道拓宽\n- 可能在2029年1月关闭的监管窗口期\n- 企业董事会与首席执行官对战略执行的兴趣日益浓厚\n\n他表示，私募股权公司仍在持续买入资产，但出售规模不及预期。他补充...",
+      "highlights": [
+        "## 资本市场、并购与IPO",
+        "Simkowitz表示，企业并购活动已开始复苏",
+        "2022年至2025年间，GDP增长与并购交易量曾出现背离，目前多重因素正推动活动回暖："
+      ],
+      "url": "https://cn.investing.com/news/transcripts/article-93CH-3676086",
+      "source": "cn.investing.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-19T06:55:39Z"
+    },
+    {
+      "id": "29bb8c2b3440",
+      "title": "Anthropic IPO造富：这些亿万富豪成为最大赢家",
+      "summary": "18日晚间，备受瞩目的Anthropic首次公开募股（IPO）发行价最终敲定每股83美元。按完全稀释口径计算，这家打造了Claude聊天机器人的AI巨头估值达1.5万亿美元。",
+      "highlights": [
+        "18日晚间，备受瞩目的Anthropic首次公开募股（IPO）发行价最终敲定每股83美元",
+        "按完全稀释口径计算，这家打造了Claude聊天机器人的AI巨头估值达1.5万亿美元"
+      ],
+      "url": "https://www.forbeschina.com/business/72405",
+      "source": "forbeschina.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-19T13:00:00Z"
+    },
+    {
+      "id": "b168855bb23e",
+      "title": "Seeds | 自动驾驶数据“老兵”转做具身智能，融了5000万|算法|机器人|大模型_网易订阅",
+      "summary": "其中，在数据采集端，柏川数据以真机遥操作、无本体数采等方式构建真实世界数据入口，基于2座具身智能实训场与300余种工/商/农业工序渠道，目前具身智能数据月产能已超过5万小时。\n\n柏川数据在运营的2座具身智能实训场，共配置了200余台人形机器人与数百套无本体数采设备，年有效具身智能数据产能达35万小时。\n\n数据管理平台端，柏川数据自研的山海数据管理平台支持标注、质检、管理、评测、仿真等关键环节，并依...",
+      "highlights": [
+        "其中，在数据采集端，柏川数据以真机遥操作、无本体数采等方式构建真实世界数据入口，基于2座具身智能实训场与300余种工/商/农业工序渠道，目前具身智能数据月产能已超过5万小时",
+        "柏川数据在运营的2座具身智能实训场，共配置了200余台人形机器人与数百套无本体数采设备，年有效具身智能数据产能达35万小时",
+        "数据管理平台端，柏川数据自研的山海数据管理平台支持标注、质检、管理、评测、仿真等关键环节，并依托AI自动化工具实现规模化数据生产"
+      ],
+      "url": "https://www.163.com/dy/article/LC3TP6BQ05278R4J.html",
+      "source": "163.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-19T06:55:05Z"
+    },
+    {
+      "id": "28d4635416cb",
+      "title": "TSMC To Invest Up To $1B in Anthropic And OpenAI",
+      "summary": "For its data center projects, OpenAI is working with several AI chip suppliers, including AMD, Broadcom, Cerebras and Nvidia.\n\nOpenAI is also developing its own AI accelerator chip, dubbed Jalapeño. O...",
+      "highlights": [
+        "For its data center projects, OpenAI is working with several AI chip suppliers, including AMD, Broadcom, Cerebras and Nvidia.",
+        "OpenAI is also developing its own AI accelerator chip, dubbed Jalapeño. OpenAI will continue to use third-party AI chips. But Jalapeño is optimized for OpenAI’s own LLMs. Thus, the company may use the Jalapeño AI chip in select LLM applications. And with Jalapeño, OpenAI isn’t totally dependent on AI chips from others. [...] Within its leased space at the various CSPs, Anthropic makes use of a multitude of servers to process its AI models. Depending on the CSP, these servers incorporate various AI chip architectures, such as Amazon’s Trainium AI chips, Google’s Tensor Processing Units (TPUs), Nvidia’s GPUs and AMD’s GPUs, according to the filing. For the most part, these AI chips are manufactured by TSMC. [...] Last month, OpenAI introduced its latest AI model. This technology, called GPT-6.1 Terra, is a faster AI model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing."
+      ],
+      "url": "https://marklapedus.substack.com/p/tsmc-to-invest-up-to-1b-in-anthropic",
+      "source": "marklapedus.substack.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-19T14:45:40Z"
+    },
+    {
+      "id": "4d8fd6306935",
+      "title": "A11 Bionic深度解析：从神经引擎到自研GPU的苹果芯片革命 - CSDN",
+      "summary": "A11上最让我个人兴奋的点，其实是那颗独立的神经网络引擎（Neural Engine）。它的设计目标是专门跑神经网络推理任务，比如人脸识别、图像分类、自然语言处理里的高频低精度运算。A11的神经引擎采用双核设计，运算能力达到每秒6000亿次操作。这个数字放到今天来看确实小，A17 Pro是每秒35万亿次操作，差距悬殊。但在2017年，安卓阵营里连专用的NPU都还没有普及（麒麟970虽然早几个月问世...",
+      "highlights": [
+        "A11上最让我个人兴奋的点，其实是那颗独立的神经网络引擎（Neural Engine）",
+        "它的设计目标是专门跑神经网络推理任务，比如人脸识别、图像分类、自然语言处理里的高频低精度运算",
+        "A11的神经引擎采用双核设计，运算能力达到每秒6000亿次操作"
+      ],
+      "url": "https://www.csdn.net/detail/webblog_34177347/58990",
+      "source": "csdn.net",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-19T01:00:00Z"
+    },
+    {
+      "id": "41ab2d67e1bb",
+      "title": "AI大模型密集上新 智能体加速切入高价值实体场景-经济参考网 _ 新华社《经济参考报》官方网站",
+      "summary": "【大中小】\n\n本周，国内外大模型厂商迎来密集发布期。Open AI、谷歌、阿里巴巴、腾讯相继推出新一代基座模型，底层能力的跃升同步推动Agent（智能体）加速落地，在办公、软件工程用途外，还有智能制造、城市治理等实体高价值领域。伴随应用爆发，大模型商业化路径和收费模式亦从单一API（应用程序接口）调用向多层次、场景化收费体系演进。\n\nAI大模型密集“出新”\n\n从集中发布的新一代模型来看，行业从“单...",
+      "highlights": [
+        "本周，国内外大模型厂商迎来密集发布期",
+        "Open AI、谷歌、阿里巴巴、腾讯相继推出新一代基座模型，底层能力的跃升同步推动Agent（智能体）加速落地，在办公、软件工程用途外，还有智能制造、城市治理等实体高价值领域",
+        "伴随应用爆发，大模型商业化路径和收费模式亦从单一API（应用程序接口）调用向多层次、场景化收费体系演进"
+      ],
+      "url": "http://jjckb.xinhuanet.com/20261119/c45560c166ea43aab2bfd8eadfe22908/c.html",
+      "source": "jjckb.xinhuanet.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "id": "1b7478583fd3",
+      "title": "三位00后，公司卖了300亿-36氪",
+      "summary": "以此计算，Anthropic的7位联合创始人的持股身家都将达到近200亿美元。\n\n同一时间，DeepSeek第二轮融资也正式落定，工商信息在今天完成变更。据此前媒体报道，此轮融资规模据悉高达惊人的1000亿元，估值约6000亿元，并同步筹备科创板IPO。梁文锋作为DeepSeek创始人及最大单一持股方，身家势必会随着估值水涨船高。\n\n毫无疑问，AI正式成为创造新富豪的最大来源——今年发布的福布斯全...",
+      "highlights": [
+        "以此计算，Anthropic的7位联合创始人的持股身家都将达到近200亿美元",
+        "同一时间，DeepSeek第二轮融资也正式落定，工商信息在今天完成变更",
+        "据此前媒体报道，此轮融资规模据悉高达惊人的1000亿元，估值约6000亿元，并同步筹备科创板IPO"
+      ],
+      "url": "https://m.36kr.com/p/4076372393841797",
+      "source": "m.36kr.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-19T12:52:42Z"
+    },
+    {
+      "id": "a41bbb8227d7",
+      "title": "【立方基金通】31家机构入股DeepSeek/200亿社保科创基金落地/AI巨头IPO将造就数千名百万富翁_搜狐网",
+      "summary": "硅谷历史上规模最大的造富盛宴之一正在上演。随着AI巨头Anthropic即将完成上市，不仅该公司七位创始人将跻身全球百亿美元富豪行列，早期投资者赚得盆满钵满，就连普通员工，也将坐享巨额收益。Anthropic IPO预计将在现任及前任员工中造就数千名账面百万富翁。\n\nAnthropic周三宣布，将以每股83美元的价格出售股票，高于此前预期的70至78美元的发行价区间。与此同时，该公司还宣布将发行规...",
+      "highlights": [
+        "硅谷历史上规模最大的造富盛宴之一正在上演",
+        "随着AI巨头Anthropic即将完成上市，不仅该公司七位创始人将跻身全球百亿美元富豪行列，早期投资者赚得盆满钵满，就连普通员工，也将坐享巨额收益",
+        "Anthropic IPO预计将在现任及前任员工中造就数千名账面百万富翁"
+      ],
+      "url": "https://m.sohu.com/a/1103700747_120109837?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-19T16:25:50Z"
+    },
+    {
+      "id": "3dc9286f9878",
+      "title": "Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story",
+      "summary": "Normally, when the best new OpenAI model drops, that is the biggest story. I don't think that's the case this time. Yes, it's a decent model, and OpenAI say it sets a new quality bar for AI and comple...",
+      "highlights": [
+        "Normally, when the best new OpenAI model drops, that is the biggest story. I don't think that's the case this time. Yes, it's a decent model, and OpenAI say it sets a new quality bar for AI and complex professional work. I've read the 119 page system card and tested the model thoroughly. But Google are releasing powerful new versions of Gemini every couple of weeks now recently, and yesterday's Neon might get slept on. And beyond even that, people really want to know when we are expected to get [...] GPT 6.2 Astra is OpenAI’s best model, so for each of the last 4 years this would have been the only headline. But now Gemini is catching up fast, with 4 Carbon and Neon, and Anthropic are IPO-ing after promising imminent RSI. And even all this isn’t quite the main story, is it? We now have data on what drives model improvement, how close AI is to automating AI, and whether, as Dario Amodei of Anthropic promised, we are witnessing a ‘race to the top’...",
+        "Extra Vids ($9!):   / aiexplained [...] of my own private benchmarks, Integrity Bench, I have noticed that the Gemini 4 models tend to be far less calibrated on their own abilities. Wildly more overconfident that they've got the answer right compared to say the Claude series of models. 6.2 Astra is somewhere in between. Sometimes labs like OpenAI will put out comparisons like this one visually so you can sense how much better the latest model is at using 3D tools like Blender. Forget the benchmarks they're implying. Look at the cool"
+      ],
+      "url": "https://www.youtube.com/watch?v=KGA7B_c_S4s",
+      "source": "youtube.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "id": "4eb49b855d47",
+      "title": "Amid Anthropic's IPO, Google, Microsoft and OpenAI Drop New AI Models - CNET",
+      "summary": "If nothing else, Anthropic’s IPO and the new models from Google, OpenAI and Microsoft are stark reminders that the tech industry is nowhere near ready to slow down on AI. Even as financial, environmen...",
+      "highlights": [
+        "If nothing else, Anthropic’s IPO and the new models from Google, OpenAI and Microsoft are stark reminders that the tech industry is nowhere near ready to slow down on AI. Even as financial, environmental and legal concerns mount — and arguably hit a fever pitch during the midterm elections — Big Tech is plowing ahead with generative AI.",
+        "Image 5: Katelyn Chedraoui",
+        "Katelyn Chedraoui"
+      ],
+      "url": "https://www.cnet.com/tech/services-and-software/openai-chatgpt-astra-6-2-microsoft-ignite-news",
+      "source": "cnet.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-19T16:53:19Z"
+    },
+    {
+      "id": "363219391859",
+      "title": "GenAI & Agentic AI 論壇 | 【AI 突破 🤖】阿里突發次世代旗艦「Qwen4-Max」預覽版 | Facebook",
+      "summary": "• 內建進程內與記憶體事件總線，專為多節點、多代理分工協同打造。\n\n• 開發者能直接以開源方式，在自家本地伺服器建構屬於自己的高階 AI 工程團隊。\n\nImage 8: 📌 4. 軟硬一體佈局：平頭哥傳赴港上市，晶片協同擊穿算力成本！\n\n伴隨模型發表，外媒最新消息透露阿里正規劃將旗下晶片設計部門平頭哥（T-Head）分拆赴港上市。未來自研晶片將與 Qwen 旗艦模型展開深度軟硬協同優化，從底層硬體...",
+      "highlights": [
+        "• 內建進程內與記憶體事件總線，專為多節點、多代理分工協同打造",
+        "• 開發者能直接以開源方式，在自家本地伺服器建構屬於自己的高階 AI 工程團隊",
+        "Image 8: 📌 4. 軟硬一體佈局：平頭哥傳赴港上市，晶片協同擊穿算力成本"
+      ],
+      "url": "https://www.facebook.com/groups/aigctw/posts/3463389657178255",
+      "source": "facebook.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-11-19T04:40:37Z"
+    },
+    {
+      "id": "71dda2ad3cc7",
+      "title": "OpenAI想买，Anthropic看上：50亿美元拿不下",
+      "summary": "一家AI 初创，罕见地引发了OpenAI 与Anthropic 的共同关注。 据The Information 报道，OpenAI 高管及CEO Sam Altman 曾多次与这家公司交流，并一度提出50 亿美元的收购",
+      "highlights": [
+        "一家AI 初创，罕见地引发了OpenAI 与Anthropic 的共同关注",
+        "据The Information 报道，OpenAI 高管及CEO Sam Altman 曾多次与这家公司交流，并一度提出50 亿美元的收购"
+      ],
+      "url": "http://www.36kr.com/p/4076038480843904",
+      "source": "36kr.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-11-19T03:00:00Z"
+    },
+    {
+      "id": "faa1b8c615a1",
+      "title": "OpenAI reportedly backs new US restrictions on AI chip exports to ...",
+      "summary": "OpenAI and Anthropic are reportedly forming their own frontier-AI safety authority, potentially testing models before release without government oversight",
+      "highlights": [
+        "OpenAI and Anthropic are reportedly forming their own frontier-AI safety authority, potentially testing models before release without government oversight"
+      ],
+      "url": "https://www.reddit.com/r/AIGuild/comments/1xutnvz/openai_reportedly_backs_new_us_restrictions_on_ai",
+      "source": "reddit.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-19T04:40:37Z"
+    },
+    {
+      "id": "6c7aada85037",
+      "title": "尤其大廠自己能控供應鏈跟成本，當然會一直往自研ASIC 跑。GPU ...",
+      "summary": "谷歌TPU 的量已经藏不住了：TrendForce 预计今年自研ASIC 占AI 服务器出货27.8%，GPU 首次跌破70%；云厂商自研芯片出货增速44.6%，是GPU 的近3 倍，谷歌TPU 是其中出货",
+      "highlights": [
+        "谷歌TPU 的量已经藏不住了：TrendForce 预计今年自研ASIC 占AI 服务器出货27.8%，GPU 首次跌破70%；云厂商自研芯片出货增速44.6%，是GPU 的近3 倍，谷歌TPU 是其中出货"
+      ],
+      "url": "https://www.threads.com/@alicken/post/Dfzik8xoBJL/%E9%80%99%E5%80%8B%E8%B6%A8%E5%8B%A2%E5%85%B6%E5%AF%A6%E6%BB%BF%E5%90%88%E7%90%86%E7%9A%84%E5%B0%A4%E5%85%B6%E5%A4%A7%E5%BB%A0%E8%87%AA%E5%B7%B1%E8%83%BD%E6%8E%A7%E4%BE%9B%E6%87%89%E9%8F%88%E8%B7%9F%E6%88%90%E6%9C%AC%E7%95%B6%E7%84%B6%E6%9C%83%E4%B8%80%E7%9B%B4%E5%BE%80%E8%87%AA%E7%A0%94-asic-%E8%B7%91gpu-%E9%82%84%E6%98%AF%E5%BE%88%E5%BC%B7%E4%BD%86%E4%B8%8D%E4%B8%80%E5%AE%9A%E6%98%AF%E6%89%80%E6%9C%89%E5%B7%A5%E4%BD%9C%E9%83%BD%E6%9C%80%E5%88%92%E7%AE%97%E7%9A%84%E8%A7%A3%E6%B3%95%E7%9C%9F%E6%AD%A3%E6%9C%89%E8%B6%A3%E7%9A%84%E6%98%AF%E9%80%99%E4%BB%A3%E8%A1%A8-ai-%E5%9F%BA%E7%A4%8E%E8%A8%AD%E6%96%BD",
+      "source": "threads.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-11-19T14:45:40Z"
+    },
+    {
+      "id": "46ae990d4022",
+      "title": "微软自研芯片Maia 200已规模化量产ssd新闻存储新闻",
+      "summary": "这款芯片采用台积电3nm 工艺打造，搭载216GB HBM3e 高带宽内存与272MB 片上SRAM，FP4 精度下峰值算力突破10 PFLOPS。相比主流GPU 方案，在Teams、Copilot 等AI 业务",
+      "highlights": [
+        "这款芯片采用台积电3nm 工艺打造，搭载216GB HBM3e 高带宽内存与272MB 片上SRAM，FP4 精度下峰值算力突破10 PFLOPS",
+        "相比主流GPU 方案，在Teams、Copilot 等AI 业务"
+      ],
+      "url": "https://www.0101ssd.com/a/14539",
+      "source": "0101ssd.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-11-19T10:00:00Z"
+    },
+    {
+      "id": "75d47833d0eb",
+      "title": "SFF 2026 | 华为发布Fintelligent AI解决方案，展示金融AI规模化落地能力 - 华为企业业务",
+      "summary": "依托中国金融机构在AI规模化应用中的领先实践经验，华为正探索构建面向未来的金融智能体架构——“两超多专”：“两超”是面向客户和员工分别打造Customer Super Agent（客户超级智能体）和Employee Super Agent（员工超级智能体），理解其意图与任务，提供个性化服务，并灵活调用银行专业能力；“多专”则是围绕信贷、营销、风险、财富管理等领域构建专业智能体，通过人机多智能体协同...",
+      "highlights": [
+        "依托中国金融机构在AI规模化应用中的领先实践经验，华为正探索构建面向未来的金融智能体架构——“两超多专”：“两超”是面向客户和员工分别打造Customer Super Agent（客户超级智能体）和Employee Super Agent（员工超级智能体），理解其意图与任务，提供个性化服务，并灵活调用银行专业能力；“多专”则是围绕信贷、营销、风险、财富管理等领域构建专业智能体，通过人机多智能体协同完成复杂任务",
+        "同时，将银行在合规规则、信贷判断、营销策略和风险管理等领域积累的专家经验，转化为可调用、可复用、可持续进化的AI智能化能力",
+        "通过“两超”连接客户与员工、“多专”协同业务任务，以及专家智能的持续沉淀与进化，助力金融机构逐步构建自主进化的企业级智能体系"
+      ],
+      "url": "https://e.huawei.com/cn/news/2026/industries/finance/singapore-fintech-festival-2026",
+      "source": "e.huawei.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-11-19T11:00:00Z"
+    },
+    {
+      "id": "d5ded9fe79d1",
+      "title": "白线日报｜Anthropic IPO 募资813 亿美元，DeepSeek 新增31 家出资主体",
+      "summary": "Anthropic 创下813 亿美元IPO 纪录，Palo Alto 拟以45 亿美元收购AI 模型公司，DeepSeek 披露新增31 家出资主体。腾讯虽然实现35% 的云服务收入增长，单季自由现金流却净",
+      "highlights": [
+        "Anthropic 创下813 亿美元IPO 纪录，Palo Alto 拟以45 亿美元收购AI 模型公司，DeepSeek 披露新增31 家出资主体",
+        "腾讯虽然实现35% 的云服务收入增长，单季自由现金流却净"
+      ],
+      "url": "https://wublock123.com/articles/anthropic-ipo-81-3b-raise-deepseek-31-investors-59870",
+      "source": "wublock123.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-11-19T11:00:00Z"
+    },
+    {
+      "id": "1b4845e24fa3",
+      "title": "OpenAI",
+      "summary": "# OpenAI\nID: p4PyTakV77G9\nWebsite: www.openai.com\nHeadquarters: San Francisco, CA, United States\nLinkedIn: www.linkedin.com/company/openai · 11,730,323 followers\nIndustry: Research Services\nIndustry c...",
+      "highlights": [
+        "ID: p4PyTakV77G9",
+        "Website: www.openai.com",
+        "Headquarters: San Francisco, CA, United States"
+      ],
+      "url": "https://tavily.com/knowledge/company/p4PyTakV77G9",
+      "source": "tavily.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-19T14:45:40Z"
+    },
+    {
+      "id": "4b508b87880f",
+      "title": "Slush 2026: How A.I. Is Upending Company Building | Trending Topics",
+      "summary": "In 2016, Hugging Face was still a chatbot for teenagers. Today the platform is where the world builds with open A.I. Nvidia is acquiring the company, founded by the French entrepreneurs Clément Delang...",
+      "highlights": [
+        "In 2016, Hugging Face was still a chatbot for teenagers. Today the platform is where the world builds with open A.I. Nvidia is acquiring the company, founded by the French entrepreneurs Clément Delangue, Thomas Wolf and Julien Chaumond, for $12.9 billion (about 11 billion euros), one of the largest exits ever for a start-up with European founders. [...] A.I. that accelerates its own development was the topic for Richard Socher in conversation with Moritz Baier-Lentz, a senior adviser at OpenAI. The former chief scientist of Salesforce is co-founder and chief executive of Recursive, a lab working on recursive self-improvement: software that keeps building itself. Recursive emerged from stealth this spring with $650 million (about 556 million euros) in funding at a valuation of $4.65 billion. [...] Building an A.I. product has never been easier, but turning it into a durable business is as hard as ever. That was the premise of a conversation between Will Ross, co-founder and chief executive of the U.S. insurtech Federato, and Lotti Siniscalco, a general partner at Emergence Capital. Federato builds an A.I. platform for insurers and recently raised a $100 million (about 85 million euros) Series D led by Goldman Sachs Alternatives, with Emergence among its existing investors."
+      ],
+      "url": "https://www.trendingtopics.eu/slush-2026-ai-upending-company-building",
+      "source": "trendingtopics.eu",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-11-19T12:01:27Z"
+    },
+    {
+      "id": "be7cf3a5fd51",
+      "title": "London Real on Facebook: \"A $1.25 billion valuation in 2024. A reported $2.4 billion Google deal in 2025. A $48 billion valuat…\"",
+      "summary": "2021: founded as Exafunction by two MIT graduates.\n2022: a $25 million Series A, led by Greenoaks.\nJanuary 2024: valued at $500 million.\nAugust 2024: valued at $1.25 billion.\nApril 2025: OpenAI report...",
+      "highlights": [
+        "2021: founded as Exafunction by two MIT graduates.",
+        "2022: a $25 million Series A, led by Greenoaks.",
+        "January 2024: valued at $500 million."
+      ],
+      "url": "https://www.facebook.com/LondonReal/posts/a-125-billion-valuation-in-2024-a-reported-24-billion-google-deal-in-2025-a-48-b/1711741216974154",
+      "source": "facebook.com",
+      "category": "投并购",
+      "importance": 4,
+      "publishedAt": "2026-11-19T11:05:39Z"
+    },
+    {
+      "id": "d7d321304903",
+      "title": "OpenAI 已经72天没有发布前沿模型了——是在为破坏Anthropic 的IPO ...",
+      "summary": "十月份的人工智能模型战争正在升温。《信息》报道，Anthropic正在准备一个新模型，谷歌有Gemini 4 Carbon在排队，而OpenAI 可能会推出一个新的Terra模型。三家前沿的人工",
+      "highlights": [
+        "十月份的人工智能模型战争正在升温",
+        "《信息》报道，Anthropic正在准备一个新模型，谷歌有Gemini 4 Carbon在排队，而OpenAI 可能会推出一个新的Terra模型"
+      ],
+      "url": "https://www.reddit.com/r/LangChain/comments/1xwhq4r/openai_hasnt_released_a_frontier_model_in_72_days?tl=zh-hans",
+      "source": "reddit.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-19T23:56:53Z"
+    },
+    {
+      "id": "924acba81dd9",
+      "title": "英伟达是什么公司？GPU、AI芯片、显卡关系一次讲清",
+      "summary": "英伟达（NVIDIA）是一家以GPU和AI数据中心芯片为核心的算力芯片公司，成立于1993年，由黄仁勋等人创立。它的业务模式可以概括为“芯片硬件+软件生态授权”，游戏显卡、",
+      "highlights": [
+        "英伟达（NVIDIA）是一家以GPU和AI数据中心芯片为核心的算力芯片公司，成立于1993年，由黄仁勋等人创立",
+        "它的业务模式可以概括为“芯片硬件+软件生态授权”，游戏显卡、"
+      ],
+      "url": "https://kuku.baidu.com/landing/tscp_doc/ce83637fecc282d6162afc0572cd2a6a",
+      "source": "kuku.baidu.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-11-19T13:00:00Z"
+    },
+    {
+      "id": "61991b1f0096",
+      "title": "KITE AI 中文on X: \"过去两周，新模型陆续上线，智能体协作、身份验证和 ...",
+      "summary": "过去两周，新模型陆续上线，智能体协作、身份验证和逐笔授权支付也有了新进展。 以下是本期AI Agents Pulse 值得关注的行业动态： 1️⃣ OpenAI 与American",
+      "highlights": [
+        "过去两周，新模型陆续上线，智能体协作、身份验证和逐笔授权支付也有了新进展",
+        "以下是本期AI Agents Pulse 值得关注的行业动态： 1️⃣ OpenAI 与American"
+      ],
+      "url": "https://x.com/KiteAIChinese/status/2121888868060516712",
+      "source": "x.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-11-19T23:56:53Z"
+    },
+    {
+      "id": "f008d7c83412",
+      "title": "OpenAI Hasn't Released A Frontier Model In 72 days. ...",
+      "summary": "It's been 72 days since the release of GPT-6 Astra, a model that a few of OpenAI execs like President Brockman Heralded as the start of the \"AGI Era.\"",
+      "highlights": [
+        "It's been 72 days since the release of GPT-6 Astra, a model that a few of OpenAI execs like President Brockman Heralded as the start of the \"AGI Era.\""
+      ],
+      "url": "https://www.reddit.com/r/singularity/comments/1xw8ym5/openai_hasnt_released_a_frontier_model_in_72_days",
+      "source": "reddit.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-19T23:56:53Z"
+    },
+    {
+      "id": "17435bb4792b",
+      "title": "高盛：2027年信用利差温和走阔，AI融资成最大变量",
+      "summary": "2027年美元投资级总发行2.4万亿、净发行1.15万亿美元，均创历史新高，驱动力是AI融资、到期墙、战略并购与美国发行人扩大欧元发行。2026年全球AI相关发行约7000亿美元",
+      "highlights": [
+        "2027年美元投资级总发行2.4万亿、净发行1.15万亿美元，均创历史新高，驱动力是AI融资、到期墙、战略并购与美国发行人扩大欧元发行",
+        "2026年全球AI相关发行约7000亿美元"
+      ],
+      "url": "https://www.163.com/dy/article/LC3AKBU805198ETO.html",
+      "source": "163.com",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-11-19T01:00:00Z"
+    },
+    {
+      "id": "7460c7f20944",
+      "title": "超級獨角獸Anthropic的誕生AI史上最大IPO即將登場！估值上看1.4兆 ...",
+      "summary": "這輪融資總 額650 億美元，由Altimeter Capital、Dragoneer、Greenoaks、Sequoia Capital 領投，每家出資超過20 億。 機構投資人包括Baillie Gifford、Blackstone、",
+      "highlights": [
+        "這輪融資總 額650 億美元，由Altimeter Capital、Dragoneer、Greenoaks、Sequoia Capital 領投，每家出資超過20 億",
+        "機構投資人包括Baillie Gifford、Blackstone、"
+      ],
+      "url": "https://www.facebook.com/weeklyfans/posts/%E8%B6%85%E7%B4%9A%E7%8D%A8%E8%A7%92%E7%8D%B8-anthropic%E7%9A%84%E8%AA%95%E7%94%9Fai%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7ipo%E5%8D%B3%E5%B0%87%E7%99%BB%E5%A0%B4%E4%BC%B0%E5%80%BC%E4%B8%8A%E7%9C%8B14%E5%85%86%E7%BE%8E%E5%85%83%E7%9A%84anthropic-%E6%8B%9B%E8%82%A1%E6%9B%B8%E5%8D%BB%E4%B9%9F%E6%8F%AD%E9%9C%B2%E9%AB%98%E9%81%949000%E5%84%84%E7%BE%8E%E5%85%83%E7%9A%84%E7%AE%97%E5%8A%9B%E6%8E%A1%E8%B3%BC%E6%89%BF%E8%AB%BE%E7%82%BA%E5%A1%AB%E8%A3%9C%E9%BE%90%E5%A4%A7%E7%AE%97/1576806361151862",
+      "source": "facebook.com",
+      "category": "投并购",
+      "importance": 3,
+      "publishedAt": "2026-11-19T04:40:37Z"
+    },
+    {
+      "id": "0ce655412ecb",
+      "title": "而且研究還提供了 Lean 形式化驗證材料，讓其他研究者能檢查部分數學推導。 不過先別急著宣布物理學被 AI 破解。 目前這仍是候選理論，論文尚待正式同行評審，部分重要物理性質也還需要驗證。 但這件事已經夠震撼了。 當 AI 開始參與人類數十年都難以解決的數學與物理研究，科學發現的速度會變成什麼樣子？ 以前我們用 AI 幫忙寫程式、做簡報。 現在，AI 已經開始參與最前沿的理論物理證明。 你覺得下一個被 AI 突破的科學難題會是什麼？",
+      "summary": "Home\n\nNew thread\n\nSearch\n\nMessages\n\nActivity\n\nProfile\n\nInsights\n\nLog in\n\nMore\n\n# Thread\n\n86 views\n\naiposthub's profile picture\n\naiposthub\n\n而且研究還提供了 Lean 形式化驗證材料，讓其他研究者能檢查部分數學推導。\n\n不過先別急著宣布物理學被 AI 破解。\n\n...",
+      "highlights": [
+        "aiposthub's profile picture",
+        "而且研究還提供了 Lean 形式化驗證材料，讓其他研究者能檢查部分數學推導",
+        "不過先別急著宣布物理學被 AI 破解"
+      ],
+      "url": "https://www.threads.com/@aiposthub/post/Dfz4mnggaZS/%E8%80%8C%E4%B8%94%E7%A0%94%E7%A9%B6%E9%82%84%E6%8F%90%E4%BE%9B%E4%BA%86-lean-%E5%BD%A2%E5%BC%8F%E5%8C%96%E9%A9%97%E8%AD%89%E6%9D%90%E6%96%99%E8%AE%93%E5%85%B6%E4%BB%96%E7%A0%94%E7%A9%B6%E8%80%85%E8%83%BD%E6%AA%A2%E6%9F%A5%E9%83%A8%E5%88%86%E6%95%B8%E5%AD%B8%E6%8E%A8%E5%B0%8E%E4%B8%8D%E9%81%8E%E5%85%88%E5%88%A5%E6%80%A5%E8%91%97%E5%AE%A3%E5%B8%83%E7%89%A9%E7%90%86%E5%AD%B8%E8%A2%AB-ai-%E7%A0%B4%E8%A7%A3%E7%9B%AE%E5%89%8D%E9%80%99%E4%BB%8D%E6%98%AF%E5%80%99%E9%81%B8%E7%90%86%E8%AB%96%E8%AB%96%E6%96%87%E5%B0%9A%E5%BE%85%E6%AD%A3%E5%BC%8F%E5%90%8C%E8%A1%8C%E8%A9%95%E5%AF%A9%E9%83%A8%E5%88%86%E9%87%8D%E8%A6%81%E7%89%A9%E7%90%86%E6%80%A7",
+      "source": "threads.com",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-11-19T14:45:40Z"
+    },
+    {
+      "id": "f58550f14fcb",
+      "title": "AI for Science 第2卷第3期正式上线- 材料展望Materials Futures的博文",
+      "summary": "AI for Science 聚焦智能科学领域，构建一个兼具开放性与专业性的平台。旨在推动学术界、产业界等各界人士，在此交流具有里程碑意义的重大研究突破，探讨前沿创新理念，",
+      "highlights": [
+        "AI for Science 聚焦智能科学领域，构建一个兼具开放性与专业性的平台",
+        "旨在推动学术界、产业界等各界人士，在此交流具有里程碑意义的重大研究突破，探讨前沿创新理念，"
+      ],
+      "url": "https://blog.sciencenet.cn/blog-3658900-1561773.html",
+      "source": "blog.sciencenet.cn",
+      "category": "前沿理论",
+      "importance": 3,
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "id": "13257de321d5",
+      "title": "【國際新聞---美國商務部宣布擴大AI晶片出口管制】 ...",
+      "summary": "美國商務部對於AI晶片出口管制，在十七日宣布新規定，限制遠端可存取美國晶片及伺服器的運算資料，旨在避免他國經由第三方來存取美國的遠端計算中心算力，例如中國用美國",
+      "highlights": [
+        "美國商務部對於AI晶片出口管制，在十七日宣布新規定，限制遠端可存取美國晶片及伺服器的運算資料，旨在避免他國經由第三方來存取美國的遠端計算中心算力，例如中國用美國"
+      ],
+      "url": "https://www.instagram.com/p/Df3b6lSJCW0",
+      "source": "instagram.com",
+      "category": "芯片硬件",
+      "importance": 2,
+      "publishedAt": "2026-11-19T04:40:37Z"
+    },
+    {
+      "id": "977f0c74a6e8",
+      "title": "Alex Thong",
+      "summary": "据报道，这项研究标注了两项国家自然科学基金、两项湖南省自然科学基金，以及湘雅二医院的新员工科研启动基金支持。\n\n这些资金涉及公共财政，本应投入严肃的医学研究，如今论文却出现如此荒唐的错误，难怪公众质疑：实验到底有没有真实做过？图片是不是AI生成的？科研经费究竟花在了哪里？\n\n当然，目前还不能仅凭这些错误，就认定整篇论文由AI生成，更不能直接断言科研经费遭到套取。但如此明显的问题竟然通过审稿，堂而皇...",
+      "highlights": [
+        "据报道，这项研究标注了两项国家自然科学基金、两项湖南省自然科学基金，以及湘雅二医院的新员工科研启动基金支持",
+        "这些资金涉及公共财政，本应投入严肃的医学研究，如今论文却出现如此荒唐的错误，难怪公众质疑：实验到底有没有真实做过",
+        "科研经费究竟花在了哪里"
+      ],
+      "url": "https://www.facebook.com/alex.thong.353/posts/%E9%9C%87%E6%83%8A%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E8%A2%AB%E6%9B%9D%E5%8F%B2%E8%AF%97%E7%BA%A7%E5%85%A8ai%E8%AE%BA%E6%96%871%E5%8E%98%E7%B1%B3%E7%AB%9F%E6%9C%8912%E6%AF%AB%E7%B1%B3%E8%83%8C%E5%90%8E%E8%BF%98%E6%8C%82%E7%9D%80%E5%9B%9B%E9%A1%B9%E7%A7%91%E7%A0%94%E5%9F%BA%E9%87%91%E4%B8%AD%E5%9B%BD%E5%8C%BB%E5%AD%A6%E7%95%8C%E5%8F%88%E6%9B%9D%E5%87%BA%E4%B8%80%E6%A1%A9%E4%BB%A4%E4%BA%BA%E7%9E%A0%E7%9B%AE%E7%BB%93%E8%88%8C%E7%9A%84%E5%AD%A6%E6%9C%AF%E4%BA%89%E8%AE%AE%E8%BF%91%E6%97%A5%E4%B8%80%E7%AF%87%E7%94%B1%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E6%B9%98%E9%9B%85%E7%B3%BB%E5%8C%BB%E9%99%A2%E7%9B%B8%E5%85%B3%E7%A0%94%E7%A9%B6%E4%BA%BA%E5%91%98%E7%BD%B2%E5%90%8D%E5%8F%91/28976457395315037",
+      "source": "facebook.com",
+      "category": "前沿理论",
+      "importance": 2,
+      "publishedAt": "2026-11-19T04:40:37Z"
+    },
+    {
+      "id": "65691cef4be4",
+      "title": "Instagram",
+      "summary": "🚀 Why build one AI company when you can buy 25?  \nWhile many startups are racing to develop the next breakthrough AI product, Fractal is taking a completely different approach.  \nThe company is explor...",
+      "highlights": [
+        "🚀 Why build one AI company when you can buy 25?",
+        "While many startups are racing to develop the next breakthrough AI product, Fractal is taking a completely different approach.",
+        "The company is exploring the acquisition of up to 25 AI startups after reviewing nearly 800 companies, focusing on healthcare AI, agentic AI, and AI engineering."
+      ],
+      "url": "https://www.instagram.com/p/Df03D7FH8Tv",
+      "source": "instagram.com",
+      "category": "产品进展",
+      "importance": 2,
+      "publishedAt": "2026-11-19T14:45:40Z"
+    },
+    {
+      "id": "959c5a7fef2e",
+      "title": "你用的是研究顯微鏡還是望遠鏡？一篇看懂如何用AI 探測真正的學術「弱 ...",
+      "summary": "... AI 加速突破，而缺乏驗證能力的新進研究者則容易被AI 的流暢文字誤導。 因此，挖掘研究缺口與探測前沿的最後一哩路，必須落實人類在環（Human-in-the-loop）的治理與驗證：.",
+      "highlights": [
+        "... AI 加速突破，而缺乏驗證能力的新進研究者則容易被AI 的流暢文字誤導",
+        "因此，挖掘研究缺口與探測前沿的最後一哩路，必須落實人類在環（Human-in-the-loop）的治理與驗證：."
+      ],
+      "url": "https://news.lib.nycu.edu.tw/researches/%E4%BD%A0%E7%94%A8%E7%9A%84%E6%98%AF%E7%A0%94%E7%A9%B6%E9%A1%AF%E5%BE%AE%E9%8F%A1%E9%82%84%E6%98%AF%E6%9C%9B%E9%81%A0%E9%8F%A1%EF%BC%9F%E4%B8%80%E7%AF%87%E7%9C%8B%E6%87%82%E5%A6%82%E4%BD%95%E7%94%A8-a",
+      "source": "news.lib.nycu.edu.tw",
+      "category": "前沿理论",
+      "importance": 2,
+      "publishedAt": "2026-11-19T01:00:00Z"
+    },
+    {
+      "id": "5b124d1926de",
+      "title": "985被爆发表“史诗级全AI论文”，校方回应、监管部门介入",
+      "summary": "近日，湘雅二医院发表在Journal of Translational Medicine期刊上发表的文章的论文结果图疑似AI生成的受到热议。耿同学也对此进行了相关质疑。",
+      "highlights": [
+        "近日，湘雅二医院发表在Journal of Translational Medicine期刊上发表的文章的论文结果图疑似AI生成的受到热议",
+        "耿同学也对此进行了相关质疑"
+      ],
+      "url": "https://www.ais.cn/news/ai_for_science/46915",
+      "source": "ais.cn",
+      "category": "前沿理论",
+      "importance": 2,
+      "publishedAt": "2026-11-19T12:00:00Z"
+    }
+  ],
+  "week": [
     {
       "id": "0e2708b7b12a",
       "title": "AI: Anthropic & OpenAI Use AI to Design AI Chips. AI-RTZ #1268",
@@ -216,648 +1191,9 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-11-18T08:33:27Z"
-    },
-    {
-      "id": "c17e06c55325",
-      "title": "超级IPO，遭疯抢_凤凰网",
-      "summary": "Anthropic预计于11月19日（周四）在纳斯达克挂牌上市。此次IPO是AI行业里程碑事件，也将成为AI基础设施及相关企业的一块试金石。这家AI实验室预计在周三公布IPO最终发行价以及股份配售结果。\n\nAnthropic目标估值 1.4 万亿美元。对比数月前传出的2万亿美元目标估值有所下调，但仍显著高于本轮科技股抛售最严重时期华尔街部分机构给出的1.1万亿美元预期。\n\n据媒体此前报道，Anth...",
-      "highlights": [
-        "Anthropic预计于11月19日（周四）在纳斯达克挂牌上市",
-        "此次IPO是AI行业里程碑事件，也将成为AI基础设施及相关企业的一块试金石",
-        "这家AI实验室预计在周三公布IPO最终发行价以及股份配售结果"
-      ],
-      "url": "https://finance.ifeng.com/c/8y97YOE1zVq",
-      "source": "finance.ifeng.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-18T00:23:15Z"
-    },
-    {
-      "id": "53e8ded61fb4",
-      "title": "华尔街专家热议“Anthropic超级IPO”：是时代红利，还是高风险豪赌？",
-      "summary": "两项融资合计规模将超过SpaceX 750亿美元的基础融资方案，成为史上规模最大的一次上市融资项目。 此次IPO正值人工智能行业动荡之际：数据中心的抵制助长了民主党的蓝色浪潮",
-      "highlights": [
-        "两项融资合计规模将超过SpaceX 750亿美元的基础融资方案，成为史上规模最大的一次上市融资项目",
-        "此次IPO正值人工智能行业动荡之际：数据中心的抵制助长了民主党的蓝色浪潮"
-      ],
-      "url": "https://m.sohu.com/a/1103456011_222256?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-19T00:00:00Z"
-    },
-    {
-      "id": "c54f015429e7",
-      "title": "Anthropic的IPO推介与其对人工智能发出的警告形成对照 | Межа",
-      "summary": "OpenAI年化收入接近500亿美元，低于此前出现的700亿美元估算。由于OpenAI与Anthropic采用不同收入统计方法，两家公司的数据难以直接比较。\n 人工智能投资热潮推升亚太企业融资需求，区域公司今年通过股票交易募集资金已达3271亿美元，全年有望打破2021年纪录。\n TechCrunch Disrupt 2026主会期前后，旧金山将举办创业社群聚会、初创公司展示、技术演示及创始人与投...",
-      "highlights": [
-        "OpenAI年化收入接近500亿美元，低于此前出现的700亿美元估算",
-        "由于OpenAI与Anthropic采用不同收入统计方法，两家公司的数据难以直接比较",
-        "人工智能投资热潮推升亚太企业融资需求，区域公司今年通过股票交易募集资金已达3271亿美元，全年有望打破2021年纪录"
-      ],
-      "url": "https://mezha.net/ch/news/mezha-9497a6816755e36b87850e3f_anthropic-s-ipo-pitch-contrasts-with",
-      "source": "mezha.net",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-18T10:49:02Z"
-    },
-    {
-      "id": "6fe068259c0d",
-      "title": "Instagram",
-      "summary": "🚀🤖 \\\\Google's AI chips gain momentum!\\\\  \n  \nGoogle's TPU business could see massive growth as \\\\OpenAI and Anthropic\\\\ reportedly explore increased AI chip demand. ⚡  \n  \n📊 Analyst Ming-Chi Kuo proje...",
-      "highlights": [
-        "🚀🤖 \\\\Google's AI chips gain momentum!\\\\",
-        "Google's TPU business could see massive growth as \\\\OpenAI and Anthropic\\\\ reportedly explore increased AI chip demand. ⚡",
-        "📊 Analyst Ming-Chi Kuo projects \\\\26 million TPUs\\\\ across 2028–2029 — 12 million for OpenAI and 14 million for Anthropic."
-      ],
-      "url": "https://www.instagram.com/p/DfyxFa6JX2I",
-      "source": "instagram.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-19T04:40:37Z"
-    },
-    {
-      "id": "0e4728ac132e",
-      "title": "Google acquires Seattle startup Howie and its AI scheduling assistant – GeekWire",
-      "summary": "Howie raised a $6 million seed round led by True Ventures in September 2025, when it launched publicly out of private beta. At the time, it had more than 1,000 paying customers, including startup foun...",
-      "highlights": [
-        "Howie raised a $6 million seed round led by True Ventures in September 2025, when it launched publicly out of private beta. At the time, it had more than 1,000 paying customers, including startup founders, venture capitalists, recruiters, consultants and journalists, and was scheduling more than 5,000 meetings a week. [...] The deal comes as Google and rivals including OpenAI, Anthropic and Meta race to build AI agents that complete tasks on behalf of users. Google Labs acquired music generation platform ProducerAI earlier this year. [...] Google is bringing Seattle-based Howie, maker of an AI scheduling assistant that works from your inbox, into its Google Labs division.",
-        "Terms of the deal were not disclosed this week. Google Labs, the company’s experimental arm, announced the acquisition in a post on X, saying it “can’t wait to learn from them as we build the next generation of intuitive AI tools together for small businesses.”"
-      ],
-      "url": "https://www.geekwire.com/2026/google-acquires-seattle-startup-howie-and-its-ai-scheduling-assistant",
-      "source": "geekwire.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-18T22:03:40Z"
-    },
-    {
-      "id": "09ea9d292e29",
-      "title": "当智能开始量产，从Anthropic上市看大模型的六个趋势-36氪",
-      "summary": "## 趋势三、按智能付费，模型像生鲜一样有保质期\n\nAnthropic把自己的主要收入模式叫作按智能付费，也就是按用量计费，以token计量，按所选模型定价。2026年前三季度，按用量计费占收入的79%，订阅占21%；通过三大云平台市场实现的收入占44%；美国以外的收入占29%。\n\n有三个细节特别能说明这种模式的特点。\n\n第一，降价是在换量，不是在打价格战。2025年11月，Anthropic发布...",
-      "highlights": [
-        "## 趋势三、按智能付费，模型像生鲜一样有保质期",
-        "Anthropic把自己的主要收入模式叫作按智能付费，也就是按用量计费，以token计量，按所选模型定价",
-        "2026年前三季度，按用量计费占收入的79%，订阅占21%；通过三大云平台市场实现的收入占44%；美国以外的收入占29%"
-      ],
-      "url": "https://www.36kr.com/p/4076425441416067",
-      "source": "36kr.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-19T10:18:56Z"
-    },
-    {
-      "id": "2b6037444636",
-      "title": "AI开始优化芯片“大脑”：OpenAI称模型助自研Jalapeño与AMD GPU改善设计_凤凰网",
-      "summary": "# AI开始优化自己的“大脑”：OpenAI发布芯片设计最新成果\n\n凤凰网科技讯 北京时间11月19日，OpenAI发布最新技术报告《Advancing chip design with OpenAI models》，披露其利用人工智能模型辅助芯片设计的最新进展。OpenAI表示，其模型不仅帮助自研AI推理芯片Jalapeño优化了电路设计，还在与AMD的合作中，实现旗舰GPU关键IP模块最高14...",
-      "highlights": [
-        "# AI开始优化自己的“大脑”：OpenAI发布芯片设计最新成果",
-        "凤凰网科技讯 北京时间11月19日，OpenAI发布最新技术报告《Advancing chip design with OpenAI models》，披露其利用人工智能模型辅助芯片设计的最新进展",
-        "OpenAI表示，其模型不仅帮助自研AI推理芯片Jalapeño优化了电路设计，还在与AMD的合作中，实现旗舰GPU关键IP模块最高14%的功耗、性能和面积（PPA）指标改善"
-      ],
-      "url": "https://original.ifeng.com/c/8yAXcSbk5wZ",
-      "source": "original.ifeng.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-18T22:40:04Z"
-    },
-    {
-      "id": "75da8bc3a930",
-      "title": "OpenAI亮出AI芯片设计成果：AMD旗舰GPU获14% PPA提升，自研芯片面积减少13%|amd|gpu|处理器|cpu|openai_网易订阅",
-      "summary": "### 新闻\n\n### 体育\n\n### 娱乐\n\n### 财经\n\n### 汽车\n\n### 科技\n\n### 时尚\n\n### 手机 / 数码\n\n### 房产 / 家居\n\n### 教育\n\n# OpenAI亮出AI芯片设计成果：AMD旗舰GPU获14% PPA提升，自研芯片面积减少13%\n\n用微信扫码二维码\n\n分享至好友和朋友圈\n\n来源：环球网\n\n【环球网科技综合报道】11月19日消息，OpenAI近日发布...",
-      "highlights": [
-        "### 手机 / 数码",
-        "### 房产 / 家居",
-        "# OpenAI亮出AI芯片设计成果：AMD旗舰GPU获14% PPA提升，自研芯片面积减少13%"
-      ],
-      "url": "https://www.163.com/dy/article/LC3H94AU0514R9OJ.html",
-      "source": "163.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-19T03:16:36Z"
-    },
-    {
-      "id": "796eaf5704b3",
-      "title": "摩根士丹利亚太峰会：亚洲、人工智能与财富管理引领增长 提供者 Investing.com",
-      "summary": "## 资本市场、并购与IPO\n\nSimkowitz表示，企业并购活动已开始复苏。2022年至2025年间，GDP增长与并购交易量曾出现背离，目前多重因素正推动活动回暖：\n\n- 融资条件改善\n- 科技与生物科学领域高增长企业的IPO通道拓宽\n- 可能在2029年1月关闭的监管窗口期\n- 企业董事会与首席执行官对战略执行的兴趣日益浓厚\n\n他表示，私募股权公司仍在持续买入资产，但出售规模不及预期。他补充...",
-      "highlights": [
-        "## 资本市场、并购与IPO",
-        "Simkowitz表示，企业并购活动已开始复苏",
-        "2022年至2025年间，GDP增长与并购交易量曾出现背离，目前多重因素正推动活动回暖："
-      ],
-      "url": "https://cn.investing.com/news/transcripts/article-93CH-3676086",
-      "source": "cn.investing.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-19T06:55:39Z"
-    },
-    {
-      "id": "29bb8c2b3440",
-      "title": "Anthropic IPO造富：这些亿万富豪成为最大赢家",
-      "summary": "18日晚间，备受瞩目的Anthropic首次公开募股（IPO）发行价最终敲定每股83美元。按完全稀释口径计算，这家打造了Claude聊天机器人的AI巨头估值达1.5万亿美元。",
-      "highlights": [
-        "18日晚间，备受瞩目的Anthropic首次公开募股（IPO）发行价最终敲定每股83美元",
-        "按完全稀释口径计算，这家打造了Claude聊天机器人的AI巨头估值达1.5万亿美元"
-      ],
-      "url": "https://www.forbeschina.com/business/72405",
-      "source": "forbeschina.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-19T13:00:00Z"
-    },
-    {
-      "id": "b168855bb23e",
-      "title": "Seeds | 自动驾驶数据“老兵”转做具身智能，融了5000万|算法|机器人|大模型_网易订阅",
-      "summary": "其中，在数据采集端，柏川数据以真机遥操作、无本体数采等方式构建真实世界数据入口，基于2座具身智能实训场与300余种工/商/农业工序渠道，目前具身智能数据月产能已超过5万小时。\n\n柏川数据在运营的2座具身智能实训场，共配置了200余台人形机器人与数百套无本体数采设备，年有效具身智能数据产能达35万小时。\n\n数据管理平台端，柏川数据自研的山海数据管理平台支持标注、质检、管理、评测、仿真等关键环节，并依...",
-      "highlights": [
-        "其中，在数据采集端，柏川数据以真机遥操作、无本体数采等方式构建真实世界数据入口，基于2座具身智能实训场与300余种工/商/农业工序渠道，目前具身智能数据月产能已超过5万小时",
-        "柏川数据在运营的2座具身智能实训场，共配置了200余台人形机器人与数百套无本体数采设备，年有效具身智能数据产能达35万小时",
-        "数据管理平台端，柏川数据自研的山海数据管理平台支持标注、质检、管理、评测、仿真等关键环节，并依托AI自动化工具实现规模化数据生产"
-      ],
-      "url": "https://www.163.com/dy/article/LC3TP6BQ05278R4J.html",
-      "source": "163.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-19T06:55:05Z"
-    },
-    {
-      "id": "28d4635416cb",
-      "title": "TSMC To Invest Up To $1B in Anthropic And OpenAI",
-      "summary": "For its data center projects, OpenAI is working with several AI chip suppliers, including AMD, Broadcom, Cerebras and Nvidia.\n\nOpenAI is also developing its own AI accelerator chip, dubbed Jalapeño. O...",
-      "highlights": [
-        "For its data center projects, OpenAI is working with several AI chip suppliers, including AMD, Broadcom, Cerebras and Nvidia.",
-        "OpenAI is also developing its own AI accelerator chip, dubbed Jalapeño. OpenAI will continue to use third-party AI chips. But Jalapeño is optimized for OpenAI’s own LLMs. Thus, the company may use the Jalapeño AI chip in select LLM applications. And with Jalapeño, OpenAI isn’t totally dependent on AI chips from others. [...] Within its leased space at the various CSPs, Anthropic makes use of a multitude of servers to process its AI models. Depending on the CSP, these servers incorporate various AI chip architectures, such as Amazon’s Trainium AI chips, Google’s Tensor Processing Units (TPUs), Nvidia’s GPUs and AMD’s GPUs, according to the filing. For the most part, these AI chips are manufactured by TSMC. [...] Last month, OpenAI introduced its latest AI model. This technology, called GPT-6.1 Terra, is a faster AI model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing."
-      ],
-      "url": "https://marklapedus.substack.com/p/tsmc-to-invest-up-to-1b-in-anthropic",
-      "source": "marklapedus.substack.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-19T14:45:40Z"
-    },
-    {
-      "id": "a5971d54dbf7",
-      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free - The Verge",
-      "summary": "# Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free. Tasks in Gemini allows the AI agent to call businesses on your behalf, purchase items with Google Pay, and more. Google is rebranding its...",
-      "highlights": [
-        "# Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free. Tasks in Gemini allows the AI agent to call businesses on your behalf, purchase items with Google Pay, and more. Google is rebranding its Spark AI agent as “Tasks” and making it free to use. Users in the US will get access to a few other features, including the ability for the AI agent to call businesses to compare product pricing and check inventory, purchase items with Google Pay, and sign into accounts that support Google Password Manager. The launch of tasks in Gemini brings Spark’s capabilities to all users in the US, Canada, Japan, Korea, Australia, and India. Google says Gemini will perform tasks in a “hardware-isolated virtual machine that’s dedicated to your account and never shared with other users.” You can also provide instructions for Gemini while it completes tasks."
-      ],
-      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-      "source": "theverge.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-11-17T18:58:01Z"
-    },
-    {
-      "id": "363219391859",
-      "title": "GenAI & Agentic AI 論壇 | 【AI 突破 🤖】阿里突發次世代旗艦「Qwen4-Max」預覽版 | Facebook",
-      "summary": "• 內建進程內與記憶體事件總線，專為多節點、多代理分工協同打造。\n\n• 開發者能直接以開源方式，在自家本地伺服器建構屬於自己的高階 AI 工程團隊。\n\nImage 8: 📌 4. 軟硬一體佈局：平頭哥傳赴港上市，晶片協同擊穿算力成本！\n\n伴隨模型發表，外媒最新消息透露阿里正規劃將旗下晶片設計部門平頭哥（T-Head）分拆赴港上市。未來自研晶片將與 Qwen 旗艦模型展開深度軟硬協同優化，從底層硬體...",
-      "highlights": [
-        "• 內建進程內與記憶體事件總線，專為多節點、多代理分工協同打造",
-        "• 開發者能直接以開源方式，在自家本地伺服器建構屬於自己的高階 AI 工程團隊",
-        "Image 8: 📌 4. 軟硬一體佈局：平頭哥傳赴港上市，晶片協同擊穿算力成本"
-      ],
-      "url": "https://www.facebook.com/groups/aigctw/posts/3463389657178255",
-      "source": "facebook.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-11-19T04:40:37Z"
-    },
-    {
-      "id": "71dda2ad3cc7",
-      "title": "OpenAI想买，Anthropic看上：50亿美元拿不下",
-      "summary": "一家AI 初创，罕见地引发了OpenAI 与Anthropic 的共同关注。 据The Information 报道，OpenAI 高管及CEO Sam Altman 曾多次与这家公司交流，并一度提出50 亿美元的收购",
-      "highlights": [
-        "一家AI 初创，罕见地引发了OpenAI 与Anthropic 的共同关注",
-        "据The Information 报道，OpenAI 高管及CEO Sam Altman 曾多次与这家公司交流，并一度提出50 亿美元的收购"
-      ],
-      "url": "http://www.36kr.com/p/4076038480843904",
-      "source": "36kr.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-11-19T03:00:00Z"
     }
   ],
-  "today": [
-    {
-      "id": "53e8ded61fb4",
-      "title": "华尔街专家热议“Anthropic超级IPO”：是时代红利，还是高风险豪赌？",
-      "summary": "两项融资合计规模将超过SpaceX 750亿美元的基础融资方案，成为史上规模最大的一次上市融资项目。 此次IPO正值人工智能行业动荡之际：数据中心的抵制助长了民主党的蓝色浪潮",
-      "highlights": [
-        "两项融资合计规模将超过SpaceX 750亿美元的基础融资方案，成为史上规模最大的一次上市融资项目",
-        "此次IPO正值人工智能行业动荡之际：数据中心的抵制助长了民主党的蓝色浪潮"
-      ],
-      "url": "https://m.sohu.com/a/1103456011_222256?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "m.sohu.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-19T00:00:00Z"
-    },
-    {
-      "id": "6fe068259c0d",
-      "title": "Instagram",
-      "summary": "🚀🤖 \\\\Google's AI chips gain momentum!\\\\  \n  \nGoogle's TPU business could see massive growth as \\\\OpenAI and Anthropic\\\\ reportedly explore increased AI chip demand. ⚡  \n  \n📊 Analyst Ming-Chi Kuo proje...",
-      "highlights": [
-        "🚀🤖 \\\\Google's AI chips gain momentum!\\\\",
-        "Google's TPU business could see massive growth as \\\\OpenAI and Anthropic\\\\ reportedly explore increased AI chip demand. ⚡",
-        "📊 Analyst Ming-Chi Kuo projects \\\\26 million TPUs\\\\ across 2028–2029 — 12 million for OpenAI and 14 million for Anthropic."
-      ],
-      "url": "https://www.instagram.com/p/DfyxFa6JX2I",
-      "source": "instagram.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-19T04:40:37Z"
-    },
-    {
-      "id": "09ea9d292e29",
-      "title": "当智能开始量产，从Anthropic上市看大模型的六个趋势-36氪",
-      "summary": "## 趋势三、按智能付费，模型像生鲜一样有保质期\n\nAnthropic把自己的主要收入模式叫作按智能付费，也就是按用量计费，以token计量，按所选模型定价。2026年前三季度，按用量计费占收入的79%，订阅占21%；通过三大云平台市场实现的收入占44%；美国以外的收入占29%。\n\n有三个细节特别能说明这种模式的特点。\n\n第一，降价是在换量，不是在打价格战。2025年11月，Anthropic发布...",
-      "highlights": [
-        "## 趋势三、按智能付费，模型像生鲜一样有保质期",
-        "Anthropic把自己的主要收入模式叫作按智能付费，也就是按用量计费，以token计量，按所选模型定价",
-        "2026年前三季度，按用量计费占收入的79%，订阅占21%；通过三大云平台市场实现的收入占44%；美国以外的收入占29%"
-      ],
-      "url": "https://www.36kr.com/p/4076425441416067",
-      "source": "36kr.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-19T10:18:56Z"
-    },
-    {
-      "id": "75da8bc3a930",
-      "title": "OpenAI亮出AI芯片设计成果：AMD旗舰GPU获14% PPA提升，自研芯片面积减少13%|amd|gpu|处理器|cpu|openai_网易订阅",
-      "summary": "### 新闻\n\n### 体育\n\n### 娱乐\n\n### 财经\n\n### 汽车\n\n### 科技\n\n### 时尚\n\n### 手机 / 数码\n\n### 房产 / 家居\n\n### 教育\n\n# OpenAI亮出AI芯片设计成果：AMD旗舰GPU获14% PPA提升，自研芯片面积减少13%\n\n用微信扫码二维码\n\n分享至好友和朋友圈\n\n来源：环球网\n\n【环球网科技综合报道】11月19日消息，OpenAI近日发布...",
-      "highlights": [
-        "### 手机 / 数码",
-        "### 房产 / 家居",
-        "# OpenAI亮出AI芯片设计成果：AMD旗舰GPU获14% PPA提升，自研芯片面积减少13%"
-      ],
-      "url": "https://www.163.com/dy/article/LC3H94AU0514R9OJ.html",
-      "source": "163.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-19T03:16:36Z"
-    },
-    {
-      "id": "796eaf5704b3",
-      "title": "摩根士丹利亚太峰会：亚洲、人工智能与财富管理引领增长 提供者 Investing.com",
-      "summary": "## 资本市场、并购与IPO\n\nSimkowitz表示，企业并购活动已开始复苏。2022年至2025年间，GDP增长与并购交易量曾出现背离，目前多重因素正推动活动回暖：\n\n- 融资条件改善\n- 科技与生物科学领域高增长企业的IPO通道拓宽\n- 可能在2029年1月关闭的监管窗口期\n- 企业董事会与首席执行官对战略执行的兴趣日益浓厚\n\n他表示，私募股权公司仍在持续买入资产，但出售规模不及预期。他补充...",
-      "highlights": [
-        "## 资本市场、并购与IPO",
-        "Simkowitz表示，企业并购活动已开始复苏",
-        "2022年至2025年间，GDP增长与并购交易量曾出现背离，目前多重因素正推动活动回暖："
-      ],
-      "url": "https://cn.investing.com/news/transcripts/article-93CH-3676086",
-      "source": "cn.investing.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-19T06:55:39Z"
-    },
-    {
-      "id": "29bb8c2b3440",
-      "title": "Anthropic IPO造富：这些亿万富豪成为最大赢家",
-      "summary": "18日晚间，备受瞩目的Anthropic首次公开募股（IPO）发行价最终敲定每股83美元。按完全稀释口径计算，这家打造了Claude聊天机器人的AI巨头估值达1.5万亿美元。",
-      "highlights": [
-        "18日晚间，备受瞩目的Anthropic首次公开募股（IPO）发行价最终敲定每股83美元",
-        "按完全稀释口径计算，这家打造了Claude聊天机器人的AI巨头估值达1.5万亿美元"
-      ],
-      "url": "https://www.forbeschina.com/business/72405",
-      "source": "forbeschina.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-19T13:00:00Z"
-    },
-    {
-      "id": "b168855bb23e",
-      "title": "Seeds | 自动驾驶数据“老兵”转做具身智能，融了5000万|算法|机器人|大模型_网易订阅",
-      "summary": "其中，在数据采集端，柏川数据以真机遥操作、无本体数采等方式构建真实世界数据入口，基于2座具身智能实训场与300余种工/商/农业工序渠道，目前具身智能数据月产能已超过5万小时。\n\n柏川数据在运营的2座具身智能实训场，共配置了200余台人形机器人与数百套无本体数采设备，年有效具身智能数据产能达35万小时。\n\n数据管理平台端，柏川数据自研的山海数据管理平台支持标注、质检、管理、评测、仿真等关键环节，并依...",
-      "highlights": [
-        "其中，在数据采集端，柏川数据以真机遥操作、无本体数采等方式构建真实世界数据入口，基于2座具身智能实训场与300余种工/商/农业工序渠道，目前具身智能数据月产能已超过5万小时",
-        "柏川数据在运营的2座具身智能实训场，共配置了200余台人形机器人与数百套无本体数采设备，年有效具身智能数据产能达35万小时",
-        "数据管理平台端，柏川数据自研的山海数据管理平台支持标注、质检、管理、评测、仿真等关键环节，并依托AI自动化工具实现规模化数据生产"
-      ],
-      "url": "https://www.163.com/dy/article/LC3TP6BQ05278R4J.html",
-      "source": "163.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-19T06:55:05Z"
-    },
-    {
-      "id": "28d4635416cb",
-      "title": "TSMC To Invest Up To $1B in Anthropic And OpenAI",
-      "summary": "For its data center projects, OpenAI is working with several AI chip suppliers, including AMD, Broadcom, Cerebras and Nvidia.\n\nOpenAI is also developing its own AI accelerator chip, dubbed Jalapeño. O...",
-      "highlights": [
-        "For its data center projects, OpenAI is working with several AI chip suppliers, including AMD, Broadcom, Cerebras and Nvidia.",
-        "OpenAI is also developing its own AI accelerator chip, dubbed Jalapeño. OpenAI will continue to use third-party AI chips. But Jalapeño is optimized for OpenAI’s own LLMs. Thus, the company may use the Jalapeño AI chip in select LLM applications. And with Jalapeño, OpenAI isn’t totally dependent on AI chips from others. [...] Within its leased space at the various CSPs, Anthropic makes use of a multitude of servers to process its AI models. Depending on the CSP, these servers incorporate various AI chip architectures, such as Amazon’s Trainium AI chips, Google’s Tensor Processing Units (TPUs), Nvidia’s GPUs and AMD’s GPUs, according to the filing. For the most part, these AI chips are manufactured by TSMC. [...] Last month, OpenAI introduced its latest AI model. This technology, called GPT-6.1 Terra, is a faster AI model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing."
-      ],
-      "url": "https://marklapedus.substack.com/p/tsmc-to-invest-up-to-1b-in-anthropic",
-      "source": "marklapedus.substack.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-19T14:45:40Z"
-    },
-    {
-      "id": "363219391859",
-      "title": "GenAI & Agentic AI 論壇 | 【AI 突破 🤖】阿里突發次世代旗艦「Qwen4-Max」預覽版 | Facebook",
-      "summary": "• 內建進程內與記憶體事件總線，專為多節點、多代理分工協同打造。\n\n• 開發者能直接以開源方式，在自家本地伺服器建構屬於自己的高階 AI 工程團隊。\n\nImage 8: 📌 4. 軟硬一體佈局：平頭哥傳赴港上市，晶片協同擊穿算力成本！\n\n伴隨模型發表，外媒最新消息透露阿里正規劃將旗下晶片設計部門平頭哥（T-Head）分拆赴港上市。未來自研晶片將與 Qwen 旗艦模型展開深度軟硬協同優化，從底層硬體...",
-      "highlights": [
-        "• 內建進程內與記憶體事件總線，專為多節點、多代理分工協同打造",
-        "• 開發者能直接以開源方式，在自家本地伺服器建構屬於自己的高階 AI 工程團隊",
-        "Image 8: 📌 4. 軟硬一體佈局：平頭哥傳赴港上市，晶片協同擊穿算力成本"
-      ],
-      "url": "https://www.facebook.com/groups/aigctw/posts/3463389657178255",
-      "source": "facebook.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-11-19T04:40:37Z"
-    },
-    {
-      "id": "71dda2ad3cc7",
-      "title": "OpenAI想买，Anthropic看上：50亿美元拿不下",
-      "summary": "一家AI 初创，罕见地引发了OpenAI 与Anthropic 的共同关注。 据The Information 报道，OpenAI 高管及CEO Sam Altman 曾多次与这家公司交流，并一度提出50 亿美元的收购",
-      "highlights": [
-        "一家AI 初创，罕见地引发了OpenAI 与Anthropic 的共同关注",
-        "据The Information 报道，OpenAI 高管及CEO Sam Altman 曾多次与这家公司交流，并一度提出50 亿美元的收购"
-      ],
-      "url": "http://www.36kr.com/p/4076038480843904",
-      "source": "36kr.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-11-19T03:00:00Z"
-    },
-    {
-      "id": "faa1b8c615a1",
-      "title": "OpenAI reportedly backs new US restrictions on AI chip exports to ...",
-      "summary": "OpenAI and Anthropic are reportedly forming their own frontier-AI safety authority, potentially testing models before release without government oversight",
-      "highlights": [
-        "OpenAI and Anthropic are reportedly forming their own frontier-AI safety authority, potentially testing models before release without government oversight"
-      ],
-      "url": "https://www.reddit.com/r/AIGuild/comments/1xutnvz/openai_reportedly_backs_new_us_restrictions_on_ai",
-      "source": "reddit.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-11-19T04:40:37Z"
-    },
-    {
-      "id": "6c7aada85037",
-      "title": "尤其大廠自己能控供應鏈跟成本，當然會一直往自研ASIC 跑。GPU ...",
-      "summary": "谷歌TPU 的量已经藏不住了：TrendForce 预计今年自研ASIC 占AI 服务器出货27.8%，GPU 首次跌破70%；云厂商自研芯片出货增速44.6%，是GPU 的近3 倍，谷歌TPU 是其中出货",
-      "highlights": [
-        "谷歌TPU 的量已经藏不住了：TrendForce 预计今年自研ASIC 占AI 服务器出货27.8%，GPU 首次跌破70%；云厂商自研芯片出货增速44.6%，是GPU 的近3 倍，谷歌TPU 是其中出货"
-      ],
-      "url": "https://www.threads.com/@alicken/post/Dfzik8xoBJL/%E9%80%99%E5%80%8B%E8%B6%A8%E5%8B%A2%E5%85%B6%E5%AF%A6%E6%BB%BF%E5%90%88%E7%90%86%E7%9A%84%E5%B0%A4%E5%85%B6%E5%A4%A7%E5%BB%A0%E8%87%AA%E5%B7%B1%E8%83%BD%E6%8E%A7%E4%BE%9B%E6%87%89%E9%8F%88%E8%B7%9F%E6%88%90%E6%9C%AC%E7%95%B6%E7%84%B6%E6%9C%83%E4%B8%80%E7%9B%B4%E5%BE%80%E8%87%AA%E7%A0%94-asic-%E8%B7%91gpu-%E9%82%84%E6%98%AF%E5%BE%88%E5%BC%B7%E4%BD%86%E4%B8%8D%E4%B8%80%E5%AE%9A%E6%98%AF%E6%89%80%E6%9C%89%E5%B7%A5%E4%BD%9C%E9%83%BD%E6%9C%80%E5%88%92%E7%AE%97%E7%9A%84%E8%A7%A3%E6%B3%95%E7%9C%9F%E6%AD%A3%E6%9C%89%E8%B6%A3%E7%9A%84%E6%98%AF%E9%80%99%E4%BB%A3%E8%A1%A8-ai-%E5%9F%BA%E7%A4%8E%E8%A8%AD%E6%96%BD",
-      "source": "threads.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-11-19T14:45:40Z"
-    },
-    {
-      "id": "46ae990d4022",
-      "title": "微软自研芯片Maia 200已规模化量产ssd新闻存储新闻",
-      "summary": "这款芯片采用台积电3nm 工艺打造，搭载216GB HBM3e 高带宽内存与272MB 片上SRAM，FP4 精度下峰值算力突破10 PFLOPS。相比主流GPU 方案，在Teams、Copilot 等AI 业务",
-      "highlights": [
-        "这款芯片采用台积电3nm 工艺打造，搭载216GB HBM3e 高带宽内存与272MB 片上SRAM，FP4 精度下峰值算力突破10 PFLOPS",
-        "相比主流GPU 方案，在Teams、Copilot 等AI 业务"
-      ],
-      "url": "https://www.0101ssd.com/a/14539",
-      "source": "0101ssd.com",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-11-19T10:00:00Z"
-    },
-    {
-      "id": "75d47833d0eb",
-      "title": "SFF 2026 | 华为发布Fintelligent AI解决方案，展示金融AI规模化落地能力 - 华为企业业务",
-      "summary": "依托中国金融机构在AI规模化应用中的领先实践经验，华为正探索构建面向未来的金融智能体架构——“两超多专”：“两超”是面向客户和员工分别打造Customer Super Agent（客户超级智能体）和Employee Super Agent（员工超级智能体），理解其意图与任务，提供个性化服务，并灵活调用银行专业能力；“多专”则是围绕信贷、营销、风险、财富管理等领域构建专业智能体，通过人机多智能体协同...",
-      "highlights": [
-        "依托中国金融机构在AI规模化应用中的领先实践经验，华为正探索构建面向未来的金融智能体架构——“两超多专”：“两超”是面向客户和员工分别打造Customer Super Agent（客户超级智能体）和Employee Super Agent（员工超级智能体），理解其意图与任务，提供个性化服务，并灵活调用银行专业能力；“多专”则是围绕信贷、营销、风险、财富管理等领域构建专业智能体，通过人机多智能体协同完成复杂任务",
-        "同时，将银行在合规规则、信贷判断、营销策略和风险管理等领域积累的专家经验，转化为可调用、可复用、可持续进化的AI智能化能力",
-        "通过“两超”连接客户与员工、“多专”协同业务任务，以及专家智能的持续沉淀与进化，助力金融机构逐步构建自主进化的企业级智能体系"
-      ],
-      "url": "https://e.huawei.com/cn/news/2026/industries/finance/singapore-fintech-festival-2026",
-      "source": "e.huawei.com",
-      "category": "产品进展",
-      "importance": 4,
-      "publishedAt": "2026-11-19T11:00:00Z"
-    },
-    {
-      "id": "d5ded9fe79d1",
-      "title": "白线日报｜Anthropic IPO 募资813 亿美元，DeepSeek 新增31 家出资主体",
-      "summary": "Anthropic 创下813 亿美元IPO 纪录，Palo Alto 拟以45 亿美元收购AI 模型公司，DeepSeek 披露新增31 家出资主体。腾讯虽然实现35% 的云服务收入增长，单季自由现金流却净",
-      "highlights": [
-        "Anthropic 创下813 亿美元IPO 纪录，Palo Alto 拟以45 亿美元收购AI 模型公司，DeepSeek 披露新增31 家出资主体",
-        "腾讯虽然实现35% 的云服务收入增长，单季自由现金流却净"
-      ],
-      "url": "https://wublock123.com/articles/anthropic-ipo-81-3b-raise-deepseek-31-investors-59870",
-      "source": "wublock123.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-11-19T11:00:00Z"
-    },
-    {
-      "id": "1b4845e24fa3",
-      "title": "OpenAI",
-      "summary": "# OpenAI\nID: p4PyTakV77G9\nWebsite: www.openai.com\nHeadquarters: San Francisco, CA, United States\nLinkedIn: www.linkedin.com/company/openai · 11,730,323 followers\nIndustry: Research Services\nIndustry c...",
-      "highlights": [
-        "ID: p4PyTakV77G9",
-        "Website: www.openai.com",
-        "Headquarters: San Francisco, CA, United States"
-      ],
-      "url": "https://tavily.com/knowledge/company/p4PyTakV77G9",
-      "source": "tavily.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-11-19T14:45:40Z"
-    },
-    {
-      "id": "4b508b87880f",
-      "title": "Slush 2026: How A.I. Is Upending Company Building | Trending Topics",
-      "summary": "In 2016, Hugging Face was still a chatbot for teenagers. Today the platform is where the world builds with open A.I. Nvidia is acquiring the company, founded by the French entrepreneurs Clément Delang...",
-      "highlights": [
-        "In 2016, Hugging Face was still a chatbot for teenagers. Today the platform is where the world builds with open A.I. Nvidia is acquiring the company, founded by the French entrepreneurs Clément Delangue, Thomas Wolf and Julien Chaumond, for $12.9 billion (about 11 billion euros), one of the largest exits ever for a start-up with European founders. [...] A.I. that accelerates its own development was the topic for Richard Socher in conversation with Moritz Baier-Lentz, a senior adviser at OpenAI. The former chief scientist of Salesforce is co-founder and chief executive of Recursive, a lab working on recursive self-improvement: software that keeps building itself. Recursive emerged from stealth this spring with $650 million (about 556 million euros) in funding at a valuation of $4.65 billion. [...] Building an A.I. product has never been easier, but turning it into a durable business is as hard as ever. That was the premise of a conversation between Will Ross, co-founder and chief executive of the U.S. insurtech Federato, and Lotti Siniscalco, a general partner at Emergence Capital. Federato builds an A.I. platform for insurers and recently raised a $100 million (about 85 million euros) Series D led by Goldman Sachs Alternatives, with Emergence among its existing investors."
-      ],
-      "url": "https://www.trendingtopics.eu/slush-2026-ai-upending-company-building",
-      "source": "trendingtopics.eu",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-11-19T12:01:27Z"
-    },
-    {
-      "id": "be7cf3a5fd51",
-      "title": "London Real on Facebook: \"A $1.25 billion valuation in 2024. A reported $2.4 billion Google deal in 2025. A $48 billion valuat…\"",
-      "summary": "2021: founded as Exafunction by two MIT graduates.\n2022: a $25 million Series A, led by Greenoaks.\nJanuary 2024: valued at $500 million.\nAugust 2024: valued at $1.25 billion.\nApril 2025: OpenAI report...",
-      "highlights": [
-        "2021: founded as Exafunction by two MIT graduates.",
-        "2022: a $25 million Series A, led by Greenoaks.",
-        "January 2024: valued at $500 million."
-      ],
-      "url": "https://www.facebook.com/LondonReal/posts/a-125-billion-valuation-in-2024-a-reported-24-billion-google-deal-in-2025-a-48-b/1711741216974154",
-      "source": "facebook.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-11-19T11:05:39Z"
-    },
-    {
-      "id": "17435bb4792b",
-      "title": "高盛：2027年信用利差温和走阔，AI融资成最大变量",
-      "summary": "2027年美元投资级总发行2.4万亿、净发行1.15万亿美元，均创历史新高，驱动力是AI融资、到期墙、战略并购与美国发行人扩大欧元发行。2026年全球AI相关发行约7000亿美元",
-      "highlights": [
-        "2027年美元投资级总发行2.4万亿、净发行1.15万亿美元，均创历史新高，驱动力是AI融资、到期墙、战略并购与美国发行人扩大欧元发行",
-        "2026年全球AI相关发行约7000亿美元"
-      ],
-      "url": "https://www.163.com/dy/article/LC3AKBU805198ETO.html",
-      "source": "163.com",
-      "category": "投并购",
-      "importance": 3,
-      "publishedAt": "2026-11-19T01:00:00Z"
-    },
-    {
-      "id": "7460c7f20944",
-      "title": "超級獨角獸Anthropic的誕生AI史上最大IPO即將登場！估值上看1.4兆 ...",
-      "summary": "這輪融資總 額650 億美元，由Altimeter Capital、Dragoneer、Greenoaks、Sequoia Capital 領投，每家出資超過20 億。 機構投資人包括Baillie Gifford、Blackstone、",
-      "highlights": [
-        "這輪融資總 額650 億美元，由Altimeter Capital、Dragoneer、Greenoaks、Sequoia Capital 領投，每家出資超過20 億",
-        "機構投資人包括Baillie Gifford、Blackstone、"
-      ],
-      "url": "https://www.facebook.com/weeklyfans/posts/%E8%B6%85%E7%B4%9A%E7%8D%A8%E8%A7%92%E7%8D%B8-anthropic%E7%9A%84%E8%AA%95%E7%94%9Fai%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7ipo%E5%8D%B3%E5%B0%87%E7%99%BB%E5%A0%B4%E4%BC%B0%E5%80%BC%E4%B8%8A%E7%9C%8B14%E5%85%86%E7%BE%8E%E5%85%83%E7%9A%84anthropic-%E6%8B%9B%E8%82%A1%E6%9B%B8%E5%8D%BB%E4%B9%9F%E6%8F%AD%E9%9C%B2%E9%AB%98%E9%81%949000%E5%84%84%E7%BE%8E%E5%85%83%E7%9A%84%E7%AE%97%E5%8A%9B%E6%8E%A1%E8%B3%BC%E6%89%BF%E8%AB%BE%E7%82%BA%E5%A1%AB%E8%A3%9C%E9%BE%90%E5%A4%A7%E7%AE%97/1576806361151862",
-      "source": "facebook.com",
-      "category": "投并购",
-      "importance": 3,
-      "publishedAt": "2026-11-19T04:40:37Z"
-    },
-    {
-      "id": "0ce655412ecb",
-      "title": "而且研究還提供了 Lean 形式化驗證材料，讓其他研究者能檢查部分數學推導。 不過先別急著宣布物理學被 AI 破解。 目前這仍是候選理論，論文尚待正式同行評審，部分重要物理性質也還需要驗證。 但這件事已經夠震撼了。 當 AI 開始參與人類數十年都難以解決的數學與物理研究，科學發現的速度會變成什麼樣子？ 以前我們用 AI 幫忙寫程式、做簡報。 現在，AI 已經開始參與最前沿的理論物理證明。 你覺得下一個被 AI 突破的科學難題會是什麼？",
-      "summary": "Home\n\nNew thread\n\nSearch\n\nMessages\n\nActivity\n\nProfile\n\nInsights\n\nLog in\n\nMore\n\n# Thread\n\n86 views\n\naiposthub's profile picture\n\naiposthub\n\n而且研究還提供了 Lean 形式化驗證材料，讓其他研究者能檢查部分數學推導。\n\n不過先別急著宣布物理學被 AI 破解。\n\n...",
-      "highlights": [
-        "aiposthub's profile picture",
-        "而且研究還提供了 Lean 形式化驗證材料，讓其他研究者能檢查部分數學推導",
-        "不過先別急著宣布物理學被 AI 破解"
-      ],
-      "url": "https://www.threads.com/@aiposthub/post/Dfz4mnggaZS/%E8%80%8C%E4%B8%94%E7%A0%94%E7%A9%B6%E9%82%84%E6%8F%90%E4%BE%9B%E4%BA%86-lean-%E5%BD%A2%E5%BC%8F%E5%8C%96%E9%A9%97%E8%AD%89%E6%9D%90%E6%96%99%E8%AE%93%E5%85%B6%E4%BB%96%E7%A0%94%E7%A9%B6%E8%80%85%E8%83%BD%E6%AA%A2%E6%9F%A5%E9%83%A8%E5%88%86%E6%95%B8%E5%AD%B8%E6%8E%A8%E5%B0%8E%E4%B8%8D%E9%81%8E%E5%85%88%E5%88%A5%E6%80%A5%E8%91%97%E5%AE%A3%E5%B8%83%E7%89%A9%E7%90%86%E5%AD%B8%E8%A2%AB-ai-%E7%A0%B4%E8%A7%A3%E7%9B%AE%E5%89%8D%E9%80%99%E4%BB%8D%E6%98%AF%E5%80%99%E9%81%B8%E7%90%86%E8%AB%96%E8%AB%96%E6%96%87%E5%B0%9A%E5%BE%85%E6%AD%A3%E5%BC%8F%E5%90%8C%E8%A1%8C%E8%A9%95%E5%AF%A9%E9%83%A8%E5%88%86%E9%87%8D%E8%A6%81%E7%89%A9%E7%90%86%E6%80%A7",
-      "source": "threads.com",
-      "category": "前沿理论",
-      "importance": 3,
-      "publishedAt": "2026-11-19T14:45:40Z"
-    },
-    {
-      "id": "13257de321d5",
-      "title": "【國際新聞---美國商務部宣布擴大AI晶片出口管制】 ...",
-      "summary": "美國商務部對於AI晶片出口管制，在十七日宣布新規定，限制遠端可存取美國晶片及伺服器的運算資料，旨在避免他國經由第三方來存取美國的遠端計算中心算力，例如中國用美國",
-      "highlights": [
-        "美國商務部對於AI晶片出口管制，在十七日宣布新規定，限制遠端可存取美國晶片及伺服器的運算資料，旨在避免他國經由第三方來存取美國的遠端計算中心算力，例如中國用美國"
-      ],
-      "url": "https://www.instagram.com/p/Df3b6lSJCW0",
-      "source": "instagram.com",
-      "category": "芯片硬件",
-      "importance": 2,
-      "publishedAt": "2026-11-19T04:40:37Z"
-    },
-    {
-      "id": "977f0c74a6e8",
-      "title": "Alex Thong",
-      "summary": "据报道，这项研究标注了两项国家自然科学基金、两项湖南省自然科学基金，以及湘雅二医院的新员工科研启动基金支持。\n\n这些资金涉及公共财政，本应投入严肃的医学研究，如今论文却出现如此荒唐的错误，难怪公众质疑：实验到底有没有真实做过？图片是不是AI生成的？科研经费究竟花在了哪里？\n\n当然，目前还不能仅凭这些错误，就认定整篇论文由AI生成，更不能直接断言科研经费遭到套取。但如此明显的问题竟然通过审稿，堂而皇...",
-      "highlights": [
-        "据报道，这项研究标注了两项国家自然科学基金、两项湖南省自然科学基金，以及湘雅二医院的新员工科研启动基金支持",
-        "这些资金涉及公共财政，本应投入严肃的医学研究，如今论文却出现如此荒唐的错误，难怪公众质疑：实验到底有没有真实做过",
-        "科研经费究竟花在了哪里"
-      ],
-      "url": "https://www.facebook.com/alex.thong.353/posts/%E9%9C%87%E6%83%8A%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E8%A2%AB%E6%9B%9D%E5%8F%B2%E8%AF%97%E7%BA%A7%E5%85%A8ai%E8%AE%BA%E6%96%871%E5%8E%98%E7%B1%B3%E7%AB%9F%E6%9C%8912%E6%AF%AB%E7%B1%B3%E8%83%8C%E5%90%8E%E8%BF%98%E6%8C%82%E7%9D%80%E5%9B%9B%E9%A1%B9%E7%A7%91%E7%A0%94%E5%9F%BA%E9%87%91%E4%B8%AD%E5%9B%BD%E5%8C%BB%E5%AD%A6%E7%95%8C%E5%8F%88%E6%9B%9D%E5%87%BA%E4%B8%80%E6%A1%A9%E4%BB%A4%E4%BA%BA%E7%9E%A0%E7%9B%AE%E7%BB%93%E8%88%8C%E7%9A%84%E5%AD%A6%E6%9C%AF%E4%BA%89%E8%AE%AE%E8%BF%91%E6%97%A5%E4%B8%80%E7%AF%87%E7%94%B1%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E6%B9%98%E9%9B%85%E7%B3%BB%E5%8C%BB%E9%99%A2%E7%9B%B8%E5%85%B3%E7%A0%94%E7%A9%B6%E4%BA%BA%E5%91%98%E7%BD%B2%E5%90%8D%E5%8F%91/28976457395315037",
-      "source": "facebook.com",
-      "category": "前沿理论",
-      "importance": 2,
-      "publishedAt": "2026-11-19T04:40:37Z"
-    },
-    {
-      "id": "65691cef4be4",
-      "title": "Instagram",
-      "summary": "🚀 Why build one AI company when you can buy 25?  \nWhile many startups are racing to develop the next breakthrough AI product, Fractal is taking a completely different approach.  \nThe company is explor...",
-      "highlights": [
-        "🚀 Why build one AI company when you can buy 25?",
-        "While many startups are racing to develop the next breakthrough AI product, Fractal is taking a completely different approach.",
-        "The company is exploring the acquisition of up to 25 AI startups after reviewing nearly 800 companies, focusing on healthcare AI, agentic AI, and AI engineering."
-      ],
-      "url": "https://www.instagram.com/p/Df03D7FH8Tv",
-      "source": "instagram.com",
-      "category": "产品进展",
-      "importance": 2,
-      "publishedAt": "2026-11-19T14:45:40Z"
-    }
-  ],
-  "week": [
-    {
-      "id": "1bb8a08c86a7",
-      "title": "谷歌最强模型终于开放，但普通付费用户还用不上",
-      "summary": "在10月29日首次公开Carbon时，这一模型仅向部分网络安全防御人员开放，但当时引发了行业关注，因为模型一度登顶AI大模型评测机构Artificial Analysis的智能指数榜，超越Anthropic的Claude Opus 5.5和OpenAI的GPT-6 Astra。\n\n随着昨天Anthropic最新模型Claude Fable 5.2的发布，Carbon退居第二，但目前仍处于全球第一梯...",
-      "highlights": [
-        "在10月29日首次公开Carbon时，这一模型仅向部分网络安全防御人员开放，但当时引发了行业关注，因为模型一度登顶AI大模型评测机构Artificial Analysis的智能指数榜，超越Anthropic的Claude Opus 5.5和OpenAI的GPT-6 Astra",
-        "随着昨天Anthropic最新模型Claude Fable 5.2的发布，Carbon退居第二，但目前仍处于全球第一梯队",
-        "谷歌DeepMind 高级副总裁Koray Kavukcuoglu在博客中表示，此前谷歌公布的Gemini 4 Argon主要面向软件工程和知识工作，而Carbon更强调复杂的、多步骤的编程与调试，以及开放式的科学研究与探索"
-      ],
-      "url": "https://www.yicai.com/news/103436065.html",
-      "source": "yicai.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-17T09:00:00Z"
-    },
-    {
-      "id": "6221d1b34e8c",
-      "title": "谷歌警告：AI全自动网络攻击将在半年内到来 - 安全内参 | 决策者的网络安全知识库",
-      "summary": "谷歌表示：“在过去一个季度中，GTIG首次发现攻击者利用大模型框架，在没有人工介入的情况下，完全自动化地完成漏洞发现和利用。”\n\n“具体而言，GTIG发现了一台对外暴露的测试服务器。该服务器托管着一个用于漏洞研究和攻击武器化的多智能体框架，名为exploit\\_agent。该框架能够接入多个前沿大模型和本地部署的大模型。”\n\n谷歌通过攻击者对外暴露的测试服务器发现了这一框架。服务器中还存有被盗取的...",
-      "highlights": [
-        "谷歌表示：“在过去一个季度中，GTIG首次发现攻击者利用大模型框架，在没有人工介入的情况下，完全自动化地完成漏洞发现和利用",
-        "“具体而言，GTIG发现了一台对外暴露的测试服务器",
-        "该服务器托管着一个用于漏洞研究和攻击武器化的多智能体框架，名为exploit\\_agent"
-      ],
-      "url": "https://www.secrss.com/articles/95743",
-      "source": "secrss.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-17T09:00:00Z"
-    },
-    {
-      "id": "60153e825bc7",
-      "title": "字节投的机器人公司，要上市了-36氪",
-      "summary": "广东\n   浙江\n   四川\n   安徽\n   江苏\n\n搜索\n\n项目推荐\n\n我要入驻\n\n城市合作\n\n商业策划\n\nImage 2: 36氪\n\n# 字节投的机器人公司，要上市了\n\n直通IPO_·_ 2026年11月17日 11:18\n\n主打电动夹爪、灵巧手等机器人末端执行器。\n\n具身智能赛道的资金，正从扎堆追捧人形机器人整机本体，转向重仓上游核心部件。当不少本体公司还在依靠融资持续输血、等待通用场景落...",
-      "highlights": [
-        "Image 2: 36氪",
-        "# 字节投的机器人公司，要上市了",
-        "直通IPO_·_ 2026年11月17日 11:18"
-      ],
-      "url": "https://m.36kr.com/p/4073745359393923",
-      "source": "m.36kr.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-11-17T13:12:37Z"
-    },
-    {
-      "id": "3dc3426c65ee",
-      "title": "一周AI大事件",
-      "summary": "11月16日，阿里巴巴全新一代基座大模型Qwen4正式发布。千问AI平台首发上线Qwen4-Max，API服务与Token Plan同步支持新模型调用，面向开发者与企业全面开放。Qwen4-Max采用全新架构，总参数2.4T，具备原生视觉理解能力，可稳定完成长程任务，能力从编程与办公协作拓展至汽车制造、金融投研、科学研究等领域。在Terminal-Bench 4.0评测的相同思考档位下，较上一代平...",
-      "highlights": [
-        "11月16日，阿里巴巴全新一代基座大模型Qwen4正式发布",
-        "千问AI平台首发上线Qwen4-Max，API服务与Token Plan同步支持新模型调用，面向开发者与企业全面开放",
-        "Qwen4-Max采用全新架构，总参数2.4T，具备原生视觉理解能力，可稳定完成长程任务，能力从编程与办公协作拓展至汽车制造、金融投研、科学研究等领域"
-      ],
-      "url": "https://zhuanlan.zhihu.com/p/2106031368748716653",
-      "source": "zhuanlan.zhihu.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-17T06:00:00Z"
-    },
-    {
-      "id": "932e1ea4bf62",
-      "title": "百亿美金入场，谁在给AI4S定价|融资|诺华|药企|a轮|ipo|知名企业|独家财务顾问_网易订阅",
-      "summary": "©潮涌AI编辑部\n\n文｜盐\n\n近日，海外AI4S（AI for Science）赛道的资本消息密集落地。\n\n无论是OpenAI收购药物研发协调平台Orchestra Bio、Iambic登陆公开市场募资1.5亿美元，还是彭博报道Isomorphic Labs正以约500亿美元估值洽谈50亿美元新融资，以及Mirendil的A轮就拿到10亿美金……大额融资、巨头并购、IPO退出在年内接连出现，AI4...",
-      "highlights": [
-        "近日，海外AI4S（AI for Science）赛道的资本消息密集落地",
-        "无论是OpenAI收购药物研发协调平台Orchestra Bio、Iambic登陆公开市场募资1.5亿美元，还是彭博报道Isomorphic Labs正以约500亿美元估值洽谈50亿美元新融资，以及Mirendil的A轮就拿到10亿美金……大额融资、巨头并购、IPO退出在年内接连出现，AI4S热度背后的问题是，这些公司究竟凭什么拿到这个价格",
-        "SVTR统计了175家AI4S公司在2025年9月至2026年9月的融资，118笔已确认融资，合计约75亿美元"
-      ],
-      "url": "https://www.163.com/dy/article/LBVG9COP0556MV0F.html",
-      "source": "163.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-17T13:42:18Z"
-    },
+  "month": [
     {
       "id": "0e2708b7b12a",
       "title": "AI: Anthropic & OpenAI Use AI to Design AI Chips. AI-RTZ #1268",
@@ -962,21 +1298,6 @@
       "publishedAt": "2026-11-18T12:00:00Z"
     },
     {
-      "id": "78e8ad97e634",
-      "title": "模型降本、机器人进场、数据筑基：AI 产业在冷热分化中走向场景落地_魁卓科技-人工智能数据标注与高质量数据集服务商｜大模型·具身智能·多模态数据",
-      "summary": "在 11 月 16 日晚间举行的小鹏集团 2026 年 Q3 财报电话会上，董事长、CEO 何小鹏预告，最新版本的小鹏 Iron 将在接下来的小鹏科技日和广州车展公开亮相。按照计划，明年一季度量产的首批机器人将进入小鹏部分门店开启试用；明年二季度，小鹏将面向外部商业客户正式发布 Iron。谈及护城河，何小鹏认为关键包括硬件本体能力、规模化商业化、生产制造与销售能力，以及高质量、多样性的数据能力。I...",
-      "highlights": [
-        "在 11 月 16 日晚间举行的小鹏集团 2026 年 Q3 财报电话会上，董事长、CEO 何小鹏预告，最新版本的小鹏 Iron 将在接下来的小鹏科技日和广州车展公开亮相",
-        "按照计划，明年一季度量产的首批机器人将进入小鹏部分门店开启试用；明年二季度，小鹏将面向外部商业客户正式发布 Iron",
-        "谈及护城河，何小鹏认为关键包括硬件本体能力、规模化商业化、生产制造与销售能力，以及高质量、多样性的数据能力"
-      ],
-      "url": "https://www.kuizhuokj.com/index.php?m=home&c=View&a=index&aid=14722",
-      "source": "kuizhuokj.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-11-17T14:00:00Z"
-    },
-    {
       "id": "0b1e11617e1f",
       "title": "Partly's new repair AI beats OpenAI, Google and Anthropic on key tasks",
       "summary": "The company ran the benchmarks in November 2026, comparing Interpreter 3 with six current models including GPT-6 Astra, Gemini 4 Carbon and Claude Opus 5.5. The",
@@ -1003,156 +1324,20 @@
       "category": "模型发布",
       "importance": 5,
       "publishedAt": "2026-11-17T19:32:34Z"
-    }
-  ],
-  "month": [
+    },
     {
-      "id": "1bb8a08c86a7",
-      "title": "谷歌最强模型终于开放，但普通付费用户还用不上",
-      "summary": "在10月29日首次公开Carbon时，这一模型仅向部分网络安全防御人员开放，但当时引发了行业关注，因为模型一度登顶AI大模型评测机构Artificial Analysis的智能指数榜，超越Anthropic的Claude Opus 5.5和OpenAI的GPT-6 Astra。\n\n随着昨天Anthropic最新模型Claude Fable 5.2的发布，Carbon退居第二，但目前仍处于全球第一梯...",
+      "id": "242d9406ce03",
+      "title": "OpenAI's Self-Improvement Threshold: What GPT-6.2 Astra Really Crossed | MindStudio",
+      "summary": "There’s also a separate, more formal metric circulating in community coverage: a modified “RSI index” (recursive self-improvement index), calibrated so that 50% represents human-level researcher perfo...",
       "highlights": [
-        "在10月29日首次公开Carbon时，这一模型仅向部分网络安全防御人员开放，但当时引发了行业关注，因为模型一度登顶AI大模型评测机构Artificial Analysis的智能指数榜，超越Anthropic的Claude Opus 5.5和OpenAI的GPT-6 Astra",
-        "随着昨天Anthropic最新模型Claude Fable 5.2的发布，Carbon退居第二，但目前仍处于全球第一梯队",
-        "谷歌DeepMind 高级副总裁Koray Kavukcuoglu在博客中表示，此前谷歌公布的Gemini 4 Argon主要面向软件工程和知识工作，而Carbon更强调复杂的、多步骤的编程与调试，以及开放式的科学研究与探索"
+        "There’s also a separate, more formal metric circulating in community coverage: a modified “RSI index” (recursive self-improvement index), calibrated so that 50% represents human-level researcher performance on a given task. On this index, Astra scored around 29%, behind Gemini’s latest models and well behind Anthropic’s Fable and Opus models, which currently lead. That puts Astra’s self-improvement capability in a middle tier: higher than its predecessor, meaningfully below human parity, and [...] It’s OpenAI’s top-tier model release, positioned as the company’s equivalent to Anthropic’s Fable, intended for demanding technical and creative work. It launched alongside a cheaper sibling model called Soul.",
+        "### What does “high threshold for AI self-improvement” mean in practice? [...] It means GPT-6.2 Astra is the first model OpenAI has released publicly that measurably speeds up the people building the next generation of AI. OpenAI’s own framing is that the model helps its researchers about as much as giving each of them an extra, genuinely capable research engineer. It’s not about the model editing its own code or operating unsupervised. It’s about measured gains on real research tasks: debugging failed experiments, writing low-level code for custom chips, and training"
       ],
-      "url": "https://www.yicai.com/news/103436065.html",
-      "source": "yicai.com",
+      "url": "https://www.mindstudio.ai/blog/gpt-6-2-astra-ai-self-improvement",
+      "source": "mindstudio.ai",
       "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-17T09:00:00Z"
-    },
-    {
-      "id": "6221d1b34e8c",
-      "title": "谷歌警告：AI全自动网络攻击将在半年内到来 - 安全内参 | 决策者的网络安全知识库",
-      "summary": "谷歌表示：“在过去一个季度中，GTIG首次发现攻击者利用大模型框架，在没有人工介入的情况下，完全自动化地完成漏洞发现和利用。”\n\n“具体而言，GTIG发现了一台对外暴露的测试服务器。该服务器托管着一个用于漏洞研究和攻击武器化的多智能体框架，名为exploit\\_agent。该框架能够接入多个前沿大模型和本地部署的大模型。”\n\n谷歌通过攻击者对外暴露的测试服务器发现了这一框架。服务器中还存有被盗取的...",
-      "highlights": [
-        "谷歌表示：“在过去一个季度中，GTIG首次发现攻击者利用大模型框架，在没有人工介入的情况下，完全自动化地完成漏洞发现和利用",
-        "“具体而言，GTIG发现了一台对外暴露的测试服务器",
-        "该服务器托管着一个用于漏洞研究和攻击武器化的多智能体框架，名为exploit\\_agent"
-      ],
-      "url": "https://www.secrss.com/articles/95743",
-      "source": "secrss.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-17T09:00:00Z"
-    },
-    {
-      "id": "60153e825bc7",
-      "title": "字节投的机器人公司，要上市了-36氪",
-      "summary": "广东\n   浙江\n   四川\n   安徽\n   江苏\n\n搜索\n\n项目推荐\n\n我要入驻\n\n城市合作\n\n商业策划\n\nImage 2: 36氪\n\n# 字节投的机器人公司，要上市了\n\n直通IPO_·_ 2026年11月17日 11:18\n\n主打电动夹爪、灵巧手等机器人末端执行器。\n\n具身智能赛道的资金，正从扎堆追捧人形机器人整机本体，转向重仓上游核心部件。当不少本体公司还在依靠融资持续输血、等待通用场景落...",
-      "highlights": [
-        "Image 2: 36氪",
-        "# 字节投的机器人公司，要上市了",
-        "直通IPO_·_ 2026年11月17日 11:18"
-      ],
-      "url": "https://m.36kr.com/p/4073745359393923",
-      "source": "m.36kr.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-11-17T13:12:37Z"
-    },
-    {
-      "id": "3dc3426c65ee",
-      "title": "一周AI大事件",
-      "summary": "11月16日，阿里巴巴全新一代基座大模型Qwen4正式发布。千问AI平台首发上线Qwen4-Max，API服务与Token Plan同步支持新模型调用，面向开发者与企业全面开放。Qwen4-Max采用全新架构，总参数2.4T，具备原生视觉理解能力，可稳定完成长程任务，能力从编程与办公协作拓展至汽车制造、金融投研、科学研究等领域。在Terminal-Bench 4.0评测的相同思考档位下，较上一代平...",
-      "highlights": [
-        "11月16日，阿里巴巴全新一代基座大模型Qwen4正式发布",
-        "千问AI平台首发上线Qwen4-Max，API服务与Token Plan同步支持新模型调用，面向开发者与企业全面开放",
-        "Qwen4-Max采用全新架构，总参数2.4T，具备原生视觉理解能力，可稳定完成长程任务，能力从编程与办公协作拓展至汽车制造、金融投研、科学研究等领域"
-      ],
-      "url": "https://zhuanlan.zhihu.com/p/2106031368748716653",
-      "source": "zhuanlan.zhihu.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-17T06:00:00Z"
-    },
-    {
-      "id": "932e1ea4bf62",
-      "title": "百亿美金入场，谁在给AI4S定价|融资|诺华|药企|a轮|ipo|知名企业|独家财务顾问_网易订阅",
-      "summary": "©潮涌AI编辑部\n\n文｜盐\n\n近日，海外AI4S（AI for Science）赛道的资本消息密集落地。\n\n无论是OpenAI收购药物研发协调平台Orchestra Bio、Iambic登陆公开市场募资1.5亿美元，还是彭博报道Isomorphic Labs正以约500亿美元估值洽谈50亿美元新融资，以及Mirendil的A轮就拿到10亿美金……大额融资、巨头并购、IPO退出在年内接连出现，AI4...",
-      "highlights": [
-        "近日，海外AI4S（AI for Science）赛道的资本消息密集落地",
-        "无论是OpenAI收购药物研发协调平台Orchestra Bio、Iambic登陆公开市场募资1.5亿美元，还是彭博报道Isomorphic Labs正以约500亿美元估值洽谈50亿美元新融资，以及Mirendil的A轮就拿到10亿美金……大额融资、巨头并购、IPO退出在年内接连出现，AI4S热度背后的问题是，这些公司究竟凭什么拿到这个价格",
-        "SVTR统计了175家AI4S公司在2025年9月至2026年9月的融资，118笔已确认融资，合计约75亿美元"
-      ],
-      "url": "https://www.163.com/dy/article/LBVG9COP0556MV0F.html",
-      "source": "163.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-17T13:42:18Z"
-    },
-    {
-      "id": "0e2708b7b12a",
-      "title": "AI: Anthropic & OpenAI Use AI to Design AI Chips. AI-RTZ #1268",
-      "summary": "Google, the most vertically integrated of them all, with its TPU chips and its Gemini models. As I wrote on Tuesday in ‘Google Specializes Its TPUs as Nvidia Wobbles’ (AI-RTZ #1266), its TPU teams get...",
-      "highlights": [
-        "Google, the most vertically integrated of them all, with its TPU chips and its Gemini models. As I wrote on Tuesday in ‘Google Specializes Its TPUs as Nvidia Wobbles’ (AI-RTZ #1266), its TPU teams get early access to the latest Gemini models to design and debug the chips.",
-        "Amazon, with its Trainium chips and its own Nova models. Anthropic is one of Trainium’s biggest customers, as I discussed in ‘Amazon AI chips traction with key customers & partners’ (AI-RTZ #1094). [...] Now that same Anthropic is using Claude to design chips of its own. Every custom chip of Anthropic’s that works could mean fewer Trainium chips rented from Amazon, or fewer TPUs from Google, over time. Its biggest backers are also its chip suppliers, and soon perhaps its chip competitors.",
-        "If Anthropic or OpenAI end up with AI models far better at chip design than anyone else’s, they could keep the most cutting-edge versions to themselves, at least at first. [...] OpenAI is already there with its ‘Jalapeño’ chip, designed with help from its own frontier AI models. Meanwhile, the companies building the backup chips to Nvidia, Google, Amazon, Microsoft and Meta, are all building their own AI models. The frontier AI labs are crossing over into chips, and the chipmakers into models. It’s one of the more intriguing ‘Frenemies’ storylines in the AI Tech Wave, and it ties directly to the hottest topic in AI research right now: Recursive Self-Improvement, or"
-      ],
-      "url": "https://michaelparekh.substack.com/p/ai-anthropic-and-openai-use-ai-to",
-      "source": "michaelparekh.substack.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-18T00:04:45Z"
-    },
-    {
-      "id": "c43273ad441a",
-      "title": "OpenAI发布升级版Astra AI模型，新增安全防护措施 提供者 Investing.com",
-      "summary": "Investing.com - 周二，OpenAI发布了其高级人工智能模型Astra的最新版本。此前约两个月，该公司曾取消一次更新计划，以便实施更严格的安全措施。\n\nOpenAI表示，GPT-6.2 Astra模型专为复杂的专业任务而设计，涵盖构建金融模型和开展科学研究等应用场景，在处理高难度任务时运行效率更高。\n\n立即获取市场重要资讯提醒，使用InvestingPro——现享55折优惠。\n\nOp...",
-      "highlights": [
-        "Investing.com - 周二，OpenAI发布了其高级人工智能模型Astra的最新版本",
-        "此前约两个月，该公司曾取消一次更新计划，以便实施更严格的安全措施",
-        "OpenAI表示，GPT-6.2 Astra模型专为复杂的专业任务而设计，涵盖构建金融模型和开展科学研究等应用场景，在处理高难度任务时运行效率更高"
-      ],
-      "url": "https://cn.investing.com/news/stock-market-news/article-3673030",
-      "source": "cn.investing.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-17T18:07:33Z"
-    },
-    {
-      "id": "ad1e3c81a51b",
-      "title": "GPU企业争着做机器人芯片，整机厂商为何还想自己造？-36氪",
-      "summary": "岸芯科技的实际控制人孙尔俊，个人持股比例超过20%。进入沐曦前，他曾在海信旗下芯片业务平台、灿芯、中星微和澜起科技任职，在澜起做过产品线负责人和产品及市场总监。\n\n2020年9月，他参与创办沐曦，担任市场副总裁和首席营销官。沐曦聚焦通用GPU及高性能计算芯片研发，在国产AI算力需求大幅增长的背景下，沐曦于2025年12月登陆科创板。根据沐曦的招股书，孙尔俊于2024年8月离职，一年多后创办岸芯。\n...",
-      "highlights": [
-        "岸芯科技的实际控制人孙尔俊，个人持股比例超过20%",
-        "进入沐曦前，他曾在海信旗下芯片业务平台、灿芯、中星微和澜起科技任职，在澜起做过产品线负责人和产品及市场总监",
-        "2020年9月，他参与创办沐曦，担任市场副总裁和首席营销官"
-      ],
-      "url": "https://www.36kr.com/p/4074892228335236",
-      "source": "36kr.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-18T11:45:08Z"
-    },
-    {
-      "id": "f487b5952e48",
-      "title": "游戏显卡养出了 AI 帝国！英伟达 GPU 如何崛起，为何科技巨头又急着取代它？｜《改变世界的半导体》EP1",
-      "summary": "接着，我们回到2012年的AlexNet：两张GTX 580游戏显卡，如何参与一场改变AI历史的突破？从黄仁勋亲自把DGX-1送到OpenAI，到Tensor Core和ChatGPT，英伟达如何把芯片、软件和整套系统，逐步打造成支撑人工智能发展的计算平台？\n\n但GPU也有自己的硬伤。为什么有些程序搬上GPU，反而跑得更慢？显存容量、带宽和数据搬运，为什么会限制AI模型的设计？HBM与NVLink...",
-      "highlights": [
-        "接着，我们回到2012年的AlexNet：两张GTX 580游戏显卡，如何参与一场改变AI历史的突破",
-        "从黄仁勋亲自把DGX-1送到OpenAI，到Tensor Core和ChatGPT，英伟达如何把芯片、软件和整套系统，逐步打造成支撑人工智能发展的计算平台",
-        "但GPU也有自己的硬伤"
-      ],
-      "url": "https://www.youtube.com/watch?v=SZd4TEmTrUc",
-      "source": "youtube.com",
-      "category": "芯片硬件",
       "importance": 5,
       "publishedAt": "2026-11-18T00:00:00Z"
-    },
-    {
-      "id": "5de697a20839",
-      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop - TechCrunch",
-      "summary": "Proton, the privacy-focused tech company offering alternatives to Google and Microsoft’s tools for email, productivity apps, password management, cloud storage, and more, is now bringing its AI app Lu...",
-      "highlights": [
-        "Proton, the privacy-focused tech company offering alternatives to Google and Microsoft’s tools for email, productivity apps, password management, cloud storage, and more, is now bringing its AI app Lumo to personal computers. On Tuesday, the company launched Lumo Desktop for Windows, macOS, and Linux, allowing users to leverage its AI to carry out local tasks on their computer involving connected apps, personal files, and other automations. The app is designed to offer users more control over their personal data, as consumer AI technology becomes focused more on AI agents that can perform tasks on users’ behalf, rather than just answering questions. Proton’s idea is to offer a set of tools that let its AI access connected apps, files, and folders and automate tasks, but with more personalization over how much access the AI has. The company says users can choose which actions the AI agent takes that will need to request their approval, and it vows that the conversations and information from connected apps and files are never used to serve personalized ads or train AI models."
-      ],
-      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-      "source": "techcrunch.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-17T17:32:25Z"
     }
   ]
 }
