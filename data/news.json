@@ -1,34 +1,6 @@
 {
-  "updatedAt": "2026-11-24T16:33:31Z",
+  "updatedAt": "2026-11-25T01:40:25Z",
   "latest": [
-    {
-      "id": "28d4635416cb",
-      "title": "TSMC To Invest Up To $1B in Anthropic And OpenAI",
-      "summary": "For its data center projects, OpenAI is working with several AI chip suppliers, including AMD, Broadcom, Cerebras and Nvidia.\n\nOpenAI is also developing its own AI accelerator chip, dubbed Jalapeño. O...",
-      "highlights": [
-        "For its data center projects, OpenAI is working with several AI chip suppliers, including AMD, Broadcom, Cerebras and Nvidia.",
-        "OpenAI is also developing its own AI accelerator chip, dubbed Jalapeño. OpenAI will continue to use third-party AI chips. But Jalapeño is optimized for OpenAI’s own LLMs. Thus, the company may use the Jalapeño AI chip in select LLM applications. And with Jalapeño, OpenAI isn’t totally dependent on AI chips from others. [...] Within its leased space at the various CSPs, Anthropic makes use of a multitude of servers to process its AI models. Depending on the CSP, these servers incorporate various AI chip architectures, such as Amazon’s Trainium AI chips, Google’s Tensor Processing Units (TPUs), Nvidia’s GPUs and AMD’s GPUs, according to the filing. For the most part, these AI chips are manufactured by TSMC. [...] Last month, OpenAI introduced its latest AI model. This technology, called GPT-6.1 Terra, is a faster AI model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing."
-      ],
-      "url": "https://marklapedus.substack.com/p/tsmc-to-invest-up-to-1b-in-anthropic",
-      "source": "marklapedus.substack.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-22T22:53:02Z"
-    },
-    {
-      "id": "cc82e073695f",
-      "title": "Palo Alto in talks to acquire Israeli AI cyber startup Terra in deal that could exceed $500 million",
-      "summary": "Fintech BridgeWise heads for IPO after losing $33 million in 18 months. The AI investment-analysis company reported a $22.2 million loss in 2025 and a further $10.9 million in the first half of 2026. ...",
-      "highlights": [
-        "Fintech BridgeWise heads for IPO after losing $33 million in 18 months. The AI investment-analysis company reported a $22.2 million loss in 2025 and a further $10.9 million in the first half of 2026. Its draft prospectus puts its last private funding valuation at $158.6 million, before the planned Tel Aviv offering. [...] \"I would not be surprised if Anthropic's market cap reached $5 trillion in the not-too-distant future.\" Notable Capital invested in Anthropic at a $61.5 billion valuation in March 2025, before the launch of Claude. Managing partner Oren Yunger says the firm's stake, initially worth tens of millions of dollars, is now valued at approximately $1 billion, and that he has no intention of selling. [...] # Palo Alto in talks to acquire Israeli AI cyber startup Terra in deal that could exceed $500 million",
-        "Palo Alto in talks to acquire Israeli AI cyber startup Terra in deal that could exceed $500 million. The cybersecurity giant is negotiating to acquire the startup, which uses AI agents to simulate cyberattacks and continuously test corporate defenses. The potential acquisition would add another Israeli company to Palo Alto's expanding AI security portfolio."
-      ],
-      "url": "https://www.linkedin.com/pulse/palo-alto-talks-acquire-israeli-ai-cyber-startup-terra-svspf",
-      "source": "linkedin.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-22T19:41:00Z"
-    },
     {
       "id": "0e2708b7b12a",
       "title": "AI: Anthropic & OpenAI Use AI to Design AI Chips. AI-RTZ #1268",
@@ -282,43 +254,59 @@
       "publishedAt": "2026-11-24T10:15:10Z"
     },
     {
-      "id": "fb4292857454",
-      "title": "Can't wait for other companies like OpenAI, Google, etc to catch up",
-      "summary": "Workers at OpenAI, Anthropic, and Meta say AI is making their jobs harder, not easier. OpenAI offer $2M credits for exchange for equity models",
+      "id": "1629c7eae97b",
+      "title": "AI has solved a host of big math problems—here's why this threatens the whole field of mathematics - Phys.org",
+      "summary": "This article has been reviewed according to Science X's. Frontier (cutting-edge) AI models made by OpenAI and Anthropic made stunning progress on hundreds of open problems that have baffled mathematic...",
       "highlights": [
-        "Workers at OpenAI, Anthropic, and Meta say AI is making their jobs harder, not easier. OpenAI offer $2M credits for exchange for equity models"
+        "This article has been reviewed according to Science X's. Frontier (cutting-edge) AI models made by OpenAI and Anthropic made stunning progress on hundreds of open problems that have baffled mathematicians for decades—and centuries in some cases. First, OpenAI announced a solution to the Navier-Stokes problem—one of the seven \"millennium problems\" highlighted by the Clay Mathematics Institute in the year 2000. Second, OpenAI released a trove of over 700 papers claiming solutions, proofs or counterexamples (which show that a claim or conjecture is false) to 372 open problems that are at the forefront of mathematics research. Hugo Duminil-Copin, professor and Fields medalist (the medal is a top accolade in mathematics), from the Institute of Advanced Scientific Studies in Paris, said the dump had \"annihilated my field of research.\" He also warned that it could \"dismantle\" the discipline of mathematics. Unlike the Poincaré conjecture, a millennium problem solved by the Russian mathematician Grigori Perelman in the early 2000s, the Navier-Stokes equation (like all the other 300+ problems in the OpenAI dump) was resolved by AI agents with almost no human intervention."
       ],
-      "url": "https://www.reddit.com/r/ClaudeCode/comments/1y25cgg/cant_wait_for_other_companies_like_openai_google",
-      "source": "reddit.com",
+      "url": "https://phys.org/news/2026-11-ai-host-big-math-problems.html",
+      "source": "phys.org",
       "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-11-22T22:53:02Z"
+      "importance": 5,
+      "publishedAt": "2026-11-24T02:40:01Z"
     },
     {
-      "id": "1ce8a0f30cd3",
-      "title": "今日AI大模型新闻速览(11月23日)",
-      "summary": "AI与Claude合作证明黎曼猜想,Lean社区确认正确11月20日夜,... 国产开源大模型下载量突破100亿次据工业和信息化部数据,国产...",
+      "id": "84cfd1b9e3c3",
+      "title": "Even the best AI agents struggle with everyday life - TechCrunch",
+      "summary": "But new research suggests that even the most advanced AI models struggle to reliably and safely navigate the messy details of people’s lives. According to ShellBench, a new benchmark for everyday agen...",
       "highlights": [
-        "AI与Claude合作证明黎曼猜想,Lean社区确认正确11月20日夜,... 国产开源大模型下载量突破100亿次据工业和信息化部数据,国产..."
+        "But new research suggests that even the most advanced AI models struggle to reliably and safely navigate the messy details of people’s lives. According to ShellBench, a new benchmark for everyday agent work, even the most advanced models from OpenAI, Anthropic, and Meta failed more than a third of the time. ShellBench was developed in collaboration with researchers at The OpenClaw Foundation, Parsewave, Hugging Face, Red Hat, and UC Berkeley, drawing on more than 10 million anonymized, real-world AI agent interactions to see how agents perform on the everyday work people actually delegate to them. The research comes as personal AI assistants are finding new popularity among developers, with Meta, OpenAI, and Anthropic all fighting for a piece of the market with Muse, Dots, and Claude Duet, respectively. In October, Meta said more than 10 million people in the U.S. and Canada had set up its personal AI agent, Muse, within six weeks of launch, with about a quarter using it daily."
       ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4wOagRgUm_MN3NNiUiprwn7BgYaLXuT3lqXa8Fplpd9hXSc-ubO7tRznOPFVDskUUXejB53YNkniVpb_pkWd4VAGnkxB977l0cqJ_1A02-ZfBZ84Y_6Cq8wcqfDY37e_BKOT_KjGoIoGjt2kKfRIny67SEoBmTMYo5bSsprv5RY4YGn2jUrPNNVGJQv3TE6KlqVpvDmSEnbfnD79C2JTbc89kyxDwoXvg..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=B9B1E051267AD3C8ABADCB457849D03BAC2631696B03BD9A",
-      "source": "微信公众号",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "source": "techcrunch.com",
       "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-11-23T00:38:27Z"
+      "importance": 5,
+      "publishedAt": "2026-11-24T21:33:29Z"
     },
     {
-      "id": "038af17d635b",
-      "title": "今日AI大模型新闻速览(11月23日)",
-      "summary": "AI与Claude合作证明黎曼猜想,Lean社区确认正确11月20日夜,... 国产开源大模型下载量突破100亿次据工业和信息化部数据,国产...",
+      "id": "59d4764d5365",
+      "title": "The Return of the Open Models | Subconscious",
+      "summary": "Are open weight models irrelevant? In the past two weeks Jensen, the champion of open models, was removed from Nvidia, Anthropic had a monster IPO, and Google released their incredibly capable Gemini ...",
       "highlights": [
-        "AI与Claude合作证明黎曼猜想,Lean社区确认正确11月20日夜,... 国产开源大模型下载量突破100亿次据工业和信息化部数据,国产..."
+        "Are open weight models irrelevant? In the past two weeks Jensen, the champion of open models, was removed from Nvidia, Anthropic had a monster IPO, and Google released their incredibly capable Gemini 4 Neon model. On top of it all, there are rumors that OpenAI, Google, and Anthropic have “cracked RSI” and will accelerate even faster. Attention is firmly focused on the frontier labs.",
+        "This moment is temporary. Open models will take the spotlight in 2027 because of two forces: [...] At the same time, Anthropic has shown they are not just a vendor for intelligence but will compete with their customers directly. They collaborate with Pfizer, but they also operate a biolab themselves. They work with AI companies doing coding (Cursor), finance (Rogo), legal (Harvey), and customer support (Decagon), but they also released Claude branded products in these verticals. They use Nvidia GPUs, Google TPUs, and even AWS Trainium chips, but they’re also building their own. Anthropic is [...] own. Anthropic is using their scale and their users’ data to take over as much of the economy as possible. With the high expectations behind their IPO, they’ll need to, and the other frontier labs, Google, OpenAI, and SpaceXAI, are doing the same."
       ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4wOagRgUm_M3LSLAjFp-TL7BgYaLXuT3lqXa8Fplpd9hXSc-ubO7tRznOPFVDskUUXejB53YNkniVpb_pkWd4VAGnkxB977l0cqJ_1A02-ZfBZ84Y_6Cq8wcqfDY37e_AUE5hvHObed_mmH-dlULeDHXc2Tk62Ue-yhe9IpCpE-TSIM1-tPB0JmESEyLde99k_8tbnFcnA78cymPsd1CdItPujwwRB2Pw..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=B9B278DFA5FE504A2F294FC7FAB6A61E2FA06E9C6B03BDB7",
-      "source": "微信公众号",
+      "url": "https://www.subconscious.dev/blog/the-return-of-the-open-models",
+      "source": "subconscious.dev",
       "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-11-23T00:38:27Z"
+      "importance": 5,
+      "publishedAt": "2026-11-23T12:00:00Z"
+    },
+    {
+      "id": "b6ddfb064928",
+      "title": "Insider Tech on Facebook: \"OpenAI, Google, and Anthropic are using AI to design custom chips, potentially weakening Nvidia's gr…\"",
+      "summary": "# Insider Tech on Facebook: \"OpenAI, Google, and Anthropic are using AI to design custom chips, potentially weakening Nvidia's gr…\"\n\nOpenAI, Google, and Anthropic are using AI to design custom chips, ...",
+      "highlights": [
+        "# Insider Tech on Facebook: \"OpenAI, Google, and Anthropic are using AI to design custom chips, potentially weakening Nvidia's gr…\"",
+        "OpenAI, Google, and Anthropic are using AI to design custom chips, potentially weakening Nvidia's grip on AI computing.",
+        "(Credit: AP)"
+      ],
+      "url": "https://www.facebook.com/techinsider/posts/openai-google-and-anthropic-are-using-ai-to-design-custom-chips-potentially-weak/1512129157453222",
+      "source": "facebook.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-24T19:01:28Z"
     },
     {
       "id": "e68b84a2b96b",
@@ -333,21 +321,6 @@
       "category": "投并购",
       "importance": 4,
       "publishedAt": "2026-11-23T03:00:00Z"
-    },
-    {
-      "id": "59d898c07a78",
-      "title": "具身智能机器人应用技术员： 把机器人“教”进真实世界（新职·新知㊶）_凤凰网",
-      "summary": "投身机器人产业赛道\n\n早上处理数据采集、布置当天任务；上午清洗前一天的训练数据，启动模型训练；下午翻阅前沿论文“充电”；傍晚，再把训练结果放回真实机器人身上验证——这是蒋泽彬一天的作息表，一半时间和数据打交道，一半时间和机器人打交道。\n\n蒋泽彬毕业于慕尼黑工业大学机器人相关专业，曾在华为、宝马实习，做过云上架构，也接触过自动驾驶。\n\n2023年底，蒋泽彬选择回国，加入由宁波市政府与浙江大学熊蓉教授...",
-      "highlights": [
-        "早上处理数据采集、布置当天任务；上午清洗前一天的训练数据，启动模型训练；下午翻阅前沿论文“充电”；傍晚，再把训练结果放回真实机器人身上验证——这是蒋泽彬一天的作息表，一半时间和数据打交道，一半时间和机器人打交道",
-        "蒋泽彬毕业于慕尼黑工业大学机器人相关专业，曾在华为、宝马实习，做过云上架构，也接触过自动驾驶",
-        "2023年底，蒋泽彬选择回国，加入由宁波市政府与浙江大学熊蓉教授团队联合共建的浙江人形机器人创新中心有限公司，与一群同龄人一起，教人形机器人学本领"
-      ],
-      "url": "https://news.ifeng.com/c/8yHR5GXg18Z",
-      "source": "news.ifeng.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-11-23T00:46:04Z"
     },
     {
       "id": "8eee761605dc",
@@ -365,21 +338,6 @@
       "publishedAt": "2026-11-23T01:48:37Z"
     },
     {
-      "id": "116370ce1a87",
-      "title": "How AI Has Changed the Investment Case for Software Companies (Building product is no longer a moat)",
-      "summary": "· Hire the people: the acqui-hire. Between March 2024 and January 2026, Google, Microsoft, Amazon and Meta spent over $20 billion hiring the founding teams of AI startups without acquiring a single co...",
-      "highlights": [
-        "· Hire the people: the acqui-hire. Between March 2024 and January 2026, Google, Microsoft, Amazon and Meta spent over $20 billion hiring the founding teams of AI startups without acquiring a single company \\. The structure is consistent: a licensing fee pays off the investors, the founders and engineers join the acquirer, and a shell company is left behind. The arrangement avoids the antitrust review that a full acquisition would trigger. The pattern has continued through 2026 and widened [...] \\ The Information, “Anthropic Strikes Licensing, Acqui-Hire Deal With AI Security Startup” (13 October 2026); SecurityWeek and The New Stack (13–15 October 2026) – Anthropic–Opaque Systems.",
-        "\\ TechCrunch, “OpenAI hires team behind GV-backed AI eval platform Context.ai” (15 April 2025).",
-        "\\ Stripe, “Stripe agrees to acquire OpenRouter” (19 August 2026); The New York Times, reported by Dealroom – price of about $7.5B; The Next Web – $113M Series B at $1.3B, May 2026. [...] Capability purchases are not confined to acqui-hires or to the largest technology companies. In August 2026 Stripe agreed to acquire OpenRouter, the model gateway, for a reported $7.5 billion, three months after OpenRouter had raised its Series B at a $1.3 billion valuation \\. Stripe was buying a position in a layer it needed before that layer settled, and it paid for speed."
-      ],
-      "url": "https://www.linkedin.com/pulse/how-ai-has-changed-investment-case-software-companies-niall-norton-fonqf",
-      "source": "linkedin.com",
-      "category": "投并购",
-      "importance": 4,
-      "publishedAt": "2026-11-22T22:46:22Z"
-    },
-    {
       "id": "e78d2df670c9",
       "title": "SpaceX, Anthropic Use Innovative Financing to Raise Billions for AI Projects - Bloomberg",
       "summary": "# Tech Companies Are Getting More Creative to Raise Billions\n\n## Takeaways by Bloomberg AI\n\nThe biggest tech companies are increasingly finding that to borrow the hundreds of billions of dollars they ...",
@@ -393,155 +351,6 @@
       "category": "投并购",
       "importance": 4,
       "publishedAt": "2026-11-23T12:00:00Z"
-    },
-    {
-      "id": "5e4a886a1fba",
-      "title": "今日AI大模型新闻速览(11月23日)",
-      "summary": "AI与Claude合作证明黎曼猜想,Lean社区确认正确11月20日夜,... 国产开源大模型下载量突破100亿次据工业和信息化部数据,国产...",
-      "highlights": [
-        "AI与Claude合作证明黎曼猜想,Lean社区确认正确11月20日夜,... 国产开源大模型下载量突破100亿次据工业和信息化部数据,国产..."
-      ],
-      "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4wOagRgUm_MhUYG_tPUn3_HLm9pRHDc91qXa8Fplpd9jjJPpbqJDeHIoSV3vpQj2kSiz2jdC07dqwsDLgMVIt8jHAaEN5ou-heuFfe37f3WzN_m6Uha4OD39X28vauoBZB9TB9yQSUZxP3sTNva2q6VAg05v9U1LDIV4_3oJ8vdmdZ2mUHHc0gVS6znO8Sl2H4Jn2SU-fls5AfE4iafGUDI3OTRHYU2og..&amp;type=2&amp;query=AI %E5%A4%A7%E6%A8%A1%E5%9E%8B %E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF&amp;token=BD5FCC8A91A642593D3B5CC90E36B2153D747D1E6B046B8C",
-      "source": "微信公众号",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-11-23T00:38:27Z"
-    },
-    {
-      "id": "14773ad42aba",
-      "title": "具身智能机器人应用技术员：把机器人“教”进真实世界",
-      "summary": "蒋泽彬毕业于慕尼黑工业大学机器人相关专业，曾在华为、宝马实习，做过云上架构，也接触过自动驾驶。\n\n2023年底，蒋泽彬选择回国，加入由宁波市政府与浙江大学熊蓉教授团队联合共建的浙江人形机器人创新中心有限公司，与一群同龄人一起，教人形机器人学本领。\n\n“选择具身智能这个行业，一方面是自己很看好机器人的发展前景，另一方面也是有感于让机器人真正走进生产生活还有距离。”蒋泽彬说，彼时的机器人产品虽备受关注...",
-      "highlights": [
-        "蒋泽彬毕业于慕尼黑工业大学机器人相关专业，曾在华为、宝马实习，做过云上架构，也接触过自动驾驶",
-        "2023年底，蒋泽彬选择回国，加入由宁波市政府与浙江大学熊蓉教授团队联合共建的浙江人形机器人创新中心有限公司，与一群同龄人一起，教人形机器人学本领",
-        "“选择具身智能这个行业，一方面是自己很看好机器人的发展前景，另一方面也是有感于让机器人真正走进生产生活还有距离"
-      ],
-      "url": "https://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/sz8srm/stories//WS6b039b83e4b0e14252fcca8c.html",
-      "source": "ex.chinadaily.com.cn",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-11-23T00:00:00Z"
-    },
-    {
-      "id": "a5041aec50ab",
-      "title": "具身智能机器人应用技术员：把机器人“教”进真实世界_大风号_凤凰网",
-      "summary": "蒋泽彬毕业于慕尼黑工业大学机器人相关专业，曾在华为、宝马实习，做过云上架构，也接触过自动驾驶。\n\n2023年底，蒋泽彬选择回国，加入由宁波市政府与浙江大学熊蓉教授团队联合共建的浙江人形机器人创新中心有限公司，与一群同龄人一起，教人形机器人学本领。\n\n“选择具身智能这个行业，一方面是自己很看好机器人的发展前景，另一方面也是有感于让机器人真正走进生产生活还有距离。”蒋泽彬说，彼时的机器人产品虽备受关注...",
-      "highlights": [
-        "蒋泽彬毕业于慕尼黑工业大学机器人相关专业，曾在华为、宝马实习，做过云上架构，也接触过自动驾驶",
-        "2023年底，蒋泽彬选择回国，加入由宁波市政府与浙江大学熊蓉教授团队联合共建的浙江人形机器人创新中心有限公司，与一群同龄人一起，教人形机器人学本领",
-        "“选择具身智能这个行业，一方面是自己很看好机器人的发展前景，另一方面也是有感于让机器人真正走进生产生活还有距离"
-      ],
-      "url": "https://feng.ifeng.com/c/8yHP4aDwNf2",
-      "source": "feng.ifeng.com",
-      "category": "具身智能",
-      "importance": 4,
-      "publishedAt": "2026-11-22T23:24:30Z"
-    }
-  ],
-  "today": [
-    {
-      "id": "bb2d4ad6be64",
-      "title": "Anthropic 正在以1.4 万亿美元的估值公开上市，该公司由一群因为AI 发展 ...",
-      "summary": "内部人士正在抛售Anthropic，计划以首次公开募股（IPO）作为他们的做法。他们正在努力收回投资。 IPO后将会稀释以资助运营。这是一项亏损的风险投资，收益很高，他们",
-      "highlights": [
-        "内部人士正在抛售Anthropic，计划以首次公开募股（IPO）作为他们的做法",
-        "IPO后将会稀释以资助运营",
-        "这是一项亏损的风险投资，收益很高，他们"
-      ],
-      "url": "https://www.reddit.com/r/stocks/comments/1y03bty/anthropic_is_going_public_at_a_14_trillion?tl=zh-hans",
-      "source": "reddit.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-24T03:30:58Z"
-    },
-    {
-      "id": "235b8bc9047e",
-      "title": "再次押注云脉芯联，字节为什么看上这个“小”生意？-36氪",
-      "summary": "11月领投云脉芯联，是字节近几年在芯片投资上的一次显著动作。\n\n与此同时，字节自研芯片也多有波折。\n\n据《晚点LatePost》11月报道，字节跳动AI芯片与DPU团队负责人施云峰已提交离职申请；2026年完成流片的AI芯片性能未达预期，相关产品尚未在内部业务中大规模部署。\n\n与阿里通过平头哥建立相对完整的自研体系不同，字节的芯片布局无论自研还是对外投资都尚不足以支撑大规模业务，仍需通过外部采购满...",
-      "highlights": [
-        "11月领投云脉芯联，是字节近几年在芯片投资上的一次显著动作",
-        "与此同时，字节自研芯片也多有波折",
-        "据《晚点LatePost》11月报道，字节跳动AI芯片与DPU团队负责人施云峰已提交离职申请；2026年完成流片的AI芯片性能未达预期，相关产品尚未在内部业务中大规模部署"
-      ],
-      "url": "https://www.36kr.com/p/4083331641857670",
-      "source": "36kr.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-24T10:16:43Z"
-    },
-    {
-      "id": "f7f9e51677d6",
-      "title": "机械革命大师之路X10 解锁桌面级本地AI原算力时代 - 知乎",
-      "summary": "这款集成GPU配备6144个CUDA核心，FP4精度下稠密算力达到1 PFLOP（即 1000TOPS），这是桌面级终端首次触及“千万亿次 / 秒浮点运算” 的算力门槛 —— 在此之前，这一算力等级仅出现在数据中心级专业计算设备中。1 PFLOP的算力储备，最直接的价值是支撑大模型的原精度推理：当下主流消费级独显方案受限于32GB显存容量，运行70B参数大模型必须经过4bit量化降级，会不同程度损...",
-      "highlights": [
-        "这款集成GPU配备6144个CUDA核心，FP4精度下稠密算力达到1 PFLOP（即 1000TOPS），这是桌面级终端首次触及“千万亿次 / 秒浮点运算” 的算力门槛 —— 在此之前，这一算力等级仅出现在数据中心级专业计算设备中",
-        "1 PFLOP的算力储备，最直接的价值是支撑大模型的原精度推理：当下主流消费级独显方案受限于32GB显存容量，运行70B参数大模型必须经过4bit量化降级，会不同程度损失模型的逻辑能力与输出精度",
-        "而大师之路 X10凭借原生算力与统一内存架构，可实现70B参数大模型的本地原精度推理，无需量化妥协，从底层保障了AI输出的能力上限"
-      ],
-      "url": "https://zhuanlan.zhihu.com/p/2108553830174611353",
-      "source": "zhuanlan.zhihu.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-24T05:34:49Z"
-    },
-    {
-      "id": "6bd9834cdd3d",
-      "title": "为AI融资：IPO正在释放新信号 | 摩根大通私人银行亚洲",
-      "summary": "全球营收超过1亿美元的企业中，约85%至95%为私营企业；估值超过10亿美元、被称为“独角兽”的私营企业，合计估值已达8万亿美元，超过了全球第三大经济体的规模。一波大型IPO不太可能改变这样的增长机制。\n\n那么，是什么让企业迟迟不上市？首先是私募资本充裕。以美国风险投资募资为例：截至2026年第三季度，募资额已接近1,100亿美元，超过2025年全年的募资总额。企业也可能更希望避开围绕季度业绩的压...",
-      "highlights": [
-        "全球营收超过1亿美元的企业中，约85%至95%为私营企业；估值超过10亿美元、被称为“独角兽”的私营企业，合计估值已达8万亿美元，超过了全球第三大经济体的规模",
-        "一波大型IPO不太可能改变这样的增长机制",
-        "那么，是什么让企业迟迟不上市"
-      ],
-      "url": "https://privatebank.jpmorgan.com/apac/cn/insights/markets-and-investing/tmt/funding-ai-ipos-are-sending-a-new-signal",
-      "source": "privatebank.jpmorgan.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-24T06:00:00Z"
-    },
-    {
-      "id": "3b666ba2e00a",
-      "title": "AI-designed chips by OpenAI, Google and Anthropic threaten Nvidia's dominance | Dealroom.co",
-      "summary": "Nvidia's biggest customers, including OpenAI, Anthropic, and Google, are using AI to design their own chips. That could cut their reliance on Nvidia and erode its dominance in AI hardware. In a Novemb...",
-      "highlights": [
-        "Nvidia's biggest customers, including OpenAI, Anthropic, and Google, are using AI to design their own chips. That could cut their reliance on Nvidia and erode its dominance in AI hardware. In a November 18 report, OpenAI said its models helped shrink two parts of its custom Jalapeño chip by roughly 10% and 13%. Working with AMD, it also found performance and efficiency gains of up to 14%. Google has used its AlphaChip system on every generation of its TPUs since 2020, and Anthropic is building [...] is building an in-house chip design team. Nvidia's lead is not gone. Making chips at scale takes manufacturing partners, skilled engineers, and billions of dollars, and AI models can change faster than chips can be built. [...] # AI-designed chips by OpenAI, Google and Anthropic threaten Nvidia's dominance",
-        "● 3 hours ago"
-      ],
-      "url": "https://app.dealroom.co/news/feed/ai-designed-chips-by-openai-google-and-anthropic-threaten-nvidia-s-dominance",
-      "source": "app.dealroom.co",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-24T10:00:00Z"
-    },
-    {
-      "id": "2748ba800a9b",
-      "title": "OpenAI, Google, Anthropic Use AI to Challenge Nvidia's Chip Dominance - Business Insider",
-      "summary": "Google has used the technology to help design every generation of its own AI chips, known as TPUs, since 2020. Those chips let Google train and run its Gemini AI models efficiently.\n\nThey're also a bu...",
-      "highlights": [
-        "Google has used the technology to help design every generation of its own AI chips, known as TPUs, since 2020. Those chips let Google train and run its Gemini AI models efficiently.",
-        "They're also a business in themselves. Late last year, Anthropic signed on for a TPU deal worth tens of billions of dollars, solidifying the chips as a major challenger to Nvidia's GPUs.",
-        "## Anthropic's new chip team"
-      ],
-      "url": "https://www.businessinsider.com/openai-google-anthropic-use-ai-challenge-nvidia-chip-dominance-2026-11",
-      "source": "businessinsider.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-24T10:00:01Z"
-    },
-    {
-      "id": "b137d9481375",
-      "title": "Business Insider on Facebook: \"OpenAI, Google, and Anthropic are using AI to design custom chips, potentially weakening Nvidia's gr…\"",
-      "summary": "# Business Insider on Facebook: \"OpenAI, Google, and Anthropic are using AI to design custom chips, potentially weakening Nvidia's gr…\"\n\nOpenAI, Google, and Anthropic are using AI to design custom chi...",
-      "highlights": [
-        "# Business Insider on Facebook: \"OpenAI, Google, and Anthropic are using AI to design custom chips, potentially weakening Nvidia's gr…\"",
-        "OpenAI, Google, and Anthropic are using AI to design custom chips, potentially weakening Nvidia's grip on AI computing. Read more in the comments.",
-        "(Credit: Markus Schreiber/AP)"
-      ],
-      "url": "https://www.facebook.com/businessinsider/posts/openai-google-and-anthropic-are-using-ai-to-design-custom-chips-potentially-weak/1522579259740353",
-      "source": "facebook.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-24T10:15:10Z"
     },
     {
       "id": "1b4845e24fa3",
@@ -589,60 +398,48 @@
       "publishedAt": "2026-11-24T04:03:36Z"
     },
     {
-      "id": "7cd933081898",
-      "title": "6 Interesting Acquisitions of Early-Stage AI Startups : r/WebAfterAI",
-      "summary": "Some of the most interesting AI acquisitions aren't billion-dollar deals. Big tech companies are increasingly acquiring small AI teams, products, and…",
+      "id": "f131137e11e5",
+      "title": "AI Agent for Kernel Codegen工程师- 芯片研发- 加入字节跳动",
+      "summary": "1、负责面向自研AI芯片Kernel Codegen智能体（AI Agent）系统的设计、开发与演进，打通从模型算子需求到高性能设备Kernel自动生成、编译、验证与调优的全链路； 2",
       "highlights": [
-        "Some of the most interesting AI acquisitions aren't billion-dollar deals. Big tech companies are increasingly acquiring small AI teams, products, and…"
+        "1、负责面向自研AI芯片Kernel Codegen智能体（AI Agent）系统的设计、开发与演进，打通从模型算子需求到高性能设备Kernel自动生成、编译、验证与调优的全链路； 2"
       ],
-      "url": "https://www.reddit.com/r/WebAfterAI/comments/1y3pks6/6_interesting_acquisitions_of_earlystage_ai",
-      "source": "reddit.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-11-24T03:30:58Z"
-    },
-    {
-      "id": "dc6d1f6bc578",
-      "title": "FrenchFry, Tavia set $500M SPAC merger to build AI holding company | Dealroom News",
-      "summary": "The signal: The structure fits a broader 2026 SPAC trend toward convertible financing over common-equity PIPEs. AI-themed combinations have continued, including Yellow.ai's proposed $550 million merge...",
-      "highlights": [
-        "The signal: The structure fits a broader 2026 SPAC trend toward convertible financing over common-equity PIPEs. AI-themed combinations have continued, including Yellow.ai's proposed $550 million merger — but that target cited existing enterprise deployments and revenue, the kind of metrics that will frame judgments on FrenchFry's valuation once its SEC filing lands.",
-        "Read more: tipranks.com",
-        "Image credit: Generated with Gemini [...] # FrenchFry, Tavia set $500M SPAC merger to build AI holding company"
-      ],
-      "url": "https://dealroom.co/news/175278-frenchfry-tavia-set-500m-spac-merger-to-build-ai-holding-company",
-      "source": "dealroom.co",
+      "url": "https://jobs.bytedance.com/experienced/position/7709507550920902917/detail",
+      "source": "jobs.bytedance.com",
       "category": "产品进展",
-      "importance": 2,
-      "publishedAt": "2026-11-24T11:43:29Z"
+      "importance": 4,
+      "publishedAt": "2026-11-24T01:00:00Z"
     },
     {
-      "id": "d65474d3f398",
-      "title": "AI Startup Trends 2027: What Funded Companies Build",
-      "summary": "The 2026 Stanford AI Index estimates $344.7 billion in global private AI investment during 2025 and identifies 3,499 newly funded AI companies.",
+      "id": "d9ae6488f2f5",
+      "title": "具身智能机器人应用技术员：把机器人“教”进真实世界 - 中国日报网",
+      "summary": "蒋泽彬毕业于慕尼黑工业大学机器人相关专业，曾在华为、宝马实习，做过云上架构，也接触过自动驾驶。\n\n2023年底，蒋泽彬选择回国，加入由宁波市政府与浙江大学熊蓉教授团队联合共建的浙江人形机器人创新中心有限公司，与一群同龄人一起，教人形机器人学本领。\n\n“选择具身智能这个行业，一方面是自己很看好机器人的发展前景，另一方面也是有感于让机器人真正走进生产生活还有距离。”蒋泽彬说，彼时的机器人产品虽备受关注...",
       "highlights": [
-        "The 2026 Stanford AI Index estimates $344.7 billion in global private AI investment during 2025 and identifies 3,499 newly funded AI companies."
+        "蒋泽彬毕业于慕尼黑工业大学机器人相关专业，曾在华为、宝马实习，做过云上架构，也接触过自动驾驶",
+        "2023年底，蒋泽彬选择回国，加入由宁波市政府与浙江大学熊蓉教授团队联合共建的浙江人形机器人创新中心有限公司，与一群同龄人一起，教人形机器人学本领",
+        "“选择具身智能这个行业，一方面是自己很看好机器人的发展前景，另一方面也是有感于让机器人真正走进生产生活还有距离"
       ],
-      "url": "https://bigideasdb.com/ai-startup-trends-2027",
-      "source": "bigideasdb.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-11-24T05:00:00Z"
+      "url": "http://caijing.chinadaily.com.cn/a/202611/23/WS6b039b83e4b0e14252fcca8c.html",
+      "source": "caijing.chinadaily.com.cn",
+      "category": "具身智能",
+      "importance": 4,
+      "publishedAt": "2026-11-23T01:48:37Z"
     },
     {
-      "id": "8c1c49a3c471",
-      "title": "FrenchFry Holdings, an AI-native holding company, and Tavia ...",
-      "summary": "... 2026 (GLOBE NEWSWIRE) -- FrenchFry Acquisitions LLC (“FrenchFry”), an AI-native holding company that builds, invests in and acquires businesses run on a shared",
+      "id": "00fb3f3d40fd",
+      "title": "AI is ‘the end of mathematics as we know it’ — where does the field go next? - Nature",
+      "summary": "# AI is ‘the end of mathematics as we know it’ — where does the field go next? On 6 October, OpenAI, the maker of ChatGPT, released more than 700 preprints written by AI, claiming to have solved more ...",
       "highlights": [
-        "... 2026 (GLOBE NEWSWIRE) -- FrenchFry Acquisitions LLC (“FrenchFry”), an AI-native holding company that builds, invests in and acquires businesses run on a shared"
+        "# AI is ‘the end of mathematics as we know it’ — where does the field go next? On 6 October, OpenAI, the maker of ChatGPT, released more than 700 preprints written by AI, claiming to have solved more than 300 major open problems in mathematics. Depending on who you ask, this was either the most progress or the most catastrophic development ever to happen in one day in the history of the field — or both. “It’s probably the end of mathematics as we know it,” theoretical physicist Miranda Cheng said at an emergency meeting on mathematics and AI at the Royal Society in London in late October. And mathematicians across the world have joined frantic collective efforts to confront challenges raised by AI’s advances, from how to evaluate and publish research papers to how to raise future generations of mathematicians."
       ],
-      "url": "https://finance.yahoo.com/technology/ai/articles/frenchfry-holdings-ai-native-holding-110000903.html",
-      "source": "finance.yahoo.com",
-      "category": "投并购",
-      "importance": 2,
-      "publishedAt": "2026-11-24T10:00:00Z"
+      "url": "https://www.nature.com/articles/d41586-026-03719-3",
+      "source": "nature.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-24T00:00:00Z"
     }
   ],
+  "today": [],
   "week": [
     {
       "id": "0e2708b7b12a",
@@ -869,21 +666,6 @@
   ],
   "month": [
     {
-      "id": "d1dba419f308",
-      "title": "融资收购SK海力士？孙正义一度考虑“万亿豪赌” 已接洽华尔街_老虎社区_美港股上老虎 - 老虎社区",
-      "summary": "软银创始人孙正义的AI扩张野心，再度瞄准全球存储芯片巨头。\n\n据The Information近日报道援引知情人士，孙正义近期曾就收购韩国SK海力士一事接触华尔街机构，探讨融资可能性，交易规模或高达1万亿美元。不过，软银随后确认曾探讨这一方案，但表示目前已不再积极推进。软银发言人称：“软银会探索许多机会，这一项目目前已不在积极考虑之列。”\n\n若这项收购计划最终落地，软银原本有望直接切入全球存储芯片...",
-      "highlights": [
-        "软银创始人孙正义的AI扩张野心，再度瞄准全球存储芯片巨头",
-        "据The Information近日报道援引知情人士，孙正义近期曾就收购韩国SK海力士一事接触华尔街机构，探讨融资可能性，交易规模或高达1万亿美元",
-        "不过，软银随后确认曾探讨这一方案，但表示目前已不再积极推进"
-      ],
-      "url": "https://www.laohu8.com/news/2685199309",
-      "source": "laohu8.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-22T06:00:00Z"
-    },
-    {
       "id": "28d4635416cb",
       "title": "TSMC To Invest Up To $1B in Anthropic And OpenAI",
       "summary": "For its data center projects, OpenAI is working with several AI chip suppliers, including AMD, Broadcom, Cerebras and Nvidia.\n\nOpenAI is also developing its own AI accelerator chip, dubbed Jalapeño. O...",
@@ -910,21 +692,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-11-22T19:41:00Z"
-    },
-    {
-      "id": "906f0b7116c1",
-      "title": "融资收购SK海力士？孙正义一度考虑“万亿豪赌”",
-      "summary": "作者：李佳，华尔街见闻\n\n软银创始人孙正义的AI扩张野心，再度瞄准全球存储芯片巨头。\n\n据The Information近日报道援引知情人士，孙正义近期曾就收购韩国SK海力士一事接触华尔街机构，探讨融资可能性，交易规模或高达1万亿美元。不过，软银随后确认曾探讨这一方案，但表示目前已不再积极推进。软银发言人称：“软银会探索许多机会，这一项目目前已不在积极考虑之列。”\n\n若这项收购计划最终落地，软银原...",
-      "highlights": [
-        "作者：李佳，华尔街见闻",
-        "软银创始人孙正义的AI扩张野心，再度瞄准全球存储芯片巨头",
-        "据The Information近日报道援引知情人士，孙正义近期曾就收购韩国SK海力士一事接触华尔街机构，探讨融资可能性，交易规模或高达1万亿美元"
-      ],
-      "url": "https://m.jinse2.com/blockchain/3741324.html",
-      "source": "m.jinse2.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-22T04:00:00Z"
     },
     {
       "id": "0e2708b7b12a",
@@ -1015,6 +782,36 @@
       "category": "产品进展",
       "importance": 5,
       "publishedAt": "2026-11-23T06:54:01Z"
+    },
+    {
+      "id": "a916270244e6",
+      "title": "Anthropic万亿上市，搅动的却是半导体江湖_澎湃号·湃客_澎湃新闻-The Paper",
+      "summary": "- +1\n\n# Anthropic万亿上市，搅动的却是半导体江湖\n\n11月19日，人工智能大模型公司Anthropic正式在纳斯达克挂牌，股票代码“ANT”。此次IPO最终以每股83美元定价，高于此前70美元至78美元的推介\n\n区间，基础发行9.8亿股，募资约813.4亿美元，超过SpaceX今年6月创下的全球IPO募资纪录；上市首日开盘价升至111.50美元，收盘涨约17%，公司估值站上万亿美元...",
+      "highlights": [
+        "# Anthropic万亿上市，搅动的却是半导体江湖",
+        "11月19日，人工智能大模型公司Anthropic正式在纳斯达克挂牌，股票代码“ANT”",
+        "此次IPO最终以每股83美元定价，高于此前70美元至78美元的推介"
+      ],
+      "url": "https://www.thepaper.cn/newsDetail_forward_34533205",
+      "source": "thepaper.cn",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-23T07:04:40Z"
+    },
+    {
+      "id": "bb2d4ad6be64",
+      "title": "Anthropic 正在以1.4 万亿美元的估值公开上市，该公司由一群因为AI 发展 ...",
+      "summary": "内部人士正在抛售Anthropic，计划以首次公开募股（IPO）作为他们的做法。他们正在努力收回投资。 IPO后将会稀释以资助运营。这是一项亏损的风险投资，收益很高，他们",
+      "highlights": [
+        "内部人士正在抛售Anthropic，计划以首次公开募股（IPO）作为他们的做法",
+        "IPO后将会稀释以资助运营",
+        "这是一项亏损的风险投资，收益很高，他们"
+      ],
+      "url": "https://www.reddit.com/r/stocks/comments/1y03bty/anthropic_is_going_public_at_a_14_trillion?tl=zh-hans",
+      "source": "reddit.com",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-24T03:30:58Z"
     }
   ]
 }
