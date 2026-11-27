@@ -1,6 +1,556 @@
 {
-  "updatedAt": "2026-11-27T01:11:59Z",
+  "updatedAt": "2026-11-27T15:41:45Z",
   "latest": [
+    {
+      "id": "6cccf24add96",
+      "title": "物理AI走向完整智能体竞争，小鹏发布图灵具身智能架构 - 风口财经",
+      "summary": "作为这套架构的关键部分，第二代 VLA 已在量产车型中持续迭代。据小鹏披露，第二代 VLA 正式推送首月，辅助驾驶里程占比突破 50%。2026 年 7 月起，搭载第二代 VLA 的小鹏NGP先后在德国、荷兰、法国完成本地性泛化测试；11 月，小鹏 NGP 开启法国巴黎门店试驾，成为首家在欧洲开放高阶智驾面向公众体验的中国车企。从国内规模应用到海外道路验证，第二代 VLA 持续接受不同交通环境的检...",
+      "highlights": [
+        "作为这套架构的关键部分，第二代 VLA 已在量产车型中持续迭代",
+        "据小鹏披露，第二代 VLA 正式推送首月，辅助驾驶里程占比突破 50%",
+        "2026 年 7 月起，搭载第二代 VLA 的小鹏NGP先后在德国、荷兰、法国完成本地性泛化测试；11 月，小鹏 NGP 开启法国巴黎门店试驾，成为首家在欧洲开放高阶智驾面向公众体验的中国车企"
+      ],
+      "url": "https://www.fengkouapp.com/news.html?id=1323069352035225600&type=news",
+      "source": "fengkouapp.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-11-25T16:00:00Z"
+    },
+    {
+      "id": "92e572c57ffb",
+      "title": "从技术突破到规模应用 小鹏探索物理AI产业化新路径-经济参考网 _ 新华社《经济参考报》官方网站",
+      "summary": "11月25日，第八届小鹏科技日在广州举行。围绕物理AI从技术创新走向产业化，小鹏发布了贯通模型、控制与硬件的图灵具身智能架构，以及智能驾驶、Robotaxi、人形机器人IRON等业务的最新进展。\n\n与生成文字、图像的能力不同，当AI开始驾驶汽车、操控机器人、参与现实生产与服务，其竞争焦点不再只是模型能否理解和判断，还包括能否在复杂环境中安全、稳定地行动，以及能否以可控成本实现规模应用。对此，小鹏集...",
+      "highlights": [
+        "11月25日，第八届小鹏科技日在广州举行",
+        "围绕物理AI从技术创新走向产业化，小鹏发布了贯通模型、控制与硬件的图灵具身智能架构，以及智能驾驶、Robotaxi、人形机器人IRON等业务的最新进展",
+        "与生成文字、图像的能力不同，当AI开始驾驶汽车、操控机器人、参与现实生产与服务，其竞争焦点不再只是模型能否理解和判断，还包括能否在复杂环境中安全、稳定地行动，以及能否以可控成本实现规模应用"
+      ],
+      "url": "http://jjckb.xinhuanet.com/20261126/c807f760e28a4fd09f47af779b01e312/c.html",
+      "source": "jjckb.xinhuanet.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-11-26T00:00:00Z"
+    },
+    {
+      "id": "2d4b07fd7a77",
+      "title": "2026小鹏科技日发布图灵具身智能架构，人形机器人明年将进店“实习” _ 东方财富网",
+      "summary": "独立上岗还要解决一些日常问题。比如，电量不足时，机器人能否自行充电，再回到岗位？IRON支持自主补能、返岗和异常上报。为检验岗位能力，小鹏机器人数据工厂围绕250多个场景、15类岗位开展数据采集与训练验证。按照规划，IRON预计于2027年1月进入硬件量产阶段，第一季度进店实习，目标将在第二季度正式对外发布。\n\n从辅助驾驶到能量回收，技术升级延伸至存量车型\n\n在汽车上，这套架构带来的变化，可以从驾...",
+      "highlights": [
+        "独立上岗还要解决一些日常问题",
+        "比如，电量不足时，机器人能否自行充电，再回到岗位",
+        "IRON支持自主补能、返岗和异常上报"
+      ],
+      "url": "https://finance.eastmoney.com/a/202611263940426868.html",
+      "source": "finance.eastmoney.com",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-11-26T02:00:00Z"
+    },
+    {
+      "id": "425805e04fde",
+      "title": "OpenAI掀桌，GPT-6跨界蛋白质设计！不调用任何生物模型，96%准确率碾压专业工具",
+      "summary": "刚降维打击了具身智能行业后，OpenAI开始向着AI for Science的战场逼近了。\n\n近日，OpenAI发布最新论文预印本，展示了其前沿通用大模型GPT-6在蛋白质结构设计、氨基酸序列设计以及抗体改造的能力，并附带了湿实验室验证。\n\n结果显示，GPT-6在仅靠自有推理和代码设计，不调用任何专业生物学模型的情况下，完成了14项蛋白质设计与预测基准任务。\n\n在部分领域GPT甚至超越了垂类大模型...",
+      "highlights": [
+        "刚降维打击了具身智能行业后，OpenAI开始向着AI for Science的战场逼近了",
+        "近日，OpenAI发布最新论文预印本，展示了其前沿通用大模型GPT-6在蛋白质结构设计、氨基酸序列设计以及抗体改造的能力，并附带了湿实验室验证",
+        "结果显示，GPT-6在仅靠自有推理和代码设计，不调用任何专业生物学模型的情况下，完成了14项蛋白质设计与预测基准任务"
+      ],
+      "url": "https://www.phirda.com/artilce_44320.html?module=trackingCodeGenerator",
+      "source": "phirda.com",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-11-25T19:00:00Z"
+    },
+    {
+      "id": "25778a7c49e2",
+      "title": "AI发现物理学“大一统理论”？斯坦福学者联手GPT-6 Astra，提出量子引力新框架_搜狐网",
+      "summary": "## AI发现物理学“大一统理论”？斯坦福学者联手GPT-6 Astra，提出量子引力新框架\n\nAI正在从科研助手走向基础科学研究的深水区。一项由斯坦福大学物理学家与OpenAI GPT-6 Astra合作开展的量子引力研究，引发了科技与物理学界关注。不少网友将其称为“AI发现大一统理论”，认为这可能为统一广义相对论与量子力学带来新的突破。\n\n11月25日，斯坦福大学莱因韦伯理论物理研究所物理学家...",
+      "highlights": [
+        "## AI发现物理学“大一统理论”",
+        "斯坦福学者联手GPT-6 Astra，提出量子引力新框架",
+        "AI正在从科研助手走向基础科学研究的深水区"
+      ],
+      "url": "https://m.sohu.com/a/1106797555_130887?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "m.sohu.com",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-11-26T09:00:00Z"
+    },
+    {
+      "id": "7e1588a75269",
+      "title": "刚刚，谷歌甩出6篇数学大结果，整数分解算法迎来34年来新突破-36氪",
+      "summary": "# 刚刚，谷歌甩出6篇数学大结果，整数分解算法迎来34年来新突破\n\n这黎曼猜想，那千禧年难题的，大家先停一停。\n\n因为咱老谷歌一个猛子扎进数学圈，带着自家AI杀过来了！！！\n\n就在刚刚，谷歌集中公开了由Gemini 4驱动的数学研究Agent系统Cogentic自主完成的6项研究成果。\n\n从现代密码学的底层难题，到困扰数学界半个多世纪的经典猜想，这波Gemini 4专挑硬骨头啃：\n\n没啥体感是吧，...",
+      "highlights": [
+        "# 刚刚，谷歌甩出6篇数学大结果，整数分解算法迎来34年来新突破",
+        "这黎曼猜想，那千禧年难题的，大家先停一停",
+        "因为咱老谷歌一个猛子扎进数学圈，带着自家AI杀过来了"
+      ],
+      "url": "https://www.36kr.com/p/4085948825676164",
+      "source": "36kr.com",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-11-26T03:51:31Z"
+    },
+    {
+      "id": "adf9b95a37e2",
+      "title": "谷歌研究院发布6篇由AI完成的数学论文，包含数论、博弈论、图论_新浪财经",
+      "summary": "其中一篇改进了固定特征有限域上离散对数问题的严格时间上界，但这类小特征有限域早在 2014 年之后便已退出密码学实用范畴，并不涉及当前主流的素数域或椭圆曲线加密体系；另一篇面向通信复杂度中的对数秩猜想（Log-Rank conjecture），宣称首次“微幅”（甚至不是小幅）突破了困扰学界十余年的根号级壁垒，离彻底解决猜想还有很远。\n\n最后一篇则针对图论中 1964 年提出的弗兰克·哈拉里（Fra...",
+      "highlights": [
+        "其中一篇改进了固定特征有限域上离散对数问题的严格时间上界，但这类小特征有限域早在 2014 年之后便已退出密码学实用范畴，并不涉及当前主流的素数域或椭圆曲线加密体系；另一篇面向通信复杂度中的对数秩猜想（Log-Rank conjecture），宣称首次“微幅”（甚至不是小幅）突破了困扰学界十余年的根号级壁垒，离彻底解决猜想还有很远",
+        "最后一篇则针对图论中 1964 年提出的弗兰克·哈拉里（Frank Harary）边重构猜想（edge reconstruction conjecture），将猜想成立所需的图边密度条件从超线性放宽到了顶点数的线性倍数级别",
+        "4001102288 欢迎批评指正"
+      ],
+      "url": "https://t.cj.sina.cn/articles/view/1654203637/629924f5020018gcf",
+      "source": "t.cj.sina.cn",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-11-26T03:13:27Z"
+    },
+    {
+      "id": "78af20da024b",
+      "title": "What are AI chips, and what’s so special about Nvidia’s? | National News | U.S. News",
+      "summary": "These foundation models, exemplified by Google’s Gemini, Anthropic’s Claude Fable and OpenAI’s GPT Astra, are very large neural networks that can reason, write software code and analyze information in...",
+      "highlights": [
+        "These foundation models, exemplified by Google’s Gemini, Anthropic’s Claude Fable and OpenAI’s GPT Astra, are very large neural networks that can reason, write software code and analyze information in response to plain language instructions. The companies working on foundation model training are betting that the best models will automate much of the world’s information work and generate enormous economic returns. [...] The growth of these new transformer models has also led to the current boom of generative AI companies, including U.S.-based companies OpenAI, Anthropic, Meta, Google and xAI, as well as Chinese companies such as DeepSeek, Alibaba and Baidu. Each of these companies is actively focused on building large data centers composed of high-end GPUs to train next-generation foundation models. [...] Because Nvidia had spent years building CUDA and the software around it, it was positioned to benefit more than anyone. Competitors, including AMD, which also makes GPUs, and Google, which designs its own AI chips, called tensor processing units, have since built strong alternatives."
+      ],
+      "url": "https://www.usnews.com/news/national-news/articles/2026-11-26/what-are-ai-chips-and-whats-so-special-about-nvidias",
+      "source": "usnews.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-25T16:43:00Z"
+    },
+    {
+      "id": "f60a979ca5b6",
+      "title": "金融汪 on X: \"看我的Substack的文章https://jinrongwang.substack.com/p/aiai?r=93s8ia&utm_medium=ios 【英伟达面临的竞争态势及其扶持的AI生态规模…\"",
+      "summary": "# 金融汪 on X: \"看我的Substack的文章 【英伟达面临的竞争态势及其扶持的AI生态规模…\"\n\n看我的Substack的文章\n【英伟达面临的竞争态势及其扶持的AI生态规模】\n“在已公布的、计划于 2026 年或之后部署的前沿实验室计算容量协议（共约 43.86 GW）中，英伟达 GPU 的占比骤降至 28%（12.11 GW），其余 72% 的市场已被竞争对手瓜分(加速芯片主要包含通用...",
+      "highlights": [
+        "# 金融汪 on X: \"看我的Substack的文章 【英伟达面临的竞争态势及其扶持的AI生态规模…\"",
+        "看我的Substack的文章",
+        "【英伟达面临的竞争态势及其扶持的AI生态规模】"
+      ],
+      "url": "https://x.com/yuyy614893671/status/2125986195406786609",
+      "source": "x.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-26T16:13:02Z"
+    },
+    {
+      "id": "2e5efe4d513d",
+      "title": "人工智能(AI)数据中心业界因贷款和企业公开(IPO)市场的同时萎缩,资金筹措面临困难。 由于美国加强AI半导体出口管制,亚洲银行接连中断或重新讨论与中国大技术相关的数十亿美元规模的数据中心融资。 随.. - MK",
+      "summary": "上市市场也出现了异常现象。 《金融时报》(FT)当天报道说,NVIDIA投资的英国数据中心企业Nscale正在讨论推迟IPO,暂时维持非上市状态的方案。 Enscale首席执行官(CEO)乔希•佩恩在前一天的全体职员会议上表示:\"考虑到到目前为止确保的资金,短期内可能会成为非上市企业。\" 只是维持了尽快上市的目标。\n\n今年9月向纽约证券交易所(NYSE)申请上市的Nscale的目标企业价值为350...",
+      "highlights": [
+        "上市市场也出现了异常现象",
+        "《金融时报》(FT)当天报道说,NVIDIA投资的英国数据中心企业Nscale正在讨论推迟IPO,暂时维持非上市状态的方案",
+        "Enscale首席执行官(CEO)乔希•佩恩在前一天的全体职员会议上表示:\"考虑到到目前为止确保的资金,短期内可能会成为非上市企业"
+      ],
+      "url": "https://www.mk.co.kr/cn/it/12219809",
+      "source": "mk.co.kr",
+      "category": "投并购",
+      "importance": 5,
+      "publishedAt": "2026-11-26T20:56:40Z"
+    },
+    {
+      "id": "5f4657ec465a",
+      "title": "小鹏汽车发布IRON人形机器人 拟实现每2.5分钟下线一台 | AIFOD",
+      "summary": "背景：过去几年中，中国及全球的多家汽车制造商已逐步将具身智能机器人视为智能出行技术的自然延伸。汽车制造企业在自动驾驶感知算法、机器视觉、电池能源管理、规模化流水线制造以及电驱动总成方面积累了深厚的技术与供应链资源。包括特斯拉Optimus项目在内的行业实践表明，车企正试图复用其汽车产线工程能力来解决双足机器人的硬件落地瓶颈。\n\n背景：在推出IRON之前，小鹏汽车已通过自动驾驶技术研发和早期的机器马...",
+      "highlights": [
+        "背景：过去几年中，中国及全球的多家汽车制造商已逐步将具身智能机器人视为智能出行技术的自然延伸",
+        "汽车制造企业在自动驾驶感知算法、机器视觉、电池能源管理、规模化流水线制造以及电驱动总成方面积累了深厚的技术与供应链资源",
+        "包括特斯拉Optimus项目在内的行业实践表明，车企正试图复用其汽车产线工程能力来解决双足机器人的硬件落地瓶颈"
+      ],
+      "url": "https://af.net/zh/realtime/xpeng-unveils-iron-robot-with-2-5-minute-mass-production-goal",
+      "source": "af.net",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-11-25T20:00:00Z"
+    },
+    {
+      "id": "de36fed3390c",
+      "title": "2026 年度 AI 报告精选：从30 份研究，读懂这一年的技术、产业与治理",
+      "summary": "Claude 在 Anthropic 受监督的模型研发中承担 26% 工作量；被评“AI 主导”的比例从 2026 年 2 月不足 1% 升至 8 月 26%。\n   64% 的情况下，研究者认为模型提出的下一研究方向优于人类研究员所选路线，显示前沿模型开始具备“研究品味”。\n   开源权重模型中，中国模型家族提及份额从 2024 年 9% 升至 31%，美国从 31% 降至 23%，Qwen 超...",
+      "highlights": [
+        "Claude 在 Anthropic 受监督的模型研发中承担 26% 工作量；被评“AI 主导”的比例从 2026 年 2 月不足 1% 升至 8 月 26%",
+        "64% 的情况下，研究者认为模型提出的下一研究方向优于人类研究员所选路线，显示前沿模型开始具备“研究品味”",
+        "开源权重模型中，中国模型家族提及份额从 2024 年 9% 升至 31%，美国从 31% 降至 23%，Qwen 超过 Llama；闭源美国模型仍占 42%"
+      ],
+      "url": "https://zhuanlan.zhihu.com/p/2109073913921671493",
+      "source": "zhuanlan.zhihu.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-26T01:00:00Z"
+    },
+    {
+      "id": "80a14c13a190",
+      "title": "Anthropic’s Chip Choices Could Change the Nvidia Story. Here’s How.",
+      "summary": "- Nvidia: Nvidia's GPUs provide up to 4.7 gigawatts (GW) of compute capacity for Anthropic, accounting for about 42% of the company's total capacity. The exact financial details haven't been disclosed...",
+      "highlights": [
+        "- Nvidia: Nvidia's GPUs provide up to 4.7 gigawatts (GW) of compute capacity for Anthropic, accounting for about 42% of the company's total capacity. The exact financial details haven't been disclosed.",
+        "- Alphabet: Anthropic has access to up to 1 million Google Tensor Processing Units (TPUs), co-designed by Google and Broadcom. Anthropic has agreed to pay between $125 billion and $150 billion through 2031 for Google's chips. [...] - Amazon: Anthropic already uses Amazon's Trainium 2 chips and has an agreement to purchase up to 5 GW of Trainium capacity. The current deal between the companies is worth at least $110 billion through 2036.",
+        "- AMD: Anthropic is already using AMD GPUs and will increase capacity to 2 GW beginning next year. AMD hardware spending could eventually exceed $20 billion. [...] Nvidia (NASDAQ:NVDA) is, unsurprisingly, a key supplier of chips to Anthropic, but so are Alphabet (NASDAQ:GOOGL) (NASDAQ:GOOG), Amazon (NASDAQ:AMZN), and Advanced Micro Devices (NASDAQ:AMD). Instead of tying itself to just one chip company, Anthropic has decided to spread out its chip vendors."
+      ],
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-chip-choices-could-change-205302369.html",
+      "source": "finance.yahoo.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-25T20:53:02Z"
+    },
+    {
+      "id": "48944319af75",
+      "title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
+      "summary": "As a result, Z.AI's roughly 3-trillion-parameter GLM-5.5 model, planned for November, is likely to slip into the first quarter of 2027, Reuters reports, citing sources. To bridge the gap, the company ...",
+      "highlights": [
+        "As a result, Z.AI's roughly 3-trillion-parameter GLM-5.5 model, planned for November, is likely to slip into the first quarter of 2027, Reuters reports, citing sources. To bridge the gap, the company released the 750-billion-parameter GLM-5.4 on Monday and says a new design lets it keep up with systems that have 2 to 3 trillion parameters. Without foreign computing power, Moonshot AI's development cycle could double from six to 12 months, likely delaying its next major model, Kimi K4, until [...] With OpenAI and Anthropic blocking data scraping for distillation, Moonshot is now turning to the latest models from Google and Meta for training and stepping up its search for compute capacity in Europe, according to the sources.",
+        "THE DECODER+",
+        "## AI News Without the Hype – Curated by Humans"
+      ],
+      "url": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead",
+      "source": "the-decoder.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-26T15:45:08Z"
+    },
+    {
+      "id": "88585bbc4fd4",
+      "title": "小鹏科技日发布图灵具身智能架构，公布机器人及智驾升级计划",
+      "summary": "​​\n\n11月25日，第八届小鹏科技日在广州举行，主题为“Origin 原点”。小鹏在会上发布图灵具身智能架构，介绍人形机器人IRON的应用计划，并公布智能驾驶、车辆控制和充电能力等方面的进展。\n\n图灵具身智能架构贯通任务规划、行动策略、实时控制和硬件本体。其中，System 2负责目标理解、推理与任务规划，System 1结合环境和身体状态形成行动策略，System 0负责底层实时控制。该架构以...",
+      "highlights": [
+        "11月25日，第八届小鹏科技日在广州举行，主题为“Origin 原点”",
+        "小鹏在会上发布图灵具身智能架构，介绍人形机器人IRON的应用计划，并公布智能驾驶、车辆控制和充电能力等方面的进展",
+        "图灵具身智能架构贯通任务规划、行动策略、实时控制和硬件本体"
+      ],
+      "url": "https://weibo.com/ttarticle/x/m/geoshow/id/2309405369479109935198?domain=auto",
+      "source": "weibo.com",
+      "category": "具身智能",
+      "importance": 5,
+      "publishedAt": "2026-11-26T12:24:00Z"
+    },
+    {
+      "id": "c51b6c94215c",
+      "title": "物理AI走向完整智能体竞争，小鹏发布图灵具身智能架构 - 潮新闻",
+      "summary": "作为这套架构的关键部分，第二代 VLA 已在量产车型中持续迭代。据小鹏披露，第二代VLA正式推送首月，辅助驾驶里程占比突破 50%。2026 年 7 月起，搭载第二代 VLA 的小鹏NGP先后在德国、荷兰、法国完成本地性泛化测试；11 月，小鹏 NGP 开启法国巴黎门店试驾，成为首家在欧洲开放高阶智驾面向公众体验的中国车企。从国内规模应用到海外道路验证，第二代 VLA 持续接受不同交通环境的检验，...",
+      "highlights": [
+        "作为这套架构的关键部分，第二代 VLA 已在量产车型中持续迭代",
+        "据小鹏披露，第二代VLA正式推送首月，辅助驾驶里程占比突破 50%",
+        "2026 年 7 月起，搭载第二代 VLA 的小鹏NGP先后在德国、荷兰、法国完成本地性泛化测试；11 月，小鹏 NGP 开启法国巴黎门店试驾，成为首家在欧洲开放高阶智驾面向公众体验的中国车企"
+      ],
+      "url": "https://tidenews.com.cn/news.html?id=3625293",
+      "source": "tidenews.com.cn",
+      "category": "产品进展",
+      "importance": 5,
+      "publishedAt": "2026-11-26T05:09:11Z"
+    },
+    {
+      "id": "88056e068b28",
+      "title": "AI发现物理学“大一统理论”？斯坦福学者联手GPT-6 Astra，提出量子引力新框架",
+      "summary": "AI正在从科研助手走向基础科学研究的深水区。一项由斯坦福大学物理学家与OpenAI GPT-6 Astra合作开展的量子引力研究，引发了科技与物理学界关注。不少网友将其称为“AI发现大一统理论”，认为这可能为统一广义相对论与量子力学带来新的突破。\n\n11月25日，斯坦福大学莱因韦伯理论物理研究所物理学家Venkatesa Chandrasekaran在arXiv发布一篇83页的预印本论文，提出了一...",
+      "highlights": [
+        "AI正在从科研助手走向基础科学研究的深水区",
+        "一项由斯坦福大学物理学家与OpenAI GPT-6 Astra合作开展的量子引力研究，引发了科技与物理学界关注",
+        "不少网友将其称为“AI发现大一统理论”，认为这可能为统一广义相对论与量子力学带来新的突破"
+      ],
+      "url": "https://wallstreetcn.com/articles/3786771",
+      "source": "wallstreetcn.com",
+      "category": "前沿理论",
+      "importance": 5,
+      "publishedAt": "2026-11-26T09:00:00Z"
+    },
+    {
+      "id": "06d7c665878b",
+      "title": "OpenAI, Google and Anthropic Gain Edge as China's AI Race Slows",
+      "summary": "### Key takeaways\n\n- Chinese AI developers face delays launching flagship models\n- US chip restrictions threaten access to overseas computing\n- OpenAI and Anthropic strengthen defenses against unautho...",
+      "highlights": [
+        "### Key takeaways",
+        "- Chinese AI developers face delays launching flagship models",
+        "- US chip restrictions threaten access to overseas computing"
+      ],
+      "url": "https://coinpaper.com/39476/open-ai-google-and-anthropic-gain-breathing-room-as-chinese-ai-developers-face-delays",
+      "source": "coinpaper.com",
+      "category": "模型发布",
+      "importance": 5,
+      "publishedAt": "2026-11-26T20:07:50Z"
+    },
+    {
+      "id": "1658df1c583b",
+      "title": "After Using Google Antigravity, I'm Starting to Think the Ul... - moomoo Community",
+      "summary": "Google's proprietary Tensor Processing Units, or TPUs, are particularly important in this context. Unlike AI companies that rely heavily on external chip suppliers, Google can optimize its chip archit...",
+      "highlights": [
+        "Google's proprietary Tensor Processing Units, or TPUs, are particularly important in this context. Unlike AI companies that rely heavily on external chip suppliers, Google can optimize its chip architecture, data centers, model training, inference systems and applications as part of a vertically integrated technology stack. The strategic value of this integration extends far beyond reducing hardware procurement costs. It creates an opportunity to reduce the overall unit cost of delivering AI [...] NVIDIA controls a significant portion of the world's AI computing supply. Microsoft has an established position in enterprise productivity. Amazon operates enormous cloud computing infrastructure. OpenAI and Anthropic are competing at the frontier of AI models and autonomous agents. Google's unique position, however, is that it participates in almost every one of these areas while already owning an ecosystem connecting billions of users with global commercial activity. This degree of vertical [...] As someone who frequently uses AI tools for software development and everyday work, I have been closely following the competition between OpenAI, Anthropic and Google. Previously, I evaluated these companies primarily based on their model capabilities: which model had stronger reasoning abilities, which generated better code, and which could handle more complex tasks. However, after experiencing Google Antigravity, I began to realize that evaluating the AI industry purely through the lens of"
+      ],
+      "url": "https://www.moomoo.com/community/feed/after-using-google-antigravity-i-m-starting-to-think-the-117686996631558",
+      "source": "moomoo.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-27T06:00:00Z"
+    },
+    {
+      "id": "2c6401b5792a",
+      "title": "Will DeepSeek beat Anthropic and OpenAI?",
+      "summary": "DeepSeek releases its new and cheapest model , claiming to beat Anthropic and OpenAI",
+      "highlights": [
+        "DeepSeek releases its new and cheapest model , claiming to beat Anthropic and OpenAI"
+      ],
+      "url": "https://www.reddit.com/r/DeepSeek/comments/1y4pqq4/will_deepseek_beat_anthropic_and_openai",
+      "source": "reddit.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-27T01:11:59Z"
+    },
+    {
+      "id": "1b4845e24fa3",
+      "title": "OpenAI",
+      "summary": "# OpenAI\nID: p4PyTakV77G9\nWebsite: www.openai.com\nHeadquarters: San Francisco, CA, United States\nLinkedIn: www.linkedin.com/company/openai · 11,730,323 followers\nIndustry: Research Services\nIndustry c...",
+      "highlights": [
+        "ID: p4PyTakV77G9",
+        "Website: www.openai.com",
+        "Headquarters: San Francisco, CA, United States"
+      ],
+      "url": "https://tavily.com/knowledge/company/p4PyTakV77G9",
+      "source": "tavily.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-27T01:11:59Z"
+    },
+    {
+      "id": "f59b6e2fb369",
+      "title": "AI进化速递 | 腾讯混元发布最新一代3D大模型Hy3D 3.6_Kimi_智元_指法",
+      "summary": "①我国发布地球大模型引擎SUICE V0.1版； ②首个农耕文明领域大模型“天稷”发布； ③腾讯混元发布最新一代3D大模型Hy3D 3.6； ④月之暗面：Kimi科研支持计划开放申请； ⑤灵心巧手公布新专利，可用于机器人演奏钢琴的指法编排； ⑥智元精灵G2在龙旗科技产线承担喇叭BOX安装任务并实现并线生产； ⑦英伟达联手铠侠，突破仅靠HBM的容量限制。返回搜狐，查看更多",
+      "highlights": [
+        "①我国发布地球大模型引擎SUICE V0.1版； ②首个农耕文明领域大模型“天稷”发布； ③腾讯混元发布最新一代3D大模型Hy3D 3.6； ④月之暗面：Kimi科研支持计划开放申请； ⑤灵心巧手公布新专利，可用于机器人演奏钢琴的指法编排； ⑥智元精灵G2在龙旗科技产线承担喇叭BOX安装任务并实现并线生产； ⑦英伟达联手铠侠，突破仅靠HBM的容量限制"
+      ],
+      "url": "https://www.sohu.com/a/1107339625_114986?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "sohu.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-27T12:00:00Z"
+    },
+    {
+      "id": "7443f09a1eda",
+      "title": "Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC - CNBC",
+      "summary": "Companies have put an unusually high volume of Nvidia graphics processing units, or GPUs, on the market since new measures restricting Chinese companies renting access to advanced Nvidia chips were an...",
+      "highlights": [
+        "Companies have put an unusually high volume of Nvidia graphics processing units, or GPUs, on the market since new measures restricting Chinese companies renting access to advanced Nvidia chips were announced on Nov. 16, the people said. Jack Duhamel, president of AI infrastructure marketplace GPU Mart, and two people familiar with the matter told CNBC the surge in GPUs for sale was directly attributable to the new rule. The two people said it appeared chip sellers were seeking to offload them because they were originally for use in data centers in which Chinese companies would rent access. The Department of Commerce's Bureau of Industry and Security, or BIS, announced an interim final rule as part of a clampdown on Chinese companies bypassing export controls, which effectively ban the sale of the most advanced Nvidia chips to China, by accessing them remotely in overseas data centers. Deals to find buyers for thousands of B300 GPUs, one of Nvidia's most advanced offerings, have been floated since the rule was announced, said Duhamel and one of the people."
+      ],
+      "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
+      "source": "cnbc.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-11-25T17:28:24Z"
+    },
+    {
+      "id": "68929d424ee2",
+      "title": "A Game-Changing Move Just Gave America the Edge Over China in AI - WSJ",
+      "summary": "SINGAPORE—While the world was transfixed by Jensen Huang’s fall and return to Nvidia, the U.S. government quietly took the upper hand in the artificial-intelligence race against China. It did so with ...",
+      "highlights": [
+        "SINGAPORE—While the world was transfixed by Jensen Huang’s fall and return to Nvidia, the U.S. government quietly took the upper hand in the artificial-intelligence race against China. It did so with an update to Washington’s export rules, closing a loophole that let Chinese companies legally tap as much as a quarter of their computing power by remotely accessing Nvidia chips in other countries, most notably Malaysia. Not only does the move choke off Chinese access to that overseas hardware, but those up-for-grabs chips could end up with American companies, which face logistical and political challenges in building more data centers at home. In other words, it is the geopolitical equivalent of an interception returned for a touchdown. Copyright ©2026 Dow Jones & Company, Inc. All Rights Reserved. Continue reading your article with."
+      ],
+      "url": "https://www.wsj.com/tech/a-game-changing-move-just-gave-america-the-edge-over-china-in-ai-53492e2c",
+      "source": "wsj.com",
+      "category": "芯片硬件",
+      "importance": 4,
+      "publishedAt": "2026-11-26T12:12:00Z"
+    },
+    {
+      "id": "2f5db1565bab",
+      "title": "零成本体验AIAgent！一句话生成AI Agent，容智最新智能体来了",
+      "summary": "5月16日，在容智“100+To B智能体暨超级智能体开发平台”发布会上，容智信息正式发布Agent-100智能体平台和Hyper Agent智能体开发平台，为企业在AI Agent的落地应用打造了一",
+      "highlights": [
+        "5月16日，在容智“100+To B智能体暨超级智能体开发平台”发布会上，容智信息正式发布Agent-100智能体平台和Hyper Agent智能体开发平台，为企业在AI Agent的落地应用打造了一"
+      ],
+      "url": "https://www.ldyrlj.com/news/lijiang9902",
+      "source": "ldyrlj.com",
+      "category": "产品进展",
+      "importance": 4,
+      "publishedAt": "2026-11-26T15:00:00Z"
+    },
+    {
+      "id": "733fe08cc89d",
+      "title": "Israeli venture capital firm Team8 expands into AI infrastructure with new initiative at NYSE - Ynetnews",
+      "summary": "# Israeli venture capital firm Team8 expands into AI infrastructure with new initiative at NYSE. ## With more than $2 billion under management, Team8 launches Infra Village to connect enterprise techn...",
+      "highlights": [
+        "# Israeli venture capital firm Team8 expands into AI infrastructure with new initiative at NYSE. ## With more than $2 billion under management, Team8 launches Infra Village to connect enterprise technology executives with startups developing AI infrastructure; the New York event also recognized 20 emerging AI leaders from companies including Microsoft, Meta and Anthropic. Israeli venture capital firm Team8 has launched a new initiative focused on artificial intelligence and software infrastructure, expanding its investment and company-building activities as businesses increasingly move from experimenting with AI to deploying it across their operations. The expansion reflects a growing challenge for companies adopting AI: While developing and testing models has become increasingly accessible, operating them at scale requires substantial investment in computing infrastructure, data management, security and monitoring systems. Infra Village will use a similar approach, bringing together executives responsible for enterprise AI infrastructure to exchange information about technological challenges, infrastructure costs and emerging solutions. Alongside the launch, Team8 announced its Next AI Leaders of 2027, recognizing 20 technology executives involved in developing and deploying AI infrastructure."
+      ],
+      "url": "https://www.ynetnews.com/business/article/skqpg2h1xe",
+      "source": "ynetnews.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-27T01:07:16Z"
+    },
+    {
+      "id": "f050ed216029",
+      "title": "Nvidia's advanced AI chips found at data center in China - Gizmodo",
+      "summary": "# Nvidia’s advanced AI chips being used at Chinese data center tied to Alice Huang. A Chinese data center with ties to Alice Huang, the woman suspected by some of involvement in chip smuggling in defi...",
+      "highlights": [
+        "# Nvidia’s advanced AI chips being used at Chinese data center tied to Alice Huang. A Chinese data center with ties to Alice Huang, the woman suspected by some of involvement in chip smuggling in defiance of U.S. export controls, has installed hardware with Nvidia’s powerful Blackwell AI chips, according to a report from Bloomberg. According to a serial number specified in documents submitted to Chinese regulators in November, Nvidia’s GB300 and GB200 racks, powerful Blackwell platforms, were installed at the data center in Shanghai, China. Development of the data center, known as the Yangtze River Delta Project, has been tied to the Singapore-based Megaspeed, one of Nvidia’s largest customers in Southeast Asia. The Trump administration has previously said they do not want China to have Nvidia’s more advanced AI chips, and, in the last few weeks, tried to shore up export controls to make it harder for Chinese tech firms to remotely access American-made chips from companies based in Southeast Asia and Brazil."
+      ],
+      "url": "https://gizmodo.com/nvidias-advanced-ai-chips-being-used-at-chinese-data-center-tied-to-alice-huang-2000846169",
+      "source": "gizmodo.com",
+      "category": "芯片硬件",
+      "importance": 3,
+      "publishedAt": "2026-11-27T13:02:55Z"
+    },
+    {
+      "id": "d5b3ef424f4b",
+      "title": "California companies owned by Chinese firms are scooping up Nvidia’s most advanced AI chips: report - New York Post",
+      "summary": "# California companies owned by Chinese firms are scooping up Nvidia’s most advanced AI chips: report. At least two California companies controlled by Chinese-owned firms are buying Nvidia‘s most adva...",
+      "highlights": [
+        "# California companies owned by Chinese firms are scooping up Nvidia’s most advanced AI chips: report. At least two California companies controlled by Chinese-owned firms are buying Nvidia‘s most advanced chips through the company’s partner program, CBS News reported. Some of those chips were later leased or sold to companies in Southeast Asia, according to the report. One of the companies is RiCloud AI, a San Jose data center firm listed as one of Nvidia’s “preferred partners.”. RiCloud’s parent company, Yuxing InfoTech Investment Holdings, is headquartered in Shenzhen, China, and listed on the Hong Kong stock exchange. Yuxing CEO Cong Yu has a degree from the People’s Liberation Army Command College, a university run by the Chinese military, according to the report. It changed its name after Inspur firms in China were added to a federal blacklist in March 2023, according to CBS. Under the new method, US-based customers made up 69% of Nvidia’s 2025 sales and China 9%."
+      ],
+      "url": "https://nypost.com/2026/11/26/us-news/chinese-owned-california-companies-buying-up-advanced-nvidia-ai-chips-report/",
+      "source": "nypost.com",
+      "category": "芯片硬件",
+      "importance": 3,
+      "publishedAt": "2026-11-26T20:41:23Z"
+    },
+    {
+      "id": "5ed6fa07ea9f",
+      "title": "Nvidia Reportedly Sold Top Chips to Chinese-Owned US Firms - NVIDIA (NASDAQ:NVDA) - Benzinga",
+      "summary": "A full year of Benzinga Pro for $997. # Nvidia Reportedly Sold Its Most Advanced AI Chips to US Firms Controlled by Chinese Parents as Jensen Huang Set to Face Congress. **Nvidia Corp.** (NASDAQ:NVDA)...",
+      "highlights": [
+        "A full year of Benzinga Pro for $997. # Nvidia Reportedly Sold Its Most Advanced AI Chips to US Firms Controlled by Chinese Parents as Jensen Huang Set to Face Congress. **Nvidia Corp.** (NASDAQ:NVDA) has reportedly sold its most advanced chips to at least two U.S. companies controlled by Chinese-owned firms, as CEO **Jensen Huang** prepares to face lawmakers next week. **Ricloud AI Inc.**, Nvidia’s cloud partner headquartered in San Jose, is controlled by **Yuxing InfoTech Investment Holdings**, based in Shenzhen and listed in Hong Kong, while **Aivres Systems Inc.**, based in Fremont, was formerly known as Inspur, after its Chinese parent, according to a CBS News report. Nvidia’s website lists RiCloud as a “preferred partner,” which gives it priority access to advanced chips, and Aivres as an “elite” partner, the company’s highest tier. According to **Benzinga Edge rankings**, Nvidia’s stock has a negative price trend in the short, medium, and long term, with a Momentum score in the 15th percentile."
+      ],
+      "url": "https://www.benzinga.com/markets/tech/26/11/63659572/nvidia-reportedly-sold-top-chips-chinese-owned-firms-ricloud-aivres-jensen-huang",
+      "source": "benzinga.com",
+      "category": "芯片硬件",
+      "importance": 3,
+      "publishedAt": "2026-11-26T04:22:55Z"
+    },
+    {
+      "id": "19bd71134d66",
+      "title": "Explainer-How China got access to Nvidia's AI chips despite rules to stop them - Yahoo Finance",
+      "summary": "# Explainer-How China got access to Nvidia's AI chips despite rules to stop them. To preserve its lead, in recent years Washington has imposed and revised rules to restrict China's access to advanced ...",
+      "highlights": [
+        "# Explainer-How China got access to Nvidia's AI chips despite rules to stop them. To preserve its lead, in recent years Washington has imposed and revised rules to restrict China's access to advanced semiconductors and chipmaking technology, while balancing national security concerns with trade considerations. The drama around Nvidia, the top US exporter of AI chips to China, has thrust those rules ‌into the spotlight. Here are some basics for understanding ‌what's legal, and what's not, when it comes to China's access to US AI chips:. It also expanded the restrictions to countries in the Middle East and restricted chips to overseas companies headquartered in China. But companies in countries including Singapore were allowed to buy advanced AI chips for their data centers license-free ⁠until the US issued a new rule last week cutting off that practice. Are Nvidia's shipments of AI chips to China legal? The H200 chip is one of Nvidia's more advanced chips, ​but not top-of-the-line."
+      ],
+      "url": "https://finance.yahoo.com/news/explainer-china-got-access-nvidias-193901126.html",
+      "source": "finance.yahoo.com",
+      "category": "芯片硬件",
+      "importance": 3,
+      "publishedAt": "2026-11-25T19:39:01Z"
+    }
+  ],
+  "today": [
+    {
+      "id": "1658df1c583b",
+      "title": "After Using Google Antigravity, I'm Starting to Think the Ul... - moomoo Community",
+      "summary": "Google's proprietary Tensor Processing Units, or TPUs, are particularly important in this context. Unlike AI companies that rely heavily on external chip suppliers, Google can optimize its chip archit...",
+      "highlights": [
+        "Google's proprietary Tensor Processing Units, or TPUs, are particularly important in this context. Unlike AI companies that rely heavily on external chip suppliers, Google can optimize its chip architecture, data centers, model training, inference systems and applications as part of a vertically integrated technology stack. The strategic value of this integration extends far beyond reducing hardware procurement costs. It creates an opportunity to reduce the overall unit cost of delivering AI [...] NVIDIA controls a significant portion of the world's AI computing supply. Microsoft has an established position in enterprise productivity. Amazon operates enormous cloud computing infrastructure. OpenAI and Anthropic are competing at the frontier of AI models and autonomous agents. Google's unique position, however, is that it participates in almost every one of these areas while already owning an ecosystem connecting billions of users with global commercial activity. This degree of vertical [...] As someone who frequently uses AI tools for software development and everyday work, I have been closely following the competition between OpenAI, Anthropic and Google. Previously, I evaluated these companies primarily based on their model capabilities: which model had stronger reasoning abilities, which generated better code, and which could handle more complex tasks. However, after experiencing Google Antigravity, I began to realize that evaluating the AI industry purely through the lens of"
+      ],
+      "url": "https://www.moomoo.com/community/feed/after-using-google-antigravity-i-m-starting-to-think-the-117686996631558",
+      "source": "moomoo.com",
+      "category": "芯片硬件",
+      "importance": 5,
+      "publishedAt": "2026-11-27T06:00:00Z"
+    },
+    {
+      "id": "2c6401b5792a",
+      "title": "Will DeepSeek beat Anthropic and OpenAI?",
+      "summary": "DeepSeek releases its new and cheapest model , claiming to beat Anthropic and OpenAI",
+      "highlights": [
+        "DeepSeek releases its new and cheapest model , claiming to beat Anthropic and OpenAI"
+      ],
+      "url": "https://www.reddit.com/r/DeepSeek/comments/1y4pqq4/will_deepseek_beat_anthropic_and_openai",
+      "source": "reddit.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-27T01:11:59Z"
+    },
+    {
+      "id": "1b4845e24fa3",
+      "title": "OpenAI",
+      "summary": "# OpenAI\nID: p4PyTakV77G9\nWebsite: www.openai.com\nHeadquarters: San Francisco, CA, United States\nLinkedIn: www.linkedin.com/company/openai · 11,730,323 followers\nIndustry: Research Services\nIndustry c...",
+      "highlights": [
+        "ID: p4PyTakV77G9",
+        "Website: www.openai.com",
+        "Headquarters: San Francisco, CA, United States"
+      ],
+      "url": "https://tavily.com/knowledge/company/p4PyTakV77G9",
+      "source": "tavily.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-27T01:11:59Z"
+    },
+    {
+      "id": "f59b6e2fb369",
+      "title": "AI进化速递 | 腾讯混元发布最新一代3D大模型Hy3D 3.6_Kimi_智元_指法",
+      "summary": "①我国发布地球大模型引擎SUICE V0.1版； ②首个农耕文明领域大模型“天稷”发布； ③腾讯混元发布最新一代3D大模型Hy3D 3.6； ④月之暗面：Kimi科研支持计划开放申请； ⑤灵心巧手公布新专利，可用于机器人演奏钢琴的指法编排； ⑥智元精灵G2在龙旗科技产线承担喇叭BOX安装任务并实现并线生产； ⑦英伟达联手铠侠，突破仅靠HBM的容量限制。返回搜狐，查看更多",
+      "highlights": [
+        "①我国发布地球大模型引擎SUICE V0.1版； ②首个农耕文明领域大模型“天稷”发布； ③腾讯混元发布最新一代3D大模型Hy3D 3.6； ④月之暗面：Kimi科研支持计划开放申请； ⑤灵心巧手公布新专利，可用于机器人演奏钢琴的指法编排； ⑥智元精灵G2在龙旗科技产线承担喇叭BOX安装任务并实现并线生产； ⑦英伟达联手铠侠，突破仅靠HBM的容量限制"
+      ],
+      "url": "https://www.sohu.com/a/1107339625_114986?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "sohu.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-27T12:00:00Z"
+    },
+    {
+      "id": "733fe08cc89d",
+      "title": "Israeli venture capital firm Team8 expands into AI infrastructure with new initiative at NYSE - Ynetnews",
+      "summary": "# Israeli venture capital firm Team8 expands into AI infrastructure with new initiative at NYSE. ## With more than $2 billion under management, Team8 launches Infra Village to connect enterprise techn...",
+      "highlights": [
+        "# Israeli venture capital firm Team8 expands into AI infrastructure with new initiative at NYSE. ## With more than $2 billion under management, Team8 launches Infra Village to connect enterprise technology executives with startups developing AI infrastructure; the New York event also recognized 20 emerging AI leaders from companies including Microsoft, Meta and Anthropic. Israeli venture capital firm Team8 has launched a new initiative focused on artificial intelligence and software infrastructure, expanding its investment and company-building activities as businesses increasingly move from experimenting with AI to deploying it across their operations. The expansion reflects a growing challenge for companies adopting AI: While developing and testing models has become increasingly accessible, operating them at scale requires substantial investment in computing infrastructure, data management, security and monitoring systems. Infra Village will use a similar approach, bringing together executives responsible for enterprise AI infrastructure to exchange information about technological challenges, infrastructure costs and emerging solutions. Alongside the launch, Team8 announced its Next AI Leaders of 2027, recognizing 20 technology executives involved in developing and deploying AI infrastructure."
+      ],
+      "url": "https://www.ynetnews.com/business/article/skqpg2h1xe",
+      "source": "ynetnews.com",
+      "category": "模型发布",
+      "importance": 4,
+      "publishedAt": "2026-11-27T01:07:16Z"
+    },
+    {
+      "id": "f050ed216029",
+      "title": "Nvidia's advanced AI chips found at data center in China - Gizmodo",
+      "summary": "# Nvidia’s advanced AI chips being used at Chinese data center tied to Alice Huang. A Chinese data center with ties to Alice Huang, the woman suspected by some of involvement in chip smuggling in defi...",
+      "highlights": [
+        "# Nvidia’s advanced AI chips being used at Chinese data center tied to Alice Huang. A Chinese data center with ties to Alice Huang, the woman suspected by some of involvement in chip smuggling in defiance of U.S. export controls, has installed hardware with Nvidia’s powerful Blackwell AI chips, according to a report from Bloomberg. According to a serial number specified in documents submitted to Chinese regulators in November, Nvidia’s GB300 and GB200 racks, powerful Blackwell platforms, were installed at the data center in Shanghai, China. Development of the data center, known as the Yangtze River Delta Project, has been tied to the Singapore-based Megaspeed, one of Nvidia’s largest customers in Southeast Asia. The Trump administration has previously said they do not want China to have Nvidia’s more advanced AI chips, and, in the last few weeks, tried to shore up export controls to make it harder for Chinese tech firms to remotely access American-made chips from companies based in Southeast Asia and Brazil."
+      ],
+      "url": "https://gizmodo.com/nvidias-advanced-ai-chips-being-used-at-chinese-data-center-tied-to-alice-huang-2000846169",
+      "source": "gizmodo.com",
+      "category": "芯片硬件",
+      "importance": 3,
+      "publishedAt": "2026-11-27T13:02:55Z"
+    },
+    {
+      "id": "4ecee991301e",
+      "title": "From Waymo to Jeff Bezos' Prometheus, meet the biggest fundraisers in robotics and physical AI - Business Insider",
+      "summary": "From robotaxis and military drones to humanoids that might someday fold your laundry, Silicon Valley is betting billions on a future filled with robots. So far, robotics and physical AI companies have...",
+      "highlights": [
+        "From robotaxis and military drones to humanoids that might someday fold your laundry, Silicon Valley is betting billions on a future filled with robots. So far, robotics and physical AI companies have raised $97.3 billion dollars across more than 1,200 deals globally — more than double the $47.4 billion raised in all of 2025, according to Crunchbase. Sanjay Aggarwal, a partner at VC firm F-Prime, pointed to four drivers of the boom: growth in autonomous vehicles and defense, a push to revive domestic manufacturing, bets on \"once-in-a-generation\" founders like Jeff Bezos and Travis Kalanick, and futuristic technologies like humanoids. Here are the 10 robotics and physical AI companies that have raised the most funding this year, according to data from Crunchbase. Waymo landed the sector's biggest round of the year so far, and its robots are hard to miss. Its $16 billion Series D, announced in February, valued Waymo at $126 billion. Its $12 billion Series B, announced in June, valued the company at roughly $41 billion."
+      ],
+      "url": "https://www.businessinsider.com/meet-10-robotics-companies-that-raised-most-money-2026-far-2026-11",
+      "source": "businessinsider.com",
+      "category": "具身智能",
+      "importance": 3,
+      "publishedAt": "2026-11-27T10:00:02Z"
+    },
+    {
+      "id": "475d53755606",
+      "title": "AI 大模型世界",
+      "summary": "展开详情\n\n0点赞0评论0收藏\n\n0分享\n\nToy广场Toy广场我收藏的我收藏的近期玩过近期玩过我创作的我创作的我的我的\n\n添加到桌面添加到桌面\n\n我的收藏近期玩过我创作的",
+      "highlights": [
+        "Toy广场Toy广场我收藏的我收藏的近期玩过近期玩过我创作的我创作的我的我的",
+        "我的收藏近期玩过我创作的"
+      ],
+      "url": "https://www.bilibili.com/toy/ai-model-world",
+      "source": "bilibili.com",
+      "category": "模型发布",
+      "importance": 2,
+      "publishedAt": "2026-11-27T01:00:00Z"
+    },
+    {
+      "id": "908201ea9108",
+      "title": "November 2026: Top five fintech funding stories of the month - FinTech Futures",
+      "summary": "# November 2026: Top five fintech funding stories of the month. FinTech Futures takes a look back at five of the top funding round stories from November 2026. Here, we run through five of the top fint...",
+      "highlights": [
+        "# November 2026: Top five fintech funding stories of the month. FinTech Futures takes a look back at five of the top funding round stories from November 2026. Here, we run through five of the top fintech funding stories from November, featuring Revolut, Imprint, Trustly, and more. Revolut has reinforced its standing as Europe's most valuable private company after the close of its latest fundraising process, which set a new company valuation of $115 billion. With the latest round bringing Payhawk's total funding to over $515 million, the fintech states it will use the new capital to further develop its AI-powered finance operating system. Software start-up Model ML has notched a $1.5 billion valuation after a Series B round co-led by General Atlantic and QED Investors closed with $250 million in new funding. The valuation of New York fintech Imprint has hit approximately $1.9 billion following a new funding round, which was led by existing investor Khosla Ventures and raised $130 million."
+      ],
+      "url": "https://www.fintechfutures.com/venture-capital-funding/november-2026-top-five-fintech-funding-stories-of-the-month",
+      "source": "fintechfutures.com",
+      "category": "投并购",
+      "importance": 2,
+      "publishedAt": "2026-11-27T11:38:23Z"
+    }
+  ],
+  "week": [
     {
       "id": "b6389acad79d",
       "title": "从单点冲高到按需分工，11月大模型竞争的四个变化-36氪",
@@ -221,288 +771,9 @@
       "category": "前沿理论",
       "importance": 5,
       "publishedAt": "2026-11-26T09:00:00Z"
-    },
-    {
-      "id": "7e1588a75269",
-      "title": "刚刚，谷歌甩出6篇数学大结果，整数分解算法迎来34年来新突破-36氪",
-      "summary": "# 刚刚，谷歌甩出6篇数学大结果，整数分解算法迎来34年来新突破\n\n这黎曼猜想，那千禧年难题的，大家先停一停。\n\n因为咱老谷歌一个猛子扎进数学圈，带着自家AI杀过来了！！！\n\n就在刚刚，谷歌集中公开了由Gemini 4驱动的数学研究Agent系统Cogentic自主完成的6项研究成果。\n\n从现代密码学的底层难题，到困扰数学界半个多世纪的经典猜想，这波Gemini 4专挑硬骨头啃：\n\n没啥体感是吧，...",
-      "highlights": [
-        "# 刚刚，谷歌甩出6篇数学大结果，整数分解算法迎来34年来新突破",
-        "这黎曼猜想，那千禧年难题的，大家先停一停",
-        "因为咱老谷歌一个猛子扎进数学圈，带着自家AI杀过来了"
-      ],
-      "url": "https://www.36kr.com/p/4085948825676164",
-      "source": "36kr.com",
-      "category": "前沿理论",
-      "importance": 5,
-      "publishedAt": "2026-11-26T03:51:31Z"
-    },
-    {
-      "id": "adf9b95a37e2",
-      "title": "谷歌研究院发布6篇由AI完成的数学论文，包含数论、博弈论、图论_新浪财经",
-      "summary": "其中一篇改进了固定特征有限域上离散对数问题的严格时间上界，但这类小特征有限域早在 2014 年之后便已退出密码学实用范畴，并不涉及当前主流的素数域或椭圆曲线加密体系；另一篇面向通信复杂度中的对数秩猜想（Log-Rank conjecture），宣称首次“微幅”（甚至不是小幅）突破了困扰学界十余年的根号级壁垒，离彻底解决猜想还有很远。\n\n最后一篇则针对图论中 1964 年提出的弗兰克·哈拉里（Fra...",
-      "highlights": [
-        "其中一篇改进了固定特征有限域上离散对数问题的严格时间上界，但这类小特征有限域早在 2014 年之后便已退出密码学实用范畴，并不涉及当前主流的素数域或椭圆曲线加密体系；另一篇面向通信复杂度中的对数秩猜想（Log-Rank conjecture），宣称首次“微幅”（甚至不是小幅）突破了困扰学界十余年的根号级壁垒，离彻底解决猜想还有很远",
-        "最后一篇则针对图论中 1964 年提出的弗兰克·哈拉里（Frank Harary）边重构猜想（edge reconstruction conjecture），将猜想成立所需的图边密度条件从超线性放宽到了顶点数的线性倍数级别",
-        "4001102288 欢迎批评指正"
-      ],
-      "url": "https://t.cj.sina.cn/articles/view/1654203637/629924f5020018gcf",
-      "source": "t.cj.sina.cn",
-      "category": "前沿理论",
-      "importance": 5,
-      "publishedAt": "2026-11-26T03:13:27Z"
-    },
-    {
-      "id": "525ceac91d05",
-      "title": "AI models designing custom chips threaten Nvidia's dominance, TechGig",
-      "summary": "chip designteam, attracting engineers from OpenAI and Google. Its most advanced AI model showed significant improvements in designing electronic circuits, the company said.Custom chips allow companies...",
-      "highlights": [
-        "chip designteam, attracting engineers from OpenAI and Google. Its most advanced AI model showed significant improvements in designing electronic circuits, the company said.Custom chips allow companies like OpenAI and Anthropic to tailor hardware to their exact AI workloads. This customisation can cut costs by eliminating unnecessary features found in general-purpose chips like Nvidia's.AI is also simplifying the creation of software needed to run AI models. This could eventually reduce [...] OpenAI,",
-        "Anthropicare using artificial intelligence (AI) to design",
-        "custom chips, potentially weakening"
-      ],
-      "url": "https://techgig.com/news/industry/ai-models-designing-custom-chips-threaten-nvidias-dominance/136146287",
-      "source": "techgig.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-25T04:00:00Z"
-    },
-    {
-      "id": "78af20da024b",
-      "title": "What are AI chips, and what’s so special about Nvidia’s? | National News | U.S. News",
-      "summary": "These foundation models, exemplified by Google’s Gemini, Anthropic’s Claude Fable and OpenAI’s GPT Astra, are very large neural networks that can reason, write software code and analyze information in...",
-      "highlights": [
-        "These foundation models, exemplified by Google’s Gemini, Anthropic’s Claude Fable and OpenAI’s GPT Astra, are very large neural networks that can reason, write software code and analyze information in response to plain language instructions. The companies working on foundation model training are betting that the best models will automate much of the world’s information work and generate enormous economic returns. [...] The growth of these new transformer models has also led to the current boom of generative AI companies, including U.S.-based companies OpenAI, Anthropic, Meta, Google and xAI, as well as Chinese companies such as DeepSeek, Alibaba and Baidu. Each of these companies is actively focused on building large data centers composed of high-end GPUs to train next-generation foundation models. [...] Because Nvidia had spent years building CUDA and the software around it, it was positioned to benefit more than anyone. Competitors, including AMD, which also makes GPUs, and Google, which designs its own AI chips, called tensor processing units, have since built strong alternatives."
-      ],
-      "url": "https://www.usnews.com/news/national-news/articles/2026-11-26/what-are-ai-chips-and-whats-so-special-about-nvidias",
-      "source": "usnews.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-25T16:43:00Z"
-    },
-    {
-      "id": "7ba0cb896f97",
-      "title": "AI芯片行业：国产化率升至逾60%推理成需求主引擎 全球存算一体前五厂商占近七成份额_凤凰网",
-      "summary": "综上，国内先后出台一系列支持性政策，从“通用GPU”到“超大规模智算”多项政策促进AI芯片行业发展。同时，大语言模型普及算力需求持续释放等因素驱动下，全球和国内AI芯片市场规模均快速扩容，其中。此外，国内厂商在成熟制程、交付确定性、软硬件深度协同等方面具有优势，共同推动国产芯片加速发展。\n\n二、AI芯片国产化率攀升至逾六成，推理取代训练成为AI芯片需求主引擎\n\n2026年上半年，AI芯片国产化率升...",
-      "highlights": [
-        "综上，国内先后出台一系列支持性政策，从“通用GPU”到“超大规模智算”多项政策促进AI芯片行业发展",
-        "同时，大语言模型普及算力需求持续释放等因素驱动下，全球和国内AI芯片市场规模均快速扩容，其中",
-        "此外，国内厂商在成熟制程、交付确定性、软硬件深度协同等方面具有优势，共同推动国产芯片加速发展"
-      ],
-      "url": "https://finance.ifeng.com/c/8yLogUFehiJ",
-      "source": "finance.ifeng.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-25T15:11:00Z"
-    },
-    {
-      "id": "f60a979ca5b6",
-      "title": "金融汪 on X: \"看我的Substack的文章https://jinrongwang.substack.com/p/aiai?r=93s8ia&utm_medium=ios 【英伟达面临的竞争态势及其扶持的AI生态规模…\"",
-      "summary": "# 金融汪 on X: \"看我的Substack的文章 【英伟达面临的竞争态势及其扶持的AI生态规模…\"\n\n看我的Substack的文章\n【英伟达面临的竞争态势及其扶持的AI生态规模】\n“在已公布的、计划于 2026 年或之后部署的前沿实验室计算容量协议（共约 43.86 GW）中，英伟达 GPU 的占比骤降至 28%（12.11 GW），其余 72% 的市场已被竞争对手瓜分(加速芯片主要包含通用...",
-      "highlights": [
-        "# 金融汪 on X: \"看我的Substack的文章 【英伟达面临的竞争态势及其扶持的AI生态规模…\"",
-        "看我的Substack的文章",
-        "【英伟达面临的竞争态势及其扶持的AI生态规模】"
-      ],
-      "url": "https://x.com/yuyy614893671/status/2125986195406786609",
-      "source": "x.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-26T16:13:02Z"
-    },
-    {
-      "id": "5c9456ed9232",
-      "title": "推理数据首超训练数据：AI存储为什么不能只“堆算力”了 - 电子元件技术网",
-      "summary": "行业报告 AMD Instinct MI400 系列深度解析：全场景 AI 算力加速卡重塑数据中心市场格局 AI 算力竞争持续加剧，AMD 推出 Instinct MI400 系列三款加速卡，覆盖 AI 推理、成本优化型算力、科学计算三大场景。本文从产品矩阵、Helios 机架方案、第五代 CDNA Chiplet 底层架构、ROCm 开放软件栈展开解析，结合实测性能与第三方市场数据，分析这套全栈...",
-      "highlights": [
-        "行业报告 AMD Instinct MI400 系列深度解析：全场景 AI 算力加速卡重塑数据中心市场格局 AI 算力竞争持续加剧，AMD 推出 Instinct MI400 系列三款加速卡，覆盖 AI 推理、成本优化型算力、科学计算三大场景",
-        "本文从产品矩阵、Helios 机架方案、第五代 CDNA Chiplet 底层架构、ROCm 开放软件栈展开解析，结合实测性能与第三方市场数据，分析这套全栈算力方案将对数据中心 GPU 行业格局带来的改变",
-        "2026-11-23 AI&loT 互联技术 AMD(超微)"
-      ],
-      "url": "http://www.cntronics.com/products/white-papers/tui-li-shu-ju-shou-chao-xun-lian-shu-ju",
-      "source": "cntronics.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-25T15:00:00Z"
-    },
-    {
-      "id": "27fab53b7aa4",
-      "title": "抢到明星IPO的大钱，被套了-36氪",
-      "summary": "现实就是这么吊诡，在AI浪潮巅峰的这一年，挤进了第一批IPO项目的这些资金，居然大部分都是被“套”的状态。\n\n大钱集中涌向了最贵的位置，这和过去两年一级市场的资金焦虑直接相关。消费、互联网等传统赛道熄火之后，大模型和国产算力成了全市场为数不多能容纳十亿级单笔投资、又讲得出百亿美元终局故事的池子。有投资人说彼时圈内的集体心态是：“如果没有投到风口热门的东西，你在桌上和人谈论都不好意思的。”\n\n数据显...",
-      "highlights": [
-        "现实就是这么吊诡，在AI浪潮巅峰的这一年，挤进了第一批IPO项目的这些资金，居然大部分都是被“套”的状态",
-        "大钱集中涌向了最贵的位置，这和过去两年一级市场的资金焦虑直接相关",
-        "消费、互联网等传统赛道熄火之后，大模型和国产算力成了全市场为数不多能容纳十亿级单笔投资、又讲得出百亿美元终局故事的池子"
-      ],
-      "url": "https://www.36kr.com/p/4085017141045890",
-      "source": "36kr.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-25T14:45:16Z"
-    },
-    {
-      "id": "2e5efe4d513d",
-      "title": "人工智能(AI)数据中心业界因贷款和企业公开(IPO)市场的同时萎缩,资金筹措面临困难。 由于美国加强AI半导体出口管制,亚洲银行接连中断或重新讨论与中国大技术相关的数十亿美元规模的数据中心融资。 随.. - MK",
-      "summary": "上市市场也出现了异常现象。 《金融时报》(FT)当天报道说,NVIDIA投资的英国数据中心企业Nscale正在讨论推迟IPO,暂时维持非上市状态的方案。 Enscale首席执行官(CEO)乔希•佩恩在前一天的全体职员会议上表示:\"考虑到到目前为止确保的资金,短期内可能会成为非上市企业。\" 只是维持了尽快上市的目标。\n\n今年9月向纽约证券交易所(NYSE)申请上市的Nscale的目标企业价值为350...",
-      "highlights": [
-        "上市市场也出现了异常现象",
-        "《金融时报》(FT)当天报道说,NVIDIA投资的英国数据中心企业Nscale正在讨论推迟IPO,暂时维持非上市状态的方案",
-        "Enscale首席执行官(CEO)乔希•佩恩在前一天的全体职员会议上表示:\"考虑到到目前为止确保的资金,短期内可能会成为非上市企业"
-      ],
-      "url": "https://www.mk.co.kr/cn/it/12219809",
-      "source": "mk.co.kr",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-26T20:56:40Z"
-    },
-    {
-      "id": "5f4657ec465a",
-      "title": "小鹏汽车发布IRON人形机器人 拟实现每2.5分钟下线一台 | AIFOD",
-      "summary": "背景：过去几年中，中国及全球的多家汽车制造商已逐步将具身智能机器人视为智能出行技术的自然延伸。汽车制造企业在自动驾驶感知算法、机器视觉、电池能源管理、规模化流水线制造以及电驱动总成方面积累了深厚的技术与供应链资源。包括特斯拉Optimus项目在内的行业实践表明，车企正试图复用其汽车产线工程能力来解决双足机器人的硬件落地瓶颈。\n\n背景：在推出IRON之前，小鹏汽车已通过自动驾驶技术研发和早期的机器马...",
-      "highlights": [
-        "背景：过去几年中，中国及全球的多家汽车制造商已逐步将具身智能机器人视为智能出行技术的自然延伸",
-        "汽车制造企业在自动驾驶感知算法、机器视觉、电池能源管理、规模化流水线制造以及电驱动总成方面积累了深厚的技术与供应链资源",
-        "包括特斯拉Optimus项目在内的行业实践表明，车企正试图复用其汽车产线工程能力来解决双足机器人的硬件落地瓶颈"
-      ],
-      "url": "https://af.net/zh/realtime/xpeng-unveils-iron-robot-with-2-5-minute-mass-production-goal",
-      "source": "af.net",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-11-25T20:00:00Z"
-    },
-    {
-      "id": "546bfe74fbb9",
-      "title": "2026小鹏科技日：物理AI走向完整智能体竞争 图灵具身智能架构发布-手机新浪汽车",
-      "summary": "作为这套架构的关键部分，第二代 VLA 已在量产车型中持续迭代。据小鹏披露，第二代 VLA 正式推送首月，辅助驾驶里程占比突破 50%。2026 年 7 月起，搭载第二代 VLA 的小鹏NGP先后在德国、荷兰、法国完成本地性泛化测试；11 月，小鹏 NGP 开启法国巴黎门店试驾，成为首家在欧洲开放高阶智驾面向公众体验的中国车企。从国内规模应用到海外道路验证，第二代 VLA 持续接受不同交通环境的检...",
-      "highlights": [
-        "作为这套架构的关键部分，第二代 VLA 已在量产车型中持续迭代",
-        "据小鹏披露，第二代 VLA 正式推送首月，辅助驾驶里程占比突破 50%",
-        "2026 年 7 月起，搭载第二代 VLA 的小鹏NGP先后在德国、荷兰、法国完成本地性泛化测试；11 月，小鹏 NGP 开启法国巴黎门店试驾，成为首家在欧洲开放高阶智驾面向公众体验的中国车企"
-      ],
-      "url": "https://auto.sina.cn/jishu/2026-11-25/detail-inizxxye8572247.d.html",
-      "source": "auto.sina.cn",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-25T10:00:00Z"
-    },
-    {
-      "id": "de36fed3390c",
-      "title": "2026 年度 AI 报告精选：从30 份研究，读懂这一年的技术、产业与治理",
-      "summary": "Claude 在 Anthropic 受监督的模型研发中承担 26% 工作量；被评“AI 主导”的比例从 2026 年 2 月不足 1% 升至 8 月 26%。\n   64% 的情况下，研究者认为模型提出的下一研究方向优于人类研究员所选路线，显示前沿模型开始具备“研究品味”。\n   开源权重模型中，中国模型家族提及份额从 2024 年 9% 升至 31%，美国从 31% 降至 23%，Qwen 超...",
-      "highlights": [
-        "Claude 在 Anthropic 受监督的模型研发中承担 26% 工作量；被评“AI 主导”的比例从 2026 年 2 月不足 1% 升至 8 月 26%",
-        "64% 的情况下，研究者认为模型提出的下一研究方向优于人类研究员所选路线，显示前沿模型开始具备“研究品味”",
-        "开源权重模型中，中国模型家族提及份额从 2024 年 9% 升至 31%，美国从 31% 降至 23%，Qwen 超过 Llama；闭源美国模型仍占 42%"
-      ],
-      "url": "https://zhuanlan.zhihu.com/p/2109073913921671493",
-      "source": "zhuanlan.zhihu.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-26T01:00:00Z"
-    },
-    {
-      "id": "80a14c13a190",
-      "title": "Anthropic’s Chip Choices Could Change the Nvidia Story. Here’s How.",
-      "summary": "- Nvidia: Nvidia's GPUs provide up to 4.7 gigawatts (GW) of compute capacity for Anthropic, accounting for about 42% of the company's total capacity. The exact financial details haven't been disclosed...",
-      "highlights": [
-        "- Nvidia: Nvidia's GPUs provide up to 4.7 gigawatts (GW) of compute capacity for Anthropic, accounting for about 42% of the company's total capacity. The exact financial details haven't been disclosed.",
-        "- Alphabet: Anthropic has access to up to 1 million Google Tensor Processing Units (TPUs), co-designed by Google and Broadcom. Anthropic has agreed to pay between $125 billion and $150 billion through 2031 for Google's chips. [...] - Amazon: Anthropic already uses Amazon's Trainium 2 chips and has an agreement to purchase up to 5 GW of Trainium capacity. The current deal between the companies is worth at least $110 billion through 2036.",
-        "- AMD: Anthropic is already using AMD GPUs and will increase capacity to 2 GW beginning next year. AMD hardware spending could eventually exceed $20 billion. [...] Nvidia (NASDAQ:NVDA) is, unsurprisingly, a key supplier of chips to Anthropic, but so are Alphabet (NASDAQ:GOOGL) (NASDAQ:GOOG), Amazon (NASDAQ:AMZN), and Advanced Micro Devices (NASDAQ:AMD). Instead of tying itself to just one chip company, Anthropic has decided to spread out its chip vendors."
-      ],
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-chip-choices-could-change-205302369.html",
-      "source": "finance.yahoo.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-25T20:53:02Z"
-    },
-    {
-      "id": "48944319af75",
-      "title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
-      "summary": "As a result, Z.AI's roughly 3-trillion-parameter GLM-5.5 model, planned for November, is likely to slip into the first quarter of 2027, Reuters reports, citing sources. To bridge the gap, the company ...",
-      "highlights": [
-        "As a result, Z.AI's roughly 3-trillion-parameter GLM-5.5 model, planned for November, is likely to slip into the first quarter of 2027, Reuters reports, citing sources. To bridge the gap, the company released the 750-billion-parameter GLM-5.4 on Monday and says a new design lets it keep up with systems that have 2 to 3 trillion parameters. Without foreign computing power, Moonshot AI's development cycle could double from six to 12 months, likely delaying its next major model, Kimi K4, until [...] With OpenAI and Anthropic blocking data scraping for distillation, Moonshot is now turning to the latest models from Google and Meta for training and stepping up its search for compute capacity in Europe, according to the sources.",
-        "THE DECODER+",
-        "## AI News Without the Hype – Curated by Humans"
-      ],
-      "url": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead",
-      "source": "the-decoder.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-26T15:45:08Z"
-    },
-    {
-      "id": "f3e0fad94a56",
-      "title": "芯明智能双模式视觉AI模组Mercury正式发布",
-      "summary": "芯明智能专注空间智能芯片及产品设计，其自研系列芯片是全球领先的单芯片集成实时3D立体视觉感知、端侧AI、SLAM（实时定位建图）的系统级空间智能芯片，可在不依赖外挂GPU",
-      "highlights": [
-        "芯明智能专注空间智能芯片及产品设计，其自研系列芯片是全球领先的单芯片集成实时3D立体视觉感知、端侧AI、SLAM（实时定位建图）的系统级空间智能芯片，可在不依赖外挂GPU"
-      ],
-      "url": "https://www.icsmart.cn/144546",
-      "source": "icsmart.cn",
-      "category": "芯片硬件",
-      "importance": 4,
-      "publishedAt": "2026-11-25T13:00:00Z"
     }
   ],
-  "today": [
-    {
-      "id": "2c6401b5792a",
-      "title": "Will DeepSeek beat Anthropic and OpenAI?",
-      "summary": "DeepSeek releases its new and cheapest model , claiming to beat Anthropic and OpenAI",
-      "highlights": [
-        "DeepSeek releases its new and cheapest model , claiming to beat Anthropic and OpenAI"
-      ],
-      "url": "https://www.reddit.com/r/DeepSeek/comments/1y4pqq4/will_deepseek_beat_anthropic_and_openai",
-      "source": "reddit.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-11-27T01:11:59Z"
-    },
-    {
-      "id": "1b4845e24fa3",
-      "title": "OpenAI",
-      "summary": "# OpenAI\nID: p4PyTakV77G9\nWebsite: www.openai.com\nHeadquarters: San Francisco, CA, United States\nLinkedIn: www.linkedin.com/company/openai · 11,730,323 followers\nIndustry: Research Services\nIndustry c...",
-      "highlights": [
-        "ID: p4PyTakV77G9",
-        "Website: www.openai.com",
-        "Headquarters: San Francisco, CA, United States"
-      ],
-      "url": "https://tavily.com/knowledge/company/p4PyTakV77G9",
-      "source": "tavily.com",
-      "category": "模型发布",
-      "importance": 4,
-      "publishedAt": "2026-11-27T01:11:59Z"
-    }
-  ],
-  "week": [
-    {
-      "id": "84cfd1b9e3c3",
-      "title": "Even the best AI agents struggle with everyday life - TechCrunch",
-      "summary": "But new research suggests that even the most advanced AI models struggle to reliably and safely navigate the messy details of people’s lives. According to ShellBench, a new benchmark for everyday agen...",
-      "highlights": [
-        "But new research suggests that even the most advanced AI models struggle to reliably and safely navigate the messy details of people’s lives. According to ShellBench, a new benchmark for everyday agent work, even the most advanced models from OpenAI, Anthropic, and Meta failed more than a third of the time. ShellBench was developed in collaboration with researchers at The OpenClaw Foundation, Parsewave, Hugging Face, Red Hat, and UC Berkeley, drawing on more than 10 million anonymized, real-world AI agent interactions to see how agents perform on the everyday work people actually delegate to them. The research comes as personal AI assistants are finding new popularity among developers, with Meta, OpenAI, and Anthropic all fighting for a piece of the market with Muse, Dots, and Claude Duet, respectively. In October, Meta said more than 10 million people in the U.S. and Canada had set up its personal AI agent, Muse, within six weeks of launch, with about a quarter using it daily."
-      ],
-      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "source": "techcrunch.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-24T21:33:29Z"
-    },
-    {
-      "id": "b6ddfb064928",
-      "title": "Insider Tech on Facebook: \"OpenAI, Google, and Anthropic are using AI to design custom chips, potentially weakening Nvidia's gr…\"",
-      "summary": "# Insider Tech on Facebook: \"OpenAI, Google, and Anthropic are using AI to design custom chips, potentially weakening Nvidia's gr…\"\n\nOpenAI, Google, and Anthropic are using AI to design custom chips, ...",
-      "highlights": [
-        "# Insider Tech on Facebook: \"OpenAI, Google, and Anthropic are using AI to design custom chips, potentially weakening Nvidia's gr…\"",
-        "OpenAI, Google, and Anthropic are using AI to design custom chips, potentially weakening Nvidia's grip on AI computing.",
-        "(Credit: AP)"
-      ],
-      "url": "https://www.facebook.com/techinsider/posts/openai-google-and-anthropic-are-using-ai-to-design-custom-chips-potentially-weak/1512129157453222",
-      "source": "facebook.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-24T19:01:28Z"
-    },
+  "month": [
     {
       "id": "b6389acad79d",
       "title": "从单点冲高到按需分工，11月大模型竞争的四个变化-36氪",
@@ -575,36 +846,6 @@
       "category": "具身智能",
       "importance": 5,
       "publishedAt": "2026-11-25T10:32:58Z"
-    },
-    {
-      "id": "5fbc9f1de7a0",
-      "title": "最强95后兄弟，公司卖了500亿-36氪",
-      "summary": "与此同时，亚马逊正加大自研AI芯片Trainium的投入，希望降低客户对英伟达GPU的依赖。\n\n但造出芯片只是第一步。\n\n英伟达除了硬件性能优势，还拥有成熟的CUDA软件生态，大量AI模型和开发工具都围绕它构建。客户如果切换到其他芯片，往往需要重新适配软件，承担额外成本。\n\nDecart的优化技术，能够帮助亚马逊解决部分适配和效率问题。\n\n双方早在2025年就开始合作。去年12月，亚马逊发布Tra...",
-      "highlights": [
-        "与此同时，亚马逊正加大自研AI芯片Trainium的投入，希望降低客户对英伟达GPU的依赖",
-        "英伟达除了硬件性能优势，还拥有成熟的CUDA软件生态，大量AI模型和开发工具都围绕它构建",
-        "客户如果切换到其他芯片，往往需要重新适配软件，承担额外成本"
-      ],
-      "url": "https://36kr.com/p/4085096913283460",
-      "source": "36kr.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-25T01:00:00Z"
-    },
-    {
-      "id": "e2e0a029475f",
-      "title": "首席财务官的风险管理体系：B轮融资与S-1申报之间会出现哪些问题 | Foley & Lardner",
-      "summary": "汤姆的观点是当晚最犀利的。 大多数公司会制定一份内部销售计划、一份董事会计划、一份保守的贷款方计划，然后在公开指引中再打个折扣。这纯属噪音。只需制定一份包含真实置信区间的计划，将那些可能性大于50%的机遇纳入其中，并以此为依据进行指引。如果市场抱怨你每次超预期仅3%，那说明你做得恰到好处。波动性会降低，股东诉讼的风险也会随之降低，因为你做到了言出必行。\n\n## 3. 不要放大事态。\n\nArmen在...",
-      "highlights": [
-        "汤姆的观点是当晚最犀利的",
-        "大多数公司会制定一份内部销售计划、一份董事会计划、一份保守的贷款方计划，然后在公开指引中再打个折扣",
-        "只需制定一份包含真实置信区间的计划，将那些可能性大于50%的机遇纳入其中，并以此为依据进行指引"
-      ],
-      "url": "https://www.foley.com/zh/insights/publications/2026/11/the-cfos-risk-stack-what-breaks-between-series-b-and-the-s-1",
-      "source": "foley.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-24T20:52:51Z"
     },
     {
       "id": "ed51f018078a",
@@ -678,169 +919,6 @@
       "category": "投并购",
       "importance": 5,
       "publishedAt": "2026-11-25T15:00:00Z"
-    },
-    {
-      "id": "92e572c57ffb",
-      "title": "从技术突破到规模应用 小鹏探索物理AI产业化新路径-经济参考网 _ 新华社《经济参考报》官方网站",
-      "summary": "11月25日，第八届小鹏科技日在广州举行。围绕物理AI从技术创新走向产业化，小鹏发布了贯通模型、控制与硬件的图灵具身智能架构，以及智能驾驶、Robotaxi、人形机器人IRON等业务的最新进展。\n\n与生成文字、图像的能力不同，当AI开始驾驶汽车、操控机器人、参与现实生产与服务，其竞争焦点不再只是模型能否理解和判断，还包括能否在复杂环境中安全、稳定地行动，以及能否以可控成本实现规模应用。对此，小鹏集...",
-      "highlights": [
-        "11月25日，第八届小鹏科技日在广州举行",
-        "围绕物理AI从技术创新走向产业化，小鹏发布了贯通模型、控制与硬件的图灵具身智能架构，以及智能驾驶、Robotaxi、人形机器人IRON等业务的最新进展",
-        "与生成文字、图像的能力不同，当AI开始驾驶汽车、操控机器人、参与现实生产与服务，其竞争焦点不再只是模型能否理解和判断，还包括能否在复杂环境中安全、稳定地行动，以及能否以可控成本实现规模应用"
-      ],
-      "url": "http://jjckb.xinhuanet.com/20261126/c807f760e28a4fd09f47af779b01e312/c.html",
-      "source": "jjckb.xinhuanet.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-11-26T00:00:00Z"
-    }
-  ],
-  "month": [
-    {
-      "id": "84cfd1b9e3c3",
-      "title": "Even the best AI agents struggle with everyday life - TechCrunch",
-      "summary": "But new research suggests that even the most advanced AI models struggle to reliably and safely navigate the messy details of people’s lives. According to ShellBench, a new benchmark for everyday agen...",
-      "highlights": [
-        "But new research suggests that even the most advanced AI models struggle to reliably and safely navigate the messy details of people’s lives. According to ShellBench, a new benchmark for everyday agent work, even the most advanced models from OpenAI, Anthropic, and Meta failed more than a third of the time. ShellBench was developed in collaboration with researchers at The OpenClaw Foundation, Parsewave, Hugging Face, Red Hat, and UC Berkeley, drawing on more than 10 million anonymized, real-world AI agent interactions to see how agents perform on the everyday work people actually delegate to them. The research comes as personal AI assistants are finding new popularity among developers, with Meta, OpenAI, and Anthropic all fighting for a piece of the market with Muse, Dots, and Claude Duet, respectively. In October, Meta said more than 10 million people in the U.S. and Canada had set up its personal AI agent, Muse, within six weeks of launch, with about a quarter using it daily."
-      ],
-      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "source": "techcrunch.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-24T21:33:29Z"
-    },
-    {
-      "id": "b6ddfb064928",
-      "title": "Insider Tech on Facebook: \"OpenAI, Google, and Anthropic are using AI to design custom chips, potentially weakening Nvidia's gr…\"",
-      "summary": "# Insider Tech on Facebook: \"OpenAI, Google, and Anthropic are using AI to design custom chips, potentially weakening Nvidia's gr…\"\n\nOpenAI, Google, and Anthropic are using AI to design custom chips, ...",
-      "highlights": [
-        "# Insider Tech on Facebook: \"OpenAI, Google, and Anthropic are using AI to design custom chips, potentially weakening Nvidia's gr…\"",
-        "OpenAI, Google, and Anthropic are using AI to design custom chips, potentially weakening Nvidia's grip on AI computing.",
-        "(Credit: AP)"
-      ],
-      "url": "https://www.facebook.com/techinsider/posts/openai-google-and-anthropic-are-using-ai-to-design-custom-chips-potentially-weak/1512129157453222",
-      "source": "facebook.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-24T19:01:28Z"
-    },
-    {
-      "id": "b6389acad79d",
-      "title": "从单点冲高到按需分工，11月大模型竞争的四个变化-36氪",
-      "summary": "# 从单点冲高到按需分工，11月大模型竞争的四个变化\n\n> 从训练出一款更强的模型，转向设计一套能够持续生产、分配并变现智能的系统。\n\n2026年11月，大模型厂商开始了一轮新模型的「扎堆」发布。这次已经没人再单纯强调模型变得更「聪明」，而是都在强调更具体的优化方向、应用场景和成本优势。\n\n在海外，完成上市的Anthropic推出面向网络安全与生命科学研究的Claude Mythos 5.2和面向...",
-      "highlights": [
-        "# 从单点冲高到按需分工，11月大模型竞争的四个变化",
-        "> 从训练出一款更强的模型，转向设计一套能够持续生产、分配并变现智能的系统",
-        "2026年11月，大模型厂商开始了一轮新模型的「扎堆」发布"
-      ],
-      "url": "https://www.36kr.com/p/4084981247841927",
-      "source": "36kr.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-25T12:46:43Z"
-    },
-    {
-      "id": "5959f7c7d292",
-      "title": "The Bank of Nvidia Is Back - Business Insider",
-      "summary": "You’re reading the November 25 edition of VC Insider. Sign up to receive a free preview of this weekly newsletter in your inbox. Katie digs into what his return and Anthropic’s IPO mean for the VC ind...",
-      "highlights": [
-        "You’re reading the November 25 edition of VC Insider. Sign up to receive a free preview of this weekly newsletter in your inbox. Katie digs into what his return and Anthropic’s IPO mean for the VC industry. It’s been the most eventful month for AI since the launch of ChatGPT, and somehow the news keeps going. I spoke to AI investor Sarah Guo, founder of Conviction, about Jensen Huang’s dramatic return to the helm of Nvidia. “For all his mistakes, Huang is the best person to lead the world’s most important company right now,” she told me. Now that Jensen’s back, he is expected to resume his role as a kingmaker, acquiring and investing in AI startups. Startups that have grown dependent on Nvidia’s big checks have a lot to be thankful for this Thanksgiving. As investors poured money into AI, companies that rode the last venture boom found themselves on the clearance rack, selling for a fraction of the valuations they commanded when growth was king, and an agent was someone who booked your flights."
-      ],
-      "url": "https://www.businessinsider.com/vc-insider-bank-of-nvidia-is-back-2026-11",
-      "source": "businessinsider.com",
-      "category": "模型发布",
-      "importance": 5,
-      "publishedAt": "2026-11-25T14:58:01Z"
-    },
-    {
-      "id": "becb69ed4862",
-      "title": "小鹏科技日：L4级Robotaxi正式载客，人形机器人IRON登台演讲，明年1月起量产_搜狐汽车_搜狐网",
-      "summary": "### 小鹏科技日：L4级Robotaxi正式载客，人形机器人IRON登台演讲，明年1月起量产\n\n小鹏汽车正加快推进自动驾驶、具身智能与补能技术落地。11月25日举行的2026小鹏科技日上，Robotaxi、人形机器人及新一代智能驾驶技术集中亮相，多项业务披露最新进展。\n\n当天，小鹏汽车宣布L4级Robotaxi正式开启主驾无人载客体验，首款面向个人消费者的定制车型YOYO-01计划于2027年发...",
-      "highlights": [
-        "### 小鹏科技日：L4级Robotaxi正式载客，人形机器人IRON登台演讲，明年1月起量产",
-        "小鹏汽车正加快推进自动驾驶、具身智能与补能技术落地",
-        "11月25日举行的2026小鹏科技日上，Robotaxi、人形机器人及新一代智能驾驶技术集中亮相，多项业务披露最新进展"
-      ],
-      "url": "https://www.sohu.com/a/1106250111_130887?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-      "source": "sohu.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-25T08:00:00Z"
-    },
-    {
-      "id": "de891c9404d7",
-      "title": "小鹏发布图灵具身智能架构 人形机器人IRON进入上市准备最后阶段_创事记_新浪科技_新浪网",
-      "summary": "作为这套架构的关键部分，第二代 VLA 已在量产车型中持续迭代。据小鹏披露，第二代 VLA 正式推送首月，辅助驾驶里程占比突破 50%。2026 年 7 月起，搭载第二代 VLA 的小鹏NGP先后在德国、荷兰、法国完成本地性泛化测试；11 月，小鹏 NGP 开启法国巴黎门店试驾，成为首家在欧洲开放高阶智驾面向公众体验的中国车企。从国内规模应用到海外道路验证，第二代 VLA 持续接受不同交通环境的检...",
-      "highlights": [
-        "作为这套架构的关键部分，第二代 VLA 已在量产车型中持续迭代",
-        "据小鹏披露，第二代 VLA 正式推送首月，辅助驾驶里程占比突破 50%",
-        "2026 年 7 月起，搭载第二代 VLA 的小鹏NGP先后在德国、荷兰、法国完成本地性泛化测试；11 月，小鹏 NGP 开启法国巴黎门店试驾，成为首家在欧洲开放高阶智驾面向公众体验的中国车企"
-      ],
-      "url": "https://finance.sina.com.cn/tech/csj/2026-11-25/doc-inizyeha8562475.shtml",
-      "source": "finance.sina.com.cn",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-11-25T13:00:00Z"
-    },
-    {
-      "id": "2285a5a2397b",
-      "title": "小鹏最新人形机器人来了！今年研发花了30亿，明年1月量产 - 智东西",
-      "summary": "但他也提到，IRON首发时仍有一些能力需要继续完善。例如，目前具备防泼水设计，但还不具备防雨能力，暂时不能在雨天户外工作；手部能力也仍在持续建设中，暂时无法使用非常多的工具。\n\n后续，IRON的具体商业模式和收费细节，计划在明年的正式发布会上公布。\n\n最后，何小鹏提出了自己的预测，未来，车企最大的威胁来自于掌握了机器人所有能力的公司。\n\n## 结语：机器人业务不断发展，能力边界仍需拓展\n\n2024...",
-      "highlights": [
-        "但他也提到，IRON首发时仍有一些能力需要继续完善",
-        "例如，目前具备防泼水设计，但还不具备防雨能力，暂时不能在雨天户外工作；手部能力也仍在持续建设中，暂时无法使用非常多的工具",
-        "后续，IRON的具体商业模式和收费细节，计划在明年的正式发布会上公布"
-      ],
-      "url": "https://m.zhidx.com/p/614174.html",
-      "source": "m.zhidx.com",
-      "category": "具身智能",
-      "importance": 5,
-      "publishedAt": "2026-11-25T10:32:58Z"
-    },
-    {
-      "id": "5fbc9f1de7a0",
-      "title": "最强95后兄弟，公司卖了500亿-36氪",
-      "summary": "与此同时，亚马逊正加大自研AI芯片Trainium的投入，希望降低客户对英伟达GPU的依赖。\n\n但造出芯片只是第一步。\n\n英伟达除了硬件性能优势，还拥有成熟的CUDA软件生态，大量AI模型和开发工具都围绕它构建。客户如果切换到其他芯片，往往需要重新适配软件，承担额外成本。\n\nDecart的优化技术，能够帮助亚马逊解决部分适配和效率问题。\n\n双方早在2025年就开始合作。去年12月，亚马逊发布Tra...",
-      "highlights": [
-        "与此同时，亚马逊正加大自研AI芯片Trainium的投入，希望降低客户对英伟达GPU的依赖",
-        "英伟达除了硬件性能优势，还拥有成熟的CUDA软件生态，大量AI模型和开发工具都围绕它构建",
-        "客户如果切换到其他芯片，往往需要重新适配软件，承担额外成本"
-      ],
-      "url": "https://36kr.com/p/4085096913283460",
-      "source": "36kr.com",
-      "category": "芯片硬件",
-      "importance": 5,
-      "publishedAt": "2026-11-25T01:00:00Z"
-    },
-    {
-      "id": "e2e0a029475f",
-      "title": "首席财务官的风险管理体系：B轮融资与S-1申报之间会出现哪些问题 | Foley & Lardner",
-      "summary": "汤姆的观点是当晚最犀利的。 大多数公司会制定一份内部销售计划、一份董事会计划、一份保守的贷款方计划，然后在公开指引中再打个折扣。这纯属噪音。只需制定一份包含真实置信区间的计划，将那些可能性大于50%的机遇纳入其中，并以此为依据进行指引。如果市场抱怨你每次超预期仅3%，那说明你做得恰到好处。波动性会降低，股东诉讼的风险也会随之降低，因为你做到了言出必行。\n\n## 3. 不要放大事态。\n\nArmen在...",
-      "highlights": [
-        "汤姆的观点是当晚最犀利的",
-        "大多数公司会制定一份内部销售计划、一份董事会计划、一份保守的贷款方计划，然后在公开指引中再打个折扣",
-        "只需制定一份包含真实置信区间的计划，将那些可能性大于50%的机遇纳入其中，并以此为依据进行指引"
-      ],
-      "url": "https://www.foley.com/zh/insights/publications/2026/11/the-cfos-risk-stack-what-breaks-between-series-b-and-the-s-1",
-      "source": "foley.com",
-      "category": "投并购",
-      "importance": 5,
-      "publishedAt": "2026-11-24T20:52:51Z"
-    },
-    {
-      "id": "ed51f018078a",
-      "title": "小鹏发布图灵具身智能架构 IRON明年进店|机器人|自动驾驶|iron|小鹏汽车|知名企业_网易订阅",
-      "summary": "作为架构的重要组成部分，第二代VLA也迎来升级。据介绍，最新模型版本6.4.0已实现Agent自主闭环训练，整体训练速度提升10-12倍，同时具备递归自我进化能力（RSI）与模型自我蒸馏能力。量产应用方面，第二代VLA正式推送首月，辅助驾驶里程占比突破50%。2026年7月起，搭载该模型的小鹏NGP先后在德国、荷兰、法国完成本地化泛化测试，11月还开启法国巴黎门店试驾。\n\n此外，第二代VLA Li...",
-      "highlights": [
-        "作为架构的重要组成部分，第二代VLA也迎来升级",
-        "据介绍，最新模型版本6.4.0已实现Agent自主闭环训练，整体训练速度提升10-12倍，同时具备递归自我进化能力（RSI）与模型自我蒸馏能力",
-        "量产应用方面，第二代VLA正式推送首月，辅助驾驶里程占比突破50%"
-      ],
-      "url": "https://www.163.com/dy/article/LCJOOB680527D0EQ.html",
-      "source": "163.com",
-      "category": "产品进展",
-      "importance": 5,
-      "publishedAt": "2026-11-25T10:35:05Z"
     }
   ]
 }
